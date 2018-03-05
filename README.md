@@ -17,7 +17,9 @@ Generates time-based transcripts from parliamentary protocols published via the 
 
 #### Step 1: Install Aeneas
 
-(see [https://github.com/readbeyond/aeneas/blob/master/wiki/INSTALL.md](https://github.com/readbeyond/aeneas/blob/master/wiki/INSTALL.md))
+See [https://github.com/readbeyond/aeneas/blob/master/wiki/INSTALL.md](https://github.com/readbeyond/aeneas/blob/master/wiki/INSTALL.md).
+
+For Mac OS, there is an all-in-one installer, which takes care of the dependencies: [https://github.com/sillsdev/aeneas-installer/releases](https://github.com/sillsdev/aeneas-installer/releases).
 
 #### Step 2: Input files (XML)
 
@@ -45,3 +47,4 @@ The generated JSON, XML and HTML files are saved inside `_server/output/`.
 - Media IDs can only be scraped for single speeches. Agenda items (Tagesordnungspunkte) and entire meetings (Sitzungen) also exist as media files, but are currently not retrieved automatically. In order to get transcripts for single agenda items, look up the Media ID via the [Bundestag Mediathek](https://www.bundestag.de/mediathek) (-> Download -> MP3 -> first 7 digits of the filename) and manually add an attribute `media-id` to the XML node (example: `<tagesordnungspunkt top-id="Tagesordnungspunkt 1" media-id="1234567">`). We hope to automate this process in future developments.
 - In the XML format, there is currently no differentiation between actual speeches (for which a media file exists) and other speaker contributions, for example during electoral proceedings (eg. "Wahl des Bundestagspräsidenten") or discussion formats (eg. "Befragung der Bundesregierung", "Fragestunde"). Thus, there is sometimes no or a wrong Media ID assigned to the `<rede>` nodes. We aim to identify and filter these in future developments.
 - The forced alignment tool is configured for German language. If a speaker chooses to talk in special dialects like "Plattdütsch" (eg. [(https://dbtg.tv/fvid/7206225)](https://dbtg.tv/fvid/7206225), the algorithm might have problems aligning the words.
+- Make sure the `_server/input/audio` and `_server/output` directories exist and are writable
