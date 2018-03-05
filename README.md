@@ -31,9 +31,10 @@ Use [_server/scrapeMediaIDs.php](_server/scrapeMediaIDs.php) to scrape Media IDs
 **Explaination:**
 During the forced alignment process, we need access to a local copy of the respective audio file (depending on a single speech, agenda item or entire meeting). In order to show a preview upon completion, we also needs to get the remote URL of the video file. Both file URLs can be retrieved when the Media ID is known. As Media IDs are not included in the original XML files from [https://www.bundestag.de/service/opendata](https://www.bundestag.de/service/opendata), we need to scrape them from the Bundestag Mediathek RSS Feed and write them to the respective XML nodes (eg. `<rede [...] media-id="1234567">`).
 
-#### Step 4: Force align XML & Audio
+#### Step 4: Generate Video-Transcript (Force align XML & Audio)
 
 Go to `http://localhost/VideoTranscriptGenerator/index.html` (or wherever you placed the scripts) -> Choose XML file -> Optionally choose agenda item or single speech -> Generate Video-Transcript -> DONE!
+
 The generated JSON, XML and HTML files are saved inside `_server/output/`.
 
 -----------------
