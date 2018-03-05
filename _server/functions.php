@@ -179,7 +179,7 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 				}
 
 				if (!file_exists($conf['output'].$xmlFileNameArray[0].$fileNameSuffix.'_timings.json')) {
-					$response = array(  'message' => 'JSON timings file not found. Force align necessary.', 
+					$response = array(  'message' => 'JSON timings file not yet generated. Starting forced alignment.', 
 										'task' => 'forcealign',
 										'status' => '',
 										'progress' => 0);
@@ -368,7 +368,7 @@ function forceAlignAudio($audioFilePath, $optimisedXMLFilePath, $outputFilePath)
 						'status' => '',
 						'progress' => 60);
 	echo json_encode($response);
-	
+
 	$aeneasExecuteTask = preg_split('/(__init__.pyc)/', $aeneasToolsPath)[0].'execute_task.pyc';
 	$pythonAeneasPathArray = preg_split('/(\\/lib)/',$aeneasExecuteTask);
 	$env = $pythonAeneasPathArray[0].'/bin';
@@ -404,13 +404,13 @@ function forceAlignAudio($audioFilePath, $optimisedXMLFilePath, $outputFilePath)
 	$output = exec($command);
 	
 	if (strpos($output, '[INFO] Created file ') !== false) {
-		$response = array(  'message' => 'Force Align success. Aeneas Output: '.$output, 
+		$response = array(  'message' => 'Force align success. Aeneas Output: '.$output, 
 							'task' => 'forcealign',
 							'status' => 'success',
 							'progress' => 100);
 		echo json_encode($response);
 	} else {
-		$response = array(  'message' => 'Force Align error. Output: '.$output, 
+		$response = array(  'message' => 'Force align error. Output: '.$output, 
 							'task' => 'forcealign',
 							'status' => 'error',
 							'progress' => 40);
