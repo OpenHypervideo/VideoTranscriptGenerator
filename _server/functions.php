@@ -43,6 +43,8 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 	
 	sleep(1);
 
+	checkDirectories();
+
 	if (file_exists($XMLFilePath)) {
 		
 		$shortXMLPath = explode($conf['inputXML'],$XMLFilePath)[1];
@@ -518,6 +520,57 @@ function disable_ob() {
         apache_setenv('no-gzip', '1');
         apache_setenv('dont-vary', '1');
     }
+}
+
+function checkDirectories() {
+
+	global $conf;
+
+	if (!is_writable($conf['inputXML'])) {
+		if (!mkdir($conf['inputXML'])) {
+			$response = array(  'message' => 'Directory missing: '.$conf['inputXML'].' Please make sure it exists and is writable.', 
+								'task' => 'Generate Directories',
+								'status' => 'error',
+								'progress' => 0);
+			echo json_encode($response);
+
+			sleep(1);
+			exit();
+		} else {
+			chmod($conf['inputXML'], 0755);
+		}
+	}
+
+	if (!is_writable($conf['inputAudio'])) {
+		if (!mkdir($conf['inputAudio'])) {
+			$response = array(  'message' => 'Directory missing: '.$conf['inputAudio'].' Please make sure it exists and is writable.', 
+								'task' => 'Generate Directories',
+								'status' => 'error',
+								'progress' => 0);
+			echo json_encode($response);
+
+			sleep(1);
+			exit();
+		} else {
+			chmod($conf['inputAudio'], 0755);
+		}
+	}
+
+	if (!is_writable($conf['output'])) {
+		if (!mkdir($conf['output'])) {
+			$response = array(  'message' => 'Directory missing: '.$conf['output'].' Please make sure it exists and is writable.', 
+								'task' => 'Generate Directories',
+								'status' => 'error',
+								'progress' => 0);
+			echo json_encode($response);
+
+			sleep(1);
+			exit();
+		} else {
+			chmod($conf['output'], 0755);
+		}
+	}
+
 }
 
 ?>

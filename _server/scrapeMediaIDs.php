@@ -5,6 +5,19 @@ date_default_timezone_set('CET');
 ob_implicit_flush(true);
 ob_end_flush();
 
+// Check XML directory
+
+if (!is_writable('input/xml/')) {
+	if (!mkdir('input/xml/')) {
+		echo 'input/xml/ directory missing. Make sure it exists and is writable.';
+
+		sleep(1);
+		exit();
+	} else {
+		chmod('input/xml/', 0755);
+	}
+}
+
 // Loop through all xml files and get media IDs
 
 $fileArray = array_values(array_diff(scandir('input/xml/'), array('.', '..', '.DS_Store')));
