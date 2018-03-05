@@ -1,10 +1,9 @@
 <?php
-
-require_once('./functions.php');
-
 header('Cache-Control: no-cache, must-revalidate');
 header('Expires: Mon, 26 Jul 2020 05:00:00 GMT');
 header('Content-type: application/json');
+
+require_once('./functions.php');
 
 $return['status'] = 'fail';
 $return['code'] = '404';
