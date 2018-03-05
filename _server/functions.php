@@ -12,6 +12,8 @@ ob_end_flush();
 $conf['inputXML'] = 'input/xml/';
 $conf['inputAudio'] = 'input/audio/';
 $conf['output'] = 'output/';
+$conf['pythonVersion'] = '2.7';
+
 
 /**
  * @param $XMLFilePath
@@ -333,16 +335,42 @@ function forceAlignAudio($audioFilePath, $optimisedXMLFilePath, $outputFilePath)
 	$secureAudioPath = escapeshellcmd($audioFilePath);
 	$secureXMLPath = escapeshellcmd($optimisedXMLFilePath);
 	$secureOutputPath = escapeshellcmd($outputFilePath);
+	$exec_enabled =
+	   function_exists('exec') &&
+	   !in_array('exec', array_map('trim', explode(', ', ini_get('disable_functions')))) &&
+	   strtolower(ini_get('safe_mode')) != 1
+	;
 
-	$response = array(  'message' => 'Force aligning '.$secureAudioPath.' with '.$shortXMLPath.'...', 
-						'task' => 'forcealign',
-						'status' => '',
-						'progress' => 60);
-	echo json_encode($response);
+	if (!$exec_enabled) {
+		$response = array(  'message' => 'PHP shell exec not allowed. Aeneas can not be executed.', 
+							'task' => 'forcealign',
+							'status' => 'error',
+							'progress' => 40);
+		echo json_encode($response);
+		sleep(1);
+		exit();
+	}
 	
-	//echo exec('echo $PATH');
+	$aeneasToolsPath = exec('python'.$conf['pythonVersion'].' -c "import aeneas.tools; print aeneas.tools.__file__"');
 
-	$command = 'export PYTHONIOENCODING=UTF-8 && export PATH=$PATH:/usr/local/bin && python -m aeneas.tools.execute_task '.$secureAudioPath.' '.$secureXMLPath.' "task_language=deu|os_task_file_format=json|is_text_type=unparsed|is_text_unparsed_id_regex=s[0-9]+|is_text_unparsed_id_sort=numeric|task_adjust_boundary_no_zero=true|task_adjust_boundary_nonspeech_min=2|task_adjust_boundary_nonspeech_string=REMOVE" '.$secureOutputPath.'';
+	if (strlen($aeneasToolsPath) == 0) {
+		$response = array(  'message' => 'Aeneas not found. Please install Aeneas.', 
+							'task' => 'forcealign',
+							'status' => 'error',
+							'progress' => 40);
+		echo json_encode($response);
+		sleep(1);
+		exit();
+	}
+
+	$aeneasExecuteTask = preg_split('/(__init__.pyc)/', $aeneasToolsPath)[0].'execute_task.pyc';
+	$pythonAeneasPathArray = preg_split('/(\\/lib)/',$aeneasExecuteTask);
+	$env = $pythonAeneasPathArray[0].'/bin';
+
+	// only applied temporarily for this request
+	putenv('PATH=$PATH:'.$env);
+
+	$command = 'export PYTHONIOENCODING=UTF-8 && '.$env.'/python'.$conf['pythonVersion'].' '.$aeneasExecuteTask.' '.$secureAudioPath.' '.$secureXMLPath.' "task_language=deu|os_task_file_format=json|is_text_type=unparsed|is_text_unparsed_id_regex=s[0-9]+|is_text_unparsed_id_sort=numeric|task_adjust_boundary_no_zero=true|task_adjust_boundary_nonspeech_min=2|task_adjust_boundary_nonspeech_string=REMOVE" '.$secureOutputPath.' 2>&1';
 	
 	//|task_adjust_boundary_algorithm=rateaggressive
 	//|task_adjust_boundary_rate_value=21
@@ -369,8 +397,14 @@ function forceAlignAudio($audioFilePath, $optimisedXMLFilePath, $outputFilePath)
 	
 	$output = exec($command);
 	
-	if (strpos($output, '[ERRO]') !== false) {
-		$response = array(  'message' => 'Force Align error. Aeneas Output: '.$output, 
+	if (strpos($output, '[INFO] Created file ') !== false) {
+		$response = array(  'message' => 'Force Align success. Aeneas Output: '.$output, 
+							'task' => 'forcealign',
+							'status' => 'success',
+							'progress' => 100);
+		echo json_encode($response);
+	} else {
+		$response = array(  'message' => 'Force Align error. Output: '.$output, 
 							'task' => 'forcealign',
 							'status' => 'error',
 							'progress' => 40);
@@ -378,13 +412,6 @@ function forceAlignAudio($audioFilePath, $optimisedXMLFilePath, $outputFilePath)
 
 		sleep(1);
 		exit();
-
-	} else {
-		$response = array(  'message' => 'Force Align success. Aeneas Output: '.$output, 
-							'task' => 'forcealign',
-							'status' => 'success',
-							'progress' => 100);
-		echo json_encode($response);
 	}
 	
 }
