@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head class="html5">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
+		<title>Video-Transkript Generator für Plenarprotokolle des Bundestages</title>
+
+		<meta name="description" content="">
+	    <meta property="og:title" content="Video-Transkript Generator für Plenarprotokolle des Bundestages" />
+	    <meta property="og:url" content="https://URL" />
+	    <meta property="og:type" content="website" />
+	    <meta property="og:image" content="https://URL/_client/img/screenshot.png" />
+	    <meta property="og:description" content="" />
+	    
+	    <meta name="twitter:card" content="summary_large_image">
+	    <meta name="twitter:site" content="@OpenHypervideo">
+	    <meta name="twitter:title" content="Video-Transkript Generator für Plenarprotokolle des Bundestages">
+	    <meta name="twitter:description" content="">
+	    <meta name="twitter:image" content="https://URL/_client/img/screenshot.png">
+	    <link rel="icon" type="image/png" href="favicon.png" />
+		
+		<link rel="stylesheet" href="./_client/css/bootstrap.min.css">
+		<link rel="stylesheet" href="./_client/css/style.css">
+		
+		<script type="text/javascript" src="./_client/js/jquery-2.2.1.min.js"></script>
+		<script type="text/javascript" src="./_client/js/bootstrap.min.js"></script>
+		
+		<script type="text/javascript" src="./_client/js/main.js"></script>
+		
+		<!--
+			[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+			<![endif]
+		-->
+		
+	</head>
+	<body>
+		
+		<div class="container">
+			<div class="row">
+				<div class="col-xs-12">
+					<h3>Video-Transkript Generator für Plenarprotokolle des Bundestages</h3>
+				</div>
+			</div>
+			<ul class="nav nav-tabs">
+				<li class="active"><a data-toggle="tab" href="#inputContainer"><b>Input</b></a></li>
+				<li><a data-toggle="tab" href="#outputContainer"><b>Output</b></a></li>
+			</ul>
+			<div class="tab-content container">
+				<div id="inputContainer" class="tab-pane fade in active">
+					<div class="row">
+						<div class="col-xs-12">
+							<h4>Schritt 1: Wähle eine XML Datei</h4>
+							<div id="fileContents">
+								<ul id="fileList"></ul>
+							</div>
+							<hr>
+							<h4>Schritt 2 (optional): Wähle einen Tagesordnungspunkt oder eine einzelne Rede</h4>
+							<div id="xmlContents"></div>
+							<hr>
+							<button disabled id="startProcessing" class="btn btn-default">Video-Transkript generieren</button>
+						</div>
+					</div>
+				</div>
+				<div id="outputContainer" class="tab-pane fade in">
+					<div class="row">
+						<div class="col-xs-12">
+							<h4>Status</h4>
+							<div id="status"></div>
+							<div>Get Audio: <span id="audioOK" class="glyphicon glyphicon-ok"></span></div>
+							<div class="progressContainer">
+								<div class="progressIndicator" id="loadingProgress"></div>
+							</div>
+							<div>Force Align Text & Audio: <span id="forceAlignOK" class="glyphicon glyphicon-ok"></span></div>
+							<div class="progressContainer">
+								<div class="progressIndicator" id="forceAlignProgress"></div>
+							</div>
+						</div>
+					</div>
+					<hr>
+					<div class="row">
+						<div class="col-xs-12">
+							<h4>Preview</h4>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-12 col-sm-7">
+							<div id="video"></div>
+						</div>
+						<div class="col-xs-12 col-sm-5">
+							<div id="transcript">
+								<div class="customhtmlContainer"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+
+	</body>
+</html>

@@ -1,0 +1,30 @@
+# Mac OS X
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+.directory
+
+# Logs
+logs
+_logs/
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+.idea/
+
+# Media files
+*.m4v
+*.mp4
+*.webm
+*.mov
+*.mpg
+*.mp3
+
+#output folder
+_server/output/
+
