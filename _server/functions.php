@@ -363,6 +363,12 @@ function forceAlignAudio($audioFilePath, $optimisedXMLFilePath, $outputFilePath)
 		exit();
 	}
 
+	$response = array(  'message' => 'Force aligning '.$secureAudioPath.' with '.$secureXMLPath.'...', 
+						'task' => 'forcealign',
+						'status' => '',
+						'progress' => 60);
+	echo json_encode($response);
+	
 	$aeneasExecuteTask = preg_split('/(__init__.pyc)/', $aeneasToolsPath)[0].'execute_task.pyc';
 	$pythonAeneasPathArray = preg_split('/(\\/lib)/',$aeneasExecuteTask);
 	$env = $pythonAeneasPathArray[0].'/bin';
