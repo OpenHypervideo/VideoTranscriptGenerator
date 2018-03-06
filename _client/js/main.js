@@ -94,11 +94,15 @@ function getXMLTableOfContents(xmlFilePath) {
 				
 				if (this.nodeName == 'ivz-eintrag') {
 					
-					var listItem = $('<li data-type="'+ getItemCategory($(this)) +'">'+ getCleanTOP($(this).children('ivz-eintrag-inhalt').html()) +'</li>');
+					var listItem = $('<li data-type="'+ getItemCategory($(this)) +'">'+ getCleanTOP($(this).children('ivz-eintrag-inhalt').html(), ($(this).children('xref').length != 0)) +'</li>');
 					
 					if (listItem.attr('data-type') == 'rede') {
 						listItem.attr('data-rede-id', $(this).children('xref').attr('rid'));
 					}
+
+					if ($(this).attr('media-id')) {
+						listItem.attr('data-media-id', $(this).attr('media-id'));
+					} 
 
 					if (!openingEnd) {
 						openingPointsList.append(listItem);
@@ -110,16 +114,20 @@ function getXMLTableOfContents(xmlFilePath) {
 					
 					openingEnd = true;
 
-					inhaltList.append('<li data-type="'+ getItemCategory($(this)) +'">'+ getCleanTOP($(this).children('ivz-block-titel').html()) +'</li>');
+					inhaltList.append('<li data-type="'+ getItemCategory($(this)) +'">'+ getCleanTOP($(this).children('ivz-block-titel').html(), ($(this).children('xref').length != 0)) +'</li>');
 					var levelTwo = $('<ul></ul>');
 
 					$(this).children('ivz-eintrag').each(function() {
 						
-						var listItem = $('<li data-type="'+ getItemCategory($(this)) +'">'+ getCleanTOP($(this).children('ivz-eintrag-inhalt').html()) +'</li>');
+						var listItem = $('<li data-type="'+ getItemCategory($(this)) +'">'+ getCleanTOP($(this).children('ivz-eintrag-inhalt').html(), ($(this).children('xref').length != 0)) +'</li>');
 						
 						if (listItem.attr('data-type') == 'rede') {
 							listItem.attr('data-rede-id', $(this).children('xref').attr('rid'));
 						}
+
+						if ($(this).attr('media-id')) {
+							listItem.attr('data-media-id', $(this).attr('media-id'));
+						} 
 
 						levelTwo.append(listItem);
 
@@ -172,7 +180,11 @@ function getItemCategory(itemElement) {
 	}
 
 	if (searchText.indexOf('<redner') != -1) {
-		category = 'rede';
+		if (itemElement.children('xref').length != 0) {
+			category = 'rede';
+		} else {
+			category = 'zwischenfrage';
+		}
 	} else if (searchText.indexOf('Tagesordnungspunkt') != -1 || searchText.indexOf('Zusatztagesordnungspunkt') != -1) {
 		category = 'top';
 	} else {
@@ -182,12 +194,17 @@ function getItemCategory(itemElement) {
 	return category;
 }
 
-function getCleanTOP(TOPString) {
+function getCleanTOP(TOPString, isSpeech) {
 
 	var cleanString = TOPString;
 	
 	if (TOPString.indexOf('<redner') != -1) {
-		cleanString = 'Rede: '+ TOPString.replace(/(<redner)(.|\n)*?(redner>)/, '');
+		cleanString = TOPString.replace(/(<redner)(.|\n)*?(redner>)/, '');
+		if (isSpeech) {
+			cleanString = 'Rede: '+ cleanString;
+		} else {
+			cleanString = 'Zwischenfrage: '+ cleanString;
+		}
 	}
 
 	return cleanString;
@@ -199,7 +216,7 @@ function updateForceAlignButton() {
 	} else {
 		$('#startProcessing').prop('disabled', true);
 	}
-	console.log(selectedXMLFile, xPath);
+	//console.log(selectedXMLFile, xPath);
 }
 
 function forceAlignXML() {
