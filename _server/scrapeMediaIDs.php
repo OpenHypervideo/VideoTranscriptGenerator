@@ -39,8 +39,6 @@ foreach ($fileArray as $fileName) {
  */
 function getMediaIDs($XMLFilePath) {
 
-	sleep(1);
-
 	if (file_exists($XMLFilePath)) {
 		
 		$xmlData = simplexml_load_file($XMLFilePath);
@@ -164,6 +162,8 @@ function getMediaIDs($XMLFilePath) {
  */
 function getMediaIDfromRSS($wahlperiode, $sitzungsnummer, $top, $vorname, $nachname, $titel) {
 
+	sleep(1);
+
 	// Fix Namen
 	$vorname = str_replace('Alterspräsident ', '', $vorname);
 	$vorname = str_replace('Dr. ', '', $vorname);
@@ -181,8 +181,10 @@ function getMediaIDfromRSS($wahlperiode, $sitzungsnummer, $top, $vorname, $nachn
 		$nachname = $nachnameParts[1];
 	}
 	$vornameParts = explode(' ', $vorname);
-	if (count($vornameParts) == 2 
-			&& $vornameParts[1] == 'Mohamed') {
+	if (count($vornameParts) == 2 && (
+		$vornameParts[1] == 'Mohamed' || 
+		$vornameParts[1] == 'de'
+	)) {
 		$nachname = $vornameParts[1].' '.$nachname;
 		$vorname = $vornameParts[0];
 	}
