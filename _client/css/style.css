@@ -94,6 +94,22 @@ button.btn.btn-default:not([disabled]):hover {
 	padding: 2px 6px;
 }
 
+#xmlContents li {
+	color: #999;
+	pointer-events: none;
+	list-style: none;
+}
+
+#xmlContents li[data-type="zwischenfrage"] {
+	padding-left: 30px;
+}
+
+#xmlContents li[data-media-id] {
+	color: #555;
+	pointer-events: all;
+	list-style: circle;
+}
+
 #fileList li:hover, #xmlContents li:hover, #xmlContents li ul:hover {
 	background: #fff;
 	cursor: pointer;
@@ -102,12 +118,6 @@ button.btn.btn-default:not([disabled]):hover {
 #fileList li.active, #xmlContents li.active, #xmlContents li ul.active {
 	color: #ff7100;
 	background: #fff;
-}
-
-#xmlContents li[data-type="misc"] {
-	color: #999;
-	pointer-events: none;
-	list-style: none;
 }
 
 #xmlContents {
