@@ -1,0 +1,554 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.680", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Das tue ich gerne."
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "children": [], 
+   "end": "8.480", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Bitte."
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "children": [], 
+   "end": "12.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Zun\u00e4chst einmal hatten Sie gefragt, "
+   ]
+  }, 
+  {
+   "begin": "12.440", 
+   "children": [], 
+   "end": "16.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "was ich von der Expertise des Deutschen Richterbundes halte. "
+   ]
+  }, 
+  {
+   "begin": "16.120", 
+   "children": [], 
+   "end": "17.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann nur sagen: "
+   ]
+  }, 
+  {
+   "begin": "17.280", 
+   "children": [], 
+   "end": "17.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "sehr viel. "
+   ]
+  }, 
+  {
+   "begin": "17.920", 
+   "children": [], 
+   "end": "23.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe mich mit dem Deutschen Richterbund \u00fcber diese Sache intensiv beraten. "
+   ]
+  }, 
+  {
+   "begin": "23.080", 
+   "children": [], 
+   "end": "25.720", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Aber beim Deutschen Richterbund merkt man auch, "
+   ]
+  }, 
+  {
+   "begin": "25.720", 
+   "children": [], 
+   "end": "28.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass er sehr durch die Traditionen des deutschen Rechts gepr\u00e4gt ist. "
+   ]
+  }, 
+  {
+   "begin": "28.520", 
+   "children": [], 
+   "end": "31.280", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb habe ich eben darauf hingewiesen, "
+   ]
+  }, 
+  {
+   "begin": "31.280", 
+   "children": [], 
+   "end": "33.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass international andere Traditionen eine Rolle spielen. "
+   ]
+  }, 
+  {
+   "begin": "33.680", 
+   "children": [], 
+   "end": "35.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Da spielt die Tatsache eine Rolle, "
+   ]
+  }, 
+  {
+   "begin": "35.560", 
+   "children": [], 
+   "end": "39.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass der gr\u00f6\u00dfte Teil der Welt nicht von staatlich gesetztem, "
+   ]
+  }, 
+  {
+   "begin": "39.240", 
+   "children": [], 
+   "end": "42.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dem in Parlamenten verabschiedeten Recht gepr\u00e4gt ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "42.600", 
+   "children": [], 
+   "end": "45.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "das ist nicht die Tradition der letzten vielen Hundert Jahre\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "45.840", 
+   "children": [], 
+   "end": "48.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "sondern dort Richterrecht etabliert wurde. "
+   ]
+  }, 
+  {
+   "begin": "48.240", 
+   "children": [], 
+   "end": "51.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Genau diese Tradition ist im V\u00f6lkerrecht ma\u00dfgeblich. "
+   ]
+  }, 
+  {
+   "begin": "51.400", 
+   "children": [], 
+   "end": "57.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Das muss sozusagen kompatibel gestaltet sich mit unseren Verh\u00e4ltnissen. "
+   ]
+  }, 
+  {
+   "begin": "57.000", 
+   "children": [], 
+   "end": "58.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das passt nicht immer zusammen. "
+   ]
+  }, 
+  {
+   "begin": "58.400", 
+   "children": [], 
+   "end": "60.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie aus der falschen \u00adDenkecke kommen, "
+   ]
+  }, 
+  {
+   "begin": "60.600", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dann haben Sie entsprechende Konflikte. "
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "64.080", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb glaube ich, "
+   ]
+  }, 
+  {
+   "begin": "64.080", 
+   "children": [], 
+   "end": "68.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass der Deutsche Richterbund in diesem Punkt nicht auf dem richtigen Weg ist.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "68.720", 
+   "children": [], 
+   "end": "70.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "So viel zum ersten Punkt."
+   ]
+  }, 
+  {
+   "begin": "70.360", 
+   "children": [], 
+   "end": "71.440", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Der zweite Punkt. "
+   ]
+  }, 
+  {
+   "begin": "71.440", 
+   "children": [], 
+   "end": "72.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe nicht gesagt, "
+   ]
+  }, 
+  {
+   "begin": "72.720", 
+   "children": [], 
+   "end": "75.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass wir zwingend \u00fcberall Investitionsschutzabkommen brauchen. "
+   ]
+  }, 
+  {
+   "begin": "75.600", 
+   "children": [], 
+   "end": "76.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe vielmehr gesagt, "
+   ]
+  }, 
+  {
+   "begin": "76.400", 
+   "children": [], 
+   "end": "76.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "warum sie, "
+   ]
+  }, 
+  {
+   "begin": "76.880", 
+   "children": [], 
+   "end": "77.800", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "wenn es sie gibt, "
+   ]
+  }, 
+  {
+   "begin": "77.800", 
+   "children": [], 
+   "end": "81.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "gut sind und welchen Zweck sie verfolgen. "
+   ]
+  }, 
+  {
+   "begin": "81.040", 
+   "children": [], 
+   "end": "82.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Staaten beidseitig, "
+   ]
+  }, 
+  {
+   "begin": "82.520", 
+   "children": [], 
+   "end": "85.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "etwa im Verh\u00e4ltnis der Europ\u00e4ischen Union zu Kanada, "
+   ]
+  }, 
+  {
+   "begin": "85.000", 
+   "children": [], 
+   "end": "85.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "darauf verzichten, "
+   ]
+  }, 
+  {
+   "begin": "85.840", 
+   "children": [], 
+   "end": "88.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dann ist das ein m\u00f6glicher Ansatz. "
+   ]
+  }, 
+  {
+   "begin": "88.760", 
+   "children": [], 
+   "end": "99.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Aber Vertreter und Botschafter von Staaten au\u00dferhalb der Europ\u00e4ischen Union haben mir in vielen Gespr\u00e4chen gesagt: "
+   ]
+  }, 
+  {
+   "begin": "99.360", 
+   "children": [], 
+   "end": "101.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie wollen, "
+   ]
+  }, 
+  {
+   "begin": "101.240", 
+   "children": [], 
+   "end": "105.960", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass der Handelsaustausch zwischen Kanada und der Europ\u00e4ischen Union gef\u00f6rdert wird\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "105.960", 
+   "children": [], 
+   "end": "107.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "wie es eben hie\u00df, "
+   ]
+  }, 
+  {
+   "begin": "107.680", 
+   "children": [], 
+   "end": "111.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "ist das ein zentrales Element unserer Politik\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "111.600", 
+   "children": [], 
+   "end": "113.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen Sie bedenken, "
+   ]
+  }, 
+  {
+   "begin": "113.840", 
+   "children": [], 
+   "end": "116.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass es europ\u00e4ische Staaten gibt, "
+   ]
+  }, 
+  {
+   "begin": "116.840", 
+   "children": [], 
+   "end": "120.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "in denen der Rechtsschutz nicht so funktioniert wie in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "120.000", 
+   "children": [], 
+   "end": "124.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Kanadische Unternehmen w\u00fcrden dann in manchen europ\u00e4ischen Staaten nicht investieren."
+   ]
+  }, 
+  {
+   "begin": "124.760", 
+   "children": [], 
+   "end": "126.880", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Die Europ\u00e4ische Union hat uns daraufhin gesagt: "
+   ]
+  }, 
+  {
+   "begin": "126.880", 
+   "children": [], 
+   "end": "128.720", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben alle Interessen, "
+   ]
+  }, 
+  {
+   "begin": "128.720", 
+   "children": [], 
+   "end": "131.800", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere das gesamteurop\u00e4ische Interesse, "
+   ]
+  }, 
+  {
+   "begin": "131.800", 
+   "children": [], 
+   "end": "132.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "in den Blick zu nehmen, "
+   ]
+  }, 
+  {
+   "begin": "132.640", 
+   "children": [], 
+   "end": "137.200", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur die Funktionsweise der Gerichte in Deutschland.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "137.200", 
+   "children": [], 
+   "end": "138.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es wichtig f\u00fcr uns, "
+   ]
+  }, 
+  {
+   "begin": "138.040", 
+   "children": [], 
+   "end": "142.920", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass wir ein solches System im Interesse von ganz Europa und insbesondere im Interesse der europ\u00e4ischen Staaten etablieren, "
+   ]
+  }, 
+  {
+   "begin": "142.920", 
+   "children": [], 
+   "end": "146.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wo die Gerichte nicht so schnell und perfekt arbeiten wie bei uns."
+   ]
+  }, 
+  {
+   "begin": "146.920", 
+   "children": [], 
+   "end": "147.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "147.040", 
+   "children": [], 
+   "end": "149.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ich erteile nunmehr dem letzten Redner in dieser Debatte das Wort, "
+   ]
+  }, 
+  {
+   "begin": "149.760", 
+   "children": [], 
+   "end": "153.960", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dem Kollegen Markus T\u00f6ns von den Sozialdemokraten."
+   ]
+  }
+ ]
+}

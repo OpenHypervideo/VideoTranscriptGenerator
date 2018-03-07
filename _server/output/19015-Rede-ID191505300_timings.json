@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2.400", 
+   "children": [], 
+   "end": "3.920", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "children": [], 
+   "end": "7.240", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "children": [], 
+   "end": "8.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Kollege von Notz, "
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "children": [], 
+   "end": "10.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "in der Tat, "
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "children": [], 
+   "end": "15.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "die Wege in diesem Saal f\u00fchren uns an den W\u00e4nden vorbei, "
+   ]
+  }, 
+  {
+   "begin": "15.320", 
+   "children": [], 
+   "end": "18.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "auf denen immer noch die Inschriften derjenigen stehen, "
+   ]
+  }, 
+  {
+   "begin": "18.800", 
+   "children": [], 
+   "end": "21.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die uns alle befreiten."
+   ]
+  }, 
+  {
+   "begin": "21.480", 
+   "children": [], 
+   "end": "27.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich zitiere den ehemaligen Bundespr\u00e4sidenten von \u00adWeizs\u00e4cker: "
+   ]
+  }, 
+  {
+   "begin": "27.480", 
+   "children": [], 
+   "end": "39.440", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Sie befreiten uns \u201evon dem menschenverachtenden System der nationalsozialistischen Gewaltherrschaft\u201c."
+   ]
+  }, 
+  {
+   "begin": "39.440", 
+   "children": [], 
+   "end": "45.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es sind die Spuren des Kampfes um das Reichstagsgeb\u00e4ude im April\u00a01945, "
+   ]
+  }, 
+  {
+   "begin": "45.680", 
+   "children": [], 
+   "end": "46.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die erhalten geblieben sind, "
+   ]
+  }, 
+  {
+   "begin": "46.880", 
+   "children": [], 
+   "end": "50.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "darunter die Graffiti sowjetischer Soldaten. "
+   ]
+  }, 
+  {
+   "begin": "50.800", 
+   "children": [], 
+   "end": "57.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe schon manchen Besucher aus dem Ausland ungl\u00e4ubig staunend davor stehen gesehen."
+   ]
+  }, 
+  {
+   "begin": "57.360", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Man kann auf den Internetseiten des Bundestages nachlesen: "
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "65.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Der Architekt Sir Norman Foster, "
+   ]
+  }, 
+  {
+   "begin": "65.520", 
+   "children": [], 
+   "end": "68.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "geboren 1935, "
+   ]
+  }, 
+  {
+   "begin": "68.160", 
+   "children": [], 
+   "end": "71.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "begann unmittelbar nach der Verh\u00fcllung des Reichstags, "
+   ]
+  }, 
+  {
+   "begin": "71.000", 
+   "children": [], 
+   "end": "74.840", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die alten Gipsfaserplatten der 60er-Jahre abzunehmen, "
+   ]
+  }, 
+  {
+   "begin": "74.840", 
+   "children": [], 
+   "end": "78.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die vor die W\u00e4nde des historischen Baus gesetzt worden waren. "
+   ]
+  }, 
+  {
+   "begin": "78.160", 
+   "children": [], 
+   "end": "85.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Heute sind die wiederentdeckten kyrillischen Inschriften Teil des demokratischen Alltags in diesem Parlament\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "85.120", 
+   "children": [], 
+   "end": "87.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "weil wir es so wollen,"
+   ]
+  }, 
+  {
+   "begin": "87.160", 
+   "children": [], 
+   "end": "94.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "weil dieses Geb\u00e4ude eine Geschichte hat: "
+   ]
+  }, 
+  {
+   "begin": "94.800", 
+   "children": [], 
+   "end": "95.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "eine Geschichte, "
+   ]
+  }, 
+  {
+   "begin": "95.480", 
+   "children": [], 
+   "end": "99.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die einen Teil deutscher Vergangenheit ausmacht, "
+   ]
+  }, 
+  {
+   "begin": "99.280", 
+   "children": [], 
+   "end": "105.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "der sich tief in das kollektive Bewusstsein und in unser Ged\u00e4chtnis eingepr\u00e4gt hat."
+   ]
+  }, 
+  {
+   "begin": "105.920", 
+   "children": [], 
+   "end": "112.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wir erinnern uns in diesen Tagen an den mutigen Widerstand der Geschwister Scholl. "
+   ]
+  }, 
+  {
+   "begin": "112.440", 
+   "children": [], 
+   "end": "121.600", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Auch eingedenk ihres Schicksals m\u00fcssen wir uns Nationalismen und vergifteten Debatten immer wieder neu entgegenstellen."
+   ]
+  }, 
+  {
+   "begin": "121.600", 
+   "children": [], 
+   "end": "127.520", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "An die Adresse der AfD: "
+   ]
+  }, 
+  {
+   "begin": "127.520", 
+   "children": [], 
+   "end": "136.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben von einem Denkmal der Schande und einer erinnerungspolitischen Wende um 180\u00a0Grad gesprochen. "
+   ]
+  }, 
+  {
+   "begin": "136.000", 
+   "children": [], 
+   "end": "137.000", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage: "
+   ]
+  }, 
+  {
+   "begin": "137.000", 
+   "children": [], 
+   "end": "138.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Es gilt, "
+   ]
+  }, 
+  {
+   "begin": "138.000", 
+   "children": [], 
+   "end": "143.120", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die geistige und die kulturelle Freiheit unseres Landes zu bewahren."
+   ]
+  }, 
+  {
+   "begin": "143.120", 
+   "children": [], 
+   "end": "153.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Am besten gelingt das \u00fcbrigens durch Aufkl\u00e4rung und Bildung der jungen Generation, "
+   ]
+  }, 
+  {
+   "begin": "153.960", 
+   "children": [], 
+   "end": "156.320", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "durch internationalen Austausch, "
+   ]
+  }, 
+  {
+   "begin": "156.320", 
+   "children": [], 
+   "end": "158.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "durch die Erfahrung des anderen, "
+   ]
+  }, 
+  {
+   "begin": "158.800", 
+   "children": [], 
+   "end": "160.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "durch die Erkenntnis, "
+   ]
+  }, 
+  {
+   "begin": "160.240", 
+   "children": [], 
+   "end": "163.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass einfache Antworten nicht richtig sind,"
+   ]
+  }, 
+  {
+   "begin": "163.880", 
+   "children": [], 
+   "end": "166.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "durch mutige junge Menschen, "
+   ]
+  }, 
+  {
+   "begin": "166.400", 
+   "children": [], 
+   "end": "172.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die Haltung zeigen und sich nicht von den rechten Verf\u00fchrern unserer Zeit k\u00f6dern lassen. "
+   ]
+  }, 
+  {
+   "begin": "172.720", 
+   "children": [], 
+   "end": "173.800", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcnsche mir, "
+   ]
+  }, 
+  {
+   "begin": "173.800", 
+   "children": [], 
+   "end": "184.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass die junge Generation in Deutschland unsere Kultur des Erinnerns weitertr\u00e4gt und dass sie ihren eigenen Umgang damit findet."
+   ]
+  }, 
+  {
+   "begin": "184.680", 
+   "children": [], 
+   "end": "186.760", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt bestimmte Ereignisse, "
+   ]
+  }, 
+  {
+   "begin": "186.760", 
+   "children": [], 
+   "end": "189.280", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "die einen besonders pr\u00e4gen. "
+   ]
+  }, 
+  {
+   "begin": "189.280", 
+   "children": [], 
+   "end": "196.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr mich waren das der Besuch in Bergen-Belsen und die Diskussion mit einer Zeitzeugin, "
+   ]
+  }, 
+  {
+   "begin": "196.400", 
+   "children": [], 
+   "end": "200.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die unter schlimmsten Umst\u00e4nden \u00fcberlebt hatte und dann nach Amerika geflohen war. "
+   ]
+  }, 
+  {
+   "begin": "200.520", 
+   "children": [], 
+   "end": "202.680", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie erz\u00e4hlte uns Neuntkl\u00e4sslern, "
+   ]
+  }, 
+  {
+   "begin": "202.680", 
+   "children": [], 
+   "end": "209.040", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wie sie Jahre nach dem Ende des Krieges pl\u00f6tzlich die gewaltt\u00e4tige und sadistische Aufseherin des Lagers\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "209.040", 
+   "children": [], 
+   "end": "210.720", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "mit Pelz bekleidet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "210.720", 
+   "children": [], 
+   "end": "216.840", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "beim Shopping in einem Kaufhaus in New York zuf\u00e4llig wiedersah. "
+   ]
+  }, 
+  {
+   "begin": "216.840", 
+   "children": [], 
+   "end": "221.840", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Mich hat diese Vorstellung als Teenager zutiefst schockiert. "
+   ]
+  }, 
+  {
+   "begin": "221.840", 
+   "children": [], 
+   "end": "223.080", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe es nie vergessen. "
+   ]
+  }, 
+  {
+   "begin": "223.080", 
+   "children": [], 
+   "end": "226.120", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "In den letzten Wochen gab es eine Debatte dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "226.120", 
+   "children": [], 
+   "end": "227.040", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "ob junge Leute, "
+   ]
+  }, 
+  {
+   "begin": "227.040", 
+   "children": [], 
+   "end": "231.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "ob Sch\u00fclerinnen und Sch\u00fcler Gedenkst\u00e4tten verpflichtend besuchen sollten. "
+   ]
+  }, 
+  {
+   "begin": "231.560", 
+   "children": [], 
+   "end": "233.040", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Ich meine, "
+   ]
+  }, 
+  {
+   "begin": "233.040", 
+   "children": [], 
+   "end": "236.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass das kein Zwang, "
+   ]
+  }, 
+  {
+   "begin": "236.880", 
+   "children": [], 
+   "end": "241.040", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "sondern eine Selbstverst\u00e4ndlichkeit sein sollte."
+   ]
+  }, 
+  {
+   "begin": "241.040", 
+   "children": [], 
+   "end": "247.200", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Junge Menschen brauchen dabei aber Unterst\u00fctzung. "
+   ]
+  }, 
+  {
+   "begin": "247.200", 
+   "children": [], 
+   "end": "248.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen bin ich froh, "
+   ]
+  }, 
+  {
+   "begin": "248.680", 
+   "children": [], 
+   "end": "253.840", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass wir im Koalitionsvertrag gute Festlegungen getroffen haben. "
+   ]
+  }, 
+  {
+   "begin": "253.840", 
+   "children": [], 
+   "end": "257.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wir legen insbesondere das Programm \u201eJugend erinnert\u201c auf, "
+   ]
+  }, 
+  {
+   "begin": "257.280", 
+   "children": [], 
+   "end": "259.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "das noch mehr M\u00f6glichkeiten er\u00f6ffnen soll, "
+   ]
+  }, 
+  {
+   "begin": "259.880", 
+   "children": [], 
+   "end": "262.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Gedenkst\u00e4tten und Workshops zu besuchen, "
+   ]
+  }, 
+  {
+   "begin": "262.800", 
+   "children": [], 
+   "end": "270.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "um den Blick f\u00fcr wachsenden Antisemitismus und Fremdenfeindlichkeit zu sch\u00e4rfen. "
+   ]
+  }, 
+  {
+   "begin": "270.120", 
+   "children": [], 
+   "end": "271.560", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Das ist umso wichtiger, "
+   ]
+  }, 
+  {
+   "begin": "271.560", 
+   "children": [], 
+   "end": "274.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "weil die letzten Zeitzeugen gehen. "
+   ]
+  }, 
+  {
+   "begin": "274.800", 
+   "children": [], 
+   "end": "277.760", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben im Koalitionsvertrag im Sinne des Erinnerns konkret\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "277.760", 
+   "children": [], 
+   "end": "278.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "das war, "
+   ]
+  }, 
+  {
+   "begin": "278.160", 
+   "children": [], 
+   "end": "279.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "ist und bleibt ein Prozess\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "279.440", 
+   "children": [], 
+   "end": "280.600", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "die Unterst\u00fctzung dezentraler, "
+   ]
+  }, 
+  {
+   "begin": "280.600", 
+   "children": [], 
+   "end": "282.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "kleiner Initiativen, "
+   ]
+  }, 
+  {
+   "begin": "282.400", 
+   "children": [], 
+   "end": "290.840", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die St\u00e4rkung der Gedenkst\u00e4tten und ihre Weiterentwicklung sowie nicht zuletzt die Aufarbeitung unseres kolonialen Erbes in Zusammenarbeit mit anderen L\u00e4ndern festgeschrieben. "
+   ]
+  }, 
+  {
+   "begin": "290.840", 
+   "children": [], 
+   "end": "291.120", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wir tun das, "
+   ]
+  }, 
+  {
+   "begin": "291.120", 
+   "children": [], 
+   "end": "293.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "weil die Kulturarbeit unser Leben und die Demokratie bereichert."
+   ]
+  }, 
+  {
+   "begin": "293.440", 
+   "children": [], 
+   "end": "295.080", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "An die Adresse meiner SPD: "
+   ]
+  }, 
+  {
+   "begin": "295.080", 
+   "children": [], 
+   "end": "296.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Das allein ist Grund genug, "
+   ]
+  }, 
+  {
+   "begin": "296.760", 
+   "children": [], 
+   "end": "299.240", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Ja zu Regierung und Verantwortung zu sagen."
+   ]
+  }, 
+  {
+   "begin": "299.240", 
+   "children": [], 
+   "end": "300.520", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "300.520", 
+   "children": [], 
+   "end": "300.680", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "300.680", 
+   "children": [], 
+   "end": "301.880", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Frau M\u00fcntefering.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "301.880", 
+   "children": [], 
+   "end": "306.920", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chster Redner hat der Kollege Dr.\u00a0Marc Jongen von der AfD das Wort."
+   ]
+  }, 
+  {
+   "begin": "306.920", 
+   "children": [], 
+   "end": "308.120", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "308.120", 
+   "children": [], 
+   "end": "309.400", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "entschuldigen Sie, "
+   ]
+  }, 
+  {
+   "begin": "309.400", 
+   "children": [], 
+   "end": "311.600", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "aber ich werde von der AfD-Fraktion darauf hingewiesen, "
+   ]
+  }, 
+  {
+   "begin": "311.600", 
+   "children": [], 
+   "end": "314.000", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich um Ihre erste Rede handelt."
+   ]
+  }, 
+  {
+   "begin": "314.000", 
+   "children": [], 
+   "end": "314.600", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Wie ich h\u00f6re, "
+   ]
+  }, 
+  {
+   "begin": "314.600", 
+   "children": [], 
+   "end": "316.920", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "soll es schon die zweite sein. "
+   ]
+  }, 
+  {
+   "begin": "316.920", 
+   "children": [], 
+   "end": "322.520", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Da m\u00fcssen Sie in Ihrer Fraktion vielleicht f\u00fcr Aufkl\u00e4rung sorgen."
+   ]
+  }, 
+  {
+   "begin": "322.520", 
+   "children": [], 
+   "end": "323.040", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Bitte, "
+   ]
+  }, 
+  {
+   "begin": "323.040", 
+   "children": [], 
+   "end": "324.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Herr Jongen."
+   ]
+  }
+ ]
+}

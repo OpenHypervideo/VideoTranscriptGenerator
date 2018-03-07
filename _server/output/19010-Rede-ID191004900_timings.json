@@ -1,0 +1,984 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "children": [], 
+   "end": "6.800", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "children": [], 
+   "end": "7.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "children": [], 
+   "end": "9.800", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste auf der Trib\u00fcne! "
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "children": [], 
+   "end": "11.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde es sch\u00f6n von der FDP, "
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "children": [], 
+   "end": "15.120", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass man der neuen Vorsitzenden des Finanzausschusses gleich die M\u00f6glichkeit gibt, "
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "children": [], 
+   "end": "16.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "eine Rede zu halten. "
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "children": [], 
+   "end": "17.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Man hat \u00fcberlegt: "
+   ]
+  }, 
+  {
+   "begin": "17.840", 
+   "children": [], 
+   "end": "19.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wie schafft man das am besten? "
+   ]
+  }, 
+  {
+   "begin": "19.080", 
+   "children": [], 
+   "end": "20.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Man macht eine Aktuelle Stunde.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "20.480", 
+   "children": [], 
+   "end": "24.520", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es h\u00e4tte heute viele Themen f\u00fcr eine Aktuelle Stunde gegeben. "
+   ]
+  }, 
+  {
+   "begin": "24.520", 
+   "children": [], 
+   "end": "33.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Man h\u00e4tte beispielsweise \u00fcber den Stand der Sondierungen zum Thema \u201eSteuern und Finanzen\u201c reden k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "33.120", 
+   "children": [], 
+   "end": "36.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Man h\u00e4tte \u00fcber die Boni der Deutschen Bank reden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "36.520", 
+   "children": [], 
+   "end": "41.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Man h\u00e4tte \u00fcber das Fehlen von Grundschullehrern und die finanziellen Auswirkungen auf die Haushalte reden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "41.600", 
+   "children": [], 
+   "end": "44.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Man h\u00e4tte \u00fcber die Hausdurchsuchungen des Zolls reden k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "44.560", 
+   "children": [], 
+   "end": "45.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Sogar \u00fcber die Sturm- "
+   ]
+  }, 
+  {
+   "begin": "45.640", 
+   "children": [], 
+   "end": "48.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "und Hochwassersch\u00e4den der letzten Wochen h\u00e4tten wir reden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "48.840", 
+   "children": [], 
+   "end": "53.400", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Wir h\u00e4tten auch \u00fcber die aktuelle Besetzung des Finanzausschusses reden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "53.400", 
+   "children": [], 
+   "end": "56.080", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Aber ich habe mir wirklich die Frage gestellt: "
+   ]
+  }, 
+  {
+   "begin": "56.080", 
+   "children": [], 
+   "end": "64.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Was ist an dem Thema der von Ihnen beantragten Aktuellen Stunde \u201ePositionierung der Bundesregierung zu einer europ\u00e4ischen Bankenunion\u201c aktuell? "
+   ]
+  }, 
+  {
+   "begin": "64.400", 
+   "children": [], 
+   "end": "65.800", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Es ist deswegen nicht aktuell, "
+   ]
+  }, 
+  {
+   "begin": "65.800", 
+   "children": [], 
+   "end": "68.520", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "weil wir eine gesch\u00e4ftsf\u00fchrende Bundesregierung haben, "
+   ]
+  }, 
+  {
+   "begin": "68.520", 
+   "children": [], 
+   "end": "69.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die alles das umsetzt, "
+   ]
+  }, 
+  {
+   "begin": "69.680", 
+   "children": [], 
+   "end": "72.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "was wir in der Vergangenheit beschlossen haben. "
+   ]
+  }, 
+  {
+   "begin": "72.840", 
+   "children": [], 
+   "end": "79.080", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe heute bei den Nachrichtenagenturen und in Tickerberichten nachgesehen, "
+   ]
+  }, 
+  {
+   "begin": "79.080", 
+   "children": [], 
+   "end": "81.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "aber ich habe nichts Aktuelles gefunden, "
+   ]
+  }, 
+  {
+   "begin": "81.400", 
+   "children": [], 
+   "end": "82.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "und es kam ja auch nichts Aktuelles."
+   ]
+  }, 
+  {
+   "begin": "82.680", 
+   "children": [], 
+   "end": "86.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt also in dieser Woche nichts richtig Aktuelles. "
+   ]
+  }, 
+  {
+   "begin": "86.480", 
+   "children": [], 
+   "end": "88.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind l\u00e4nger nicht hier gewesen, "
+   ]
+  }, 
+  {
+   "begin": "88.960", 
+   "children": [], 
+   "end": "93.280", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "aber Aktuelle Stunden beinhalten in der Regel aktuelle Themen."
+   ]
+  }, 
+  {
+   "begin": "93.280", 
+   "children": [], 
+   "end": "93.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Nein, "
+   ]
+  }, 
+  {
+   "begin": "93.760", 
+   "children": [], 
+   "end": "95.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "das ist nicht peinlich."
+   ]
+  }, 
+  {
+   "begin": "95.800", 
+   "children": [], 
+   "end": "98.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ich will etwas zur Bankenunion sagen."
+   ]
+  }, 
+  {
+   "begin": "98.760", 
+   "children": [], 
+   "end": "102.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Das h\u00e4tten Sie auch beantragen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "102.240", 
+   "children": [], 
+   "end": "103.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "haben Sie aber nicht."
+   ]
+  }, 
+  {
+   "begin": "103.520", 
+   "children": [], 
+   "end": "106.240", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen rede ich jetzt zu Ihrem Antrag."
+   ]
+  }, 
+  {
+   "begin": "106.240", 
+   "children": [], 
+   "end": "107.960", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die EZB hat, "
+   ]
+  }, 
+  {
+   "begin": "107.960", 
+   "children": [], 
+   "end": "111.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "so wie wir alle es mitbeschlossen haben, "
+   ]
+  }, 
+  {
+   "begin": "111.280", 
+   "children": [], 
+   "end": "117.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "im November\u00a02014 die Verantwortung f\u00fcr den Einheitlichen Europ\u00e4ischen Bankenaufsichtsmechanismus \u00fcbernommen; "
+   ]
+  }, 
+  {
+   "begin": "117.360", 
+   "children": [], 
+   "end": "118.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "das wissen wir alle. "
+   ]
+  }, 
+  {
+   "begin": "118.520", 
+   "children": [], 
+   "end": "119.080", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das ist, "
+   ]
+  }, 
+  {
+   "begin": "119.080", 
+   "children": [], 
+   "end": "120.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wie gesagt, "
+   ]
+  }, 
+  {
+   "begin": "120.000", 
+   "children": [], 
+   "end": "121.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "schon mehrere Jahre her. "
+   ]
+  }, 
+  {
+   "begin": "121.520", 
+   "children": [], 
+   "end": "124.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Seitdem ist sie f\u00fcr signifikante Banken zust\u00e4ndig. "
+   ]
+  }, 
+  {
+   "begin": "124.640", 
+   "children": [], 
+   "end": "125.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das sind Banken, "
+   ]
+  }, 
+  {
+   "begin": "125.400", 
+   "children": [], 
+   "end": "136.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "deren Bilanzsumme mindestens 30\u00a0Milliarden Euro oder 20\u00a0Prozent des BIP des Mitgliedstaates umfasst und die zu den drei gr\u00f6\u00dften Banken des jeweiligen Mitgliedstaats geh\u00f6ren. "
+   ]
+  }, 
+  {
+   "begin": "136.360", 
+   "children": [], 
+   "end": "141.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Nicht signifikante Banken werden weiterhin von nationalen Aufsichtsbeh\u00f6rden \u00fcberwacht."
+   ]
+  }, 
+  {
+   "begin": "141.320", 
+   "children": [], 
+   "end": "144.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben einen Einheitlichen Abwicklungsmechanismus. "
+   ]
+  }, 
+  {
+   "begin": "144.640", 
+   "children": [], 
+   "end": "145.480", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "145.480", 
+   "children": [], 
+   "end": "148.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "diese eben von mir angesprochenen Banken und gro\u00dfe, "
+   ]
+  }, 
+  {
+   "begin": "148.200", 
+   "children": [], 
+   "end": "154.320", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "grenz\u00fcberschreitende Banken werden jetzt auf europ\u00e4ischer Ebene einheitlich abgewickelt."
+   ]
+  }, 
+  {
+   "begin": "154.320", 
+   "children": [], 
+   "end": "158.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Risiko und Haftung haben bei uns von Anfang an zusammengeh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "158.280", 
+   "children": [], 
+   "end": "159.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben von Anfang an gesagt: "
+   ]
+  }, 
+  {
+   "begin": "159.960", 
+   "children": [], 
+   "end": "162.000", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen das zusammen betrachten. "
+   ]
+  }, 
+  {
+   "begin": "162.000", 
+   "children": [], 
+   "end": "164.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Was haben wir f\u00fcr Banken vor uns, "
+   ]
+  }, 
+  {
+   "begin": "164.560", 
+   "children": [], 
+   "end": "166.040", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "welche Risiken gehen sie ein, "
+   ]
+  }, 
+  {
+   "begin": "166.040", 
+   "children": [], 
+   "end": "167.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "und wie m\u00fcssen sie abgewickelt werden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "167.920", 
+   "children": [], 
+   "end": "175.800", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Bis zum 31.\u00a0Dezember 2023 soll ein gemeinsamer Abwicklungsfonds eingerichtet werden, "
+   ]
+  }, 
+  {
+   "begin": "175.800", 
+   "children": [], 
+   "end": "178.280", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "der mit 55\u00a0Milliarden Euro ausgestattet wird. "
+   ]
+  }, 
+  {
+   "begin": "178.280", 
+   "children": [], 
+   "end": "182.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Vorrangig werden Anteilseigner und Gl\u00e4ubiger herangezogen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "182.080", 
+   "children": [], 
+   "end": "184.440", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "das sogenannte Bail-in\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "184.440", 
+   "children": [], 
+   "end": "185.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dann erst der Staat. "
+   ]
+  }, 
+  {
+   "begin": "185.680", 
+   "children": [], 
+   "end": "189.640", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt also keine Gemeinschaftshaftung der teilnehmenden Mitgliedstaaten durch den Fonds. "
+   ]
+  }, 
+  {
+   "begin": "189.640", 
+   "children": [], 
+   "end": "192.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Das war uns allen sehr wichtig. "
+   ]
+  }, 
+  {
+   "begin": "192.680", 
+   "children": [], 
+   "end": "194.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Auch in den Sondierungspapieren, "
+   ]
+  }, 
+  {
+   "begin": "194.360", 
+   "children": [], 
+   "end": "196.400", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die Sie ja heute nicht reden wollten, "
+   ]
+  }, 
+  {
+   "begin": "196.400", 
+   "children": [], 
+   "end": "197.600", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "steht das drin. "
+   ]
+  }, 
+  {
+   "begin": "197.600", 
+   "children": [], 
+   "end": "200.680", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben mit der CDU/CSU noch einmal aufgeschrieben, "
+   ]
+  }, 
+  {
+   "begin": "200.680", 
+   "children": [], 
+   "end": "206.280", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass wir Haftung und Risiko nicht auseinanderfallen lassen wollen."
+   ]
+  }, 
+  {
+   "begin": "206.280", 
+   "children": [], 
+   "end": "210.760", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Gerade laufen die Koalitionsverhandlungen zum Thema \u201eFinanzen und Steuern\u201c. "
+   ]
+  }, 
+  {
+   "begin": "210.760", 
+   "children": [], 
+   "end": "211.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann Ihnen nicht sagen, "
+   ]
+  }, 
+  {
+   "begin": "211.680", 
+   "children": [], 
+   "end": "214.240", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "was dort gerade neu verhandelt wird; "
+   ]
+  }, 
+  {
+   "begin": "214.240", 
+   "children": [], 
+   "end": "218.640", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "aber das k\u00f6nnen wir zu gegebener Zeit hier weiter diskutieren."
+   ]
+  }, 
+  {
+   "begin": "218.640", 
+   "children": [], 
+   "end": "226.400", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Der gesch\u00e4ftsf\u00fchrende Finanzminister Altmaier hat Schwachstellen in der europ\u00e4ischen W\u00e4hrungsunion angesprochen. "
+   ]
+  }, 
+  {
+   "begin": "226.400", 
+   "children": [], 
+   "end": "228.520", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Er hat auch darauf hingewiesen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "228.520", 
+   "children": [], 
+   "end": "231.480", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Kollegin Tillmann hat es angesprochen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "231.480", 
+   "children": [], 
+   "end": "237.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass auf dem EU-Gipfel im Juni wichtige Entscheidungen f\u00fcr die Architektur der Euro-Zone gef\u00e4llt werden m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "237.440", 
+   "children": [], 
+   "end": "243.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben auch die Bedenken von Sparkassen und Volksbanken immer sehr ernst genommen. "
+   ]
+  }, 
+  {
+   "begin": "243.200", 
+   "children": [], 
+   "end": "251.320", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Dass sie ein eigenes Absicherungssystem haben und am liebsten \u00fcberhaupt nicht in irgendeiner anderen Form in Anspruch genommen werden wollen, "
+   ]
+  }, 
+  {
+   "begin": "251.320", 
+   "children": [], 
+   "end": "254.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "haben wir immer ber\u00fccksichtigen wollen, "
+   ]
+  }, 
+  {
+   "begin": "254.000", 
+   "children": [], 
+   "end": "255.360", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "und wir haben auch versucht, "
+   ]
+  }, 
+  {
+   "begin": "255.360", 
+   "children": [], 
+   "end": "256.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "das nach Br\u00fcssel zu tragen. "
+   ]
+  }, 
+  {
+   "begin": "256.600", 
+   "children": [], 
+   "end": "260.080", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Dazu gibt es Antr\u00e4ge und Resolutionen; "
+   ]
+  }, 
+  {
+   "begin": "260.080", 
+   "children": [], 
+   "end": "263.160", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "da haben wir in den letzten vier Jahren eine ganze Menge gemacht. "
+   ]
+  }, 
+  {
+   "begin": "263.160", 
+   "children": [], 
+   "end": "266.320", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem brauchen wir eine Risikoabsicherung. "
+   ]
+  }, 
+  {
+   "begin": "266.320", 
+   "children": [], 
+   "end": "269.360", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen auch einen einheitlichen Mechanismus."
+   ]
+  }, 
+  {
+   "begin": "269.360", 
+   "children": [], 
+   "end": "272.920", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen alle zusammen in Europa weiter vorankommen. "
+   ]
+  }, 
+  {
+   "begin": "272.920", 
+   "children": [], 
+   "end": "274.120", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr ist es wichtig, "
+   ]
+  }, 
+  {
+   "begin": "274.120", 
+   "children": [], 
+   "end": "277.160", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "dass wir eine gute Zusammenarbeit im Euro-Raum haben."
+   ]
+  }, 
+  {
+   "begin": "277.160", 
+   "children": [], 
+   "end": "278.680", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen sicher sein: "
+   ]
+  }, 
+  {
+   "begin": "278.680", 
+   "children": [], 
+   "end": "284.120", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Der n\u00e4chste Finanzminister oder die n\u00e4chste Finanzministerin wird diese erfolgreiche Politik fortf\u00fchren."
+   ]
+  }, 
+  {
+   "begin": "284.120", 
+   "children": [], 
+   "end": "285.640", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich darauf."
+   ]
+  }, 
+  {
+   "begin": "285.640", 
+   "children": [], 
+   "end": "287.280", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Freuen w\u00fcrde ich mich auch, "
+   ]
+  }, 
+  {
+   "begin": "287.280", 
+   "children": [], 
+   "end": "292.200", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie n\u00e4chstes Mal eine etwas aktuellere Thematik f\u00fcr Ihre Aktuelle Stunde aussuchen w\u00fcrden."
+   ]
+  }, 
+  {
+   "begin": "292.200", 
+   "children": [], 
+   "end": "295.640", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "295.640", 
+   "children": [], 
+   "end": "296.680", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "296.680", 
+   "children": [], 
+   "end": "298.960", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "298.960", 
+   "children": [], 
+   "end": "306.000", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster Herr Professor Dr.\u00a0Harald Weyel."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,874 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "children": [], 
+   "end": "5.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "5.240", 
+   "children": [], 
+   "end": "5.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Es ist Zufall, "
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "children": [], 
+   "end": "9.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass ich meine erste Rede nach der denkw\u00fcrdigen Debatte von eben halte. "
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Eine Fraktion macht einen Anschlag auf die Pressefreiheit, "
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "13.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "und alle anderen f\u00fcnf Fraktionen, "
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "children": [], 
+   "end": "15.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "die sonst viel trennt, "
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "children": [], 
+   "end": "16.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "verteidigen sie gemeinsam. "
+   ]
+  }, 
+  {
+   "begin": "16.560", 
+   "children": [], 
+   "end": "17.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin stolz, "
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "children": [], 
+   "end": "18.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "in diesem Parlament arbeiten zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "18.480", 
+   "children": [], 
+   "end": "25.360", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "25.360", 
+   "children": [], 
+   "end": "30.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die auf Repression basierende Cannabispolitik in diesem Lande ist gescheitert, "
+   ]
+  }, 
+  {
+   "begin": "30.200", 
+   "children": [], 
+   "end": "31.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und zwar aus mehreren Gr\u00fcnden: "
+   ]
+  }, 
+  {
+   "begin": "31.240", 
+   "children": [], 
+   "end": "32.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist zum einen gescheitert, "
+   ]
+  }, 
+  {
+   "begin": "32.800", 
+   "children": [], 
+   "end": "39.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "weil nach Jahrzehnten der Strafverfolgung immer noch mehrere Millionen Menschen Cannabis konsumieren. "
+   ]
+  }, 
+  {
+   "begin": "39.000", 
+   "children": [], 
+   "end": "40.320", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist zum anderen gescheitert, "
+   ]
+  }, 
+  {
+   "begin": "40.320", 
+   "children": [], 
+   "end": "42.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "weil diese Menschen zus\u00e4tzlich dadurch gesundheitlich gef\u00e4hrdet werden, "
+   ]
+  }, 
+  {
+   "begin": "42.680", 
+   "children": [], 
+   "end": "50.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass sie sich Cannabis auf dem Schwarzmarkt besorgen m\u00fcssen und dort oft Cannabis mit Verunreinigungen bekommen. "
+   ]
+  }, 
+  {
+   "begin": "50.760", 
+   "children": [], 
+   "end": "52.080", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist drittens gescheitert, "
+   ]
+  }, 
+  {
+   "begin": "52.080", 
+   "children": [], 
+   "end": "57.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "weil auf diese Weise Justiz und Polizei unn\u00f6tig mit Arbeit belastet werden. "
+   ]
+  }, 
+  {
+   "begin": "57.360", 
+   "children": [], 
+   "end": "60.320", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Diese Ressourcen k\u00f6nnte man anderweitig besser verwenden."
+   ]
+  }, 
+  {
+   "begin": "60.320", 
+   "children": [], 
+   "end": "64.080", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "64.080", 
+   "children": [], 
+   "end": "67.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ich habe deutlich mehr Angst vor Einbruchdiebst\u00e4hlen als davor, "
+   ]
+  }, 
+  {
+   "begin": "67.800", 
+   "children": [], 
+   "end": "69.560", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass mein Nachbar kifft."
+   ]
+  }, 
+  {
+   "begin": "69.560", 
+   "children": [], 
+   "end": "76.440", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe drei T\u00f6chter. "
+   ]
+  }, 
+  {
+   "begin": "76.440", 
+   "children": [], 
+   "end": "79.120", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Eine meiner gr\u00f6\u00dften Sorgen war immer: "
+   ]
+  }, 
+  {
+   "begin": "79.120", 
+   "children": [], 
+   "end": "79.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Was passiert, "
+   ]
+  }, 
+  {
+   "begin": "79.800", 
+   "children": [], 
+   "end": "82.080", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "wenn eine meiner T\u00f6chter drogens\u00fcchtig wird? "
+   ]
+  }, 
+  {
+   "begin": "82.080", 
+   "children": [], 
+   "end": "83.000", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe mich gefragt: "
+   ]
+  }, 
+  {
+   "begin": "83.000", 
+   "children": [], 
+   "end": "85.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Was tut dann der Staat f\u00fcr mich oder f\u00fcr meine Tochter? "
+   ]
+  }, 
+  {
+   "begin": "85.680", 
+   "children": [], 
+   "end": "87.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die Antwort war: "
+   ]
+  }, 
+  {
+   "begin": "87.160", 
+   "children": [], 
+   "end": "90.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "entweder Gef\u00e4ngnis oder Schwarzmarkt. "
+   ]
+  }, 
+  {
+   "begin": "90.360", 
+   "children": [], 
+   "end": "91.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Kurz gesagt: "
+   ]
+  }, 
+  {
+   "begin": "91.160", 
+   "children": [], 
+   "end": "91.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das war unbefriedigend."
+   ]
+  }, 
+  {
+   "begin": "91.960", 
+   "children": [], 
+   "end": "94.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Freien Demokraten haben schon vor einigen Jahren beschlossen: "
+   ]
+  }, 
+  {
+   "begin": "94.520", 
+   "children": [], 
+   "end": "96.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen eine andere Drogenpolitik. "
+   ]
+  }, 
+  {
+   "begin": "96.800", 
+   "children": [], 
+   "end": "99.600", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen eine kontrollierte Abgabe von Cannabis. "
+   ]
+  }, 
+  {
+   "begin": "99.600", 
+   "children": [], 
+   "end": "100.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Achtung: "
+   ]
+  }, 
+  {
+   "begin": "100.120", 
+   "children": [], 
+   "end": "101.080", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "kontrollierte Abgabe, "
+   ]
+  }, 
+  {
+   "begin": "101.080", 
+   "children": [], 
+   "end": "102.320", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "nicht etwa Freigabe. "
+   ]
+  }, 
+  {
+   "begin": "102.320", 
+   "children": [], 
+   "end": "102.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen nicht, "
+   ]
+  }, 
+  {
+   "begin": "102.920", 
+   "children": [], 
+   "end": "105.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass Cannabis irgendwo im Supermarkt im Regal liegt; "
+   ]
+  }, 
+  {
+   "begin": "105.480", 
+   "children": [], 
+   "end": "105.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "nein, "
+   ]
+  }, 
+  {
+   "begin": "105.800", 
+   "children": [], 
+   "end": "106.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "106.040", 
+   "children": [], 
+   "end": "113.480", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass Cannabis in Apotheken und anderen speziell lizenzierten Gesch\u00e4ften kontrolliert und in \u00fcberschaubarer Menge an Erwachsene abgegeben wird."
+   ]
+  }, 
+  {
+   "begin": "113.480", 
+   "children": [], 
+   "end": "114.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Was spricht daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "114.640", 
+   "children": [], 
+   "end": "118.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "das so zu machen? "
+   ]
+  }, 
+  {
+   "begin": "118.040", 
+   "children": [], 
+   "end": "119.360", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Der erste Grund ist, "
+   ]
+  }, 
+  {
+   "begin": "119.360", 
+   "children": [], 
+   "end": "121.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass man auf diese Weise verhindert, "
+   ]
+  }, 
+  {
+   "begin": "121.400", 
+   "children": [], 
+   "end": "123.760", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass Menschen unreines Cannabis bekommen. "
+   ]
+  }, 
+  {
+   "begin": "123.760", 
+   "children": [], 
+   "end": "124.760", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Man kann es kontrollieren. "
+   ]
+  }, 
+  {
+   "begin": "124.760", 
+   "children": [], 
+   "end": "125.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Der zweite Grund ist, "
+   ]
+  }, 
+  {
+   "begin": "125.680", 
+   "children": [], 
+   "end": "131.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass man so einen viel besseren Zugang zu den Drogenabh\u00e4ngigen hat und ihnen viel schneller Therapien anbieten kann. "
+   ]
+  }, 
+  {
+   "begin": "131.080", 
+   "children": [], 
+   "end": "131.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Der dritte Grund ist, "
+   ]
+  }, 
+  {
+   "begin": "131.720", 
+   "children": [], 
+   "end": "134.320", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass der Staat dann viel Geld einnimmt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "134.320", 
+   "children": [], 
+   "end": "135.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "hoffentlich\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "135.000", 
+   "children": [], 
+   "end": "138.440", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "das man f\u00fcr Therapien und Pr\u00e4vention ausgeben kann."
+   ]
+  }, 
+  {
+   "begin": "138.440", 
+   "children": [], 
+   "end": "138.960", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "138.960", 
+   "children": [], 
+   "end": "140.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "das ist das Konzept der Freien Demokraten. "
+   ]
+  }, 
+  {
+   "begin": "140.960", 
+   "children": [], 
+   "end": "145.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das fordern wir seit drei Jahren."
+   ]
+  }, 
+  {
+   "begin": "145.280", 
+   "children": [], 
+   "end": "145.880", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen nat\u00fcrlich, "
+   ]
+  }, 
+  {
+   "begin": "145.880", 
+   "children": [], 
+   "end": "148.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass es in diesem Hause einige Fraktionen gibt, "
+   ]
+  }, 
+  {
+   "begin": "148.400", 
+   "children": [], 
+   "end": "150.160", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die dem noch ein bisschen skeptisch gegen\u00fcberstehen. "
+   ]
+  }, 
+  {
+   "begin": "150.160", 
+   "children": [], 
+   "end": "155.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Darum machen wir heute nur den ersten Schritt und fordern zun\u00e4chst einmal ein Modellprojekt. "
+   ]
+  }, 
+  {
+   "begin": "155.440", 
+   "children": [], 
+   "end": "157.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen von den Fraktionen, "
+   ]
+  }, 
+  {
+   "begin": "157.080", 
+   "children": [], 
+   "end": "159.800", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "die das eher konservativ sehen, "
+   ]
+  }, 
+  {
+   "begin": "159.800", 
+   "children": [], 
+   "end": "161.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen doch nicht ernsthaft dagegen sein, "
+   ]
+  }, 
+  {
+   "begin": "161.360", 
+   "children": [], 
+   "end": "162.680", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass wir kl\u00fcger werden. "
+   ]
+  }, 
+  {
+   "begin": "162.680", 
+   "children": [], 
+   "end": "164.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns doch erst einmal einem Modellprojekt zustimmen, "
+   ]
+  }, 
+  {
+   "begin": "164.600", 
+   "children": [], 
+   "end": "165.800", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "und nach dem Modellprojekt wissen wir, "
+   ]
+  }, 
+  {
+   "begin": "165.800", 
+   "children": [], 
+   "end": "166.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wie es geht."
+   ]
+  }, 
+  {
+   "begin": "166.560", 
+   "children": [], 
+   "end": "168.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Bitte ist also: "
+   ]
+  }, 
+  {
+   "begin": "168.000", 
+   "children": [], 
+   "end": "170.160", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Stimmen Sie wenigstens einem Modellprojekt zu, "
+   ]
+  }, 
+  {
+   "begin": "170.160", 
+   "children": [], 
+   "end": "174.440", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn Sie insgesamt noch ein bisschen skeptisch sind."
+   ]
+  }, 
+  {
+   "begin": "174.440", 
+   "children": [], 
+   "end": "176.040", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "176.040", 
+   "children": [], 
+   "end": "177.920", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "ich bringe es auf folgenden Punkt: "
+   ]
+  }, 
+  {
+   "begin": "177.920", 
+   "children": [], 
+   "end": "180.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine andere Drogenpolitik. "
+   ]
+  }, 
+  {
+   "begin": "180.080", 
+   "children": [], 
+   "end": "181.120", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine Drogenpolitik, "
+   ]
+  }, 
+  {
+   "begin": "181.120", 
+   "children": [], 
+   "end": "183.920", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die die Interessen der Menschen in den Mittelpunkt stellt und nicht, "
+   ]
+  }, 
+  {
+   "begin": "183.920", 
+   "children": [], 
+   "end": "184.560", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "wie aktuell, "
+   ]
+  }, 
+  {
+   "begin": "184.560", 
+   "children": [], 
+   "end": "185.320", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Dogmen. "
+   ]
+  }, 
+  {
+   "begin": "185.320", 
+   "children": [], 
+   "end": "187.240", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Idee der Freien Demokraten. "
+   ]
+  }, 
+  {
+   "begin": "187.240", 
+   "children": [], 
+   "end": "188.720", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann es auch anders ausdr\u00fccken: "
+   ]
+  }, 
+  {
+   "begin": "188.720", 
+   "children": [], 
+   "end": "191.240", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine neue Generation von Drogenpolitik, "
+   ]
+  }, 
+  {
+   "begin": "191.240", 
+   "children": [], 
+   "end": "192.280", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "und daf\u00fcr wollen wir Ihre Unterst\u00fctzung."
+   ]
+  }, 
+  {
+   "begin": "192.280", 
+   "children": [], 
+   "end": "199.080", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "199.080", 
+   "children": [], 
+   "end": "205.000", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Der n\u00e4chste Redner ist Stephan Pilsinger von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

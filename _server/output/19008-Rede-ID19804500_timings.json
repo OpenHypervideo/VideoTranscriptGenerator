@@ -1,0 +1,804 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "children": [], 
+   "end": "8.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "children": [], 
+   "end": "10.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Es ist Dampf im Kessel. "
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "children": [], 
+   "end": "12.400", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Es ist zwingend n\u00f6tig, "
+   ]
+  }, 
+  {
+   "begin": "12.400", 
+   "children": [], 
+   "end": "14.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Druck aus diesem Kessel herauszulassen. "
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "children": [], 
+   "end": "15.120", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Und: "
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "children": [], 
+   "end": "15.920", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "15.920", 
+   "children": [], 
+   "end": "18.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "wir brauchen mehr Courage, "
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "children": [], 
+   "end": "21.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "um die brennenden Probleme der Pflege anzupacken."
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "children": [], 
+   "end": "22.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Darum ist es gut, "
+   ]
+  }, 
+  {
+   "begin": "22.800", 
+   "children": [], 
+   "end": "25.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass sich hier ein breiter Wille abzeichnet, "
+   ]
+  }, 
+  {
+   "begin": "25.320", 
+   "children": [], 
+   "end": "27.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die Situation in der Kranken- "
+   ]
+  }, 
+  {
+   "begin": "27.320", 
+   "children": [], 
+   "end": "29.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und Altenpflege sp\u00fcrbar zu verbessern. "
+   ]
+  }, 
+  {
+   "begin": "29.320", 
+   "children": [], 
+   "end": "32.320", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die Pflegest\u00e4rkungsgesetze waren wichtig. "
+   ]
+  }, 
+  {
+   "begin": "32.320", 
+   "children": [], 
+   "end": "37.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Auch mit der Krankenhausstrukturreform haben wir wichtige Weichenstellungen vorgenommen. "
+   ]
+  }, 
+  {
+   "begin": "37.840", 
+   "children": [], 
+   "end": "40.960", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Aber jetzt ist die Zeit reif f\u00fcr Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "40.960", 
+   "children": [], 
+   "end": "44.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die die Pflegekr\u00e4fte sp\u00fcrbar entlasten."
+   ]
+  }, 
+  {
+   "begin": "44.320", 
+   "children": [], 
+   "end": "45.640", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "In Ihren Antr\u00e4gen, "
+   ]
+  }, 
+  {
+   "begin": "45.640", 
+   "children": [], 
+   "end": "47.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen der Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "47.920", 
+   "children": [], 
+   "end": "49.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "nennen Sie wichtige Punkte, "
+   ]
+  }, 
+  {
+   "begin": "49.920", 
+   "children": [], 
+   "end": "50.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die, "
+   ]
+  }, 
+  {
+   "begin": "50.120", 
+   "children": [], 
+   "end": "52.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie selbst einr\u00e4umen, "
+   ]
+  }, 
+  {
+   "begin": "52.040", 
+   "children": [], 
+   "end": "55.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "schon weitgehend politisch konsentiert sind. "
+   ]
+  }, 
+  {
+   "begin": "55.200", 
+   "children": [], 
+   "end": "56.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Dennoch muss klar sein: "
+   ]
+  }, 
+  {
+   "begin": "56.520", 
+   "children": [], 
+   "end": "60.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ein solches Sofortprogramm reicht nicht aus. "
+   ]
+  }, 
+  {
+   "begin": "60.200", 
+   "children": [], 
+   "end": "63.320", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen grundlegende strukturelle Ver\u00e4nderungen. "
+   ]
+  }, 
+  {
+   "begin": "63.320", 
+   "children": [], 
+   "end": "65.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen einen Plan, "
+   ]
+  }, 
+  {
+   "begin": "65.280", 
+   "children": [], 
+   "end": "78.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "wie die notwendigen Einzelma\u00dfnahmen zu einem Gesamtkonzept zusammengef\u00fchrt werden und wer als B\u00fcndnispartner daf\u00fcr gewonnen werden muss."
+   ]
+  }, 
+  {
+   "begin": "78.720", 
+   "children": [], 
+   "end": "82.360", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wer dem Fachkr\u00e4ftemangel wirksam begegnen will, "
+   ]
+  }, 
+  {
+   "begin": "82.360", 
+   "children": [], 
+   "end": "85.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "der muss gleichzeitig die Arbeitsbedingungen verbessern. "
+   ]
+  }, 
+  {
+   "begin": "85.680", 
+   "children": [], 
+   "end": "88.720", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Das erscheint wie die Quadratur des Kreises. "
+   ]
+  }, 
+  {
+   "begin": "88.720", 
+   "children": [], 
+   "end": "92.400", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Doch nur wenn beides gleicherma\u00dfen ernst genommen wird, "
+   ]
+  }, 
+  {
+   "begin": "92.400", 
+   "children": [], 
+   "end": "98.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "werden die in der Pflege T\u00e4tigen wieder Vertrauen fassen. "
+   ]
+  }, 
+  {
+   "begin": "98.080", 
+   "children": [], 
+   "end": "99.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Darum ist klar: "
+   ]
+  }, 
+  {
+   "begin": "99.680", 
+   "children": [], 
+   "end": "102.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Es ist nicht nur die Politik in Bund, "
+   ]
+  }, 
+  {
+   "begin": "102.560", 
+   "children": [], 
+   "end": "104.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "L\u00e4ndern und Gemeinden gefragt, "
+   ]
+  }, 
+  {
+   "begin": "104.600", 
+   "children": [], 
+   "end": "107.880", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "sondern es m\u00fcssen auch die Sozialpartner mit ins Boot geholt werden. "
+   ]
+  }, 
+  {
+   "begin": "107.880", 
+   "children": [], 
+   "end": "113.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen allgemeinverbindliche Tarifvertr\u00e4ge f\u00fcr die Pflege erk\u00e4mpfen."
+   ]
+  }, 
+  {
+   "begin": "113.320", 
+   "children": [], 
+   "end": "117.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Es ist einfach nicht l\u00e4nger hinzunehmen, "
+   ]
+  }, 
+  {
+   "begin": "117.440", 
+   "children": [], 
+   "end": "122.840", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass eine Altenpflegerin im Schnitt nur 2\u00a0600\u00a0Euro im Monat verdient, "
+   ]
+  }, 
+  {
+   "begin": "122.840", 
+   "children": [], 
+   "end": "127.160", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend eine Krankenpflegerin 3\u00a0200\u00a0Euro bekommt. "
+   ]
+  }, 
+  {
+   "begin": "127.160", 
+   "children": [], 
+   "end": "129.240", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Noch skandal\u00f6ser ist es, "
+   ]
+  }, 
+  {
+   "begin": "129.240", 
+   "children": [], 
+   "end": "139.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wenn eine Altenpflegerin in Sachsen-Anhalt fast 1\u00a0000\u00a0Euro weniger verdient als eine Kraft f\u00fcr die gleiche Arbeit in Baden-W\u00fcrttemberg."
+   ]
+  }, 
+  {
+   "begin": "139.680", 
+   "children": [], 
+   "end": "144.360", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4hnliche Differenzen gibt es bundesweit auch bei den Personalanhaltszahlen. "
+   ]
+  }, 
+  {
+   "begin": "144.360", 
+   "children": [], 
+   "end": "150.760", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ein Instrument zur Personalbemessung wird da wichtige fachliche Grundlagen schaffen. "
+   ]
+  }, 
+  {
+   "begin": "150.760", 
+   "children": [], 
+   "end": "152.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch das reicht nicht; "
+   ]
+  }, 
+  {
+   "begin": "152.600", 
+   "children": [], 
+   "end": "154.840", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "denn in der Praxis ist allen klar, "
+   ]
+  }, 
+  {
+   "begin": "154.840", 
+   "children": [], 
+   "end": "158.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass wir schleunigst bessere Personalschl\u00fcssel brauchen, "
+   ]
+  }, 
+  {
+   "begin": "158.080", 
+   "children": [], 
+   "end": "166.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "sowohl in der Altenpflege als auch in den Krankenh\u00e4usern und dort selbstverst\u00e4ndlich auf allen bettenf\u00fchrenden Stationen."
+   ]
+  }, 
+  {
+   "begin": "166.640", 
+   "children": [], 
+   "end": "169.160", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Die zus\u00e4tzlichen Kosten f\u00fcr einen Heimplatz\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "169.160", 
+   "children": [], 
+   "end": "170.440", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "das wissen alle\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.440", 
+   "children": [], 
+   "end": "174.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnen nicht mehr allein von den Pflegebed\u00fcrftigen getragen werden. "
+   ]
+  }, 
+  {
+   "begin": "174.560", 
+   "children": [], 
+   "end": "175.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Vorschlag, "
+   ]
+  }, 
+  {
+   "begin": "175.840", 
+   "children": [], 
+   "end": "177.320", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "liebe Gr\u00fcne, "
+   ]
+  }, 
+  {
+   "begin": "177.320", 
+   "children": [], 
+   "end": "182.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "das brachliegende Geld aus dem Pflegevorsorgefonds f\u00fcr ein Sofortprogramm einzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "182.560", 
+   "children": [], 
+   "end": "190.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "kann durchaus ein sinnvoller Finanzierungsbaustein sein."
+   ]
+  }, 
+  {
+   "begin": "190.760", 
+   "children": [], 
+   "end": "196.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "W\u00fcrde man diese 1,2\u00a0Milliarden Euro pro Jahr daf\u00fcr verwenden, "
+   ]
+  }, 
+  {
+   "begin": "196.240", 
+   "children": [], 
+   "end": "201.720", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "je Wohngruppe mit 30\u00a0Bewohnern eine zus\u00e4tzliche Stelle zu finanzieren, "
+   ]
+  }, 
+  {
+   "begin": "201.720", 
+   "children": [], 
+   "end": "205.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrden sogar die Pflegeschl\u00fcssel unmittelbar verbessert. "
+   ]
+  }, 
+  {
+   "begin": "205.760", 
+   "children": [], 
+   "end": "209.160", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re tats\u00e4chlich ein starkes Signal."
+   ]
+  }, 
+  {
+   "begin": "209.160", 
+   "children": [], 
+   "end": "211.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wer also die Pflege nachhaltig verbessern will, "
+   ]
+  }, 
+  {
+   "begin": "211.480", 
+   "children": [], 
+   "end": "214.160", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ha\u00dfelmann, "
+   ]
+  }, 
+  {
+   "begin": "214.160", 
+   "children": [], 
+   "end": "219.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "der braucht einen Plan und muss vor allem alle Ebenen an einen Tisch holen."
+   ]
+  }, 
+  {
+   "begin": "219.920", 
+   "children": [], 
+   "end": "220.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Nein, "
+   ]
+  }, 
+  {
+   "begin": "220.440", 
+   "children": [], 
+   "end": "222.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "was bei Ihnen fehlt, "
+   ]
+  }, 
+  {
+   "begin": "222.080", 
+   "children": [], 
+   "end": "222.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "222.440", 
+   "children": [], 
+   "end": "224.160", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass alle an einen Tisch gebracht werden."
+   ]
+  }, 
+  {
+   "begin": "224.160", 
+   "children": [], 
+   "end": "224.800", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Es sind Bund, "
+   ]
+  }, 
+  {
+   "begin": "224.800", 
+   "children": [], 
+   "end": "226.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "L\u00e4nder und Gemeinden gefragt, "
+   ]
+  }, 
+  {
+   "begin": "226.600", 
+   "children": [], 
+   "end": "228.560", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "es sind die Sozialpartner gefordert, "
+   ]
+  }, 
+  {
+   "begin": "228.560", 
+   "children": [], 
+   "end": "232.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "die Leistungserbringer wie auch die Kranken- "
+   ]
+  }, 
+  {
+   "begin": "232.360", 
+   "children": [], 
+   "end": "233.480", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegekassen."
+   ]
+  }, 
+  {
+   "begin": "233.480", 
+   "children": [], 
+   "end": "238.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Auch zivilgesellschaftliche Akteure und Interessenvertretungen und\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "238.480", 
+   "children": [], 
+   "end": "240.080", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "das ist besonders wichtig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "240.080", 
+   "children": [], 
+   "end": "244.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die Pflegekr\u00e4fte selbst m\u00fcssen mit ins Boot geholt werden und mitreden k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "244.440", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "250.240", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "es ist Zeit f\u00fcr einen Masterplan Pflege. "
+   ]
+  }, 
+  {
+   "begin": "250.240", 
+   "children": [], 
+   "end": "255.040", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Sozialdemokratinnen und Sozialdemokraten stehen daf\u00fcr bereit."
+   ]
+  }, 
+  {
+   "begin": "255.040", 
+   "children": [], 
+   "end": "255.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "255.280", 
+   "children": [], 
+   "end": "262.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Zu seiner ersten Rede erteile ich jetzt dem Kollegen Dr.\u00a0Robby Schlund von der AfD-Fraktion das Wort."
+   ]
+  }
+ ]
+}

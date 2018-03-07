@@ -1,0 +1,954 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "children": [], 
+   "end": "17.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "children": [], 
+   "end": "22.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Ausbauzustand des Mobilfunknetzes insgesamt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "22.360", 
+   "children": [], 
+   "end": "23.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "wir haben es schon geh\u00f6rt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.440", 
+   "children": [], 
+   "end": "23.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "ist erb\u00e4rmlich. "
+   ]
+  }, 
+  {
+   "begin": "23.760", 
+   "children": [], 
+   "end": "27.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die Versorgung mit LTE kann den Bedarf bei weitem nicht decken. "
+   ]
+  }, 
+  {
+   "begin": "27.600", 
+   "children": [], 
+   "end": "29.840", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Da dr\u00e4ngen sich die Fragen auf: "
+   ]
+  }, 
+  {
+   "begin": "29.840", 
+   "children": [], 
+   "end": "31.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wo liegen die Ursachen? "
+   ]
+  }, 
+  {
+   "begin": "31.920", 
+   "children": [], 
+   "end": "35.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wie kann das in einem hochindustrialisierten Land sein, "
+   ]
+  }, 
+  {
+   "begin": "35.800", 
+   "children": [], 
+   "end": "37.440", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dessen Wohlstand von Wissen, "
+   ]
+  }, 
+  {
+   "begin": "37.440", 
+   "children": [], 
+   "end": "40.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Information und Kommunikation abh\u00e4ngig ist? "
+   ]
+  }, 
+  {
+   "begin": "40.680", 
+   "children": [], 
+   "end": "44.360", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Es fehlt weder an Technik noch an Kapital; "
+   ]
+  }, 
+  {
+   "begin": "44.360", 
+   "children": [], 
+   "end": "47.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "aber es fehlen die geeigneten Rahmenbedingungen."
+   ]
+  }, 
+  {
+   "begin": "47.440", 
+   "children": [], 
+   "end": "48.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Hinzu kommt: "
+   ]
+  }, 
+  {
+   "begin": "48.720", 
+   "children": [], 
+   "end": "55.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Digitale Infrastruktur war die letzten vier Jahre bestenfalls Randthema im zust\u00e4ndigen Ministerium. "
+   ]
+  }, 
+  {
+   "begin": "55.440", 
+   "children": [], 
+   "end": "56.360", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wunder, "
+   ]
+  }, 
+  {
+   "begin": "56.360", 
+   "children": [], 
+   "end": "59.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "wenn man sich \u00fcber eine ganze Legislatur hinweg prim\u00e4r, "
+   ]
+  }, 
+  {
+   "begin": "59.120", 
+   "children": [], 
+   "end": "67.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "aber umso erfolgloser mit der Umsetzung eines sinnlosen Wahlversprechens wie der Pkw-Maut besch\u00e4ftigt!"
+   ]
+  }, 
+  {
+   "begin": "67.840", 
+   "children": [], 
+   "end": "71.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Hat man sich dort \u00fcberhaupt mit Technik befasst, "
+   ]
+  }, 
+  {
+   "begin": "71.000", 
+   "children": [], 
+   "end": "74.240", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dann vorzugsweise mit \u00dcbergangstechnologien. "
+   ]
+  }, 
+  {
+   "begin": "74.240", 
+   "children": [], 
+   "end": "76.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Egal ob Diesel oder Vectoring\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "76.480", 
+   "children": [], 
+   "end": "77.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "es ging um alte Technologien, "
+   ]
+  }, 
+  {
+   "begin": "77.880", 
+   "children": [], 
+   "end": "78.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die allesamt in die Sackgasse f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "78.960", 
+   "children": [], 
+   "end": "81.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ganz kleines Karo. "
+   ]
+  }, 
+  {
+   "begin": "81.160", 
+   "children": [], 
+   "end": "84.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Dabei w\u00e4re Weitsicht vonn\u00f6ten gewesen. "
+   ]
+  }, 
+  {
+   "begin": "84.040", 
+   "children": [], 
+   "end": "88.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Gro\u00dfes Karo fand sich aber bestenfalls auf dem Anzug des Ministers."
+   ]
+  }, 
+  {
+   "begin": "88.880", 
+   "children": [], 
+   "end": "92.520", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Auch fachlich gab es Orientierungslosigkeit. "
+   ]
+  }, 
+  {
+   "begin": "92.520", 
+   "children": [], 
+   "end": "97.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Eine Antwort auf die Frage nach der F\u00f6rderung von Breitband war, "
+   ]
+  }, 
+  {
+   "begin": "97.680", 
+   "children": [], 
+   "end": "101.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "60\u00a0Prozent der Mittel seien in Glasfaser geflossen. "
+   ]
+  }, 
+  {
+   "begin": "101.160", 
+   "children": [], 
+   "end": "101.800", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft also, "
+   ]
+  }, 
+  {
+   "begin": "101.800", 
+   "children": [], 
+   "end": "103.000", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "40\u00a0Prozent flossen in Kupfer. "
+   ]
+  }, 
+  {
+   "begin": "103.000", 
+   "children": [], 
+   "end": "104.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Eine andere Antwort war indes, "
+   ]
+  }, 
+  {
+   "begin": "104.440", 
+   "children": [], 
+   "end": "106.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "es werde ausschlie\u00dflich Glasfaser gef\u00f6rdert.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "106.680", 
+   "children": [], 
+   "end": "108.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Da wei\u00df die linke Hand nicht, "
+   ]
+  }, 
+  {
+   "begin": "108.120", 
+   "children": [], 
+   "end": "109.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "was die rechte tut. "
+   ]
+  }, 
+  {
+   "begin": "109.520", 
+   "children": [], 
+   "end": "112.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Zudem kennt man die eigenen F\u00f6rderrichtlinien nicht."
+   ]
+  }, 
+  {
+   "begin": "112.600", 
+   "children": [], 
+   "end": "117.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die derzeitige Abdeckung der Fl\u00e4che mit LTE kann auf Nachfrage nur gesch\u00e4tzt werden. "
+   ]
+  }, 
+  {
+   "begin": "117.840", 
+   "children": [], 
+   "end": "119.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Ob die genannten 60\u00a0Prozent stimmen, "
+   ]
+  }, 
+  {
+   "begin": "119.720", 
+   "children": [], 
+   "end": "120.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "ist fraglich. "
+   ]
+  }, 
+  {
+   "begin": "120.920", 
+   "children": [], 
+   "end": "128.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Bei der Pr\u00fcfung der Versorgungsauflagen verl\u00e4sst man sich auf Konzernangaben und erhebt lediglich Stichproben. "
+   ]
+  }, 
+  {
+   "begin": "128.000", 
+   "children": [], 
+   "end": "129.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das Verfahren hat sich ja schlie\u00dflich, "
+   ]
+  }, 
+  {
+   "begin": "129.760", 
+   "children": [], 
+   "end": "131.240", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "siehe Abgasskandal, "
+   ]
+  }, 
+  {
+   "begin": "131.240", 
+   "children": [], 
+   "end": "131.760", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "bestens bew\u00e4hrt. "
+   ]
+  }, 
+  {
+   "begin": "131.760", 
+   "children": [], 
+   "end": "133.200", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man dann noch sieht, "
+   ]
+  }, 
+  {
+   "begin": "133.200", 
+   "children": [], 
+   "end": "137.440", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass die H\u00e4lfte der bisherigen F\u00f6rderungen an die Telekom geht, "
+   ]
+  }, 
+  {
+   "begin": "137.440", 
+   "children": [], 
+   "end": "146.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die historisch gewachsene Verbindungen pflegt und ehrgeizige kommunale Glasfaserprojekte immer noch mit Kupferausbau konterkariert, "
+   ]
+  }, 
+  {
+   "begin": "146.040", 
+   "children": [], 
+   "end": "148.200", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "bekommt man eine grobe Ahnung davon, "
+   ]
+  }, 
+  {
+   "begin": "148.200", 
+   "children": [], 
+   "end": "153.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "warum Deutschland beim Ausbau der digitalen Infrastruktur im Ranking ganz weit hinten steht, "
+   ]
+  }, 
+  {
+   "begin": "153.880", 
+   "children": [], 
+   "end": "157.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbrigens deutlich weiter hinten als auf dem Korruptionsindex."
+   ]
+  }, 
+  {
+   "begin": "157.800", 
+   "children": [], 
+   "end": "159.440", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt k\u00f6nnte man sagen: "
+   ]
+  }, 
+  {
+   "begin": "159.440", 
+   "children": [], 
+   "end": "160.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "\u201eGefahr erkannt, "
+   ]
+  }, 
+  {
+   "begin": "160.240", 
+   "children": [], 
+   "end": "161.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Gefahr gebannt!\u201c, "
+   ]
+  }, 
+  {
+   "begin": "161.200", 
+   "children": [], 
+   "end": "161.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "oder: "
+   ]
+  }, 
+  {
+   "begin": "161.400", 
+   "children": [], 
+   "end": "162.160", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "\u201eNeue Regierung, "
+   ]
+  }, 
+  {
+   "begin": "162.160", 
+   "children": [], 
+   "end": "164.160", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "neues Spiel!\u201c Irrtum! "
+   ]
+  }, 
+  {
+   "begin": "164.160", 
+   "children": [], 
+   "end": "165.560", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Weit gefehlt! "
+   ]
+  }, 
+  {
+   "begin": "165.560", 
+   "children": [], 
+   "end": "175.000", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Anstatt die notwendigen Konsequenzen aus den genannten Missst\u00e4nden zu ziehen und das Querschnittsthema Digitalisierung zu priorisieren und zu b\u00fcndeln, "
+   ]
+  }, 
+  {
+   "begin": "175.000", 
+   "children": [], 
+   "end": "179.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "gibt es bald ein Ministerium f\u00fcr Heimat."
+   ]
+  }, 
+  {
+   "begin": "179.760", 
+   "children": [], 
+   "end": "182.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Man reibt sich die Augen und fragt nach dem Sinn. "
+   ]
+  }, 
+  {
+   "begin": "182.520", 
+   "children": [], 
+   "end": "184.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "In meiner Naivit\u00e4t habe ich bisher gedacht, "
+   ]
+  }, 
+  {
+   "begin": "184.920", 
+   "children": [], 
+   "end": "187.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "es sei Aufgabe jedes Ministeriums, "
+   ]
+  }, 
+  {
+   "begin": "187.080", 
+   "children": [], 
+   "end": "188.200", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr zu sorgen, "
+   ]
+  }, 
+  {
+   "begin": "188.200", 
+   "children": [], 
+   "end": "190.200", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland Heimat ist. "
+   ]
+  }, 
+  {
+   "begin": "190.200", 
+   "children": [], 
+   "end": "191.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Heimatministerium, "
+   ]
+  }, 
+  {
+   "begin": "191.880", 
+   "children": [], 
+   "end": "193.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "das ist akustisch nahe an Heimatmuseum."
+   ]
+  }, 
+  {
+   "begin": "193.880", 
+   "children": [], 
+   "end": "194.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Nun, "
+   ]
+  }, 
+  {
+   "begin": "194.640", 
+   "children": [], 
+   "end": "197.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Heimat kann man auch modern interpretieren. "
+   ]
+  }, 
+  {
+   "begin": "197.360", 
+   "children": [], 
+   "end": "199.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Jugendliche beschreiben Heimat gerne als Ort, "
+   ]
+  }, 
+  {
+   "begin": "199.960", 
+   "children": [], 
+   "end": "201.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wo die drei Balken sind. "
+   ]
+  }, 
+  {
+   "begin": "201.560", 
+   "children": [], 
+   "end": "202.360", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "202.360", 
+   "children": [], 
+   "end": "206.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "die das Internet bis vor kurzem noch als Neuland betrachtet haben: "
+   ]
+  }, 
+  {
+   "begin": "206.200", 
+   "children": [], 
+   "end": "208.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Damit sind nicht die Balken vor dem Kopf gemeint, "
+   ]
+  }, 
+  {
+   "begin": "208.760", 
+   "children": [], 
+   "end": "216.880", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "sondern die Balken f\u00fcr den Netzstatus bei mobilen Endger\u00e4ten."
+   ]
+  }, 
+  {
+   "begin": "216.880", 
+   "children": [], 
+   "end": "219.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "So interpretieren \u00fcbrigens nicht nur junge Menschen den Begriff Heimat, "
+   ]
+  }, 
+  {
+   "begin": "219.160", 
+   "children": [], 
+   "end": "221.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch Wirtschaft und Wissenschaft. "
+   ]
+  }, 
+  {
+   "begin": "221.280", 
+   "children": [], 
+   "end": "230.640", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Digitale Infrastruktur und auch die Sicherheit der digitalen Infrastruktur geh\u00f6ren faktisch zur klassischen Daseinsvorsorge."
+   ]
+  }, 
+  {
+   "begin": "230.640", 
+   "children": [], 
+   "end": "237.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir gleichwertige Lebensverh\u00e4ltnisse und die Zukunftsperspektiven von Menschen und Wirtschaft in Deutschland sichern wollen, "
+   ]
+  }, 
+  {
+   "begin": "237.760", 
+   "children": [], 
+   "end": "246.640", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "brauchen wir eine Beschleunigung des Aufbaus eines engmaschigen Glasfasernetzes und parallel dazu den Ausbau von 5G. "
+   ]
+  }, 
+  {
+   "begin": "246.640", 
+   "children": [], 
+   "end": "255.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Diese Tatsache bietet eigentlich die Steilvorlage f\u00fcr eine strukturierte und integrierte Planung des Glasfaserausbaus hin zu einem Gigabit-Netz. "
+   ]
+  }, 
+  {
+   "begin": "255.480", 
+   "children": [], 
+   "end": "258.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Doch was hat die GroKo in dieser Hinsicht vor?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "258.440", 
+   "children": [], 
+   "end": "259.240", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Nichts! "
+   ]
+  }, 
+  {
+   "begin": "259.240", 
+   "children": [], 
+   "end": "263.520", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Sie \u00fcberl\u00e4sst die wesentliche Basis f\u00fcr erfolgreiche Digitalisierung, "
+   ]
+  }, 
+  {
+   "begin": "263.520", 
+   "children": [], 
+   "end": "266.120", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "den fl\u00e4chendeckenden Glasfaserausbau, "
+   ]
+  }, 
+  {
+   "begin": "266.120", 
+   "children": [], 
+   "end": "271.560", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "dem freien Spiel der Kr\u00e4fte und dem bisher erfolglosen Ministerium f\u00fcr Verkehr."
+   ]
+  }, 
+  {
+   "begin": "271.560", 
+   "children": [], 
+   "end": "274.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "274.080", 
+   "children": [], 
+   "end": "283.360", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Google zeigt bei Eingabe der drei Stichw\u00f6rter \u201eDeutschland verschl\u00e4ft Digitalisierung\u201c rund 256\u00a0000\u00a0Ergebnisse. "
+   ]
+  }, 
+  {
+   "begin": "283.360", 
+   "children": [], 
+   "end": "287.600", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Das manifestiert ein Armutszeugnis f\u00fcr die Digitalisierungspolitik der bisherigen Regierung."
+   ]
+  }, 
+  {
+   "begin": "287.600", 
+   "children": [], 
+   "end": "297.360", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Mit einem Weiter-so wird Deutschland den Anschluss an die digitale Avantgarde nicht schaffen. "
+   ]
+  }, 
+  {
+   "begin": "297.360", 
+   "children": [], 
+   "end": "302.200", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen gezielte Schritte hin zu einer strukturierten Digitalisierungsoffensive, "
+   ]
+  }, 
+  {
+   "begin": "302.200", 
+   "children": [], 
+   "end": "305.560", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "hin zur digitalen Daseinsvorsorge. "
+   ]
+  }, 
+  {
+   "begin": "305.560", 
+   "children": [], 
+   "end": "307.520", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft f\u00fcr die neue Regierung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "307.520", 
+   "children": [], 
+   "end": "308.640", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "so sie denn kommt\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "308.640", 
+   "children": [], 
+   "end": "310.480", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4ndern Sie Ihre Strategie! "
+   ]
+  }, 
+  {
+   "begin": "310.480", 
+   "children": [], 
+   "end": "313.640", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Stellen Sie sich endlich dieser Herausforderung!"
+   ]
+  }, 
+  {
+   "begin": "313.640", 
+   "children": [], 
+   "end": "319.960", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin ist die Kollegin Nadine Sch\u00f6n von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

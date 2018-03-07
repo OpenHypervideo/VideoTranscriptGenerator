@@ -1,0 +1,974 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.001", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "0.001", 
+   "children": [], 
+   "end": "5.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "children": [], 
+   "end": "12.040", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste! "
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "children": [], 
+   "end": "16.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Eine digitalisierte Welt ist f\u00fcr manchen total faszinierend. "
+   ]
+  }, 
+  {
+   "begin": "16.560", 
+   "children": [], 
+   "end": "20.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wie absurd nah sich Chancen und Risiken sein k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "20.000", 
+   "children": [], 
+   "end": "22.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "beschreibt Marc-Uwe Kling in \u201eQualityland\u201c sehr, "
+   ]
+  }, 
+  {
+   "begin": "22.560", 
+   "children": [], 
+   "end": "23.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "sehr gut. "
+   ]
+  }, 
+  {
+   "begin": "23.120", 
+   "children": [], 
+   "end": "25.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Es ist sehr am\u00fcsant zu lesen. "
+   ]
+  }, 
+  {
+   "begin": "25.320", 
+   "children": [], 
+   "end": "30.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Aber gleichzeitig bleibt einem das Lachen manchmal im Halse stecken."
+   ]
+  }, 
+  {
+   "begin": "30.080", 
+   "children": [], 
+   "end": "35.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Auch im Hinblick auf die Landwirtschaft ist jedenfalls meine Euphorie sehr ged\u00e4mpft. "
+   ]
+  }, 
+  {
+   "begin": "35.840", 
+   "children": [], 
+   "end": "37.360", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Spannend ist auch die Frage: "
+   ]
+  }, 
+  {
+   "begin": "37.360", 
+   "children": [], 
+   "end": "39.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wem n\u00fctzt das eigentlich? "
+   ]
+  }, 
+  {
+   "begin": "39.200", 
+   "children": [], 
+   "end": "46.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich sind viele Wohltaten in einer vernetzten Pr\u00e4zisionslandwirtschaft vorstellbar und auch schon real. "
+   ]
+  }, 
+  {
+   "begin": "46.640", 
+   "children": [], 
+   "end": "51.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Lenken uns diese Hightechtr\u00e4ume aber nicht allzu oft von den wirklichen Problemen ab?"
+   ]
+  }, 
+  {
+   "begin": "51.200", 
+   "children": [], 
+   "end": "52.400", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Beispiele:"
+   ]
+  }, 
+  {
+   "begin": "52.400", 
+   "children": [], 
+   "end": "52.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "52.680", 
+   "children": [], 
+   "end": "61.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich k\u00f6nnen wir mit einer pr\u00e4ziseren Ausbringung von D\u00fcngemitteln Boden und Gew\u00e4sser besser sch\u00fctzen und knappe Rohstoffe einsparen. "
+   ]
+  }, 
+  {
+   "begin": "61.400", 
+   "children": [], 
+   "end": "63.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Ist das aber eigentlich das Hauptproblem? "
+   ]
+  }, 
+  {
+   "begin": "63.320", 
+   "children": [], 
+   "end": "67.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wenn weiter regional zu viel G\u00fclle anf\u00e4llt und entsorgt werden muss, "
+   ]
+  }, 
+  {
+   "begin": "67.400", 
+   "children": [], 
+   "end": "68.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "statt damit zu d\u00fcngen, "
+   ]
+  }, 
+  {
+   "begin": "68.440", 
+   "children": [], 
+   "end": "71.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "\u00e4ndert die Digitalisierung daran doch \u00fcberhaupt nichts."
+   ]
+  }, 
+  {
+   "begin": "71.520", 
+   "children": [], 
+   "end": "72.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "72.960", 
+   "children": [], 
+   "end": "73.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich ist es gut, "
+   ]
+  }, 
+  {
+   "begin": "73.800", 
+   "children": [], 
+   "end": "78.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "wenn sich Imkereien und die Landwirtschaft auf Online-Plattformen vernetzen, "
+   ]
+  }, 
+  {
+   "begin": "78.480", 
+   "children": [], 
+   "end": "80.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "um Informationen dar\u00fcber auszutauschen, "
+   ]
+  }, 
+  {
+   "begin": "80.720", 
+   "children": [], 
+   "end": "81.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wo, "
+   ]
+  }, 
+  {
+   "begin": "81.000", 
+   "children": [], 
+   "end": "85.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wann und wie welche bienensch\u00e4dlichen Pflanzenschutzmittel ausgebracht werden. "
+   ]
+  }, 
+  {
+   "begin": "85.920", 
+   "children": [], 
+   "end": "90.840", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "An den Sch\u00e4den f\u00fcr die wildlebenden Insekten \u00e4ndert das aber \u00fcberhaupt nichts."
+   ]
+  }, 
+  {
+   "begin": "90.840", 
+   "children": [], 
+   "end": "92.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb: "
+   ]
+  }, 
+  {
+   "begin": "92.040", 
+   "children": [], 
+   "end": "95.040", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung hat Potenzial, "
+   ]
+  }, 
+  {
+   "begin": "95.040", 
+   "children": [], 
+   "end": "96.960", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "sie ist aber h\u00f6chstens eine Teill\u00f6sung."
+   ]
+  }, 
+  {
+   "begin": "96.960", 
+   "children": [], 
+   "end": "99.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das gilt \u00fcbrigens auch f\u00fcr die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "99.320", 
+   "children": [], 
+   "end": "102.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "monotone oder k\u00f6rperlich schwere Arbeit zu \u00fcbernehmen. "
+   ]
+  }, 
+  {
+   "begin": "102.080", 
+   "children": [], 
+   "end": "102.800", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "102.800", 
+   "children": [], 
+   "end": "105.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "warum soll man nicht tagelanges Auf- "
+   ]
+  }, 
+  {
+   "begin": "105.000", 
+   "children": [], 
+   "end": "110.280", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "und Abfahren zum S\u00e4en oder Ernten durch autonome Fahrtechnik ersetzen, "
+   ]
+  }, 
+  {
+   "begin": "110.280", 
+   "children": [], 
+   "end": "113.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "erst recht wenn eine Drohne vorher mit W\u00e4rmebildkameras guckt, "
+   ]
+  }, 
+  {
+   "begin": "113.480", 
+   "children": [], 
+   "end": "116.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "ob zum Beispiel Kitze in der Fl\u00e4che liegen? "
+   ]
+  }, 
+  {
+   "begin": "116.240", 
+   "children": [], 
+   "end": "119.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich ist Melken eine k\u00f6rperlich schwere Arbeit, "
+   ]
+  }, 
+  {
+   "begin": "119.240", 
+   "children": [], 
+   "end": "124.080", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die eine technische Entlastung jederzeit willkommen ist. "
+   ]
+  }, 
+  {
+   "begin": "124.080", 
+   "children": [], 
+   "end": "126.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Auch als Tier\u00e4rztin frage ich aber: "
+   ]
+  }, 
+  {
+   "begin": "126.520", 
+   "children": [], 
+   "end": "127.280", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Was ist eigentlich, "
+   ]
+  }, 
+  {
+   "begin": "127.280", 
+   "children": [], 
+   "end": "130.720", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wenn nur noch Algorithmen entscheiden? "
+   ]
+  }, 
+  {
+   "begin": "130.720", 
+   "children": [], 
+   "end": "132.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Haben Roboter die komplexe Wahrnehmung, "
+   ]
+  }, 
+  {
+   "begin": "132.720", 
+   "children": [], 
+   "end": "136.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die wir f\u00fcr die Betreuung von Tierbest\u00e4nden brauchen? "
+   ]
+  }, 
+  {
+   "begin": "136.120", 
+   "children": [], 
+   "end": "138.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wer \u00fcbernimmt eigentlich die soziale Verantwortung f\u00fcr die, "
+   ]
+  }, 
+  {
+   "begin": "138.800", 
+   "children": [], 
+   "end": "141.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die durch teure Technik ersetzt werden, "
+   ]
+  }, 
+  {
+   "begin": "141.000", 
+   "children": [], 
+   "end": "142.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Besch\u00e4ftigten? "
+   ]
+  }, 
+  {
+   "begin": "142.000", 
+   "children": [], 
+   "end": "144.200", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wie soll die teure Technik bezahlt werden?"
+   ]
+  }, 
+  {
+   "begin": "144.200", 
+   "children": [], 
+   "end": "147.840", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Viele Landwirtschaftsbetriebe sind schon jetzt von Banken abh\u00e4ngig. "
+   ]
+  }, 
+  {
+   "begin": "147.840", 
+   "children": [], 
+   "end": "149.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wie soll die teure Technik bezahlt werden, "
+   ]
+  }, 
+  {
+   "begin": "149.880", 
+   "children": [], 
+   "end": "153.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Erzeugerpreise die Produktionskosten schon jetzt nicht mehr decken? "
+   ]
+  }, 
+  {
+   "begin": "153.840", 
+   "children": [], 
+   "end": "158.000", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das verst\u00e4rkt doch nur den Druck durch landwirtschaftsfremde Investoren. "
+   ]
+  }, 
+  {
+   "begin": "158.000", 
+   "children": [], 
+   "end": "163.080", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "In wie vielen Landwirtschaftsbetrieben wird schon jetzt vor allen Dingen daf\u00fcr geschuftet, "
+   ]
+  }, 
+  {
+   "begin": "163.080", 
+   "children": [], 
+   "end": "165.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass die Profite \u00fcberm\u00e4chtiger Saatgut-, "
+   ]
+  }, 
+  {
+   "begin": "165.680", 
+   "children": [], 
+   "end": "166.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Schlachthof-, "
+   ]
+  }, 
+  {
+   "begin": "166.320", 
+   "children": [], 
+   "end": "167.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Molkerei- "
+   ]
+  }, 
+  {
+   "begin": "167.200", 
+   "children": [], 
+   "end": "171.320", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "und Handelskonzerne sowie Bodenspekulanten gesichert werden? "
+   ]
+  }, 
+  {
+   "begin": "171.320", 
+   "children": [], 
+   "end": "175.160", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Sollen sie jetzt auch noch f\u00fcr gro\u00dfe Landtechnikkonzerne schuften? "
+   ]
+  }, 
+  {
+   "begin": "175.160", 
+   "children": [], 
+   "end": "180.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Braucht man nicht nur wenig Fantasie\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "180.320", 
+   "children": [], 
+   "end": "182.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "man kann null und eins zusammenz\u00e4hlen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "182.480", 
+   "children": [], 
+   "end": "182.760", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "um zu wissen, "
+   ]
+  }, 
+  {
+   "begin": "182.760", 
+   "children": [], 
+   "end": "183.400", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass eine App, "
+   ]
+  }, 
+  {
+   "begin": "183.400", 
+   "children": [], 
+   "end": "189.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die zum Beispiel von einem Landtechnikkonzern und einem Pflanzenschutzmittelkonzern angeboten wird, "
+   ]
+  }, 
+  {
+   "begin": "189.720", 
+   "children": [], 
+   "end": "192.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "auch entsprechende Produkte empfiehlt?"
+   ]
+  }, 
+  {
+   "begin": "192.120", 
+   "children": [], 
+   "end": "196.320", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Der XXL-Datenstaubsauger ist hier ja schon genannt worden. "
+   ]
+  }, 
+  {
+   "begin": "196.320", 
+   "children": [], 
+   "end": "198.160", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Muss der uns nicht alarmieren?"
+   ]
+  }, 
+  {
+   "begin": "198.160", 
+   "children": [], 
+   "end": "204.400", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Hier muss man unverz\u00fcglich klare gesetzliche Regeln schaffen, "
+   ]
+  }, 
+  {
+   "begin": "204.400", 
+   "children": [], 
+   "end": "210.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "die einerseits tats\u00e4chlich Transparenz und andererseits die Datenhoheit der Betriebe wirklich sichern. "
+   ]
+  }, 
+  {
+   "begin": "210.000", 
+   "children": [], 
+   "end": "214.760", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Das muss nat\u00fcrlich auch kontrollierbar und durchsetzbar verpflichtend sein."
+   ]
+  }, 
+  {
+   "begin": "214.760", 
+   "children": [], 
+   "end": "215.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Aus- "
+   ]
+  }, 
+  {
+   "begin": "215.840", 
+   "children": [], 
+   "end": "218.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "und Weiterbildung d\u00fcrfen wir hier nicht vergessen. "
+   ]
+  }, 
+  {
+   "begin": "218.520", 
+   "children": [], 
+   "end": "220.840", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Sie muss einen v\u00f6llig neuen Stellenwert bekommen."
+   ]
+  }, 
+  {
+   "begin": "220.840", 
+   "children": [], 
+   "end": "221.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "221.520", 
+   "children": [], 
+   "end": "225.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "angesichts der vielen Baustellen ist Euphorie fehl am Platz."
+   ]
+  }, 
+  {
+   "begin": "225.600", 
+   "children": [], 
+   "end": "227.200", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wo Schatten ist, "
+   ]
+  }, 
+  {
+   "begin": "227.200", 
+   "children": [], 
+   "end": "228.240", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "ist aber auch Licht. "
+   ]
+  }, 
+  {
+   "begin": "228.240", 
+   "children": [], 
+   "end": "231.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Davon war hier schon einmal die Rede. "
+   ]
+  }, 
+  {
+   "begin": "231.440", 
+   "children": [], 
+   "end": "235.600", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ein kooperatives Arbeiten in der Landwirtschaft ist durch die Digitalisierung zum Beispiel viel leichter. "
+   ]
+  }, 
+  {
+   "begin": "235.600", 
+   "children": [], 
+   "end": "239.760", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung w\u00e4re zum Beispiel f\u00fcr die Vernetzung untereinander\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "239.760", 
+   "children": [], 
+   "end": "242.880", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Landwirtschaftsbetriebe mit regionalen Vermarktern oder Verarbeitern\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "242.880", 
+   "children": [], 
+   "end": "243.240", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "nutzbar. "
+   ]
+  }, 
+  {
+   "begin": "243.240", 
+   "children": [], 
+   "end": "250.040", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Hier w\u00e4re die Digitalisierung tats\u00e4chlich sozial und \u00f6kologisch absolut sinnvoll und eine kluge Strategie gegen Konzern\u00fcbermacht. "
+   ]
+  }, 
+  {
+   "begin": "250.040", 
+   "children": [], 
+   "end": "254.760", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Hier muss tats\u00e4chlich geholfen und unterst\u00fctzt werden."
+   ]
+  }, 
+  {
+   "begin": "254.760", 
+   "children": [], 
+   "end": "255.600", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Fazit: "
+   ]
+  }, 
+  {
+   "begin": "255.600", 
+   "children": [], 
+   "end": "256.840", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Chancen nutzen, "
+   ]
+  }, 
+  {
+   "begin": "256.840", 
+   "children": [], 
+   "end": "258.400", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Risiken begrenzen! "
+   ]
+  }, 
+  {
+   "begin": "258.400", 
+   "children": [], 
+   "end": "261.560", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Aus Sicht der Linken geht es hier eben nicht nur um eine Technologiedebatte, "
+   ]
+  }, 
+  {
+   "begin": "261.560", 
+   "children": [], 
+   "end": "264.160", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir brauchen eine Verst\u00e4ndigung in der Gesellschaft dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "264.160", 
+   "children": [], 
+   "end": "268.640", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "welche Zwecke und Ziele wir mit der Digitalisierung verfolgen wollen. "
+   ]
+  }, 
+  {
+   "begin": "268.640", 
+   "children": [], 
+   "end": "270.440", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen auch sicherstellen, "
+   ]
+  }, 
+  {
+   "begin": "270.440", 
+   "children": [], 
+   "end": "272.520", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "dass davon am Ende nicht nur die Konzerne, "
+   ]
+  }, 
+  {
+   "begin": "272.520", 
+   "children": [], 
+   "end": "274.280", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir alle etwas haben. "
+   ]
+  }, 
+  {
+   "begin": "274.280", 
+   "children": [], 
+   "end": "277.400", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Das gilt auch f\u00fcr die Landwirtschaft."
+   ]
+  }, 
+  {
+   "begin": "277.400", 
+   "children": [], 
+   "end": "283.280", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "283.280", 
+   "children": [], 
+   "end": "285.120", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner in der Debatte: "
+   ]
+  }, 
+  {
+   "begin": "285.120", 
+   "children": [], 
+   "end": "287.760", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "\u00adHarald Ebner f\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

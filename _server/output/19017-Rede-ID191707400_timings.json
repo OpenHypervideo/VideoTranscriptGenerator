@@ -1,0 +1,734 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "children": [], 
+   "end": "0.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "children": [], 
+   "end": "0.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Politisch Verfolgte genie\u00dfen Asylrecht. "
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "children": [], 
+   "end": "0.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein verb\u00fcrgtes Grundrecht unserer Verfassung. "
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "children": [], 
+   "end": "0.761", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Seit den 1950er-Jahren hat die Bundesrepublik rund 5,5\u00a0Millionen Menschen aufgenommen, "
+   ]
+  }, 
+  {
+   "begin": "0.761", 
+   "children": [], 
+   "end": "0.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "die hierzulande Asyl begehrten. "
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "children": [], 
+   "end": "1.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen stolz sein, "
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "children": [], 
+   "end": "2.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass so viele Menschen unser Land als einen Ort der Freiheit und Sicherheit sch\u00e4tzen und dass unsere Gesellschaft die Offenheit besa\u00df und besitzt, "
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "children": [], 
+   "end": "2.001", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ihnen Schutz zu bieten. "
+   ]
+  }, 
+  {
+   "begin": "2.001", 
+   "children": [], 
+   "end": "2.002", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Aber diese Offenheit war nie voraussetzungslos. "
+   ]
+  }, 
+  {
+   "begin": "2.002", 
+   "children": [], 
+   "end": "2.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Selbstverst\u00e4ndlich wurden Asylantr\u00e4ge immer auf ihre Berechtigung hin \u00fcberpr\u00fcft und h\u00e4ufig auch abschl\u00e4gig beschieden."
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "children": [], 
+   "end": "2.321", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "In den letzten Jahrzehnten haben wir immer wieder gesehen, "
+   ]
+  }, 
+  {
+   "begin": "2.321", 
+   "children": [], 
+   "end": "2.322", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass es L\u00e4nder gibt, "
+   ]
+  }, 
+  {
+   "begin": "2.322", 
+   "children": [], 
+   "end": "2.440", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "aus denen besonders viele Menschen zu uns kamen, "
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "children": [], 
+   "end": "3.280", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "deren Antr\u00e4ge auf Asyl ganz offensichtlich unbegr\u00fcndet waren. "
+   ]
+  }, 
+  {
+   "begin": "3.280", 
+   "children": [], 
+   "end": "3.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Diese Entwicklung ist auch Folge dessen, "
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "children": [], 
+   "end": "5.000", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland nach wie vor kein Einwanderungsgesetz besitzt, "
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "children": [], 
+   "end": "5.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "das Menschen einen klaren und nachvollziehbaren Weg er\u00f6ffnen w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "children": [], 
+   "end": "6.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "nach Deutschland zu kommen, "
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "children": [], 
+   "end": "6.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "hier zu arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "6.440", 
+   "children": [], 
+   "end": "7.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "sich ein neues Leben aufzubauen. "
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "children": [], 
+   "end": "7.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das ist und bleibt ein Vers\u00e4umnis, "
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "children": [], 
+   "end": "7.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "auch zum Nachteil unseres Landes, "
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "children": [], 
+   "end": "7.881", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "das wir in dieser Legislaturperiode endlich beheben m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "7.881", 
+   "children": [], 
+   "end": "8.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das Asylrecht war f\u00fcr viele Menschen ein Umweg, "
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "children": [], 
+   "end": "8.680", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber den sie Eintritt in unsere Gesellschaft zu finden hofften. "
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "children": [], 
+   "end": "8.681", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Das ist menschlich verst\u00e4ndlich, "
+   ]
+  }, 
+  {
+   "begin": "8.681", 
+   "children": [], 
+   "end": "8.682", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "aber politisch wie rechtlich ein unhaltbarer Zustand. "
+   ]
+  }, 
+  {
+   "begin": "8.682", 
+   "children": [], 
+   "end": "8.683", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wenn das Asylrecht als Einwanderungsrecht genutzt wird, "
+   ]
+  }, 
+  {
+   "begin": "8.683", 
+   "children": [], 
+   "end": "8.684", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dann strapaziert das nicht nur unseren Rechtsstaat; "
+   ]
+  }, 
+  {
+   "begin": "8.684", 
+   "children": [], 
+   "end": "9.480", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "es belastet auch die Akzeptanz des Asylrechts. "
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "children": [], 
+   "end": "9.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Gerade wer die Offenheit unserer Gesellschaft erhalten will, "
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "children": [], 
+   "end": "10.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "der muss dieses Recht rechtsstaatlich handhaben."
+   ]
+  }, 
+  {
+   "begin": "10.240", 
+   "children": [], 
+   "end": "10.720", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wir stellen darum nicht das Recht auf Asyl infrage. "
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "children": [], 
+   "end": "10.721", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ganz im Gegenteil: "
+   ]
+  }, 
+  {
+   "begin": "10.721", 
+   "children": [], 
+   "end": "10.960", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen es mit Blick auf diese L\u00e4nder so ausgestalten, "
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "children": [], 
+   "end": "11.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass es handhabbar bleibt; "
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "children": [], 
+   "end": "12.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "denn der Rechtsstaat muss seine Durchsetzungsf\u00e4higkeit beweisen und die Kontrolle behalten. "
+   ]
+  }, 
+  {
+   "begin": "12.440", 
+   "children": [], 
+   "end": "12.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wir sehen doch, "
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "children": [], 
+   "end": "14.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass heute nur ein Bruchteil der Asylbewerber aus den Maghreb-Staaten bei uns anerkannt wird. "
+   ]
+  }, 
+  {
+   "begin": "14.000", 
+   "children": [], 
+   "end": "14.001", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Nur 6,3\u00a0Prozent der Antragsteller aus Marokko, "
+   ]
+  }, 
+  {
+   "begin": "14.001", 
+   "children": [], 
+   "end": "14.002", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "3,6\u00a0Prozent der Antragsteller aus Algerien und 2,8\u00a0Prozent der Antragsteller aus Tunesien haben zuletzt \u00fcberhaupt einen Aufenthaltsstatus bei uns bekommen. "
+   ]
+  }, 
+  {
+   "begin": "14.002", 
+   "children": [], 
+   "end": "14.003", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung hat deutlich nachgewiesen, "
+   ]
+  }, 
+  {
+   "begin": "14.003", 
+   "children": [], 
+   "end": "14.004", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass diese L\u00e4nder strengen Anspr\u00fcchen gen\u00fcgen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "14.004", 
+   "children": [], 
+   "end": "14.005", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "eine Einsch\u00e4tzung, "
+   ]
+  }, 
+  {
+   "begin": "14.005", 
+   "children": [], 
+   "end": "14.006", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die \u00fcbrigens die Niederlande und \u00d6sterreich bereits beschlossen haben. "
+   ]
+  }, 
+  {
+   "begin": "14.006", 
+   "children": [], 
+   "end": "14.200", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ein Blick nach Frankreich zeigt, "
+   ]
+  }, 
+  {
+   "begin": "14.200", 
+   "children": [], 
+   "end": "14.400", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass die Vorschl\u00e4ge von Emmanuel Macron in eine \u00e4hnliche Richtung gehen. "
+   ]
+  }, 
+  {
+   "begin": "14.400", 
+   "children": [], 
+   "end": "14.401", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Es lohnt sich, "
+   ]
+  }, 
+  {
+   "begin": "14.401", 
+   "children": [], 
+   "end": "14.402", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "hier hinzuschauen, "
+   ]
+  }, 
+  {
+   "begin": "14.402", 
+   "children": [], 
+   "end": "14.403", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir ein gemeinsames funktionierendes Asylrecht in Europa wollen."
+   ]
+  }, 
+  {
+   "begin": "14.403", 
+   "children": [], 
+   "end": "14.404", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Auch mit der Einstufung dieser L\u00e4nder als sichere Herkunftsstaaten gibt es weiterhin Offenheit unseres Landes f\u00fcr diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "14.404", 
+   "children": [], 
+   "end": "14.405", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die Opfer politischer Verfolgung sind. "
+   ]
+  }, 
+  {
+   "begin": "14.405", 
+   "children": [], 
+   "end": "14.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Doch die Voraussetzung f\u00fcr ein ausf\u00fchrliches Anerkennungsverfahren sollte bei Antragstellern aus diesen L\u00e4ndern zumindest sein, "
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "children": [], 
+   "end": "14.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass sie glaubhafte Indizien f\u00fcr ihr Anliegen vorbringen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "14.800", 
+   "children": [], 
+   "end": "14.840", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Da gelten \u00fcbrigens, "
+   ]
+  }, 
+  {
+   "begin": "14.840", 
+   "children": [], 
+   "end": "15.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "wie bei dem Beschluss\u00a02015 zum Westbalkan, "
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "children": [], 
+   "end": "16.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die Worte Winfried Kretschmanns: "
+   ]
+  }, 
+  {
+   "begin": "16.120", 
+   "children": [], 
+   "end": "16.600", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Die Ma\u00dfnahmen zur Verfahrensbeschleunigung beinhalten auch Restriktionen, "
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "children": [], 
+   "end": "16.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "aber sie stellen niemals das Asylrecht infrage."
+   ]
+  }, 
+  {
+   "begin": "16.960", 
+   "children": [], 
+   "end": "17.000", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen um verbleibende Unsicherheiten gerade f\u00fcr homosexuelle Menschen. "
+   ]
+  }, 
+  {
+   "begin": "17.000", 
+   "children": [], 
+   "end": "17.120", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Gerade deshalb gew\u00e4hrt unser Land auch weiterhin Menschen aus diesen Herkunftsstaaten Schutz, "
+   ]
+  }, 
+  {
+   "begin": "17.120", 
+   "children": [], 
+   "end": "17.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wenn ihnen ein individuelles Verfolgungsschicksal droht."
+   ]
+  }, 
+  {
+   "begin": "17.360", 
+   "children": [], 
+   "end": "18.400", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig brauchen wir ein Einwanderungsgesetz und gegebenenfalls als \u00dcberbr\u00fcckung erleichterte Arbeitsvisa."
+   ]
+  }, 
+  {
+   "begin": "18.400", 
+   "children": [], 
+   "end": "21.040", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich hoffe auf eine l\u00f6sungsorientierte Debatte im Ausschuss; "
+   ]
+  }, 
+  {
+   "begin": "21.040", 
+   "children": [], 
+   "end": "22.200", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "denn ich bin mir ganz sicher, "
+   ]
+  }, 
+  {
+   "begin": "22.200", 
+   "children": [], 
+   "end": "23.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass die meisten hier im Saal unsere Anliegen teilen: "
+   ]
+  }, 
+  {
+   "begin": "23.080", 
+   "children": [], 
+   "end": "24.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "das Grundrecht auf Asyl gew\u00e4hrleisten, "
+   ]
+  }, 
+  {
+   "begin": "24.120", 
+   "children": [], 
+   "end": "24.280", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "schnellere Verfahren und f\u00fcr die, "
+   ]
+  }, 
+  {
+   "begin": "24.280", 
+   "children": [], 
+   "end": "24.281", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "die berechtigterweise hierbleiben, "
+   ]
+  }, 
+  {
+   "begin": "24.281", 
+   "children": [], 
+   "end": "24.282", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "gute Integrationsbedingungen."
+   ]
+  }, 
+  {
+   "begin": "24.282", 
+   "children": [], 
+   "end": "24.283", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "24.283", 
+   "children": [], 
+   "end": "25.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Zu einer Kurzintervention erteile ich dem Kollegen Sven Lehmann von der Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen das Wort."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,974 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "children": [], 
+   "end": "9.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "children": [], 
+   "end": "16.720", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Zum Thema Marihuana gibt es passenderweise viele rauschhafte Fantasien. "
+   ]
+  }, 
+  {
+   "begin": "16.720", 
+   "children": [], 
+   "end": "19.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte heute zu den wissenschaftlichen Fakten sprechen. "
+   ]
+  }, 
+  {
+   "begin": "19.720", 
+   "children": [], 
+   "end": "21.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich werde darauf eingehen, "
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "children": [], 
+   "end": "22.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass die Behauptungen von FDP, "
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "children": [], 
+   "end": "27.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Linken und B\u00fcndnis\u00a090/Die Gr\u00fcnen teilweise nicht der Realit\u00e4t entsprechen."
+   ]
+  }, 
+  {
+   "begin": "27.120", 
+   "children": [], 
+   "end": "29.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Es wird behauptet, "
+   ]
+  }, 
+  {
+   "begin": "29.000", 
+   "children": [], 
+   "end": "31.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass durch die Abkehr von Repressionen Polizei, "
+   ]
+  }, 
+  {
+   "begin": "31.800", 
+   "children": [], 
+   "end": "34.960", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Staatsanwaltschaft und Justiz entlastet w\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "34.960", 
+   "children": [], 
+   "end": "36.960", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist aber, "
+   ]
+  }, 
+  {
+   "begin": "36.960", 
+   "children": [], 
+   "end": "43.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "dass mit dieser Argumentation alle Drogen weitestgehend freigegeben werden m\u00fcssten."
+   ]
+  }, 
+  {
+   "begin": "43.520", 
+   "children": [], 
+   "end": "45.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Behauptet wird oft auch, "
+   ]
+  }, 
+  {
+   "begin": "45.120", 
+   "children": [], 
+   "end": "51.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "eine kontrollierte Abgabe von Cannabis als Genussmittel k\u00f6nnte einen Beitrag zum Gesundheitsschutz leisten, "
+   ]
+  }, 
+  {
+   "begin": "51.280", 
+   "children": [], 
+   "end": "56.480", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "weil dadurch die Qualit\u00e4t von Cannabisprodukten kontrollierbar w\u00e4re."
+   ]
+  }, 
+  {
+   "begin": "56.480", 
+   "children": [], 
+   "end": "58.040", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist aber, "
+   ]
+  }, 
+  {
+   "begin": "58.040", 
+   "children": [], 
+   "end": "58.880", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dass mit dieser Argumentation\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "58.880", 
+   "children": [], 
+   "end": "60.200", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "unter Gesundheitsgesichtspunkten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "60.200", 
+   "children": [], 
+   "end": "62.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "alle Drogen kontrolliert abgegeben werden m\u00fcssten."
+   ]
+  }, 
+  {
+   "begin": "62.520", 
+   "children": [], 
+   "end": "64.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Auch wird behauptet, "
+   ]
+  }, 
+  {
+   "begin": "64.000", 
+   "children": [], 
+   "end": "69.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass durch eine m\u00f6gliche Besteuerung von Cannabisprodukten erhebliche Einnahmen erzielt w\u00fcrden, "
+   ]
+  }, 
+  {
+   "begin": "69.120", 
+   "children": [], 
+   "end": "73.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die der Suchtpr\u00e4vention und der Aufkl\u00e4rung zugef\u00fchrt werden k\u00f6nnten. "
+   ]
+  }, 
+  {
+   "begin": "73.960", 
+   "children": [], 
+   "end": "75.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist aber, "
+   ]
+  }, 
+  {
+   "begin": "75.520", 
+   "children": [], 
+   "end": "80.400", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass erhebliche Steuereinnahmen aus dem Vertrieb von \u00adCannabisprodukten nur dann zu erzielen sind, "
+   ]
+  }, 
+  {
+   "begin": "80.400", 
+   "children": [], 
+   "end": "83.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wenn m\u00f6glichst viel Cannabis auch vertrieben wird. "
+   ]
+  }, 
+  {
+   "begin": "83.120", 
+   "children": [], 
+   "end": "84.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Das finde ich grotesk: "
+   ]
+  }, 
+  {
+   "begin": "84.520", 
+   "children": [], 
+   "end": "86.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Tabakwerbung verbieten wollen, "
+   ]
+  }, 
+  {
+   "begin": "86.800", 
+   "children": [], 
+   "end": "89.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "aber Cannabiskonsum zu Steuerzwecken nutzen!"
+   ]
+  }, 
+  {
+   "begin": "89.280", 
+   "children": [], 
+   "end": "95.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus wird sehr gerne behauptet, "
+   ]
+  }, 
+  {
+   "begin": "95.480", 
+   "children": [], 
+   "end": "101.040", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass die kontrollierte Abgabe von Cannabis v\u00f6llig risikolos sei. "
+   ]
+  }, 
+  {
+   "begin": "101.040", 
+   "children": [], 
+   "end": "102.720", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist aber, "
+   ]
+  }, 
+  {
+   "begin": "102.720", 
+   "children": [], 
+   "end": "104.040", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass dies schlichtweg falsch ist, "
+   ]
+  }, 
+  {
+   "begin": "104.040", 
+   "children": [], 
+   "end": "107.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "da Cannabiskonsum mit erheblichen Gefahren verbunden ist. "
+   ]
+  }, 
+  {
+   "begin": "107.680", 
+   "children": [], 
+   "end": "111.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wie die j\u00fcngst ver\u00f6ffentlichte CaPRis-Studie der LMU\u00a0M\u00fcnchen belegt, "
+   ]
+  }, 
+  {
+   "begin": "111.640", 
+   "children": [], 
+   "end": "115.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "kann Cannabiskonsum zu psychischen St\u00f6rungen wie Angstst\u00f6rungen, "
+   ]
+  }, 
+  {
+   "begin": "115.560", 
+   "children": [], 
+   "end": "116.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Depressionen, "
+   ]
+  }, 
+  {
+   "begin": "116.600", 
+   "children": [], 
+   "end": "118.080", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Suizidalit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "118.080", 
+   "children": [], 
+   "end": "121.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "bipolaren St\u00f6rungen sowie Psychosen f\u00fchren."
+   ]
+  }, 
+  {
+   "begin": "121.600", 
+   "children": [], 
+   "end": "123.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Vielfach wird auch behauptet, "
+   ]
+  }, 
+  {
+   "begin": "123.920", 
+   "children": [], 
+   "end": "127.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass Cannabiskonsum die Arbeitsf\u00e4higkeit der Menschen nicht beeintr\u00e4chtigt. "
+   ]
+  }, 
+  {
+   "begin": "127.720", 
+   "children": [], 
+   "end": "129.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist aber, "
+   ]
+  }, 
+  {
+   "begin": "129.200", 
+   "children": [], 
+   "end": "133.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass Cannabiskonsum zu vielseitigen kognitiven Beeintr\u00e4chtigungen f\u00fchrt."
+   ]
+  }, 
+  {
+   "begin": "133.440", 
+   "children": [], 
+   "end": "137.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Laut einer prospektiven Beobachtungsstudie aus dem Jahr\u00a02016, "
+   ]
+  }, 
+  {
+   "begin": "137.880", 
+   "children": [], 
+   "end": "141.600", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "deren Ergebnisse in der Zeitschrift \u201eJAMA Internal Medicine\u201c ver\u00f6ffentlicht wurden, "
+   ]
+  }, 
+  {
+   "begin": "141.600", 
+   "children": [], 
+   "end": "146.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "konnte sich jeder zweite Teilnehmer in einem Test aus einer Liste von 15\u00a0Worten ein Wort weniger merken, "
+   ]
+  }, 
+  {
+   "begin": "146.840", 
+   "children": [], 
+   "end": "150.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "wenn er seit f\u00fcnf Jahren regelm\u00e4\u00dfig Marihuana geraucht hatte."
+   ]
+  }, 
+  {
+   "begin": "150.160", 
+   "children": [], 
+   "end": "151.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "151.040", 
+   "children": [], 
+   "end": "153.040", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrden Sie eine Zwischenfrage zulassen?"
+   ]
+  }, 
+  {
+   "begin": "153.040", 
+   "children": [], 
+   "end": "153.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "153.600", 
+   "children": [], 
+   "end": "154.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "danke. "
+   ]
+  }, 
+  {
+   "begin": "154.360", 
+   "children": [], 
+   "end": "155.800", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt bin ich gerade im Fluss."
+   ]
+  }, 
+  {
+   "begin": "155.800", 
+   "children": [], 
+   "end": "160.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Zudem belegt die US-amerikanische CARDIA-Studie, "
+   ]
+  }, 
+  {
+   "begin": "160.320", 
+   "children": [], 
+   "end": "166.160", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass ein hoher Cannabiskonsum langfristig Spuren im verbalen Ged\u00e4chtnis hinterl\u00e4sst. "
+   ]
+  }, 
+  {
+   "begin": "166.160", 
+   "children": [], 
+   "end": "171.320", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem schnitten bei der CARDIA-Studie Kiffer in Tests zu Verarbeitungsgeschwindigkeit, "
+   ]
+  }, 
+  {
+   "begin": "171.320", 
+   "children": [], 
+   "end": "174.880", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Exekutivfunktionen und zum verbalen Ged\u00e4chtnis umso schlechter ab, "
+   ]
+  }, 
+  {
+   "begin": "174.880", 
+   "children": [], 
+   "end": "177.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "je mehr Cannabis sie konsumiert hatten. "
+   ]
+  }, 
+  {
+   "begin": "177.400", 
+   "children": [], 
+   "end": "179.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Besonders erschreckend bei dieser Studie ist, "
+   ]
+  }, 
+  {
+   "begin": "179.720", 
+   "children": [], 
+   "end": "183.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass die Cannabiskonsumenten bei den Tests auch dann noch schlechter abschnitten, "
+   ]
+  }, 
+  {
+   "begin": "183.760", 
+   "children": [], 
+   "end": "186.480", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie mittlerweile auf Cannabis verzichteten. "
+   ]
+  }, 
+  {
+   "begin": "186.480", 
+   "children": [], 
+   "end": "189.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Fast alle seri\u00f6sen Studien machen mehr als deutlich: "
+   ]
+  }, 
+  {
+   "begin": "189.920", 
+   "children": [], 
+   "end": "193.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Intensiver Cannabiskonsum macht dumm!"
+   ]
+  }, 
+  {
+   "begin": "193.400", 
+   "children": [], 
+   "end": "194.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "194.840", 
+   "children": [], 
+   "end": "196.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie eine Zwischenfrage zu?"
+   ]
+  }, 
+  {
+   "begin": "196.600", 
+   "children": [], 
+   "end": "197.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Nein.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "197.440", 
+   "children": [], 
+   "end": "199.600", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Auch wird behauptet, "
+   ]
+  }, 
+  {
+   "begin": "199.600", 
+   "children": [], 
+   "end": "201.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass Cannabis nicht gesundheitsgef\u00e4hrdend sei. "
+   ]
+  }, 
+  {
+   "begin": "201.840", 
+   "children": [], 
+   "end": "202.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist, "
+   ]
+  }, 
+  {
+   "begin": "202.920", 
+   "children": [], 
+   "end": "206.880", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass Cannabis das Risiko f\u00fcr respiratorische Symptome erh\u00f6ht. "
+   ]
+  }, 
+  {
+   "begin": "206.880", 
+   "children": [], 
+   "end": "211.640", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Akut bewirkt Cannabiskonsum erweiterte Blutgef\u00e4\u00dfe, "
+   ]
+  }, 
+  {
+   "begin": "211.640", 
+   "children": [], 
+   "end": "214.040", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Bluthochdruck und beschleunigten Puls. "
+   ]
+  }, 
+  {
+   "begin": "214.040", 
+   "children": [], 
+   "end": "217.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Dies kann ebenfalls der CaPRis-Studie entnommen werden."
+   ]
+  }, 
+  {
+   "begin": "217.560", 
+   "children": [], 
+   "end": "220.040", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Behauptet wird zudem, "
+   ]
+  }, 
+  {
+   "begin": "220.040", 
+   "children": [], 
+   "end": "224.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass Cannabiskonsum keine negativen gesellschaftlichen Folgen mit sich bringt."
+   ]
+  }, 
+  {
+   "begin": "224.000", 
+   "children": [], 
+   "end": "225.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist aber, "
+   ]
+  }, 
+  {
+   "begin": "225.520", 
+   "children": [], 
+   "end": "229.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass die sozialen Folgen von Cannabiskonsum nicht zu vernachl\u00e4ssigen sind, "
+   ]
+  }, 
+  {
+   "begin": "229.440", 
+   "children": [], 
+   "end": "231.960", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "wie ebenfalls die CaPRis-Studie belegt. "
+   ]
+  }, 
+  {
+   "begin": "231.960", 
+   "children": [], 
+   "end": "237.560", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Fr\u00fcher Beginn und h\u00e4ufiger Cannabiskonsum in der Jugend sind mit geringen Bildungschancen assoziiert."
+   ]
+  }, 
+  {
+   "begin": "237.560", 
+   "children": [], 
+   "end": "239.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Auch wird behauptet, "
+   ]
+  }, 
+  {
+   "begin": "239.440", 
+   "children": [], 
+   "end": "244.760", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass Cannabis nicht zu Abh\u00e4ngigkeiten f\u00fchren w\u00fcrde oder diese zumindest zu vernachl\u00e4ssigen w\u00e4ren. "
+   ]
+  }, 
+  {
+   "begin": "244.760", 
+   "children": [], 
+   "end": "246.520", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist aber, "
+   ]
+  }, 
+  {
+   "begin": "246.520", 
+   "children": [], 
+   "end": "249.960", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "dass die bereits viel zitierte CaPRis-Studie auff\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "249.960", 
+   "children": [], 
+   "end": "251.840", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass in Europa die Zahl der Personen, "
+   ]
+  }, 
+  {
+   "begin": "251.840", 
+   "children": [], 
+   "end": "256.200", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "die erstmals eine Suchtbehandlung wegen cannabisassoziierten Problemen beginnen, "
+   ]
+  }, 
+  {
+   "begin": "256.200", 
+   "children": [], 
+   "end": "262.240", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "von 43\u00a0000 im Jahr\u00a02006 auf 76\u00a0000 im Jahr\u00a02015 gestiegen ist. "
+   ]
+  }, 
+  {
+   "begin": "262.240", 
+   "children": [], 
+   "end": "265.400", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Diese Entwicklung zeigt sich auch in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "265.400", 
+   "children": [], 
+   "end": "267.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Epidemiologischen Studien zufolge wird gesch\u00e4tzt, "
+   ]
+  }, 
+  {
+   "begin": "267.320", 
+   "children": [], 
+   "end": "271.040", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "dass circa 9\u00a0Prozent aller Personen, "
+   ]
+  }, 
+  {
+   "begin": "271.040", 
+   "children": [], 
+   "end": "274.360", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "die jemals Cannabis konsumiert haben, "
+   ]
+  }, 
+  {
+   "begin": "274.360", 
+   "children": [], 
+   "end": "277.800", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "eine cannabisbezogene St\u00f6rung entwickeln."
+   ]
+  }, 
+  {
+   "begin": "277.800", 
+   "children": [], 
+   "end": "281.600", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Die vorgelegten Antr\u00e4ge sind f\u00fcr mich reiner Populismus. "
+   ]
+  }, 
+  {
+   "begin": "281.600", 
+   "children": [], 
+   "end": "282.680", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Mir geht es nicht darum, "
+   ]
+  }, 
+  {
+   "begin": "282.680", 
+   "children": [], 
+   "end": "284.400", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "mich falsch anzubiedern. "
+   ]
+  }, 
+  {
+   "begin": "284.400", 
+   "children": [], 
+   "end": "296.360", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Mir geht es um die Gesundheit der Menschen. "
+   ]
+  }, 
+  {
+   "begin": "296.360", 
+   "children": [], 
+   "end": "304.040", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb will ich eine Welt mit weniger als mehr Drogen."
+   ]
+  }, 
+  {
+   "begin": "304.040", 
+   "children": [], 
+   "end": "309.680", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "309.680", 
+   "children": [], 
+   "end": "312.760", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Die n\u00e4chste Rednerin f\u00fcr die SPD-Fraktion: "
+   ]
+  }, 
+  {
+   "begin": "312.760", 
+   "children": [], 
+   "end": "313.960", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "die Kollegin Sabine Dittmar."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,884 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "children": [], 
+   "end": "12.320", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "children": [], 
+   "end": "18.040", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir Gr\u00fcnen spielen die gewerbliche Wohnungswirtschaft und die Kleinvermieter nicht gegeneinander aus."
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "children": [], 
+   "end": "19.480", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir finden es wichtig, "
+   ]
+  }, 
+  {
+   "begin": "19.480", 
+   "children": [], 
+   "end": "22.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass alle Akteure auf dem Wohnungsmarkt eingebunden sind."
+   ]
+  }, 
+  {
+   "begin": "22.520", 
+   "children": [], 
+   "end": "30.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in der vorletzten Wahlperiode Mietpreisbremse und Bestellerprinzip entwickelt und eingebracht. "
+   ]
+  }, 
+  {
+   "begin": "30.480", 
+   "children": [], 
+   "end": "38.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Jahre sp\u00e4ter wurden hier viele Ausnahmen und Umgehungsm\u00f6glichkeiten beschlossen."
+   ]
+  }, 
+  {
+   "begin": "38.320", 
+   "children": [], 
+   "end": "39.880", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Was ist die Folge davon? "
+   ]
+  }, 
+  {
+   "begin": "39.880", 
+   "children": [], 
+   "end": "41.920", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Das hatte nicht nur keine Wirkung, "
+   ]
+  }, 
+  {
+   "begin": "41.920", 
+   "children": [], 
+   "end": "45.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "sondern die Folge waren noch schneller steigende Preise in den Ballungsr\u00e4umen, "
+   ]
+  }, 
+  {
+   "begin": "45.840", 
+   "children": [], 
+   "end": "49.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "was wir und viele Sachkundige \u00fcbrigens bef\u00fcrchtet haben. "
+   ]
+  }, 
+  {
+   "begin": "49.600", 
+   "children": [], 
+   "end": "55.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Allein von 2016 auf 2017 sind die Mietpreise um bis zu 10\u00a0Prozent gestiegen. "
+   ]
+  }, 
+  {
+   "begin": "55.120", 
+   "children": [], 
+   "end": "68.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Armutsgef\u00e4hrdete Haushalte m\u00fcssen mittlerweile bis knapp die H\u00e4lfte ihres Einkommens f\u00fcr die Miete aufwenden und die Durchschnittsfamilie immerhin ein Drittel."
+   ]
+  }, 
+  {
+   "begin": "68.120", 
+   "children": [], 
+   "end": "70.160", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Was ist die Konsequenz? "
+   ]
+  }, 
+  {
+   "begin": "70.160", 
+   "children": [], 
+   "end": "74.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Wohnungswirtschaft ist der Fall klar: "
+   ]
+  }, 
+  {
+   "begin": "74.040", 
+   "children": [], 
+   "end": "76.160", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die Mietpreisbremse abschaffen. "
+   ]
+  }, 
+  {
+   "begin": "76.160", 
+   "children": [], 
+   "end": "78.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr uns ist der Fall auch klar: "
+   ]
+  }, 
+  {
+   "begin": "78.320", 
+   "children": [], 
+   "end": "82.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen endlich ein wirksames Instrument daraus machen."
+   ]
+  }, 
+  {
+   "begin": "82.120", 
+   "children": [], 
+   "end": "89.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Der Wohnungsbau hat 2016 zwar den h\u00f6chsten Stand seit 2005 erreicht. "
+   ]
+  }, 
+  {
+   "begin": "89.160", 
+   "children": [], 
+   "end": "91.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Aber wurden die Wohnungen gebaut, "
+   ]
+  }, 
+  {
+   "begin": "91.000", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die vom Gro\u00dfteil der Wohnungssuchenden gebraucht und nachgefragt werden?"
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "96.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben davon geredet, "
+   ]
+  }, 
+  {
+   "begin": "96.160", 
+   "children": [], 
+   "end": "97.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "es werde nicht investiert. "
+   ]
+  }, 
+  {
+   "begin": "97.760", 
+   "children": [], 
+   "end": "99.560", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Es wird aber investiert: "
+   ]
+  }, 
+  {
+   "begin": "99.560", 
+   "children": [], 
+   "end": "101.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "in unbezahlbare Wohnungen. "
+   ]
+  }, 
+  {
+   "begin": "101.720", 
+   "children": [], 
+   "end": "103.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "So sieht die Lage aus."
+   ]
+  }, 
+  {
+   "begin": "103.400", 
+   "children": [], 
+   "end": "104.360", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Losung \u201eBauen, "
+   ]
+  }, 
+  {
+   "begin": "104.360", 
+   "children": [], 
+   "end": "104.880", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "bauen, "
+   ]
+  }, 
+  {
+   "begin": "104.880", 
+   "children": [], 
+   "end": "109.800", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "bauen\u201c hat f\u00fcr sich genommen bis jetzt noch nichts ge\u00e4ndert. "
+   ]
+  }, 
+  {
+   "begin": "109.800", 
+   "children": [], 
+   "end": "111.360", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen sagen wir: "
+   ]
+  }, 
+  {
+   "begin": "111.360", 
+   "children": [], 
+   "end": "114.840", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Wohnraum f\u00fcr alle Geldbeutel, "
+   ]
+  }, 
+  {
+   "begin": "114.840", 
+   "children": [], 
+   "end": "118.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "und am dringendsten f\u00fcr kleine und mittlere Einkommen."
+   ]
+  }, 
+  {
+   "begin": "118.240", 
+   "children": [], 
+   "end": "120.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Noch etwas: "
+   ]
+  }, 
+  {
+   "begin": "120.200", 
+   "children": [], 
+   "end": "123.440", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Mieterinnen und Mieter in diesem Land wirksam sch\u00fctzen, "
+   ]
+  }, 
+  {
+   "begin": "123.440", 
+   "children": [], 
+   "end": "129.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass ihre bedr\u00e4ngte Rolle auf dem Wohnungsmarkt nicht von einigen wenigen schamlos ausgenutzt wird. "
+   ]
+  }, 
+  {
+   "begin": "129.520", 
+   "children": [], 
+   "end": "135.240", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen die Pflicht zur Angabe der Vormiete und eine Offenlegung der mietpreisbildenden Kriterien. "
+   ]
+  }, 
+  {
+   "begin": "135.240", 
+   "children": [], 
+   "end": "138.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen die Abschaffung der R\u00fcgepflicht. "
+   ]
+  }, 
+  {
+   "begin": "138.920", 
+   "children": [], 
+   "end": "141.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen die Abschaffung zahlreicher Ausnahmen, "
+   ]
+  }, 
+  {
+   "begin": "141.880", 
+   "children": [], 
+   "end": "144.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel bei umfassender Sanierung, "
+   ]
+  }, 
+  {
+   "begin": "144.360", 
+   "children": [], 
+   "end": "146.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "bei s\u00e4mtlichen Neubauten oder m\u00f6blierten Wohnungen."
+   ]
+  }, 
+  {
+   "begin": "146.360", 
+   "children": [], 
+   "end": "150.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das mit den m\u00f6blierten Wohnungen ist auch so eine Lachnummer. "
+   ]
+  }, 
+  {
+   "begin": "150.400", 
+   "children": [], 
+   "end": "153.160", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine Absenkung der Modernisierungsumlage, "
+   ]
+  }, 
+  {
+   "begin": "153.160", 
+   "children": [], 
+   "end": "156.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und wir brauchen dringend eine Neufassung der H\u00e4rtefallregelung."
+   ]
+  }, 
+  {
+   "begin": "156.440", 
+   "children": [], 
+   "end": "157.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Noch etwas, "
+   ]
+  }, 
+  {
+   "begin": "157.400", 
+   "children": [], 
+   "end": "159.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren: "
+   ]
+  }, 
+  {
+   "begin": "159.320", 
+   "children": [], 
+   "end": "164.920", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "\u00a7\u00a05 des Wirtschaftsstrafgesetzes muss schon dann greifen, "
+   ]
+  }, 
+  {
+   "begin": "164.920", 
+   "children": [], 
+   "end": "171.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Miete die orts\u00fcbliche Vergleichsmiete um mehr als 20\u00a0Prozent \u00fcbersteigt. "
+   ]
+  }, 
+  {
+   "begin": "171.600", 
+   "children": [], 
+   "end": "178.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Formulierung \u201eAusnutzung eines geringen Angebots\u201c ist \u00fcberhaupt nicht fassbar."
+   ]
+  }, 
+  {
+   "begin": "178.840", 
+   "children": [], 
+   "end": "182.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Die Mieten steigen trotz Neubauboom weiterhin. "
+   ]
+  }, 
+  {
+   "begin": "182.600", 
+   "children": [], 
+   "end": "183.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "183.520", 
+   "children": [], 
+   "end": "187.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die im Koalitionsvertrag enthaltene Aussage, "
+   ]
+  }, 
+  {
+   "begin": "187.160", 
+   "children": [], 
+   "end": "192.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "nach der 1,5\u00a0Millionen Wohnungen errichtet werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "192.920", 
+   "children": [], 
+   "end": "194.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "geht in die richtige Richtung. "
+   ]
+  }, 
+  {
+   "begin": "194.760", 
+   "children": [], 
+   "end": "195.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Nur, "
+   ]
+  }, 
+  {
+   "begin": "195.480", 
+   "children": [], 
+   "end": "196.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "es kommt darauf an, "
+   ]
+  }, 
+  {
+   "begin": "196.360", 
+   "children": [], 
+   "end": "198.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "was f\u00fcr Wohnungen das sind."
+   ]
+  }, 
+  {
+   "begin": "198.000", 
+   "children": [], 
+   "end": "200.600", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Ma\u00dfnahmen insbesondere an diejenigen adressieren, "
+   ]
+  }, 
+  {
+   "begin": "200.600", 
+   "children": [], 
+   "end": "207.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die zu viel Geld f\u00fcr eine gef\u00f6rderte Wohnung und zu wenig Geld f\u00fcr eine nichtgebundene Wohnung haben. "
+   ]
+  }, 
+  {
+   "begin": "207.560", 
+   "children": [], 
+   "end": "210.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Ma\u00dfnahmen an den Mittelbau der Gesellschaft adressieren. "
+   ]
+  }, 
+  {
+   "begin": "210.880", 
+   "children": [], 
+   "end": "211.480", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das meine ich, "
+   ]
+  }, 
+  {
+   "begin": "211.480", 
+   "children": [], 
+   "end": "212.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "wenn ich sage: "
+   ]
+  }, 
+  {
+   "begin": "212.240", 
+   "children": [], 
+   "end": "214.000", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Wohnraum f\u00fcr alle, "
+   ]
+  }, 
+  {
+   "begin": "214.000", 
+   "children": [], 
+   "end": "215.160", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr jeden Geldbeutel in diesem Land."
+   ]
+  }, 
+  {
+   "begin": "215.160", 
+   "children": [], 
+   "end": "224.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen dringend Instrumente f\u00fcr die passgenaue Schaffung von Wohnraum und nicht nur steuerliche Anreize, "
+   ]
+  }, 
+  {
+   "begin": "224.720", 
+   "children": [], 
+   "end": "226.640", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "die Mitnahmeeffekte produzieren, "
+   ]
+  }, 
+  {
+   "begin": "226.640", 
+   "children": [], 
+   "end": "229.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "aber keinen preiswerten, "
+   ]
+  }, 
+  {
+   "begin": "229.240", 
+   "children": [], 
+   "end": "231.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "bezahlbaren Wohnraum schaffen."
+   ]
+  }, 
+  {
+   "begin": "231.360", 
+   "children": [], 
+   "end": "234.800", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem brauchen wir dringend eine neue Gemeinn\u00fctzigkeit. "
+   ]
+  }, 
+  {
+   "begin": "234.800", 
+   "children": [], 
+   "end": "240.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Das ganze Desaster fing in der Zeit nach der Abschaffung der Gemeinn\u00fctzigkeit an."
+   ]
+  }, 
+  {
+   "begin": "240.000", 
+   "children": [], 
+   "end": "242.200", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber die Hintergr\u00fcnde bin ich zwar bestens informiert, "
+   ]
+  }, 
+  {
+   "begin": "242.200", 
+   "children": [], 
+   "end": "243.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "aber ich sage: "
+   ]
+  }, 
+  {
+   "begin": "243.000", 
+   "children": [], 
+   "end": "244.680", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt keinen Grund, "
+   ]
+  }, 
+  {
+   "begin": "244.680", 
+   "children": [], 
+   "end": "246.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass das bis ans Ende aller Tage so bleiben muss. "
+   ]
+  }, 
+  {
+   "begin": "246.560", 
+   "children": [], 
+   "end": "249.320", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine neue Gemeinn\u00fctzigkeit. "
+   ]
+  }, 
+  {
+   "begin": "249.320", 
+   "children": [], 
+   "end": "254.800", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen ein Ende der Immobilienspekulationen in unseren Gro\u00dfst\u00e4dten. "
+   ]
+  }, 
+  {
+   "begin": "254.800", 
+   "children": [], 
+   "end": "257.160", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Das sind f\u00fcr uns ganz entscheidende Ziele."
+   ]
+  }, 
+  {
+   "begin": "257.160", 
+   "children": [], 
+   "end": "259.800", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Sie von der AfD kommen immer mit der Einwanderung."
+   ]
+  }, 
+  {
+   "begin": "259.800", 
+   "children": [], 
+   "end": "261.320", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "261.320", 
+   "children": [], 
+   "end": "262.520", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "kommen Sie zum Schluss."
+   ]
+  }, 
+  {
+   "begin": "262.520", 
+   "children": [], 
+   "end": "263.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Noch ein Satz."
+   ]
+  }, 
+  {
+   "begin": "263.360", 
+   "children": [], 
+   "end": "264.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Aber wirklich nur ein Satz."
+   ]
+  }, 
+  {
+   "begin": "264.840", 
+   "children": [], 
+   "end": "268.560", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Anfang der 90er-Jahre sind 1,2\u00a0Millionen Russlanddeutsche zu uns gekommen. "
+   ]
+  }, 
+  {
+   "begin": "268.560", 
+   "children": [], 
+   "end": "270.080", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind alle integriert, "
+   ]
+  }, 
+  {
+   "begin": "270.080", 
+   "children": [], 
+   "end": "272.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "in unseren Wohnungsmarkt und auch sonst. "
+   ]
+  }, 
+  {
+   "begin": "272.360", 
+   "children": [], 
+   "end": "274.240", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Das sollte uns diesmal wieder gelingen."
+   ]
+  }, 
+  {
+   "begin": "274.240", 
+   "children": [], 
+   "end": "275.040", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "275.040", 
+   "children": [], 
+   "end": "276.480", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "276.480", 
+   "children": [], 
+   "end": "283.000", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster f\u00fcr die Fraktion der CDU/CSU der Kollege Alexander Hoffmann."
+   ]
+  }
+ ]
+}

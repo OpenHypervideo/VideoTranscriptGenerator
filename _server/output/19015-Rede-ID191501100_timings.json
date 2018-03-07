@@ -1,0 +1,794 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "children": [], 
+   "end": "3.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "children": [], 
+   "end": "20.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "20.400", 
+   "children": [], 
+   "end": "21.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Frau Mast, "
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "children": [], 
+   "end": "22.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "grunds\u00e4tzlich: "
+   ]
+  }, 
+  {
+   "begin": "22.800", 
+   "children": [], 
+   "end": "24.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Bevor man Vorschl\u00e4ge machen kann, "
+   ]
+  }, 
+  {
+   "begin": "24.280", 
+   "children": [], 
+   "end": "25.840", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "um etwas zu verbessern, "
+   ]
+  }, 
+  {
+   "begin": "25.840", 
+   "children": [], 
+   "end": "28.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "muss eine detaillierte Analyse und \u00dcberpr\u00fcfung stattfinden. "
+   ]
+  }, 
+  {
+   "begin": "28.800", 
+   "children": [], 
+   "end": "31.040", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Erst dann kommen die Vorschl\u00e4ge."
+   ]
+  }, 
+  {
+   "begin": "31.040", 
+   "children": [], 
+   "end": "32.280", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Nun aber zum Thema. "
+   ]
+  }, 
+  {
+   "begin": "32.280", 
+   "children": [], 
+   "end": "39.400", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das Ziel einer verbesserten Vereinbarkeit von Familie und Beruf unterst\u00fctze ich ausdr\u00fccklich. "
+   ]
+  }, 
+  {
+   "begin": "39.400", 
+   "children": [], 
+   "end": "45.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Grunds\u00e4tzlich setzen das Elterngeld\u00a0Plus und der Partnerschaftsbonus hier gute Akzente. "
+   ]
+  }, 
+  {
+   "begin": "45.680", 
+   "children": [], 
+   "end": "46.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings leidet es\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "46.760", 
+   "children": [], 
+   "end": "49.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "wie der Bericht des Ministeriums deutlich darstellt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "49.920", 
+   "children": [], 
+   "end": "53.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "an einigen leider sehr ernsthaften Kinderkrankheiten. "
+   ]
+  }, 
+  {
+   "begin": "53.440", 
+   "children": [], 
+   "end": "56.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Folgende Punkte seien hier exemplarisch genannt:"
+   ]
+  }, 
+  {
+   "begin": "56.680", 
+   "children": [], 
+   "end": "62.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Laut Allensbach sind f\u00fcr Familien und Eltern flexible Arbeitszeiten besonders wichtig. "
+   ]
+  }, 
+  {
+   "begin": "62.600", 
+   "children": [], 
+   "end": "64.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Da verwundert es doch sehr, "
+   ]
+  }, 
+  {
+   "begin": "64.520", 
+   "children": [], 
+   "end": "71.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass der Partnerschaftsbonus einen starren Arbeitszeitkorridor von 25 bis 30\u00a0Stunden f\u00fcr beide Elternteile vorgibt. "
+   ]
+  }, 
+  {
+   "begin": "71.360", 
+   "children": [], 
+   "end": "76.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Individuelle Teilzeitvarianten jenseits dieser Bestimmung sind nicht einmal vorgesehen. "
+   ]
+  }, 
+  {
+   "begin": "76.600", 
+   "children": [], 
+   "end": "79.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Diese Regelung ist dadurch nicht nur lebensfremd, "
+   ]
+  }, 
+  {
+   "begin": "79.120", 
+   "children": [], 
+   "end": "81.840", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "sondern sie ist auch so familienfeindlich gestaltet, "
+   ]
+  }, 
+  {
+   "begin": "81.840", 
+   "children": [], 
+   "end": "83.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass bei geringster Abweichung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "83.880", 
+   "children": [], 
+   "end": "89.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "ja sogar selbst bei Krankheit auch nur eines Elternteils in nur einem der Partnermonate\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "89.800", 
+   "children": [], 
+   "end": "92.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "der Bonus komplett zur\u00fcckgezahlt werden muss. "
+   ]
+  }, 
+  {
+   "begin": "92.680", 
+   "children": [], 
+   "end": "94.640", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wie absurd ist das denn?"
+   ]
+  }, 
+  {
+   "begin": "94.640", 
+   "children": [], 
+   "end": "97.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Da wird jemand in der Familie krank, "
+   ]
+  }, 
+  {
+   "begin": "97.280", 
+   "children": [], 
+   "end": "100.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "und dann sagt der Staat als Belohnung auch noch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "100.320", 
+   "children": [], 
+   "end": "100.840", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ironie; "
+   ]
+  }, 
+  {
+   "begin": "100.840", 
+   "children": [], 
+   "end": "102.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr alle diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "102.000", 
+   "children": [], 
+   "end": "104.600", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die es nicht gleich realisiert haben\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "104.600", 
+   "children": [], 
+   "end": "106.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen das Geld und die Unterst\u00fctzung zur\u00fcck."
+   ]
+  }, 
+  {
+   "begin": "110.000", 
+   "children": [], 
+   "end": "111.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "111.840", 
+   "children": [], 
+   "end": "116.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "diese und andere familienfeindlichen Regeln m\u00fcssen schnellstens modifiziert werden, "
+   ]
+  }, 
+  {
+   "begin": "116.920", 
+   "children": [], 
+   "end": "124.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "damit Familien nicht aufgrund fehlender Planungssicherheit \u00fcberhaupt keinen Antrag stellen."
+   ]
+  }, 
+  {
+   "begin": "124.240", 
+   "children": [], 
+   "end": "134.240", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Aus meiner Sicht ist diese Arbeitszeitregelung ebenso wie die Arbeitszeitregelung generell trotz vermeintlicher Gleichbehandlung gerade f\u00fcr Alleinerziehende meilenweit von der Realit\u00e4t entfernt. "
+   ]
+  }, 
+  {
+   "begin": "134.240", 
+   "children": [], 
+   "end": "142.040", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Der Arbeitszeitkorridor von 25 bis 30\u00a0Stunden ist v\u00f6llig von der Realit\u00e4t der Alleinerziehenden entfernt, "
+   ]
+  }, 
+  {
+   "begin": "142.040", 
+   "children": [], 
+   "end": "150.000", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die meistens eben nicht mindestens 25\u00a0Stunden arbeiten k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "150.000", 
+   "children": [], 
+   "end": "152.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Zudem m\u00fcssen die M\u00f6glichkeiten von digitaler Arbeit, "
+   ]
+  }, 
+  {
+   "begin": "152.680", 
+   "children": [], 
+   "end": "155.440", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "wie Homeoffice und andere selbstbestimmte Teilzeitmodelle, "
+   ]
+  }, 
+  {
+   "begin": "155.440", 
+   "children": [], 
+   "end": "161.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "ber\u00fccksichtigt werden und Eltern und Betriebe in die Lage versetzt werden, "
+   ]
+  }, 
+  {
+   "begin": "161.000", 
+   "children": [], 
+   "end": "163.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "diese auszugestalten und wahrzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "163.680", 
+   "children": [], 
+   "end": "168.200", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Dies verbessert endlich die Vereinbarkeit von Familie und Beruf als wichtiges Ziel\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "168.200", 
+   "children": [], 
+   "end": "169.440", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und zwar signifikant."
+   ]
+  }, 
+  {
+   "begin": "169.440", 
+   "children": [], 
+   "end": "170.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcbrigens: "
+   ]
+  }, 
+  {
+   "begin": "170.080", 
+   "children": [], 
+   "end": "176.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Nur jede vierte Mutter und jeder f\u00fcnfte Vater, "
+   ]
+  }, 
+  {
+   "begin": "176.040", 
+   "children": [], 
+   "end": "177.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die das Elterngeld Plus beziehen, "
+   ]
+  }, 
+  {
+   "begin": "177.480", 
+   "children": [], 
+   "end": "180.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "halten die Antragstellung f\u00fcr leicht. "
+   ]
+  }, 
+  {
+   "begin": "180.000", 
+   "children": [], 
+   "end": "184.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wenn aufgrund einer schwierigen Antragstellung Antr\u00e4ge nicht gestellt werden, "
+   ]
+  }, 
+  {
+   "begin": "184.240", 
+   "children": [], 
+   "end": "186.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fchrt das zu F\u00f6rderl\u00fccken f\u00fcr Familien, "
+   ]
+  }, 
+  {
+   "begin": "186.480", 
+   "children": [], 
+   "end": "189.960", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die insbesondere bei niedrigem Einkommen schmerzhaft sind. "
+   ]
+  }, 
+  {
+   "begin": "189.960", 
+   "children": [], 
+   "end": "193.520", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Hinsichtlich der Nichtbeziehenden wird \u00fcberhaupt keine Aussage getroffen; "
+   ]
+  }, 
+  {
+   "begin": "193.520", 
+   "children": [], 
+   "end": "195.800", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "darauf hat Katja Suding zu Recht hingewiesen. "
+   ]
+  }, 
+  {
+   "begin": "195.800", 
+   "children": [], 
+   "end": "198.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein ganz gro\u00dfer wei\u00dfer Fleck des Berichts. "
+   ]
+  }, 
+  {
+   "begin": "198.480", 
+   "children": [], 
+   "end": "201.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Da m\u00fcssen wir nachhaken, "
+   ]
+  }, 
+  {
+   "begin": "201.600", 
+   "children": [], 
+   "end": "206.040", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "206.040", 
+   "children": [], 
+   "end": "212.440", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem m\u00fcssen die Elterngeldvarianten endlich bundesweit digital beantragt werden k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "212.440", 
+   "children": [], 
+   "end": "215.000", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "damit grunds\u00e4tzlich der Wust an Formularen, "
+   ]
+  }, 
+  {
+   "begin": "215.000", 
+   "children": [], 
+   "end": "217.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die Eltern in der Zeit nach der Geburt ausf\u00fcllen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "217.760", 
+   "children": [], 
+   "end": "218.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "reduziert wird. "
+   ]
+  }, 
+  {
+   "begin": "218.960", 
+   "children": [], 
+   "end": "222.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Dadurch wird \u00fcbrigens auch ein m\u00f6glicher Wechsel der Elterngeldvarianten, "
+   ]
+  }, 
+  {
+   "begin": "222.480", 
+   "children": [], 
+   "end": "224.360", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "der ja ausdr\u00fccklich vorgesehen ist, "
+   ]
+  }, 
+  {
+   "begin": "224.360", 
+   "children": [], 
+   "end": "226.280", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "deutlich vereinfacht. "
+   ]
+  }, 
+  {
+   "begin": "226.280", 
+   "children": [], 
+   "end": "233.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Eine digitale Bearbeitung erspart den Familien Aufwand und schenkt ihnen kostbare Zeit f\u00fcreinander."
+   ]
+  }, 
+  {
+   "begin": "233.240", 
+   "children": [], 
+   "end": "237.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Schon diese konkreten Verbesserungen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "237.280", 
+   "children": [], 
+   "end": "239.800", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "darum sollte es, "
+   ]
+  }, 
+  {
+   "begin": "239.800", 
+   "children": [], 
+   "end": "240.160", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "finde ich, "
+   ]
+  }, 
+  {
+   "begin": "240.160", 
+   "children": [], 
+   "end": "242.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "in unserer Arbeit hier im Hause gehen: "
+   ]
+  }, 
+  {
+   "begin": "242.960", 
+   "children": [], 
+   "end": "248.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich Themen und Probleme zu erfassen und konkrete Verbesserungen vorzuschlagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "248.800", 
+   "children": [], 
+   "end": "253.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "st\u00e4rken insgesamt die Selbstbestimmung der Familien, "
+   ]
+  }, 
+  {
+   "begin": "253.080", 
+   "children": [], 
+   "end": "257.600", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "indem sie sich an ihren Lebensrealit\u00e4ten und Bed\u00fcrfnissen orientieren. "
+   ]
+  }, 
+  {
+   "begin": "257.600", 
+   "children": [], 
+   "end": "261.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb hat Katja Suding bereits zu Recht festgestellt, "
+   ]
+  }, 
+  {
+   "begin": "261.440", 
+   "children": [], 
+   "end": "272.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass eine kontinuierliche und ideologiefreie \u00dcberpr\u00fcfung aller familienpolitischen Leistungen die Basis f\u00fcr eine immer bessere Familienpolitik ist."
+   ]
+  }, 
+  {
+   "begin": "272.480", 
+   "children": [], 
+   "end": "274.920", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege."
+   ]
+  }, 
+  {
+   "begin": "274.920", 
+   "children": [], 
+   "end": "277.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Letzter Satz.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "277.440", 
+   "children": [], 
+   "end": "287.440", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Nur so verbessern wir die Situation und Perspektive von Eltern und Kindern nachhaltig und st\u00e4rken die Familie als Keimzelle und Fundament unserer Gesellschaft."
+   ]
+  }, 
+  {
+   "begin": "287.440", 
+   "children": [], 
+   "end": "288.120", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "288.120", 
+   "children": [], 
+   "end": "297.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner in dieser Debatte ist der Kollege Michael Kie\u00dfling, "
+   ]
+  }, 
+  {
+   "begin": "297.480", 
+   "children": [], 
+   "end": "300.000", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU."
+   ]
+  }
+ ]
+}

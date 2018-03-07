@@ -1,0 +1,844 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.600", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "children": [], 
+   "end": "4.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "children": [], 
+   "end": "11.160", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Bankenunion ist einer von drei Bausteinen, "
+   ]
+  }, 
+  {
+   "begin": "11.160", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "die dem Euro-System mehr Stabilit\u00e4t geben sollen. "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "20.040", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wie wichtig mehr Stabilit\u00e4t ist, "
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "children": [], 
+   "end": "25.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "haben die Erfahrungen mit der Euro-Schuldenkrise gezeigt. "
+   ]
+  }, 
+  {
+   "begin": "25.680", 
+   "children": [], 
+   "end": "36.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Diese ist vom Deutschen Bundestag und mit einem gro\u00dfen Gemeinschaftsgeist in Deutschland erfolgreich bew\u00e4ltigt worden. "
+   ]
+  }, 
+  {
+   "begin": "36.040", 
+   "children": [], 
+   "end": "40.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben die Einlagen der Sparer gerettet, "
+   ]
+  }, 
+  {
+   "begin": "40.800", 
+   "children": [], 
+   "end": "49.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wir haben die richtigen Regulierungen getroffen und haben in fraktions\u00fcbergreifender Gemeinschaft im Deutschen Bundestag rund um die Uhr Schlimmeres verhindert. "
+   ]
+  }, 
+  {
+   "begin": "49.960", 
+   "children": [], 
+   "end": "52.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Tatsache, "
+   ]
+  }, 
+  {
+   "begin": "52.080", 
+   "children": [], 
+   "end": "53.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "53.680", 
+   "children": [], 
+   "end": "54.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Fazit ist: "
+   ]
+  }, 
+  {
+   "begin": "54.560", 
+   "children": [], 
+   "end": "58.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Stabilit\u00e4t erreicht man nur, "
+   ]
+  }, 
+  {
+   "begin": "58.400", 
+   "children": [], 
+   "end": "64.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Ma\u00dfnahmen richtig und sachbezogen ausgestaltet werden. "
+   ]
+  }, 
+  {
+   "begin": "64.560", 
+   "children": [], 
+   "end": "70.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Dabei steht aus Sicht der Union ein Grundsatz ganz oben: "
+   ]
+  }, 
+  {
+   "begin": "70.200", 
+   "children": [], 
+   "end": "76.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Risiko und Haftung d\u00fcrfen nicht voneinander getrennt werden. "
+   ]
+  }, 
+  {
+   "begin": "76.600", 
+   "children": [], 
+   "end": "77.920", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Prinzip, "
+   ]
+  }, 
+  {
+   "begin": "77.920", 
+   "children": [], 
+   "end": "81.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dieser Grundsatz muss zum Ma\u00dfstab genommen werden."
+   ]
+  }, 
+  {
+   "begin": "81.360", 
+   "children": [], 
+   "end": "84.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das muss gerade auch f\u00fcr die Bankenunion gelten."
+   ]
+  }, 
+  {
+   "begin": "84.440", 
+   "children": [], 
+   "end": "88.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Vor allem aber m\u00fcssen die Risiken abgebaut werden, "
+   ]
+  }, 
+  {
+   "begin": "88.280", 
+   "children": [], 
+   "end": "96.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "bevor eine Vollendung der Bankenunion tats\u00e4chlich verantwortet werden kann. "
+   ]
+  }, 
+  {
+   "begin": "96.280", 
+   "children": [], 
+   "end": "97.080", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Risiken, "
+   ]
+  }, 
+  {
+   "begin": "97.080", 
+   "children": [], 
+   "end": "98.640", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "98.640", 
+   "children": [], 
+   "end": "100.440", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "gibt es leider noch zuhauf. "
+   ]
+  }, 
+  {
+   "begin": "100.440", 
+   "children": [], 
+   "end": "103.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nat\u00fcrlich auch wahr. "
+   ]
+  }, 
+  {
+   "begin": "103.280", 
+   "children": [], 
+   "end": "108.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Da ist zum einen die anhaltend hohe Verschuldung einer ganzen Reihe von Mitgliedstaaten. "
+   ]
+  }, 
+  {
+   "begin": "108.840", 
+   "children": [], 
+   "end": "118.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Da gibt es zum anderen faule Kredite in erheblichem Umfang in den Bankenbilanzen. "
+   ]
+  }, 
+  {
+   "begin": "118.040", 
+   "children": [], 
+   "end": "126.000", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb darf die europ\u00e4ische Bankenunion kein Transferinstrument werden, "
+   ]
+  }, 
+  {
+   "begin": "126.000", 
+   "children": [], 
+   "end": "126.520", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und, "
+   ]
+  }, 
+  {
+   "begin": "126.520", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "131.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die CDU/CSU plant dies auch nicht. "
+   ]
+  }, 
+  {
+   "begin": "131.800", 
+   "children": [], 
+   "end": "135.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das m\u00f6chte ich noch einmal klar und deutlich hervorheben."
+   ]
+  }, 
+  {
+   "begin": "135.280", 
+   "children": [], 
+   "end": "137.400", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Es ist klar: "
+   ]
+  }, 
+  {
+   "begin": "137.400", 
+   "children": [], 
+   "end": "142.000", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Der Steuerzahler und die Sparer m\u00fcssen gesch\u00fctzt werden. "
+   ]
+  }, 
+  {
+   "begin": "142.000", 
+   "children": [], 
+   "end": "143.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Und Voraussetzung bleibt: "
+   ]
+  }, 
+  {
+   "begin": "143.440", 
+   "children": [], 
+   "end": "151.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Stabilit\u00e4t erreicht man nicht durch eine blo\u00dfe Vergemeinschaftung von Schulden. "
+   ]
+  }, 
+  {
+   "begin": "151.400", 
+   "children": [], 
+   "end": "152.880", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist klar: "
+   ]
+  }, 
+  {
+   "begin": "152.880", 
+   "children": [], 
+   "end": "159.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Vor der Installierung einer europ\u00e4ischen Bankenunion m\u00fcssen faule Kredite abgebaut werden. "
+   ]
+  }, 
+  {
+   "begin": "159.320", 
+   "children": [], 
+   "end": "160.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Hierzu gibt es eine Benchmark: "
+   ]
+  }, 
+  {
+   "begin": "160.440", 
+   "children": [], 
+   "end": "163.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Anteil der faulen Kredite in den USA 2\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "163.880", 
+   "children": [], 
+   "end": "167.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "in Deutschland 2,5\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "167.000", 
+   "children": [], 
+   "end": "168.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das ist etwas schlechter, "
+   ]
+  }, 
+  {
+   "begin": "168.040", 
+   "children": [], 
+   "end": "169.240", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "aber es gibt auch L\u00e4nder, "
+   ]
+  }, 
+  {
+   "begin": "169.240", 
+   "children": [], 
+   "end": "170.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "bei denen der Anteil der faulen Kredite bei 15, "
+   ]
+  }, 
+  {
+   "begin": "170.880", 
+   "children": [], 
+   "end": "173.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "20 oder gar 50\u00a0Prozent liegt. "
+   ]
+  }, 
+  {
+   "begin": "173.920", 
+   "children": [], 
+   "end": "176.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Da muss gehandelt werden. "
+   ]
+  }, 
+  {
+   "begin": "176.160", 
+   "children": [], 
+   "end": "177.840", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Darauf m\u00fcssen wir hinwirken. "
+   ]
+  }, 
+  {
+   "begin": "177.840", 
+   "children": [], 
+   "end": "179.560", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das werden wir auch tun, "
+   ]
+  }, 
+  {
+   "begin": "179.560", 
+   "children": [], 
+   "end": "182.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "indem wir in der Gemeinschaft daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "182.240", 
+   "children": [], 
+   "end": "187.760", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass das Stabilit\u00e4tsbewusstsein st\u00e4rker verankert wird."
+   ]
+  }, 
+  {
+   "begin": "187.760", 
+   "children": [], 
+   "end": "191.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt nat\u00fcrlich auch, "
+   ]
+  }, 
+  {
+   "begin": "191.160", 
+   "children": [], 
+   "end": "198.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass wir Staatsanleihen risikoad\u00e4quat behandeln; "
+   ]
+  }, 
+  {
+   "begin": "198.320", 
+   "children": [], 
+   "end": "202.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "denn Staatsanleihen sind eben nicht risikofrei. "
+   ]
+  }, 
+  {
+   "begin": "202.960", 
+   "children": [], 
+   "end": "205.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Wir mussten immer wieder lernen, "
+   ]
+  }, 
+  {
+   "begin": "205.440", 
+   "children": [], 
+   "end": "216.040", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass die Aufk\u00e4ufe angeblich risikofreier Staatsanleihen oder deren Finanzierung schon ein Risiko bedeuten."
+   ]
+  }, 
+  {
+   "begin": "216.040", 
+   "children": [], 
+   "end": "219.560", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben es f\u00fcr den richtigen Weg gehalten, "
+   ]
+  }, 
+  {
+   "begin": "219.560", 
+   "children": [], 
+   "end": "226.640", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die Finanzierung von Staatsanleihen in Zukunft mit Eigenkapital zu unterlegen. "
+   ]
+  }, 
+  {
+   "begin": "226.640", 
+   "children": [], 
+   "end": "231.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben es hier sicher mit einer komplexen Frage zu tun. "
+   ]
+  }, 
+  {
+   "begin": "231.240", 
+   "children": [], 
+   "end": "231.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb: "
+   ]
+  }, 
+  {
+   "begin": "231.840", 
+   "children": [], 
+   "end": "234.440", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Ehrgeizige Zeitpl\u00e4ne sind gut, "
+   ]
+  }, 
+  {
+   "begin": "234.440", 
+   "children": [], 
+   "end": "238.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "aber Sorgfalt muss nat\u00fcrlich auch hier vor Schnelligkeit gehen."
+   ]
+  }, 
+  {
+   "begin": "238.520", 
+   "children": [], 
+   "end": "241.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "241.040", 
+   "children": [], 
+   "end": "243.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen alles daf\u00fcr tun, "
+   ]
+  }, 
+  {
+   "begin": "243.960", 
+   "children": [], 
+   "end": "247.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass zun\u00e4chst einmal bei den Banken gehandelt wird. "
+   ]
+  }, 
+  {
+   "begin": "247.720", 
+   "children": [], 
+   "end": "255.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Eine Eigenkapitalquote von 8\u00a0Prozent der Bilanzsumme als Sicherheit ist sicher ein richtiger Weg, "
+   ]
+  }, 
+  {
+   "begin": "255.960", 
+   "children": [], 
+   "end": "259.160", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "um Stabilit\u00e4t in den Banken zu erreichen, "
+   ]
+  }, 
+  {
+   "begin": "259.160", 
+   "children": [], 
+   "end": "264.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "um Vertrauen bei den Finanzmarktkunden zu schaffen. "
+   ]
+  }, 
+  {
+   "begin": "264.760", 
+   "children": [], 
+   "end": "266.680", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Das ist unabdingbar; "
+   ]
+  }, 
+  {
+   "begin": "266.680", 
+   "children": [], 
+   "end": "268.280", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "denn die Eigent\u00fcmer, "
+   ]
+  }, 
+  {
+   "begin": "268.280", 
+   "children": [], 
+   "end": "274.040", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Gl\u00e4ubiger und die nationale Einlagensicherung sind vor Ort gefragt, "
+   ]
+  }, 
+  {
+   "begin": "274.040", 
+   "children": [], 
+   "end": "277.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Banken in irgendeine Schieflage kommen, "
+   ]
+  }, 
+  {
+   "begin": "277.280", 
+   "children": [], 
+   "end": "279.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "nicht eine Vergemeinschaftung."
+   ]
+  }, 
+  {
+   "begin": "279.440", 
+   "children": [], 
+   "end": "282.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind richtig beraten, "
+   ]
+  }, 
+  {
+   "begin": "282.680", 
+   "children": [], 
+   "end": "292.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "eine Bankenunion mit Augenma\u00df mit den gro\u00dfen Aufgaben der Regulierung zu verbinden. "
+   ]
+  }, 
+  {
+   "begin": "292.200", 
+   "children": [], 
+   "end": "293.480", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden darauf achten, "
+   ]
+  }, 
+  {
+   "begin": "293.480", 
+   "children": [], 
+   "end": "295.360", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dass die Sparer, "
+   ]
+  }, 
+  {
+   "begin": "295.360", 
+   "children": [], 
+   "end": "300.320", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "die Finanzmarktkunden in Deutschland nicht in Haftung genommen werden. "
+   ]
+  }, 
+  {
+   "begin": "300.320", 
+   "children": [], 
+   "end": "303.760", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Die Steuerzahler d\u00fcrfen nicht in Haftung genommen werden. "
+   ]
+  }, 
+  {
+   "begin": "303.760", 
+   "children": [], 
+   "end": "308.400", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Voraussetzung f\u00fcr eine Bankenunion auf europ\u00e4ischer Ebene."
+   ]
+  }, 
+  {
+   "begin": "308.400", 
+   "children": [], 
+   "end": "309.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "309.360", 
+   "children": [], 
+   "end": "310.160", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "310.160", 
+   "children": [], 
+   "end": "312.720", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Dr.\u00a0Michelbach.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "312.720", 
+   "children": [], 
+   "end": "316.040", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes der Kollege Metin Hakverdi, "
+   ]
+  }, 
+  {
+   "begin": "316.040", 
+   "children": [], 
+   "end": "316.960", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "SPD."
+   ]
+  }
+ ]
+}

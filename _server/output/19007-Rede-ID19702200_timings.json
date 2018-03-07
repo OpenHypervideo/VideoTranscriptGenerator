@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.120", 
+   "children": [], 
+   "end": "7.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "7.640", 
+   "children": [], 
+   "end": "18.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Kaum ein anderes Thema hat die Menschen und die politischen Parteien in den letzten Wochen und Monaten so sehr besch\u00e4ftigt wie die Frage des Familiennachzugs f\u00fcr subsidi\u00e4r Schutzberechtigte. "
+   ]
+  }, 
+  {
+   "begin": "18.960", 
+   "children": [], 
+   "end": "19.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Dass das so ist, "
+   ]
+  }, 
+  {
+   "begin": "19.840", 
+   "children": [], 
+   "end": "20.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "liegt daran, "
+   ]
+  }, 
+  {
+   "begin": "20.280", 
+   "children": [], 
+   "end": "25.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass wir als nationaler Gesetzgeber in dieser Frage einen eigenen Ausgestaltungsspielraum haben. "
+   ]
+  }, 
+  {
+   "begin": "25.520", 
+   "children": [], 
+   "end": "33.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Anders als beim Familiennachzug zum anerkannten Fl\u00fcchtling im engeren Sinne m\u00fcssen wir uns hier in der Sache damit befassen und k\u00f6nnen eine Regelung auf den Weg bringen, "
+   ]
+  }, 
+  {
+   "begin": "33.960", 
+   "children": [], 
+   "end": "38.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "bei der wir nat\u00fcrlich Artikel\u00a06 des Grundgesetzes ber\u00fccksichtigen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "38.240", 
+   "children": [], 
+   "end": "40.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "bei der wir aber auch ber\u00fccksichtigen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "40.280", 
+   "children": [], 
+   "end": "42.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "was die zust\u00e4ndigen Kreise\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "42.160", 
+   "children": [], 
+   "end": "42.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "42.640", 
+   "children": [], 
+   "end": "46.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die sich tagt\u00e4glich in der Fl\u00fcchtlingspolitik und Fl\u00fcchtlingshilfe engagieren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "46.560", 
+   "children": [], 
+   "end": "47.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dazu sagen. "
+   ]
+  }, 
+  {
+   "begin": "47.800", 
+   "children": [], 
+   "end": "49.120", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Nach Einsch\u00e4tzungen des Deutschen St\u00e4dte- "
+   ]
+  }, 
+  {
+   "begin": "49.120", 
+   "children": [], 
+   "end": "53.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "und Gemeindebundes fehlt es auch weiterhin an ausreichend Kinderbetreuungs- "
+   ]
+  }, 
+  {
+   "begin": "53.040", 
+   "children": [], 
+   "end": "59.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und Schulpl\u00e4tzen sowie an ausreichend Wohnraum f\u00fcr Gefl\u00fcchtete. "
+   ]
+  }, 
+  {
+   "begin": "59.760", 
+   "children": [], 
+   "end": "61.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Neben der Personengruppe, "
+   ]
+  }, 
+  {
+   "begin": "61.520", 
+   "children": [], 
+   "end": "62.720", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "um die es heute gehen soll, "
+   ]
+  }, 
+  {
+   "begin": "62.720", 
+   "children": [], 
+   "end": "67.080", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "nehmen die Kommunen auch die Fl\u00fcchtlinge im engeren Sinne und deren Familienangeh\u00f6rige auf."
+   ]
+  }, 
+  {
+   "begin": "67.080", 
+   "children": [], 
+   "end": "70.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Aus diesen Gr\u00fcnden ist die FDP-Fraktion daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "70.400", 
+   "children": [], 
+   "end": "76.560", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die \u00dcbergangsregelung zur Aussetzung des Familiennachzugs bei subsidi\u00e4r Schutzberechtigten zu verl\u00e4ngern,"
+   ]
+  }, 
+  {
+   "begin": "76.560", 
+   "children": [], 
+   "end": "81.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "allerdings mit zwei \u00c4nderungen."
+   ]
+  }, 
+  {
+   "begin": "81.280", 
+   "children": [], 
+   "end": "82.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "82.520", 
+   "children": [], 
+   "end": "84.080", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt bestimmte H\u00e4rtef\u00e4lle, "
+   ]
+  }, 
+  {
+   "begin": "84.080", 
+   "children": [], 
+   "end": "88.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "in denen aufgrund der besonderen Situation der Familie oder desjenigen, "
+   ]
+  }, 
+  {
+   "begin": "88.000", 
+   "children": [], 
+   "end": "89.040", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "der nachziehen soll, "
+   ]
+  }, 
+  {
+   "begin": "89.040", 
+   "children": [], 
+   "end": "92.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "oder der Situation im Heimatland ein Nachzug m\u00f6glich sein soll. "
+   ]
+  }, 
+  {
+   "begin": "92.400", 
+   "children": [], 
+   "end": "94.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren der CDU/CSU und der SPD, "
+   ]
+  }, 
+  {
+   "begin": "94.960", 
+   "children": [], 
+   "end": "96.440", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "es ist \u00fcberhaupt nicht einzusehen, "
+   ]
+  }, 
+  {
+   "begin": "96.440", 
+   "children": [], 
+   "end": "100.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "warum diese Zahl der H\u00e4rtef\u00e4lle willk\u00fcrlich auf 1\u00a0000 beschr\u00e4nkt sein soll."
+   ]
+  }, 
+  {
+   "begin": "100.080", 
+   "children": [], 
+   "end": "100.840", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "100.840", 
+   "children": [], 
+   "end": "106.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind f\u00fcr eine Ver\u00e4nderung dieser \u00dcbergangsregelung, "
+   ]
+  }, 
+  {
+   "begin": "106.800", 
+   "children": [], 
+   "end": "108.120", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "weil es Menschen gibt, "
+   ]
+  }, 
+  {
+   "begin": "108.120", 
+   "children": [], 
+   "end": "108.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "die, "
+   ]
+  }, 
+  {
+   "begin": "108.280", 
+   "children": [], 
+   "end": "111.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "obwohl sie hier nur vor\u00fcbergehend einen Schutzstatus genie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "111.600", 
+   "children": [], 
+   "end": "113.880", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich denjenigen des subsidi\u00e4ren Schutzes, "
+   ]
+  }, 
+  {
+   "begin": "113.880", 
+   "children": [], 
+   "end": "114.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "sich trotzdem integrieren, "
+   ]
+  }, 
+  {
+   "begin": "114.720", 
+   "children": [], 
+   "end": "119.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel indem sie eine Arbeit aufnehmen und f\u00fcr ihren Lebensunterhalt und den ihrer Familie sorgen. "
+   ]
+  }, 
+  {
+   "begin": "119.400", 
+   "children": [], 
+   "end": "120.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren von der AfD: "
+   ]
+  }, 
+  {
+   "begin": "120.600", 
+   "children": [], 
+   "end": "125.920", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Warum sollen denn diese Menschen nicht auch ihre Familien nach Deutschland nachziehen lassen? "
+   ]
+  }, 
+  {
+   "begin": "125.920", 
+   "children": [], 
+   "end": "129.080", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das ist schlichtweg nicht einzusehen."
+   ]
+  }, 
+  {
+   "begin": "129.080", 
+   "children": [], 
+   "end": "133.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Aus diesen Gr\u00fcnden hat die FDP-Fraktion einen eigenen Gesetzentwurf zu diesem Thema eingebracht. "
+   ]
+  }, 
+  {
+   "begin": "133.720", 
+   "children": [], 
+   "end": "138.080", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden der \u00dcberweisung des Gesetzentwurfs der AfD in den Innenausschuss zustimmen. "
+   ]
+  }, 
+  {
+   "begin": "138.080", 
+   "children": [], 
+   "end": "139.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Er ist aber in der Sache abzulehnen, "
+   ]
+  }, 
+  {
+   "begin": "139.680", 
+   "children": [], 
+   "end": "144.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "weil er eine solche H\u00e4rtefallregelung nicht umfasst und davon ausgeht, "
+   ]
+  }, 
+  {
+   "begin": "144.080", 
+   "children": [], 
+   "end": "145.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "es handele sich beim Syrienkonflikt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "145.960", 
+   "children": [], 
+   "end": "146.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "146.240", 
+   "children": [], 
+   "end": "149.680", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "um einen \u201eallm\u00e4hlich abflauenden Krieg\u201c und gar \u201eBefriedung\u201c."
+   ]
+  }, 
+  {
+   "begin": "149.680", 
+   "children": [], 
+   "end": "152.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Dass Sie angesichts der Ereignisse in Syrien\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "152.160", 
+   "children": [], 
+   "end": "152.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "erst gestern, "
+   ]
+  }, 
+  {
+   "begin": "152.680", 
+   "children": [], 
+   "end": "159.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "erst in dieser Woche haben die Vereinten Nationen von einer Intensivierung der Kampfhandlungen in bestimmten Gebieten und von \u00fcber 200\u00a0000\u00a0Vertreibungen gesprochen; "
+   ]
+  }, 
+  {
+   "begin": "159.240", 
+   "children": [], 
+   "end": "162.160", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "am 7.\u00a0Januar gab es 23\u00a0Tote bei einem Bombenanschlag in Idlib\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "162.160", 
+   "children": [], 
+   "end": "163.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "von einer Befriedung sprechen, "
+   ]
+  }, 
+  {
+   "begin": "163.920", 
+   "children": [], 
+   "end": "165.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "ist doch der blanke Hohn. "
+   ]
+  }, 
+  {
+   "begin": "165.440", 
+   "children": [], 
+   "end": "168.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist dieser Gesetzentwurf in der Sache abzulehnen."
+   ]
+  }, 
+  {
+   "begin": "168.680", 
+   "children": [], 
+   "end": "175.480", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Der subsidi\u00e4re Schutz wird in der Regel f\u00fcr ein Jahr verliehen und kann auf zwei Jahre verl\u00e4ngert werden. "
+   ]
+  }, 
+  {
+   "begin": "175.480", 
+   "children": [], 
+   "end": "177.800", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Der Syrienkonflikt dauert aber seit 2011 an. "
+   ]
+  }, 
+  {
+   "begin": "177.800", 
+   "children": [], 
+   "end": "178.920", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen gibt es Menschen, "
+   ]
+  }, 
+  {
+   "begin": "178.920", 
+   "children": [], 
+   "end": "179.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die dauerhaft, "
+   ]
+  }, 
+  {
+   "begin": "179.840", 
+   "children": [], 
+   "end": "181.600", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "l\u00e4nger als zwei oder drei Jahre, "
+   ]
+  }, 
+  {
+   "begin": "181.600", 
+   "children": [], 
+   "end": "183.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "von ihren Familien getrennt sind. "
+   ]
+  }, 
+  {
+   "begin": "183.160", 
+   "children": [], 
+   "end": "185.320", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man hier das Kindeswohl besonders ber\u00fccksichtigt, "
+   ]
+  }, 
+  {
+   "begin": "185.320", 
+   "children": [], 
+   "end": "189.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dann muss in solchen F\u00e4llen der Familiennachzug m\u00f6glich sein. "
+   ]
+  }, 
+  {
+   "begin": "189.120", 
+   "children": [], 
+   "end": "192.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Ein H\u00e4rtefall kann auch vorliegen, "
+   ]
+  }, 
+  {
+   "begin": "192.880", 
+   "children": [], 
+   "end": "194.000", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "wenn Menschen, "
+   ]
+  }, 
+  {
+   "begin": "194.000", 
+   "children": [], 
+   "end": "195.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "die nachziehen sollen, "
+   ]
+  }, 
+  {
+   "begin": "195.480", 
+   "children": [], 
+   "end": "198.960", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "bei einem Aufenthalt in Deutschland selber Anspruch auf subsidi\u00e4ren Schutz h\u00e4tten. "
+   ]
+  }, 
+  {
+   "begin": "198.960", 
+   "children": [], 
+   "end": "200.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Es ist doch sinnlos, "
+   ]
+  }, 
+  {
+   "begin": "200.120", 
+   "children": [], 
+   "end": "202.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr diese Menschen den Familiennachzug nicht zu \u00f6ffnen. "
+   ]
+  }, 
+  {
+   "begin": "202.560", 
+   "children": [], 
+   "end": "204.840", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Auch hier bedarf es einer H\u00e4rtefallregelung."
+   ]
+  }, 
+  {
+   "begin": "204.840", 
+   "children": [], 
+   "end": "205.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "205.560", 
+   "children": [], 
+   "end": "206.320", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "wir sind daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "206.320", 
+   "children": [], 
+   "end": "208.880", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass es eine weitere \u00dcbergangsregelung gibt. "
+   ]
+  }, 
+  {
+   "begin": "208.880", 
+   "children": [], 
+   "end": "211.400", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Jahre m\u00fcssen genug sein, "
+   ]
+  }, 
+  {
+   "begin": "211.400", 
+   "children": [], 
+   "end": "213.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "um endlich ein koh\u00e4rentes Fl\u00fcchtlings- "
+   ]
+  }, 
+  {
+   "begin": "213.440", 
+   "children": [], 
+   "end": "215.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "und Einwanderungsrecht in Deutschland zu schaffen, "
+   ]
+  }, 
+  {
+   "begin": "215.400", 
+   "children": [], 
+   "end": "219.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "mit einem Punktesystem f\u00fcr die Einwanderung, "
+   ]
+  }, 
+  {
+   "begin": "219.360", 
+   "children": [], 
+   "end": "223.360", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "aber auch mit neuen Regelungen zu B\u00fcrgerkriegsfl\u00fcchtlingen. "
+   ]
+  }, 
+  {
+   "begin": "223.360", 
+   "children": [], 
+   "end": "225.440", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Dann kann auch jemand hierbleiben, "
+   ]
+  }, 
+  {
+   "begin": "225.440", 
+   "children": [], 
+   "end": "227.840", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "der als Fl\u00fcchtling gekommen ist, "
+   ]
+  }, 
+  {
+   "begin": "227.840", 
+   "children": [], 
+   "end": "230.880", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "aber dann die Kriterien des Einwanderungsgesetzes erf\u00fcllt."
+   ]
+  }, 
+  {
+   "begin": "230.880", 
+   "children": [], 
+   "end": "233.920", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Auch diese Menschen m\u00fcssen eine M\u00f6glichkeit haben, "
+   ]
+  }, 
+  {
+   "begin": "233.920", 
+   "children": [], 
+   "end": "235.320", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "hierzubleiben."
+   ]
+  }, 
+  {
+   "begin": "235.320", 
+   "children": [], 
+   "end": "236.880", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Ihre pauschale L\u00f6sung, "
+   ]
+  }, 
+  {
+   "begin": "236.880", 
+   "children": [], 
+   "end": "238.520", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren von der AfD, "
+   ]
+  }, 
+  {
+   "begin": "238.520", 
+   "children": [], 
+   "end": "240.760", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "trifft nicht die Komplexit\u00e4t der Einzelf\u00e4lle. "
+   ]
+  }, 
+  {
+   "begin": "240.760", 
+   "children": [], 
+   "end": "242.720", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Gesetzentwurf ist zu \u00fcberweisen, "
+   ]
+  }, 
+  {
+   "begin": "242.720", 
+   "children": [], 
+   "end": "244.400", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "aber dann final abzulehnen, "
+   ]
+  }, 
+  {
+   "begin": "244.400", 
+   "children": [], 
+   "end": "248.840", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "weil Ihre Ressentiments leider die Sicht auf die Komplexit\u00e4t vernebeln, "
+   ]
+  }, 
+  {
+   "begin": "248.840", 
+   "children": [], 
+   "end": "249.920", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "die aber gebraucht wird, "
+   ]
+  }, 
+  {
+   "begin": "249.920", 
+   "children": [], 
+   "end": "251.360", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "um die Einzelf\u00e4lle zu bewerten."
+   ]
+  }, 
+  {
+   "begin": "251.360", 
+   "children": [], 
+   "end": "251.880", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "251.880", 
+   "children": [], 
+   "end": "261.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin ist Ulla Jelpke f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

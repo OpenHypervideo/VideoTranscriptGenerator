@@ -1,0 +1,674 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "children": [], 
+   "end": "13.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "children": [], 
+   "end": "19.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Derzeit gibt Deutschland circa 1,2\u00a0Prozent des Bruttoinlandsprodukts f\u00fcr die Verteidigung aus. "
+   ]
+  }, 
+  {
+   "begin": "19.840", 
+   "children": [], 
+   "end": "23.320", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Im Gegensatz zu den Antragstellern sind die Freien Demokraten der Meinung, "
+   ]
+  }, 
+  {
+   "begin": "23.320", 
+   "children": [], 
+   "end": "31.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland angesichts der ver\u00e4nderten sicherheitspolitischen He\u00adrausforderungen seinen Etat erh\u00f6hen muss."
+   ]
+  }, 
+  {
+   "begin": "31.480", 
+   "children": [], 
+   "end": "38.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Im Sondierungspapier von Union und SPD finden wir dazu nichts wirklich Konkretes, "
+   ]
+  }, 
+  {
+   "begin": "38.200", 
+   "children": [], 
+   "end": "39.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "nur ein bisschen Wachsweiches. "
+   ]
+  }, 
+  {
+   "begin": "39.480", 
+   "children": [], 
+   "end": "40.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Es wird spannend sein; "
+   ]
+  }, 
+  {
+   "begin": "40.840", 
+   "children": [], 
+   "end": "47.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wir haben gerade die Reden vom Kollegen Otte und vom Kollegen Hitschler geh\u00f6rt."
+   ]
+  }, 
+  {
+   "begin": "47.160", 
+   "children": [], 
+   "end": "48.640", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir gehen davon aus, "
+   ]
+  }, 
+  {
+   "begin": "48.640", 
+   "children": [], 
+   "end": "54.120", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass sich das in den Koalitionsverhandlungen \u00e4ndern wird und das pr\u00e4zisiert wird."
+   ]
+  }, 
+  {
+   "begin": "54.120", 
+   "children": [], 
+   "end": "55.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "55.240", 
+   "children": [], 
+   "end": "58.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "angesichts der Krisen auch vor unserer Haust\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "58.160", 
+   "children": [], 
+   "end": "62.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "angesichts des Gebarens des russischen Staatspr\u00e4sidenten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "62.000", 
+   "children": [], 
+   "end": "64.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "das sollte auch von den Linken wahrgenommen worden sein\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "64.760", 
+   "children": [], 
+   "end": "72.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und der besorgniserregenden Entwicklung bei unserem NATO-Partner T\u00fcrkei sollten wir nicht naiv sein."
+   ]
+  }, 
+  {
+   "begin": "72.200", 
+   "children": [], 
+   "end": "75.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Auch unser bisher st\u00e4rkster B\u00fcndnispartner, "
+   ]
+  }, 
+  {
+   "begin": "75.400", 
+   "children": [], 
+   "end": "76.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die Vereinigten Staaten, "
+   ]
+  }, 
+  {
+   "begin": "76.800", 
+   "children": [], 
+   "end": "78.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "ist nicht mehr bereit, "
+   ]
+  }, 
+  {
+   "begin": "78.400", 
+   "children": [], 
+   "end": "83.080", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wie selbstverst\u00e4ndlich Verantwortung f\u00fcr alles und f\u00fcr jeden zu \u00fcbernehmen. "
+   ]
+  }, 
+  {
+   "begin": "83.080", 
+   "children": [], 
+   "end": "88.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Prozess wurde \u00fcbrigens schon vor Jahren unter Pr\u00e4sident Obama eingeleitet. "
+   ]
+  }, 
+  {
+   "begin": "88.280", 
+   "children": [], 
+   "end": "90.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Es w\u00e4re verantwortungslos, "
+   ]
+  }, 
+  {
+   "begin": "90.120", 
+   "children": [], 
+   "end": "91.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "so zu tun, "
+   ]
+  }, 
+  {
+   "begin": "91.400", 
+   "children": [], 
+   "end": "99.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "als ob wir f\u00fcr ein Leben in Frieden und Freiheit nichts oder nicht mehr tun m\u00fcssten."
+   ]
+  }, 
+  {
+   "begin": "99.240", 
+   "children": [], 
+   "end": "100.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen, "
+   ]
+  }, 
+  {
+   "begin": "100.200", 
+   "children": [], 
+   "end": "102.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "102.600", 
+   "children": [], 
+   "end": "107.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "begr\u00fc\u00dfen wir ausdr\u00fccklich die Bem\u00fchungen im Rahmen von PESCO, "
+   ]
+  }, 
+  {
+   "begin": "107.400", 
+   "children": [], 
+   "end": "112.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die schlie\u00dflich in einer gemeinsamen europ\u00e4ischen Verteidigungspolitik m\u00fcnden sollten. "
+   ]
+  }, 
+  {
+   "begin": "112.760", 
+   "children": [], 
+   "end": "115.680", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch das gibt es nicht zum Nulltarif."
+   ]
+  }, 
+  {
+   "begin": "115.680", 
+   "children": [], 
+   "end": "118.280", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Zu den gro\u00dfen Herausforderungen geh\u00f6rt weiter, "
+   ]
+  }, 
+  {
+   "begin": "118.280", 
+   "children": [], 
+   "end": "119.840", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Bundeswehr, "
+   ]
+  }, 
+  {
+   "begin": "119.840", 
+   "children": [], 
+   "end": "123.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "die erfreulicherweise eine Berufsarmee ist, "
+   ]
+  }, 
+  {
+   "begin": "123.000", 
+   "children": [], 
+   "end": "126.280", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "professionell ausger\u00fcstet sein muss. "
+   ]
+  }, 
+  {
+   "begin": "126.280", 
+   "children": [], 
+   "end": "133.560", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das gilt f\u00fcr Auslandseins\u00e4tze genauso wie f\u00fcr die Ausbildung und f\u00fcr \u00dcbungen zu Hause."
+   ]
+  }, 
+  {
+   "begin": "133.560", 
+   "children": [], 
+   "end": "134.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "134.000", 
+   "children": [], 
+   "end": "136.240", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "136.240", 
+   "children": [], 
+   "end": "142.320", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "gebietet allein schon der Respekt vor dem Einsatz der Soldatinnen und Soldaten."
+   ]
+  }, 
+  {
+   "begin": "142.320", 
+   "children": [], 
+   "end": "147.080", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Die Schlussfolgerung hieraus kann nur sein, "
+   ]
+  }, 
+  {
+   "begin": "147.080", 
+   "children": [], 
+   "end": "149.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass wir unseren Etat erh\u00f6hen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "149.400", 
+   "children": [], 
+   "end": "158.760", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "um einen angemessenen Beitrag im B\u00fcndnis mit unseren europ\u00e4ischen Partnern in der NATO leisten zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "158.760", 
+   "children": [], 
+   "end": "164.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir d\u00fcrfen in der Diskussion um eine Etaterh\u00f6hung allerdings nicht aus dem Auge verlieren, "
+   ]
+  }, 
+  {
+   "begin": "164.400", 
+   "children": [], 
+   "end": "166.920", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass es hierbei nicht nur um Waffensysteme geht, "
+   ]
+  }, 
+  {
+   "begin": "166.920", 
+   "children": [], 
+   "end": "168.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die zu modernisieren sind, "
+   ]
+  }, 
+  {
+   "begin": "168.120", 
+   "children": [], 
+   "end": "168.560", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und nicht nur darum geht, "
+   ]
+  }, 
+  {
+   "begin": "168.560", 
+   "children": [], 
+   "end": "171.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass die Ausr\u00fcstung verbessert werden soll. "
+   ]
+  }, 
+  {
+   "begin": "171.000", 
+   "children": [], 
+   "end": "174.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Die Freien Demokraten verfolgen einen umfassenden Sicherheitsbegriff. "
+   ]
+  }, 
+  {
+   "begin": "174.800", 
+   "children": [], 
+   "end": "176.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Es muss darum gehen, "
+   ]
+  }, 
+  {
+   "begin": "176.040", 
+   "children": [], 
+   "end": "177.560", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Krisenpr\u00e4vention, "
+   ]
+  }, 
+  {
+   "begin": "177.560", 
+   "children": [], 
+   "end": "181.880", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Entwicklungsarbeit und Verteidigung als Ganzes zu betrachten."
+   ]
+  }, 
+  {
+   "begin": "181.880", 
+   "children": [], 
+   "end": "183.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr dieses Gesamtkonzept, "
+   ]
+  }, 
+  {
+   "begin": "183.800", 
+   "children": [], 
+   "end": "185.280", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "185.280", 
+   "children": [], 
+   "end": "192.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "halten wir einen Beitrag von 3\u00a0Prozent unseres Bruttoinlandsprodukts f\u00fcr erforderlich; "
+   ]
+  }, 
+  {
+   "begin": "192.840", 
+   "children": [], 
+   "end": "193.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "denn diese drei Aspekte, "
+   ]
+  }, 
+  {
+   "begin": "193.880", 
+   "children": [], 
+   "end": "194.960", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "diese drei Aspekte gemeinsam, "
+   ]
+  }, 
+  {
+   "begin": "194.960", 
+   "children": [], 
+   "end": "195.760", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "sind wesentlich, "
+   ]
+  }, 
+  {
+   "begin": "195.760", 
+   "children": [], 
+   "end": "203.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "um gemeinsam mit unseren B\u00fcndnispartnern f\u00fcreinander einzustehen und Frieden, "
+   ]
+  }, 
+  {
+   "begin": "203.320", 
+   "children": [], 
+   "end": "206.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Freiheit und Sicherheit zu garantieren."
+   ]
+  }, 
+  {
+   "begin": "206.320", 
+   "children": [], 
+   "end": "207.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Die Zeiten, "
+   ]
+  }, 
+  {
+   "begin": "207.080", 
+   "children": [], 
+   "end": "208.280", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "208.280", 
+   "children": [], 
+   "end": "210.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "in denen wir wie selbstverst\u00e4ndlich hofften: "
+   ]
+  }, 
+  {
+   "begin": "210.400", 
+   "children": [], 
+   "end": "212.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDie Partner machen das schon\u201c, "
+   ]
+  }, 
+  {
+   "begin": "212.080", 
+   "children": [], 
+   "end": "217.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "geh\u00f6ren angesichts der komplexen Sicherheitsprobleme in der Welt der Vergangenheit an. "
+   ]
+  }, 
+  {
+   "begin": "217.040", 
+   "children": [], 
+   "end": "221.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wir sollten uns der Realit\u00e4t stellen und einen Beitrag leisten, "
+   ]
+  }, 
+  {
+   "begin": "221.480", 
+   "children": [], 
+   "end": "225.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "der der politischen Bedeutung und Wirtschaftskraft der Bundesrepublik entspricht. "
+   ]
+  }, 
+  {
+   "begin": "225.840", 
+   "children": [], 
+   "end": "227.800", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden der \u00dcberweisung zustimmen."
+   ]
+  }, 
+  {
+   "begin": "227.800", 
+   "children": [], 
+   "end": "228.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "228.480", 
+   "children": [], 
+   "end": "238.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort f\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen hat der Kollege Dr.\u00a0Tobias Lindner."
+   ]
+  }
+ ]
+}

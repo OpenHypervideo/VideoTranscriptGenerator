@@ -1,0 +1,1654 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "children": [], 
+   "end": "7.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Frau Bundesministerin f\u00fcr Wirtschaft! "
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "children": [], 
+   "end": "20.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "20.840", 
+   "children": [], 
+   "end": "27.640", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen in der Tat stolz sein auf das, "
+   ]
+  }, 
+  {
+   "begin": "27.640", 
+   "children": [], 
+   "end": "32.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "was wir gemeinsam in den vergangenen Jahren erreicht haben. "
+   ]
+  }, 
+  {
+   "begin": "32.920", 
+   "children": [], 
+   "end": "37.000", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland steht so gut da wie lange nicht, "
+   ]
+  }, 
+  {
+   "begin": "37.000", 
+   "children": [], 
+   "end": "39.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht wie noch nie. "
+   ]
+  }, 
+  {
+   "begin": "39.040", 
+   "children": [], 
+   "end": "42.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wir gehen in das neunte Jahr eines Aufschwungs. "
+   ]
+  }, 
+  {
+   "begin": "42.920", 
+   "children": [], 
+   "end": "46.640", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Aufschwung ist mittlerweile der wohl l\u00e4ngste Aufschwung, "
+   ]
+  }, 
+  {
+   "begin": "46.640", 
+   "children": [], 
+   "end": "51.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "den wir je in der Geschichte der Bundesrepublik hatten. "
+   ]
+  }, 
+  {
+   "begin": "51.000", 
+   "children": [], 
+   "end": "51.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es ist, "
+   ]
+  }, 
+  {
+   "begin": "51.640", 
+   "children": [], 
+   "end": "52.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "ehrlich gesagt, "
+   ]
+  }, 
+  {
+   "begin": "52.520", 
+   "children": [], 
+   "end": "54.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "fast schon etwas unheimlich, "
+   ]
+  }, 
+  {
+   "begin": "54.400", 
+   "children": [], 
+   "end": "55.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "wenn man die Zahlen sieht, "
+   ]
+  }, 
+  {
+   "begin": "55.800", 
+   "children": [], 
+   "end": "63.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die wir f\u00fcr das Jahr\u00a02018 prognostizieren d\u00fcrfen."
+   ]
+  }, 
+  {
+   "begin": "63.200", 
+   "children": [], 
+   "end": "72.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Das Wirtschaftswachstum wird gegen\u00fcber der Projektion vom Herbst letzten Jahres noch einmal kr\u00e4ftig zulegen, "
+   ]
+  }, 
+  {
+   "begin": "72.080", 
+   "children": [], 
+   "end": "76.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "und zwar auf 2,4\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "76.680", 
+   "children": [], 
+   "end": "78.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Es wird breit getragen. "
+   ]
+  }, 
+  {
+   "begin": "78.840", 
+   "children": [], 
+   "end": "81.960", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Der Aufschwung hat als ein Exportaufschwung begonnen. "
+   ]
+  }, 
+  {
+   "begin": "81.960", 
+   "children": [], 
+   "end": "86.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Er wurde dann durch eine zweite S\u00e4ule erg\u00e4nzt, "
+   ]
+  }, 
+  {
+   "begin": "86.960", 
+   "children": [], 
+   "end": "88.840", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich den Binnenmarkt, "
+   ]
+  }, 
+  {
+   "begin": "88.840", 
+   "children": [], 
+   "end": "90.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die Binnenkonjunktur bzw. "
+   ]
+  }, 
+  {
+   "begin": "90.280", 
+   "children": [], 
+   "end": "93.840", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die Binnennachfrage in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "93.840", 
+   "children": [], 
+   "end": "94.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "die nicht nur stabil, "
+   ]
+  }, 
+  {
+   "begin": "94.960", 
+   "children": [], 
+   "end": "97.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch weiter im Steigen begriffen ist. "
+   ]
+  }, 
+  {
+   "begin": "97.280", 
+   "children": [], 
+   "end": "99.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "In den letzten Jahren wurde h\u00e4ufig beklagt, "
+   ]
+  }, 
+  {
+   "begin": "99.880", 
+   "children": [], 
+   "end": "101.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass die Investitionen, "
+   ]
+  }, 
+  {
+   "begin": "101.240", 
+   "children": [], 
+   "end": "104.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "sowohl die privaten als auch die \u00f6ffentlichen, "
+   ]
+  }, 
+  {
+   "begin": "104.720", 
+   "children": [], 
+   "end": "107.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "nicht im notwendigen Umfang nachziehen. "
+   ]
+  }, 
+  {
+   "begin": "107.080", 
+   "children": [], 
+   "end": "108.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Auch das hat sich ge\u00e4ndert. "
+   ]
+  }, 
+  {
+   "begin": "108.200", 
+   "children": [], 
+   "end": "114.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "In den letzten Monaten haben insbesondere die Investitionen an Dynamik zugenommen. "
+   ]
+  }, 
+  {
+   "begin": "114.280", 
+   "children": [], 
+   "end": "118.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ersatzinvestitionen und Erneuerungsinvestitionen in neue Technologien\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "118.520", 
+   "children": [], 
+   "end": "121.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die Digitalisierung wurde angesprochen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "121.320", 
+   "children": [], 
+   "end": "122.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "nehmen Fahrt auf. "
+   ]
+  }, 
+  {
+   "begin": "122.840", 
+   "children": [], 
+   "end": "128.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "So ist dieser Aufschwung auf mindestens drei S\u00e4ulen stabil verankert, "
+   ]
+  }, 
+  {
+   "begin": "128.440", 
+   "children": [], 
+   "end": "130.080", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "und es besteht die Hoffnung, "
+   ]
+  }, 
+  {
+   "begin": "130.080", 
+   "children": [], 
+   "end": "133.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass er weiterhin tr\u00e4gt."
+   ]
+  }, 
+  {
+   "begin": "133.120", 
+   "children": [], 
+   "end": "137.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Anders als noch vor zwei Jahren gehen wir davon aus, "
+   ]
+  }, 
+  {
+   "begin": "137.760", 
+   "children": [], 
+   "end": "141.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass nicht nur die Zahl der Besch\u00e4ftigten weiter zunimmt, "
+   ]
+  }, 
+  {
+   "begin": "141.280", 
+   "children": [], 
+   "end": "148.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch die Arbeitslosigkeit weiter abnimmt und ein neues Rekordtief seit der Wiedervereinigung erreicht. "
+   ]
+  }, 
+  {
+   "begin": "148.640", 
+   "children": [], 
+   "end": "151.960", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ausgesprochen erfreulich, "
+   ]
+  }, 
+  {
+   "begin": "151.960", 
+   "children": [], 
+   "end": "154.760", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "vor allem angesichts der Fl\u00fcchtlingsthematik; "
+   ]
+  }, 
+  {
+   "begin": "154.760", 
+   "children": [], 
+   "end": "160.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "denn auch diese Menschen dr\u00e4ngen zunehmend in den Arbeitsmarkt."
+   ]
+  }, 
+  {
+   "begin": "160.320", 
+   "children": [], 
+   "end": "163.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Der Aufschwung kommt bei den Menschen auch an. "
+   ]
+  }, 
+  {
+   "begin": "163.920", 
+   "children": [], 
+   "end": "171.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Jahr werden die Haushaltseinkommen voraussichtlich um 3,6\u00a0Prozent wachsen. "
+   ]
+  }, 
+  {
+   "begin": "171.920", 
+   "children": [], 
+   "end": "172.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "172.480", 
+   "children": [], 
+   "end": "172.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "real wird, "
+   ]
+  }, 
+  {
+   "begin": "172.600", 
+   "children": [], 
+   "end": "175.040", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wie in den letzten Jahren auch, "
+   ]
+  }, 
+  {
+   "begin": "175.040", 
+   "children": [], 
+   "end": "176.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "bei den Menschen, "
+   ]
+  }, 
+  {
+   "begin": "176.280", 
+   "children": [], 
+   "end": "178.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "die diesen Aufschwung erarbeiten, "
+   ]
+  }, 
+  {
+   "begin": "178.520", 
+   "children": [], 
+   "end": "182.440", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "am Ende mehr auf dem Konto sein. "
+   ]
+  }, 
+  {
+   "begin": "182.440", 
+   "children": [], 
+   "end": "187.360", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Die Inflationsrate wird moderat bei 1,7\u00a0Prozent liegen, "
+   ]
+  }, 
+  {
+   "begin": "187.360", 
+   "children": [], 
+   "end": "191.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "sodass der Aufschwung bei den Menschen, "
+   ]
+  }, 
+  {
+   "begin": "191.840", 
+   "children": [], 
+   "end": "193.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "die arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "193.880", 
+   "children": [], 
+   "end": "194.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "wirklich ankommt, "
+   ]
+  }, 
+  {
+   "begin": "194.600", 
+   "children": [], 
+   "end": "201.480", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und \u00fcber die entsprechenden Mechanismen wird sich das auch auf die Rente auswirken."
+   ]
+  }, 
+  {
+   "begin": "201.480", 
+   "children": [], 
+   "end": "207.960", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem bleiben die Sozialversicherungsbeitr\u00e4ge stabil. "
+   ]
+  }, 
+  {
+   "begin": "207.960", 
+   "children": [], 
+   "end": "209.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben das Ziel, "
+   ]
+  }, 
+  {
+   "begin": "209.640", 
+   "children": [], 
+   "end": "212.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "sie unter 40\u00a0Prozent zu halten. "
+   ]
+  }, 
+  {
+   "begin": "212.760", 
+   "children": [], 
+   "end": "216.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das wird Bestandteil einer m\u00f6glichen Koalitionsvereinbarung sein. "
+   ]
+  }, 
+  {
+   "begin": "216.960", 
+   "children": [], 
+   "end": "218.280", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wo es m\u00f6glich ist, "
+   ]
+  }, 
+  {
+   "begin": "218.280", 
+   "children": [], 
+   "end": "220.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "werden wir Entlastungen vornehmen, "
+   ]
+  }, 
+  {
+   "begin": "220.400", 
+   "children": [], 
+   "end": "226.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "beispielsweise den Beitrag zur Arbeitslosenversicherung senken."
+   ]
+  }, 
+  {
+   "begin": "226.880", 
+   "children": [], 
+   "end": "227.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "227.520", 
+   "children": [], 
+   "end": "229.640", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "was wir gemeinsam erreicht haben, "
+   ]
+  }, 
+  {
+   "begin": "229.640", 
+   "children": [], 
+   "end": "231.360", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "ist gut und richtig. "
+   ]
+  }, 
+  {
+   "begin": "231.360", 
+   "children": [], 
+   "end": "233.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen stolz darauf sein. "
+   ]
+  }, 
+  {
+   "begin": "233.080", 
+   "children": [], 
+   "end": "235.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir d\u00fcrfen uns nicht darauf ausruhen; "
+   ]
+  }, 
+  {
+   "begin": "235.840", 
+   "children": [], 
+   "end": "237.280", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "es ist kein Selbstl\u00e4ufer. "
+   ]
+  }, 
+  {
+   "begin": "237.280", 
+   "children": [], 
+   "end": "239.400", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt etwas, "
+   ]
+  }, 
+  {
+   "begin": "239.400", 
+   "children": [], 
+   "end": "241.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "das das Wachstum beschr\u00e4nkt, "
+   ]
+  }, 
+  {
+   "begin": "241.280", 
+   "children": [], 
+   "end": "246.920", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "das sozusagen als Wachstumsfessel das weitere Wachstum gef\u00e4hrdet. "
+   ]
+  }, 
+  {
+   "begin": "246.920", 
+   "children": [], 
+   "end": "251.320", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Ich meine den steigenden Fachkr\u00e4ftebedarf. "
+   ]
+  }, 
+  {
+   "begin": "251.320", 
+   "children": [], 
+   "end": "256.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Mittlerweile ist der Fachkr\u00e4ftebedarf an allen Ecken und Enden zu sp\u00fcren, "
+   ]
+  }, 
+  {
+   "begin": "256.600", 
+   "children": [], 
+   "end": "258.160", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur im Handwerk, "
+   ]
+  }, 
+  {
+   "begin": "258.160", 
+   "children": [], 
+   "end": "260.440", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch in der Industrie. "
+   ]
+  }, 
+  {
+   "begin": "260.440", 
+   "children": [], 
+   "end": "261.880", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es nicht gelingt, "
+   ]
+  }, 
+  {
+   "begin": "261.880", 
+   "children": [], 
+   "end": "266.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "gen\u00fcgend Fachkr\u00e4fte zu mobilisieren,"
+   ]
+  }, 
+  {
+   "begin": "266.960", 
+   "children": [], 
+   "end": "271.200", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "wird der Wachstumsmotor ins Stocken geraten bzw. "
+   ]
+  }, 
+  {
+   "begin": "271.200", 
+   "children": [], 
+   "end": "272.320", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "nicht so rund laufen, "
+   ]
+  }, 
+  {
+   "begin": "272.320", 
+   "children": [], 
+   "end": "273.440", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "wie wir uns das w\u00fcnschen. "
+   ]
+  }, 
+  {
+   "begin": "273.440", 
+   "children": [], 
+   "end": "276.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb m\u00fcssen wir alle Potenziale heben, "
+   ]
+  }, 
+  {
+   "begin": "276.200", 
+   "children": [], 
+   "end": "278.320", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "zun\u00e4chst die Potenziale im Inland. "
+   ]
+  }, 
+  {
+   "begin": "278.320", 
+   "children": [], 
+   "end": "281.680", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben noch immer 1\u00a0Million Menschen, "
+   ]
+  }, 
+  {
+   "begin": "281.680", 
+   "children": [], 
+   "end": "284.440", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die dem Arbeitsmarkt eigentlich zur Verf\u00fcgung stehen k\u00f6nnten, "
+   ]
+  }, 
+  {
+   "begin": "284.440", 
+   "children": [], 
+   "end": "285.960", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "es aber nicht tun. "
+   ]
+  }, 
+  {
+   "begin": "285.960", 
+   "children": [], 
+   "end": "287.520", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Hier wird es nicht reichen, "
+   ]
+  }, 
+  {
+   "begin": "287.520", 
+   "children": [], 
+   "end": "288.880", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "mehr Geld in die Hand zu nehmen. "
+   ]
+  }, 
+  {
+   "begin": "288.880", 
+   "children": [], 
+   "end": "290.960", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen diese Menschen richtig aktivieren. "
+   ]
+  }, 
+  {
+   "begin": "290.960", 
+   "children": [], 
+   "end": "292.360", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen dar\u00fcber nachdenken, "
+   ]
+  }, 
+  {
+   "begin": "292.360", 
+   "children": [], 
+   "end": "299.800", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "was man bei den Arbeitsmarktreformen vor 15\u00a0Jahren richtig gemacht hat. "
+   ]
+  }, 
+  {
+   "begin": "299.800", 
+   "children": [], 
+   "end": "301.560", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Wegen dieser Reformen sind wir da, "
+   ]
+  }, 
+  {
+   "begin": "301.560", 
+   "children": [], 
+   "end": "303.880", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "wo wir sind; "
+   ]
+  }, 
+  {
+   "begin": "303.880", 
+   "children": [], 
+   "end": "305.800", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "aber wir m\u00fcssen den Weg weitergehen, "
+   ]
+  }, 
+  {
+   "begin": "305.800", 
+   "children": [], 
+   "end": "308.360", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "um insbesondere die Langzeitarbeitslosen zu aktivieren. "
+   ]
+  }, 
+  {
+   "begin": "308.360", 
+   "children": [], 
+   "end": "312.520", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben die Zahl der Langzeitarbeitslosen schon halbiert; "
+   ]
+  }, 
+  {
+   "begin": "312.520", 
+   "children": [], 
+   "end": "314.080", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "aber es ist immer noch eine Million. "
+   ]
+  }, 
+  {
+   "begin": "314.080", 
+   "children": [], 
+   "end": "314.800", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Es reicht nicht, "
+   ]
+  }, 
+  {
+   "begin": "314.800", 
+   "children": [], 
+   "end": "316.080", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr mehr Geld auszugeben; "
+   ]
+  }, 
+  {
+   "begin": "316.080", 
+   "children": [], 
+   "end": "318.640", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen diese Menschen entsprechend mobilisieren."
+   ]
+  }, 
+  {
+   "begin": "318.640", 
+   "children": [], 
+   "end": "319.080", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Es gilt, "
+   ]
+  }, 
+  {
+   "begin": "319.080", 
+   "children": [], 
+   "end": "321.280", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "die Rahmenbedingungen weiter zu verbessern, "
+   ]
+  }, 
+  {
+   "begin": "321.280", 
+   "children": [], 
+   "end": "323.600", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel im Bereich Betreuung, "
+   ]
+  }, 
+  {
+   "begin": "323.600", 
+   "children": [], 
+   "end": "326.920", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "damit die Frauenerwerbst\u00e4tigkeitsquote, "
+   ]
+  }, 
+  {
+   "begin": "326.920", 
+   "children": [], 
+   "end": "328.040", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "die bereits deutlich gestiegen ist, "
+   ]
+  }, 
+  {
+   "begin": "328.040", 
+   "children": [], 
+   "end": "329.160", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "weiter steigt. "
+   ]
+  }, 
+  {
+   "begin": "329.160", 
+   "children": [], 
+   "end": "331.880", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Erwerbsbeteiligungsquote der \u00c4lteren muss weiter steigen. "
+   ]
+  }, 
+  {
+   "begin": "331.880", 
+   "children": [], 
+   "end": "338.200", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Ein Geheimnis unseres gro\u00dfen gemeinsamen Erfolgs am Arbeitsmarkt ist, "
+   ]
+  }, 
+  {
+   "begin": "338.200", 
+   "children": [], 
+   "end": "341.320", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "dass die Erwerbsbeteiligung der \u00c4lteren, "
+   ]
+  }, 
+  {
+   "begin": "341.320", 
+   "children": [], 
+   "end": "344.000", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "der \u00fcber 55-J\u00e4hrigen, "
+   ]
+  }, 
+  {
+   "begin": "344.000", 
+   "children": [], 
+   "end": "346.480", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "aber auch der \u00fcber 60-J\u00e4hrigen, "
+   ]
+  }, 
+  {
+   "begin": "346.480", 
+   "children": [], 
+   "end": "347.000", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "deutlich gestiegen ist. "
+   ]
+  }, 
+  {
+   "begin": "347.000", 
+   "children": [], 
+   "end": "353.480", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "In der letzten Legislaturperiode haben wir beispielsweise mit der Flexirente die richtigen Weichenstellungen vorgenommen."
+   ]
+  }, 
+  {
+   "begin": "353.480", 
+   "children": [], 
+   "end": "355.080", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Es ist wichtig, "
+   ]
+  }, 
+  {
+   "begin": "355.080", 
+   "children": [], 
+   "end": "357.480", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "gleichzeitig den Haushalt weiter zu konsolidieren. "
+   ]
+  }, 
+  {
+   "begin": "357.480", 
+   "children": [], 
+   "end": "360.560", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden im n\u00e4chsten Jahr wahrscheinlich die Maastricht-Grenze erreichen: "
+   ]
+  }, 
+  {
+   "begin": "360.560", 
+   "children": [], 
+   "end": "369.840", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Die Staatsverschuldung wird auf unter 60\u00a0Prozent des BIP sinken."
+   ]
+  }, 
+  {
+   "begin": "369.840", 
+   "children": [], 
+   "end": "372.760", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Das hat auch mit niedrigen Zinsen zu tun. "
+   ]
+  }, 
+  {
+   "begin": "372.760", 
+   "children": [], 
+   "end": "374.000", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Das hat aber auch damit zu tun, "
+   ]
+  }, 
+  {
+   "begin": "374.000", 
+   "children": [], 
+   "end": "375.720", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "dass wir Schulden zur\u00fcckzahlen. "
+   ]
+  }, 
+  {
+   "begin": "375.720", 
+   "children": [], 
+   "end": "377.400", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Ihr habt das nicht zustande gebracht, "
+   ]
+  }, 
+  {
+   "begin": "377.400", 
+   "children": [], 
+   "end": "380.040", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "als ihr Regierungsverantwortung hattet."
+   ]
+  }, 
+  {
+   "begin": "380.040", 
+   "children": [], 
+   "end": "381.400", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Wir zahlen Schulden zur\u00fcck. "
+   ]
+  }, 
+  {
+   "begin": "381.400", 
+   "children": [], 
+   "end": "385.320", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Erstmals l\u00e4uft die Schuldenuhr r\u00fcckw\u00e4rts. "
+   ]
+  }, 
+  {
+   "begin": "385.320", 
+   "children": [], 
+   "end": "388.200", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden diesen Weg konsequent weitergehen, "
+   ]
+  }, 
+  {
+   "begin": "388.200", 
+   "children": [], 
+   "end": "391.400", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "weil er uns Spielr\u00e4ume f\u00fcr die Zukunft er\u00f6ffnet."
+   ]
+  }, 
+  {
+   "begin": "391.400", 
+   "children": [], 
+   "end": "394.480", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen in der Tat auch die Infrastruktur weiter ausbauen. "
+   ]
+  }, 
+  {
+   "begin": "394.480", 
+   "children": [], 
+   "end": "398.960", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen schnellere Planungsprozesse im Verkehrsbereich, "
+   ]
+  }, 
+  {
+   "begin": "398.960", 
+   "children": [], 
+   "end": "400.480", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "aber auch im Wohnungsbaubereich. "
+   ]
+  }, 
+  {
+   "begin": "400.480", 
+   "children": [], 
+   "end": "404.120", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Planungsprozesse beschleunigen. "
+   ]
+  }, 
+  {
+   "begin": "404.120", 
+   "children": [], 
+   "end": "405.920", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag werden wir\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "405.920", 
+   "children": [], 
+   "end": "406.040", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "hoffentlich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "406.040", 
+   "children": [], 
+   "end": "408.120", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "auch hierzu entsprechende Aussagen machen."
+   ]
+  }, 
+  {
+   "begin": "408.120", 
+   "children": [], 
+   "end": "411.840", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Gigabit-Gesellschaft entwickeln, "
+   ]
+  }, 
+  {
+   "begin": "411.840", 
+   "children": [], 
+   "end": "416.120", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur indem wir den Ausbau des Breitbandnetzes forcieren, "
+   ]
+  }, 
+  {
+   "begin": "416.120", 
+   "children": [], 
+   "end": "424.320", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch indem wir beispielsweise bei der n\u00e4chsten Ausschreibung zum Funknetz vorhandene L\u00fccken schlie\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "424.320", 
+   "children": [], 
+   "end": "426.600", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen weiter auf Forschung und Entwicklung setzen. "
+   ]
+  }, 
+  {
+   "begin": "426.600", 
+   "children": [], 
+   "end": "429.480", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Wir geben derzeit knapp 3\u00a0Prozent des Bruttoinlandsprodukts f\u00fcr Forschung und Entwicklung aus. "
+   ]
+  }, 
+  {
+   "begin": "429.480", 
+   "children": [], 
+   "end": "430.640", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Damit stehen wir in Europa sehr gut da. "
+   ]
+  }, 
+  {
+   "begin": "430.640", 
+   "children": [], 
+   "end": "432.200", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "Wir belegen einen Spitzenplatz in Europa; "
+   ]
+  }, 
+  {
+   "begin": "432.200", 
+   "children": [], 
+   "end": "434.040", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "in der Welt gibt es aber L\u00e4nder, "
+   ]
+  }, 
+  {
+   "begin": "434.040", 
+   "children": [], 
+   "end": "434.560", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "die noch besser sind, "
+   ]
+  }, 
+  {
+   "begin": "434.560", 
+   "children": [], 
+   "end": "436.280", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel S\u00fcdkorea und Japan. "
+   ]
+  }, 
+  {
+   "begin": "436.280", 
+   "children": [], 
+   "end": "439.880", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb wollen wir den Bereich \u201eForschung und Entwicklung\u201c weiter ausbauen. "
+   ]
+  }, 
+  {
+   "begin": "439.880", 
+   "children": [], 
+   "end": "442.480", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "Neben der bew\u00e4hrten Projektf\u00f6rderung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "442.480", 
+   "children": [], 
+   "end": "444.920", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "die Frau Ministerin hat es angesprochen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "444.920", 
+   "children": [], 
+   "end": "449.160", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir endlich auch die steuerliche Forschungsf\u00f6rderung einf\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "449.160", 
+   "children": [], 
+   "end": "452.840", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "In vielen Wahlprogrammen stand sie ja bereits drin."
+   ]
+  }, 
+  {
+   "begin": "452.840", 
+   "children": [], 
+   "end": "454.880", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen Entlastungen vornehmen, "
+   ]
+  }, 
+  {
+   "begin": "454.880", 
+   "children": [], 
+   "end": "456.800", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "wom\u00f6glich auch beim Solidarit\u00e4tszuschlag. "
+   ]
+  }, 
+  {
+   "begin": "456.800", 
+   "children": [], 
+   "end": "458.880", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen aber ganz genau beobachten, "
+   ]
+  }, 
+  {
+   "begin": "458.880", 
+   "children": [], 
+   "end": "460.880", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "was der Rest der Welt macht. "
+   ]
+  }, 
+  {
+   "begin": "460.880", 
+   "children": [], 
+   "end": "466.800", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "Die aktuelle Steuerreform in den USA beeinflusst nat\u00fcrlich den weltweiten Wettbewerb. "
+   ]
+  }, 
+  {
+   "begin": "466.800", 
+   "children": [], 
+   "end": "473.240", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "Da k\u00f6nnen und wollen wir in Deutschland und Europa steuerpolitisch nicht unt\u00e4tig sein."
+   ]
+  }, 
+  {
+   "begin": "473.240", 
+   "children": [], 
+   "end": "478.440", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "Insofern bleiben in dieser Zeit des Aufschwungs noch genug Aufgaben \u00fcbrig, "
+   ]
+  }, 
+  {
+   "begin": "478.440", 
+   "children": [], 
+   "end": "479.920", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "die wir bew\u00e4ltigen wollen, "
+   ]
+  }, 
+  {
+   "begin": "479.920", 
+   "children": [], 
+   "end": "483.120", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "damit der Aufschwung auch in ein zehntes, "
+   ]
+  }, 
+  {
+   "begin": "483.120", 
+   "children": [], 
+   "end": "485.760", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "elftes und zw\u00f6lftes Jahr gehen kann. "
+   ]
+  }, 
+  {
+   "begin": "485.760", 
+   "children": [], 
+   "end": "487.760", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr setzen wir uns ein. "
+   ]
+  }, 
+  {
+   "begin": "487.760", 
+   "children": [], 
+   "end": "490.000", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie es uns anpacken."
+   ]
+  }, 
+  {
+   "begin": "490.000", 
+   "children": [], 
+   "end": "493.920", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "493.920", 
+   "children": [], 
+   "end": "494.400", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "494.400", 
+   "children": [], 
+   "end": "496.600", 
+   "id": "s000163", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt erteile ich dem Kollegen Leif-Erik Holm, "
+   ]
+  }, 
+  {
+   "begin": "496.600", 
+   "children": [], 
+   "end": "497.280", 
+   "id": "s000164", 
+   "language": "deu", 
+   "lines": [
+    "AfD, "
+   ]
+  }, 
+  {
+   "begin": "497.280", 
+   "children": [], 
+   "end": "499.960", 
+   "id": "s000165", 
+   "language": "deu", 
+   "lines": [
+    "das Wort."
+   ]
+  }
+ ]
+}

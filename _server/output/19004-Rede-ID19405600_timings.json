@@ -1,0 +1,684 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "children": [], 
+   "end": "4.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "children": [], 
+   "end": "22.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Nach den doch mehrheitlich konstruktiven Reden meiner Vorredner wird es Sie nicht \u00fcberraschen, "
+   ]
+  }, 
+  {
+   "begin": "22.680", 
+   "children": [], 
+   "end": "26.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass auch ich hier einen eher positiven Ton anschlagen werde."
+   ]
+  }, 
+  {
+   "begin": "26.760", 
+   "children": [], 
+   "end": "34.200", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die Mittel aus dem ERP-Sonderverm\u00f6gen sind Grundlage der Mittelstandsf\u00f6rderung durch die KfW. "
+   ]
+  }, 
+  {
+   "begin": "34.200", 
+   "children": [], 
+   "end": "38.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Der vorliegende Wirtschaftsplan ist eine Fortschreibung dieser Arbeit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "38.480", 
+   "children": [], 
+   "end": "40.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "mit einer gro\u00dfen Neuerung: "
+   ]
+  }, 
+  {
+   "begin": "40.360", 
+   "children": [], 
+   "end": "45.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "der Gr\u00fcndung einer eigenen Beteiligungsgesellschaft der KfW."
+   ]
+  }, 
+  {
+   "begin": "45.240", 
+   "children": [], 
+   "end": "52.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Nicht nur in der Gr\u00fcndungsphase stehen Unternehmerinnen und Unternehmer regelm\u00e4\u00dfig vor besonderen Investitionsbedarfen: "
+   ]
+  }, 
+  {
+   "begin": "52.120", 
+   "children": [], 
+   "end": "52.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "sei es, "
+   ]
+  }, 
+  {
+   "begin": "52.680", 
+   "children": [], 
+   "end": "57.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "um innovative Produkte und Dienstleistungen zu entwickeln und zur Marktreife zu bringen, "
+   ]
+  }, 
+  {
+   "begin": "57.720", 
+   "children": [], 
+   "end": "58.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "sei es, "
+   ]
+  }, 
+  {
+   "begin": "58.120", 
+   "children": [], 
+   "end": "63.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "um ressourcenschonende Produktionsmittel anzuschaffen oder um die Unternehmensnachfolge zu regeln oder, "
+   ]
+  }, 
+  {
+   "begin": "63.320", 
+   "children": [], 
+   "end": "64.160", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "oder, "
+   ]
+  }, 
+  {
+   "begin": "64.160", 
+   "children": [], 
+   "end": "65.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "oder. "
+   ]
+  }, 
+  {
+   "begin": "65.200", 
+   "children": [], 
+   "end": "70.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dabei haben sie im internationalen Wettbewerb um Finanzmittel einen gro\u00dfen Nachteil: "
+   ]
+  }, 
+  {
+   "begin": "70.680", 
+   "children": [], 
+   "end": "73.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die geringe Eigenkapitalquote. "
+   ]
+  }, 
+  {
+   "begin": "73.720", 
+   "children": [], 
+   "end": "80.480", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Nicht erst seit Basel\u00a0II und Basel\u00a0III werden regelm\u00e4\u00dfig die fehlenden Eigenkapital- "
+   ]
+  }, 
+  {
+   "begin": "80.480", 
+   "children": [], 
+   "end": "83.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "und Mezzanine-Finanzierungsm\u00f6glichkeiten f\u00fcr Klein- "
+   ]
+  }, 
+  {
+   "begin": "83.400", 
+   "children": [], 
+   "end": "85.880", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und Kleinstunternehmen bem\u00e4ngelt. "
+   ]
+  }, 
+  {
+   "begin": "85.880", 
+   "children": [], 
+   "end": "91.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Bei uns werden risikobehaftete Vorhaben weiterhin sehr konservativ bewertet. "
+   ]
+  }, 
+  {
+   "begin": "91.880", 
+   "children": [], 
+   "end": "101.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Risiko wird gerne mit mangelnder Seriosit\u00e4t verwechselt und daher mit entsprechend hohen Zinsen belastet, "
+   ]
+  }, 
+  {
+   "begin": "101.640", 
+   "children": [], 
+   "end": "105.280", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "oder der Zugang zur Kreditfinanzierung wird komplett verweigert. "
+   ]
+  }, 
+  {
+   "begin": "105.280", 
+   "children": [], 
+   "end": "106.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Vor allem Klein- "
+   ]
+  }, 
+  {
+   "begin": "106.720", 
+   "children": [], 
+   "end": "109.560", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und Kleinst\u00adunternehmen, "
+   ]
+  }, 
+  {
+   "begin": "109.560", 
+   "children": [], 
+   "end": "112.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die ihre innovativen Ideen vorantreiben wollen, "
+   ]
+  }, 
+  {
+   "begin": "112.720", 
+   "children": [], 
+   "end": "116.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "werden so Steine in den Weg gelegt. "
+   ]
+  }, 
+  {
+   "begin": "116.760", 
+   "children": [], 
+   "end": "120.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Den Wettbewerb mit den gro\u00dfen Unternehmen verlieren sie\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "120.720", 
+   "children": [], 
+   "end": "124.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland damit deren Kreativit\u00e4t und im schlimmsten Fall Arbeitspl\u00e4tze."
+   ]
+  }, 
+  {
+   "begin": "124.280", 
+   "children": [], 
+   "end": "124.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Der Beschluss, "
+   ]
+  }, 
+  {
+   "begin": "124.680", 
+   "children": [], 
+   "end": "130.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "eine eigene Tochtergesellschaft der KfW zu gr\u00fcnden, "
+   ]
+  }, 
+  {
+   "begin": "130.160", 
+   "children": [], 
+   "end": "131.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "ist ein wichtiger Schritt, "
+   ]
+  }, 
+  {
+   "begin": "131.520", 
+   "children": [], 
+   "end": "133.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "wenn er auch etwas sp\u00e4t erfolgt. "
+   ]
+  }, 
+  {
+   "begin": "133.920", 
+   "children": [], 
+   "end": "135.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Aber er wird jetzt unternommen, "
+   ]
+  }, 
+  {
+   "begin": "135.240", 
+   "children": [], 
+   "end": "136.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und das ist richtig so."
+   ]
+  }, 
+  {
+   "begin": "136.120", 
+   "children": [], 
+   "end": "141.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir d\u00fcrfen uns allerdings nichts vormachen. "
+   ]
+  }, 
+  {
+   "begin": "141.200", 
+   "children": [], 
+   "end": "146.080", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Der Erfolg dieser Ma\u00dfnahmen wird nicht \u00fcber Nacht kommen, "
+   ]
+  }, 
+  {
+   "begin": "146.080", 
+   "children": [], 
+   "end": "147.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "sondern Zeit brauchen, "
+   ]
+  }, 
+  {
+   "begin": "147.440", 
+   "children": [], 
+   "end": "149.080", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Zeit, "
+   ]
+  }, 
+  {
+   "begin": "149.080", 
+   "children": [], 
+   "end": "151.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die wir uns in den Beratungen jetzt nicht mehr lassen sollten. "
+   ]
+  }, 
+  {
+   "begin": "151.880", 
+   "children": [], 
+   "end": "156.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Zum 1.\u00a0Januar 2018 startet die Gesellschaft formal. "
+   ]
+  }, 
+  {
+   "begin": "156.320", 
+   "children": [], 
+   "end": "160.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das operative Gesch\u00e4ft muss schnellstm\u00f6glich folgen."
+   ]
+  }, 
+  {
+   "begin": "160.440", 
+   "children": [], 
+   "end": "164.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Ich will schon jetzt einen Gedanken in die Beratungen im Ausschuss einbringen: "
+   ]
+  }, 
+  {
+   "begin": "164.960", 
+   "children": [], 
+   "end": "170.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Venture-Capital-Investments und Mezzanine-Finanzierungsformen sind immer zeitlich limitiert. "
+   ]
+  }, 
+  {
+   "begin": "170.960", 
+   "children": [], 
+   "end": "172.200", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das stellt insbesondere Klein- "
+   ]
+  }, 
+  {
+   "begin": "172.200", 
+   "children": [], 
+   "end": "174.400", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "und Kleinst\u00adunternehmen vor die Herausforderung, "
+   ]
+  }, 
+  {
+   "begin": "174.400", 
+   "children": [], 
+   "end": "176.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "eine sichere Anschlussfinanzierung zu finden, "
+   ]
+  }, 
+  {
+   "begin": "176.760", 
+   "children": [], 
+   "end": "179.240", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "f\u00e4llt sie doch h\u00e4ufig in eine Wachstumsphase, "
+   ]
+  }, 
+  {
+   "begin": "179.240", 
+   "children": [], 
+   "end": "181.200", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "in der sich Fragen nach Produktionserweiterung, "
+   ]
+  }, 
+  {
+   "begin": "181.200", 
+   "children": [], 
+   "end": "185.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Verbreiterung der Produktpalette oder neue Forschungsanstrengungen stellen. "
+   ]
+  }, 
+  {
+   "begin": "185.920", 
+   "children": [], 
+   "end": "188.600", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "In der Vergangenheit hat dies regelm\u00e4\u00dfig dazu gef\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "188.600", 
+   "children": [], 
+   "end": "190.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass Unternehmen gescheitert sind. "
+   ]
+  }, 
+  {
+   "begin": "190.960", 
+   "children": [], 
+   "end": "196.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber diese und andere Fragen m\u00f6chte ich mich gerne mit Ihnen in den kommenden Beratungen austauschen."
+   ]
+  }, 
+  {
+   "begin": "196.640", 
+   "children": [], 
+   "end": "197.680", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin \u00fcberzeugt, "
+   ]
+  }, 
+  {
+   "begin": "197.680", 
+   "children": [], 
+   "end": "202.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass die neue Gesellschaft eine wichtige Erg\u00e4nzung zum bestehenden KfW-Angebot ist. "
+   ]
+  }, 
+  {
+   "begin": "202.560", 
+   "children": [], 
+   "end": "203.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Schnelle Erfolge werden wir aber, "
+   ]
+  }, 
+  {
+   "begin": "203.680", 
+   "children": [], 
+   "end": "204.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "wie gesagt, "
+   ]
+  }, 
+  {
+   "begin": "204.360", 
+   "children": [], 
+   "end": "205.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "nicht sehen. "
+   ]
+  }, 
+  {
+   "begin": "205.120", 
+   "children": [], 
+   "end": "205.920", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Geben wir dieser Gesellschaft die n\u00f6tige Zeit und unser Vertrauen. "
+   ]
+  }, 
+  {
+   "begin": "205.920", 
+   "children": [], 
+   "end": "207.520", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wir hingegen sollten uns keine Zeit mehr lassen. "
+   ]
+  }, 
+  {
+   "begin": "207.520", 
+   "children": [], 
+   "end": "207.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir sollten alles Notwendige auf den Weg bringen. "
+   ]
+  }, 
+  {
+   "begin": "207.960", 
+   "children": [], 
+   "end": "211.000", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich auf die Beratungen dazu und auf die Zusammenarbeit hier im Haus."
+   ]
+  }, 
+  {
+   "begin": "211.000", 
+   "children": [], 
+   "end": "211.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "211.240", 
+   "children": [], 
+   "end": "211.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe die Aussprache."
+   ]
+  }, 
+  {
+   "begin": "211.960", 
+   "children": [], 
+   "end": "217.720", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Interfraktionell wird \u00dcberweisung der Vorlagen auf den Drucksachen\u00a019/164 und 19/196 an den Hauptausschuss vorgeschlagen. "
+   ]
+  }, 
+  {
+   "begin": "217.720", 
+   "children": [], 
+   "end": "219.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Sind Sie damit einverstanden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "219.600", 
+   "children": [], 
+   "end": "221.960", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Ich h\u00f6re keinen Widerspruch. "
+   ]
+  }, 
+  {
+   "begin": "221.960", 
+   "children": [], 
+   "end": "226.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist die \u00dcberweisung so beschlossen."
+   ]
+  }
+ ]
+}

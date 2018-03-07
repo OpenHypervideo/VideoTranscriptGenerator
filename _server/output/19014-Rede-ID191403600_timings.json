@@ -1,0 +1,744 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "children": [], 
+   "end": "6.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "children": [], 
+   "end": "14.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir kommen jetzt in der Tat zum eher n\u00fcchternen Teil des sp\u00e4ten Mittags, "
+   ]
+  }, 
+  {
+   "begin": "14.360", 
+   "children": [], 
+   "end": "19.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "deswegen aber nicht zu einem weniger wichtigen."
+   ]
+  }, 
+  {
+   "begin": "19.200", 
+   "children": [], 
+   "end": "21.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Leistungsverm\u00f6gen, "
+   ]
+  }, 
+  {
+   "begin": "21.880", 
+   "children": [], 
+   "end": "22.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Qualit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "22.960", 
+   "children": [], 
+   "end": "24.920", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wettbewerb, "
+   ]
+  }, 
+  {
+   "begin": "24.920", 
+   "children": [], 
+   "end": "35.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "St\u00e4rke und Innovationen sind Erfolgsfaktoren f\u00fcr die deutsche Wirtschaft und nat\u00fcrlich auch f\u00fcr den Mittelstand und f\u00fcr Existenzgr\u00fcnder."
+   ]
+  }, 
+  {
+   "begin": "35.440", 
+   "children": [], 
+   "end": "44.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "In 2017 sind in dem Bereich Venture-Capital Investitionen in H\u00f6he von 4,3\u00a0Milliarden Euro get\u00e4tigt worden. "
+   ]
+  }, 
+  {
+   "begin": "44.360", 
+   "children": [], 
+   "end": "45.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber kann man sich freuen. "
+   ]
+  }, 
+  {
+   "begin": "45.120", 
+   "children": [], 
+   "end": "47.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine Verdoppelung gegen\u00fcber 2016. "
+   ]
+  }, 
+  {
+   "begin": "47.160", 
+   "children": [], 
+   "end": "49.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen aber eben auch zur Kenntnis nehmen, "
+   ]
+  }, 
+  {
+   "begin": "49.320", 
+   "children": [], 
+   "end": "54.000", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass mehr als die H\u00e4lfte dieser Investitionen aus dem Ausland get\u00e4tigt wurde. "
+   ]
+  }, 
+  {
+   "begin": "54.000", 
+   "children": [], 
+   "end": "56.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Im Vergleich zum gr\u00f6\u00dften Markt in diesem Bereich, "
+   ]
+  }, 
+  {
+   "begin": "56.240", 
+   "children": [], 
+   "end": "56.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "den USA, "
+   ]
+  }, 
+  {
+   "begin": "56.960", 
+   "children": [], 
+   "end": "61.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "haben wir eine Finanzierungsl\u00fccke von 60\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "61.600", 
+   "children": [], 
+   "end": "62.920", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Es ist allen v\u00f6llig klar, "
+   ]
+  }, 
+  {
+   "begin": "62.920", 
+   "children": [], 
+   "end": "67.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass wir diese L\u00fccke nat\u00fcrlich nicht durch staatliche F\u00f6rderprogramme schlie\u00dfen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "67.840", 
+   "children": [], 
+   "end": "70.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "sondern dass es darum gehen muss, "
+   ]
+  }, 
+  {
+   "begin": "70.480", 
+   "children": [], 
+   "end": "74.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "das Kapital der Industrie und des Mittelstandes zu heben."
+   ]
+  }, 
+  {
+   "begin": "74.000", 
+   "children": [], 
+   "end": "75.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Das ERP-Sonderverm\u00f6gen, "
+   ]
+  }, 
+  {
+   "begin": "75.480", 
+   "children": [], 
+   "end": "79.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "das Sonderverm\u00f6gen aus dem European Recovery Program, "
+   ]
+  }, 
+  {
+   "begin": "79.800", 
+   "children": [], 
+   "end": "84.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dessen Wirtschaftsplangesetz f\u00fcr 2018 wir heute beraten, "
+   ]
+  }, 
+  {
+   "begin": "84.520", 
+   "children": [], 
+   "end": "86.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "tut genau das: "
+   ]
+  }, 
+  {
+   "begin": "86.160", 
+   "children": [], 
+   "end": "100.520", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Es f\u00f6rdert Unternehmen in dem volkswirtschaftlich wichtigen und bedeutsamen Bereich der Gr\u00fcndungen und der Innovationen und ist somit ein wichtiges Element f\u00fcr die Schaffung und den Erhalt von Arbeitspl\u00e4tzen und unserer internationalen Wettbewerbsf\u00e4higkeit."
+   ]
+  }, 
+  {
+   "begin": "100.520", 
+   "children": [], 
+   "end": "109.320", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Im Wirtschaftsplan\u00a02018 sind 790\u00a0Millionen Euro daf\u00fcr vorgesehen. "
+   ]
+  }, 
+  {
+   "begin": "109.320", 
+   "children": [], 
+   "end": "112.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Damit erhalten insbesondere mittelst\u00e4ndische Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "112.040", 
+   "children": [], 
+   "end": "123.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Existenzgr\u00fcnder und freie Berufe eine zinsg\u00fcnstige Finanzierung \u00fcber die KfW in einem Volumen von ungef\u00e4hr 6,8\u00a0Milliarden Euro."
+   ]
+  }, 
+  {
+   "begin": "123.760", 
+   "children": [], 
+   "end": "125.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Neu ist in diesem Jahr, "
+   ]
+  }, 
+  {
+   "begin": "125.480", 
+   "children": [], 
+   "end": "131.440", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass eine KfW-Tochtergesellschaft mit dem besonderen Ziel gegr\u00fcndet werden soll, "
+   ]
+  }, 
+  {
+   "begin": "131.440", 
+   "children": [], 
+   "end": "135.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Venture-Capital und Venture-Debts zur Verf\u00fcgung zu stellen, "
+   ]
+  }, 
+  {
+   "begin": "135.160", 
+   "children": [], 
+   "end": "139.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "um mit dieser direkten Kapitalbeteiligung Existenzgr\u00fcndern zu helfen."
+   ]
+  }, 
+  {
+   "begin": "139.280", 
+   "children": [], 
+   "end": "142.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Es geht hier also um die Finanzierung von Gr\u00fcndungs- "
+   ]
+  }, 
+  {
+   "begin": "142.720", 
+   "children": [], 
+   "end": "146.320", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "und Wachstumsphasen dieser jungen Unternehmen. "
+   ]
+  }, 
+  {
+   "begin": "146.320", 
+   "children": [], 
+   "end": "148.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Mit den 120\u00a0Millionen Euro, "
+   ]
+  }, 
+  {
+   "begin": "148.600", 
+   "children": [], 
+   "end": "151.480", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "die wir in 2018 daf\u00fcr zur Verf\u00fcgung stellen, "
+   ]
+  }, 
+  {
+   "begin": "151.480", 
+   "children": [], 
+   "end": "157.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "erwarten wir dank eines Hebels von f\u00fcnf ungef\u00e4hr 600\u00a0Millionen Euro f\u00fcr den Venture-Capital-Markt. "
+   ]
+  }, 
+  {
+   "begin": "157.840", 
+   "children": [], 
+   "end": "161.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Von der Zeitplanung her sehen wir vor, "
+   ]
+  }, 
+  {
+   "begin": "161.280", 
+   "children": [], 
+   "end": "166.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass dieses Tochterunternehmen der KfW im ersten Quartal gegr\u00fcndet wird und dann im dritten Quartal, "
+   ]
+  }, 
+  {
+   "begin": "166.600", 
+   "children": [], 
+   "end": "169.920", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "weil es leider noch den einen oder anderen Abstimmungsbedarf, "
+   ]
+  }, 
+  {
+   "begin": "169.920", 
+   "children": [], 
+   "end": "172.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "auch mit der Europ\u00e4ischen Union, "
+   ]
+  }, 
+  {
+   "begin": "172.400", 
+   "children": [], 
+   "end": "172.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "gibt, "
+   ]
+  }, 
+  {
+   "begin": "172.960", 
+   "children": [], 
+   "end": "176.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "seine Gesch\u00e4ftst\u00e4tigkeit aufnimmt."
+   ]
+  }, 
+  {
+   "begin": "176.000", 
+   "children": [], 
+   "end": "179.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Bei all dem Positiven muss uns aber auch klar sein, "
+   ]
+  }, 
+  {
+   "begin": "179.120", 
+   "children": [], 
+   "end": "182.760", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass wir allein dadurch die Finanzierungsl\u00fccke nicht schlie\u00dfen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "182.760", 
+   "children": [], 
+   "end": "183.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "sondern weiterdenken m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "183.680", 
+   "children": [], 
+   "end": "187.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "In Deutschland und in Europa ist es Kapitalsammelstellen, "
+   ]
+  }, 
+  {
+   "begin": "187.880", 
+   "children": [], 
+   "end": "191.320", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Versicherungen oder Pensionsfonds untersagt, "
+   ]
+  }, 
+  {
+   "begin": "191.320", 
+   "children": [], 
+   "end": "195.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "im Bereich des Wagniskapitals zu investieren. "
+   ]
+  }, 
+  {
+   "begin": "195.040", 
+   "children": [], 
+   "end": "196.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen jetzt nat\u00fcrlich anfangen, "
+   ]
+  }, 
+  {
+   "begin": "196.200", 
+   "children": [], 
+   "end": "199.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "den europ\u00e4ischen Rechtsrahmen daf\u00fcr zu ver\u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "199.240", 
+   "children": [], 
+   "end": "202.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Das dauert aber sehr lange und ist nat\u00fcrlich politisch sehr schwierig. "
+   ]
+  }, 
+  {
+   "begin": "202.920", 
+   "children": [], 
+   "end": "208.000", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen haben wir in unserem Koalitionsvertrag einen anderen Weg vorgesehen, "
+   ]
+  }, 
+  {
+   "begin": "208.000", 
+   "children": [], 
+   "end": "210.200", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "und zwar mit einem Dachfonds, "
+   ]
+  }, 
+  {
+   "begin": "210.200", 
+   "children": [], 
+   "end": "210.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "der die Gewinne, "
+   ]
+  }, 
+  {
+   "begin": "210.800", 
+   "children": [], 
+   "end": "211.920", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "aber auch die Verluste an dieser Stelle kappt, "
+   ]
+  }, 
+  {
+   "begin": "211.920", 
+   "children": [], 
+   "end": "215.640", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "um es so auch Versicherungen und Pensionsfonds zu erm\u00f6glichen, "
+   ]
+  }, 
+  {
+   "begin": "215.640", 
+   "children": [], 
+   "end": "218.280", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "in diesen Digitalfonds zu investieren. "
+   ]
+  }, 
+  {
+   "begin": "218.280", 
+   "children": [], 
+   "end": "221.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir einmal zu unserem n\u00f6rdlichen Nachbarn D\u00e4nemark schauen, "
+   ]
+  }, 
+  {
+   "begin": "221.520", 
+   "children": [], 
+   "end": "222.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dann sehen wir, "
+   ]
+  }, 
+  {
+   "begin": "222.400", 
+   "children": [], 
+   "end": "227.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass sich das \u00d6kosystem der Start-ups dort massiv verbessert hat."
+   ]
+  }, 
+  {
+   "begin": "227.040", 
+   "children": [], 
+   "end": "227.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "227.840", 
+   "children": [], 
+   "end": "229.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "festzuhalten ist also, "
+   ]
+  }, 
+  {
+   "begin": "229.520", 
+   "children": [], 
+   "end": "232.640", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in Deutschland mehr tun k\u00f6nnen und m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "232.640", 
+   "children": [], 
+   "end": "238.840", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "um vielversprechenden Gr\u00fcndern und jungen Unternehmen im Wachstum finanziellen Spielraum zu erm\u00f6glichen; "
+   ]
+  }, 
+  {
+   "begin": "238.840", 
+   "children": [], 
+   "end": "245.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "denn so sichern wir unsere Wirtschaftskraft und unsere Arbeitspl\u00e4tze in der globalen Welt und erwirtschaften wir das Geld, "
+   ]
+  }, 
+  {
+   "begin": "245.240", 
+   "children": [], 
+   "end": "247.840", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "das wir f\u00fcr unseren Sozialstaat ben\u00f6tigen. "
+   ]
+  }, 
+  {
+   "begin": "247.840", 
+   "children": [], 
+   "end": "249.680", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Es ist der Mittelstand von morgen, "
+   ]
+  }, 
+  {
+   "begin": "249.680", 
+   "children": [], 
+   "end": "251.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "den es hier zu f\u00f6rdern gilt."
+   ]
+  }, 
+  {
+   "begin": "251.560", 
+   "children": [], 
+   "end": "252.360", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "252.360", 
+   "children": [], 
+   "end": "256.600", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "256.600", 
+   "children": [], 
+   "end": "258.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Mohrs.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "258.800", 
+   "children": [], 
+   "end": "260.880", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin in der Debatte: "
+   ]
+  }, 
+  {
+   "begin": "260.880", 
+   "children": [], 
+   "end": "263.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Astrid Grotel\u00fcschen f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

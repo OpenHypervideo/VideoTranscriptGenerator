@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.560", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "children": [], 
+   "end": "10.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "children": [], 
+   "end": "13.280", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wer neu mit einer Aufgabe betraut ist, "
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "children": [], 
+   "end": "16.040", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "versucht zun\u00e4chst eines, "
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "children": [], 
+   "end": "21.600", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich seiner neuen Rolle gerecht zu werden und das Offensichtliche zu tun."
+   ]
+  }, 
+  {
+   "begin": "21.600", 
+   "children": [], 
+   "end": "28.360", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Nun schaue ich als neue Abgeordnete der Gr\u00fcnen in das Sondierungspapier von Union und SPD, "
+   ]
+  }, 
+  {
+   "begin": "28.360", 
+   "children": [], 
+   "end": "29.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und ich sehe dort, "
+   ]
+  }, 
+  {
+   "begin": "29.320", 
+   "children": [], 
+   "end": "34.960", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Sondierer achselzuckend vom eigenen Klimaziel\u00a02020 verabschieden. "
+   ]
+  }, 
+  {
+   "begin": "34.960", 
+   "children": [], 
+   "end": "37.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Und was bieten sie stattdessen? "
+   ]
+  }, 
+  {
+   "begin": "37.520", 
+   "children": [], 
+   "end": "38.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "SPD und Union wollen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "38.880", 
+   "children": [], 
+   "end": "40.400", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wortw\u00f6rtlich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "40.400", 
+   "children": [], 
+   "end": "44.040", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Handlungsl\u00fccken schlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "44.040", 
+   "children": [], 
+   "end": "48.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine originelle Umschreibung f\u00fcr das eigene Scheitern als Regierung, "
+   ]
+  }, 
+  {
+   "begin": "48.520", 
+   "children": [], 
+   "end": "55.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr das Scheitern beim nationalen Klimaschutz."
+   ]
+  }, 
+  {
+   "begin": "55.920", 
+   "children": [], 
+   "end": "62.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00f6chten allen Ernstes diese entscheidende Zukunftsfrage in einen Arbeitskreis auslagern. "
+   ]
+  }, 
+  {
+   "begin": "62.080", 
+   "children": [], 
+   "end": "63.480", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme aus Bayern, "
+   ]
+  }, 
+  {
+   "begin": "63.480", 
+   "children": [], 
+   "end": "64.440", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "64.440", 
+   "children": [], 
+   "end": "65.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "genauer gesagt: "
+   ]
+  }, 
+  {
+   "begin": "65.360", 
+   "children": [], 
+   "end": "67.080", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "aus Franken. "
+   ]
+  }, 
+  {
+   "begin": "67.080", 
+   "children": [], 
+   "end": "68.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Als die CSU nicht mehr wusste, "
+   ]
+  }, 
+  {
+   "begin": "68.440", 
+   "children": [], 
+   "end": "71.240", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "was sie mit Horst Seehofer machen soll, "
+   ]
+  }, 
+  {
+   "begin": "71.240", 
+   "children": [], 
+   "end": "74.360", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "hat sie auch einen Arbeitskreis beauftragt. "
+   ]
+  }, 
+  {
+   "begin": "74.360", 
+   "children": [], 
+   "end": "75.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Heraus kam dabei: "
+   ]
+  }, 
+  {
+   "begin": "75.800", 
+   "children": [], 
+   "end": "77.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Markus S\u00f6der."
+   ]
+  }, 
+  {
+   "begin": "77.240", 
+   "children": [], 
+   "end": "80.480", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich mache mir Sorgen um das Klima."
+   ]
+  }, 
+  {
+   "begin": "80.480", 
+   "children": [], 
+   "end": "89.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Aber jetzt mal ganz im Ernst:"
+   ]
+  }, 
+  {
+   "begin": "89.000", 
+   "children": [], 
+   "end": "89.840", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem, "
+   ]
+  }, 
+  {
+   "begin": "89.840", 
+   "children": [], 
+   "end": "95.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "was Union und SPD in Sachen Klimaschutz bisher getan haben und noch tun wollen, "
+   ]
+  }, 
+  {
+   "begin": "95.920", 
+   "children": [], 
+   "end": "98.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "werden sie der Gr\u00f6\u00dfe der Aufgabe nicht gerecht; "
+   ]
+  }, 
+  {
+   "begin": "98.760", 
+   "children": [], 
+   "end": "102.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "denn sie ignorieren das Offensichtliche. "
+   ]
+  }, 
+  {
+   "begin": "102.120", 
+   "children": [], 
+   "end": "103.640", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Sie ignorieren die Realit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "103.640", 
+   "children": [], 
+   "end": "105.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das Klima wandelt sich, "
+   ]
+  }, 
+  {
+   "begin": "105.280", 
+   "children": [], 
+   "end": "108.960", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die Temperaturen steigen global und ebenso die Meeresspiegel. "
+   ]
+  }, 
+  {
+   "begin": "108.960", 
+   "children": [], 
+   "end": "111.440", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Sie ignorieren die Expertinnen und Experten, "
+   ]
+  }, 
+  {
+   "begin": "111.440", 
+   "children": [], 
+   "end": "113.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die auf den Faktor Zeit hinweisen. "
+   ]
+  }, 
+  {
+   "begin": "113.520", 
+   "children": [], 
+   "end": "116.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die n\u00e4chsten 20\u00a0Jahre werden entscheidend sein; "
+   ]
+  }, 
+  {
+   "begin": "116.800", 
+   "children": [], 
+   "end": "119.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "sonst sind Anpassungen kaum noch m\u00f6glich. "
+   ]
+  }, 
+  {
+   "begin": "119.520", 
+   "children": [], 
+   "end": "123.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "So sagen es die Forscher des Potsdam-Instituts f\u00fcr Klimafolgenforschung."
+   ]
+  }, 
+  {
+   "begin": "123.320", 
+   "children": [], 
+   "end": "127.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen es uns schlicht und einfach nicht leisten, "
+   ]
+  }, 
+  {
+   "begin": "127.400", 
+   "children": [], 
+   "end": "128.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "ein weiteres Jahr, "
+   ]
+  }, 
+  {
+   "begin": "128.360", 
+   "children": [], 
+   "end": "132.080", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "ja nicht einmal ein weiteres halbes Jahr zu verlieren. "
+   ]
+  }, 
+  {
+   "begin": "132.080", 
+   "children": [], 
+   "end": "133.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden jetzt vielleicht sagen: "
+   ]
+  }, 
+  {
+   "begin": "133.640", 
+   "children": [], 
+   "end": "135.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "1\u00a0Grad mehr oder weniger auf der Welt, "
+   ]
+  }, 
+  {
+   "begin": "135.880", 
+   "children": [], 
+   "end": "137.320", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "was macht das schon? "
+   ]
+  }, 
+  {
+   "begin": "137.320", 
+   "children": [], 
+   "end": "140.240", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Es geht jetzt um die Zukunft dieses Landes.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "140.240", 
+   "children": [], 
+   "end": "142.240", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es Ihnen darum geht, "
+   ]
+  }, 
+  {
+   "begin": "142.240", 
+   "children": [], 
+   "end": "143.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen Sie aufh\u00f6ren, "
+   ]
+  }, 
+  {
+   "begin": "143.520", 
+   "children": [], 
+   "end": "145.680", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "das Offensichtliche zu ignorieren; "
+   ]
+  }, 
+  {
+   "begin": "145.680", 
+   "children": [], 
+   "end": "149.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "denn der Klimawandel wird massive Auswirkungen auf Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "149.320", 
+   "children": [], 
+   "end": "151.760", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "auf das Leben der B\u00fcrgerinnen und B\u00fcrger haben. "
+   ]
+  }, 
+  {
+   "begin": "151.760", 
+   "children": [], 
+   "end": "155.440", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Auch heute haben wir wieder Unwetterereignisse."
+   ]
+  }, 
+  {
+   "begin": "155.440", 
+   "children": [], 
+   "end": "159.080", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Doch Sie ignorieren die Probleme nicht nur, "
+   ]
+  }, 
+  {
+   "begin": "159.080", 
+   "children": [], 
+   "end": "163.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Sie schaffen mit Ihrer Innovationsfeindlichkeit auch neue. "
+   ]
+  }, 
+  {
+   "begin": "163.360", 
+   "children": [], 
+   "end": "165.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Nehmen wir die Kohle: "
+   ]
+  }, 
+  {
+   "begin": "165.120", 
+   "children": [], 
+   "end": "168.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Sie hat als Energiefossil l\u00e4ngst ausgedient; "
+   ]
+  }, 
+  {
+   "begin": "168.560", 
+   "children": [], 
+   "end": "170.720", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "aber Ihnen ist sie heilig."
+   ]
+  }, 
+  {
+   "begin": "170.720", 
+   "children": [], 
+   "end": "176.480", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Sie opfern ihrem Abbau in Deutschland immer noch ganze Landschaften und D\u00f6rfer, "
+   ]
+  }, 
+  {
+   "begin": "176.480", 
+   "children": [], 
+   "end": "179.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "neuerdings auch Kirchen wie den Dom von Immerath."
+   ]
+  }, 
+  {
+   "begin": "179.080", 
+   "children": [], 
+   "end": "185.080", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Schauen Sie sich das Video vom Abriss an! "
+   ]
+  }, 
+  {
+   "begin": "185.080", 
+   "children": [], 
+   "end": "191.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Da werden Ihnen die traurigen Folgen Ihrer Politik vor Augen gef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "191.280", 
+   "children": [], 
+   "end": "192.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Das tun Sie, "
+   ]
+  }, 
+  {
+   "begin": "192.480", 
+   "children": [], 
+   "end": "196.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "anstatt die schmutzigsten Kohlekraftwerke endlich stillzulegen."
+   ]
+  }, 
+  {
+   "begin": "196.080", 
+   "children": [], 
+   "end": "202.760", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Sie als Regierung unterdr\u00fccken durch st\u00e4ndige Deckelungen systematisch das Wachstum der erneuerbaren Energien. "
+   ]
+  }, 
+  {
+   "begin": "202.760", 
+   "children": [], 
+   "end": "206.160", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Zehn Deckel haben Sie allein f\u00fcr die Windkraft erfunden. "
+   ]
+  }, 
+  {
+   "begin": "206.160", 
+   "children": [], 
+   "end": "211.640", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Damit gef\u00e4hrden Sie die Zukunft des Wirtschaftsstandorts Deutschland."
+   ]
+  }, 
+  {
+   "begin": "211.640", 
+   "children": [], 
+   "end": "212.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Was ist geboten, "
+   ]
+  }, 
+  {
+   "begin": "212.960", 
+   "children": [], 
+   "end": "216.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "wenn man die Augen nicht mehr vor der Realit\u00e4t verschlie\u00dfen will? "
+   ]
+  }, 
+  {
+   "begin": "216.760", 
+   "children": [], 
+   "end": "220.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Gestern haben wir in der Fragestunde von der Bundesregierung geh\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "220.840", 
+   "children": [], 
+   "end": "224.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass sie noch am Klimaziel\u00a02020 festhalten will. "
+   ]
+  }, 
+  {
+   "begin": "224.480", 
+   "children": [], 
+   "end": "226.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Das trifft sich gut; "
+   ]
+  }, 
+  {
+   "begin": "226.440", 
+   "children": [], 
+   "end": "229.120", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "denn wir Gr\u00fcne legen heute einen Antrag dazu vor. "
+   ]
+  }, 
+  {
+   "begin": "229.120", 
+   "children": [], 
+   "end": "230.880", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Damit haben Sie die Chance, "
+   ]
+  }, 
+  {
+   "begin": "230.880", 
+   "children": [], 
+   "end": "237.920", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "sich zu ebendiesem Klimaziel\u00a02020 zu bekennen und die deutsche Glaubw\u00fcrdigkeit beim Klimaschutz zur\u00fcckzugewinnen."
+   ]
+  }, 
+  {
+   "begin": "237.920", 
+   "children": [], 
+   "end": "238.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Frau Badum, "
+   ]
+  }, 
+  {
+   "begin": "238.600", 
+   "children": [], 
+   "end": "240.480", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "gestatten Sie eine Zwischenfrage?"
+   ]
+  }, 
+  {
+   "begin": "240.480", 
+   "children": [], 
+   "end": "241.160", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Nein.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "241.160", 
+   "children": [], 
+   "end": "243.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen sich erstens endlich an die Kohle herantrauen. "
+   ]
+  }, 
+  {
+   "begin": "243.760", 
+   "children": [], 
+   "end": "247.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Schalten Sie noch vor 2020 die schmutzigsten Kohlekraftwerke ab!"
+   ]
+  }, 
+  {
+   "begin": "247.960", 
+   "children": [], 
+   "end": "262.560", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen zweitens endlich an die Baustellen Energieeffizienz und Energieeinsparung und den hohen Energieverbrauch in der W\u00e4rmeerzeugung ran. "
+   ]
+  }, 
+  {
+   "begin": "262.560", 
+   "children": [], 
+   "end": "263.080", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Und: "
+   ]
+  }, 
+  {
+   "begin": "263.080", 
+   "children": [], 
+   "end": "268.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Ziehen Sie drittens endlich die Notbremse bei Ihrer verkorksten EEG-Novelle. "
+   ]
+  }, 
+  {
+   "begin": "268.120", 
+   "children": [], 
+   "end": "276.920", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Die gesetzliche Deckelung beim \u00d6kostrom muss aufgehoben werden."
+   ]
+  }, 
+  {
+   "begin": "276.920", 
+   "children": [], 
+   "end": "278.960", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen legen wir au\u00dferdem einen Antrag vor, "
+   ]
+  }, 
+  {
+   "begin": "278.960", 
+   "children": [], 
+   "end": "282.880", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "mit dem wir unsere heimische Windbranche endlich in die Lage versetzen wollen, "
+   ]
+  }, 
+  {
+   "begin": "282.880", 
+   "children": [], 
+   "end": "286.880", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "ihren vollen Anteil zur Bew\u00e4ltigung der Klimakrise zu leisten."
+   ]
+  }, 
+  {
+   "begin": "286.880", 
+   "children": [], 
+   "end": "289.120", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "289.120", 
+   "children": [], 
+   "end": "294.240", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "echte Klimaschutzpolitik braucht einen langen Atem. "
+   ]
+  }, 
+  {
+   "begin": "294.240", 
+   "children": [], 
+   "end": "296.520", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Sie braucht Sachkenntnis und die Bereitschaft, "
+   ]
+  }, 
+  {
+   "begin": "296.520", 
+   "children": [], 
+   "end": "299.440", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "verkorkste Entscheidungen noch einmal anzugehen. "
+   ]
+  }, 
+  {
+   "begin": "299.440", 
+   "children": [], 
+   "end": "300.960", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Sie braucht den Mut, "
+   ]
+  }, 
+  {
+   "begin": "300.960", 
+   "children": [], 
+   "end": "304.760", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Gemeinwohl im Blick das Offensichtliche zu tun. "
+   ]
+  }, 
+  {
+   "begin": "304.760", 
+   "children": [], 
+   "end": "309.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "All das hoffe ich bei meiner eigenen Arbeit als Abgeordnete zu haben, "
+   ]
+  }, 
+  {
+   "begin": "309.360", 
+   "children": [], 
+   "end": "310.720", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "wieder und wieder. "
+   ]
+  }, 
+  {
+   "begin": "310.720", 
+   "children": [], 
+   "end": "313.480", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Zu all dem haben auch Sie heute Gelegenheit, "
+   ]
+  }, 
+  {
+   "begin": "313.480", 
+   "children": [], 
+   "end": "315.960", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie unseren beiden Antr\u00e4gen zustimmen."
+   ]
+  }, 
+  {
+   "begin": "315.960", 
+   "children": [], 
+   "end": "316.760", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "316.760", 
+   "children": [], 
+   "end": "329.920", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster hat das Wort der Kollege Thomas Barei\u00df f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }, 
+  {
+   "begin": "329.920", 
+   "children": [], 
+   "end": "333.920", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Die Kollegen und Kolleginnen auf der rechten Seite bitte ich, "
+   ]
+  }, 
+  {
+   "begin": "333.920", 
+   "children": [], 
+   "end": "345.000", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "den Gespr\u00e4chskreis drau\u00dfen vor der T\u00fcr fortzusetzen."
+   ]
+  }
+ ]
+}

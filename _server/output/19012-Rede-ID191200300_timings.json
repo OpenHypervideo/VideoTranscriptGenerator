@@ -1,0 +1,1354 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.960", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Liebe B\u00fcrger! "
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "children": [], 
+   "end": "9.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.400", 
+   "children": [], 
+   "end": "10.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "children": [], 
+   "end": "12.600", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Es freut mich ja sehr, "
+   ]
+  }, 
+  {
+   "begin": "12.600", 
+   "children": [], 
+   "end": "13.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie, "
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "children": [], 
+   "end": "13.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "children": [], 
+   "end": "18.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "heute von einer guten konjunkturellen Lage berichten k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "18.080", 
+   "children": [], 
+   "end": "20.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Es stellt sich allerdings die Frage, "
+   ]
+  }, 
+  {
+   "begin": "20.440", 
+   "children": [], 
+   "end": "23.560", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ob das an der Politik dieser Bundesregierung liegt."
+   ]
+  }, 
+  {
+   "begin": "23.560", 
+   "children": [], 
+   "end": "25.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Um die Antwort vorwegzunehmen: "
+   ]
+  }, 
+  {
+   "begin": "25.520", 
+   "children": [], 
+   "end": "26.200", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Nein."
+   ]
+  }, 
+  {
+   "begin": "26.200", 
+   "children": [], 
+   "end": "34.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nat\u00fcrlich in erster Linie Resultat der viel zu lange andauernden Nullzinspolitik der EZB."
+   ]
+  }, 
+  {
+   "begin": "34.920", 
+   "children": [], 
+   "end": "37.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in Deutschland eine \u00fcberschie\u00dfende Konjunktur, "
+   ]
+  }, 
+  {
+   "begin": "37.880", 
+   "children": [], 
+   "end": "42.120", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "weil der Schuldenturm in Frankfurt die S\u00fcdl\u00e4nder \u00fcber Wasser halten muss. "
+   ]
+  }, 
+  {
+   "begin": "42.120", 
+   "children": [], 
+   "end": "45.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Folgen sind f\u00fcr die Wirtschaft im Moment positiv, "
+   ]
+  }, 
+  {
+   "begin": "45.440", 
+   "children": [], 
+   "end": "47.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Sparer allerdings verheerend. "
+   ]
+  }, 
+  {
+   "begin": "47.640", 
+   "children": [], 
+   "end": "50.640", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen sind bereits Hunderte Milliarden Euro an Zinsen entgangen, "
+   ]
+  }, 
+  {
+   "begin": "50.640", 
+   "children": [], 
+   "end": "53.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "und jetzt haben wir sogar negative Realzinsen, "
+   ]
+  }, 
+  {
+   "begin": "53.800", 
+   "children": [], 
+   "end": "55.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "weil die Inflation wieder anzieht."
+   ]
+  }, 
+  {
+   "begin": "55.480", 
+   "children": [], 
+   "end": "60.680", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Das Ersparte verliert jedes Jahr an Wert. "
+   ]
+  }, 
+  {
+   "begin": "60.680", 
+   "children": [], 
+   "end": "66.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "So geben viele ihr Geld heute eben lieber im Elektronikmarkt aus oder investieren in das eigene H\u00e4uschen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "66.280", 
+   "children": [], 
+   "end": "66.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "kein Wunder, "
+   ]
+  }, 
+  {
+   "begin": "66.680", 
+   "children": [], 
+   "end": "68.920", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass die Immobilienpreise deutlich anziehen. "
+   ]
+  }, 
+  {
+   "begin": "68.920", 
+   "children": [], 
+   "end": "73.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "In gro\u00dfen St\u00e4dten sind die Preise schon um 15 bis 30\u00a0Prozent \u00fcberh\u00f6ht. "
+   ]
+  }, 
+  {
+   "begin": "73.640", 
+   "children": [], 
+   "end": "76.160", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die Blase w\u00e4chst also, "
+   ]
+  }, 
+  {
+   "begin": "76.160", 
+   "children": [], 
+   "end": "78.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "und sie droht nat\u00fcrlich irgendwann zu platzen. "
+   ]
+  }, 
+  {
+   "begin": "78.440", 
+   "children": [], 
+   "end": "79.200", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Problem, "
+   ]
+  }, 
+  {
+   "begin": "79.200", 
+   "children": [], 
+   "end": "81.360", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "das wir vor dem Euro so nicht hatten. "
+   ]
+  }, 
+  {
+   "begin": "81.360", 
+   "children": [], 
+   "end": "84.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesbank h\u00e4tte l\u00e4ngst die Zinsen angehoben. "
+   ]
+  }, 
+  {
+   "begin": "84.160", 
+   "children": [], 
+   "end": "85.720", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Dass das nicht mehr geht, "
+   ]
+  }, 
+  {
+   "begin": "85.720", 
+   "children": [], 
+   "end": "90.640", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "haben Sie mit Ihrer uns\u00e4glichen Euro-Politik gegen jede \u00f6konomische Vernunft zu verantworten. "
+   ]
+  }, 
+  {
+   "begin": "90.640", 
+   "children": [], 
+   "end": "94.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Der Euro passt einfach nicht auf so unterschiedliche Volkswirtschaften."
+   ]
+  }, 
+  {
+   "begin": "94.800", 
+   "children": [], 
+   "end": "99.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die gute Konjunktur \u00fcberdeckt die Risiken und Probleme, "
+   ]
+  }, 
+  {
+   "begin": "99.240", 
+   "children": [], 
+   "end": "100.480", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "die wir nach wie vor haben. "
+   ]
+  }, 
+  {
+   "begin": "100.480", 
+   "children": [], 
+   "end": "101.960", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Wirtschaftsweisen fordern zu Recht, "
+   ]
+  }, 
+  {
+   "begin": "101.960", 
+   "children": [], 
+   "end": "103.840", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "jetzt Reformen einzuleiten, "
+   ]
+  }, 
+  {
+   "begin": "103.840", 
+   "children": [], 
+   "end": "105.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die dann im Abschwung wirken k\u00f6nnen; "
+   ]
+  }, 
+  {
+   "begin": "105.520", 
+   "children": [], 
+   "end": "108.800", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "es bestehe jetzt die Chance zur Neujustierung der Wirtschaftspolitik. "
+   ]
+  }, 
+  {
+   "begin": "108.800", 
+   "children": [], 
+   "end": "110.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Genau so ist es; "
+   ]
+  }, 
+  {
+   "begin": "110.000", 
+   "children": [], 
+   "end": "112.920", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "denn irgendwann werden die Zinsen anziehen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "112.920", 
+   "children": [], 
+   "end": "116.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen also nicht eine m\u00f6glichst gro\u00dfe Verteilungsdebatte, "
+   ]
+  }, 
+  {
+   "begin": "116.640", 
+   "children": [], 
+   "end": "119.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wie wir sie in den Koalitionsverhandlungen wieder erleben, "
+   ]
+  }, 
+  {
+   "begin": "119.040", 
+   "children": [], 
+   "end": "124.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "sondern Strukturreformen und eine deutliche Senkung der Abgabenlast; "
+   ]
+  }, 
+  {
+   "begin": "124.000", 
+   "children": [], 
+   "end": "130.560", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "denn diese steigt schon seit 2010 an und liegt bei \u00fcber 50\u00a0Prozent."
+   ]
+  }, 
+  {
+   "begin": "130.560", 
+   "children": [], 
+   "end": "135.160", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben von einer Entlastung der B\u00fcrger um 11\u00a0Milliarden Euro gesprochen. "
+   ]
+  }, 
+  {
+   "begin": "135.160", 
+   "children": [], 
+   "end": "137.240", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das ist allerdings deutlich zu wenig. "
+   ]
+  }, 
+  {
+   "begin": "137.240", 
+   "children": [], 
+   "end": "144.360", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Seit 2010 haben Sie allein mit den heimlichen Steuererh\u00f6hungen durch die kalte Progression so viel Geld eingenommen, "
+   ]
+  }, 
+  {
+   "begin": "144.360", 
+   "children": [], 
+   "end": "150.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass laut Sachverst\u00e4ndigenrat Entlastungspotenzial von \u00fcber 30\u00a0Milliarden Euro besteht. "
+   ]
+  }, 
+  {
+   "begin": "150.160", 
+   "children": [], 
+   "end": "151.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Die B\u00fcrger erwarten, "
+   ]
+  }, 
+  {
+   "begin": "151.760", 
+   "children": [], 
+   "end": "153.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie ihnen das endlich zur\u00fcckgeben."
+   ]
+  }, 
+  {
+   "begin": "153.600", 
+   "children": [], 
+   "end": "159.640", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ich einen Vorschlag machen darf: "
+   ]
+  }, 
+  {
+   "begin": "159.640", 
+   "children": [], 
+   "end": "162.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Schaffen Sie endlich den Solidarit\u00e4tszuschlag ab!"
+   ]
+  }, 
+  {
+   "begin": "162.840", 
+   "children": [], 
+   "end": "165.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ende\u00a02019 endet der Solidarpakt, "
+   ]
+  }, 
+  {
+   "begin": "165.320", 
+   "children": [], 
+   "end": "167.280", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "und damit entf\u00e4llt auch die Begr\u00fcndung f\u00fcr den Soli. "
+   ]
+  }, 
+  {
+   "begin": "167.280", 
+   "children": [], 
+   "end": "167.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Also: "
+   ]
+  }, 
+  {
+   "begin": "167.720", 
+   "children": [], 
+   "end": "168.720", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Weg damit! "
+   ]
+  }, 
+  {
+   "begin": "168.720", 
+   "children": [], 
+   "end": "170.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Nicht irgendwelche Freigrenzen-M\u00e4tzchen, "
+   ]
+  }, 
+  {
+   "begin": "170.920", 
+   "children": [], 
+   "end": "173.800", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die Sie sich auf Ihrem Sondierungsbasar zusammengeschustert haben! "
+   ]
+  }, 
+  {
+   "begin": "173.800", 
+   "children": [], 
+   "end": "175.440", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen endlich N\u00e4gel mit K\u00f6pfen. "
+   ]
+  }, 
+  {
+   "begin": "175.440", 
+   "children": [], 
+   "end": "176.880", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Der Soli muss weg!"
+   ]
+  }, 
+  {
+   "begin": "176.880", 
+   "children": [], 
+   "end": "183.720", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Die kalte Progression k\u00f6nnen Sie gleich mit beerdigen; "
+   ]
+  }, 
+  {
+   "begin": "183.720", 
+   "children": [], 
+   "end": "184.920", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "das ist n\u00e4mlich gar nicht so kompliziert. "
+   ]
+  }, 
+  {
+   "begin": "184.920", 
+   "children": [], 
+   "end": "187.280", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Koppeln Sie die Steuerstufen an die Inflationsentwicklung, "
+   ]
+  }, 
+  {
+   "begin": "187.280", 
+   "children": [], 
+   "end": "188.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "und fertig ist die Laube. "
+   ]
+  }, 
+  {
+   "begin": "188.480", 
+   "children": [], 
+   "end": "191.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Andere L\u00e4nder k\u00f6nnen das auch."
+   ]
+  }, 
+  {
+   "begin": "191.960", 
+   "children": [], 
+   "end": "193.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Es wird auch Zeit, "
+   ]
+  }, 
+  {
+   "begin": "193.240", 
+   "children": [], 
+   "end": "196.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass wir von den hohen Energiepreisen herunterkommen. "
+   ]
+  }, 
+  {
+   "begin": "196.080", 
+   "children": [], 
+   "end": "201.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben dank des planwirtschaftlichen Monstrums namens EEG die zweith\u00f6chsten Strompreise in Europa."
+   ]
+  }, 
+  {
+   "begin": "201.600", 
+   "children": [], 
+   "end": "205.360", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein Riesenklotz am Bein vieler Mittelst\u00e4ndler."
+   ]
+  }, 
+  {
+   "begin": "205.360", 
+   "children": [], 
+   "end": "207.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Und die Kosten steigen: "
+   ]
+  }, 
+  {
+   "begin": "207.120", 
+   "children": [], 
+   "end": "211.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Bis 2025 rechnet McKinsey mit Kosten von 77\u00a0Milliarden Euro\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "211.800", 
+   "children": [], 
+   "end": "212.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "nicht insgesamt, "
+   ]
+  }, 
+  {
+   "begin": "212.560", 
+   "children": [], 
+   "end": "214.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "sondern dann j\u00e4hrlich. "
+   ]
+  }, 
+  {
+   "begin": "214.040", 
+   "children": [], 
+   "end": "216.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Das EEG schadet unserem Wirtschaftsstandort."
+   ]
+  }, 
+  {
+   "begin": "216.640", 
+   "children": [], 
+   "end": "222.720", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Reden wir \u00fcber den Fachkr\u00e4ftemangel. "
+   ]
+  }, 
+  {
+   "begin": "222.720", 
+   "children": [], 
+   "end": "223.880", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "223.880", 
+   "children": [], 
+   "end": "225.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "ihn gibt es in einigen Bereichen. "
+   ]
+  }, 
+  {
+   "begin": "225.440", 
+   "children": [], 
+   "end": "229.520", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Aber die L\u00f6sung wird ganz sicher nicht ein Fachkr\u00e4ftezuwanderungsgesetz sein, "
+   ]
+  }, 
+  {
+   "begin": "229.520", 
+   "children": [], 
+   "end": "232.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "wie es der Koalition in spe vorschwebt."
+   ]
+  }, 
+  {
+   "begin": "232.480", 
+   "children": [], 
+   "end": "234.080", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben etwas in dieser Art schon, "
+   ]
+  }, 
+  {
+   "begin": "234.080", 
+   "children": [], 
+   "end": "235.040", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die Bluecard. "
+   ]
+  }, 
+  {
+   "begin": "235.040", 
+   "children": [], 
+   "end": "236.520", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Den Erfolg k\u00f6nnen Sie ablesen. "
+   ]
+  }, 
+  {
+   "begin": "236.520", 
+   "children": [], 
+   "end": "239.160", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Im letzten Jahr kamen gerade einmal 20\u00a0000\u00a0Menschen ins Land."
+   ]
+  }, 
+  {
+   "begin": "239.160", 
+   "children": [], 
+   "end": "240.920", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen zur Kenntnis nehmen, "
+   ]
+  }, 
+  {
+   "begin": "240.920", 
+   "children": [], 
+   "end": "245.160", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland f\u00fcr wirklich gut Qualifizierte kein Topziel ist."
+   ]
+  }, 
+  {
+   "begin": "245.160", 
+   "children": [], 
+   "end": "253.120", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Stattdessen erleben wir nach wie vor eine unkontrollierte Einwanderung in die Sozialsysteme; "
+   ]
+  }, 
+  {
+   "begin": "253.120", 
+   "children": [], 
+   "end": "258.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "denn die gro\u00dfe Mehrzahl der hier Ankommenden ist f\u00fcr den Arbeitsmarkt auf lange Sicht ungeeignet. "
+   ]
+  }, 
+  {
+   "begin": "258.760", 
+   "children": [], 
+   "end": "263.160", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Das sollte mittlerweile auch die Bundesregierung klar erkannt haben."
+   ]
+  }, 
+  {
+   "begin": "263.160", 
+   "children": [], 
+   "end": "268.440", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland muss f\u00fcr die sogenannten High Potentials wieder attraktiver werden, "
+   ]
+  }, 
+  {
+   "begin": "268.440", 
+   "children": [], 
+   "end": "270.680", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "und zwar zuallererst f\u00fcr die eigenen. "
+   ]
+  }, 
+  {
+   "begin": "270.680", 
+   "children": [], 
+   "end": "273.240", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Jedes Jahr verlassen 1\u00a0Million Deutsche unser Land, "
+   ]
+  }, 
+  {
+   "begin": "273.240", 
+   "children": [], 
+   "end": "274.920", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "davon viele gut Ausgebildete. "
+   ]
+  }, 
+  {
+   "begin": "274.920", 
+   "children": [], 
+   "end": "277.520", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen wieder mehr Gr\u00fcnde f\u00fcrs Hierbleiben: "
+   ]
+  }, 
+  {
+   "begin": "277.520", 
+   "children": [], 
+   "end": "278.760", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Familienfreundlichkeit, "
+   ]
+  }, 
+  {
+   "begin": "278.760", 
+   "children": [], 
+   "end": "280.120", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "erstklassige Bildung, "
+   ]
+  }, 
+  {
+   "begin": "280.120", 
+   "children": [], 
+   "end": "282.520", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "nicht zu hohe Steuern und Abgaben."
+   ]
+  }, 
+  {
+   "begin": "282.520", 
+   "children": [], 
+   "end": "287.240", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem m\u00fcssen wir schnellstens die Infrastruktur verbessern; "
+   ]
+  }, 
+  {
+   "begin": "287.240", 
+   "children": [], 
+   "end": "289.240", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "sonst werden wir abgeh\u00e4ngt. "
+   ]
+  }, 
+  {
+   "begin": "289.240", 
+   "children": [], 
+   "end": "290.680", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Im Grunde sind wir es ja schon. "
+   ]
+  }, 
+  {
+   "begin": "290.680", 
+   "children": [], 
+   "end": "293.600", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Wir kriegen keine Flugh\u00e4fen und Bahnh\u00f6fe fertig, "
+   ]
+  }, 
+  {
+   "begin": "293.600", 
+   "children": [], 
+   "end": "294.480", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Br\u00fccken verfallen, "
+   ]
+  }, 
+  {
+   "begin": "294.480", 
+   "children": [], 
+   "end": "298.280", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "und beim schnellen Internet hinken wir anderen meilenweit hinterher. "
+   ]
+  }, 
+  {
+   "begin": "298.280", 
+   "children": [], 
+   "end": "302.280", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Das kleine Estland hat drei Viertel seiner B\u00fcrger mit einem Gigabit-Netz versorgt, "
+   ]
+  }, 
+  {
+   "begin": "302.280", 
+   "children": [], 
+   "end": "305.480", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "bei uns sind es gerade einmal 1,6\u00a0Prozent."
+   ]
+  }, 
+  {
+   "begin": "305.480", 
+   "children": [], 
+   "end": "307.520", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Mir fehlt der Glaube, "
+   ]
+  }, 
+  {
+   "begin": "307.520", 
+   "children": [], 
+   "end": "310.840", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie dieses Ziel bis 2025 erreichen. "
+   ]
+  }, 
+  {
+   "begin": "310.840", 
+   "children": [], 
+   "end": "315.280", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben ja das Ziel der Versorgung mit 50-Mbit-Leitungen bis 2018 schon nicht erreicht. "
+   ]
+  }, 
+  {
+   "begin": "315.280", 
+   "children": [], 
+   "end": "318.200", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Die Durchsetzungsrate ist im Prinzip von gestern; "
+   ]
+  }, 
+  {
+   "begin": "318.200", 
+   "children": [], 
+   "end": "320.200", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "auch sie liegt erst bei 80\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "320.200", 
+   "children": [], 
+   "end": "322.000", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Sie schaffen es einfach nicht."
+   ]
+  }, 
+  {
+   "begin": "322.000", 
+   "children": [], 
+   "end": "326.000", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie sich in den l\u00e4ndlichen Regionen umschauen, "
+   ]
+  }, 
+  {
+   "begin": "326.000", 
+   "children": [], 
+   "end": "327.240", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "sieht es dort noch schlechter aus. "
+   ]
+  }, 
+  {
+   "begin": "327.240", 
+   "children": [], 
+   "end": "328.720", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe neulich Post von einem B\u00fcrger bekommen. "
+   ]
+  }, 
+  {
+   "begin": "328.720", 
+   "children": [], 
+   "end": "330.360", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Er hat mir geschrieben: "
+   ]
+  }, 
+  {
+   "begin": "330.360", 
+   "children": [], 
+   "end": "331.400", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df nicht, "
+   ]
+  }, 
+  {
+   "begin": "331.400", 
+   "children": [], 
+   "end": "332.040", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "was passiert, "
+   ]
+  }, 
+  {
+   "begin": "332.040", 
+   "children": [], 
+   "end": "334.040", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "wenn am Jahresende ISDN abgeschaltet ist.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "334.040", 
+   "children": [], 
+   "end": "335.800", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Damit surft er im Moment.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "335.800", 
+   "children": [], 
+   "end": "338.800", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Muss ich dann wieder auf ein 56k-Modem umsteigen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "338.800", 
+   "children": [], 
+   "end": "339.080", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Sie wissen: "
+   ]
+  }, 
+  {
+   "begin": "339.080", 
+   "children": [], 
+   "end": "340.040", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das aus dem letzten Jahrtausend, "
+   ]
+  }, 
+  {
+   "begin": "340.040", 
+   "children": [], 
+   "end": "341.800", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "von kurz nach der Postkutschenzeit."
+   ]
+  }, 
+  {
+   "begin": "341.800", 
+   "children": [], 
+   "end": "343.080", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Das sind die Probleme, "
+   ]
+  }, 
+  {
+   "begin": "343.080", 
+   "children": [], 
+   "end": "343.600", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "die wir haben. "
+   ]
+  }, 
+  {
+   "begin": "343.600", 
+   "children": [], 
+   "end": "345.680", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung kommt nicht in Gang."
+   ]
+  }, 
+  {
+   "begin": "345.680", 
+   "children": [], 
+   "end": "349.600", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "349.600", 
+   "children": [], 
+   "end": "351.680", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "die konjunkturelle Lage ist gut; "
+   ]
+  }, 
+  {
+   "begin": "351.680", 
+   "children": [], 
+   "end": "352.440", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "aber wir erwarten, "
+   ]
+  }, 
+  {
+   "begin": "352.440", 
+   "children": [], 
+   "end": "354.360", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bundesregierung diese Phase nutzt, "
+   ]
+  }, 
+  {
+   "begin": "354.360", 
+   "children": [], 
+   "end": "357.160", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "um sich f\u00fcr schwierigere Zeiten zu wappnen. "
+   ]
+  }, 
+  {
+   "begin": "357.160", 
+   "children": [], 
+   "end": "360.400", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen jetzt Reformen und keine F\u00fcllhornpolitik, "
+   ]
+  }, 
+  {
+   "begin": "360.400", 
+   "children": [], 
+   "end": "363.960", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "wie sie sich bei der neuen alten Koalition wieder einmal abzeichnet."
+   ]
+  }, 
+  {
+   "begin": "363.960", 
+   "children": [], 
+   "end": "364.880", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "364.880", 
+   "children": [], 
+   "end": "370.560", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Michael Theurer, "
+   ]
+  }, 
+  {
+   "begin": "370.560", 
+   "children": [], 
+   "end": "372.000", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "FDP."
+   ]
+  }
+ ]
+}

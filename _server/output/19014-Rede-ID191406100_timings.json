@@ -1,0 +1,404 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.680", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "children": [], 
+   "end": "12.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "children": [], 
+   "end": "14.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste! "
+   ]
+  }, 
+  {
+   "begin": "14.480", 
+   "children": [], 
+   "end": "15.600", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Es w\u00e4re super, "
+   ]
+  }, 
+  {
+   "begin": "15.600", 
+   "children": [], 
+   "end": "17.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "wenn alle Unternehmer die Sicherheit h\u00e4tten, "
+   ]
+  }, 
+  {
+   "begin": "17.920", 
+   "children": [], 
+   "end": "20.360", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber viele Jahre hinweg verl\u00e4sslich planen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "20.360", 
+   "children": [], 
+   "end": "22.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und es w\u00e4re genauso super, "
+   ]
+  }, 
+  {
+   "begin": "22.360", 
+   "children": [], 
+   "end": "27.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir auch jedem Arbeitnehmer eine entsprechende Planungssicherheit angedeihen lassen k\u00f6nnten. "
+   ]
+  }, 
+  {
+   "begin": "27.840", 
+   "children": [], 
+   "end": "30.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Leider leben wir aber nicht in der Planwirtschaft."
+   ]
+  }, 
+  {
+   "begin": "30.280", 
+   "children": [], 
+   "end": "38.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns auf die sich wandelnden Anforderungen des Arbeitsmarkes im Rahmen der Globalisierung einstellen. "
+   ]
+  }, 
+  {
+   "begin": "38.680", 
+   "children": [], 
+   "end": "41.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Die Flexibilit\u00e4t ist angesprochen worden. "
+   ]
+  }, 
+  {
+   "begin": "41.560", 
+   "children": [], 
+   "end": "43.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich will aber nicht all das wiederholen, "
+   ]
+  }, 
+  {
+   "begin": "43.800", 
+   "children": [], 
+   "end": "47.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "was in dieser doch schon fortgeschrittenen Debatte alles erw\u00e4hnt wurde."
+   ]
+  }, 
+  {
+   "begin": "47.960", 
+   "children": [], 
+   "end": "48.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Was wird passieren, "
+   ]
+  }, 
+  {
+   "begin": "48.960", 
+   "children": [], 
+   "end": "51.120", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir die sachgrundlose Befristung einfach abschaffen? "
+   ]
+  }, 
+  {
+   "begin": "51.120", 
+   "children": [], 
+   "end": "53.440", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Ein paar Beispiele sind schon genannt worden: "
+   ]
+  }, 
+  {
+   "begin": "53.440", 
+   "children": [], 
+   "end": "55.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Es wird mehr Zeitarbeitsvertr\u00e4ge geben. "
+   ]
+  }, 
+  {
+   "begin": "55.400", 
+   "children": [], 
+   "end": "59.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Produktion wird ins Ausland verlagert. "
+   ]
+  }, 
+  {
+   "begin": "59.280", 
+   "children": [], 
+   "end": "61.880", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Es wird vielleicht auch mehr Scheinselbstst\u00e4ndige geben, "
+   ]
+  }, 
+  {
+   "begin": "61.880", 
+   "children": [], 
+   "end": "64.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "um diese Risiken abzufedern. "
+   ]
+  }, 
+  {
+   "begin": "64.720", 
+   "children": [], 
+   "end": "67.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "All das m\u00fcssen wir ber\u00fccksichtigen, "
+   ]
+  }, 
+  {
+   "begin": "67.040", 
+   "children": [], 
+   "end": "71.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir die Befristungsthematik behandeln wollen. "
+   ]
+  }, 
+  {
+   "begin": "71.600", 
+   "children": [], 
+   "end": "74.440", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich m\u00fcssen wir vern\u00fcnftige Regelungen schaffen, "
+   ]
+  }, 
+  {
+   "begin": "74.440", 
+   "children": [], 
+   "end": "78.080", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "die Missbrauch verhindern und ihn auch wirkungsvoll sanktionieren."
+   ]
+  }, 
+  {
+   "begin": "78.080", 
+   "children": [], 
+   "end": "81.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Was in der gesamten Debatte bisher komplett gefehlt hat, "
+   ]
+  }, 
+  {
+   "begin": "81.800", 
+   "children": [], 
+   "end": "87.120", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "womit wir aber nachhaltig etwas ver\u00e4ndern k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "87.120", 
+   "children": [], 
+   "end": "92.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "ist die Qualifikation unserer Arbeitnehmer und Arbeitnehmerinnen. "
+   ]
+  }, 
+  {
+   "begin": "92.560", 
+   "children": [], 
+   "end": "100.000", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Anforderungen und vor allen Dingen auch die Leistungsf\u00e4higkeit unseres Schulsystems wieder erh\u00f6hen. "
+   ]
+  }, 
+  {
+   "begin": "100.000", 
+   "children": [], 
+   "end": "102.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen unsere B\u00fcrger einfach fitter machen, "
+   ]
+  }, 
+  {
+   "begin": "102.120", 
+   "children": [], 
+   "end": "110.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "damit sie mit ihren Qualifikationen den sich \u00e4ndernden Bedingungen im globalen Wettbewerb besser entgegentreten k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "110.600", 
+   "children": [], 
+   "end": "113.680", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Verantwortungsvolle Unternehmer machen das von ganz allein. "
+   ]
+  }, 
+  {
+   "begin": "113.680", 
+   "children": [], 
+   "end": "114.560", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Sie versuchen, "
+   ]
+  }, 
+  {
+   "begin": "114.560", 
+   "children": [], 
+   "end": "117.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "ihre qualifizierten Mitarbeiter m\u00f6glichst lange zu halten, "
+   ]
+  }, 
+  {
+   "begin": "117.200", 
+   "children": [], 
+   "end": "121.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "und lagern nicht einfach alles in Billigjobs aus. "
+   ]
+  }, 
+  {
+   "begin": "121.080", 
+   "children": [], 
+   "end": "123.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Auf diese Weise haben wir eine echte Chance, "
+   ]
+  }, 
+  {
+   "begin": "123.480", 
+   "children": [], 
+   "end": "128.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "das Problem an der Wurzel zu packen und nicht immer nur \u00fcber Symptome zu reden."
+   ]
+  }, 
+  {
+   "begin": "128.160", 
+   "children": [], 
+   "end": "129.560", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "129.560", 
+   "children": [], 
+   "end": "130.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Danke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "130.280", 
+   "children": [], 
+   "end": "137.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Letzter Redner in dieser Debatte ist der Abgeordnete Stephan Stracke, "
+   ]
+  }, 
+  {
+   "begin": "137.360", 
+   "children": [], 
+   "end": "138.760", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,674 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.720", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "children": [], 
+   "end": "7.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "children": [], 
+   "end": "12.240", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Im Irak sind die Tage des selbsternannten Kalifats so gut wie gez\u00e4hlt. "
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "children": [], 
+   "end": "15.600", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr geb\u00fchrt unser Dank auch den Kurdinnen und Kurden. "
+   ]
+  }, 
+  {
+   "begin": "15.600", 
+   "children": [], 
+   "end": "17.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben gro\u00dfe Opfer dabei gebracht, "
+   ]
+  }, 
+  {
+   "begin": "17.880", 
+   "children": [], 
+   "end": "20.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "die Barbaren zu stoppen und zur\u00fcckzudr\u00e4ngen, "
+   ]
+  }, 
+  {
+   "begin": "20.600", 
+   "children": [], 
+   "end": "24.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und sie haben zahllosen Vertriebenen Zuflucht gew\u00e4hrt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "24.960", 
+   "children": [], 
+   "end": "29.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "das alles nach einer sehr langen Geschichte von Verfolgung und Benachteiligung. "
+   ]
+  }, 
+  {
+   "begin": "29.920", 
+   "children": [], 
+   "end": "37.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Auf die historische Ungerechtigkeit durch den Plan von Sykes-Picot folgte mehr als ein Jahrhundert der Diskriminierung. "
+   ]
+  }, 
+  {
+   "begin": "37.160", 
+   "children": [], 
+   "end": "46.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Am 16.\u00a0M\u00e4rz des kommenden Jahres begehen wir den 30.\u00a0Jahrestag der schrecklichen Giftgasangriffe durch Saddam Hussein auf Kurdinnen und Kurden. "
+   ]
+  }, 
+  {
+   "begin": "46.040", 
+   "children": [], 
+   "end": "47.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wie wir heute wissen, "
+   ]
+  }, 
+  {
+   "begin": "47.080", 
+   "children": [], 
+   "end": "51.360", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "waren daran auch deutsche Firmen mitbeteiligt."
+   ]
+  }, 
+  {
+   "begin": "51.360", 
+   "children": [], 
+   "end": "61.480", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Auf den Ruinen dieser Geschichte ist in den letzten Jahren im Nordirak so etwas wie die Oase eines stabilen Gemeinwesens mit demokratischen Elementen entstanden. "
+   ]
+  }, 
+  {
+   "begin": "61.480", 
+   "children": [], 
+   "end": "70.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Zur Verteidigung dieses Gemeinwesens und des gesamten Iraks hat auch die Bundeswehr in den letzten Monaten einen gro\u00dfen Beitrag geleistet: "
+   ]
+  }, 
+  {
+   "begin": "70.760", 
+   "children": [], 
+   "end": "72.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "zur Stabilit\u00e4t der Region, "
+   ]
+  }, 
+  {
+   "begin": "72.640", 
+   "children": [], 
+   "end": "74.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "zum Schutze der Peschmerga, "
+   ]
+  }, 
+  {
+   "begin": "74.200", 
+   "children": [], 
+   "end": "80.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "zur besseren Verarztung der Verwundeten und zu besseren taktischen F\u00e4higkeiten. "
+   ]
+  }, 
+  {
+   "begin": "80.240", 
+   "children": [], 
+   "end": "83.480", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr geb\u00fchrt den Soldatinnen und Soldaten unser Dank."
+   ]
+  }, 
+  {
+   "begin": "83.480", 
+   "children": [], 
+   "end": "87.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das Problem bei dem Mandat war, "
+   ]
+  }, 
+  {
+   "begin": "87.280", 
+   "children": [], 
+   "end": "94.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bundesregierung eine absolut notwendige Bedingung des Verfassungsrechts, "
+   ]
+  }, 
+  {
+   "begin": "94.280", 
+   "children": [], 
+   "end": "96.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich das System kollektiver Sicherheit, "
+   ]
+  }, 
+  {
+   "begin": "96.120", 
+   "children": [], 
+   "end": "98.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wie es Karlsruhe uns ins Stammbuch geschrieben hat, "
+   ]
+  }, 
+  {
+   "begin": "98.680", 
+   "children": [], 
+   "end": "99.920", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "nicht geliefert hat, "
+   ]
+  }, 
+  {
+   "begin": "99.920", 
+   "children": [], 
+   "end": "102.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "sondern auf eine Koalition der Willigen gesetzt hat. "
+   ]
+  }, 
+  {
+   "begin": "102.800", 
+   "children": [], 
+   "end": "105.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb haben wir diesem Mandat nicht zustimmen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "105.200", 
+   "children": [], 
+   "end": "106.200", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "und wir werden dies, "
+   ]
+  }, 
+  {
+   "begin": "106.200", 
+   "children": [], 
+   "end": "107.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "so wie es vorliegt, "
+   ]
+  }, 
+  {
+   "begin": "107.240", 
+   "children": [], 
+   "end": "108.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "auch heute nicht tun."
+   ]
+  }, 
+  {
+   "begin": "108.760", 
+   "children": [], 
+   "end": "112.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir m\u00fcssen sehen, "
+   ]
+  }, 
+  {
+   "begin": "112.080", 
+   "children": [], 
+   "end": "113.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Lage ver\u00e4ndert hat. "
+   ]
+  }, 
+  {
+   "begin": "113.840", 
+   "children": [], 
+   "end": "119.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die Demokratie in diesem nordirakischen Gemeinwesen ist von innen ausgeh\u00f6hlt worden. "
+   ]
+  }, 
+  {
+   "begin": "119.400", 
+   "children": [], 
+   "end": "126.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Der mittlerweile zur\u00fcckgetretene Pr\u00e4sident Barzani hat seine Amtszeit nach 2015 \u00fcber zwei Jahre \u00fcberzogen. "
+   ]
+  }, 
+  {
+   "begin": "126.200", 
+   "children": [], 
+   "end": "131.400", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Sunnitische D\u00f6rfer sind von Peschmerga zerst\u00f6rt worden. "
+   ]
+  }, 
+  {
+   "begin": "131.400", 
+   "children": [], 
+   "end": "135.560", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Barzani hat Koalitionspartner ausgesperrt und den Parlamentarismus komplett ausgehebelt. "
+   ]
+  }, 
+  {
+   "begin": "135.560", 
+   "children": [], 
+   "end": "138.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Journalistinnen und Journalisten sind unter Druck gesetzt worden. "
+   ]
+  }, 
+  {
+   "begin": "138.120", 
+   "children": [], 
+   "end": "142.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Geh\u00e4lter im \u00f6ffentlichen Dienst sind monatelang nicht bezahlt worden. "
+   ]
+  }, 
+  {
+   "begin": "142.160", 
+   "children": [], 
+   "end": "144.640", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Korruption grassiert."
+   ]
+  }, 
+  {
+   "begin": "144.640", 
+   "children": [], 
+   "end": "157.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das Referendum am 25.\u00a0September dieses Jahres war nicht nur der Ausdruck eines v\u00f6llig berechtigten Wunsches der Kurdinnen und Kurden nach Selbstbestimmung und Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "157.120", 
+   "children": [], 
+   "end": "163.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "sondern gerade die Auswahl des Zeitpunktes war auch ein Ausdruck der Verzweiflung einer Regierung, "
+   ]
+  }, 
+  {
+   "begin": "163.320", 
+   "children": [], 
+   "end": "166.800", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die sich in eine gro\u00dfe Krise geritten hatte. "
+   ]
+  }, 
+  {
+   "begin": "166.800", 
+   "children": [], 
+   "end": "168.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Dies hat zu massiven R\u00fcckschritten gef\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "168.840", 
+   "children": [], 
+   "end": "170.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "auch und gerade in Kurdistan. "
+   ]
+  }, 
+  {
+   "begin": "170.640", 
+   "children": [], 
+   "end": "174.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das Verh\u00e4ltnis zu Bagdad ist so schlecht wie seit Ewigkeiten nicht mehr. "
+   ]
+  }, 
+  {
+   "begin": "174.520", 
+   "children": [], 
+   "end": "175.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Innerkurdische Konflikte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "175.760", 
+   "children": [], 
+   "end": "178.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "teilweise sehr alt und sehr tradiert\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "178.400", 
+   "children": [], 
+   "end": "180.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "sind mittlerweile wieder aufgebrochen. "
+   ]
+  }, 
+  {
+   "begin": "180.160", 
+   "children": [], 
+   "end": "183.280", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Der Status von Kirkuk ist ganz weit davon entfernt, "
+   ]
+  }, 
+  {
+   "begin": "183.280", 
+   "children": [], 
+   "end": "184.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "gekl\u00e4rt zu werden. "
+   ]
+  }, 
+  {
+   "begin": "184.760", 
+   "children": [], 
+   "end": "191.560", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Iran und die T\u00fcrkei haben jetzt freie Hand f\u00fcr massive milit\u00e4rische und politische St\u00f6rman\u00f6ver. "
+   ]
+  }, 
+  {
+   "begin": "191.560", 
+   "children": [], 
+   "end": "192.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Grund, "
+   ]
+  }, 
+  {
+   "begin": "192.480", 
+   "children": [], 
+   "end": "196.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "warum dieses Mandat so nicht fortgesetzt werden kann. "
+   ]
+  }, 
+  {
+   "begin": "196.360", 
+   "children": [], 
+   "end": "198.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden weiter dar\u00fcber reden m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "198.200", 
+   "children": [], 
+   "end": "199.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Es ist f\u00fcr uns absolut klar, "
+   ]
+  }, 
+  {
+   "begin": "199.680", 
+   "children": [], 
+   "end": "204.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass sich Deutschland im gesamten Irak politisch mehr engagieren muss und dass wir einen Beitrag leisten k\u00f6nnen: "
+   ]
+  }, 
+  {
+   "begin": "204.800", 
+   "children": [], 
+   "end": "206.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "zur Vers\u00f6hnung, "
+   ]
+  }, 
+  {
+   "begin": "206.000", 
+   "children": [], 
+   "end": "206.360", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dazu, "
+   ]
+  }, 
+  {
+   "begin": "206.360", 
+   "children": [], 
+   "end": "210.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass die Spirale der Rache im Irak endlich durchbrochen wird, "
+   ]
+  }, 
+  {
+   "begin": "210.320", 
+   "children": [], 
+   "end": "211.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Ansatz entwickelt wird, "
+   ]
+  }, 
+  {
+   "begin": "211.760", 
+   "children": [], 
+   "end": "214.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "der allen Volksgruppen im Land ihre Rechte einr\u00e4umt, "
+   ]
+  }, 
+  {
+   "begin": "214.840", 
+   "children": [], 
+   "end": "224.040", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass die Sicherheitskr\u00e4fte im Rahmen eines inklusiven Ansatzes reformiert werden und dass es kein Wiedererstarken der Dschihadisten gibt."
+   ]
+  }, 
+  {
+   "begin": "224.040", 
+   "children": [], 
+   "end": "227.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben dar\u00fcber in den Sondierungen gesprochen. "
+   ]
+  }, 
+  {
+   "begin": "227.400", 
+   "children": [], 
+   "end": "229.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Es ist Zeit daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "229.240", 
+   "children": [], 
+   "end": "231.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die Weichen endlich zu stellen, "
+   ]
+  }, 
+  {
+   "begin": "231.600", 
+   "children": [], 
+   "end": "232.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "und es ist Zeit, "
+   ]
+  }, 
+  {
+   "begin": "232.880", 
+   "children": [], 
+   "end": "238.600", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "den Wunsch der Kurdinnen und Kurden nach Selbstbestimmung und Freiheit nach \u00fcber 100\u00a0Jahren endlich ernst zu nehmen."
+   ]
+  }, 
+  {
+   "begin": "238.600", 
+   "children": [], 
+   "end": "240.320", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank f\u00fcr die Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "240.320", 
+   "children": [], 
+   "end": "246.960", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Letzter Redner in dieser Aussprache ist der Kollege J\u00fcrgen Hardt von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

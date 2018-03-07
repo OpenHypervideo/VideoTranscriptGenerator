@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.560", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "children": [], 
+   "end": "5.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Stahlbranche ist f\u00fcr unser Land wie auch f\u00fcr Europa eine wichtige S\u00e4ule der industriellen Produktion. "
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "15.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist auch wichtig f\u00fcr den globalen Klimaschutz."
+   ]
+  }, 
+  {
+   "begin": "15.720", 
+   "children": [], 
+   "end": "17.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist eine der Branchen, "
+   ]
+  }, 
+  {
+   "begin": "17.520", 
+   "children": [], 
+   "end": "24.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "in der durch moderne Werke gerade in Deutschland massiv CO 2 eingespart werden kann."
+   ]
+  }, 
+  {
+   "begin": "24.160", 
+   "children": [], 
+   "end": "29.680", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Stahl ist unverzichtbar f\u00fcr die \u00f6kologische Modernisierung der gesamten Industrie. "
+   ]
+  }, 
+  {
+   "begin": "29.680", 
+   "children": [], 
+   "end": "30.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Windkraftanlagen, "
+   ]
+  }, 
+  {
+   "begin": "30.920", 
+   "children": [], 
+   "end": "31.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Geb\u00e4udesanierung, "
+   ]
+  }, 
+  {
+   "begin": "31.680", 
+   "children": [], 
+   "end": "34.640", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "nachhaltige Mobilit\u00e4t und Verkehrsinfrastruktur, "
+   ]
+  }, 
+  {
+   "begin": "34.640", 
+   "children": [], 
+   "end": "38.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "all diese Bereiche brauchen Stahl."
+   ]
+  }, 
+  {
+   "begin": "38.680", 
+   "children": [], 
+   "end": "40.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es wichtig, "
+   ]
+  }, 
+  {
+   "begin": "40.520", 
+   "children": [], 
+   "end": "41.560", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die Frage zu stellen: "
+   ]
+  }, 
+  {
+   "begin": "41.560", 
+   "children": [], 
+   "end": "44.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wie sieht die Zukunft der Stahlbranche aus?"
+   ]
+  }, 
+  {
+   "begin": "44.200", 
+   "children": [], 
+   "end": "47.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich hat ein Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "47.240", 
+   "children": [], 
+   "end": "48.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "das eine Fusion eingeht, "
+   ]
+  }, 
+  {
+   "begin": "48.880", 
+   "children": [], 
+   "end": "50.920", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "eine gro\u00dfe Verantwortung. "
+   ]
+  }, 
+  {
+   "begin": "50.920", 
+   "children": [], 
+   "end": "54.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Es hat eine Verantwortung f\u00fcr den Erfolg seines Stahlgesch\u00e4fts, "
+   ]
+  }, 
+  {
+   "begin": "54.880", 
+   "children": [], 
+   "end": "59.760", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "aber es hat vor allem eine soziale Verantwortung f\u00fcr die Mitarbeiterinnen und Mitarbeiter. "
+   ]
+  }, 
+  {
+   "begin": "59.760", 
+   "children": [], 
+   "end": "62.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist die Forderung der Besch\u00e4ftigten, "
+   ]
+  }, 
+  {
+   "begin": "62.440", 
+   "children": [], 
+   "end": "65.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Klarheit zu schaffen und weitgehend, "
+   ]
+  }, 
+  {
+   "begin": "65.440", 
+   "children": [], 
+   "end": "66.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wo m\u00f6glich, "
+   ]
+  }, 
+  {
+   "begin": "66.320", 
+   "children": [], 
+   "end": "69.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Sicherung der Arbeitspl\u00e4tze einzutreten, "
+   ]
+  }, 
+  {
+   "begin": "69.240", 
+   "children": [], 
+   "end": "70.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "eine richtige Forderung, "
+   ]
+  }, 
+  {
+   "begin": "70.640", 
+   "children": [], 
+   "end": "71.920", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die wir unterst\u00fctzen."
+   ]
+  }, 
+  {
+   "begin": "71.920", 
+   "children": [], 
+   "end": "80.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Als energieintensive Branche tr\u00e4gt die Stahlbranche zum Klimaschutz bei. "
+   ]
+  }, 
+  {
+   "begin": "80.160", 
+   "children": [], 
+   "end": "81.640", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ich aus der Branche h\u00f6re, "
+   ]
+  }, 
+  {
+   "begin": "81.640", 
+   "children": [], 
+   "end": "83.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass die Energiepreise ein Problem seien, "
+   ]
+  }, 
+  {
+   "begin": "83.920", 
+   "children": [], 
+   "end": "86.320", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dann muss ich eines deutlich sagen: "
+   ]
+  }, 
+  {
+   "begin": "86.320", 
+   "children": [], 
+   "end": "98.960", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Stahlindustrie hat kostenlos Emissionszertifikate im Wert von 5,3\u00a0Milliarden Euro und eine zweistellige Millionenhilfe in Form einer Strompreiskompensation erhalten. "
+   ]
+  }, 
+  {
+   "begin": "98.960", 
+   "children": [], 
+   "end": "99.360", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "99.360", 
+   "children": [], 
+   "end": "101.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "die Stahlbranche ist unter Druck\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "101.240", 
+   "children": [], 
+   "end": "103.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "unter anderem wegen der \u00dcberkapazit\u00e4ten; "
+   ]
+  }, 
+  {
+   "begin": "103.240", 
+   "children": [], 
+   "end": "105.040", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "auf sie komme ich noch zu sprechen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "105.040", 
+   "children": [], 
+   "end": "107.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "aber sie ist nicht unter Druck wegen der Energiepreise. "
+   ]
+  }, 
+  {
+   "begin": "107.560", 
+   "children": [], 
+   "end": "109.120", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben sowieso schon eine Schieflage, "
+   ]
+  }, 
+  {
+   "begin": "109.120", 
+   "children": [], 
+   "end": "120.440", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "was die H\u00f6he der Energiepreise f\u00fcr die Industrie auf der einen Seite und f\u00fcr den privaten Verbraucher und den Mittelstand auf der anderen Seite angeht. "
+   ]
+  }, 
+  {
+   "begin": "120.440", 
+   "children": [], 
+   "end": "126.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen lautet meine klare Ansage an die Stahlbranche: "
+   ]
+  }, 
+  {
+   "begin": "126.880", 
+   "children": [], 
+   "end": "129.040", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Kommt uns nicht damit, "
+   ]
+  }, 
+  {
+   "begin": "129.040", 
+   "children": [], 
+   "end": "130.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass die Energiekosten zu hoch sind. "
+   ]
+  }, 
+  {
+   "begin": "130.520", 
+   "children": [], 
+   "end": "131.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht richtig."
+   ]
+  }, 
+  {
+   "begin": "131.760", 
+   "children": [], 
+   "end": "135.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir m\u00fcssen die europ\u00e4ische Stahlbranche vor unfairem Wettbewerb sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "135.080", 
+   "children": [], 
+   "end": "135.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist das, "
+   ]
+  }, 
+  {
+   "begin": "135.920", 
+   "children": [], 
+   "end": "137.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "was der Kollege Pfeiffer gesagt hat, "
+   ]
+  }, 
+  {
+   "begin": "137.720", 
+   "children": [], 
+   "end": "138.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "richtig: "
+   ]
+  }, 
+  {
+   "begin": "138.040", 
+   "children": [], 
+   "end": "142.080", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das eigentliche Problem der Stahlbranche sind die \u00dcberkapazit\u00e4ten, "
+   ]
+  }, 
+  {
+   "begin": "142.080", 
+   "children": [], 
+   "end": "143.920", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "vor allem aus China. "
+   ]
+  }, 
+  {
+   "begin": "143.920", 
+   "children": [], 
+   "end": "144.720", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es richtig, "
+   ]
+  }, 
+  {
+   "begin": "144.720", 
+   "children": [], 
+   "end": "147.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass man auf europ\u00e4ischer Ebene daf\u00fcr eintritt, "
+   ]
+  }, 
+  {
+   "begin": "147.640", 
+   "children": [], 
+   "end": "150.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass Schutzz\u00f6lle dann eingerichtet werden k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "150.560", 
+   "children": [], 
+   "end": "154.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wenn M\u00e4rkte geflutet werden durch eine \u00dcberproduktion, "
+   ]
+  }, 
+  {
+   "begin": "154.120", 
+   "children": [], 
+   "end": "156.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die auch noch staatlich induziert ist. "
+   ]
+  }, 
+  {
+   "begin": "156.480", 
+   "children": [], 
+   "end": "161.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Diese Diskussion ist auf europ\u00e4ischer Ebene gelaufen. "
+   ]
+  }, 
+  {
+   "begin": "161.200", 
+   "children": [], 
+   "end": "162.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Damals haben wir uns gew\u00fcnscht, "
+   ]
+  }, 
+  {
+   "begin": "162.800", 
+   "children": [], 
+   "end": "173.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass sich Wirtschaftsminister Gabriel deutlich st\u00e4rker f\u00fcr eine Reform der handelspolitischen Schutzinstrumente einsetzt. "
+   ]
+  }, 
+  {
+   "begin": "173.000", 
+   "children": [], 
+   "end": "174.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Aber es hat an Mut gemangelt, "
+   ]
+  }, 
+  {
+   "begin": "174.520", 
+   "children": [], 
+   "end": "175.960", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr einzutreten. "
+   ]
+  }, 
+  {
+   "begin": "175.960", 
+   "children": [], 
+   "end": "176.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Es ist wichtig, "
+   ]
+  }, 
+  {
+   "begin": "176.880", 
+   "children": [], 
+   "end": "186.920", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns hier f\u00fcr diese Handelsinstrumente einsetzen."
+   ]
+  }, 
+  {
+   "begin": "186.920", 
+   "children": [], 
+   "end": "192.840", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich m\u00fcssen wir im Hinblick auf die Besch\u00e4ftigten klare Ansagen machen. "
+   ]
+  }, 
+  {
+   "begin": "192.840", 
+   "children": [], 
+   "end": "194.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Was nicht geht, "
+   ]
+  }, 
+  {
+   "begin": "194.400", 
+   "children": [], 
+   "end": "194.920", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "194.920", 
+   "children": [], 
+   "end": "198.080", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die Gesch\u00e4ftspolitik eines Unternehmens zu diskutieren. "
+   ]
+  }, 
+  {
+   "begin": "198.080", 
+   "children": [], 
+   "end": "199.360", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Richtig ist es aber, "
+   ]
+  }, 
+  {
+   "begin": "199.360", 
+   "children": [], 
+   "end": "203.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die politische Verantwortung eines Unternehmens zu diskutieren. "
+   ]
+  }, 
+  {
+   "begin": "203.120", 
+   "children": [], 
+   "end": "206.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich sind Arbeitnehmerrechte elementar. "
+   ]
+  }, 
+  {
+   "begin": "206.280", 
+   "children": [], 
+   "end": "208.200", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich m\u00fcssen wir uns daf\u00fcr einsetzen, "
+   ]
+  }, 
+  {
+   "begin": "208.200", 
+   "children": [], 
+   "end": "210.160", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass die Mitbestimmung erhalten bleibt. "
+   ]
+  }, 
+  {
+   "begin": "210.160", 
+   "children": [], 
+   "end": "212.720", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Und nat\u00fcrlich darf es keine Grauzonen, "
+   ]
+  }, 
+  {
+   "begin": "212.720", 
+   "children": [], 
+   "end": "216.720", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "keine L\u00fccken und keinen Abbau von Mitbestimmung geben, "
+   ]
+  }, 
+  {
+   "begin": "216.720", 
+   "children": [], 
+   "end": "220.600", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "auch nicht bei einer Fusion auf europ\u00e4ischer Ebene."
+   ]
+  }, 
+  {
+   "begin": "220.600", 
+   "children": [], 
+   "end": "224.080", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Aber wie schaffen wir es, "
+   ]
+  }, 
+  {
+   "begin": "224.080", 
+   "children": [], 
+   "end": "229.720", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "auch in der Branche Stahl der \u00f6kologischen Herausforderung gerecht zu werden? "
+   ]
+  }, 
+  {
+   "begin": "229.720", 
+   "children": [], 
+   "end": "233.040", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine energieintensive Branche. "
+   ]
+  }, 
+  {
+   "begin": "233.040", 
+   "children": [], 
+   "end": "235.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wie f\u00f6rdern wir Innovationen in den Unternehmen? "
+   ]
+  }, 
+  {
+   "begin": "235.760", 
+   "children": [], 
+   "end": "240.720", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wie kann Forschung und Entwicklung zur \u00d6kologisierung der Wirtschaft beitragen?"
+   ]
+  }, 
+  {
+   "begin": "240.720", 
+   "children": [], 
+   "end": "243.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Die Klimaziele haben nicht wir erfunden. "
+   ]
+  }, 
+  {
+   "begin": "243.080", 
+   "children": [], 
+   "end": "245.360", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Die Klimaziele einzuhalten, "
+   ]
+  }, 
+  {
+   "begin": "245.360", 
+   "children": [], 
+   "end": "246.720", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "ist absolut notwendig, "
+   ]
+  }, 
+  {
+   "begin": "246.720", 
+   "children": [], 
+   "end": "251.520", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "und auch die Stahlbranche muss ihren Beitrag dazu leisten."
+   ]
+  }, 
+  {
+   "begin": "251.520", 
+   "children": [], 
+   "end": "252.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es gut, "
+   ]
+  }, 
+  {
+   "begin": "252.840", 
+   "children": [], 
+   "end": "254.120", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wenn erforscht wird, "
+   ]
+  }, 
+  {
+   "begin": "254.120", 
+   "children": [], 
+   "end": "261.880", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "wie H\u00fcttengase aus der Stahlproduktion direkt als Rohstoff f\u00fcr die chemische Produktion verwandt werden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "261.880", 
+   "children": [], 
+   "end": "262.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Es ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "262.720", 
+   "children": [], 
+   "end": "267.440", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "wenn F\u00f6rderprogramme aufgelegt werden und diese ambitionierte Forschung unterst\u00fctzt wird. "
+   ]
+  }, 
+  {
+   "begin": "267.440", 
+   "children": [], 
+   "end": "270.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Eine \u00f6kologische Industriepolitik hei\u00dft auch, "
+   ]
+  }, 
+  {
+   "begin": "270.240", 
+   "children": [], 
+   "end": "272.800", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "die Stahlindustrie dabei zu unterst\u00fctzen, "
+   ]
+  }, 
+  {
+   "begin": "272.800", 
+   "children": [], 
+   "end": "275.840", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Technologief\u00fchrer hinsichtlich der Emissionsminderung, "
+   ]
+  }, 
+  {
+   "begin": "275.840", 
+   "children": [], 
+   "end": "276.800", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "hinsichtlich der Energie- "
+   ]
+  }, 
+  {
+   "begin": "276.800", 
+   "children": [], 
+   "end": "279.840", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "und Materialeinsparung und im Bereich der Kreislaufwirtschaft zu werden. "
+   ]
+  }, 
+  {
+   "begin": "279.840", 
+   "children": [], 
+   "end": "284.960", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Das ist Aufgabe einer vorausschauenden und zukunftsgerichteten Wirtschaftspolitik, "
+   ]
+  }, 
+  {
+   "begin": "284.960", 
+   "children": [], 
+   "end": "291.400", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "im \u00dcbrigen auch einer kommissarischen Bundesregierung und eines SPD-gef\u00fchrten Wirtschaftsministeriums. "
+   ]
+  }, 
+  {
+   "begin": "291.400", 
+   "children": [], 
+   "end": "294.400", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Darum geht es bei der \u00f6kologischen Industriepolitik. "
+   ]
+  }, 
+  {
+   "begin": "294.400", 
+   "children": [], 
+   "end": "300.440", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Alle Branchen m\u00fcssen ihren Beitrag zum Klimaschutz leisten."
+   ]
+  }, 
+  {
+   "begin": "300.440", 
+   "children": [], 
+   "end": "305.800", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "305.800", 
+   "children": [], 
+   "end": "310.960", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Letzter Redner in der Debatte ist Hansj\u00f6rg Durz f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

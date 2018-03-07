@@ -1,0 +1,904 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "13.440", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Vizepr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "13.440", 
+   "children": [], 
+   "end": "17.320", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "children": [], 
+   "end": "23.880", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Nach 20\u00a0Jahren in der IT-Branche und als Netzaktivistin besch\u00e4ftige ich mich schon ein bisschen l\u00e4nger mit der Zukunft; "
+   ]
+  }, 
+  {
+   "begin": "23.880", 
+   "children": [], 
+   "end": "27.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "aber die Zukunft steht nicht fest. "
+   ]
+  }, 
+  {
+   "begin": "27.120", 
+   "children": [], 
+   "end": "29.160", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ob sie ein Gruselfilm wird oder nicht, "
+   ]
+  }, 
+  {
+   "begin": "29.160", 
+   "children": [], 
+   "end": "30.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4ngt davon ab, "
+   ]
+  }, 
+  {
+   "begin": "30.480", 
+   "children": [], 
+   "end": "33.520", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "wie wir heute politische Entscheidungen treffen. "
+   ]
+  }, 
+  {
+   "begin": "33.520", 
+   "children": [], 
+   "end": "35.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Da bin ich ganz beim Antrag der Gr\u00fcnen; "
+   ]
+  }, 
+  {
+   "begin": "35.840", 
+   "children": [], 
+   "end": "43.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "denn viel zu lange hat die Bundesregierung offensichtlich planlos die Gestaltung der digitalen Gesellschaft verpennt. "
+   ]
+  }, 
+  {
+   "begin": "43.520", 
+   "children": [], 
+   "end": "46.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Es braucht endlich eine ganzheitliche, "
+   ]
+  }, 
+  {
+   "begin": "46.360", 
+   "children": [], 
+   "end": "53.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "positive Vision der digitalen Gesellschaft von morgen und eine Digitalisierungsstrategie im Sinne des Gemeinwohls."
+   ]
+  }, 
+  {
+   "begin": "53.640", 
+   "children": [], 
+   "end": "54.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Sieben Schwerpunkte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "54.640", 
+   "children": [], 
+   "end": "59.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "aus meiner Sicht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "59.240", 
+   "children": [], 
+   "end": "62.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr diese Digitalisierungsstrategie m\u00f6chte ich kurz vorstellen:"
+   ]
+  }, 
+  {
+   "begin": "62.960", 
+   "children": [], 
+   "end": "64.120", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "64.120", 
+   "children": [], 
+   "end": "69.040", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Der schnelle Internetzugang muss Grundrecht werden und Teil der Daseinsvorsorge\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "69.040", 
+   "children": [], 
+   "end": "72.960", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber Glasfasernetze bis ins letzte brandenburgische Dorf."
+   ]
+  }, 
+  {
+   "begin": "72.960", 
+   "children": [], 
+   "end": "75.200", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "75.200", 
+   "children": [], 
+   "end": "77.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Privatsph\u00e4re braucht Zukunft. "
+   ]
+  }, 
+  {
+   "begin": "77.240", 
+   "children": [], 
+   "end": "81.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb muss der Staat Verschl\u00fcsselungen f\u00f6rdern und darf nicht selbst zum Hacker werden, "
+   ]
+  }, 
+  {
+   "begin": "81.520", 
+   "children": [], 
+   "end": "83.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "der Sicherheitsl\u00fccken ausnutzt, "
+   ]
+  }, 
+  {
+   "begin": "83.600", 
+   "children": [], 
+   "end": "85.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "statt sie zu schlie\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "85.200", 
+   "children": [], 
+   "end": "88.440", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "88.440", 
+   "children": [], 
+   "end": "91.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Staatliche F\u00f6rderungen darf es nur noch f\u00fcr enkeltaugliche, "
+   ]
+  }, 
+  {
+   "begin": "91.720", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "gemeinwohlorientierte Zukunftstechnologien geben, "
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "97.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht f\u00fcr die Verl\u00e4ngerung veralteter Gesch\u00e4ftsmodelle. "
+   ]
+  }, 
+  {
+   "begin": "97.920", 
+   "children": [], 
+   "end": "100.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "\u201eZukunft statt Dinosaurier\u201c hei\u00dft das Motto, "
+   ]
+  }, 
+  {
+   "begin": "100.760", 
+   "children": [], 
+   "end": "102.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "und in der Praxis hei\u00dft das: "
+   ]
+  }, 
+  {
+   "begin": "102.200", 
+   "children": [], 
+   "end": "105.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ladeinfrastrukturen f\u00fcr E-Autos statt Diesel, "
+   ]
+  }, 
+  {
+   "begin": "105.160", 
+   "children": [], 
+   "end": "109.360", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Speichertechnologien f\u00fcr erneuerbare Energien statt Braunkohle, "
+   ]
+  }, 
+  {
+   "begin": "109.360", 
+   "children": [], 
+   "end": "111.840", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Glasfaser statt Kupfer."
+   ]
+  }, 
+  {
+   "begin": "111.840", 
+   "children": [], 
+   "end": "115.560", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Viertens brauchen wir ein Bildungssystem, "
+   ]
+  }, 
+  {
+   "begin": "115.560", 
+   "children": [], 
+   "end": "118.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "das lebenslangen Zugang zu Bildung erm\u00f6glicht. "
+   ]
+  }, 
+  {
+   "begin": "118.320", 
+   "children": [], 
+   "end": "121.000", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Junge wie \u00e4ltere Menschen m\u00fcssen wir so ausbilden, "
+   ]
+  }, 
+  {
+   "begin": "121.000", 
+   "children": [], 
+   "end": "127.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass sie die Zukunft mitgestalten k\u00f6nnen und sich in einer digitalisierten Welt zurechtfinden, "
+   ]
+  }, 
+  {
+   "begin": "127.280", 
+   "children": [], 
+   "end": "129.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "unabh\u00e4ngig von ihrem Geldbeutel."
+   ]
+  }, 
+  {
+   "begin": "129.560", 
+   "children": [], 
+   "end": "138.040", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcnftens m\u00fcssen wir die digitale Revolution auch f\u00fcr eine demokratische Revolution nutzen: "
+   ]
+  }, 
+  {
+   "begin": "138.040", 
+   "children": [], 
+   "end": "143.960", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Transparenz und Partizipation m\u00fcssen endlich Grundprinzipien staatlichen Handelns werden."
+   ]
+  }, 
+  {
+   "begin": "143.960", 
+   "children": [], 
+   "end": "145.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Sechstens brauchen wir einen Ethik- "
+   ]
+  }, 
+  {
+   "begin": "145.920", 
+   "children": [], 
+   "end": "147.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und Wertekonsens. "
+   ]
+  }, 
+  {
+   "begin": "147.280", 
+   "children": [], 
+   "end": "149.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wo ziehen wir rote Linien, "
+   ]
+  }, 
+  {
+   "begin": "149.440", 
+   "children": [], 
+   "end": "151.200", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "und wie setzen wir sie um: "
+   ]
+  }, 
+  {
+   "begin": "151.200", 
+   "children": [], 
+   "end": "153.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "bei autonomen Waffensystemen, "
+   ]
+  }, 
+  {
+   "begin": "153.000", 
+   "children": [], 
+   "end": "155.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Sexrobotern in Kinderform, "
+   ]
+  }, 
+  {
+   "begin": "155.040", 
+   "children": [], 
+   "end": "159.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "diskriminierenden Systemen k\u00fcnstlicher Intelligenz oder bei Designerbabys, "
+   ]
+  }, 
+  {
+   "begin": "159.400", 
+   "children": [], 
+   "end": "162.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die mit genver\u00e4ndernden Technologien entstehen k\u00f6nnten?"
+   ]
+  }, 
+  {
+   "begin": "162.680", 
+   "children": [], 
+   "end": "163.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Siebtens. "
+   ]
+  }, 
+  {
+   "begin": "163.480", 
+   "children": [], 
+   "end": "169.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Vor allem aber muss die digitale Revolution mit einer sozialen Revolution verkn\u00fcpft werden. "
+   ]
+  }, 
+  {
+   "begin": "169.200", 
+   "children": [], 
+   "end": "173.440", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Nicht nur prek\u00e4r Besch\u00e4ftigte in der Digitalwirtschaft gilt es abzusichern, "
+   ]
+  }, 
+  {
+   "begin": "173.440", 
+   "children": [], 
+   "end": "177.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "auch die 800\u00a0000\u00a0Berufskraftfahrer in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "177.120", 
+   "children": [], 
+   "end": "178.960", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die durch autonome Autos ersetzt werden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "178.960", 
+   "children": [], 
+   "end": "179.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "in 10, "
+   ]
+  }, 
+  {
+   "begin": "179.680", 
+   "children": [], 
+   "end": "181.600", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht auch erst in 20\u00a0Jahren, "
+   ]
+  }, 
+  {
+   "begin": "181.600", 
+   "children": [], 
+   "end": "184.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "aber wir werden es noch erleben."
+   ]
+  }, 
+  {
+   "begin": "184.120", 
+   "children": [], 
+   "end": "187.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "In China gibt es schon dunkle Fabriken, "
+   ]
+  }, 
+  {
+   "begin": "187.120", 
+   "children": [], 
+   "end": "189.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "in denen der letzte das Licht ausgeknipst hat, "
+   ]
+  }, 
+  {
+   "begin": "189.400", 
+   "children": [], 
+   "end": "191.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "weil dort nur noch Roboter arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "191.200", 
+   "children": [], 
+   "end": "192.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die kein Licht mehr brauchen. "
+   ]
+  }, 
+  {
+   "begin": "192.880", 
+   "children": [], 
+   "end": "196.680", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Adidas plant \u00fcbrigens eine solche Fabrik in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "196.680", 
+   "children": [], 
+   "end": "199.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Vollbesch\u00e4ftigung als langfristiges Ziel ist Selbstbetrug; "
+   ]
+  }, 
+  {
+   "begin": "199.720", 
+   "children": [], 
+   "end": "202.880", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "denn Millionen Arbeitspl\u00e4tze werden verschwinden. "
+   ]
+  }, 
+  {
+   "begin": "202.880", 
+   "children": [], 
+   "end": "205.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Stellen wir aber die politischen Weichen klug, "
+   ]
+  }, 
+  {
+   "begin": "205.880", 
+   "children": [], 
+   "end": "206.400", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "hei\u00dft das: "
+   ]
+  }, 
+  {
+   "begin": "206.400", 
+   "children": [], 
+   "end": "210.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "endlich k\u00fcrzere Wochenarbeitszeiten bis hin zur Befreiung vom Zwang, "
+   ]
+  }, 
+  {
+   "begin": "210.680", 
+   "children": [], 
+   "end": "213.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "die eigene Arbeitskraft zu verkaufen, "
+   ]
+  }, 
+  {
+   "begin": "213.080", 
+   "children": [], 
+   "end": "216.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "also mehr Freiheit und mehr Freizeit f\u00fcr uns alle."
+   ]
+  }, 
+  {
+   "begin": "216.440", 
+   "children": [], 
+   "end": "222.240", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Weil aber Freizeit ohne Geld auch nicht gl\u00fccklich macht, "
+   ]
+  }, 
+  {
+   "begin": "222.240", 
+   "children": [], 
+   "end": "225.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir staatliche Einnahmen und Ausgaben anders verteilen. "
+   ]
+  }, 
+  {
+   "begin": "225.840", 
+   "children": [], 
+   "end": "227.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Roboter erhalten schlie\u00dflich weder Lohn, "
+   ]
+  }, 
+  {
+   "begin": "227.760", 
+   "children": [], 
+   "end": "231.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "noch zahlen sie Steuern oder Sozialbeitr\u00e4ge. "
+   ]
+  }, 
+  {
+   "begin": "231.120", 
+   "children": [], 
+   "end": "232.600", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Die gute Nachricht ist aber, "
+   ]
+  }, 
+  {
+   "begin": "232.600", 
+   "children": [], 
+   "end": "234.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass die Wertsch\u00f6pfung weiter steigt. "
+   ]
+  }, 
+  {
+   "begin": "234.560", 
+   "children": [], 
+   "end": "237.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen also nur neue Formen der Umverteilung, "
+   ]
+  }, 
+  {
+   "begin": "237.040", 
+   "children": [], 
+   "end": "238.960", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "damit alle etwas davon haben,"
+   ]
+  }, 
+  {
+   "begin": "238.960", 
+   "children": [], 
+   "end": "248.200", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel Wertsch\u00f6pfungsabgaben und Verm\u00f6gensteuer auf der Einnahmenseite und neue Konzepte wie das bedingungslose Grundeinkommen auf der Ausgabenseite,"
+   ]
+  }, 
+  {
+   "begin": "248.200", 
+   "children": [], 
+   "end": "253.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dessen Tauglichkeit wir in einer Enquete-Kommission ernsthaft untersuchen sollten."
+   ]
+  }, 
+  {
+   "begin": "253.400", 
+   "children": [], 
+   "end": "258.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir den Menschen die Angst vor der Zukunft nehmen wollen, "
+   ]
+  }, 
+  {
+   "begin": "258.760", 
+   "children": [], 
+   "end": "260.560", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "brauchen wir ein soziales Sicherheitsnetz, "
+   ]
+  }, 
+  {
+   "begin": "260.560", 
+   "children": [], 
+   "end": "261.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "das vor allem eins ist: "
+   ]
+  }, 
+  {
+   "begin": "261.960", 
+   "children": [], 
+   "end": "262.920", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "sicher."
+   ]
+  }, 
+  {
+   "begin": "262.920", 
+   "children": [], 
+   "end": "269.760", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Alles das und noch viel mehr geh\u00f6rt in eine nationale Digitalisierungsstrategie, "
+   ]
+  }, 
+  {
+   "begin": "269.760", 
+   "children": [], 
+   "end": "271.040", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir eine positive, "
+   ]
+  }, 
+  {
+   "begin": "271.040", 
+   "children": [], 
+   "end": "274.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "sozial gerechte und enkeltaugliche Zukunft anstreben, "
+   ]
+  }, 
+  {
+   "begin": "274.440", 
+   "children": [], 
+   "end": "276.480", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "vor der niemand Angst haben muss. "
+   ]
+  }, 
+  {
+   "begin": "276.480", 
+   "children": [], 
+   "end": "280.960", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Bei der Entwicklung dieser Strategie m\u00fcssen wir aber junge Generationen einbeziehen; "
+   ]
+  }, 
+  {
+   "begin": "280.960", 
+   "children": [], 
+   "end": "286.720", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "denn sie werden am l\u00e4ngsten mit den Folgen leben m\u00fcssen und verdienen schon deshalb endlich mehr Mitsprache."
+   ]
+  }, 
+  {
+   "begin": "286.720", 
+   "children": [], 
+   "end": "288.920", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen finde ich, "
+   ]
+  }, 
+  {
+   "begin": "288.920", 
+   "children": [], 
+   "end": "292.080", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "dass Schwangerschaftsabbr\u00fcche nicht ins Strafgesetzbuch geh\u00f6ren."
+   ]
+  }, 
+  {
+   "begin": "292.080", 
+   "children": [], 
+   "end": "293.080", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "293.080", 
+   "children": [], 
+   "end": "303.000", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Der Kollege Maik Beermann spricht nun f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

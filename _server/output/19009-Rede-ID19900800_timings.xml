@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="dbtplenarprotokoll.css" type="text/css" charset="UTF-8"?>
+<!DOCTYPE dbtplenarprotokoll SYSTEM "dbtplenarprotokoll.dtd">
+<dbtplenarprotokoll herstellung="Satz: Satzweiss.com Print, Web, Software GmbH, Mainzer Straße 116, 66121 Saarbrücken, www.satzweiss.com, Druck: Printsystem GmbH, Schafwäsche 1-3, 71296 Heimsheim, www.printsystem.de" sitzung-datum="22.01.2018" sitzung-ende-uhrzeit="13:08" sitzung-naechste-datum="31.01.2018" sitzung-nr="9" sitzung-start-uhrzeit="11:02" start-seitennr="685" vertrieb="Bundesanzeiger Verlagsgesellschaft mbH, Postfach 1 0 05 34, 50445 Köln, Telefon (02 21) 97 66 83 40, Fax (02 21) 97 66 83 44, www.betrifft-gesetze.de" wahlperiode="19">
+  <vorspann>
+    <kopfdaten>
+      <plenarprotokoll-nummer>Plenarprotokoll <wahlperiode>19</wahlperiode>/<sitzungsnr>9</sitzungsnr></plenarprotokoll-nummer>
+      <herausgeber>Deutscher Bundestag</herausgeber>
+      <berichtart>Stenografischer Bericht</berichtart>
+      <sitzungstitel><sitzungsnr>9</sitzungsnr>. Sitzung</sitzungstitel>
+      <veranstaltungsdaten><ort>Berlin</ort>, <datum date="22.01.2018">Montag, den 22. Januar 2018</datum></veranstaltungsdaten>
+    </kopfdaten>
+    <inhaltsverzeichnis>
+      <ivz-titel>Inhalt:</ivz-titel>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Begrüßung der Delegation der Assemblée nationale mit dem Präsidenten, Herrn François de Rugy </ivz-eintrag-inhalt>
+        <a href="S685" typ="druckseitennummer"><seite>685</seite> <seitenbereich>B</seitenbereich></a>
+      </ivz-eintrag>
+      <ivz-block>
+        <ivz-block-titel>Tagesordnungspunkt 1:</ivz-block-titel>
+        <ivz-eintrag>
+          <ivz-eintrag-inhalt>Vereinbarte Debatte: 55 Jahre Élysée-Vertrag </ivz-eintrag-inhalt>
+          <a href="S685" typ="druckseitennummer"><seite>685</seite> <seitenbereich>A</seitenbereich></a>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193980">
+          <ivz-eintrag-inhalt><redner id="11001938"><name><vorname>Dr. Wolfgang</vorname><nachname>Schäuble</nachname><rolle><rolle_lang>Präsident Dr. Wolfgang Schäuble</rolle_lang><rolle_kurz>Präsident Dr. Wolfgang Schäuble</rolle_kurz></rolle></name></redner>Präsident Dr. Wolfgang Schäuble</ivz-eintrag-inhalt>
+          <xref div="A" pnr="685" ref-type="rede" rid="ID19900100">
+            <a href="S685" typ="druckseitennummer"><seite>685</seite> <seitenbereich>A</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193786">
+          <ivz-eintrag-inhalt><redner id="999999986755"><name><vorname>François</vorname><nachname>de Rugy</nachname><rolle><rolle_lang>Präsident der  Assemblée nationale</rolle_lang><rolle_kurz>Präsident der  Assemblée nationale</rolle_kurz></rolle></name></redner>François de Rugy, Präsident der  Assemblée nationale</ivz-eintrag-inhalt>
+          <xref div="A" pnr="686" ref-type="rede" rid="ID19900200">
+            <a href="S686" typ="druckseitennummer"><seite>686</seite> <seitenbereich>A</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193956">
+          <ivz-eintrag-inhalt><redner id="11001074"><name><vorname>Volker</vorname><nachname>Kauder</nachname><fraktion>CDU/CSU</fraktion></name></redner>Volker Kauder (CDU/CSU)</ivz-eintrag-inhalt>
+          <xref div="A" pnr="688" ref-type="rede" rid="ID19900300">
+            <a href="S688" typ="druckseitennummer"><seite>688</seite> <seitenbereich>A</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193959">
+          <ivz-eintrag-inhalt><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>SPD</fraktion></name></redner>Andrea Nahles (SPD)</ivz-eintrag-inhalt>
+          <xref div="B" pnr="689" ref-type="rede" rid="ID19900400">
+            <a href="S689" typ="druckseitennummer"><seite>689</seite> <seitenbereich>B</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193960">
+          <ivz-eintrag-inhalt><redner id="11004724"><name><titel>Dr.</titel><vorname>Alexander</vorname><nachname>Gauland</nachname><fraktion>AfD</fraktion></name></redner>Dr. Alexander Gauland (AfD)</ivz-eintrag-inhalt>
+          <xref div="A" pnr="691" ref-type="rede" rid="ID19900500">
+            <a href="S691" typ="druckseitennummer"><seite>691</seite> <seitenbereich>A</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193961">
+          <ivz-eintrag-inhalt><redner id="11004097"><name><vorname>Christian</vorname><nachname>Lindner</nachname><fraktion>FDP</fraktion></name></redner>Christian Lindner (FDP)</ivz-eintrag-inhalt>
+          <xref div="A" pnr="692" ref-type="rede" rid="ID19900600">
+            <a href="S692" typ="druckseitennummer"><seite>692</seite> <seitenbereich>A</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193963">
+          <ivz-eintrag-inhalt><redner id="11004183"><name><titel>Dr.</titel><vorname>Sahra</vorname><nachname>Wagenknecht</nachname><fraktion>DIE LINKE</fraktion></name></redner>Dr. Sahra Wagenknecht (DIE LINKE)</ivz-eintrag-inhalt>
+          <xref div="C" pnr="693" ref-type="rede" rid="ID19900700">
+            <a href="S693" typ="druckseitennummer"><seite>693</seite> <seitenbereich>C</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193965">
+          <ivz-eintrag-inhalt><redner id="11002746"><name><vorname>Cem</vorname><nachname>Özdemir</nachname><fraktion>BÜNDNIS 90/DIE GRÜNEN</fraktion></name></redner>Cem Özdemir (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+          <xref div="A" pnr="695" ref-type="rede" rid="ID19900800">
+            <a href="S695" typ="druckseitennummer"><seite>695</seite> <seitenbereich>A</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193967">
+          <ivz-eintrag-inhalt><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>CDU/CSU</fraktion></name></redner>Alexander Dobrindt (CDU/CSU)</ivz-eintrag-inhalt>
+          <xref div="A" pnr="696" ref-type="rede" rid="ID19900900">
+            <a href="S696" typ="druckseitennummer"><seite>696</seite> <seitenbereich>A</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193969">
+          <ivz-eintrag-inhalt><redner id="11004378"><name><vorname>Achim</vorname><nachname>Post</nachname><fraktion>SPD</fraktion><ortszusatz>(Minden)</ortszusatz></name></redner>Achim Post (Minden) (SPD)</ivz-eintrag-inhalt>
+          <xref div="C" pnr="697" ref-type="rede" rid="ID19901000">
+            <a href="S697" typ="druckseitennummer"><seite>697</seite> <seitenbereich>C</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193970">
+          <ivz-eintrag-inhalt><redner id="11004930"><name><titel>Dr.</titel><vorname>Alice</vorname><nachname>Weidel</nachname><fraktion>AfD</fraktion></name></redner>Dr. Alice Weidel (AfD)</ivz-eintrag-inhalt>
+          <xref div="A" pnr="699" ref-type="rede" rid="ID19901100">
+            <a href="S699" typ="druckseitennummer"><seite>699</seite> <seitenbereich>A</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193973">
+          <ivz-eintrag-inhalt><redner id="11003802"><name><vorname>Michael Georg</vorname><nachname>Link</nachname><fraktion>FDP</fraktion></name></redner>Michael Georg Link (FDP)</ivz-eintrag-inhalt>
+          <xref div="B" pnr="700" ref-type="rede" rid="ID19901200">
+            <a href="S700" typ="druckseitennummer"><seite>700</seite> <seitenbereich>B</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193974">
+          <ivz-eintrag-inhalt><redner id="11004255"><name><titel>Dr.</titel><vorname>Franziska</vorname><nachname>Brantner</nachname><fraktion>BÜNDNIS 90/DIE GRÜNEN</fraktion></name></redner>Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN)</ivz-eintrag-inhalt>
+          <xref div="B" pnr="701" ref-type="rede" rid="ID19901300">
+            <a href="S701" typ="druckseitennummer"><seite>701</seite> <seitenbereich>B</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193975">
+          <ivz-eintrag-inhalt><redner id="11003780"><name><vorname>Andreas</vorname><nachname>Jung</nachname><fraktion>CDU/CSU</fraktion></name></redner>Andreas Jung (CDU/CSU)</ivz-eintrag-inhalt>
+          <xref div="B" pnr="702" ref-type="rede" rid="ID19901400">
+            <a href="S702" typ="druckseitennummer"><seite>702</seite> <seitenbereich>B</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193976">
+          <ivz-eintrag-inhalt><redner id="11004851"><name><titel>Dr.</titel><vorname>Frauke</vorname><nachname>Petry</nachname><fraktion>fraktionslos</fraktion></name></redner>Dr. Frauke Petry (fraktionslos)</ivz-eintrag-inhalt>
+          <xref div="C" pnr="703" ref-type="rede" rid="ID19901500">
+            <a href="S703" typ="druckseitennummer"><seite>703</seite> <seitenbereich>C</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+        <ivz-eintrag media-id="7193979">
+          <ivz-eintrag-inhalt><redner id="11004050"><name><vorname>Jürgen</vorname><nachname>Hardt</nachname><fraktion>CDU/CSU</fraktion></name></redner>Jürgen Hardt (CDU/CSU)</ivz-eintrag-inhalt>
+          <xref div="A" pnr="704" ref-type="rede" rid="ID19901600">
+            <a href="S704" typ="druckseitennummer"><seite>704</seite> <seitenbereich>A</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
+      </ivz-block>
+      <ivz-eintrag>
+        <ivz-eintrag-inhalt>Nächste Sitzung</ivz-eintrag-inhalt>
+        <a href="S705" typ="druckseitennummer"><seite>705</seite> <seitenbereich>D</seitenbereich></a>
+      </ivz-eintrag>
+      <ivz-block>
+        <ivz-block-titel>Anlage</ivz-block-titel>
+        <ivz-eintrag>
+          <ivz-eintrag-inhalt>Liste der entschuldigten Abgeordneten </ivz-eintrag-inhalt>
+          <a href="S707" typ="druckseitennummer"><seite>707</seite> <seitenbereich>A</seitenbereich></a>
+        </ivz-eintrag>
+      </ivz-block>
+    </inhaltsverzeichnis>
+  </vorspann>
+  <sitzungsverlauf>
+    <sitzungsbeginn sitzung-start-uhrzeit="11:02">
+      <a id="S685" name="S685" typ="druckseitennummer"/>
+
+         <a id="S685" name="S685" typ="druckseitennummer"/>
+
+      <p klasse="N">Präsident Dr. Wolfgang Schäuble:</p>
+
+      <p klasse="J_1">Guten Morgen, liebe Kolleginnen und Kollegen! Bitte nehmen Sie Platz.</p>
+
+    </sitzungsbeginn>
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 1">
+      <rede id="ID19900100" media-id="7193980">
+        <p klasse="redner">
+
+        <redner id="11001938"><name><vorname>Dr. Wolfgang</vorname><nachname>Schäuble</nachname><rolle><rolle_lang>Präsident Dr. Wolfgang Schäuble</rolle_lang><rolle_kurz>Präsident Dr. Wolfgang Schäuble</rolle_kurz></rolle></name></redner>Präsident Dr. Wolfgang Schäuble</p>
+        <p klasse="T_NaS">1. Vereinbarte Debatte</p>
+        <p klasse="T_fett">55 Jahre Élysée-Vertrag</p>
+        <p klasse="J">Liebe Kolleginnen und Kollegen aus der Assemblée nationale und aus dem Deutschen Bundestag! Heute ist ein Tag der Parlamente. Wir debattieren in den Parlamenten in Berlin und in Paris eine Resolution, die allein im parlamentarischen Raum entstanden ist.</p>
+        <p klasse="J">Wir wissen: Wir brauchen Regierungen – gewählte Regierungen, nicht nur geschäftsführende. Die Sozialdemokratische Partei Deutschlands hat gestern auf ihrem Parteitag für die Aufnahme von Koalitionsverhandlungen gestimmt. Nicht nur die Bürgerinnen und Bürger in Deutschland warten darauf, dass es nach nunmehr vier Monaten seit der Bundestagswahl bald eine voll handlungsfähige Regierung gibt. Darauf warten auch und vor allem unsere Freunde und Partner in Europa und in der Welt.</p>
+        <p klasse="J">Wir debattieren heute eine gleichlautende Resolution von Assemblée nationale und Deutschem Bundestag, und ich begr üße dazu die Mitglieder der Delegation aus dem französischen Parlament</p>
+        <kommentar>(Anhaltender Beifall)</kommentar>
+        <p klasse="O">mit seinem Präsidenten François de Rugy an der Spitze. Seien Sie uns herzlich willkommen!</p>
+        <kommentar>(Beifall)</kommentar>
+        <p klasse="J">Es ehrt uns, dass Sie unserer Sitzung beiwohnen. Das ist kein Festakt heute, sondern das ist eine Debatte. Es ist aber ein besonderer Anlass, und deswegen haben wir uns darauf verständigt, Präsident de Rugy zu bitten, in unserer Sitzung heute zu uns zu sprechen. Auch ich werde heute Nachmittag mit einer Delegation des Hohen Hauses in Paris zu Gast sein und Gelegenheit haben, mich an unsere französischen Kolleginnen und Kollegen zu wenden. Ich danke Ihnen, lieber François de Rugy, dass Sie gleich zu uns sprechen.</p>
+        <p klasse="J">Dieser wechselseitige Besuch folgt fast schon einer Tradition nach den gemeinsamen Sitzungen beider Parlamente 2003 in Versailles und 2013 hier in Berlin. Er ist trotzdem nicht selbstverständlich. Er ist Ausdruck der ganz besonderen Beziehungen unserer beiden Staaten. An einem 22. Januar wurde in Paris der Élysée-Vertrag unterzeichnet – das war 1963 –, und das hat die politischen Beziehungen zwischen Deutschland und Frankreich verändert – glücklich verändert.</p>
+        <p klasse="J">Aber auch die Welt ändert sich beständig und mit ihr die Herausforderungen für unsere beiden Länder. Deshalb nehmen wir den 55. Jahrestag zum Anlass, um gemeinsam die Grundlagen unserer engen Zusammenarbeit weiterzuentwickeln. Die dazu in den vergangenen Wochen erarbeitete Resolution trägt den unterschiedlichen Akteuren der deutsch-französischen Freundschaft Rechnung. Sie nimmt uns als Parlamentarier in die Pflicht, und sie fordert die Regierungen auf, ihre Verantwortung wahrzunehmen. Beides braucht es; denn auf unsere beiden Staaten kommen besondere Aufgaben im zusammenwachsenden Europa zu. Wir spüren doch die Erwartungen, die sich an uns richten, gerade auch von unseren Nachbarn. Wir vergessen darüber nicht die eigentlichen Grundlagen unserer Partnerschaft. Das sind die engen zivilgesellschaftlichen Kontakte: in den Grenzregionen, in den Städtepartnerschaften, im Jugendwerk und in den zahlreichen deutsch-französischen Gesellschaften. Sie erst ermöglichen es uns, auch politisch zueinanderzufinden. Dazu brauchte es nach der Epoche verheerender Weltkriege kluge, mutige Menschen, die halfen, aufeinander zuzugehen.</p>
+        <kommentar>(Beifall)<a id="S686" name="S686" typ="druckseitennummer"/></kommentar>
+        <p klasse="J">Einer von ihnen ist Joseph Rovan. Er wurde vor 100 Jahren als Joseph Rosenthal in München geboren, 1918, als der Erste Weltkrieg endete, la Grande Guerre, wie unsere französischen Freunde noch immer sagen. Er fand später vor den Nationalsozialisten in Frankreich Schutz und eine neue Heimat. Er kämpfte in der Résistance für die Freiheit, er überlebte das KZ Dachau. Als Franzose mit deutschen Wurzeln erhielt er 1968, vor 50 Jahren, eine Professur für deutsche Geschichte und Politik in Paris. Wir schulden vielen großen Persönlichkeiten der Aussöhnung Dank. Unter ihnen hat Joseph Rovan wesentlich dazu beigetragen, dass aus Feinden Freunde geworden sind, und wenn wir heute über die gemeinsame Resolution debattieren, dann auch im Geiste dieses Mannes. Wir wissen um die Geschichte, natürlich; aber wir wollen unsere gemeinsame Zukunft gestalten, so wie es Joseph Rovan auf den Punkt brachte, als er über Deutsche und Franzosen an der Schwelle zum 21. Jahrhundert schrieb: „Zwei Völker – eine Zukunft“. Heute, unter den Bedingungen der Globalisierung, gilt für Frankreich und Deutschland mehr denn je: Diese Zukunft, unsere gemeinsame Zukunft, liegt in Europa.</p>
+        <p klasse="J">Monsieur le Président, cher collègue, cher François de Rugy, vous avez la parole. – Das Wort hat der Präsident der französischen Nationalversammlung.</p>
+        <kommentar>(Beifall)</kommentar>
+      </rede>
+      <rede id="ID19900200" media-id="7193786">
+        <p klasse="redner"><redner id="999999986755"><name><vorname>François</vorname><nachname>de Rugy</nachname><rolle><rolle_lang>Präsident der  Assemblée nationale</rolle_lang><rolle_kurz>Präsident der  Assemblée nationale</rolle_kurz></rolle></name></redner>François de Rugy, Präsident der  Assemblée nationale</p>
+        <p klasse="J_1">Herr Bundestagspräsident! Frau Bundeskanzlerin! Liebe Kollegen! Liebe Gäste! Zunächst einmal vielen Dank. Vielen Dank, Herr Bundestagspräsident, für Ihre Gastfreundschaft. Vielen Dank, meine Damen und Herren Abgeordnete, für Ihren Empfang. Und ein besonderer Dank gilt denen unter Ihnen, die den Text der Resolution verfasst haben.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</kommentar>
+        <p klasse="O">Sie wird heute Morgen hier in Berlin und heute Nachmittag in Paris eingesehen. Das war eine enge Zusammenarbeit zwischen unseren beiden Parlamenten. Das macht diesen Tag zu einem besonderen Tag.</p>
+        <p klasse="J">Vor genau 55 Jahren haben zwei Männer, Konrad Adenauer und Charles de Gaulle, einen Weg geebnet: den Weg zur Aussöhnung zwischen zwei skeptischen und feindseligen Völkern. Der eine wie auch der andere hatte die Strapazen der beiden Weltkriege erlebt. Und dem einen wie dem anderen waren auch die verpassten Chancen zwischen unseren beiden Ländern bewusst.</p>
+        <p klasse="J">Mit der Unterzeichnung des Élysée-Vertrags ist es ihnen gelungen, den Konformismus zu überwinden. Dieser Konformismus hatte 35 Jahre vorher das Werk von ­Aristide Briand und Gustav Stresemann zunichtegemacht. Das sollten wir uns heute zu Herzen nehmen: So sicher wie Nationalismus zum Krieg führt, so sicher führt Konformismus zu Machtlosigkeit.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD)</kommentar>
+        <p klasse="J">Der heutige Jahrestag des Élysée-Vertrags erhält eine besondere Dimension. Unsere beiden Parlamente werden heute nicht nur Orte für Reden sein. Sie erfüllen ihre wesentlichen Funktionen in einer Demokratie. Sie sind Orte der Debatte. Sie werden Orte der Entscheidung durch Abstimmung sein. Heute geht es darum, das bisher Erreichte zu würdigen, die aktuelle Lage klar zu analysieren und uns konkret auf unsere Zukunft vorzubereiten.</p>
+        <p klasse="J">Die Vergangenheit – wer spürt sie nicht in diesem für das deutsche Volk, aber auch für Europa so symbolhaften Gebäude? Diese Vergangenheit schildert uns die Gefahren des Populismus. Er beginnt immer mit der Ablehnung des Fremden, dann kommt die Ablehnung des anderen. Er zersprengt Gesellschaften und legt schließlich die Demokratie in Schutt und Asche.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Diese Vergangenheit schildert uns, in welche Sackgasse ein aggressiver Nationalismus führt. Er lehnt die Völker gegeneinander auf und endet im Krieg. Aber die nahe Vergangenheit schildert uns auch die Willenskraft, Spaltungen zu überwinden, ein Volk wieder zu vereinen, die Demokratie wiederherzustellen und der nationalen Geschichte eine breitere Perspektive zu verleihen: die Perspektive Europa.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD und der LINKEN)</kommentar>
+        <p klasse="J">Ja, die Mauern hier sprechen, die Steine hier sprechen – die, die noch da sind, aber auch die verschwundenen. Diese neue Glaskuppel ermuntert uns, uns zu öffnen und in die Ferne zu blicken. Dieser Ort erzählt uns eine Geschichte, erzählt uns von uns selbst: Er spricht von Ihnen, den Deutschen, und er spricht auch zu mir, dem Franzosen, sowie zu allen Europäern.</p>
+        <p klasse="J">Die deutsch-französische Freundschaft als Fundament Europas zu betrachten, bedeutet natürlich nicht, die anderen Partner unter die Aufsicht eines deutsch-französischen Direktoriums zu stellen. Das europäische Projekt ist und bleibt seit 1957 eine Partnerschaft zwischen Nationen, die gleiche Rechte haben.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD)</kommentar>
+        <p klasse="J">Doch betrachten wir einmal die Realität: Wenn Frankreich und Deutschland sich bekämpfen, gibt es keinen Frieden in Europa. Wenn Frankreich und Deutschland sich ignorieren oder zusammen sprechen, ohne einen richtigen Dialog zu führen, oder einander zuhören, ohne sich wirklich zu verstehen, dann kommt Europa kaum von der Stelle.</p>
+        <p klasse="J">Unser Europa hat die Schuldenkrise überwunden.</p>
+        <kommentar>(Lachen bei Abgeordneten der AfD)</kommentar>
+        <p klasse="O">Es hat auch die Risiken des Brexits eingedämmt.</p>
+        <p klasse="J">Doch unser Europa wird auch von Zweifeln, sozialen und wirtschaftlichen Problemen, neuen Bedrohungen geplagt. Nur gemeinsam können wir eine Lösung für die Migrationskrise finden.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD)<a id="S687" name="S687" typ="druckseitennummer"/></kommentar>
+        <p klasse="O">Nur gemeinsam können wir der Konkurrenz neuer Weltmächte widerstehen. Diese Bedrohungen betreffen jede unserer Nationen. Unsere Gesellschaften können versucht sein, sich abzuschotten. Dieses Risiko ist wahrnehmbar. Populismus und nationalistische Bewegungen bedrohen alle europäischen Nationen,</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">auch die reichsten, auch die Gesellschaften mit einer tiefen demokratischen Kultur. Das ist uns bekannt, euch Deutschen und uns Franzosen.</p>
+        <p klasse="J">Diese Bedrohungen kommen von außen: Terroranschläge weltweit, insbesondere jedoch in Europa. Manche Länder, auch in Europa, entwickeln sich zu echten Diktaturen oder zu illiberalen Demokratien.</p>
+        <p klasse="J">Die demokratischen Werte, die wir teilen, stehen für eine bestimmte Vision einer internationalen Ordnung: den Multilateralismus. Die multilaterale Methode – nämlich verhandeln und nach Kompromissen suchen – ist das Erfolgsrezept Europas.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Ohne Multilateralismus gibt es keine Lösung für den Klimawandel.</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU, der SPD, der FDP und der LINKEN)</kommentar>
+        <p klasse="O">Unser Europa basiert auf Verträgen. Wir müssen sie einhalten. So entsteht Vertrauen. Und endlich hält sich Frankreich daran.</p>
+        <p klasse="J">Das ist notwendig, aber nicht ausreichend. Denn Europa ist vor allem eine großartige Idee. Doch seit 20 Jahren verbreiten sich Misstrauen und Skepsis in der europäischen Öffentlichkeit. Wir brauchen neue Methoden, um Lehren aus den Erfolgen sowie aus den Misserfolgen von gestern zu ziehen. Europa kann nicht nur die Ambition einiger weniger Politiker sein, so aufrichtig und überzeugt sie auch sein mögen. Im Frühling beginnen in Frankreich Bürgerbefragungen zu Europa. Ich wünsche mir, dass viele Länder folgen. Die Bürger müssen endlich im Mittelpunkt des europäischen Projekts stehen.</p>
+        <kommentar>(Beifall im ganzen Hause)</kommentar>
+        <p klasse="J">Zwar ist Europa nicht nur eine Frage der deutsch-französischen Zusammenarbeit, aber die Stärkung der Zusammenarbeit zwischen unseren beiden Ländern ist eine Voraussetzung für die Stärkung Europas.</p>
+        <kommentar>(Beifall bei Abgeordneten der SPD)</kommentar>
+        <p klasse="J">Wir haben eine Verantwortung. Diese Ambition verbinden wir heute mit einem neuen Élysée-Vertrag. Der Ihnen vorliegende Text wurde von einer Gruppe von Abgeordneten ausgearbeitet. Sie bringen sich seit langem in die Beziehungen zwischen unseren beiden Ländern ein. Ich möchte Ihnen noch einmal für Ihre Arbeit danken.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</kommentar>
+        <p klasse="O">Sie ist eine seriöse Grundlage, um die Zukunft in Bezug auf wichtige Themen zu planen, zum Beispiel das gegenseitige Erlernen unserer Sprachen – wie Sie hören, muss ich noch Fortschritte machen –,</p>
+        <kommentar>(Heiterkeit – Widerspruch)</kommentar>
+        <p klasse="O">zum Beispiel die industriellen Möglichkeiten in der digitalen Wirtschaft, zum Beispiel die Eurodistrikte, die die Grenzen zwischen unseren beiden Ländern quasi auslöschen. Das ist eine andere menschliche Realität der deutsch-französischen Beziehung. Dieser Text ist den Ideen des Élysée-Vertrags treu: Er blickt in die Zukunft.</p>
+        <p klasse="J">Frankreich und Deutschland sind nicht mehr nur ein Paar: Unsere beiden Länder sind eine Familie!</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD)</kommentar>
+        <p klasse="O">Deutlich machen wir das auch mit dieser kollektiven parlamentarischen Sitzung. Unsere Parlamente müssen zusammenarbeiten, wollen gemeinsam arbeiten. Und es beginnt mit diesem Text heute. Diese Veranstaltung, an der wir heute gemeinsam teilnehmen, ist innovativ.</p>
+        <p klasse="J">Vielleicht können wir uns gemeinsam etwas wünschen: dass in der Geschichte, die diese Mauern, diese Steine ihren zukünftigen Besuchern erzählen, unsere gemeinsam verbrachten Momente ihren Platz finden und eine Spur hinterlassen.</p>
+        <p klasse="J">Ich danke Ihnen.</p>
+        <kommentar>(Langanhaltender Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie der Delegation der Assemblée nationale – Beifall bei der AfD – Die Fraktionen der CDU/CSU, der SPD, der FDP, der LINKEN, des BÜNDNISSES 90/DIE GRÜNEN, Abgeordnete der AfD sowie die Delegation der Assemblée nationale erheben sich)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Vielen Dank, Herr Präsident, für diese große, eindrucksvolle Rede. Was Ihre Deutschkenntnisse anbetrifft, haben Sie mir die Hürde hoch gelegt.</p>
+        <kommentar>(Heiterkeit)</kommentar>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, zu der Vereinbarten Debatte zum Tagesordnungspunkt „55 Jahre Élysée-Vertrag“, der der einzige Tagesordnungspunkt unserer heutigen Sitzung ist, liegt uns ein Entschließungsantrag der Fraktionen der CDU/CSU, SPD, FDP und Bündnis 90/Die Grünen zu einer gemeinsamen Resolution von Deutschem Bundestag und Assemblée nationale vor. Die Fraktion Die Linke hat einen weiteren Entschließungsantrag eingebracht.</p>
+        <p klasse="J">Nach einer interfraktionellen Vereinbarung sind für die Aussprache 80 Minuten vorgesehen. – Ich sehe und höre keinen Widerspruch. Dann ist das so beschlossen.<a id="S688" name="S688" typ="druckseitennummer"/></p>
+        <p klasse="J">Dann eröffne ich die Aussprache. Als erster Redner hat der Fraktionsvorsitzende der CDU/CSU, Volker Kauder, das Wort.</p>
+        <kommentar>(Beifall bei der CDU/CSU)</kommentar>
+      </rede>
+      <rede id="ID19900300" media-id="7193956">
+        <p klasse="redner"><redner id="11001074"><name><vorname>Volker</vorname><nachname>Kauder</nachname><fraktion>CDU/CSU</fraktion></name></redner>Volker Kauder (CDU/CSU):</p>
+        <p klasse="J_1">Sehr geehrter Herr Präsident! Liebe Kolleginnen und Kollegen aus Frankreich! Meine sehr verehrten Damen und Herren! Der heutige Tag ist ein bedeutender Tag – für Deutschland und Frankreich und für Europa. Ich möchte mich herzlich bedanken bei Ihnen, Herr Präsident, für diese Rede. Sie haben erkennen können, dass fast – fast – das ganze Haus Ihnen zugestimmt hat. Herzlichen Dank für Ihre Botschaft und für die Freundschaft, die uns verbindet.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD)</kommentar>
+        <p klasse="J">Ich selbst komme aus dem südlichen Baden-Württemberg. Meine Heimat war nach dem Zweiten Weltkrieg französisch besetzte Zone. Wenige haben sich in diesen Zeiten vorstellen können, dass wir einmal zu Freunden werden. Es gab aber auch schon damals eine Reihe von Menschen in unserer Heimat, die dafür geworben haben, Städtepartnerschaften zu beginnen und in unseren Schulen Französischunterricht durchzuführen, auch wenn viele Eltern der Meinung waren, Englisch zu lernen sei viel wichtiger, als die Sprache des Nachbarn zu lernen. Umso erfreulicher die Entwicklung.</p>
+        <p klasse="J">Ich muss sagen: Die ersten Begegnungen in unseren Städten und Gemeinden waren vor allem getragen von einem großen Optimismus und einer großen Freude der französischen Menschen, die zu uns gekommen sind. Die Franzosen haben es uns nach dem Zweiten Weltkrieg leicht gemacht, ihr Angebot auf Freundschaft anzunehmen. Auch dafür herzlichen Dank.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD und der LINKEN )</kommentar>
+        <p klasse="J">Heute kann man sich gar nicht mehr vorstellen, dass es in unserem Land möglich wäre, für einen Krieg gegen Frankreich zu mobilisieren; ausgeschlossen. Dies hat etwas damit zu tun, dass wir Frankreich als einen Teil von uns betrachten. Das gilt vor allem für diejenigen, die unmittelbar an der deutsch-französischen Grenze wohnen, im Breisgau, im Nordbadischen. Liebe Freundinnen und Freunde aus Frankreich, wir haben den herzlichen Wunsch – wir wissen, dass auch Sie daran arbeiten; wir wünschen uns, dass es noch schneller ginge –, dass die deutsch-französische Freundschaft über die Grenzen hinweg durch gemeinsame Projekte noch intensiver gestaltet werden kann. Nicht in Paris und nicht in Berlin soll darüber entschieden werden, sondern in den Grenzregionen muss entschieden werden, was gemeinsam gemacht werden soll.</p>
+        <kommentar>(Beifall bei Abgeordneten der CDU/CSU, der SPD, der FDP und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Meine sehr verehrten Damen und Herren, dies ist auch ein Symbol dafür, wie wir uns die Zusammenarbeit vorstellen: Europa und auch Deutschland und Frankreich müssen sich um das Große kümmern und nicht um die kleineren Dinge. Diese können nach dem Prinzip der Subsidiarität in den Regionen selbst geregelt werden. Wir in Berlin und Sie in Paris wissen gar nicht, was die eigentlichen Probleme vor Ort sind. Lasst die Menschen dort zusammenkommen und ihre Dinge selber regeln,</p>
+        <kommentar>(Beifall bei Abgeordneten der CDU/CSU, der AfD und der FDP)</kommentar>
+        <p klasse="O">und wir kümmern uns um die großen Dinge.</p>
+        <p klasse="J">Ja, Europa ist mehr als die deutsch-französische Beziehung; aber wenn die deutsch-französische Achse nicht funktioniert, wenn es zwischen Deutschland und Frankreich stockt, dann kommt auch Europa nicht voran. Deswegen wollen wir jetzt wirklich rasch den Franzosen und dem französischen Präsidenten eine Antwort auf seine Anregungen zu Europa geben. Deswegen ist es so dringend notwendig, dass wir in Deutschland jetzt Antworten geben.</p>
+        <p klasse="J">Aber dieser Tag heute hat auch etwas Besonderes, ja etwas Einmaliges. Denn bisher wurde die Zusammenarbeit in Europa immer als eine Zusammenarbeit der nationalen Regierungen verstanden. Es ist uns im Parlament, um es einmal vorsichtig zu formulieren, nicht leichtgefallen, den nationalen Regierungen auf europäischer Ebene zu folgen – wenn ich nur daran denke, wie wenig effektiv wir bisher bei der sogenannten Subsidiaritätskontrolle waren. Insofern ist der heutige Tag, an dem wir ein Parlamentsabkommen ankündigen, für das die vorbereitenden Arbeiten stattfinden, etwas Einmaliges, das es bisher mit keinem anderen Land gegeben hat. Dies ist eine Botschaft: Nicht nur die Regierungen, sondern auch die Parlamente wollen enger zusammenarbeiten und Impulse für die deutsch-französische Freundschaft geben.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Ich hatte aufgrund der Erfahrungen der Vergangenheit zunächst Bedenken, ob dies wirklich gelingen kann. Ermutigt hat mich und sicher uns alle, dass es gelungen ist, den Text einer gemeinsamen Resolution, die wir heute verabschieden können, hinzubekommen. Wenn man in den Text hineinschaut, stellt man fest: Er ist nicht nur schöne Prosa, sondern es wird, was die Zusammenarbeit anbelangt, ganz konkret. Deswegen, glaube ich, haben wir allen Grund, einen Dank auszusprechen. Was am Anfang schier unmöglich schien – im französischen Parlament und bei uns einen gemeinsamen Text voranzubringen –, ist gelungen. Herzlichen Dank an die Kolleginnen und Kollegen, die dies auf den Weg gebracht haben.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)<a id="S689" name="S689" typ="druckseitennummer"/></kommentar>
+        <p klasse="J">Meine sehr verehrten Damen und Herren, die Zusammenarbeit zwischen Deutschland und Frankreich muss konkreter werden, und sie muss wieder Projekte beinhalten. Ich bin sehr froh darüber, dass in dieser Resolution auch Projekte genannt wurden. Was möglich ist, wenn Deutschland und Frankreich eng zusammenstehen, haben wir im Fall Airbus erlebt. Deswegen: Wenn wir eng zusammenstehen, kann etwas möglich werden, was für uns in Europa dringend notwendig ist. Wir sind sowohl bei der Digitalisierung als auch im Hinblick auf Unternehmen im Softwarebereich, die für die Digitalisierung notwendig sind, bei weitem nicht auf Platz eins in der Welt. Das muss sich ändern. Deswegen begrüße ich außerordentlich, dass ein gemeinsames deutsch-französisches Projekt „Künstliche Intelligenz“ vorangebracht wird. Ich wünsche mir, dass es dabei schneller vorangeht als beim Flughafen in Berlin, meine sehr verehrten Damen und Herren.</p>
+        <kommentar>(Heiterkeit und Beifall bei Abgeordneten der CDU/CSU, der SPD, der FDP und des BÜNDNISSES 90/DIE GRÜNEN – Zurufe: Das ist ja auch nicht schwer! – Noch schneller?)</kommentar>
+        <p klasse="O">– Manche fragen schon scherzhaft: „Noch schneller?“, aber ich finde, das muss auf jeden Fall schneller gehen.</p>
+        <kommentar>(Christian Lindner [FDP]: Sehr ehrgeizig!)</kommentar>
+        <p klasse="J">Dieser Tag heute wird die deutsch-französische Freundschaft neu kräftigen und neu voranbringen, vor allem dann, wenn wir alle den Willen haben, uns zu beteiligen; denn Deutschland und Frankreich sind eine große Achse. Europa steht vor einer großen Herausforderung. Ich möchte das in einer einzigen Aussage zusammenfassen: Europa muss eine gute Zukunft haben, aber Europa wird nur ohne Nationalismus eine gute Zukunft haben, meine sehr verehrten Damen und Herren.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Heute vor 100 Jahren herrschte der Erste Weltkrieg. Was wir in dieser Zeit alles überwunden haben, verdanken wir Europa. Es ist die größte Vision unserer Generation gewesen, dass Europa das wahrmacht, was die Menschen nach dem Zweiten Weltkrieg gesagt haben: Nie wieder Krieg in Europa und nie wieder Krieg aus Europa! Dafür, dass dies gelungen ist, dürfen wir jeden Tag dankbar sein.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD)</kommentar>
+        <p klasse="J">Es lebe die deutsch-französische Freundschaft!</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD und der LINKEN)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Vielen Dank. – Jetzt erteile ich das Wort der SPD-Fraktionsvorsitzenden Andrea Nahles.</p>
+        <kommentar>(Beifall bei Abgeordneten der SPD)</kommentar>
+      </rede>
+      <rede id="ID19900400" media-id="7193959">
+        <p klasse="redner"><redner id="11003196"><name><vorname>Andrea</vorname><nachname>Nahles</nachname><fraktion>SPD</fraktion></name></redner>Andrea Nahles (SPD):</p>
+        <p klasse="J_1">Sehr geehrter Herr Präsident der Nationalversammlung, Monsieur de Rugy! Sehr geehrter Herr Präsident Schäuble! Liebe Kolleginnen und Kollegen! Liebe Gäste! Ja, das war ein besonderer Tag, der 22. Januar 1963. Es war ein Tag der Versöhnung, aber es war auch ein Tag des Aufbruchs in eine neue Ära der deutsch-französischen Beziehungen.</p>
+        <p klasse="J">Seit Charles de Gaulle und Konrad Adenauer diesen Aufbruch durch die Unterzeichnung des Élysée-Vertrages möglich gemacht haben, sind nun 55 Jahre vergangen. In diesen 55 Jahren ist deutlich geworden: Die deutsch-französischen Beziehungen sind – das kann man wohl mit Fug und Recht behaupten – einzigartig, aber sie sind nicht selbstverständlich. Ganz im Gegenteil: Sie sind ein Schatz, ein wirklich wertvoller Schatz, den es zu pflegen gilt.</p>
+        <kommentar>(Beifall bei der SPD und der CDU/CSU sowie bei Abgeordneten der FDP, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Wir alle hier stehen in der Pflicht und in der Verantwortung, dieses Erbe zu bewahren und mit der Resolution, die wir heute hier verabschieden, weiterzuführen, weiterzuentwickeln und zu vertiefen.</p>
+        <p klasse="J">Die Zivilgesellschaft und die Menschen in den Städten und Gemeinden waren die eigentlichen Motoren, die vor 55 Jahren hinter diesem Vertrag standen, sie haben den Versöhnungsprozess ganz konkret ermöglicht. In meiner Heimatstadt Mayen, in der ich zur Schule gegangen bin, wurde direkt nach der Unterzeichnung eine Städtepartnerschaft mit Joigny eingegangen, die auch weiterhin lebendig ist; jedes Jahr finden mindestens zwei bis drei Besuche statt. Mittlerweile gibt es in Deutschland 22 Regional- und 2 200 dieser Städtepartnerschaften, 4 300 Schulpartnerschaften und 40 Partnerschulen mit bilingualem Unterricht. Das ist das Rückgrat dieser deutsch-französischen Freundschaft,</p>
+        <kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU, der FDP, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">die nicht nur in diesem Parlament gelebt wird, sondern auch in unseren Ländern, in den Schulen und den Städten und Gemeinden. Ich denke, dass dieses enge Netz immer weiter geflochten werden muss.</p>
+        <p klasse="J">Das alles ist möglich geworden, weil Vertrauen gewachsen ist, beispielsweise durch den Händedruck zwischen Staatspräsident Mitterrand und Bundeskanzler Kohl in Verdun 1984, an den ich hier erinnern möchte, oder durch die gemeinsame Teilnahme von Bundeskanzler Schröder und Staatspräsident Chirac an den Feierlichkeiten anlässlich des 60. Jahrestags der Landung der Alliierten in der Normandie 2004. All dies wäre ohne das gegenseitige Vertrauen nicht möglich gewesen. Gerade wir Deutschen sagen für dieses Vertrauen Danke.</p>
+        <kommentar>(Beifall bei der SPD, der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)<a id="S690" name="S690" typ="druckseitennummer"/></kommentar>
+        <p klasse="J">Ich komme aus Rheinland-Pfalz; das ist eine Gemeinsamkeit mit dem Kollegen Kauder. Dort gibt es allein schon aufgrund der geografischen Lage zahlreiche Berührungspunkte zu den französischen Nachbarn. Es gibt zahlreiche Möglichkeiten, die deutsch-französische Freundschaft zu pflegen, übrigens auch kulinarisch,</p>
+        <kommentar>(Heiterkeit und Beifall bei Abgeordneten der SPD und der CDU/CSU)</kommentar>
+        <p klasse="O">kulturell, aber natürlich auch gesellschaftspolitisch. So wurden beispielsweise in den letzten drei Jahren bereits 33 rheinland-pfälzische Kitas in das Kitanetzwerk „Élysée 2020“ aufgenommen; bis zum Jahr 2020 sollen es insgesamt 200 zweisprachige Kitas sein. Diese Vernetzung, die dann auch wieder weiterführt, ist ganz zentral.</p>
+        <p klasse="J">Als ehemalige Bundesarbeitsministerin darf ich daran erinnern, dass in den Grenzregionen auch die Arbeitsagenturen sehr intensiv zusammenarbeiten. Mittlerweile ist es möglich, dass sich in den Grenzregionen französische wie deutsche Arbeitnehmer, die im anderen Land arbeiten, auch auf die jeweilige Arbeitsagentur beziehen können. Diese Arbeit läuft erfolgreich, und ich möchte sagen, dass wir mehr von diesen ganz konkreten Projekten brauchen, die das vertiefen und festigen, was Europa ausmacht: ein Europa ohne Grenzen, in dem wir auch in Zukunft keine Grenzen mehr wollen. Wenn es noch solche Grenzen gibt – auch in den Köpfen –, müssen wir weiter daran arbeiten, sie zu überwinden. Das muss unser Ziel bleiben, und das ist der entscheidende Auftrag, den ich auch heute mitnehme.</p>
+        <kommentar>(Beifall bei der SPD, der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</kommentar>
+        <p klasse="J">Es ist auch darüber gesprochen worden, dass die Integration der Zuwanderer und der geflüchteten Menschen eine Anstrengung ist, die unsere beiden Länder intensiv beschäftigt. Auch hier haben wir einen Weg gefunden, uns auszutauschen, nämlich über den Deutsch-Französischen Integrationsrat, den ich hier ausdrücklich erwähnen möchte. Hier tauschen wir uns aus, hier wird voneinander profitiert, hier wird im Dialog versucht, nach Lösungen zu ringen. Ich will ausdrücklich betonen: Das ist eine wichtige Maßnahme, um Integration zu ermöglichen, Fremdheit abzubauen und deutlich zu machen, dass dieses Europa ein Gemeinschaftsprojekt ist, aber auch ein Projekt der Weltoffenheit und der Toleranz.</p>
+        <kommentar>(Beifall bei der SPD)</kommentar>
+        <p klasse="J">Ich kämpfe dafür, dass dieser gemeinsame deutsch-französische Austausch auch über unsere beiden Länder hinaus der Geist Europas wird und bleibt. In diesen Tagen ist es ja nicht mehr selbstverständlich, dass man das so sagt.</p>
+        <kommentar>(Beifall bei der SPD, der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</kommentar>
+        <p klasse="J">Wir möchten auch ganz klar sagen, dass wir einen neuen Aufbruch für Europa brauchen. Es ist nicht nur der Blick zurück, der uns mit Freude erfüllt, sondern es ist auch die Erwartung, dass wir gemeinsam für die Zukunft Europas viel hinbekommen müssen und wollen. Deswegen ist es für uns in diesen Tagen, in denen wir uns hier in Deutschland um eine Regierungsbildung bemühen, wichtig, dass wir auch die Rede von Staatspräsident Macron vor der Pariser Sorbonne würdigen.</p>
+        <kommentar>(Beifall bei Abgeordneten der SPD)</kommentar>
+        <p klasse="O">Sie hat bei uns hier viel Anklang gefunden, weil wir sie als ein großes proeuropäisches Signal verstanden haben. Deshalb möchte ich an dieser Stelle auch sagen: Danke, dass der französische Staatspräsident diesen Antritt gemacht hat. Wir werden mit gleicher Ernsthaftigkeit und mit gleicher Entschlossenheit mit den Franzosen weiter an diesem Pakt für Europa zusammenarbeiten.</p>
+        <kommentar>(Beifall bei der SPD, der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Wir wollen eine progressive Europapolitik, und wir wollen die Erneuerung der EU mit ganzer Kraft vorantreiben. Ich darf sagen, dass wir insbesondere auch die Menschen – so ist es hier von Ihnen formuliert worden, Herr de Rugy – in den Mittelpunkt stellen wollen. Das heißt doch zum Beispiel, dass wir auch konsequent gegen Lohndumping und soziale Ungleichheiten in Europa vorgehen. Das heißt aber auch, dass wir unsere Interessen wahren – auch gegenüber Großkonzernen –, wenn es um Steuerdumping geht.</p>
+        <p klasse="J">Das heißt doch, dass wir hier ganz klar einen neuen Aufschlag für ein sozialeres Europa, ein bürgernäheres Europa brauchen, und das können wir beide, Franzosen und Deutsche, aus meiner Sicht ganz hervorragend vorantreiben. In diesem Zusammenhang sehe ich viele Verknüpfungspunkte zwischen unseren beiden Ländern.</p>
+        <kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Erlauben Sie mir eine Anekdote zum Schluss. Am Rande der zurückliegenden Sondierungsgespräche gab es proeuropäische Demonstrationen vor der Partei­zentrale der Sozialdemokraten. Dort trugen einige Menschen ein Schild mit dem Konterfei Ihres Staatspräsidenten Emmanuel Macron und legten ihm folgende Worte in den Mund: „Willst Du mit mir gehen?“</p>
+        <kommentar>(Heiterkeit bei Abgeordneten der SPD)</kommentar>
+        <p klasse="O">Auch wenn diese Wortwahl vielleicht eher der Schulhofromantik als der internationalen Politikwissenschaft entliehen ist, haben Konrad Adenauer und Charles de Gaulle mit der Unterzeichnung des Élysée-Vertrages heute vor 55 Jahren im Grunde genommen genau diese Frage mit einem deutlichen „Oui“ und einem deutlichen „Ja“ beantwortet.</p>
+        <kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)</kommentar>
+        <p klasse="J">Dieses Ja wollen wir heute erneuern und bekräftigen. Wir werden sowohl hier im Deutschen Bundestag als auch in Paris, in der Assemblée nationale, eine gemeinsame Resolution beschließen, die die Rolle der Parlamente in der deutsch-französischen Zusammenarbeit weiter stärkt und die beiden Regierungen dazu auffordert, ihre Zusammenarbeit zu vertiefen.<a id="S691" name="S691" typ="druckseitennummer"/></p>
+        <p klasse="J">Ich freue mich sehr, dass wir diesen Tag heute gemeinsam mit den Kolleginnen und Kollegen aus Frankreich feiern. Oui und Ja: Das ist es, was wir heute aus vollem Herzen und voller Überzeugung sagen.</p>
+        <p klasse="J">Danke schön.</p>
+        <kommentar>(Beifall bei der SPD, der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD und der LINKEN)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Jetzt hat der Vorsitzende der AfD-Fraktion, Dr. Alexander Gauland, das Wort.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+      </rede>
+      <rede id="ID19900500" media-id="7193960">
+        <p klasse="redner"><redner id="11004724"><name><titel>Dr.</titel><vorname>Alexander</vorname><nachname>Gauland</nachname><fraktion>AfD</fraktion></name></redner>Dr. Alexander Gauland (AfD):</p>
+        <p klasse="J_1">Herr Präsident! Meine Damen und Herren! Werte französische Gäste! Liebe Kolleginnen und Kollegen! 55 Jahre Élysée-Vertrag: Das ist weder ein herausragendes Datum noch ein rundes Jubiläum, um den Aufwand hier und anschließend in Paris zu rechtfertigen.</p>
+        <kommentar>(Beifall bei der AfD – Widerspruch bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN – Claudia Roth [Augsburg] [BÜNDNIS 90/DIE GRÜNEN]: Meine Güte!)</kommentar>
+        <p klasse="J">Aber, meine Damen und Herren von CDU/CSU, SPD, FDP und Grünen, Ihnen geht es gar nicht um diesen Vertrag und noch nicht einmal um die deutsch-französische Aussöhnung.</p>
+        <kommentar>(Zuruf vom BÜNDNIS 90/DIE GRÜNEN: Unverschämt!)</kommentar>
+        <p klasse="O">Ihnen geht es um einen willkürlichen Anlass, die von Herrn Schulz ausgerufenen Vereinigten Staaten von Europa einzuläuten.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="J">Zu diesem Zweck missbrauchen Sie ein Ereignis und den Namen eines großen Franzosen für Ziele, die den seinen konträr waren.</p>
+        <kommentar>(Beifall bei der AfD – Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Jeder blamiert sich, so gut er kann!)</kommentar>
+        <p klasse="O">Denn, liebe Kolleginnen und Kollegen, wenn de ­Gaulle etwas nicht wollte, dann die Vereinigten Staaten von Europa.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="O">Denn er glaubte an Nationen, an die große französische zuerst und dann an die große deutsche. Bei seinem berühmten Deutschlandbesuch 1962 sagte er auf dem Bonner Marktplatz – ich durfte damals als ganz junger Mann dabei sein –:</p>
+        <p klasse="Z">Wenn ich Sie alle so um mich herum versammelt sehe, wenn ich Ihre Kundgebungen höre, empfinde ich noch stärker als zuvor die Würdigung und das Vertrauen, das ich für Ihr großes Volk – jawohl, für das große deutsche Volk – hege.</p>
+        <p klasse="O">Das würden Sie alle, wie Sie hier sitzen – uns ausgenommen – nicht mehr in den Mund nehmen, meine Damen und Herren.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="J">Deshalb ist diese ja nun doch zur Feierstunde gewordene Parlamentssitzung auch eine Heuchelei.</p>
+        <kommentar>(Zurufe vom BÜNDNIS 90/DIE GRÜNEN: Oh!)</kommentar>
+        <p klasse="O">Das beginnt mit dem Ausschluss zweier Fraktionen dieses Hauses aus den Vorbereitungen</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="O">und endet nicht mit dem nutzlosen Flug nach Paris, an dem wir uns natürlich nicht beteiligen.</p>
+        <kommentar>(Zuruf von der LINKEN: Pfui!)</kommentar>
+        <p klasse="O">Und, meine Damen und Herren, wir werden auch keiner Resolution zustimmen, die über unsere Köpfe hinweg verabschiedet worden ist.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="J">Ja, im Entschließungsantrag der Linken kann man manches unterschreiben. Aber insgesamt werden wir auch den ablehnen.</p>
+        <kommentar>(Stefan Müller [Erlangen] [CDU/CSU]: Das nennt sich Demokratie!)</kommentar>
+        <p klasse="J">Ja, meine Damen und Herren, der Élysée-Vertrag hatte und hat ein hehres Anliegen: die Aussöhnung zweier Völker, die sich seit dem ausgehenden Mittelalter bekämpft haben. Und ja, wir, die AfD, stehen zu dieser Aussöhnung,</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="O">aber so, wie sie de Gaulle gewollt hat: als ein Bündnis der Nationen und nicht als ein übernationales Europa.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="J">De Gaulle war ein leidenschaftlicher Patriot, der sein Land und sein Volk wieder zum größten und stärksten in Europa machen wollte, was es seit Waterloo nicht mehr war. Für die französische Grandeur suchte er deutsche politische und wirtschaftliche Unterstützung. Als der Streit zwischen Atlantikern und Gaullisten in Bonn, der mit einer Präambel zu diesem Vertrag beigelegt wurde, die die Einigung Europas unter Einbeziehung Großbritanniens und die Bindung an Amerika betonte, diesem Kalkül ein Ende bereitete, war er zutiefst enttäuscht, und der Élysée-Vertrag verschwand für lange Zeit in den Schubladen der Diplomatie. Meine Damen und Herren, wenn Sie ihn heute in eine Charta eines übernationalen Europas umdeuten, dann dürften Polen, Ungarn und Tschechen Ihnen darin kaum folgen. Aber die deutsch-französische Freundschaft ist der AfD und mir viel zu wichtig,</p>
+        <kommentar>(Dr. Marco Buschmann [FDP]: Deshalb reisen Sie nachher auch nicht mit!)</kommentar>
+        <p klasse="O">um sie als Spaltpilz für Europa zu instrumentalisieren.<a id="S692" name="S692" typ="druckseitennummer"/></p>
+        <p klasse="J">Ich bedanke mich.</p>
+        <kommentar>(Beifall bei der AfD – Abgeordnete der AfD erheben sich)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Jetzt hat der Vorsitzende der FDP-Fraktion, Christian Lindner, das Wort.</p>
+        <kommentar>(Beifall bei der FDP)</kommentar>
+      </rede>
+      <rede id="ID19900600" media-id="7193961">
+        <p klasse="redner"><redner id="11004097"><name><vorname>Christian</vorname><nachname>Lindner</nachname><fraktion>FDP</fraktion></name></redner>Christian Lindner (FDP):</p>
+        <p klasse="J_1">Meine Herren Präsidenten! Liebe Kolleginnen! Liebe Kollegen! Meine Damen und Herren! Manche wollen hier Geschichtsstunden halten. Ich begrüße, dass eine Mehrheit des Parlamentes sich mit der Zukunft beschäftigen will.</p>
+        <kommentar>(Beifall bei der FDP, der CDU/CSU, der SPD und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Der Deutsche Bundestag ist ein Ort der innenpolitischen Auseinandersetzung, aber nicht heute; denn heute stehen andere Fragen im Vordergrund.</p>
+        <kommentar>(Beifall bei der FDP)</kommentar>
+        <p klasse="J">Das, was ich nicht verstehe, Herr Kollege Gauland, ist: Sie haben sich hier beklagt, Ihre Fraktion sei in die Vorbereitung dieser Sitzung und in die Vorbereitung dieses Resolutionstextes nicht einbezogen worden.</p>
+        <kommentar>(Dr. Alexander Gauland [AfD]: Ich habe es nur festgestellt!)</kommentar>
+        <p klasse="O">Gleichzeitig haben Sie gesagt, dass Sie dem Text selbst und dem, was sein Geist ausmacht, nicht zustimmen würden. Warum wollen Sie bei etwas Antragsteller sein, was Sie in der Sache ablehnen?</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU und der SPD)</kommentar>
+        <p klasse="J">Sie haben hier einige Freundlichkeiten über die deutsch-französische Freundschaft geäußert, aber Ihre stumme Geste, mit der gesamten Fraktion der AfD auf eine Teilnahme an der Reise nach Paris zu verzichten, entlarvt, wie national Sie in Wahrheit denken.</p>
+        <kommentar>(Beifall bei der FDP, der CDU/CSU, der SPD, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, vor 55 Jahren wurde der Élysée-Vertrag geschlossen, und er war Gegenstand der Außenpolitik. Wenn man diesen Vertragstext heute liest, so stellt man fest, dass in seinem Zentrum die Außenminister stehen. Es wäre heute eine völlig abwegige Vorstellung, dass die deutsch-französische Freundschaft eine Sache der Außenminister wäre – das ist keine Spitze –; vielmehr sind bilaterale Beziehungen zwischen allen Institutionen, Behörden und staatlichen Ebenen heute Realität. Die Besonderheit des Élysée-Vertrages ist, dass er heute, nach 55 Jahren, keine Besonderheit mehr ist. Deshalb ist es richtig, jetzt den nächsten Schritt gemeinsam zu gehen.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU, der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Partnerschaft ist eine rechtliche und vielleicht auch eine politische Entscheidung; Freundschaft muss aus der Mitte der Gesellschaften wachsen. Die Kollegin Nahles und der Kollege Kauder haben über die vielfältigen zivilgesellschaftlichen Initiativen – über den Schüleraustausch, über Städtepartnerschaften – gesprochen. Aber auch in der Alltagskultur ist über die vergangenen Jahrzehnte eine Freundschaft und Nähe gewachsen.</p>
+        <p klasse="J">Gerade vor einigen Tagen verstarb die französische Sängerin France Gall, die in den 1960er-Jahren in deutscher Sprache gesungen und Karriere gemacht hat. Auch der Winnetou der populären Karl-May-Verfilmungen in den 1960er-Jahren war ein Franzose.</p>
+        <kommentar>(Heiterkeit bei Abgeordneten der FDP, der CDU/CSU und der SPD)</kommentar>
+        <p klasse="J">Verehrte Anwesende, meine Damen und Herren, die Erneuerung der Europäischen Union wird die Aufgabe der kommenden Dekade sein. Der bilaterale Gedanke des Élysée-Vertrages steht dieser Erneuerung des europäischen Einigungsprojekts insgesamt nicht entgegen, sondern es stimmt gerade das Gegenteil: Frankreich und Deutschland können und müssen Impulsgeber für die Erneuerung der Europäischen Union sein, müssen Motor einer Vertiefung sein, die Mitte des vergangenen Jahrzehnts ins Stocken geraten ist. Aber Impuls- und Ideengeber zu sein, heißt nicht, ein Direktorium zu bilden, das anderen etwas vorgibt, und es heißt auch nicht, ein Closed Shop zu werden, der andere ausschließt. Die Vertiefung der deutsch-französischen Freundschaft sollte als Einladung an andere begriffen werden, diesem Beispiel zu folgen.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</kommentar>
+        <p klasse="J">Der französische Präsident Macron hat die Rolle des Taktgebers in dieser Reformdebatte übernommen. Er ist ein Politiker der Mitte, der einen sehr umfassenden Reformvorschlag für die Europäische Union vorgestellt hat. Darauf wird Deutschland mit Kreativität antworten müssen. Nicht jeden Gedanken wird man sich zu eigen machen können. Europa ist ein Kontinent der Vielfalt. Aber auf den Kern seines Denkens müssen wir antworten.</p>
+        <p klasse="J">Mehr gemeinsames Handeln in der Sicherheitspolitik, der Verteidigungspolitik und bei der Kontrolle unserer Außengrenzen ist überfällig. Wenn es um europäische Aufgaben geht, dann wohl um diese. Ich will für meine Fraktion sagen: Wir hätten uns noch mehr gemeinsame deutsch-französische Initiativen vorstellen können, als im vorliegenden Resolutionstext verankert sind.</p>
+        <kommentar>(Beifall bei der FDP)<a id="S693" name="S693" typ="druckseitennummer"/></kommentar>
+        <p klasse="J">Der Klimaschutz ist eine Menschheitsaufgabe. Wir müssen erkennen, dass nationale Antworten darauf zu wenig sind. Mehr noch: Nationale Alleingänge in der Energiepolitik schaffen oft mehr Probleme in Europa, als sie Lösungsbeiträge leisten.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU und der AfD)</kommentar>
+        <p klasse="O">Wir stehen deshalb in der Verantwortung, der Welt einen Weg zu weisen, wie ökologische Nachhaltigkeit und Wohlstand verbunden werden können. Die Idee eines CO 2 -Preises, die im Resolutionstext verankert ist, weist einen marktwirtschaftlichen Weg, der all dem überlegen ist, was wir in Deutschland an Quoten, Verboten und Subventionen in den letzten Jahren erprobt haben.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</kommentar>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, es geht um die Weiterentwicklung der Wirtschafts- und Währungsunion. Die Vorbereitung des Resolutionstextes hat eines gezeigt: Die Konfliktlinie verläuft nicht zwischen Deutschland und Frankreich. Die Konfliktlinie verläuft auch nicht zwischen „pro Europa“ und „gegen Europa“, nimmt man einmal die Ränder des politischen Spektrums aus. Die Auseinandersetzung findet vielmehr in Deutschland und in Frankreich auch innerhalb des demokratischen Zentrums statt. Es ist nämlich die konzeptionelle Auseinandersetzung zwischen denen, die auf mehr sozialen Ausgleich, Vergemeinschaftung und im Zweifel auf Transfer setzen, und jenen, die auf Wachstumsimpulse setzen, die Wettbewerbsfähigkeit stärken wollen und an die Autorität von Regeln glauben. Die deutsche Position der Vergangenheit war nicht – wir werden sehen, ob sie es weiter bleibt – Ausdruck von Hartherzigkeit oder mangelnder Großzügigkeit, im Gegenteil. Die Grundüberzeugung war – unsere ist es unverändert –: Fiskalische Eigenverantwortung ist Ausdruck demokratischer Souveränität und der ökonomischen Klugheit. Deshalb sollte dieser Weg weiter beschritten werden.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU und der AfD)</kommentar>
+        <p klasse="J">Wenn es um Wachstumsimpulse durch Investitionen in disruptive Technologien geht, wie sie der französische Präsident gefordert hat und wie sie sinnvoll sind, bei der künstlichen Intelligenz genauso wie bei den geforderten gemeinsamen Initiativen in der Batterietechnologie für die Elektromobilität, dann sollte ordnungspolitisch sichergestellt sein, dass das Geld in privatwirtschaftliche Investitionen und nicht allein in Staatshaushalte fließt.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</kommentar>
+        <p klasse="J">Auf beiden Seiten des Rheines gibt es solche, die jede Gelegenheit für eine Schlagzeile nutzen</p>
+        <kommentar>(Lachen bei der AfD)</kommentar>
+        <p klasse="O">und dafür bereit sind, das europäische Einigungsprojekt zu einem Problem zu erklären. Die Wahrheit ist aber: Es gibt kein Problem, das gegen oder ohne Europa gelöst werden kann. Alle Probleme können wir nur in oder mit Europa lösen. Das ist die Botschaft dieser fraktionsübergreifenden Resolution des Deutschen Bundestages, über alles, was uns im Einzelnen in der Mitte des Hauses trennt, hinweggesehen.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU und der SPD)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Jetzt hat das Wort die Vorsitzende der Fraktion Die Linke, Dr. Sahra Wagenknecht.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+      </rede>
+      <rede id="ID19900700" media-id="7193963">
+        <p klasse="redner"><redner id="11004183"><name><titel>Dr.</titel><vorname>Sahra</vorname><nachname>Wagenknecht</nachname><fraktion>DIE LINKE</fraktion></name></redner>Dr. Sahra Wagenknecht (DIE LINKE):</p>
+        <p klasse="J_1">Sehr geehrter Herr Präsident de Rugy! Sehr geehrter Bundestagspräsident Schäuble! Liebe Kolleginnen und Kollegen! Wenn wir uns vor Augen führen, wie viele Kriege Deutschland und Frankreich gegeneinander geführt und wie viele Menschen auf den Schlachtfeldern dieser Kriege einen grausamen Tod gefunden haben, wenn wir an die furchtbaren Massaker an der französischen Zivilbevölkerung während der deutschen Besatzung denken – der Name Oradour steht bis heute für die Kriegsverbrechen der Wehrmacht und der SS an unschuldigen Zivilisten –, wenn wir all das bedenken, dann nötigt es uns umso größeren Respekt ab, dass weniger als zwei Jahrzehnte nach dem Ende des Zweiten Weltkrieges General de Gaulle dem deutschen Bundeskanzler Adenauer die Hand zur Versöhnung gereicht hat.</p>
+        <kommentar>(Beifall bei der LINKEN sowie bei Abgeordneten der CDU/CSU, der SPD, der FDP und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Er hat damit das Fundament für ein neues Europa gelegt, ein Europa frei von Nationalismus und Völkerhass.</p>
+        <p klasse="J">Wenn wir jetzt aus Anlass des 55. Jahrestages des Élysée-Vertrags mit unseren französischen Kolleginnen und Kollegen gemeinsam tagen, dann müssen wir ehrlich Bilanz ziehen, wo wir heute stehen. Zehn Jahre vor der Unterzeichnung des Élysée-Vertrags hatte Thomas Mann seine jungen Zuhörer in Hamburg beschworen, sie sollten nach einem „europäischen Deutschland“, aber niemals wieder nach einem „deutschen Europa“ streben.</p>
+        <p klasse="J">De Gaulles große Idee war ein in seiner Vielfalt und kulturellen Unterschiedlichkeit einiges Europa, ein Europa souveräner Demokratien,</p>
+        <kommentar>(Beifall bei der LINKEN und der AfD)</kommentar>
+        <p klasse="O">aber kein Europa, das aus Brüssel oder gar aus Berlin regiert wird, kein Europa, in dem Parlamente entmachtet werden und Regierungen vorgeschrieben wird, wie sie ihren Arbeitsmarkt, ihre Rentensysteme oder sogar ihr Streikrecht zu gestalten haben.</p>
+        <kommentar>(Beifall bei der LINKEN und der AfD)</kommentar>
+        <p klasse="J">Der französische Präsident Mitterrand unterstützte die Währungsunion, weil er glaubte, dadurch eine deutsche Dominanz in Europa verhindern zu können.</p>
+        <kommentar>(Beifall bei Abgeordneten der AfD)</kommentar>
+        <p klasse="O">Dazu hat der britische Historiker Timothy Garton Ash schon 2012, also vor sechs Jahren, festgestellt – ich zitiere –:<a id="S694" name="S694" typ="druckseitennummer"/></p>
+        <p klasse="Z">20 Jahre nach Maastricht sehen wir, dass genau das Gegenteil eingetreten ist. Ökonomisch erwies sich der Euro als überaus vorteilhaft für Deutschland. Politisch hat die Währungsunion dazu geführt, dass Deutschland am Steuer sitzt und Frankreich auf dem Beifahrersitz.</p>
+        <p klasse="O">Ein Europa, in dem Deutschland am Steuer sitzt und andere bestenfalls auf dem Beifahrersitz sitzen, ist doch ein „deutsches Europa“, und ein solches Europa wird keinen Bestand haben; denn es ist unseren Nachbarn nicht zumutbar.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="J">Meine Vorredner haben viel über die Bedeutung der deutsch-französischen Freundschaft und die Stärkung Europas geredet. Aber Bekenntnisse sind wohlfeil. Solange der deutsche Mindestlohn mehr als einen Euro niedriger ist als der französische, ist es kein Wunder, dass französische Hersteller vom Markt gedrängt werden.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="O">Solange Deutschland über Leiharbeit, Befristungen und Werkverträge die Lohnkosten in seinen Industrieunternehmen drückt, ist es nicht erstaunlich, dass Frankreich – wie übrigens auch Italien – immer größere Teile seiner Industrie verliert. Niemand hat etwas gegen Qualitätswettbewerb, bei dem das bessere Produkt gewinnt. Aber was wir seit der Agenda 2010 erleben, ist ein wüster Dumpingwettbewerb zulasten der deutschen Arbeitnehmer und unserer europäischen Nachbarn.</p>
+        <kommentar>(Beifall bei der LINKEN sowie bei Abgeordneten der AfD)</kommentar>
+        <p klasse="O">Eine solche Politik ist Sprengstoff für den europäischen Zusammenhalt.</p>
+        <p klasse="J">Inzwischen gibt es in vielen Ländern Bemühungen, Arbeitnehmerrechte ähnlich wie in Deutschland zu schleifen. Aber wie sieht ein Europa aus, das auf diese Weise entsteht? Es ist ein Europa, in dem Großbanken und Konzerne den Ton angeben, während die Mittelschicht Wohlstand verliert, die Armut wächst und ein Teil der jungen Generation keine Zukunft mehr hat. Wenn sich die Menschen von einem solchen Europa abwenden, dann sollte das niemanden erstaunen.</p>
+        <p klasse="J">Als de Gaulle 1962 seine berühmte Rede vor deutschen Jugendlichen hielt, da plädierte er für ein Europa, in dem die Früchte des wirtschaftlichen Fortschritts – ich zitiere – „nicht einigen Auserwählten vorbehalten bleiben, sondern für alle unsere Mitmenschen erschlossen werden“,</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="O">für ein Europa, in dem der Fortschritt „ein gemeinsames Gut wird“, so wörtlich de Gaulle. Der Fortschritt als Gemeingut, das war wirklich ein ganz anderer Geist als der der heutigen EU-Verträge, in denen Kapitalfreiheiten ausdrücklich Vorrang vor sozialen Grundrechten haben.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="J">Deswegen meine ich: Wer den europäischen Zusammenhalt stärken will, der darf den sozialen Zusammenhalt in den europäischen Ländern nicht zerstören. Wer die deutsch-französische Freundschaft pflegen will, der muss den Dumpingwettlauf zwischen unseren Ländern beenden.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="O">Die Erhöhung des deutschen Mindestlohns wenigstens auf das französische Niveau von 9,88 Euro wäre zwar in unseren Augen nicht ausreichend, aber es wäre doch ein erster guter Schritt.</p>
+        <p klasse="J">Oder warum vereinbaren Deutschland und Frankreich nicht einen Mindeststeuersatz für Konzerne von 25 Prozent</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="O">und führen gemeinsam eine Quellensteuer für Finanzflüsse und Steueroasen ein? So könnten Sie dem Steuerdumping von Apple und Co. gemeinsam die Grundlage entziehen.</p>
+        <p klasse="J">Was spricht gegen eine Initiative beider Länder, die Superreichen in Europa mit einer Vermögensabgabe nach dem Vorbild des deutschen Lastenausgleichs zur Kasse zu bitten und so Schulden abzubauen? Dabei hätten Sie ganz sicher die große Mehrheit der Franzosen wie der Deutschen auf Ihrer Seite.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="J">Bekanntlich gab es im Umfeld des Élysée-Vertrages nicht nur Harmonie, sondern auch einige Verstimmung auf französischer Seite. Grund war damals die von Deutschland einseitig vorangestellte Präambel und deren transatlantische Ausrichtung. Aber, ich denke, spätestens seit die Vereinigten Staaten einen Präsidenten haben, der in stimmungsvollen Momenten mal eben mit der Größe seines Atomknopfes prahlt, spätestens seitdem ist doch völlig klar, dass Europa, ähnlich wie de Gaulle es damals wollte, seine Geschicke in die eigenen Hände nehmen muss.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="J">Ja, wir brauchen eine eigenständige europäische Außenpolitik. Aber wir brauchen sie, um Frieden, Abrüstung und Entspannung voranzubringen, und nicht, um den Rüstungswettlauf noch weiter anzuheizen.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, es ist ganz sicher nicht die Lehre aus den Schützengräben von Verdun, dass Deutschland und Frankreich sich jetzt gemeinsam dafür starkmachen, noch mehr Geld für Waffen und Kriegsgerät zu verschleudern.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="J">Auch Willy Brandts Ostpolitik</p>
+        <kommentar>(Carsten Schneider [Erfurt] [SPD]: Jetzt nicht noch Willy Brandt!)<a id="S695" name="S695" typ="druckseitennummer"/></kommentar>
+        <p klasse="O">stand für eine eigenständige europäische Außenpolitik; Sie sollten sich vielleicht wieder einmal daran erinnern. Aber das große Symbol dieser Ostpolitik war der Kniefall von Warschau, nicht der Kniefall vor den Rüstungskonzernen.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <p klasse="J">Ich finde, hier müssen wir wieder anknüpfen, wenn wir ein Europa der guten Nachbarschaft in einer friedlichen Welt erreichen wollen, ein soziales Europa, das der jungen Generation wieder eine Zukunft gibt. Für diese Ziele sollten Deutschland und Frankreich partnerschaftlich zusammenarbeiten.</p>
+        <kommentar>(Beifall bei der LINKEN)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Für die Fraktion Bündnis 90/Die Grünen spricht jetzt der Kollege Cem Özdemir.</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+      </rede>
+      <rede id="ID19900800" media-id="7193965">
+        <p klasse="redner"><redner id="11002746"><name><vorname>Cem</vorname><nachname>Özdemir</nachname><fraktion>BÜNDNIS 90/DIE GRÜNEN</fraktion></name></redner>Cem Özdemir (BÜNDNIS 90/DIE GRÜNEN):</p>
+        <p klasse="J_1"><span class="timebased" data-start="0.000" data-end="9.680">Sehr geehrter Herr Bundestagspräsident! </span><span class="timebased" data-start="9.680" data-end="10.600">Monsieur le Président! </span><span class="timebased" data-start="10.600" data-end="12.000">Cher François de Rugy! </span><span class="timebased" data-start="12.000" data-end="15.760">Mesdames et messieurs les députés! </span><span class="timebased" data-start="15.760" data-end="19.360">Bienvenus à Berlin! </span><span class="timebased" data-start="19.360" data-end="21.560">Liebe Kolleginnen und Kollegen! </span><span class="timebased" data-start="21.560" data-end="23.600">Ich bin in Bad Urach aufgewachsen. </span><span class="timebased" data-start="23.600" data-end="28.160">Von dort sind es nur 150 Kilometer bis zur französischen Grenze. </span><span class="timebased" data-start="28.160" data-end="31.240">Aber irgendwann war diese Grenze für mich verschlossen. </span><span class="timebased" data-start="31.240" data-end="36.280">Ausflüge ins nahe Straßburg konnte ich damals nicht mehr machen, </span><span class="timebased" data-start="36.280" data-end="42.120">weil ich im Besitz eines türkischen Passes war und eben nicht über die Grenze durfte. </span><span class="timebased" data-start="42.120" data-end="42.840">Das heißt, </span><span class="timebased" data-start="42.840" data-end="43.960">Offenheit, </span><span class="timebased" data-start="43.960" data-end="45.120">nicht Abschottung, </span><span class="timebased" data-start="45.120" data-end="46.800">das ist das Geheimnis Europas, </span><span class="timebased" data-start="46.800" data-end="48.360">wenn es eine Lehre daraus gibt, </span><span class="timebased" data-start="48.360" data-end="58.200">dass sich Menschen innerhalb Europas nicht bewegen durften.</span></p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU, der FDP und der LINKEN)</kommentar>
+        <p klasse="J"><span class="timebased" data-start="58.200" data-end="58.201">Immer dann, </span><span class="timebased" data-start="58.201" data-end="61.000">wenn es in diesem Haus um Europa geht, </span><span class="timebased" data-start="61.000" data-end="63.560">sollten wir uns alle vergegenwärtigen, </span><span class="timebased" data-start="63.560" data-end="66.520">dass es um die Zukunft einer großen Idee geht, </span><span class="timebased" data-start="66.520" data-end="71.080">vielleicht sogar der größten Idee nach der Gründung der Vereinten Nationen. </span><span class="timebased" data-start="71.080" data-end="71.560">Meine Damen, </span><span class="timebased" data-start="71.560" data-end="72.720">meine Herren, </span><span class="timebased" data-start="72.720" data-end="75.080">es wurde gerade zu Recht gesagt: </span><span class="timebased" data-start="75.080" data-end="78.720">Dies hier heute ist nicht der Ort für innenpolitisches Klein-Klein, </span><span class="timebased" data-start="78.720" data-end="81.040">für parteipolitisches Klein-Klein. – </span><span class="timebased" data-start="81.040" data-end="81.800">Nur, </span><span class="timebased" data-start="81.800" data-end="83.480">lieber Kollege Christian Lindner, </span><span class="timebased" data-start="83.480" data-end="92.120">dann sollte man sich in seiner Rede auch selber daran halten.</span></p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der SPD und der AfD)</kommentar>
+        <p klasse="J"><span class="timebased" data-start="92.120" data-end="94.920">Heute ist ein historischer Tag für Frankreich, </span><span class="timebased" data-start="94.920" data-end="98.960">ein historischer Tag für Deutschland und ein historischer Tag für Europa, </span><span class="timebased" data-start="98.960" data-end="102.720">und es ist ein großartiger Tag für die parlamentarische Demokratie; </span><span class="timebased" data-start="102.720" data-end="103.680">denn während unser Land, </span><span class="timebased" data-start="103.680" data-end="104.280">Deutschland, </span><span class="timebased" data-start="104.280" data-end="106.280">seit vier Monaten darauf wartet, </span><span class="timebased" data-start="106.280" data-end="107.720">eine Regierung zu bekommen, </span><span class="timebased" data-start="107.720" data-end="111.000">schreiten wir als Parlamentarier gemeinsam voran. </span><span class="timebased" data-start="111.000" data-end="112.720">Deshalb will ich die Gelegenheit nutzen, </span><span class="timebased" data-start="112.720" data-end="113.720">all denen, </span><span class="timebased" data-start="113.720" data-end="116.600">die am Zustandekommen dieser Resolution beteiligt waren, </span><span class="timebased" data-start="116.600" data-end="122.080">im Namen aller nochmals herzlich zu danken.</span></p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU, der SPD und der FDP)</kommentar>
+        <p klasse="J"><span class="timebased" data-start="122.080" data-end="123.000">Der Brexit, </span><span class="timebased" data-start="123.000" data-end="128.000">EU-Regierungen unter Beteiligung von rechtsnationalen, </span><span class="timebased" data-start="128.000" data-end="130.440">rechtspopulistischen Parteien, </span><span class="timebased" data-start="130.440" data-end="134.600">aber auch Gegner der Europäischen Union außerhalb der Europäischen Union, </span><span class="timebased" data-start="134.600" data-end="136.040">namentlich in Moskau, </span><span class="timebased" data-start="136.040" data-end="137.160">zeigen uns, </span><span class="timebased" data-start="137.160" data-end="140.360">dass das europäische Projekt nicht nur eine Richtung, </span><span class="timebased" data-start="140.360" data-end="140.960">vorwärts, </span><span class="timebased" data-start="140.960" data-end="141.880">kennt. </span><span class="timebased" data-start="141.880" data-end="148.080">Wenn später Abgeordnete unserer beiden Parlamente gemeinsam nach Paris reisen, </span><span class="timebased" data-start="148.080" data-end="148.440">dann wird – </span><span class="timebased" data-start="148.440" data-end="149.600">auch das haben wir gehört – </span><span class="timebased" data-start="149.600" data-end="151.800">eine Fraktion nicht dabei sein: </span><span class="timebased" data-start="151.800" data-end="153.040">die AfD. </span><span class="timebased" data-start="153.040" data-end="157.160">Sie lehnt eine Wiederauflage des historischen Dokuments ab, </span><span class="timebased" data-start="157.160" data-end="160.160">das den Frieden in Europa besiegelte, </span><span class="timebased" data-start="160.160" data-end="161.560">den Élysée-Vertrag, </span><span class="timebased" data-start="161.560" data-end="163.120">den wir heute feiern. </span><span class="timebased" data-start="163.120" data-end="163.800">Sie befürchtet – </span><span class="timebased" data-start="163.800" data-end="165.200">ich darf zitieren – </span><span class="timebased" data-start="165.200" data-end="169.720">„eine weitere Aushöhlung der nationalen Souveränität“ Deutschlands.</span></p>
+        <kommentar>(Dr. Roland Hartwig [AfD]: Zu Recht!)</kommentar>
+        <p klasse="J"><span class="timebased" data-start="169.720" data-end="173.040">Für wen Europa Verlust statt Gewinn ist, </span><span class="timebased" data-start="173.040" data-end="176.080">der hat die europäische Idee nicht verstanden, </span><span class="timebased" data-start="176.080" data-end="184.240">sehr geehrte Damen und Herren,</span></p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD sowie bei Abgeordneten der FDP und der LINKEN)</kommentar>
+        <p klasse="O"><span class="timebased" data-start="184.240" data-end="186.720">und der hat nicht verstanden, </span><span class="timebased" data-start="186.720" data-end="190.520">dass Frieden und Wohlstand in Europa nicht vom Himmel gefallen sind, </span><span class="timebased" data-start="190.520" data-end="192.240">sondern das Ergebnis harter Arbeit waren, </span><span class="timebased" data-start="192.240" data-end="195.000">und dass der Schlüssel zum Erfolg das Miteinander, </span><span class="timebased" data-start="195.000" data-end="196.720">nicht das Gegeneinander ist. </span><span class="timebased" data-start="196.720" data-end="202.720">Deshalb stellen wir uns heute als Deutscher Bundestag in die Tradition von de Gaulle und Adenauer,</span></p>
+        <kommentar>(Widerspruch bei der AfD)</kommentar>
+        <p klasse="O"><span class="timebased" data-start="202.720" data-end="207.080">von Giscard d’Estaing und Schmidt sowie von ­Mitterrand und Helmut Kohl.</span></p>
+        <p klasse="J"><span class="timebased" data-start="207.080" data-end="211.000">2018 ist ein Schlüsseljahr für Europa. </span><span class="timebased" data-start="211.000" data-end="214.280">Lassen Sie uns jeden Tag in diesem Jahr nutzen, </span><span class="timebased" data-start="214.280" data-end="217.320">um dem Haus Europa wieder ein festes Fundament zu geben,</span></p>
+        <kommentar>(Beifall bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O"><span class="timebased" data-start="217.320" data-end="219.000">um es wetterfest zu machen: </span><span class="timebased" data-start="219.000" data-end="219.920">gegen Wirtschafts- </span><span class="timebased" data-start="219.920" data-end="220.960">und Währungskrisen, </span><span class="timebased" data-start="220.960" data-end="222.720">gegen Abspaltungsfantasien, </span><span class="timebased" data-start="222.720" data-end="235.200">gegen Klimaleugner und gegen den giftigen Rechtspopulismus.</span></p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU und der SPD sowie bei Abgeordneten der FDP und der LINKEN – Lachen bei Abgeordneten der AfD)</kommentar>
+        <p klasse="J"><span class="timebased" data-start="235.200" data-end="240.360">Unsere deutsche Antwort sollte ein „mehr Europa“ und nicht ein „weniger Europa“ sein. </span><span class="timebased" data-start="240.360" data-end="248.440">Im letzten Jahr wäre Frankreich beinahe in die Hände von Marine Le Pen und ihren rechtspopulistischen Freunden gefallen. </span><span class="timebased" data-start="248.440" data-end="250.520">Jetzt haben wir einen Präsidenten, </span><span class="timebased" data-start="250.520" data-end="255.000">der seinen Wahlsieg zu den Klängen der europäischen Hymne feierte. </span><span class="timebased" data-start="255.000" data-end="256.560">Welch eine große Geste! </span><span class="timebased" data-start="256.560" data-end="258.640">Welch eine riesige Chance!</span></p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU und der FDP)<a id="S696" name="S696" typ="druckseitennummer"/></kommentar>
+        <p klasse="J"><span class="timebased" data-start="258.640" data-end="262.280">Meine Damen, </span><span class="timebased" data-start="262.280" data-end="264.400">meine Herren, </span><span class="timebased" data-start="264.400" data-end="265.480">vergessen wir eines nicht, </span><span class="timebased" data-start="265.480" data-end="267.200">auch am heutigen Tag nicht: </span><span class="timebased" data-start="267.200" data-end="269.960">Nehmen wir unsere polnischen Partner mit! </span><span class="timebased" data-start="269.960" data-end="272.200">Das mag in diesen Zeiten nicht immer einfach sein; </span><span class="timebased" data-start="272.200" data-end="274.880">aber es ist der einzige Weg, </span><span class="timebased" data-start="274.880" data-end="283.960">der uns in ein vereintes Europa führt.</span></p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU, der SPD und der FDP)</kommentar>
+        <p klasse="O"><span class="timebased" data-start="283.960" data-end="286.800">Deutschland und Frankreich gehen heute voran; </span><span class="timebased" data-start="286.800" data-end="290.240">aber das Ende des Weges können wir nur gemeinsam erreichen.</span></p>
+        <p klasse="J"><span class="timebased" data-start="290.240" data-end="291.400">Vielen Dank. </span><span class="timebased" data-start="291.400" data-end="301.960">Merci beaucoup.</span></p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU, der SPD und der FDP)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1"><span class="timebased" data-start="301.960" data-end="307.000">Nächster Redner für die CDU/CSU-Fraktion ist der Kollege Alexander Dobrindt.</span></p>
+        <kommentar>(Beifall bei der CDU/CSU)</kommentar>
+      </rede>
+      <rede id="ID19900900" media-id="7193967">
+        <p klasse="redner"><redner id="11003516"><name><vorname>Alexander</vorname><nachname>Dobrindt</nachname><fraktion>CDU/CSU</fraktion></name></redner>Alexander Dobrindt (CDU/CSU):</p>
+        <p klasse="J_1">Sehr geehrter Herr Bundestagspräsident Wolfgang Schäuble! Sehr geehrter Herr Präsident der französischen Nationalversammlung, François de Rugy! Liebe Kolleginnen und Kollegen! Deutschland und Frankreich sind das pulsierende Herz Europas, und der Élysée-Vertrag ist die Herzkammer unserer Freundschaft. Nach verheerenden Kriegen markierte der erste deutsch-französische Freundschaftsvertrag eine echte Epochenwende. Aus Erbfeinden wurden Partner, Freunde und Wegbereiter für eine der größten Errungenschaften der Neuzeit, die Europäischen Union.</p>
+        <p klasse="J">Der Élysée-Vertrag hat unsere Völker zusammengeführt, unsere Kräfte in den Bereichen Wirtschaft, Verteidigung, Verwaltung gebündelt und zu einem regen Austausch zwischen unseren Gesellschaften geführt. Dass wir diesen Vertrag heute bekräftigen und erneuern, ist ein starkes Signal. Es zeigt: Die deutsch-französische Freundschaft lebt. Ihr Herz schlägt im Deutschen Bundestag, ihr Herz schlägt in der französischen Nationalversammlung.</p>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, ich kann nur sagen: Wer dies bezweifelt, sehr geehrter Herr Gauland, der beweist nur, dass ihm die notwendige Ernsthaftigkeit für diese Debatte fehlt, ja, dass ihm der Anstand fehlt, dieser großen Stunde der Parlamente gerecht zu werden.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Lassen Sie sich gesagt sein: Der Élysée-Vertrag war und ist kein Wegbegleiter zu einem europäischen Nationalstaat. Er ist ein stolzes Bekenntnis zur Freundschaft zweier Nationalstaaten, zur Souveränität unserer Länder in Frieden und Freiheit – damals wie heute.</p>
+        <p klasse="J">Ich kann Ihnen versichern: Wir brauchen beim besten Willen von Ihnen keine Nachhilfe zum Erbe von Adenauer und de Gaulle. Wir brauchen diese Nachhilfe nicht.</p>
+        <kommentar>(Beifall bei der CDU/CSU – Widerspruch bei der AfD)</kommentar>
+        <p klasse="O">Wir kämpfen für ein friedliches Europa der Vaterländer und der Regionen. Sie wollen zurück zu einem stumpfen Nationalismus und zur Abschottung. Das ist das Gegenteil von dem, was de Gaulle und Adenauer wollten.</p>
+        <kommentar>(Beifall bei der CDU/CSU und der FDP – Zuruf von der AfD – Lachen des Abg. Dr. Alexander Gauland [AfD])</kommentar>
+        <p klasse="J">Charles de Gaulle hat Adenauer einmal ein gemeinsames Foto geschenkt und darauf die Widmung geschrieben: Es lebe die deutsch-französische Union. – Konrad Adenauer hat das Foto daraufhin Franz Josef Strauß gezeigt und gesagt: Herr Strauß, das ist Ihre Aufgabe. Ich werde es nicht mehr erleben und nicht mehr schaffen, die deutsch-französische Union zu verwirklichen. Das vermache ich Ihnen.</p>
+        <p klasse="J">Franz Josef Strauß hat gemeinsam mit vielen anderen dieses Erbe angenommen und Zeit seines Lebens dafür gekämpft, Deutschland und Frankreich zusammenzuführen, weil er genau wusste: Deutschland und Frankreich haben nur gemeinsam eine starke Zukunft. Daran hat sich bis heute nichts geändert. Wir können in der Tat nur erfolgreich sein, wenn Deutsche und Franzosen einander kennen und einander verstehen, zusammenstehen und zusammen arbeiten, politisch gemeinsam handeln und wirtschaftlich miteinander handeln.</p>
+        <kommentar>(Beifall des Abg. Dr. Hans-Peter Friedrich [Hof] [CDU/CSU])</kommentar>
+        <p klasse="J">Wie das konkret aussehen kann, haben wir an vielen Stellen gezeigt, auch mit dem großen Projekt des Airbus. Alleine hätten weder deutsche noch französische Flugzeughersteller eine Chance auf dem Weltmarkt gehabt. Zusammen haben wir einen europäischen Champion geschaffen. Damals waren übrigens viele skeptisch; man hat von einem Milliardengrab und einem Prestigeprojekt ohne Zukunft gesprochen. Heute ist Airbus neben Boeing der größte Flugzeugbauer der Welt, Technologieführer in vielen Bereichen und Wirtschaftsmotor für Deutschland und Frankreich.</p>
+        <p klasse="J">Das zeigt ganz klar: Wir dürfen das Feld nicht den Angstmachern und den Fortschrittsverweigerern überlassen. Wir brauchen den Geist der Innovation, den Willen zum Fortschritt und den Mut zur Kooperation zwischen Deutschland und Frankreich.</p>
+        <kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD und der FDP)</kommentar>
+        <p klasse="O">Genau dafür steht der Élysée-Vertrag, und genau das ist das Signal des heutigen Tages.</p>
+        <p klasse="J">Wir haben in der vergangenen Zeit viel über die Krisensituationen in Europa gesprochen, und wir haben weniger über die Zukunftsvisionen für Europa gesprochen. Wir setzen heute ein klares Zeichen dafür, die Zukunftsvisionen in den Mittelpunkt zu stellen und das nächste Kapitel der deutsch-französischen Erfolgsgeschichte zu schreiben.<a id="S697" name="S697" typ="druckseitennummer"/></p>
+        <p klasse="J">Wir stehen vor der größten Herausforderung aller Zeiten, auch technologisch. Mit der Digitalisierung erleben wir eine der größten Innovationsphasen in der Geschichte der Menschheit und eine echte Substanzrevolution für Wirtschaft und Gesellschaft. Damit verbunden ist ein neuer Wettbewerb auf der Welt, nicht nur von Unternehmen, sondern auch von Regionen in der Welt mit neuen Machtzentren in den USA und in Asien. Dabei ist allerdings noch nicht entschieden, wer zukünftig erfolgreich sein wird. Klar ist aber: Wer nicht komplett digitalisiert, der verliert. Deswegen ist die Digitalisierung die Nagelprobe für das Wohlstandsprojekt Europa. Diese Nagelprobe kann nur von den beiden größten Volkswirtschaften Europas, von Deutschland und von Frankreich, gemeinsam bestanden werden.</p>
+        <p klasse="J">Wir haben uns ja schon auf den Weg gemacht. Ich nenne das Beispiel des automatisierten und vernetzten Fahrens. Die mit Abstand meisten Patente für diese Zukunftstechnologie kommen aus Europa, genauer aus Frankreich und aus Deutschland. Als ehemaliger Bundesverkehrsminister habe ich gemeinsam mit meinem französischen Kollegen zwischen Merzig und Metz die erste grenzüberschreitende digitale Testfeldsituation für das automatisierte Fahren gestartet. Auf dieser Strecke bringen wir die Technologie aus den Laboren in den realen Verkehr. Das ist als grenzüberschreitendes Projekt einmalig. Wir sichern uns damit die Innovationsführerschaft, auch bei so einer Schlüsseltechnologie.</p>
+        <p klasse="J">Der nächste Innovationssprung ist die künstliche Intelligenz. Die künstliche Intelligenz wird unsere Industrie und die Art, zu wirtschaften und zu produzieren, grundlegend revolutionieren. Ich will erreichen, dass wir in Europa, dass Deutschland und Frankreich auch in diesem Feld führend sind. Deswegen haben wir eine Vereinbarung getroffen, dass wir gemeinsam – Deutschland und Frankreich – ein Forschungszentrum für künstliche Intelligenz einrichten wollen.</p>
+        <kommentar>(Beifall des Abg. Michael Theurer [FDP])</kommentar>
+        <p klasse="J">Das sind grenzüberschreitende Einrichtungen, die notwendig sind, um als Europäer technologisch und wirtschaftlich auf der Welt führend zu bleiben und den Wettbewerb mit der Welt aufzunehmen. Wir wollen, dass nicht nur im Silicon Valley oder in China die Arbeitsplätze und die Wertschöpfung der Zukunft entstehen, sondern auch bei uns – in Bordeaux, in München, in Straßburg, in Saarbrücken. Wir schaffen den digitalen Airbus, wir schaffen das Forschungszentrum für künstliche Intelligenz.</p>
+        <p klasse="J">In Europa, liebe Kolleginnen und Kollegen, entscheidet sich unsere wirtschaftliche, aber auch unsere gesellschaftliche Zukunft. Das ist der Geist der Erneuerung des Élysée-Vertrags zwischen Frankreich und Deutschland. Insofern richte ich ein Dankeschön an alle Kollegen aus der Nationalversammlung, an die Kollegen aus dem Bundestag und vor allem an die Menschen in Frankreich und in Deutschland, die jeden Tag diese Freundschaft pflegen.</p>
+        <kommentar>(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Nächster Redner ist der Kollege Achim Post von der SPD-Fraktion.</p>
+        <kommentar>(Beifall bei der SPD)</kommentar>
+      </rede>
+      <rede id="ID19901000" media-id="7193969">
+        <p klasse="redner"><redner id="11004378"><name><vorname>Achim</vorname><nachname>Post</nachname><fraktion>SPD</fraktion><ortszusatz>(Minden)</ortszusatz></name></redner>Achim Post (Minden) (SPD):</p>
+        <p klasse="J_1">Herr Präsident! Liebe Kolleginnen und Kollegen aus Frankreich und Deutschland! Ich freue mich, dass wir heute nicht zu einer Feierstunde zusammengekommen sind, sondern vielmehr zu einer Debatte, meinetwegen auch zu einer feierlichen Debatte. Viele Mitarbeiterinnen und Mitarbeiter, viele Kolleginnen und Kollegen haben bei deren Vorbereitung geholfen. Einen möchte ich besonders erwähnen, ohne den das, glaube ich, schlecht geklappt hätte: Andreas Jung aus Baden-Württemberg. Er war der Motor dieser ganzen Initiative.</p>
+        <kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD, der FDP und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Wir haben bisher in den Reden viel über Europa, über die deutsch-französische Zusammenarbeit gehört. Ich will einmal mit einer Geschichte aus der letzten Woche beginnen. Meine jüngere Tochter musste zufällig eine Hausarbeit über die Gründung der Montanunion anfertigen. Sie hat mir alles vorgelesen und erzählt, was die spezifisch deutschen, die spezifisch französischen Interessen waren und dass Robert Schuman ein sehr guter und großer Mann gewesen sei. Ich war ganz stolz. Und als wir fertig waren, hat sie zu mir gesagt: Aber, Papa, eine Frage habe ich noch: Was ist eigentlich ein Erbfeind? – Denn das Wort kam in vielen Texten vor. Sie ist 15 und hatte in ihrem ganzen Leben noch nie davon gehört, was ein Erbfeind ist.</p>
+        <p klasse="J">Familien wie die unsere gibt es in Frankreich und in Deutschland viele Millionen. Mein Vater ist 1945 als Achtjähriger aus Ostpreußen vor der Roten Armee geflohen. Mein Großvater erlebte zwei Weltkriege. Der Vater meines Großvaters erlebte den Deutsch-Französischen Krieg 1870/1871. Und meine Tochter, dieses 15-jährige Mädchen, hört zum ersten Mal davon, was überhaupt ein Erbfeind ist. Ich muss sagen, liebe Kolleginnen und Kollegen: Wir sind weit gekommen, wenn 55 Jahre nach dem Élysée-Vertrag die Jugend von heute nicht mehr weiß, was ein Erbfeind ist.</p>
+        <kommentar>(Beifall bei der SPD, der CDU/CSU, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD)</kommentar>
+        <p klasse="J">Da wir alle – fast alle – 55 Jahre später von sogenannten Erbfeinden zu unzertrennlichen Ehepartnern geworden sind, braucht man jetzt frischen Wind, neuen Mut, neue Ideen und neue Ambitionen. Das ist der eigentliche Grund, warum wir uns hier zusammengefunden haben: Wir wollen einen neuen Élysée-Vertrag, mindestens eine Erneuerung dieses Élysée-Vertrags. Ich glaube, die Zeit dafür ist reif.</p>
+        <kommentar>(Beifall bei der SPD sowie bei Abgeordneten der CDU/CSU, der FDP und des BÜNDNISSES 90/DIE GRÜNEN)<a id="S698" name="S698" typ="druckseitennummer"/></kommentar>
+        <p klasse="J">Wir müssen dafür drei Dinge gleichzeitig machen – das wird dem einen oder anderen Mann schwerfallen; aber es ist möglich, drei Dinge gleichzeitig zu machen –:</p>
+        <kommentar>(Heiterkeit bei Abgeordneten der SPD, der CDU/CSU und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Erstens. Wir müssen die großen Ambitionen, die in diesem Antrag der vier Fraktionen stehen, ab morgen in die Tat umsetzen. Denn da ist viel drin: von der grenzüberschreitenden Zusammenarbeit und der Zusammenarbeit der Parlamente über die deutsch-französische Wirtschaftsunion bis hin zum Aufbau einer europäischen Säule.</p>
+        <p klasse="J">Zweitens. Wir müssen Europa reformieren. Präsident Macron hat sogar davon gesprochen, Europa neu zu gründen. Dafür gibt es aus meiner Sicht, aus der Sicht meiner Fraktion und wahrscheinlich aus der Sicht der Mehrheit dieses Hauses mehrere Leitsätze: Wir brauchen und wollen ein Europa der Demokratie. Denn Europa funktioniert nicht, wenn in Europa Rechtsstaatlichkeit, Grundwerte und Gewaltenteilung wie in einem Supermarktregal liegen, aus dem sich der eine oder andere der jetzt noch 28 Partner mal das eine, mal das andere und mal gar nichts herausnimmt. Das kann nicht funktionieren.</p>
+        <kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der FDP)</kommentar>
+        <p klasse="J">Wir brauchen ein Europa der Investitionen. Jede Investition in Europa ist auch gut für Deutschland und Frankreich. Jede Investition in Europa bringt auch Vorteile für unsere beiden Länder. Deshalb: Lassen Sie uns gemeinsam mehr in Europa investieren. Das ist gut für die Wettbewerbsfähigkeit Europas und gut für die Zukunft Europas.</p>
+        <kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der FDP)</kommentar>
+        <p klasse="J">Natürlich brauchen wir ein Europa der Gerechtigkeit. Wenn in Südeuropa 20, 25, 30, 40 Prozent der Jugendlichen arbeitslos sind, müssen gerade Deutschland und Frankreich der Motor dafür sein, mehr Geld für den Kampf gegen die Jugendarbeitslosigkeit bereitzustellen. Wir jedenfalls sind dazu bereit.</p>
+        <kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der FDP – Dr. Alice Weidel [AfD]: Das ist ja wirklich unglaublich! Ein sozialistisches Geschwätz sondergleichen!)</kommentar>
+        <p klasse="O">– Ich höre gerade, es sei sozialistisches Geschwätz, wenn man etwas gegen Jugendarbeitslosigkeit tun will.</p>
+        <kommentar>(Dr. Alice Weidel [AfD]: Geld zum Fenster rauswerfen! Das machen Sie ja jetzt schon!)</kommentar>
+        <p klasse="O">Wenn wir schon dabei sind, Herr Gauland: Charles de Gaulle war ein großer Patriot und ein großer Europäer. Bei Ihnen kann ich bisher nach allen abwägenden Prozessen weder das eine noch das andere erkennen.</p>
+        <kommentar>(Beifall bei der SPD, der CDU/CSU, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Deshalb wollen wir auch zusammen an einem Europa des Friedens und der globalen Verantwortung arbeiten. Wir haben vor einigen Wochen den Anfang mit den ersten Schritten hin zu einer gemeinsamen Sicherheits- und Verteidigungsunion gemacht. Wir brauchen dies auf der Grundlage von Friedenssicherung, Konfliktprävention und Verhandlungen.</p>
+        <p klasse="J">Damit komme ich zum nächsten Punkt, zum dritten, den wir machen müssen – wahrscheinlich der schwierigste –: Wir müssen mutiger werden. Wir müssen in dieser Stunde auch einmal offen über einige Dinge reden.</p>
+        <p klasse="J">Ich fange mal aus deutscher Sicht an: Womit wir aufhören müssen, ist die Lebenslüge der deutschen Nettozahlerdebatte: Deutschland als Lastesel Europas. Was für ein grober Unfug!</p>
+        <kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der FDP)</kommentar>
+        <p klasse="O">Deutschland ist der größte Profiteur der Europäischen Union, politisch, wirtschaftlich, sozial und kulturell, liebe Kolleginnen und Kollegen.</p>
+        <p klasse="J">Wir wollen Europa weiterentwickeln, nicht nur mit einer Reform der Euro-Zone – die ist dringend notwendig –, sondern auch ganz praktisch, zum Beispiel mit einer Reform der Kommission. Einige Länder in Europa zucken, wenn sie hören, die Deutschen und Franzosen hätten sich vielleicht über die Zahl der Kommissare geeinigt, weil sie sich denken: Deutschland und Frankreich machen sich einen schlanken Fuß, und die kleineren Mitgliedstaaten sollen dann verzichten. – Wenn wir wirklich mit der Verkleinerung der Kommission vorankommen wollen, die ich für richtig halte – genannt wurde zum Beispiel die Zahl von 15 Kommissaren –, dann müssen Deutschland und Frankreich vorangehen,</p>
+        <kommentar>(Christian Lindner [FDP]: Sehr gut!)</kommentar>
+        <p klasse="O">und zwar entweder dadurch, dass wir uns einen Kommissar teilen, oder dadurch, dass wir uns beim Stellen eines Kommissars abwechseln. Erst dann werden die anderen bereit sein, mitzumachen, sonst nicht, liebe Kolleginnen und Kollegen.</p>
+        <kommentar>(Beifall bei Abgeordneten der SPD, der FDP und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Wie gesagt: ein mutiger Vorschlag; wir sollten mal darüber nachdenken.</p>
+        <p klasse="J">Das Gleiche gilt für transnationale Listen. Wir reden immer darüber: Transnationale Listen – das könnte ja was Schönes sein bei den nächsten Wahlen zum Europäischen Parlament. Am Schluss sagen wir: Das ist eine ganz tolle Idee, aber das machen wir erst beim nächsten Mal.<a id="S699" name="S699" typ="druckseitennummer"/></p>
+        <p klasse="J">Insofern sage ich zum Schluss: Wir alle wollen – ich glaube, die meisten wollen das –, dass meine Tochter Marlene und alle Menschen in Europa, die nicht wissen, was ein Erbfeind ist, ihr Leben selbst in die Hand nehmen und so gestalten können, wie sie es möchten. Ich habe auch keinen Zweifel daran, dass sie das hinbekommen. Dafür brauchen sie politische Rahmenbedingungen und politische Entscheidungen. Ich will, dass diese Entscheidungen in Berlin, in Paris und in Brüssel gefällt werden und nicht in Moskau, in Washington oder in Peking, liebe Kolleginnen und Kollegen.</p>
+        <kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der FDP)</kommentar>
+        <p klasse="O">Deshalb brauchen wir die deutsch-französische Zusammenarbeit, deshalb brauchen wir eine Vertiefung der Europäischen Union.</p>
+        <p klasse="J">Schönen Dank.</p>
+        <kommentar>(Beifall bei der SPD und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Nächste Rednerin ist die Vorsitzende der AfD-Fraktion, Dr. Alice Weidel.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+      </rede>
+      <rede id="ID19901100" media-id="7193970">
+        <p klasse="redner"><redner id="11004930"><name><titel>Dr.</titel><vorname>Alice</vorname><nachname>Weidel</nachname><fraktion>AfD</fraktion></name></redner>Dr. Alice Weidel (AfD):</p>
+        <p klasse="J_1">Sehr geehrter Herr Präsident! Sehr geehrter Herr Präsident de Rugy! Liebe Kolleginnen und Kollegen! Werte Kolleginnen und Kollegen der Nationalversammlung! Deutschland als Profiteur des Euros – hören Sie endlich auf mit diesem Unfug, hören Sie auf mit diesem Ammenmärchen! Sie verstehen von Ökonomie rein gar nichts. Überhaupt nichts!</p>
+        <kommentar>(Beifall bei der AfD – Lachen bei Abgeordneten der CDU/CSU und der SPD)</kommentar>
+        <p klasse="J">Im Hohen Haus wird heute eine Feierstunde wegen eines Vertragswerks abgehalten,</p>
+        <kommentar>(Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Nein, wir haben eine Parlamentsdebatte! Eine Feierstunde sieht anders aus!)</kommentar>
+        <p klasse="O">das von Ihnen vollkommen umgedeutet wird. Die Unterzeichner, Konrad Adenauer und Charles de Gaulle, sahen im Élysée-Vertrag ein deutsch-französisches Freundschaftsabkommen, einen rein bilateralen Vertrag als Ausgleich zur Bindung der jungen Bundesrepublik an die NATO. Insbesondere de Gaulle hatte stets ein Europa der Vaterländer im Auge, sehr geehrte Damen und Herren.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="O">Sie aber betreiben ganz bewusst eine Geschichtsklitterung, wenn Sie das Abkommen zum Anlass nehmen, einen zentralistischen europäischen Superstaat zu etablieren, dem die Prinzipien der Gewaltenteilung und demokratischen Teilhabe völlig fremd sind.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="O">Kein Wunder also, dass die Parteien, die schon länger hier sitzen, bei der Erstellung einer gemeinsamen Resolution lieber unter sich bleiben wollten und die AfD-Fraktion komplett, vollständig übergangen haben – und damit 13 Prozent der Wähler! Schämen Sie sich dafür!</p>
+        <kommentar>(Beifall bei der AfD – Michael Grosse-Brömer [CDU/CSU]: Wenn Sie nicht in die Strümpfe kommen, dann können wir doch nichts dazu! – Dr. Marco Buschmann [FDP]: Freitag haben Sie denen noch allen den Krieg erklärt, und jetzt wollen Sie konferieren? – Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Haben Sie eigentlich noch nicht gemerkt, dass die Rolle nicht mehr aufgeht?)</kommentar>
+        <p klasse="J">Richtig ist: Die europäische Einigung, die 1951 mit der Montanunion ihren Anfang nahm, war eine Antwort auf die schrecklichen Katastrophen des vorigen Jahrhunderts, auf Chauvinismus und nationalen Sozialismus.</p>
+        <kommentar>(Britta Haßelmann [BÜNDNIS 90/DIE GRÜNEN]: Die Rolle geht nicht jede Woche auf, Frau Weidel! – Zuruf des Abg. Martin Schulz [SPD])</kommentar>
+        <p klasse="O">– Hören Sie einfach zu, dann können Sie vielleicht auch noch etwas lernen hier vorne. Seien Sie endlich still!</p>
+        <kommentar>(Beifall bei der AfD – Martin Schulz [SPD]: Parlamentsgouvernante! – Dr. Marco Buschmann [FDP]: So ist das mit der Meinungsfreiheit! Das ist schwer erträglich offenbar!)</kommentar>
+        <p klasse="J">Den Generationen, die Krieg und Verderben erleben mussten, erschien das Friedensprojekt Europa als Hoffnung auf eine bessere Zukunft. Doch die ursprüngliche Vision eines Europas gleichberechtigter und souveräner Staaten wurde schnell beiseitegewischt. Es haben sich jene Kräfte durchgesetzt, die durch möglichst unumkehrbare Verflechtungen der Volkswirtschaften politische Fakten schaffen wollten. Ein großer Europäer, der erkannt hatte, dass dies ein Irrweg ist, war der Wirtschaftswissenschaftler Wilhelm Röpke. Er stellte einst fest – ich zitiere –:</p>
+        <p klasse="Z">… daß es das Wesen Europas ausmacht, eine Einheit in der Vielfalt zu sein, weshalb dann alles Zentristische Verrat … Europas ist, auch im wirtschaftlichen Bereiche.</p>
+        <p klasse="O">Zitat Ende.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <p klasse="J">Spätestens mit der Einführung des Euro wurde dieser Verrat vollzogen. Viele Ökonomen hatten vor dessen Einführung gewarnt. Ihnen war klar, dass es auf eine gewaltige Umverteilung durch öffentliche Kapitaltransfers hinauslaufen würde, um die Störung der Zahlungsbilanzen durch Wegfall der Wechselkurse zu korrigieren. Jenseits jeder ökonomischer Vernunft wurde der Euro dennoch eingeführt. Er wird seither permanent rechtswidrig gerettet und künstlich am Leben erhalten, mit allen Mitteln,</p>
+        <kommentar>(Beifall bei der AfD)<a id="S700" name="S700" typ="druckseitennummer"/></kommentar>
+        <p klasse="O">durch Geldschwemme, Null- und Negativzinsen und Vermögenspreisinflation – zum Leidwesen aller Bürger Europas, deren reale Kaufkraft und Sparkapital durch Ihre Politik dramatisch abschmilzen, während Sie sich als Schuldenstaaten entschulden können. Und das nennt man Enteignung, sehr geehrte Damen und Herren.</p>
+        <p klasse="J">Das ist auch der Grund, warum die EU in einer Akzeptanz- und Legitimationskrise steckt. Vor allem im Süden Europas, auch in Frankreich, hat dies zu hoher Arbeitslosigkeit und infolgedessen zu schweren sozialen Verwerfungen geführt. Und die Spirale wollen Sie weiterdrehen. Das ist kein gutes Zeugnis für ein Projekt, das sich heute noch als Garant von Frieden und Freiheit sieht, vor allem nicht, wenn der deutsche Steuerzahler am Ende für alles und jeden geradestehen und zahlen muss.</p>
+        <kommentar>(Beifall bei der AfD – Dr. Diether Dehm [DIE LINKE]: Ach, das ist doch Unsinn!)</kommentar>
+        <p klasse="J">Emmanuel Macrons sozialistische planwirtschaftliche Ansätze – das will ich in aller Deutlichkeit sagen –, beispielsweise einer europäischen Arbeitslosenversicherung, einer Bankenunion oder eines gemeinsamen Haushaltes, sprechen da eine ganz deutliche Sprache, die wir als AfD entschieden ablehnen, sehr geehrte Damen und Herren. Deutschland kann nicht der Zahlmeister Europas sein.</p>
+        <kommentar>(Beifall bei der AfD – Martin Schulz [SPD]: Deutschnationales Gefasel ist das!)</kommentar>
+        <p klasse="J">Doch nicht nur der innere Friede ist bedroht, auch um die Freiheit muss man sich Sorgen machen. Die Strategie der vollendeten Tatsachen bringt die mündigen Bürger um ihr demokratisches Recht, die entscheidenden Zukunftsfragen offen zu debattieren und frei zu bestimmen. Zugleich mischt sich eine anmaßende Bürokratie in nahezu sämtliche Bereiche des Lebens ein. Der selbstbestimmte Mensch, der seine Verantwortung in die eigene Hand nimmt und seinen Freiraum gegenüber dem Staat beansprucht, wird zunehmend in die Defensive gedrängt.</p>
+        <kommentar>(Beifall bei Abgeordneten der AfD)</kommentar>
+        <p klasse="O">Das ist ein eklatanter Rückschritt, was Bürgerrechte, Demokratie und die politische Kultur im Allgemeinen betrifft.</p>
+        <p klasse="J">Darum muss Europa endlich wieder zu seinen Wurzeln zurückkehren, ein Kontinent der Freiheit und eine Einheit in der Vielfalt zu sein unter Einhaltung der Regeln des Rechts, sehr geehrte Damen und Herren.</p>
+        <kommentar>(Beifall bei der AfD)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Jetzt hat das Wort der Kollege Michael Link, FDP.</p>
+        <kommentar>(Beifall bei der FDP)</kommentar>
+      </rede>
+      <rede id="ID19901200" media-id="7193973">
+        <p klasse="redner"><redner id="11003802"><name><vorname>Michael Georg</vorname><nachname>Link</nachname><fraktion>FDP</fraktion></name></redner>Michael Georg Link (FDP):</p>
+        <p klasse="J_1">Herr Präsident! Monsieur le Président de l’Assemblée! Liebe Kolleginnen und Kollegen! Chers collègues! Ich möchte heute über Mut sprechen, den Mut, Trennendes zu überwinden, aufeinander zuzugehen, den Mut, über Brücken zu gehen, etwas Neues anzufangen. Mut, das brauchte es, als 1963 zwei Staatsmänner und zwei Nationen beschlossen, ihre alte Feindschaft für immer hinter sich zu lassen. Kurz nach dem Zweiten Weltkrieg – die Erinnerungen an die Gräueltaten waren noch wach – half der Élysée-Vertrag, diese Aussöhnung zwischen den Völkern Frankreichs und Deutschlands zu besiegeln. Er legte den Grundstein für die Freundschaft zwischen den beiden Ländern.</p>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, es ist schade, aber Charles de Gaulle kann sich nicht wehren gegen die Vereinnahmung, die er heute erfährt,</p>
+        <kommentar>(Beifall bei Abgeordneten der FDP)</kommentar>
+        <p klasse="O">und zwar – wir haben es gehört – von einer Fraktion, der jegliches Überwinden des Nullsummenspiels, das uns in Europa ja erst in die problematische Situation geführt hat, fremd ist. Die Ideen von Charles de Gaulle waren sehr viel visionärer, gingen weit über das Europa der Vaterländer hinaus. Viele Projekte sind damals leider nicht zustande gekommen. Die Konzepte dazu lagen in den Schubladen, waren so gut wie vorbereitet. Die Geschichte unserer Nachbarschaft ist immer noch in Bewegung. Wir haben es heute selbst in der Hand, mehr an Gemeinsamkeiten daraus zu machen.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</kommentar>
+        <p klasse="J">Die Geschichte unserer Nachbarschaft kennt mehr als Feindschaft und Freundschaft, sie kennt mehr als nur Krieg und Frieden. Sie ist auch die Geschichte einer besonderen Nähe, einer gegenseitigen Beeinflussung, gerade auch kulturell. So ist es gewiss kein Zufall, liebe Kolleginnen und Kollegen, dass eines der schönsten Worte, um jenen Mut zu umschreiben, dessen es bedurfte, um das schwierigste Kapitel unserer wechselhaften Geschichte zu überwinden, aus dem Französischen stammt: Courage. Charles de Gaulle und Konrad Adenauer hatten den Mut, die Courage, mit dem Élysée-Vertrag politisches Neuland zu betreten.</p>
+        <p klasse="J">Neuland betraten aber auch Generationen junger Menschen, die als Folge des Élysée-Vertrages zum ersten Mal in das jeweilige Nachbarland fuhren, die Sprache des Nachbarn lernten, als Schüler viel Zeit im Nachbarland verbrachten – wie auch ich es durfte – und dort lebenslange Freundschaften schlossen. Mut zeigten auch Unternehmer, die neue Geschäftsbeziehungen über die Grenze hinweg aufbauten. Airbus ist angesprochen worden, welch Perle der Zusammenarbeit. Viele solcher Projekte könnten wir uns vorstellen. Präsident Macron hat auch dazu ja neue Ideen eingebracht. Kulturschaffende taten sich für gemeinsame Initiativen zusammen. Unsere Kinos, Marktplätze, Theater und Bücherregale wurden bunter und vielfältiger. Auch hier brauchte es Mut, sich auf neue Impulse einzulassen.<a id="S701" name="S701" typ="druckseitennummer"/></p>
+        <p klasse="J">Heute, auf den Tag genau 55 Jahre danach, haben wir tatsächlich sehr viel erreicht. Unsere enge Zusammenarbeit hat sich immer wieder als Motor des europäischen Einigungsprozesses erwiesen. Oft hat das hartnäckige Ringen um den richtigen Kompromiss das deutsch-französische Paar in die Lage versetzt, europäische Lösungen vorzuzeichnen. Viele unserer Nachbarn beruhigte das; denn das gemeinsame Auftreten der früheren Antipoden gab und gibt Europa Handlungsfähigkeit. Manchmal, besonders in jüngerer Zeit, führte es bei manchen Nachbarn aber auch zu einem Eindruck der Ausgegrenztheit. Dieser Eindruck könnte falscher nicht sein; denn wir laden andere ein, unsere Zusammenarbeit ist inklusiv. Wir möchten Formate wie das Weimarer Dreieck mit Polen und anderen Freunden, ob die Länder nun direkt an uns grenzen oder nicht, ausbauen. Wir dürfen uns nicht auf dem Erreichten ausruhen. Courage braucht es jetzt.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU)</kommentar>
+        <p klasse="J">So wollen wir mit unserer Resolution, die wir im Kollegenkreis gemeinsam erarbeitet haben – auch mein besonderer Dank gilt den Kolleginnen und Kollegen, die die Resolution mit erarbeitet haben, und insbesondere Andreas Jung, der die Federführung innehatte –, dieses Jubiläum mit ganz konkreten parlamentarischen Initiativen ergänzen, die den Alltag der Menschen in unseren beiden Ländern wirklich betreffen und bereichern. Ein Blick in die Grenzregion zwischen unseren beiden Ländern zeigt – ich sehe, die Bundesratsbank ist gut besetzt –, wie viel mehr da noch möglich wäre.</p>
+        <p klasse="J">Stimmen wir uns auch international noch enger ab! Ja, auch in den Vereinten Nationen wünschen wir uns eine engere Abstimmung mit Frankreich. Handeln wir noch mehr gemeinsam, zu unserem gemeinsamen Wohl, zum Wohle Frankreichs, zum Wohle Deutschlands und zum Wohle des vereinten Europas!</p>
+        <p klasse="J">Ich danke Ihnen.</p>
+        <kommentar>(Beifall bei der FDP und der CDU/CSU sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Jetzt hat das Wort die Kollegin Dr. Franziska Brantner, Bündnis 90/Die Grünen.</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+      </rede>
+      <rede id="ID19901300" media-id="7193974">
+        <p klasse="redner"><redner id="11004255"><name><titel>Dr.</titel><vorname>Franziska</vorname><nachname>Brantner</nachname><fraktion>BÜNDNIS 90/DIE GRÜNEN</fraktion></name></redner>Dr. Franziska Brantner (BÜNDNIS 90/DIE GRÜNEN):</p>
+        <p klasse="J_1">Sehr geehrter Herr Präsident! Cher Monsieur le Président de l’Assemblée! Sehr geehrte Damen und Herren! Chers amis! Freiheit, Frieden und Wohlstand in Europa bauen auf der Fähigkeit und dem Willen auf, deutsche und französische Interessen in Einklang zu bringen. Diese Fähigkeit und dieser Wille sind aber nicht gottgegeben; wir müssen und wir wollen sie wiederbeleben und stärken.</p>
+        <p klasse="J">Ich bin in einer Grenzstadt aufgewachsen, direkt am Rhein, in Neuenburg am Rhein. In der Nachbarstadt Müllheim befand sich in meiner Kindheit eine französische Kaserne. Heute ist dort die Deutsch-Französische Brigade stationiert. Ich hatte das große Glück, in Freiburg auf das deutsch-französische Gymnasium gehen zu können, eine Schule, die aufgrund des ersten Élysée-Vertrages geschaffen wurde. Diese Schule war und ist getragen von dem Willen zur Einheit in der Vielfalt. Sie ist getragen von der Überzeugung, dass es zusammen immer besser ist – trotz aller Schwierigkeiten – und dass Trennung in dieser Partnerschaft keine Option ist und auch nicht sein darf. Und sie ist getragen von der Überzeugung, dass diese Partnerschaft nur klappt, wenn man sich gegenseitig respektiert, zu Kompromissen bereit ist und solidarisch ist, dass sie nur klappt, wenn keiner Lehrmeister und keiner Schüler ist, sondern alle voneinander lernen.</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU, der SPD und der FDP)</kommentar>
+        <p klasse="O">Ich danke meinen ehemaligen Lehrerinnen und Lehrern für alles, was sie uns mit auf den Weg gegeben haben. Ich zehre und nähre mich heute noch davon.</p>
+        <p klasse="J">Ich fordere von der nächsten Regierung ein, endlich mit dieser Haltung, mit diesem Willen an die Reform Europas und der Euro-Zone heranzugehen, dass wir endlich dieses „Investieren oder Reformieren“ überwinden, es hinter uns lassen und zu einem klugen „und“ kommen können. Das ist das, was Deutschland und Frankreich schaffen können.</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Ich wünsche mir ferner, dass wir dieses unsägliche Schreckgespenst der Transferunion endlich in die Mottenkiste packen und uns die Vorschlage, die auf dem Tisch liegen, anschauen, und zwar in aller Ernsthaftigkeit und Konstruktivität.</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</kommentar>
+        <p klasse="O">Ich fordere von uns allen ein, dass unsere Richtschnur nicht die nächste Wahl und erst recht nicht die nächste Umfrage ist, sondern der Zusammenhalt Europas.</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</kommentar>
+        <p klasse="J">Frau Wagenknecht, Sie haben vorhin davon gesprochen, dass Europa nur die Kapitalinteressen durchsetzen würde. Wer bietet denn Google, Apple und anderen Konzernen die Stirn, wenn es um Steuern geht? Es ist doch wohl die Europäische Kommission, die gerade diesen Kampf führt!</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU und der FDP)</kommentar>
+        <p klasse="J">Frau Wagenknecht, Sie haben hier gefordert, Deutschland und Frankreich sollten eine gemeinsame Unternehmensteuer einführen. Dann stimmen Sie der Resolution zu! Das wird darin nämlich gefordert.</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN und bei der SPD sowie bei Abgeordneten der CDU/CSU und der FDP)<a id="S702" name="S702" typ="druckseitennummer"/></kommentar>
+        <p klasse="J">Sie reden davon, dass es um Mindestlöhne und um die Rechte von Arbeitnehmerinnen und Arbeitnehmern geht. Dann stimmen Sie der Resolution zu! Denn da steht eindeutig drin, dass Deutschland und Frankreich die sozialen Rechte in Europa stärken wollen. Stimmen Sie zu, und geben Sie sich einen Ruck! Die Resolution ist da wunderbar.</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU, der SPD und der FDP – Dr. Dietmar Bartsch [DIE LINKE]: Hätten Sie gleich dafür gesorgt, dass wir mittun können, das wäre besser gewesen! Sie haben beim Ausgrenzen mitgemacht!)</kommentar>
+        <p klasse="J">Ich wünsche mir, dass wir genau so viel Mut wie die Generationen vor uns beweisen. Die hatten es doch viel schwerer als wir. Die mussten noch mit Feinden – mit Erbfeinden, Herr Post; Sie haben es gesagt – reden. Wir müssen nur mit Freundinnen und Freunden Europa voranbringen. Das ist im Vergleich dazu doch eigentlich ein Klacks.</p>
+        <p klasse="J">Lassen Sie uns das gemeinsam angehen! Falls wir noch ein bisschen länger auf eine Regierung warten müssen: Wir können ja schon einmal mit der Arbeit anfangen. Wir alle sind gewählt und arbeitsfähig. In diesem Sinne: Merci beaucoup! Amitié toujours! Vive l’Europe! Es lebe Europa!</p>
+        <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN, bei der CDU/CSU, der SPD und der FDP)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Jetzt hat Andreas Jung, CDU/CSU-Fraktion, das Wort.</p>
+        <kommentar>(Beifall bei der CDU/CSU)</kommentar>
+      </rede>
+      <rede id="ID19901400" media-id="7193975">
+        <p klasse="redner"><redner id="11003780"><name><vorname>Andreas</vorname><nachname>Jung</nachname><fraktion>CDU/CSU</fraktion></name></redner>Andreas Jung (CDU/CSU):</p>
+        <p klasse="J_1">Sehr geehrte Herren Präsidenten! Liebe Kolleginnen und Kollegen aus dem Deutschen Bundestag und aus der französischen Assemblée! Meine sehr geehrten Damen und Herren! Sie, Herr Präsident Dr. Schäuble, haben eingangs dieser Sondersitzung gesagt, heute sei der Tag der Parlamente. Ich will daran anschließen und sagen: Ich finde, es ist heute eine Sternstunde unserer Parlamente. Das ist deshalb der Fall, weil sich abzeichnet, dass sich heute eine große Mehrheit im Deutschen Bundestag genauso wie später in der französischen Assemblée dafür aussprechen wird, unsere Partnerschaft zu erneuern, einen neuen Impuls zu geben und einen neuen Élysée-Vertrag auf den Weg zu bringen.</p>
+        <p klasse="J">Wenn man in unsere Geschichte schaut, dann stellt man fest, dass das alles andere als selbstverständlich ist. Vor 55 Jahren war dies zunächst ein Projekt von zwei Staatsmännern, von Konrad Adenauer und Charles de Gaulle, die beide beide Weltkriege erlebt haben, die das Leid gesehen haben, das diese Kriege über beide Nationen gebracht haben, die sich kennengelernt und Vertrauen gefasst haben und die gemeinsam beschlossen haben: Wir wollen ein neues Kapitel für unsere Länder aufschlagen und Europa gemeinsam voranbringen. – Dazu gab es in beiden Ländern Zustimmung, es gab aber auch Zurückhaltung und Skepsis, auch im Deutschen Bundestag. Die Abgeordneten des Deutschen Bundestages haben dem Élysée-Vertrag bei der Ratifizierung eine Präambel vorangestellt, in der ergänzend zum Bekenntnis zur Freundschaft mit Frankreich die Zusammenarbeit mit den USA und mit Großbritannien in besonderer Weise gewürdigt wurde.</p>
+        <p klasse="J">Wenn wir uns die Situation heute vergegenwärtigen, 55 Jahre später, dann müssen wir feststellen, dass die transatlantische Partnerschaft infrage gestellt ist und die Briten aus der EU austreten wollen. Deshalb ist es für mich umso klarer, dass das Grundlegende für uns die deutsch-französische Freundschaft ist als unser Motor für Europa.</p>
+        <kommentar>(Beifall bei der CDU/CSU sowie bei Abgeordneten der SPD, der FDP und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Ich bin überzeugt, dass es uns heute umso leichter fällt, diesen Weg gemeinsam zu gehen, als in den letzten 55 Jahren dieses Projekt von einem Projekt der Staatsmänner und -frauen zu einem Projekt der Menschen wurde, zu einem Herzensanliegen der Bürgerinnen und Bürger in Deutschland und Frankreich mit 2 200 Partnerschaften, mit vielfältigen Austauschen, Verflechtungen und Freundschaften. Wir sind – Präsident de Rugy hat es vorhin gesagt; ich finde, man kann es nicht treffender ausdrücken – zu einer Familie zusammengewachsen.</p>
+        <kommentar>(Beifall bei der CDU/CSU und der FDP sowie bei Abgeordneten der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Herzlichen Dank für diese Worte, Herr de Rugy.</p>
+        <p klasse="J">Ich finde, es ist eine große Besonderheit, dass wir heute eben nicht eine Feierstunde haben, in der ein französischer Gast spricht, sondern dass wir eine parlamentarische Debatte haben, in der der Präsident der französischen Assemblée zu Beginn gesprochen hat. Auch das ist Kennzeichen dieser Vertrautheit, dieser Besonderheit der deutsch-französischen Beziehungen. Dies wird später ergänzt werden durch die Rede unseres Bundestagspräsidenten in der Assemblée. Wir wollen es nicht bei diesem einmaligen Ereignis belassen, sondern wir bekennen uns in dieser Resolution dazu, dass wir bis zum nächsten Jahr ein deutsch-französisches Parlamentsabkommen auf den Weg bringen wollen – so etwas wie einen Élysée-Vertrag der Parlamente –, in dem wir uns versprechen und in dem wir vereinbaren, dass wir eine engste Zusammenarbeit pflegen, dass wir im besten Fall immer von vornherein europäisches Recht gemeinsam umsetzen, und in dem wir uns zusagen, einen ganz engen Austausch der Fachausschüsse, aller Gremien zu pflegen. Ich finde, auch das ist ein ganz entscheidender Fortschritt.</p>
+        <kommentar>(Beifall bei Abgeordneten der CDU/CSU, der SPD, der FDP und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Dass es dann gelingen wird – voraussichtlich –, an einem solchen Tag eine Resolution zu verabschieden, die von neun Fraktionen getragen wird, von fünf Fraktionen in der Assemblée und von vier Fraktionen im Deutschen Bundestag, das ist, finde ich, ein ausgesprochen gutes Ergebnis.<a id="S703" name="S703" typ="druckseitennummer"/></p>
+        <p klasse="J">Nun haben wir gehört, nicht alle Fraktionen in diesem Hause tragen diese Resolution mit. Es ist jeder Fraktion unbenommen, parlamentarische Initiativen zu unterstützen, eigene Initiativen auf den Weg zu bringen, so wie es die Linken mit ihrem Antrag machen, weil sie sagen, dass sie Dinge in Europa anders sehen, oder auch keine vorzulegen, wie es die AfD-Fraktion gemacht hat, die weder im Vorfeld noch heute eine parlamentarische Initiative vorgelegt hat. Das ist Ihr gutes Recht, aber dann beschweren Sie sich bitte nicht bei den anderen darüber, dass Sie nichts getan haben.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</kommentar>
+        <p klasse="J">In der Sache ist mir es wichtig zu betonen, Herr Dr. Gauland und Frau Dr. Weidel, dass wir, die wir diese Initiative unterstützen, unser Land ganz gewiss mindestens so sehr lieben, wie Sie es für sich in Anspruch nehmen. Aber wir teilen eine Überzeugung, nämlich dass die Antwort auf die Herausforderungen der Globalisierung eben nicht Nationalismus ist, nicht Protektionismus, auch nicht die Rückkehr zur D-Mark, Frau Dr. Weidel, sondern gemeinsame Initiativen und europäische Gemeinsamkeiten.</p>
+        <kommentar>(Dr. Bernd Baumann [AfD]: Auch nicht ­Zentralismus in Brüssel!)</kommentar>
+        <p klasse="O">– Ich möchte Sie daran erinnern, Herr Dr. Baumann, in dieser Debatte gab es bisher zwei Redner, die das Wort von einem europäischen Superstaat und von einem Bundesstaat der Vereinigten Staaten von Europa in den Mund genommen haben, und das sind die beiden Abgeordneten, die vor Ihnen sitzen. Uns geht es darum, Handlungsfähigkeit in Europa zu beweisen und Antworten auf drängende Fragen zu geben.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der SPD)</kommentar>
+        <p klasse="J">Das tun wir besonders in dem Kapitel der Resolution, in dem wir uns für die Zusammenarbeit in den Grenzregionen aussprechen: Hürden abbauen, Europa erlebbar machen, Sprachen besser lernen, Menschen zusammenbringen, Betriebe, die grenzüberschreitend tätig sein können, und Arbeitssuchende, die ohne Hürden im anderen Land tätig werden können. Europa muss vor Ort erlebbar werden. Wir wollen konkrete Verbesserungen für die Menschen – auch beim Klimaschutz, für den wir Initiativen für Ladestationen für Elektroautos und grenzüberschreitende Energienetze starten wollen. Das alles wollen wir ganz konkret umsetzen.</p>
+        <p klasse="J">Ich bedanke mich sehr für die Zusammenarbeit in der Parlamentariergruppe bei den Kollegen Post, Link, Franziska Brantner, Jürgen Hardt und allen Weiteren, die mitgewirkt haben. Herzlichen Dank! Wir werden weiter mit Leidenschaft für die deutsch-französische Freundschaft arbeiten.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Jetzt erteile ich das Wort der Abgeordneten Dr. Frauke Petry.</p>
+      </rede>
+      <rede id="ID19901500" media-id="7193976">
+        <p klasse="redner"><redner id="11004851"><name><titel>Dr.</titel><vorname>Frauke</vorname><nachname>Petry</nachname><fraktion>fraktionslos</fraktion></name></redner>Dr. Frauke Petry (fraktionslos):</p>
+        <p klasse="J_1">Sehr geehrter Herr Président François de Rugy! Sehr geehrter Herr Bundestagspräsident! Sehr geehrte Damen und Herren! Der deutsch-französische Freundschaftsvertrag, dessen Unterzeichnung wir heute zum 55. Mal feiern, ist ein Anlass zur Freude. Die deutsche-französische Freundschaft ist zweifelsohne ein Meilenstein in der gesamteuropäischen Geschichte.</p>
+        <p klasse="J">Freude darf aber nicht zur utopischen Verklärung werden, wie es hinsichtlich des europäischen Projektes zu oft geschieht. Absichtserklärungen und sentimentale Gefühle haben nicht das heutige europäische Haus erbaut, sondern rationale und handfeste politische Absichten, die vorteilhaft für alle Beteiligten waren.</p>
+        <p klasse="J">Deutschland und Frankreich trennt und verbindet eine wechselvolle Geschichte. Über Jahrhunderte rangen beide Länder um die Vorherrschaft auf dem Kontinent. Dass Vergangenheit ohne Zukunft und Zukunft ohne Vergangenheit nicht denkbar sind, wissen wir alle. Das bestimmt das Wesen jeder politischen Debatte.</p>
+        <p klasse="J">Die Vergangenheit liegt nicht nur in den Gräbern der Gefallenen von Sedan und Verdun, sie ist ebenso im großen kulturellen und wirtschaftlichen Wettbewerb unserer beiden Länder verankert. Es war die große Leistung Konrad Adenauers und Charles de Gaulles, in die Weite und Tiefe der wechselvollen Geschichte zu blicken und daraus trotz aller Verletzungen der Vergangenheit eine positive Zukunft für unsere beiden Länder und Europa zu schöpfen.</p>
+        <p klasse="J">Der Élysée-Vertrag war dabei nicht der Beginn, sondern Bestandteil des Versöhnungsprozesses zwischen einstigen Erbfeinden und formulierte als Grundpfeiler eines neuen Europas eine gemeinsame Sicherheitspolitik, wirtschaftliche Verflechtungen und kulturellen Austausch.</p>
+        <p klasse="J">Meine Damen und Herren, ein halbes Jahrhundert später entwerfen Union und SPD in ihren Sondierungen einen sogenannten Aufbruch für Europa. Doch er besteht vor allem in mehr Zentralismus, mehr Kontrolle, mehr Ausgaben – Letzteres von deutscher Seite sogar in vorauseilendem Gehorsam. Vom Bürgerwillen, der die Demokratie erst konstituiert, bleibt in der europäischen Realität zu wenig übrig. Eine bürgernähere EU heißt für Sie doch zuallererst, dass Sie es nur besser erklären, aber nichts anders machen wollen. Wir hören viel von Solidarität; allein, von Freiheit lesen wir viel zu wenig.</p>
+        <p klasse="J">Ein europäisches Bewusstsein entsteht nicht, weil es Regierungen oder Abgeordnete wollen. Es entsteht, wenn die Menschen Europa tatsächlich selbst als eine Idee empfinden, mit der sie sich im täglichen Leben identifizieren können. Aber ein Europa, das zunehmend historische Identitäten, spezifische Kulturen und ethische Konstanten vergisst, bleibt ein kaltes, formloses Europa, basierend auf einem bürokratischen Apparat und totem Papier.<a id="S704" name="S704" typ="druckseitennummer"/></p>
+        <p klasse="J">Meine Damen und Herren, es wird Zeit, das europäische Projekt im Schweizer Sinne von Subsidiarität, Wettbewerb, dem Zusammenleben verschiedener Mentalitäten und Sprachen vom Kopf auf die Füße zu stellen. Ein Europa der Freiheit, der Verantwortung, des Wettbewerbs: dieses brauchen wir. Und es wäre ein wahrhaft europäisches Signal gewesen, wenn zu der vorgelegten Resolution vorab eine breite öffentliche Debatte stattgefunden hätte.</p>
+        <p klasse="J">Es gibt keine Freiheit ohne Wahrhaftigkeit. Il n’y a pas d’amitié sans sincérité.</p>
+        <p klasse="J">Herzlichen Dank.</p>
+        <kommentar>(Beifall bei Abgeordneten der AfD)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Letzter Redner in dieser Debatte ist der Kollege Jürgen Hardt, CDU/CSU-Fraktion.</p>
+        <kommentar>(Beifall bei der CDU/CSU)</kommentar>
+      </rede>
+      <rede id="ID19901600" media-id="7193979">
+        <p klasse="redner"><redner id="11004050"><name><vorname>Jürgen</vorname><nachname>Hardt</nachname><fraktion>CDU/CSU</fraktion></name></redner>Jürgen Hardt (CDU/CSU):</p>
+        <p klasse="J_1">Monsieur le Président! Chers collègues! Lieber Herr Präsident! Liebe Kolleginnen und Kollegen! Ich bin im Jahr 1963, dem Jahr des Élysée-Vertrags, geboren, und ich bin mit 15 Jahren als Austauschschüler in Frankreich gewesen – auch als Ergebnis dieses Vertrages.</p>
+        <p klasse="J">Ein Erlebnis ist mir wie kein anderes in Erinnerung geblieben. Ich bin mit meinem Brief- und Austauschschülerfreund zu seinem Großvater gefahren, der in der Nähe von Compiègne in einem kleinen Haus lebte und mir als dem deutschen Schüler eine Botschaft mitgeben wollte, die er immer wiederholt hat: Plus jamais la guerre! Nie wieder Krieg! – Das hat mich damals als 15-Jährigen ziemlich befremdet; denn ich hatte alles Mögliche im Kopf, aber nicht Krieg mit Frankreich. Ich war auf einem schönen Peugeot-Fahrrad durch den Forêt de Compiègne dahingeradelt, und dieser alte Mann konfrontierte mich mit seinem Trauma, wie ich heute sagen würde, dass er mit Deutschland die Kriegsgefahr verband.</p>
+        <p klasse="J">Was für ein großes Herz muss die Generation der Großväter und Großmütter unserer Austauschschüler gehabt haben, dass sie uns damals, 1963, zu diesem Freundschaftsvertrag die Hand gereicht haben. Das war eine großartige Leistung, einmalig im 20. Jahrhundert. Herzlichen Dank dafür!</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der LINKEN)</kommentar>
+        <p klasse="J">Ich möchte zum Schluss dieser Debatte den Blick auf einen Aspekt lenken, der in unserem gemeinsamen Antrag eine große Rolle spielt, und zwar unsere gemeinsame Verantwortung für Europa. Der Kollege Christian Lindner hat es angesprochen: Deutschland und Frankreich müssen gut zusammenarbeiten, damit Europa vorankommt. Aber es darf natürlich nicht der Eindruck entstehen, als seien Deutschland und Frankreich die Lehrmeister der Europäischen Union. Ich glaube, dass die Balance zwischen der uns natürlich zuwachsenden Verantwortung als den beiden großen Nationen in der Mitte Europas einerseits und den Interessen der mittleren und kleineren Staaten der Europäischen Union in den letzten Jahren gut gelungen ist. Wahr ist auch: Wenn Deutschland und Frankreich im Europäischen Rat nicht vorangehen, dann gehen die Blicke der anderen Staats- und Regierungschefs durchaus Richtung französischem Staatspräsident und deutscher Bundeskanzlerin, nach dem Motto: Was habt ihr euch denn überlegt? – Insofern ist das keine Rolle, in die wir uns hineindrängen, sondern eine Rolle, mit der wir gut umgehen können.</p>
+        <p klasse="J">Ein gutes Beispiel der letzten Monate, dass eine solche deutsch-französische Initiative unter Einbeziehung der anderen zu einem guten Ergebnis führen kann, ist die PESCO, die vereinbarte Ständige Strukturierte Zusammenarbeit im Bereich der Verteidigungspolitik. Unsere Bundeskanzlerin, die Verteidigungsministerin und der Außenminister haben zunächst mit den Franzosen, dann aber auch sehr schnell mit anderen europäischen Staats- und Regierungschefs darüber gesprochen, was wir tun können, und am Ende dürfen wir feststellen, dass nahezu alle Nationen der Europäischen Union an der PESCO, der Ständigen Strukturierten Zusammenarbeit im Bereich der Verteidigungspolitik, mitwirken – eine deutsch-französische Initiative, die die Unterstützung vieler mittlerer, kleinerer und kleinster europäischer Mitgliedstaaten bekommt. Das ist, wie ich finde, ein Beleg dafür, dass es funktioniert.</p>
+        <p klasse="J">Mit Blick auf die nächsten Monate und Jahre haben wir große Projekte, bei denen es auf die deutsch-französische Freundschaft und die Abstimmung unserer Politik ankommt. Ich glaube, dass wir die ehrgeizigen Klimaziele des Vertrags von Paris nur erreichen können, wenn wir uns innerhalb der Europäischen Union auf die geeigneten Instrumente verständigen; Christian Lindner hat es bereits angesprochen. Es müssen natürlich marktwirtschaftliche Instrumente sein. Wir brauchen keine Instrumente, die den Wettbewerb verzerren, sondern Instrumente, die uns der Dekarbonisierung unserer Wirtschaft, wie es auf Neudeutsch heißt, näherbringen. Das ist eines der Projekte.</p>
+        <kommentar>(Beifall bei der FDP sowie bei Abgeordneten der CDU/CSU – Christian Lindner [FDP]: Kohleausstiegsgesetz!)</kommentar>
+        <p klasse="J">Das nächste große Projekt, das vor uns liegt, ist die Frage, wie wir mit dem Brexit umgehen. Ich finde gut, was wir in den letzten Tagen bei den Gesprächen zwischen der britischen Premierministerin und dem französischen Staatspräsidenten erlebt haben: dass man sich konkret den ersten wichtigen Fragen im Zusammenhang mit dem Brexit, so er denn überhaupt jemals stattfindet, widmet. Ich glaube, dass wir in Europa eine Sprache gegenüber den britischen Bürgerinnen und Bürgern finden müssen, die klarmacht: Egal wie der Vertrag am Ende aussieht, egal wann und wie der Brexit stattfindet, es muss eine enge Freundschaft zwischen den Briten und den Bürgerinnen und Bürgern der Europäischen Union auch nach dem Brexit geben. Unsere Beziehungen werden immer besondere sein.</p>
+        <kommentar>(Beifall bei Abgeordneten der FDP)</kommentar>
+        <p klasse="O">Es wäre schön, wenn das nicht nur in Deutschland so gesehen wird, sondern auch in Frankreich.<a id="S705" name="S705" typ="druckseitennummer"/></p>
+        <kommentar>(Beifall bei Abgeordneten der CDU/CSU, der SPD, der FDP, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN sowie des Abg. Albrecht Glaser [AfD])</kommentar>
+        <p klasse="J">Zum Schluss. Wir müssen auch darüber nachdenken, was wir tun können, damit die Menschen in Europa noch mehr als bisher verstehen, dass die Europäische Union zur Lösung der Probleme beiträgt, die die Menschen beschäftigen. Die Europäische Union hat in Lissabon Versprechen abgegeben. Sie will die innovativste und dynamischste Wirtschaftsregion der Welt sein. Sie will hochwertige Arbeitsplätze für die Menschen schaffen. Wir haben auch versprochen, dass wir unsere Grenzen zuverlässig vor denen schützen, die keinen Grund haben, in unsere Europäische Union einzureisen. Ich fürchte, dass wir bei diesen drei Versprechen – wirtschaftliche Dynamik, Bekämpfung von Jugendarbeitslosigkeit und Sicherung der Grenzen – nicht an dem Punkt sind, dass die Bürgerinnen und Bürger sagen: Jawohl, 15 Jahre nachdem ihr uns das versprochen habt, ist das umgesetzt. Deswegen glaube ich, dass es einer starken Initiative des Europäischen Rates, der Europäischen Kommission und des Europäischen Parlaments, aber eben auch der deutschen und französischen Regierung bedarf, um Erfolge vorzuweisen, damit die Bürgerinnen und Bürger ihr Vertrauen in die Europäische Union restlos zurückgewinnen.</p>
+        <p klasse="J">In diesem Sinne: Auf die deutsch-französische Freundschaft!</p>
+        <p klasse="J">Danke schön.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <name>Präsident Dr. Wolfgang Schäuble:</name>
+        <p klasse="J_1">Damit schließe ich die Aussprache.</p>
+        <p klasse="J">Wir kommen zur Abstimmung über die Entschließungsanträge.</p>
+        <p klasse="J">Ich rufe zunächst den Entschließungsantrag der Fraktion Die Linke mit dem Titel „Europa aus der Krise führen: Ein neuer Élysée-Vertrag“ auf. Wer stimmt für den Entschließungsantrag auf Drucksache 19/495? – Gegenprobe! – Enthaltungen? – Der Entschließungsantrag ist gegen die Stimmen der Fraktion Die Linke mit den Stimmen aller anderen Fraktionen abgelehnt.</p>
+        <p klasse="J">Damit komme ich zum Entschließungsantrag der Fraktionen CDU/CSU, SPD, FDP und Bündnis 90/Die Grünen mit dem Titel „Für einen neuen Élysée-Vertrag – Die Rolle der Parlamente in der deutsch-französischen Zusammenarbeit stärken, Gemeinsame Resolution von Deutschem Bundestag und Assemblée nationale zum 55. Jahrestag des Élysée-Vertrags am 22. Januar 2018“. Wer stimmt für den Entschließungsantrag auf Drucksache 19/440? – Wer stimmt dagegen? – Enthaltungen? – Der Entschließungsantrag ist bei einigen Enthaltungen aus der Fraktion Die Linke und Gegenstimmen der übrigen Mitglieder der Fraktion Die Linke und der AfD mit Zustimmung der übrigen Fraktionen angenommen.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der FDP und dem BÜNDNIS 90/DIE GRÜNEN)</kommentar>
+        <p klasse="J">Ich möchte mich noch einmal herzlich bei Präsident François de Rugy und den Kollegen der französischen Delegation für ihre Teilnahme an dieser Sitzung bedanken.</p>
+        <kommentar>(Langanhaltender Beifall bei der Delegation der Assemblée nationale, der CDU/CSU, der SPD, der FDP, der LINKEN und dem BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der AfD – Die Delegation der Assemblée nationale, die Fraktionen der CDU/CSU, der SPD, der FDP, der LINKEN, des Bündnisses 90/Die Grünen sowie Abgeordnete der AfD erheben sich)</kommentar>
+        <p klasse="O">Wir werden im Anschluss mit einer Delegation des Bundestages mit Ihnen gemeinsam nach Paris zur Sitzung der Assemblée nationale fliegen.</p>
+        <p klasse="J">Ich berufe die nächste Sitzung des Deutschen Bundestages auf Mittwoch, den 31. Januar 2018, 14.30 Uhr, ein.</p>
+        <p klasse="J">Die Sitzung ist geschlossen.</p>
+        <p klasse="T_Beratung">(Schluss: 13.08 Uhr)</p>
+      </rede>
+    </tagesordnungspunkt>
+    <sitzungsende sitzung-ende-uhrzeit="13:08"/>
+  </sitzungsverlauf>
+  <anlagen>
+    <anlagen-titel>Anlagen zum Stenografischen Bericht</anlagen-titel>
+    <anlage>
+      <anlagen-titel>Anlage 1</anlagen-titel>
+      <anlagen-text anlagen-typ="Liste der entschuldigten Abgeordneten">
+        <a id="S707" name="S707" typ="druckseitennummer"/>
+        <p klasse="Anlage_2">Liste der entschuldigten Abgeordneten<a id="S708" name="S708" typ="druckseitennummer"/></p>
+        <p klasse="J">
+          <table><tbody><tr><th>Abgeordnete(r)</th><th/><th>entschuldigt bis einschließlich</th></tr><tr><td>Akbulut, Gökay</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Auernhammer, Artur</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Bartol, Sören</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Behrens (Börde), Manfred</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Beutin, Lorenz Gösta</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Binding (Heidelberg), Lothar</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Bluhm, Heidrun</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Brackmann, Norbert</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Bülow, Marco</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Burkert, Martin</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Cronenberg, Carl-Julius</td><td>FDP</td><td>22.01.2018</td></tr><tr><td>Dassler, Britta Katharina</td><td>FDP</td><td>22.01.2018</td></tr><tr><td>Domscheit-Berg, Anke</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Fischer (Karlsruhe-Land), Axel E.</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Föst, Daniel</td><td>FDP</td><td>22.01.2018</td></tr><tr><td>Frieser, Michael</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Gabelmann, Sylvia</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Gastel, Matthias</td><td>BÜNDNIS 90/DIE GRÜNEN</td><td>22.01.2018</td></tr><tr><td>Gerster, Martin</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Gohlke, Nicole</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Grötsch, Uli</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Gutting, Olav</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Hahn, Dr. André</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Hänsel, Heike</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Held, Marcus</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Hendricks, Dr. Barbara</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Herzog, Gustav</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Hessel, Katja</td><td>FDP</td><td>22.01.2018</td></tr><tr><td>Höhn, Matthias</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Irlstorfer, Erich</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Irmer, Hans-Jürgen</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Janecek, Dieter</td><td>BÜNDNIS 90/DIE GRÜNEN</td><td>22.01.2018</td></tr><tr><td>Kemmer, Ronja</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Klein, Karsten</td><td>FDP</td><td>22.01.2018</td></tr><tr><td>Konrad, Carina</td><td>FDP</td><td>22.01.2018</td></tr><tr><td>Körber, Carsten</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Krischer, Oliver</td><td>BÜNDNIS 90/DIE GRÜNEN</td><td>22.01.2018</td></tr><tr><td>Künast, Renate</td><td>BÜNDNIS 90/DIE GRÜNEN</td><td>22.01.2018</td></tr><tr><td>Lazar, Monika</td><td>BÜNDNIS 90/DIE GRÜNEN</td><td>22.01.2018</td></tr><tr><td>Lehmann, Sven</td><td>BÜNDNIS 90/DIE GRÜNEN</td><td>22.01.2018</td></tr><tr><td>Leidig, Sabine</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Loos, Bernhard</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Ludwig, Daniela</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Lühmann, Kirsten</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Luksic, Oliver</td><td>FDP</td><td>22.01.2018</td></tr><tr><td>Matschie, Christoph</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Michelbach, Dr. h. c. Hans</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Mieruch, Mario</td><td>fraktionslos</td><td>22.01.2018</td></tr><tr><td>Mihalic, Irene</td><td>BÜNDNIS 90/DIE GRÜNEN</td><td>22.01.2018</td></tr><tr><td>Moll, Claudia</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Müller (Chemnitz), Detlef</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Müller, Axel</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Müller, Bettina</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Müller, Dr. Gerd</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Müntefering, Michelle</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Ortleb, Josephine</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Özoğuz, Aydan</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Pellmann, Sören</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Pilger, Detlev</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Pilsinger, Stephan</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Post, Florian</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Radomski, Kerstin</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Rehberg, Eckhardt</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Roth (Heringen), Michael</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Rüthrich, Susann</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Schmidt (Aachen), Ulla</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Schulz (Spandau), Swen</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Schulz, Jimmy</td><td>FDP</td><td>22.01.2018</td></tr><tr><td>Schwabe, Frank</td><td>SPD</td><td>22.01.2018</td></tr><tr><td>Silberhorn, Thomas</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Skudelny, Judith</td><td>FDP</td><td>22.01.2018</td></tr><tr><td>Stracke, Stephan</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Ulrich, Alexander</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Weiler, Dr. h. c. Albert</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Weinberg, Harald</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Wellenreuther, Ingo</td><td>CDU/CSU</td><td>22.01.2018</td></tr><tr><td>Werner, Katrin</td><td>DIE LINKE</td><td>22.01.2018</td></tr><tr><td>Witt, Uwe</td><td>AfD</td><td>22.01.2018</td></tr><tr><td>Zimmermann, Pia</td><td>DIE LINKE</td><td>22.01.2018</td></tr></tbody></table>
+        </p>
+      </anlagen-text>
+    </anlage>
+  </anlagen>
+  <rednerliste sitzung-datum="22.01.2018">
+    <redner id="11001938">
+      <name>
+        <vorname>Dr. Wolfgang</vorname>
+        <nachname>Schäuble</nachname>
+        <rolle><rolle_lang>Präsident Dr. Wolfgang Schäuble</rolle_lang><rolle_kurz>Präsident Dr. Wolfgang Schäuble</rolle_kurz></rolle>
+      </name>
+    </redner>
+    <redner id="999999986755">
+      <name>
+        <vorname>François</vorname>
+        <nachname>de Rugy</nachname>
+        <rolle><rolle_lang>Präsident der  Assemblée nationale</rolle_lang><rolle_kurz>Präsident der  Assemblée nationale</rolle_kurz></rolle>
+      </name>
+    </redner>
+    <redner id="11001074">
+      <name>
+        <vorname>Volker</vorname>
+        <nachname>Kauder</nachname>
+        <fraktion>CDU/CSU</fraktion>
+      </name>
+    </redner>
+    <redner id="11003196">
+      <name>
+        <vorname>Andrea</vorname>
+        <nachname>Nahles</nachname>
+        <fraktion>SPD</fraktion>
+      </name>
+    </redner>
+    <redner id="11004097">
+      <name>
+        <vorname>Christian</vorname>
+        <nachname>Lindner</nachname>
+        <fraktion>FDP</fraktion>
+      </name>
+    </redner>
+    <redner id="11004183">
+      <name>
+        <titel>Dr.</titel>
+        <vorname>Sahra</vorname>
+        <nachname>Wagenknecht</nachname>
+        <fraktion>DIE LINKE</fraktion>
+      </name>
+    </redner>
+    <redner id="11002746">
+      <name>
+        <vorname>Cem</vorname>
+        <nachname>Özdemir</nachname>
+        <fraktion>BÜNDNIS 90/DIE GRÜNEN</fraktion>
+      </name>
+    </redner>
+    <redner id="11003516">
+      <name>
+        <vorname>Alexander</vorname>
+        <nachname>Dobrindt</nachname>
+        <fraktion>CDU/CSU</fraktion>
+      </name>
+    </redner>
+    <redner id="11004378">
+      <name>
+        <vorname>Achim</vorname>
+        <nachname>Post</nachname>
+        <ortszusatz>(Minden)</ortszusatz>
+        <fraktion>SPD</fraktion>
+      </name>
+    </redner>
+    <redner id="11004930">
+      <name>
+        <titel>Dr.</titel>
+        <vorname>Alice</vorname>
+        <nachname>Weidel</nachname>
+        <fraktion>AfD</fraktion>
+      </name>
+    </redner>
+    <redner id="11003802">
+      <name>
+        <vorname>Michael Georg</vorname>
+        <nachname>Link</nachname>
+        <fraktion>FDP</fraktion>
+      </name>
+    </redner>
+    <redner id="11004255">
+      <name>
+        <titel>Dr.</titel>
+        <vorname>Franziska</vorname>
+        <nachname>Brantner</nachname>
+        <fraktion>BÜNDNIS 90/DIE GRÜNEN</fraktion>
+      </name>
+    </redner>
+    <redner id="11003780">
+      <name>
+        <vorname>Andreas</vorname>
+        <nachname>Jung</nachname>
+        <fraktion>CDU/CSU</fraktion>
+      </name>
+    </redner>
+    <redner id="11004851">
+      <name>
+        <titel>Dr.</titel>
+        <vorname>Frauke</vorname>
+        <nachname>Petry</nachname>
+        <fraktion>fraktionslos</fraktion>
+      </name>
+    </redner>
+    <redner id="11004050">
+      <name>
+        <vorname>Jürgen</vorname>
+        <nachname>Hardt</nachname>
+        <fraktion>CDU/CSU</fraktion>
+      </name>
+    </redner>
+  </rednerliste>
+</dbtplenarprotokoll>

@@ -1,0 +1,464 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "children": [], 
+   "end": "10.320", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "children": [], 
+   "end": "18.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden offenbar \u00fcber die Fraktionsgrenzen hinweg von verschiedenen Dingen heute Morgen. "
+   ]
+  }, 
+  {
+   "begin": "18.000", 
+   "children": [], 
+   "end": "20.800", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen m\u00f6chte ich meine zwei Minuten Redezeit nutzen, "
+   ]
+  }, 
+  {
+   "begin": "20.800", 
+   "children": [], 
+   "end": "22.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "um Klarheit zu schaffen, "
+   ]
+  }, 
+  {
+   "begin": "22.640", 
+   "children": [], 
+   "end": "23.360", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "warum die Frage, "
+   ]
+  }, 
+  {
+   "begin": "23.360", 
+   "children": [], 
+   "end": "23.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "um die es geht, "
+   ]
+  }, 
+  {
+   "begin": "23.960", 
+   "children": [], 
+   "end": "25.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Frau G\u00f6ring-Eckardt, "
+   ]
+  }, 
+  {
+   "begin": "25.920", 
+   "children": [], 
+   "end": "29.560", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "nicht so sehr eine Frage des individuellen Falles ist, "
+   ]
+  }, 
+  {
+   "begin": "29.560", 
+   "children": [], 
+   "end": "29.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Herr Lischka, "
+   ]
+  }, 
+  {
+   "begin": "29.880", 
+   "children": [], 
+   "end": "32.400", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "und auch keine Frage von Fu\u00dfballspielen, "
+   ]
+  }, 
+  {
+   "begin": "32.400", 
+   "children": [], 
+   "end": "36.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "sondern eine Frage des Rechtsstaats und der F\u00e4higkeit, "
+   ]
+  }, 
+  {
+   "begin": "36.520", 
+   "children": [], 
+   "end": "38.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "zwischen individuellen Entscheidungen, "
+   ]
+  }, 
+  {
+   "begin": "38.320", 
+   "children": [], 
+   "end": "40.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "zwischen Moral und Recht zu differenzieren."
+   ]
+  }, 
+  {
+   "begin": "40.920", 
+   "children": [], 
+   "end": "41.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind der Gesetzgeber, "
+   ]
+  }, 
+  {
+   "begin": "41.840", 
+   "children": [], 
+   "end": "44.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und wir haben dar\u00fcber zu entscheiden, "
+   ]
+  }, 
+  {
+   "begin": "44.080", 
+   "children": [], 
+   "end": "47.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "was f\u00fcr dieses Land gut und richtig ist. "
+   ]
+  }, 
+  {
+   "begin": "47.400", 
+   "children": [], 
+   "end": "52.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "In den vergangenen Jahren wurden Asyl und Zuwanderung permanent verwechselt. "
+   ]
+  }, 
+  {
+   "begin": "52.880", 
+   "children": [], 
+   "end": "62.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "H\u00e4ufig wollten Sie ganz bewusst nicht differenzieren zwischen Fl\u00fcchtlingen und all den Ableitungen daraus, "
+   ]
+  }, 
+  {
+   "begin": "62.400", 
+   "children": [], 
+   "end": "65.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "zwischen Asylbewerbern und illegalen Migranten. "
+   ]
+  }, 
+  {
+   "begin": "65.600", 
+   "children": [], 
+   "end": "67.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es h\u00f6chste Zeit, "
+   ]
+  }, 
+  {
+   "begin": "67.480", 
+   "children": [], 
+   "end": "71.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dies endlich zu tun und den B\u00fcrgern dar\u00fcber reinen Wein einzuschenken, "
+   ]
+  }, 
+  {
+   "begin": "71.960", 
+   "children": [], 
+   "end": "82.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass das Parlament und die Regierung in den vergangenen Jahren gerade hinsichtlich einer Differenzierung versagt haben und dass dieses Versagen ein Ende haben muss."
+   ]
+  }, 
+  {
+   "begin": "82.560", 
+   "children": [], 
+   "end": "84.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Herr Bundesminister de Maizi\u00e8re, "
+   ]
+  }, 
+  {
+   "begin": "84.920", 
+   "children": [], 
+   "end": "85.600", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "es ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "85.600", 
+   "children": [], 
+   "end": "90.560", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass wir dringend eine Begrenzung des Familiennachzugs brauchen. "
+   ]
+  }, 
+  {
+   "begin": "90.560", 
+   "children": [], 
+   "end": "91.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Konsequent w\u00e4re, "
+   ]
+  }, 
+  {
+   "begin": "91.720", 
+   "children": [], 
+   "end": "95.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie nicht nur den kleinsten gemeinsamen Nenner mit der SPD f\u00e4nden, "
+   ]
+  }, 
+  {
+   "begin": "95.680", 
+   "children": [], 
+   "end": "97.240", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "sondern merkten, "
+   ]
+  }, 
+  {
+   "begin": "97.240", 
+   "children": [], 
+   "end": "100.720", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass es in diesem Hohen Hause eine ganze Reihe von Abgeordneten gibt, "
+   ]
+  }, 
+  {
+   "begin": "100.720", 
+   "children": [], 
+   "end": "103.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die einer sehr viel konsequenteren Regelung zustimmen w\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "103.880", 
+   "children": [], 
+   "end": "108.040", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Aber dies bedeutete Kompromisse \u00fcber Parteigrenzen hinweg, "
+   ]
+  }, 
+  {
+   "begin": "108.040", 
+   "children": [], 
+   "end": "109.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und wir alle wissen, "
+   ]
+  }, 
+  {
+   "begin": "109.040", 
+   "children": [], 
+   "end": "110.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "wie schwierig das ist."
+   ]
+  }, 
+  {
+   "begin": "110.240", 
+   "children": [], 
+   "end": "113.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Auch ich werde dem Gesetzentwurf der Union zustimmen, "
+   ]
+  }, 
+  {
+   "begin": "113.080", 
+   "children": [], 
+   "end": "114.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "allerdings unter Schmerzen, "
+   ]
+  }, 
+  {
+   "begin": "114.560", 
+   "children": [], 
+   "end": "118.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "weil ich eine Aussetzung bis zum 31.\u00a0Juli dieses Jahres f\u00fcr zu wenig halte; "
+   ]
+  }, 
+  {
+   "begin": "118.680", 
+   "children": [], 
+   "end": "120.480", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "aber sie ist besser als nichts, "
+   ]
+  }, 
+  {
+   "begin": "120.480", 
+   "children": [], 
+   "end": "121.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "im Sinne der B\u00fcrger, "
+   ]
+  }, 
+  {
+   "begin": "121.720", 
+   "children": [], 
+   "end": "126.440", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "im Sinne des Rechtsstaates und hoffentlich im Sinne einer zuk\u00fcnftigen Regelung, "
+   ]
+  }, 
+  {
+   "begin": "126.440", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "die endlich wieder differenziert: "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "132.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "zwischen einer notwendigen geregelten Einwanderung und dem, "
+   ]
+  }, 
+  {
+   "begin": "132.000", 
+   "children": [], 
+   "end": "134.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "was ein Gnadenrecht des Staates werden sollte, "
+   ]
+  }, 
+  {
+   "begin": "134.480", 
+   "children": [], 
+   "end": "135.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dem Asylrecht."
+   ]
+  }, 
+  {
+   "begin": "135.920", 
+   "children": [], 
+   "end": "138.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "138.560", 
+   "children": [], 
+   "end": "143.000", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner in dieser Debatte ist der Kollege Stephan Mayer von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "14.160", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "children": [], 
+   "end": "17.600", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "17.600", 
+   "children": [], 
+   "end": "20.880", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein Grundsatz ethischen Handelns, "
+   ]
+  }, 
+  {
+   "begin": "20.880", 
+   "children": [], 
+   "end": "23.320", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass wir eben nicht alles das, "
+   ]
+  }, 
+  {
+   "begin": "23.320", 
+   "children": [], 
+   "end": "27.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "was wir aufgrund von \u00dcberlegenheit und Macht tun k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "27.680", 
+   "children": [], 
+   "end": "30.240", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "auch tun d\u00fcrfen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "30.240", 
+   "children": [], 
+   "end": "31.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "einfach deshalb, "
+   ]
+  }, 
+  {
+   "begin": "31.560", 
+   "children": [], 
+   "end": "37.880", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "weil \u00dcberlegenheit und Macht immer auch etwas mit Verantwortung zu tun haben. "
+   ]
+  }, 
+  {
+   "begin": "37.880", 
+   "children": [], 
+   "end": "40.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Der Umgang mit anderen Lebewesen, "
+   ]
+  }, 
+  {
+   "begin": "40.480", 
+   "children": [], 
+   "end": "43.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "die uns schutzlos ausgeliefert sind, "
+   ]
+  }, 
+  {
+   "begin": "43.840", 
+   "children": [], 
+   "end": "50.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "ist insoweit auch ein Gradmesser f\u00fcr die moralische Integrit\u00e4t einer Gesellschaft;"
+   ]
+  }, 
+  {
+   "begin": "50.720", 
+   "children": [], 
+   "end": "59.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "deshalb gibt es zu Recht ein Tierschutzgesetz, "
+   ]
+  }, 
+  {
+   "begin": "59.120", 
+   "children": [], 
+   "end": "63.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und deshalb sollte es unser Anspruch sein, "
+   ]
+  }, 
+  {
+   "begin": "63.960", 
+   "children": [], 
+   "end": "68.320", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "derartige Gesetze nicht nur auf ein St\u00fcck Papier zu schreiben, "
+   ]
+  }, 
+  {
+   "begin": "68.320", 
+   "children": [], 
+   "end": "74.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch ihre Einhaltung einzufordern und durchzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "74.200", 
+   "children": [], 
+   "end": "83.400", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und deshalb ist der Rechtsprechung des EuGH zu diesem Thema auch ohne Wenn und Aber zuzustimmen."
+   ]
+  }, 
+  {
+   "begin": "83.400", 
+   "children": [], 
+   "end": "85.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Was diese Rechtsprechung bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "85.760", 
+   "children": [], 
+   "end": "87.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "was sie aussagt, "
+   ]
+  }, 
+  {
+   "begin": "87.040", 
+   "children": [], 
+   "end": "89.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "haben wir heute schon einmal geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "89.640", 
+   "children": [], 
+   "end": "98.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Durch die Entscheidung\u00a0C-424/13 des EuGH von April\u00a02015 wissen wir, "
+   ]
+  }, 
+  {
+   "begin": "98.640", 
+   "children": [], 
+   "end": "110.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass die Tiertransportvorgaben der EG-Verordnung Nr.\u00a01/2005 f\u00fcr den Export lebender Tiere aus der EU heraus auch au\u00dferhalb der EU-Grenzen, "
+   ]
+  }, 
+  {
+   "begin": "110.440", 
+   "children": [], 
+   "end": "112.920", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "also bis an den Bestimmungsort, "
+   ]
+  }, 
+  {
+   "begin": "112.920", 
+   "children": [], 
+   "end": "114.840", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "zu gelten haben. "
+   ]
+  }, 
+  {
+   "begin": "114.840", 
+   "children": [], 
+   "end": "119.400", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Verpflichtung zur Einhaltung dieser Bestimmungen endet also nicht, "
+   ]
+  }, 
+  {
+   "begin": "119.400", 
+   "children": [], 
+   "end": "121.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wie manche vielleicht meinen, "
+   ]
+  }, 
+  {
+   "begin": "121.680", 
+   "children": [], 
+   "end": "123.640", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "an den EU-Au\u00dfengrenzen, "
+   ]
+  }, 
+  {
+   "begin": "123.640", 
+   "children": [], 
+   "end": "125.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "und zwar egal, "
+   ]
+  }, 
+  {
+   "begin": "125.320", 
+   "children": [], 
+   "end": "127.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "ob der Transport in die T\u00fcrkei, "
+   ]
+  }, 
+  {
+   "begin": "127.760", 
+   "children": [], 
+   "end": "131.680", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "nach \u00c4gypten oder in den Libanon geht."
+   ]
+  }, 
+  {
+   "begin": "131.680", 
+   "children": [], 
+   "end": "134.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Warum ist dieses Urteil so wichtig? "
+   ]
+  }, 
+  {
+   "begin": "134.760", 
+   "children": [], 
+   "end": "135.960", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Es ist deshalb so wichtig, "
+   ]
+  }, 
+  {
+   "begin": "135.960", 
+   "children": [], 
+   "end": "138.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "weil wir feststellen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "138.280", 
+   "children": [], 
+   "end": "146.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass Empathie mit anderen Lebewesen in einigen L\u00e4ndern dieser Welt eher un\u00fcblich ist. "
+   ]
+  }, 
+  {
+   "begin": "146.640", 
+   "children": [], 
+   "end": "148.440", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Sollte jemand sagen, "
+   ]
+  }, 
+  {
+   "begin": "148.440", 
+   "children": [], 
+   "end": "150.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass sei nicht unser Problem, "
+   ]
+  }, 
+  {
+   "begin": "150.480", 
+   "children": [], 
+   "end": "151.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dann antworte ich: "
+   ]
+  }, 
+  {
+   "begin": "151.600", 
+   "children": [], 
+   "end": "154.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Doch, "
+   ]
+  }, 
+  {
+   "begin": "154.240", 
+   "children": [], 
+   "end": "156.160", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dies betrifft uns. "
+   ]
+  }, 
+  {
+   "begin": "156.160", 
+   "children": [], 
+   "end": "159.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Es betrifft uns genau in dem Moment, "
+   ]
+  }, 
+  {
+   "begin": "159.160", 
+   "children": [], 
+   "end": "165.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "in dem wir Lebendtiertransporte in diese L\u00e4nder zulassen. "
+   ]
+  }, 
+  {
+   "begin": "165.240", 
+   "children": [], 
+   "end": "166.800", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Es betrifft uns, "
+   ]
+  }, 
+  {
+   "begin": "166.800", 
+   "children": [], 
+   "end": "173.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "weil wir unserer Verantwortung an dieser Stelle leider nicht gerecht werden. "
+   ]
+  }, 
+  {
+   "begin": "173.480", 
+   "children": [], 
+   "end": "175.360", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es betrifft uns, "
+   ]
+  }, 
+  {
+   "begin": "175.360", 
+   "children": [], 
+   "end": "182.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "weil wir bewusst die Augen vor dem unendlichen Leid und den unn\u00f6tigen Grausamkeiten verschlie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "182.920", 
+   "children": [], 
+   "end": "184.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die daraus resultieren. "
+   ]
+  }, 
+  {
+   "begin": "184.720", 
+   "children": [], 
+   "end": "186.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Es betrifft uns, "
+   ]
+  }, 
+  {
+   "begin": "186.360", 
+   "children": [], 
+   "end": "196.200", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "weil wir eine gute und eine richtige Rechtsprechung des EuGH an dieser Stelle leider nicht umsetzen."
+   ]
+  }, 
+  {
+   "begin": "196.200", 
+   "children": [], 
+   "end": "198.680", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Welche Folge dies f\u00fcr den Tierschutz hat, "
+   ]
+  }, 
+  {
+   "begin": "198.680", 
+   "children": [], 
+   "end": "208.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "wurde durch die Bilder der bereits erw\u00e4hnten ZDF-Reportage \u201e37\u00a0Grad\u201c auf grausamste Weise verdeutlicht. "
+   ]
+  }, 
+  {
+   "begin": "208.040", 
+   "children": [], 
+   "end": "214.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Diese Bilder haben sich tief in das Bewusstsein vieler B\u00fcrger eingebrannt. "
+   ]
+  }, 
+  {
+   "begin": "214.360", 
+   "children": [], 
+   "end": "219.920", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben zu Recht zu einem Aufschrei der Emp\u00f6rung in der Bev\u00f6lkerung gef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "219.920", 
+   "children": [], 
+   "end": "228.400", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "In der Tat sind wir als Abgeordnete des Deutschen Bundestags gefordert, "
+   ]
+  }, 
+  {
+   "begin": "228.400", 
+   "children": [], 
+   "end": "230.440", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "alles Erdenkliche zu tun, "
+   ]
+  }, 
+  {
+   "begin": "230.440", 
+   "children": [], 
+   "end": "234.320", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "damit sich diese Bilder in der Zukunft nicht wiederholen."
+   ]
+  }, 
+  {
+   "begin": "234.320", 
+   "children": [], 
+   "end": "247.440", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "All das f\u00fchrt aber auch zu einer sehr unbequemen Frage, "
+   ]
+  }, 
+  {
+   "begin": "247.440", 
+   "children": [], 
+   "end": "248.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich zu der Frage, "
+   ]
+  }, 
+  {
+   "begin": "248.640", 
+   "children": [], 
+   "end": "254.480", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "warum wir den Tieren dieses Martyrium bis heute nicht erspart haben, "
+   ]
+  }, 
+  {
+   "begin": "254.480", 
+   "children": [], 
+   "end": "261.480", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "warum wir sie nicht tierschutzgerecht in deutschen Schlachth\u00f6fen schlachten und das Fleisch, "
+   ]
+  }, 
+  {
+   "begin": "261.480", 
+   "children": [], 
+   "end": "264.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wie es der Vorredner angedeutet hat, "
+   ]
+  }, 
+  {
+   "begin": "264.400", 
+   "children": [], 
+   "end": "265.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "exportieren? "
+   ]
+  }, 
+  {
+   "begin": "265.960", 
+   "children": [], 
+   "end": "268.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Frage, "
+   ]
+  }, 
+  {
+   "begin": "268.520", 
+   "children": [], 
+   "end": "276.480", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "um deren Beantwortung sich leider viele Kollegen und Kolleginnen aus politischer Korrektheit herumdr\u00fccken."
+   ]
+  }, 
+  {
+   "begin": "276.480", 
+   "children": [], 
+   "end": "278.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Einer der Hauptgr\u00fcnde ist n\u00e4mlich, "
+   ]
+  }, 
+  {
+   "begin": "278.360", 
+   "children": [], 
+   "end": "279.360", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass in vielen L\u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "279.360", 
+   "children": [], 
+   "end": "282.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "in welche wir die Tiere lebend liefern sollen, "
+   ]
+  }, 
+  {
+   "begin": "282.360", 
+   "children": [], 
+   "end": "286.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "diese aus religi\u00f6sen Gr\u00fcnden halal, "
+   ]
+  }, 
+  {
+   "begin": "286.600", 
+   "children": [], 
+   "end": "287.960", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "das hei\u00dft ohne Bet\u00e4ubung, "
+   ]
+  }, 
+  {
+   "begin": "287.960", 
+   "children": [], 
+   "end": "288.760", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "geschlachtet, "
+   ]
+  }, 
+  {
+   "begin": "288.760", 
+   "children": [], 
+   "end": "291.840", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "also gesch\u00e4chtet werden. "
+   ]
+  }, 
+  {
+   "begin": "291.840", 
+   "children": [], 
+   "end": "296.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Zu diesem allertraurigsten Teil der Wahrheit geh\u00f6rt leider auch, "
+   ]
+  }, 
+  {
+   "begin": "296.280", 
+   "children": [], 
+   "end": "298.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass das nicht nur in \u00c4gypten, "
+   ]
+  }, 
+  {
+   "begin": "298.360", 
+   "children": [], 
+   "end": "303.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur im Libanon und nicht nur in der T\u00fcrkei passiert, "
+   ]
+  }, 
+  {
+   "begin": "303.520", 
+   "children": [], 
+   "end": "309.880", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "sondern tausendfach direkt vor unseren Augen in der Bundesrepublik Deutschland."
+   ]
+  }, 
+  {
+   "begin": "309.880", 
+   "children": [], 
+   "end": "319.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb kann ich den Damen und Herren von der FDP, "
+   ]
+  }, 
+  {
+   "begin": "319.640", 
+   "children": [], 
+   "end": "323.080", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die Sie hier einen so tollen Antrag formulieren, "
+   ]
+  }, 
+  {
+   "begin": "323.080", 
+   "children": [], 
+   "end": "327.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die Frage genauso wenig ersparen wie den Kolleginnen und Kollegen der Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "327.400", 
+   "children": [], 
+   "end": "334.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "die sich so gerne f\u00fcr Kr\u00f6tentunnel einsetzen und auch mal den Bau einer wichtigen Stra\u00dfe wegen der Flugroute von Flederm\u00e4usen verhindern. "
+   ]
+  }, 
+  {
+   "begin": "334.440", 
+   "children": [], 
+   "end": "336.320", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage Sie alle: "
+   ]
+  }, 
+  {
+   "begin": "336.320", 
+   "children": [], 
+   "end": "345.560", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wo sind Sie gewesen mit Ihren Demon\u00adstrationen und Ihren Protestschildern gegen die Aushebelung des deutschen Tierschutzes?"
+   ]
+  }, 
+  {
+   "begin": "345.560", 
+   "children": [], 
+   "end": "346.720", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Aber es ist nie zu sp\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "346.720", 
+   "children": [], 
+   "end": "358.440", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Gern organisiere ich nachtr\u00e4glich f\u00fcr Sie einen Protestmarsch durch Berlin gegen das bet\u00e4ubungslose Sch\u00e4chten in unserem Land, "
+   ]
+  }, 
+  {
+   "begin": "358.440", 
+   "children": [], 
+   "end": "360.520", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "welches jeden Tag stattfindet."
+   ]
+  }, 
+  {
+   "begin": "360.520", 
+   "children": [], 
+   "end": "362.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Dann k\u00f6nnen Sie zeigen, "
+   ]
+  }, 
+  {
+   "begin": "362.440", 
+   "children": [], 
+   "end": "367.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "wie ernst es Ihnen mit dem Tierschutzgedanken in der Bundesrepublik Deutschland ist. "
+   ]
+  }, 
+  {
+   "begin": "367.720", 
+   "children": [], 
+   "end": "369.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Ich ahne allerdings, "
+   ]
+  }, 
+  {
+   "begin": "369.080", 
+   "children": [], 
+   "end": "372.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dass die Wenigsten von Ihnen bereit sein werden, "
+   ]
+  }, 
+  {
+   "begin": "372.320", 
+   "children": [], 
+   "end": "376.680", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "bei einer solchen Demonstration an meiner Seite mitzulaufen."
+   ]
+  }, 
+  {
+   "begin": "376.680", 
+   "children": [], 
+   "end": "386.560", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Wir von der AfD meinen es jedenfalls ernst mit dem Tierschutzgedanken, "
+   ]
+  }, 
+  {
+   "begin": "386.560", 
+   "children": [], 
+   "end": "387.960", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "und zwar auch dann, "
+   ]
+  }, 
+  {
+   "begin": "387.960", 
+   "children": [], 
+   "end": "392.720", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "wenn der politische Diskurs anstrengend und unbequem wird."
+   ]
+  }, 
+  {
+   "begin": "392.720", 
+   "children": [], 
+   "end": "396.080", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Darauf d\u00fcrfen Sie sich heute und in Zukunft verlassen."
+   ]
+  }, 
+  {
+   "begin": "396.080", 
+   "children": [], 
+   "end": "396.120", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "396.120", 
+   "children": [], 
+   "end": "411.000", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat die Kollegin Dr.\u00a0Kirsten Tackmann f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

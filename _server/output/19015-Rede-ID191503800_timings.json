@@ -1,0 +1,714 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.840", 
+   "children": [], 
+   "end": "7.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "children": [], 
+   "end": "21.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Auch wenn der vorliegende Antrag der Linken sein Thema gedanklich nicht in dem n\u00f6tigen Umfang durchdringt,"
+   ]
+  }, 
+  {
+   "begin": "21.480", 
+   "children": [], 
+   "end": "24.000", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "wichtige Abw\u00e4gungen nicht vollzieht, "
+   ]
+  }, 
+  {
+   "begin": "24.000", 
+   "children": [], 
+   "end": "32.080", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "sprachlich und inhaltlich \u00fcber weite Strecken leider auch die Ebene des Populistischen nicht zu verlassen vermag,"
+   ]
+  }, 
+  {
+   "begin": "32.080", 
+   "children": [], 
+   "end": "35.720", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "hat er doch einen positiven Aspekt: "
+   ]
+  }, 
+  {
+   "begin": "35.720", 
+   "children": [], 
+   "end": "41.840", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag gibt diesem neugew\u00e4hlten Deutschen Bundestag erneut Gelegenheit, "
+   ]
+  }, 
+  {
+   "begin": "41.840", 
+   "children": [], 
+   "end": "48.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "der unbestrittenen Dramatik der Atomwaffenpotenziale ins Auge zu sehen, "
+   ]
+  }, 
+  {
+   "begin": "48.680", 
+   "children": [], 
+   "end": "51.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "was immer wieder notwendig ist; "
+   ]
+  }, 
+  {
+   "begin": "51.080", 
+   "children": [], 
+   "end": "59.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "denn an eine existenzielle Herausforderung wie diese kann man sich einfach nicht gew\u00f6hnen."
+   ]
+  }, 
+  {
+   "begin": "59.000", 
+   "children": [], 
+   "end": "62.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Allein die M\u00f6glichkeit der totalen Zerst\u00f6rung unserer Welt, "
+   ]
+  }, 
+  {
+   "begin": "62.640", 
+   "children": [], 
+   "end": "70.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "allein das Vorhandensein der technischen Mittel f\u00fcr den Untergang muss jene heilsame Art der Angst wachhalten, "
+   ]
+  }, 
+  {
+   "begin": "70.280", 
+   "children": [], 
+   "end": "74.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die weder zu Lethargie noch zu Panik f\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "74.720", 
+   "children": [], 
+   "end": "79.080", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Da sich der Deutsche Bundestag f\u00fcr diese Legislaturperiode vorgenommen hat, "
+   ]
+  }, 
+  {
+   "begin": "79.080", 
+   "children": [], 
+   "end": "84.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "zentrale Themen der Politik aus eigenem Antrieb zu behandeln und weniger abzuwarten, "
+   ]
+  }, 
+  {
+   "begin": "84.920", 
+   "children": [], 
+   "end": "87.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "was ihm die Regierung zur Beschlussfassung anbietet, "
+   ]
+  }, 
+  {
+   "begin": "87.880", 
+   "children": [], 
+   "end": "93.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "passt der vorliegende Antrag zumindest insoweit zu diesem Ansatz."
+   ]
+  }, 
+  {
+   "begin": "93.120", 
+   "children": [], 
+   "end": "94.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Umso bedauerlicher, "
+   ]
+  }, 
+  {
+   "begin": "94.800", 
+   "children": [], 
+   "end": "96.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "96.640", 
+   "children": [], 
+   "end": "97.040", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "ist es, "
+   ]
+  }, 
+  {
+   "begin": "97.040", 
+   "children": [], 
+   "end": "101.680", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass der Antrag unseren Verfassungsauftrag, "
+   ]
+  }, 
+  {
+   "begin": "101.680", 
+   "children": [], 
+   "end": "105.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die Sicherheit unserer B\u00fcrger zu gew\u00e4hrleisten, "
+   ]
+  }, 
+  {
+   "begin": "105.480", 
+   "children": [], 
+   "end": "108.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "leider vollst\u00e4ndig ausblendet."
+   ]
+  }, 
+  {
+   "begin": "108.400", 
+   "children": [], 
+   "end": "110.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die bekannte Wahrheit, "
+   ]
+  }, 
+  {
+   "begin": "110.240", 
+   "children": [], 
+   "end": "113.080", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass einfache Dinge polar, "
+   ]
+  }, 
+  {
+   "begin": "113.080", 
+   "children": [], 
+   "end": "116.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "schwierigere ambivalent und die schwierigsten paradox sind, "
+   ]
+  }, 
+  {
+   "begin": "116.600", 
+   "children": [], 
+   "end": "119.120", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "zeigt sich auch hier: "
+   ]
+  }, 
+  {
+   "begin": "119.120", 
+   "children": [], 
+   "end": "125.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die nukleare Abschreckung hat den Frieden erhalten und nicht gef\u00e4hrdet. "
+   ]
+  }, 
+  {
+   "begin": "125.440", 
+   "children": [], 
+   "end": "127.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Das ist keine blo\u00dfe Behauptung, "
+   ]
+  }, 
+  {
+   "begin": "127.480", 
+   "children": [], 
+   "end": "134.560", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "sondern das ist ein seit Beginn des Kalten Krieges bis heute f\u00fcr jedermann ersichtlicher Sachverhalt."
+   ]
+  }, 
+  {
+   "begin": "134.560", 
+   "children": [], 
+   "end": "136.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Was die Semantik betrifft, "
+   ]
+  }, 
+  {
+   "begin": "136.560", 
+   "children": [], 
+   "end": "144.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "hat die Linke in ihren Antr\u00e4gen seit Jahren ohnehin ein seltsames Verst\u00e4ndnis des Wortes \u201eFrieden\u201c, "
+   ]
+  }, 
+  {
+   "begin": "144.000", 
+   "children": [], 
+   "end": "149.960", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und in diesem Verst\u00e4ndnis liegt eine gewisse historische Kontinuit\u00e4t bis hinein ins Absurde insofern, "
+   ]
+  }, 
+  {
+   "begin": "149.960", 
+   "children": [], 
+   "end": "153.320", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "als es beispielsweise ihrer Vorg\u00e4ngerpartei gelungen ist, "
+   ]
+  }, 
+  {
+   "begin": "153.320", 
+   "children": [], 
+   "end": "156.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die Berliner Mauer als \u201eFriedenswall\u201c zu bezeichnen."
+   ]
+  }, 
+  {
+   "begin": "156.680", 
+   "children": [], 
+   "end": "159.440", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Das waren Ihre Vorg\u00e4nger."
+   ]
+  }, 
+  {
+   "begin": "159.440", 
+   "children": [], 
+   "end": "160.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wenn also\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "160.800", 
+   "children": [], 
+   "end": "162.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "und ich kehre zu meinem Gedanken zur\u00fcck\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "162.560", 
+   "children": [], 
+   "end": "165.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "die nukleare Abschreckung den Frieden erhalten hat, "
+   ]
+  }, 
+  {
+   "begin": "165.320", 
+   "children": [], 
+   "end": "168.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "darf auch in unserer Zeit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "168.200", 
+   "children": [], 
+   "end": "169.560", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "darum geht es jetzt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "169.560", 
+   "children": [], 
+   "end": "174.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die Glaubw\u00fcrdigkeit der nuklearen Abschreckung nicht gef\u00e4hrdet werden, "
+   ]
+  }, 
+  {
+   "begin": "174.120", 
+   "children": [], 
+   "end": "180.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und es darf bei der nuklearen Teilhabe der Allianzmitglieder keine nationalen Alleing\u00e4nge geben."
+   ]
+  }, 
+  {
+   "begin": "180.800", 
+   "children": [], 
+   "end": "183.280", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Der Bundestag w\u00e4re schlecht beraten, "
+   ]
+  }, 
+  {
+   "begin": "183.280", 
+   "children": [], 
+   "end": "189.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "den Doppelansatz aus nuklearer Abr\u00fcstung und nuklearer Abschreckung aufzugeben;"
+   ]
+  }, 
+  {
+   "begin": "189.640", 
+   "children": [], 
+   "end": "190.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dies, "
+   ]
+  }, 
+  {
+   "begin": "190.960", 
+   "children": [], 
+   "end": "193.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "193.640", 
+   "children": [], 
+   "end": "196.480", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4re aber die Konsequenz dieses Antrags, "
+   ]
+  }, 
+  {
+   "begin": "196.480", 
+   "children": [], 
+   "end": "200.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "der uns von den Nuklearwaffenstaaten der NATO isolieren w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "200.800", 
+   "children": [], 
+   "end": "203.760", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "die wie alle anderen Nuklearwaffenstaaten weltweit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "203.760", 
+   "children": [], 
+   "end": "208.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "das ist in der Debatte zu Recht angesprochen worden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "208.360", 
+   "children": [], 
+   "end": "210.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "den Vertragstext ablehnen."
+   ]
+  }, 
+  {
+   "begin": "210.840", 
+   "children": [], 
+   "end": "214.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Es m\u00fcsste auf den ersten Blick eigentlich f\u00fcr jeden ersichtlich sein, "
+   ]
+  }, 
+  {
+   "begin": "214.200", 
+   "children": [], 
+   "end": "218.560", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Vertrag ohne die entscheidenden Atomwaffenstaaten"
+   ]
+  }, 
+  {
+   "begin": "218.560", 
+   "children": [], 
+   "end": "221.960", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "und die diesbez\u00fcglichen Schwellenstaaten schlicht sinnlos ist. "
+   ]
+  }, 
+  {
+   "begin": "221.960", 
+   "children": [], 
+   "end": "225.840", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Es bliebe eine rein moralisierende Deklaration, "
+   ]
+  }, 
+  {
+   "begin": "225.840", 
+   "children": [], 
+   "end": "234.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "mit deren \u00dcbernahme wir eine politische Spaltung der NATO herbeif\u00fchren und damit unseren Sicherheitsinteressen deutlich zuwiderhandeln w\u00fcrden, "
+   ]
+  }, 
+  {
+   "begin": "234.680", 
+   "children": [], 
+   "end": "236.720", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "236.720", 
+   "children": [], 
+   "end": "237.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Denjenigen, "
+   ]
+  }, 
+  {
+   "begin": "237.520", 
+   "children": [], 
+   "end": "239.520", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die uns sch\u00fctzen sollen, "
+   ]
+  }, 
+  {
+   "begin": "239.520", 
+   "children": [], 
+   "end": "242.760", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "einen neuen deutschen Moralimperialismus um die Ohren zu schlagen, "
+   ]
+  }, 
+  {
+   "begin": "242.760", 
+   "children": [], 
+   "end": "243.960", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "ist keine gute Idee. "
+   ]
+  }, 
+  {
+   "begin": "243.960", 
+   "children": [], 
+   "end": "246.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die Annahme des Antrags w\u00e4re deshalb nicht nur schlecht, "
+   ]
+  }, 
+  {
+   "begin": "246.720", 
+   "children": [], 
+   "end": "248.200", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "sondern verh\u00e4ngnisvoll, "
+   ]
+  }, 
+  {
+   "begin": "248.200", 
+   "children": [], 
+   "end": "249.760", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "und die Mehrheit des Hauses wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "249.760", 
+   "children": [], 
+   "end": "250.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "warum sie ihn ablehnen wird."
+   ]
+  }, 
+  {
+   "begin": "250.640", 
+   "children": [], 
+   "end": "250.880", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "250.880", 
+   "children": [], 
+   "end": "251.920", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe die Aussprache zu TOP\u00a017."
+   ]
+  }, 
+  {
+   "begin": "251.920", 
+   "children": [], 
+   "end": "258.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/98 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
+   ]
+  }, 
+  {
+   "begin": "258.760", 
+   "children": [], 
+   "end": "261.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sind Sie damit einverstanden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "261.280", 
+   "children": [], 
+   "end": "262.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist das so beschlossen."
+   ]
+  }
+ ]
+}

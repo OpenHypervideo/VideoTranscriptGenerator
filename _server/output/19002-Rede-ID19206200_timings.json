@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.001", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "0.001", 
+   "children": [], 
+   "end": "8.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "children": [], 
+   "end": "12.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der irische Autor James Joyce schrieb in \u201eUlysses\u201c:"
+   ]
+  }, 
+  {
+   "begin": "12.920", 
+   "children": [], 
+   "end": "14.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Geschichte ist ein Albtraum, "
+   ]
+  }, 
+  {
+   "begin": "14.960", 
+   "children": [], 
+   "end": "17.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "aus dem ich aufzuwachen versuche."
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "children": [], 
+   "end": "18.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ich verstehe daher, "
+   ]
+  }, 
+  {
+   "begin": "18.280", 
+   "children": [], 
+   "end": "23.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass Irland Kredite des Internationalen W\u00e4hrungsfonds vorzeitig abl\u00f6sen will. "
+   ]
+  }, 
+  {
+   "begin": "23.600", 
+   "children": [], 
+   "end": "27.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die Marktzinsen sind niedriger als die Zinsen des IWF; "
+   ]
+  }, 
+  {
+   "begin": "27.400", 
+   "children": [], 
+   "end": "31.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "denn die EZB kauft Staatsanleihen und senkt die Zinsen. "
+   ]
+  }, 
+  {
+   "begin": "31.960", 
+   "children": [], 
+   "end": "36.600", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Irland muss die Gl\u00e4ubiger wegen der Parallelit\u00e4tsklausel gleichbehandeln. "
+   ]
+  }, 
+  {
+   "begin": "36.600", 
+   "children": [], 
+   "end": "40.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wenn der IWF 100\u00a0Prozent seiner Kredite zur\u00fcckerh\u00e4lt, "
+   ]
+  }, 
+  {
+   "begin": "40.720", 
+   "children": [], 
+   "end": "45.400", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcsste Irland auch die anderen Gl\u00e4ubiger entsprechend bedienen. "
+   ]
+  }, 
+  {
+   "begin": "45.400", 
+   "children": [], 
+   "end": "49.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Der deutsche Finanzminister will darauf verzichten. "
+   ]
+  }, 
+  {
+   "begin": "49.160", 
+   "children": [], 
+   "end": "52.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die Haftung der Steuerzahler in Deutschland nimmt zu, "
+   ]
+  }, 
+  {
+   "begin": "52.520", 
+   "children": [], 
+   "end": "55.680", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wenn der IWF vorrangig bedient wird."
+   ]
+  }, 
+  {
+   "begin": "55.680", 
+   "children": [], 
+   "end": "58.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Zinsen niedrig bleiben, "
+   ]
+  }, 
+  {
+   "begin": "58.200", 
+   "children": [], 
+   "end": "61.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "sinkt wom\u00f6glich das Ausfallrisiko. "
+   ]
+  }, 
+  {
+   "begin": "61.360", 
+   "children": [], 
+   "end": "62.640", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen es nicht. "
+   ]
+  }, 
+  {
+   "begin": "62.640", 
+   "children": [], 
+   "end": "65.680", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Der Brexit k\u00f6nnte Irland hart treffen."
+   ]
+  }, 
+  {
+   "begin": "65.680", 
+   "children": [], 
+   "end": "67.200", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Ein Blick zur\u00fcck: "
+   ]
+  }, 
+  {
+   "begin": "67.200", 
+   "children": [], 
+   "end": "70.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Irland stand 2010 vor dem Kollaps. "
+   ]
+  }, 
+  {
+   "begin": "70.080", 
+   "children": [], 
+   "end": "71.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Die Immobilienblase platzte, "
+   ]
+  }, 
+  {
+   "begin": "71.640", 
+   "children": [], 
+   "end": "75.440", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Banken wie die Anglo Irish Bank waren nur noch Zombies, "
+   ]
+  }, 
+  {
+   "begin": "75.440", 
+   "children": [], 
+   "end": "76.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "lebende Tote. "
+   ]
+  }, 
+  {
+   "begin": "76.960", 
+   "children": [], 
+   "end": "79.440", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die knapp 70\u00a0Milliarden Euro der Rettungsschirme, "
+   ]
+  }, 
+  {
+   "begin": "79.440", 
+   "children": [], 
+   "end": "82.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "der europ\u00e4ischen und bilateralen Kredite sowie des IWF, "
+   ]
+  }, 
+  {
+   "begin": "82.920", 
+   "children": [], 
+   "end": "84.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "retteten keine Krankenschwester, "
+   ]
+  }, 
+  {
+   "begin": "84.600", 
+   "children": [], 
+   "end": "85.880", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "keinen Rentner. "
+   ]
+  }, 
+  {
+   "begin": "85.880", 
+   "children": [], 
+   "end": "89.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Sie retteten irische und auch deutsche Banken."
+   ]
+  }, 
+  {
+   "begin": "89.600", 
+   "children": [], 
+   "end": "90.280", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Dies, "
+   ]
+  }, 
+  {
+   "begin": "90.280", 
+   "children": [], 
+   "end": "92.920", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "verehrte Kolleginnen und Kollegen von der SPD, "
+   ]
+  }, 
+  {
+   "begin": "92.920", 
+   "children": [], 
+   "end": "94.160", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "ist der einzige Punkt, "
+   ]
+  }, 
+  {
+   "begin": "94.160", 
+   "children": [], 
+   "end": "95.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "der mich an Ihrem Antrag st\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "95.760", 
+   "children": [], 
+   "end": "100.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Sie sprechen von der gro\u00dfartigen Solidarit\u00e4t Deutschlands mit Irland. "
+   ]
+  }, 
+  {
+   "begin": "100.080", 
+   "children": [], 
+   "end": "101.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagen aber nicht: "
+   ]
+  }, 
+  {
+   "begin": "101.160", 
+   "children": [], 
+   "end": "102.760", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Solidarit\u00e4t mit wem? "
+   ]
+  }, 
+  {
+   "begin": "102.760", 
+   "children": [], 
+   "end": "103.880", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage es Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "103.880", 
+   "children": [], 
+   "end": "109.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Bei deutschen Gro\u00dfbanken standen 138\u00a0Milliarden US-Dollar im Feuer. "
+   ]
+  }, 
+  {
+   "begin": "109.120", 
+   "children": [], 
+   "end": "112.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das k\u00f6nnen Sie auch mit irischem Whiskey nicht bezahlen."
+   ]
+  }, 
+  {
+   "begin": "112.360", 
+   "children": [], 
+   "end": "118.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "2008 erl\u00e4uterte der CEO der Anglo Irish Bank dem Chef der Finanzaufsicht, "
+   ]
+  }, 
+  {
+   "begin": "118.600", 
+   "children": [], 
+   "end": "120.800", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "er br\u00e4uchte 7\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "120.800", 
+   "children": [], 
+   "end": "122.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Warum 7? "
+   ]
+  }, 
+  {
+   "begin": "122.120", 
+   "children": [], 
+   "end": "126.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Ein Abteilungsleiter der Bank erkl\u00e4rte sp\u00e4ter in einem mitgeschnittenen Telefonat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "126.800", 
+   "children": [], 
+   "end": "130.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere w\u00f6rtlich und bitte die Pr\u00e4sidentin um Verzeihung\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "130.960", 
+   "children": [], 
+   "end": "134.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "diese Summe habe er sich \u201eaus dem Arsch gezogen\u201c. "
+   ]
+  }, 
+  {
+   "begin": "134.640", 
+   "children": [], 
+   "end": "135.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das Geld solle\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "135.760", 
+   "children": [], 
+   "end": "137.160", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere erneut\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "137.160", 
+   "children": [], 
+   "end": "138.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "\u201ezur \u00dcberbr\u00fcckung dienen, "
+   ]
+  }, 
+  {
+   "begin": "138.840", 
+   "children": [], 
+   "end": "141.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "bis wir zur\u00fcckzahlen, "
+   ]
+  }, 
+  {
+   "begin": "141.160", 
+   "children": [], 
+   "end": "142.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich nie!\u201c"
+   ]
+  }, 
+  {
+   "begin": "142.800", 
+   "children": [], 
+   "end": "146.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Die Rettung der Anglo Irish Bank kostete 30\u00a0Milliarden Euro, "
+   ]
+  }, 
+  {
+   "begin": "146.160", 
+   "children": [], 
+   "end": "148.640", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "fast die H\u00e4lfte der Rettungsgelder. "
+   ]
+  }, 
+  {
+   "begin": "148.640", 
+   "children": [], 
+   "end": "151.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die irische Bev\u00f6lkerung jedoch bezahlte einen hohen Preis: "
+   ]
+  }, 
+  {
+   "begin": "151.640", 
+   "children": [], 
+   "end": "156.320", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Zehntausende junge Iren verlie\u00dfen wie zur Zeit der Hungersnot das Land. "
+   ]
+  }, 
+  {
+   "begin": "156.320", 
+   "children": [], 
+   "end": "157.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Geh\u00e4lter wurden gek\u00fcrzt, "
+   ]
+  }, 
+  {
+   "begin": "157.800", 
+   "children": [], 
+   "end": "159.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Familien verloren ihre H\u00e4user, "
+   ]
+  }, 
+  {
+   "begin": "159.320", 
+   "children": [], 
+   "end": "161.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "der Mehrwertsteuersatz wurde erh\u00f6ht, "
+   ]
+  }, 
+  {
+   "begin": "161.080", 
+   "children": [], 
+   "end": "163.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "und alles wurde zu Ramschpreisen privatisiert, "
+   ]
+  }, 
+  {
+   "begin": "163.640", 
+   "children": [], 
+   "end": "166.240", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "was nicht bei drei auf dem Baum war."
+   ]
+  }, 
+  {
+   "begin": "166.240", 
+   "children": [], 
+   "end": "168.120", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Alle Fraktionen im Bundestag\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "168.120", 
+   "children": [], 
+   "end": "169.280", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "au\u00dfer der Linken\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "169.280", 
+   "children": [], 
+   "end": "172.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "stimmten dem irischen Programm zu. "
+   ]
+  }, 
+  {
+   "begin": "172.240", 
+   "children": [], 
+   "end": "177.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Meine Fraktion verwies bereits damals auf die niedrige irische K\u00f6rperschaftsteuer. "
+   ]
+  }, 
+  {
+   "begin": "177.520", 
+   "children": [], 
+   "end": "179.160", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Irland erm\u00f6glichte es Apple, "
+   ]
+  }, 
+  {
+   "begin": "179.160", 
+   "children": [], 
+   "end": "185.400", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "im Jahr\u00a02014 nur 0,005\u00a0Prozent Steuern auf seine Gewinne zu entrichten."
+   ]
+  }, 
+  {
+   "begin": "185.400", 
+   "children": [], 
+   "end": "188.400", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "50\u00a0Euro f\u00fcr jede Million Gewinn, "
+   ]
+  }, 
+  {
+   "begin": "188.400", 
+   "children": [], 
+   "end": "193.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "davon tr\u00e4umen ein Handwerker oder selbst die FDP nicht mal nachts."
+   ]
+  }, 
+  {
+   "begin": "193.000", 
+   "children": [], 
+   "end": "198.440", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Den EU-Staaten entgehen j\u00e4hrlich Hunderte Milliarden Euro durch solche Steuertricks."
+   ]
+  }, 
+  {
+   "begin": "198.440", 
+   "children": [], 
+   "end": "200.920", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die EU-Kommission forderte Irland nun auf, "
+   ]
+  }, 
+  {
+   "begin": "200.920", 
+   "children": [], 
+   "end": "205.800", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "13\u00a0Milliarden Euro an unlauteren Steuervorteilen bei Apple einzutreiben. "
+   ]
+  }, 
+  {
+   "begin": "205.800", 
+   "children": [], 
+   "end": "208.120", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Die irische Regierung wollte das Geld aber nicht, "
+   ]
+  }, 
+  {
+   "begin": "208.120", 
+   "children": [], 
+   "end": "213.680", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "weigerte sich und wurde daher von der EU-Kommission an den Europ\u00e4ischen Gerichtshof verwiesen. "
+   ]
+  }, 
+  {
+   "begin": "213.680", 
+   "children": [], 
+   "end": "215.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Klingt verr\u00fcckt? "
+   ]
+  }, 
+  {
+   "begin": "215.040", 
+   "children": [], 
+   "end": "216.440", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ist auch verr\u00fcckt. "
+   ]
+  }, 
+  {
+   "begin": "216.440", 
+   "children": [], 
+   "end": "217.960", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Aber genauso verr\u00fcckt w\u00e4re es, "
+   ]
+  }, 
+  {
+   "begin": "217.960", 
+   "children": [], 
+   "end": "222.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "heute dem Wunsch des deutschen Finanzministers zu entsprechen."
+   ]
+  }, 
+  {
+   "begin": "222.400", 
+   "children": [], 
+   "end": "228.320", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung hat bei allen Rettungsprogrammen immer auf die K\u00fcrzung von L\u00f6hnen, "
+   ]
+  }, 
+  {
+   "begin": "228.320", 
+   "children": [], 
+   "end": "229.400", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Renten, "
+   ]
+  }, 
+  {
+   "begin": "229.400", 
+   "children": [], 
+   "end": "232.760", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "\u00f6ffentlichen Investitionen und Sozialstaat bestanden. "
+   ]
+  }, 
+  {
+   "begin": "232.760", 
+   "children": [], 
+   "end": "234.520", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Jedes Detail wurde geregelt, "
+   ]
+  }, 
+  {
+   "begin": "234.520", 
+   "children": [], 
+   "end": "239.360", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn dies die Krise vertiefte und den Schuldendienst sogar erschwerte. "
+   ]
+  }, 
+  {
+   "begin": "239.360", 
+   "children": [], 
+   "end": "242.040", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Aber dem irischen Finanzminister zu sagen, "
+   ]
+  }, 
+  {
+   "begin": "242.040", 
+   "children": [], 
+   "end": "244.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "er solle sich sein Geld bei Apple holen, "
+   ]
+  }, 
+  {
+   "begin": "244.400", 
+   "children": [], 
+   "end": "246.320", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "das bringen Sie nicht \u00fcbers Herz\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "246.320", 
+   "children": [], 
+   "end": "247.720", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "mir kommen die Tr\u00e4nen. "
+   ]
+  }, 
+  {
+   "begin": "247.720", 
+   "children": [], 
+   "end": "248.080", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen, "
+   ]
+  }, 
+  {
+   "begin": "248.080", 
+   "children": [], 
+   "end": "248.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Herr Altmaier, "
+   ]
+  }, 
+  {
+   "begin": "248.760", 
+   "children": [], 
+   "end": "249.920", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "mein Ratschlag: "
+   ]
+  }, 
+  {
+   "begin": "249.920", 
+   "children": [], 
+   "end": "251.360", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Rufen Sie die Gr\u00fcnen an\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "251.360", 
+   "children": [], 
+   "end": "256.280", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "die haben sich beim Thema Steuergerechtigkeit bei Jamaika ja als Bettvorleger geoutet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "256.280", 
+   "children": [], 
+   "end": "257.440", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "oder den Herrn Lindner; "
+   ]
+  }, 
+  {
+   "begin": "257.440", 
+   "children": [], 
+   "end": "258.640", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "der will ja nur spielen. "
+   ]
+  }, 
+  {
+   "begin": "258.640", 
+   "children": [], 
+   "end": "259.280", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir, "
+   ]
+  }, 
+  {
+   "begin": "259.280", 
+   "children": [], 
+   "end": "259.960", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "die Linke, "
+   ]
+  }, 
+  {
+   "begin": "259.960", 
+   "children": [], 
+   "end": "276.360", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "lassen uns nicht ver\u00e4ppeln."
+   ]
+  }, 
+  {
+   "begin": "276.360", 
+   "children": [], 
+   "end": "282.000", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat Sven-Christian Kindler f\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

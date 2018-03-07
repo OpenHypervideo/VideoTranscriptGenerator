@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "children": [], 
+   "end": "12.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "children": [], 
+   "end": "13.520", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "children": [], 
+   "end": "16.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Im Sudan gibt es in mehreren Provinzen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "16.120", 
+   "children": [], 
+   "end": "17.080", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "in Darfur, "
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "children": [], 
+   "end": "18.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber das wir uns hier unterhalten, "
+   ]
+  }, 
+  {
+   "begin": "18.200", 
+   "children": [], 
+   "end": "21.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "im S\u00fcdkordofan und auch im Blauen Nil\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "21.040", 
+   "children": [], 
+   "end": "22.520", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "seit 2003 bzw. "
+   ]
+  }, 
+  {
+   "begin": "22.520", 
+   "children": [], 
+   "end": "27.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "2011 bis heute ungel\u00f6ste bewaffnete Konflikte. "
+   ]
+  }, 
+  {
+   "begin": "27.280", 
+   "children": [], 
+   "end": "28.960", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es richtig und wichtig, "
+   ]
+  }, 
+  {
+   "begin": "28.960", 
+   "children": [], 
+   "end": "32.280", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns heute mit der Verl\u00e4ngerung des Mandats UNAMID besch\u00e4ftigen; "
+   ]
+  }, 
+  {
+   "begin": "32.280", 
+   "children": [], 
+   "end": "34.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "denn die Ziele, "
+   ]
+  }, 
+  {
+   "begin": "34.000", 
+   "children": [], 
+   "end": "36.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die sich diese Mission gegeben hat, "
+   ]
+  }, 
+  {
+   "begin": "36.080", 
+   "children": [], 
+   "end": "37.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "sind nach wie vor richtig. "
+   ]
+  }, 
+  {
+   "begin": "37.920", 
+   "children": [], 
+   "end": "40.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Da sind der Schutz der Zivilpersonen, "
+   ]
+  }, 
+  {
+   "begin": "40.840", 
+   "children": [], 
+   "end": "45.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Erleichterung der Bereitstellung humanit\u00e4rer Hilfe und auch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "45.120", 
+   "children": [], 
+   "end": "46.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "nicht zu untersch\u00e4tzen, "
+   ]
+  }, 
+  {
+   "begin": "46.400", 
+   "children": [], 
+   "end": "48.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "das ist ein ganz zentraler Punkt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "48.120", 
+   "children": [], 
+   "end": "52.880", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die Vermittlung zwischen der Regierung des Sudans und der bewaffneten Bewegung, "
+   ]
+  }, 
+  {
+   "begin": "52.880", 
+   "children": [], 
+   "end": "55.320", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die das Doha-Dokument nicht unterzeichnet hat."
+   ]
+  }, 
+  {
+   "begin": "55.320", 
+   "children": [], 
+   "end": "57.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeswehr nimmt ihre Aufgaben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "57.400", 
+   "children": [], 
+   "end": "59.360", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Kollege Dirk V\u00f6pel hatte das auch schon erw\u00e4hnt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "59.360", 
+   "children": [], 
+   "end": "60.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "wahr: "
+   ]
+  }, 
+  {
+   "begin": "60.480", 
+   "children": [], 
+   "end": "67.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Bei einer Obergrenze von 50\u00a0Soldatinnen und Soldaten sind sieben Soldaten im Einsatz, "
+   ]
+  }, 
+  {
+   "begin": "67.480", 
+   "children": [], 
+   "end": "69.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "darunter zwei Soldatinnen. "
+   ]
+  }, 
+  {
+   "begin": "69.800", 
+   "children": [], 
+   "end": "77.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden im Hauptquartier al-Faschir als Experten in verschiedenen Bereichen eingesetzt. "
+   ]
+  }, 
+  {
+   "begin": "77.600", 
+   "children": [], 
+   "end": "83.880", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Der einzige europ\u00e4ische Truppensteller ist in diesem Zusammenhang Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "83.880", 
+   "children": [], 
+   "end": "85.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Es ist gar nicht so unwichtig, "
+   ]
+  }, 
+  {
+   "begin": "85.200", 
+   "children": [], 
+   "end": "86.680", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "das als Signal zu begreifen, "
+   ]
+  }, 
+  {
+   "begin": "86.680", 
+   "children": [], 
+   "end": "92.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "gerade auch angesichts der in diesen Tagen und Wochen debattierten St\u00e4ndigen Strukturierten Zusammenarbeit, "
+   ]
+  }, 
+  {
+   "begin": "92.760", 
+   "children": [], 
+   "end": "93.200", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "PESCO, "
+   ]
+  }, 
+  {
+   "begin": "93.200", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "auf europ\u00e4ischer Ebene."
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "95.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Es ist wichtig, "
+   ]
+  }, 
+  {
+   "begin": "95.760", 
+   "children": [], 
+   "end": "100.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "sich einmal die Konfliktursachen in Darfur anzuschauen. "
+   ]
+  }, 
+  {
+   "begin": "100.120", 
+   "children": [], 
+   "end": "110.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Das sind Verteilungsk\u00e4mpfe um knappe Ressourcen wie Wasser und Weideland zwischen nichtsesshaften Nomaden einerseits und sesshaften Bauern andererseits. "
+   ]
+  }, 
+  {
+   "begin": "110.520", 
+   "children": [], 
+   "end": "116.760", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das sind langj\u00e4hrige wirtschaftliche und politische Vernachl\u00e4ssigungen durch die Regierung im Sudan. "
+   ]
+  }, 
+  {
+   "begin": "116.760", 
+   "children": [], 
+   "end": "122.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Auch der hohe Bewaffnungsgrad in der Bev\u00f6lkerung spielt eine Rolle."
+   ]
+  }, 
+  {
+   "begin": "122.200", 
+   "children": [], 
+   "end": "129.920", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Zusammenhang ist in letzter Zeit weiteres Konfliktpotenzial in den Fokus geraten, "
+   ]
+  }, 
+  {
+   "begin": "129.920", 
+   "children": [], 
+   "end": "135.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die Einsammlung nichtregistrierter Waffen. "
+   ]
+  }, 
+  {
+   "begin": "135.160", 
+   "children": [], 
+   "end": "141.320", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Insbesondere dagegen richtet sich massiver Widerstand einiger bewaffneter Milizen. "
+   ]
+  }, 
+  {
+   "begin": "141.320", 
+   "children": [], 
+   "end": "148.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Und immer noch finden in Darfur und im \u00fcbrigen Sudan schwerste Menschenrechtsverletzungen statt."
+   ]
+  }, 
+  {
+   "begin": "148.200", 
+   "children": [], 
+   "end": "152.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "In Darfur gibt es 2,7\u00a0Millionen Binnenfl\u00fcchtlinge, "
+   ]
+  }, 
+  {
+   "begin": "152.000", 
+   "children": [], 
+   "end": "157.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und \u00fcber 2,1\u00a0Millionen Menschen sind auf humanit\u00e4re Hilfe angewiesen. "
+   ]
+  }, 
+  {
+   "begin": "157.000", 
+   "children": [], 
+   "end": "162.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Der Sudan hat nicht nur diese hohe Zahl von Binnenfl\u00fcchtlingen zu bew\u00e4ltigen, "
+   ]
+  }, 
+  {
+   "begin": "162.960", 
+   "children": [], 
+   "end": "168.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "sondern er ist auch ein Haupttransitland f\u00fcr Fl\u00fcchtlinge aus anderen Staaten der Region, "
+   ]
+  }, 
+  {
+   "begin": "168.040", 
+   "children": [], 
+   "end": "171.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die sich auf den Weg zu uns nach Europa machen. "
+   ]
+  }, 
+  {
+   "begin": "171.360", 
+   "children": [], 
+   "end": "172.360", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es wichtig, "
+   ]
+  }, 
+  {
+   "begin": "172.360", 
+   "children": [], 
+   "end": "174.360", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns hier engagieren."
+   ]
+  }, 
+  {
+   "begin": "174.360", 
+   "children": [], 
+   "end": "177.880", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Als w\u00e4re diese Lage nicht schon problematisch genug, "
+   ]
+  }, 
+  {
+   "begin": "177.880", 
+   "children": [], 
+   "end": "184.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "leidet der Sudan seit einiger Zeit auch unter einer veritablen Wirtschaftskrise. "
+   ]
+  }, 
+  {
+   "begin": "184.640", 
+   "children": [], 
+   "end": "189.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Eine Inflationsrate von 30\u00a0Prozent ist dort zu verzeichnen. "
+   ]
+  }, 
+  {
+   "begin": "189.160", 
+   "children": [], 
+   "end": "198.000", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Hier verspricht die permanente Aufhebung eines Gro\u00dfteils der bestehenden Wirtschaftssanktionen der Vereinigten Staaten von Amerika Abhilfe, "
+   ]
+  }, 
+  {
+   "begin": "198.000", 
+   "children": [], 
+   "end": "205.160", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "und so k\u00f6nnte sich diese desolate Wirtschaftslage in Zukunft ein wenig entspannen."
+   ]
+  }, 
+  {
+   "begin": "205.160", 
+   "children": [], 
+   "end": "207.400", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "207.400", 
+   "children": [], 
+   "end": "208.520", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "es reicht nicht aus, "
+   ]
+  }, 
+  {
+   "begin": "208.520", 
+   "children": [], 
+   "end": "211.920", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die Situation zu beschreiben, "
+   ]
+  }, 
+  {
+   "begin": "211.920", 
+   "children": [], 
+   "end": "215.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "sondern man muss auch den Entwicklungen Rechnung tragen. "
+   ]
+  }, 
+  {
+   "begin": "215.320", 
+   "children": [], 
+   "end": "215.960", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es richtig, "
+   ]
+  }, 
+  {
+   "begin": "215.960", 
+   "children": [], 
+   "end": "216.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dann, "
+   ]
+  }, 
+  {
+   "begin": "216.400", 
+   "children": [], 
+   "end": "218.800", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wenn sich die Lage beruhigt hat, "
+   ]
+  }, 
+  {
+   "begin": "218.800", 
+   "children": [], 
+   "end": "223.680", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "den Fokus verst\u00e4rkt auf die Stabilisierung der Verh\u00e4ltnisse zu legen. "
+   ]
+  }, 
+  {
+   "begin": "223.680", 
+   "children": [], 
+   "end": "225.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Die Neuausrichtung, "
+   ]
+  }, 
+  {
+   "begin": "225.840", 
+   "children": [], 
+   "end": "230.400", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die im Sommer dieses Jahres durch die Vereinten Nationen beschlossen worden ist, "
+   ]
+  }, 
+  {
+   "begin": "230.400", 
+   "children": [], 
+   "end": "237.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "geht mit der Reduzierung der Milit\u00e4rkr\u00e4fte um rund 45\u00a0Prozent \u00fcber die n\u00e4chsten zwei Jahre einher."
+   ]
+  }, 
+  {
+   "begin": "237.240", 
+   "children": [], 
+   "end": "241.760", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen richte ich einen Blick auf den Entschlie\u00dfungsantrag der Linksfraktion, "
+   ]
+  }, 
+  {
+   "begin": "241.760", 
+   "children": [], 
+   "end": "242.520", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "in dem gefordert wird, "
+   ]
+  }, 
+  {
+   "begin": "242.520", 
+   "children": [], 
+   "end": "248.200", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die Anzahl der Milit\u00e4rkr\u00e4fte zu reduzieren und die humanit\u00e4re Hilfe und diplomatische Bem\u00fchungen zu verst\u00e4rken. "
+   ]
+  }, 
+  {
+   "begin": "248.200", 
+   "children": [], 
+   "end": "249.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Das ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "249.240", 
+   "children": [], 
+   "end": "252.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "aber der Entschlie\u00dfungsantrag geht ins Leere; "
+   ]
+  }, 
+  {
+   "begin": "252.400", 
+   "children": [], 
+   "end": "257.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "denn das ist in diesem Sommer bereits von den Vereinten Nationen beschlossen worden."
+   ]
+  }, 
+  {
+   "begin": "257.120", 
+   "children": [], 
+   "end": "261.040", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Meine zweite Bemerkung zum Entschlie\u00dfungsantrag der Linken zielt darauf, "
+   ]
+  }, 
+  {
+   "begin": "261.040", 
+   "children": [], 
+   "end": "262.280", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass darin gefordert wird, "
+   ]
+  }, 
+  {
+   "begin": "262.280", 
+   "children": [], 
+   "end": "266.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die Bek\u00e4mpfung der illegalen Migration sofort einzustellen. "
+   ]
+  }, 
+  {
+   "begin": "266.400", 
+   "children": [], 
+   "end": "267.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Dabei muss man wissen, "
+   ]
+  }, 
+  {
+   "begin": "267.200", 
+   "children": [], 
+   "end": "270.120", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass diese illegale Migration durch Schleuser, "
+   ]
+  }, 
+  {
+   "begin": "270.120", 
+   "children": [], 
+   "end": "274.120", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Verbrecher und organisierte Kriminalit\u00e4t betrieben und vorangetrieben wird. "
+   ]
+  }, 
+  {
+   "begin": "274.120", 
+   "children": [], 
+   "end": "277.040", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Es kann doch nicht Ihr Ernst sein, "
+   ]
+  }, 
+  {
+   "begin": "277.040", 
+   "children": [], 
+   "end": "278.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass man aufh\u00f6ren soll, "
+   ]
+  }, 
+  {
+   "begin": "278.480", 
+   "children": [], 
+   "end": "281.400", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "diese Situation zu bek\u00e4mpfen. "
+   ]
+  }, 
+  {
+   "begin": "281.400", 
+   "children": [], 
+   "end": "282.200", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Es ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "282.200", 
+   "children": [], 
+   "end": "283.240", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "hier weiterzumachen, "
+   ]
+  }, 
+  {
+   "begin": "283.240", 
+   "children": [], 
+   "end": "284.160", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "284.160", 
+   "children": [], 
+   "end": "295.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben Verantwortung f\u00fcr unsere Soldatinnen und Soldaten in den Auslandsverwendungen wie beispielsweise im Einsatz in Darfur. "
+   ]
+  }, 
+  {
+   "begin": "295.440", 
+   "children": [], 
+   "end": "299.840", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Sie leisten dort eine hervorragende und auch sehr sinnvolle Arbeit. "
+   ]
+  }, 
+  {
+   "begin": "299.840", 
+   "children": [], 
+   "end": "304.840", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Sie tragen letztlich auch zu unserer Sicherheit bei. "
+   ]
+  }, 
+  {
+   "begin": "304.840", 
+   "children": [], 
+   "end": "310.560", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen geb\u00fchrt diesen Soldatinnen und Soldaten im Einsatz unser ausdr\u00fccklicher Dank."
+   ]
+  }, 
+  {
+   "begin": "310.560", 
+   "children": [], 
+   "end": "319.200", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Daraus abgeleitet schlie\u00dfe ich mit einem Hinweis auf unsere Verpflichtung, "
+   ]
+  }, 
+  {
+   "begin": "319.200", 
+   "children": [], 
+   "end": "323.120", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "unseren Soldatinnen und Soldaten Rechtssicherheit zu geben. "
+   ]
+  }, 
+  {
+   "begin": "323.120", 
+   "children": [], 
+   "end": "327.040", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Diese k\u00f6nnen wir ihnen geben und damit auch unserer Pflicht gerecht werden, "
+   ]
+  }, 
+  {
+   "begin": "327.040", 
+   "children": [], 
+   "end": "332.880", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "indem wir heute mit der namentlichen Abstimmung am Ende der Debatte das Mandat verl\u00e4ngern."
+   ]
+  }, 
+  {
+   "begin": "332.880", 
+   "children": [], 
+   "end": "334.400", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "334.400", 
+   "children": [], 
+   "end": "336.120", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "336.120", 
+   "children": [], 
+   "end": "338.400", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Otten, "
+   ]
+  }, 
+  {
+   "begin": "338.400", 
+   "children": [], 
+   "end": "339.960", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "AfD."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.720", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Gr\u00fc\u00df Gott, "
+   ]
+  }, 
+  {
+   "begin": "0.720", 
+   "children": [], 
+   "end": "2.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "children": [], 
+   "end": "5.200", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "5.200", 
+   "children": [], 
+   "end": "11.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die Verabredungen von Union und SPD zum Befristungsrecht gehen dahin, "
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "children": [], 
+   "end": "16.240", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "das Befristungsrecht umfassend zu reformieren. "
+   ]
+  }, 
+  {
+   "begin": "16.240", 
+   "children": [], 
+   "end": "22.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Wir sorgen f\u00fcr mehr Rechtssicherheit f\u00fcr die Arbeitnehmerinnen und Arbeitnehmer, "
+   ]
+  }, 
+  {
+   "begin": "22.680", 
+   "children": [], 
+   "end": "24.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "die befristet besch\u00e4ftigt sind, "
+   ]
+  }, 
+  {
+   "begin": "24.360", 
+   "children": [], 
+   "end": "37.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "indem wir den Interessenausgleich zwischen dem Flexibilit\u00e4tsbed\u00fcrfnis der Arbeitgeber auf der einen Seite und dem Sicherheitsbed\u00fcrfnis der Arbeitnehmer auf der anderen Seite noch einmal deutlich zugunsten der Arbeitnehmer justieren. "
+   ]
+  }, 
+  {
+   "begin": "37.320", 
+   "children": [], 
+   "end": "41.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das zentrale Ergebnis unserer Verhandlungen in diesem Bereich, "
+   ]
+  }, 
+  {
+   "begin": "41.080", 
+   "children": [], 
+   "end": "43.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und ich finde das auch gut."
+   ]
+  }, 
+  {
+   "begin": "43.120", 
+   "children": [], 
+   "end": "48.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Im Mittelpunkt der Unionspolitik steht dabei nicht die sachgrundlose Befristung. "
+   ]
+  }, 
+  {
+   "begin": "48.240", 
+   "children": [], 
+   "end": "53.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Im Grunde haben wir hier durch die Regelungen in diesem Bereich, "
+   ]
+  }, 
+  {
+   "begin": "53.160", 
+   "children": [], 
+   "end": "54.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel durch die H\u00f6chstfristen, "
+   ]
+  }, 
+  {
+   "begin": "54.080", 
+   "children": [], 
+   "end": "57.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "ein schon relativ stark reguliertes Instrument. "
+   ]
+  }, 
+  {
+   "begin": "57.680", 
+   "children": [], 
+   "end": "57.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "57.920", 
+   "children": [], 
+   "end": "60.560", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "was uns bedr\u00e4ngt, "
+   ]
+  }, 
+  {
+   "begin": "60.560", 
+   "children": [], 
+   "end": "62.960", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "ist doch die Lage derjenigen, "
+   ]
+  }, 
+  {
+   "begin": "62.960", 
+   "children": [], 
+   "end": "65.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die sich von Befristung zu Befristung hangeln, "
+   ]
+  }, 
+  {
+   "begin": "65.960", 
+   "children": [], 
+   "end": "73.080", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wo \u00fcber viele Jahre hinweg ein Sachgrund nach dem anderen aneinandergeh\u00e4ngt wird. "
+   ]
+  }, 
+  {
+   "begin": "73.080", 
+   "children": [], 
+   "end": "77.240", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb haben die Betroffenen keine Planungssicherheit, "
+   ]
+  }, 
+  {
+   "begin": "77.240", 
+   "children": [], 
+   "end": "80.960", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "keine verl\u00e4ssliche Perspektive f\u00fcr ihre Lebensplanung,"
+   ]
+  }, 
+  {
+   "begin": "80.960", 
+   "children": [], 
+   "end": "82.360", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wenn es beispielsweise darum geht, "
+   ]
+  }, 
+  {
+   "begin": "82.360", 
+   "children": [], 
+   "end": "84.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "eine Familie zu gr\u00fcnden, "
+   ]
+  }, 
+  {
+   "begin": "84.120", 
+   "children": [], 
+   "end": "85.760", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "ein Haus zu bauen. "
+   ]
+  }, 
+  {
+   "begin": "85.760", 
+   "children": [], 
+   "end": "89.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das f\u00fchrt zum Teil auch zu gesundheitlichen Einschr\u00e4nkungen. "
+   ]
+  }, 
+  {
+   "begin": "89.640", 
+   "children": [], 
+   "end": "94.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Genau diese Lebensperspektive geben wir ein St\u00fcck weit zur\u00fcck, "
+   ]
+  }, 
+  {
+   "begin": "94.920", 
+   "children": [], 
+   "end": "98.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "indem wir die Kettenbefristungen reformieren. "
+   ]
+  }, 
+  {
+   "begin": "98.560", 
+   "children": [], 
+   "end": "103.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Hier gibt es bislang keine zeitlichen Begrenzungen durch den Gesetzgeber, "
+   ]
+  }, 
+  {
+   "begin": "103.400", 
+   "children": [], 
+   "end": "104.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und das \u00e4ndern wir. "
+   ]
+  }, 
+  {
+   "begin": "104.400", 
+   "children": [], 
+   "end": "106.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir \u00e4ndern dies, "
+   ]
+  }, 
+  {
+   "begin": "106.200", 
+   "children": [], 
+   "end": "114.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "weil die Rechtsprechung des Bundesarbeitsgerichtes zwar feinziseliert ist, "
+   ]
+  }, 
+  {
+   "begin": "114.320", 
+   "children": [], 
+   "end": "121.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "aber wenig mit Rechtssicherheit und Rechtsklarheit f\u00fcr den Rechtsanwender zu tun hat. "
+   ]
+  }, 
+  {
+   "begin": "121.000", 
+   "children": [], 
+   "end": "122.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wir sagen ganz klar: "
+   ]
+  }, 
+  {
+   "begin": "122.320", 
+   "children": [], 
+   "end": "125.560", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Nach f\u00fcnf Jahren Befristung ist Schluss."
+   ]
+  }, 
+  {
+   "begin": "125.560", 
+   "children": [], 
+   "end": "128.360", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Dann gibt es keine weitere Befristung. "
+   ]
+  }, 
+  {
+   "begin": "128.360", 
+   "children": [], 
+   "end": "131.840", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Damit sorgen wir f\u00fcr Rechtssicherheit und Rechtsklarheit."
+   ]
+  }, 
+  {
+   "begin": "131.840", 
+   "children": [], 
+   "end": "136.080", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Es ist das zentrale Anliegen der Unionspolitik, "
+   ]
+  }, 
+  {
+   "begin": "136.080", 
+   "children": [], 
+   "end": "143.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "hier f\u00fcr mehr Rechtssicherheit f\u00fcr die Arbeitnehmerinnen und Arbeitnehmer zu sorgen und gerade ihr Sicherheitsbed\u00fcrfnis in diesem Bereich zu st\u00e4rken."
+   ]
+  }, 
+  {
+   "begin": "143.280", 
+   "children": [], 
+   "end": "143.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "143.960", 
+   "children": [], 
+   "end": "145.480", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "gestatten Sie eine Zwischenfrage?"
+   ]
+  }, 
+  {
+   "begin": "145.480", 
+   "children": [], 
+   "end": "146.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Selbstverst\u00e4ndlich gerne, "
+   ]
+  }, 
+  {
+   "begin": "146.400", 
+   "children": [], 
+   "end": "148.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "148.440", 
+   "children": [], 
+   "end": "149.400", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Frau M\u00fcller-Gemmeke, "
+   ]
+  }, 
+  {
+   "begin": "149.400", 
+   "children": [], 
+   "end": "152.200", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "bitte."
+   ]
+  }, 
+  {
+   "begin": "152.200", 
+   "children": [], 
+   "end": "152.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ja, "
+   ]
+  }, 
+  {
+   "begin": "152.720", 
+   "children": [], 
+   "end": "154.000", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "selbstverst\u00e4ndlich."
+   ]
+  }, 
+  {
+   "begin": "154.000", 
+   "children": [], 
+   "end": "155.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "155.560", 
+   "children": [], 
+   "end": "155.960", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "155.960", 
+   "children": [], 
+   "end": "156.840", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "ich habe vorhin geredet, "
+   ]
+  }, 
+  {
+   "begin": "156.840", 
+   "children": [], 
+   "end": "160.080", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "aber gerade deswegen habe ich jetzt noch eine Frage."
+   ]
+  }, 
+  {
+   "begin": "160.080", 
+   "children": [], 
+   "end": "160.520", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Es ist gut, "
+   ]
+  }, 
+  {
+   "begin": "160.520", 
+   "children": [], 
+   "end": "162.800", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass bei den Kettenbefristungen etwas gemacht wird; "
+   ]
+  }, 
+  {
+   "begin": "162.800", 
+   "children": [], 
+   "end": "164.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "das unterst\u00fctzen wir. "
+   ]
+  }, 
+  {
+   "begin": "164.320", 
+   "children": [], 
+   "end": "166.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das habe ich vorhin zwar nicht gesagt; "
+   ]
+  }, 
+  {
+   "begin": "166.840", 
+   "children": [], 
+   "end": "168.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "aber das sage ich jetzt."
+   ]
+  }, 
+  {
+   "begin": "168.120", 
+   "children": [], 
+   "end": "168.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "168.400", 
+   "children": [], 
+   "end": "169.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "das ist doch gut. "
+   ]
+  }, 
+  {
+   "begin": "169.520", 
+   "children": [], 
+   "end": "170.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Sehr gut!"
+   ]
+  }, 
+  {
+   "begin": "170.640", 
+   "children": [], 
+   "end": "175.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe vorhin ein Problem bei der sachgrundlosen Befristung geschildert, "
+   ]
+  }, 
+  {
+   "begin": "175.360", 
+   "children": [], 
+   "end": "177.600", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "das ja wohl uns\u00e4glich ist. "
+   ]
+  }, 
+  {
+   "begin": "177.600", 
+   "children": [], 
+   "end": "184.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Was wollen Sie gegen diese \u00fcblen Formen der sachgrundlosen Befristung machen?"
+   ]
+  }, 
+  {
+   "begin": "184.800", 
+   "children": [], 
+   "end": "185.360", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Schauen Sie, "
+   ]
+  }, 
+  {
+   "begin": "185.360", 
+   "children": [], 
+   "end": "187.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "liebe Frau Kollegin M\u00fcller-Gemmeke: "
+   ]
+  }, 
+  {
+   "begin": "187.240", 
+   "children": [], 
+   "end": "193.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir erkennen das Flexibilit\u00e4tsbed\u00fcrfnis der Unternehmen im Hinblick auf die sachgrundlose Befristung an. "
+   ]
+  }, 
+  {
+   "begin": "193.440", 
+   "children": [], 
+   "end": "195.040", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist das einzige Instrument, "
+   ]
+  }, 
+  {
+   "begin": "195.040", 
+   "children": [], 
+   "end": "198.680", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "das in diesem Bereich relativ unb\u00fcrokratisch ist. "
+   ]
+  }, 
+  {
+   "begin": "198.680", 
+   "children": [], 
+   "end": "201.520", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir ver\u00e4ndern dieses Instrument auch, "
+   ]
+  }, 
+  {
+   "begin": "201.520", 
+   "children": [], 
+   "end": "204.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "indem wir beispielsweise die H\u00f6chstfristen senken. "
+   ]
+  }, 
+  {
+   "begin": "204.560", 
+   "children": [], 
+   "end": "208.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wir ver\u00e4ndern auch die Regelungen zu den Verl\u00e4ngerungsm\u00f6glichkeiten. "
+   ]
+  }, 
+  {
+   "begin": "208.600", 
+   "children": [], 
+   "end": "211.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Bisher war eine dreimalige Verl\u00e4ngerung in maximal zwei Jahren m\u00f6glich. "
+   ]
+  }, 
+  {
+   "begin": "211.520", 
+   "children": [], 
+   "end": "214.120", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "In Zukunft wird nur noch eine einmalige Verl\u00e4ngerung m\u00f6glich sein."
+   ]
+  }, 
+  {
+   "begin": "214.120", 
+   "children": [], 
+   "end": "221.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig f\u00fchren wir bei der sachgrundlosen Befristung eine Quotierung innerhalb des jeweiligen Unternehmens ein. "
+   ]
+  }, 
+  {
+   "begin": "221.640", 
+   "children": [], 
+   "end": "223.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Dies f\u00fchrt dazu, "
+   ]
+  }, 
+  {
+   "begin": "223.000", 
+   "children": [], 
+   "end": "228.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass wir einen massiven Eingriff in das Recht der sachgrundlosen Befristung vornehmen, "
+   ]
+  }, 
+  {
+   "begin": "228.600", 
+   "children": [], 
+   "end": "231.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "auch zugunsten der Arbeitnehmerinnen und Arbeitnehmer. "
+   ]
+  }, 
+  {
+   "begin": "231.760", 
+   "children": [], 
+   "end": "232.240", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "232.240", 
+   "children": [], 
+   "end": "233.280", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "es ist in Ordnung, "
+   ]
+  }, 
+  {
+   "begin": "233.280", 
+   "children": [], 
+   "end": "234.360", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das tun. "
+   ]
+  }, 
+  {
+   "begin": "234.360", 
+   "children": [], 
+   "end": "240.200", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir d\u00fcrfen das Instrument der sachgrundlosen Befristung nicht einfach streichen, "
+   ]
+  }, 
+  {
+   "begin": "240.200", 
+   "children": [], 
+   "end": "246.160", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "weil es eben auch das Bed\u00fcrfnis der Arbeitgeberseite nach Flexibilisierung gibt."
+   ]
+  }, 
+  {
+   "begin": "246.160", 
+   "children": [], 
+   "end": "250.760", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es um das Thema Missbrauch geht, "
+   ]
+  }, 
+  {
+   "begin": "250.760", 
+   "children": [], 
+   "end": "252.560", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "sind wir uns einig. "
+   ]
+  }, 
+  {
+   "begin": "252.560", 
+   "children": [], 
+   "end": "259.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich wollen auch wir keinen Missbrauch von befristeter Besch\u00e4ftigung. "
+   ]
+  }, 
+  {
+   "begin": "259.400", 
+   "children": [], 
+   "end": "261.840", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen werden wir gemeinsam \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "261.840", 
+   "children": [], 
+   "end": "264.160", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "wie wir das insgesamt gestalten k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "264.160", 
+   "children": [], 
+   "end": "264.720", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "264.720", 
+   "children": [], 
+   "end": "265.960", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "die Verabredungen, "
+   ]
+  }, 
+  {
+   "begin": "265.960", 
+   "children": [], 
+   "end": "270.640", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "die Union und SPD im Rahmen der Koalitionsverhandlungen gemeinsam getroffen haben, "
+   ]
+  }, 
+  {
+   "begin": "270.640", 
+   "children": [], 
+   "end": "272.520", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "sind gut und tragf\u00e4hig, "
+   ]
+  }, 
+  {
+   "begin": "272.520", 
+   "children": [], 
+   "end": "276.960", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "und sie verbessern vor allem die Rechtssicherheit f\u00fcr die Arbeitnehmerinnen und Arbeitnehmer."
+   ]
+  }, 
+  {
+   "begin": "276.960", 
+   "children": [], 
+   "end": "278.080", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Nun w\u00fcnsche ich uns, "
+   ]
+  }, 
+  {
+   "begin": "278.080", 
+   "children": [], 
+   "end": "281.920", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "dass wir diese gemeinsamen Verabredungen auch umsetzen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "281.920", 
+   "children": [], 
+   "end": "287.760", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Herzliches Dankesch\u00f6n."
+   ]
+  }
+ ]
+}

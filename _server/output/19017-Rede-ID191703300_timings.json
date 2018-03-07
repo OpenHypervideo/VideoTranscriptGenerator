@@ -1,0 +1,694 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "children": [], 
+   "end": "15.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "15.960", 
+   "children": [], 
+   "end": "18.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "18.800", 
+   "children": [], 
+   "end": "21.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "das wird hier im Hause wohl niemand bezweifeln\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "children": [], 
+   "end": "25.600", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "geh\u00f6rt zu den ganz entscheidenden Fragen unserer Zeit. "
+   ]
+  }, 
+  {
+   "begin": "25.600", 
+   "children": [], 
+   "end": "26.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Doch auf die Fragen, "
+   ]
+  }, 
+  {
+   "begin": "26.840", 
+   "children": [], 
+   "end": "35.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "wie wir die Unternehmen bei dieser Mammutaufgabe unterst\u00fctzen und wie wir insbesondere die vielen kleinen und mittleren Unternehmen dazu bef\u00e4higen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "35.320", 
+   "children": [], 
+   "end": "39.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "auch in Zukunft wettbewerbsf\u00e4hig zu sein, "
+   ]
+  }, 
+  {
+   "begin": "39.440", 
+   "children": [], 
+   "end": "42.040", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "brauchen wir dringend neue Antworten."
+   ]
+  }, 
+  {
+   "begin": "42.040", 
+   "children": [], 
+   "end": "48.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Es geh\u00f6rt zur Lebenswirklichkeit in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "48.520", 
+   "children": [], 
+   "end": "57.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass gro\u00dfe Unternehmen und Konzerne diesen Transformationsprozess schon l\u00e4ngst aus eigenem Antrieb angegangen sind. "
+   ]
+  }, 
+  {
+   "begin": "57.320", 
+   "children": [], 
+   "end": "59.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen aber leider erkennen, "
+   ]
+  }, 
+  {
+   "begin": "59.880", 
+   "children": [], 
+   "end": "66.600", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Kleinsten unter unseren Selbstst\u00e4ndigen mit diesem Thema schwertun. "
+   ]
+  }, 
+  {
+   "begin": "66.600", 
+   "children": [], 
+   "end": "69.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das ist leider auch eine Folge der Politik, "
+   ]
+  }, 
+  {
+   "begin": "69.200", 
+   "children": [], 
+   "end": "73.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die sich seit Jahren schwer damit tut, "
+   ]
+  }, 
+  {
+   "begin": "73.000", 
+   "children": [], 
+   "end": "76.480", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dieses Megathema \u00fcberhaupt anzugehen. "
+   ]
+  }, 
+  {
+   "begin": "76.480", 
+   "children": [], 
+   "end": "77.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Die Notwendigkeit, "
+   ]
+  }, 
+  {
+   "begin": "77.720", 
+   "children": [], 
+   "end": "81.720", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "in neue Software und neue Programme zu investieren, "
+   ]
+  }, 
+  {
+   "begin": "81.720", 
+   "children": [], 
+   "end": "84.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "betrifft heute tats\u00e4chlich jeden Betrieb, "
+   ]
+  }, 
+  {
+   "begin": "84.440", 
+   "children": [], 
+   "end": "86.840", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und zwar auch unabh\u00e4ngig davon, "
+   ]
+  }, 
+  {
+   "begin": "86.840", 
+   "children": [], 
+   "end": "89.680", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wie gut die Infrastruktur vor Ort ausgebaut ist. "
+   ]
+  }, 
+  {
+   "begin": "89.680", 
+   "children": [], 
+   "end": "95.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Sie betrifft den Dachdecker in der Eifel genauso wie den Heizungsbauer in Berlin."
+   ]
+  }, 
+  {
+   "begin": "95.800", 
+   "children": [], 
+   "end": "100.040", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle erleben zurzeit, "
+   ]
+  }, 
+  {
+   "begin": "100.040", 
+   "children": [], 
+   "end": "105.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass uns Banken Kontoausz\u00fcge nur noch elektronisch zur Verf\u00fcgung stellen. "
+   ]
+  }, 
+  {
+   "begin": "105.800", 
+   "children": [], 
+   "end": "110.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die Wenigsten k\u00f6nnen aber schon auf Softwarel\u00f6sungen zugreifen, "
+   ]
+  }, 
+  {
+   "begin": "110.000", 
+   "children": [], 
+   "end": "114.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die diese Kontoausz\u00fcge automatisiert verarbeiten. "
+   ]
+  }, 
+  {
+   "begin": "114.520", 
+   "children": [], 
+   "end": "117.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen m\u00fcssen wir\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "117.920", 
+   "children": [], 
+   "end": "120.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "das zeigt die tagesaktuelle Debatte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "120.760", 
+   "children": [], 
+   "end": "123.000", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "auch Firmen bef\u00e4higen, "
+   ]
+  }, 
+  {
+   "begin": "123.000", 
+   "children": [], 
+   "end": "124.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "sich vor Angriffen zu sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "124.640", 
+   "children": [], 
+   "end": "126.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Auch das kostet viel Geld. "
+   ]
+  }, 
+  {
+   "begin": "126.440", 
+   "children": [], 
+   "end": "131.680", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen bessere Rahmenbedingungen schaffen, "
+   ]
+  }, 
+  {
+   "begin": "131.680", 
+   "children": [], 
+   "end": "139.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "damit diese Digitalisierungsma\u00dfnahmen auch von den kleinen und kleinsten Unternehmen leichter bew\u00e4ltigt werden k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "139.600", 
+   "children": [], 
+   "end": "145.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig wollen wir B\u00fcrokratie abbauen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "145.120", 
+   "children": [], 
+   "end": "148.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Wirtschaft und die Verwaltung."
+   ]
+  }, 
+  {
+   "begin": "148.120", 
+   "children": [], 
+   "end": "149.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Konkret fordern wir, "
+   ]
+  }, 
+  {
+   "begin": "149.680", 
+   "children": [], 
+   "end": "154.640", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die Vorgaben im Hinblick auf die Abschreibungsdauer von Software anzupassen, "
+   ]
+  }, 
+  {
+   "begin": "154.640", 
+   "children": [], 
+   "end": "162.520", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "indem wir f\u00fcr solche digitalen Innovationsg\u00fcter die Nutzungsdauer auf drei Jahre vereinheitlichen. "
+   ]
+  }, 
+  {
+   "begin": "162.520", 
+   "children": [], 
+   "end": "166.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re im \u00dcbrigen auch ein Schritt in die wirtschaftliche Realit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "166.840", 
+   "children": [], 
+   "end": "173.440", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die amtlichen Abschreibungstabellen stammen n\u00e4mlich noch von Anfang der 2000er-Jahre."
+   ]
+  }, 
+  {
+   "begin": "173.440", 
+   "children": [], 
+   "end": "175.960", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem soll die M\u00f6glichkeit geschaffen werden, "
+   ]
+  }, 
+  {
+   "begin": "175.960", 
+   "children": [], 
+   "end": "184.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Sofortabschreibungen auf Investitionen mit Anschaffungskosten von bis zu 2\u00a0000\u00a0Euro vorzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "184.480", 
+   "children": [], 
+   "end": "190.400", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnten uns da auch mehr vorstellen und k\u00f6nnen hier gerne in einen \u00dcberbietungswettbewerb eintreten. "
+   ]
+  }, 
+  {
+   "begin": "190.400", 
+   "children": [], 
+   "end": "192.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings bef\u00fcrchte ich, "
+   ]
+  }, 
+  {
+   "begin": "192.120", 
+   "children": [], 
+   "end": "201.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass wir alle auch Haush\u00e4lter in unseren Fraktionen haben."
+   ]
+  }, 
+  {
+   "begin": "201.600", 
+   "children": [], 
+   "end": "201.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ja, "
+   ]
+  }, 
+  {
+   "begin": "201.880", 
+   "children": [], 
+   "end": "203.080", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "ich hoffe das tats\u00e4chlich auch."
+   ]
+  }, 
+  {
+   "begin": "203.080", 
+   "children": [], 
+   "end": "207.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Schlie\u00dflich wollen wir die Sonderabschreibung f\u00fcr kleine und mittelst\u00e4ndische Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "207.200", 
+   "children": [], 
+   "end": "210.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die bisher auf bewegliche Wirtschaftsg\u00fcter beschr\u00e4nkt ist, "
+   ]
+  }, 
+  {
+   "begin": "210.760", 
+   "children": [], 
+   "end": "212.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "auch f\u00fcr Wirtschaftsg\u00fcter \u00f6ffnen, "
+   ]
+  }, 
+  {
+   "begin": "212.800", 
+   "children": [], 
+   "end": "217.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die der digitalen Transformation dienen."
+   ]
+  }, 
+  {
+   "begin": "217.240", 
+   "children": [], 
+   "end": "222.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Insgesamt kann das nat\u00fcrlich nur ein erster Schritt sein. "
+   ]
+  }, 
+  {
+   "begin": "222.720", 
+   "children": [], 
+   "end": "229.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden weiter auch am Ziel einer umfassenden strukturellen Steuerreform festhalten. "
+   ]
+  }, 
+  {
+   "begin": "229.080", 
+   "children": [], 
+   "end": "231.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Steuer\u00e4nderungen m\u00fcssen folgen, "
+   ]
+  }, 
+  {
+   "begin": "231.640", 
+   "children": [], 
+   "end": "233.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "vor allen Dingen Vereinfachungen, "
+   ]
+  }, 
+  {
+   "begin": "233.840", 
+   "children": [], 
+   "end": "239.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "aber auch Entlastungen durch mehr B\u00fcrokratieabbau die Betriebe betreffend."
+   ]
+  }, 
+  {
+   "begin": "239.120", 
+   "children": [], 
+   "end": "244.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Sehr verehrte Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "244.360", 
+   "children": [], 
+   "end": "246.000", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "es ist unsere Pflicht, "
+   ]
+  }, 
+  {
+   "begin": "246.000", 
+   "children": [], 
+   "end": "249.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "passende Antworten auf die Fragen der Digitalisierung zu geben. "
+   ]
+  }, 
+  {
+   "begin": "249.520", 
+   "children": [], 
+   "end": "252.600", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wir geben die Rahmenbedingungen vor, "
+   ]
+  }, 
+  {
+   "begin": "252.600", 
+   "children": [], 
+   "end": "261.760", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und die Initiierung eines Heimatministeriums alleine kann nicht ernsthaft die Antwort der Politik auf die Fragen der Zukunft sein."
+   ]
+  }, 
+  {
+   "begin": "261.760", 
+   "children": [], 
+   "end": "264.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Mein Appell lautet daher: "
+   ]
+  }, 
+  {
+   "begin": "264.240", 
+   "children": [], 
+   "end": "267.440", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Unterst\u00fctzen Sie die vielen kleinsten, "
+   ]
+  }, 
+  {
+   "begin": "267.440", 
+   "children": [], 
+   "end": "270.040", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "kleinen und mittleren Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "270.040", 
+   "children": [], 
+   "end": "273.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "indem Sie ihnen den Weg in die Digitalisierung erleichtern. "
+   ]
+  }, 
+  {
+   "begin": "273.960", 
+   "children": [], 
+   "end": "276.400", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Unterst\u00fctzen Sie bitte unseren Antrag."
+   ]
+  }, 
+  {
+   "begin": "276.400", 
+   "children": [], 
+   "end": "277.520", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Haben Sie herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "277.520", 
+   "children": [], 
+   "end": "277.760", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "277.760", 
+   "children": [], 
+   "end": "287.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Hans Michelbach f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1164 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.440", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Hohes Pr\u00e4sidium! "
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "children": [], 
+   "end": "3.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "3.040", 
+   "children": [], 
+   "end": "10.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Im Grunde ist Verbraucherschutz etwas Gutes. "
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "children": [], 
+   "end": "25.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Der grundlegende Zweck des Verbraucherschutzes besteht darin, "
+   ]
+  }, 
+  {
+   "begin": "25.360", 
+   "children": [], 
+   "end": "27.720", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ungleichgewichte zwischen Lieferanten, "
+   ]
+  }, 
+  {
+   "begin": "27.720", 
+   "children": [], 
+   "end": "29.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "das hei\u00dft Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "29.800", 
+   "children": [], 
+   "end": "32.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und Kunden, "
+   ]
+  }, 
+  {
+   "begin": "32.160", 
+   "children": [], 
+   "end": "33.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "das hei\u00dft Verbrauchern, "
+   ]
+  }, 
+  {
+   "begin": "33.120", 
+   "children": [], 
+   "end": "34.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "zu beseitigen, "
+   ]
+  }, 
+  {
+   "begin": "34.880", 
+   "children": [], 
+   "end": "38.440", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "da Letztere manchmal im Nachteil sind."
+   ]
+  }, 
+  {
+   "begin": "38.440", 
+   "children": [], 
+   "end": "48.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Die EU-Verbraucherrechterichtlinie und ihre nationale Umsetzung haben dieses Ungleichgewicht aber nur umgedreht und verschlimmbessert, "
+   ]
+  }, 
+  {
+   "begin": "48.840", 
+   "children": [], 
+   "end": "52.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "anstatt es zu korrigieren. "
+   ]
+  }, 
+  {
+   "begin": "52.320", 
+   "children": [], 
+   "end": "54.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt sind die Unternehmen im Nachteil. "
+   ]
+  }, 
+  {
+   "begin": "54.440", 
+   "children": [], 
+   "end": "59.320", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das betrifft vor allem inhabergef\u00fchrte Unternehmen des kleinen Mittelstandes. "
+   ]
+  }, 
+  {
+   "begin": "59.320", 
+   "children": [], 
+   "end": "62.680", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig werden auch die Verbraucher verwirrt. "
+   ]
+  }, 
+  {
+   "begin": "62.680", 
+   "children": [], 
+   "end": "68.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Der Grund ist eine absurde \u00dcberregulierung jenseits des reellen Lebens."
+   ]
+  }, 
+  {
+   "begin": "68.080", 
+   "children": [], 
+   "end": "75.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Durch die Ausweitung der Informationspflichten der Unternehmer und der Widerrufsrechte der Verbraucher sollen Letztere gesch\u00fctzt werden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "75.280", 
+   "children": [], 
+   "end": "76.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "zu Recht\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "76.840", 
+   "children": [], 
+   "end": "80.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie bei Haust\u00fcrgesch\u00e4ften \u00fcber den Tisch gezogen werden, "
+   ]
+  }, 
+  {
+   "begin": "80.800", 
+   "children": [], 
+   "end": "88.320", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wenn also Dr\u00fcckerkolonnen ungefragt auftauchen und Verbrauchern an der Haust\u00fcre Unn\u00fctzes aufschwatzen."
+   ]
+  }, 
+  {
+   "begin": "88.320", 
+   "children": [], 
+   "end": "90.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Doch der Amtsschimmel hat \u00fcberzogen. "
+   ]
+  }, 
+  {
+   "begin": "90.600", 
+   "children": [], 
+   "end": "93.720", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Er hat die seit 2014 geltenden Regeln, "
+   ]
+  }, 
+  {
+   "begin": "93.720", 
+   "children": [], 
+   "end": "97.000", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr dubiose Haust\u00fcrgesch\u00e4fte sinnvoll sind, "
+   ]
+  }, 
+  {
+   "begin": "97.000", 
+   "children": [], 
+   "end": "99.560", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "auf alle Gesch\u00e4fte ausgedehnt, "
+   ]
+  }, 
+  {
+   "begin": "99.560", 
+   "children": [], 
+   "end": "105.920", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "bei denen Leistungserbringung und Auftragserweiterung au\u00dferhalb der Gesch\u00e4ftsr\u00e4ume des Unternehmens erfolgen, "
+   ]
+  }, 
+  {
+   "begin": "105.920", 
+   "children": [], 
+   "end": "108.320", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich beim Kunden."
+   ]
+  }, 
+  {
+   "begin": "108.320", 
+   "children": [], 
+   "end": "110.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Hunderttausende ehrlicher Handwerker, "
+   ]
+  }, 
+  {
+   "begin": "110.920", 
+   "children": [], 
+   "end": "111.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Freiberufler, "
+   ]
+  }, 
+  {
+   "begin": "111.920", 
+   "children": [], 
+   "end": "113.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "IT-Betreuer usw., "
+   ]
+  }, 
+  {
+   "begin": "113.880", 
+   "children": [], 
+   "end": "116.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "die ihre Leistungen nicht im B\u00fcro, "
+   ]
+  }, 
+  {
+   "begin": "116.760", 
+   "children": [], 
+   "end": "118.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "sondern beim Kunden erbringen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "118.320", 
+   "children": [], 
+   "end": "121.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "und das auf seinen ausdr\u00fccklichen Wunsch hin\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "121.440", 
+   "children": [], 
+   "end": "127.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "werden mit Dr\u00fcckerkolonnen gleichgesetzt und in Rechtsunsicherheit und Existenzn\u00f6te getrieben."
+   ]
+  }, 
+  {
+   "begin": "127.600", 
+   "children": [], 
+   "end": "131.360", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ein einfaches Beispiel: "
+   ]
+  }, 
+  {
+   "begin": "131.360", 
+   "children": [], 
+   "end": "139.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Der Kunde w\u00fcnscht zus\u00e4tzlich zur bisher vereinbarten Leistung spontan die Installation einer weiteren Steckdose in seiner Wohnung. "
+   ]
+  }, 
+  {
+   "begin": "139.840", 
+   "children": [], 
+   "end": "142.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die fr\u00fcheren Regelungen erlaubten dem Elektriker, "
+   ]
+  }, 
+  {
+   "begin": "142.400", 
+   "children": [], 
+   "end": "146.560", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "diese Auftragserweiterung vor Ort unb\u00fcrokratisch zu erledigen: "
+   ]
+  }, 
+  {
+   "begin": "146.560", 
+   "children": [], 
+   "end": "151.080", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Art und Umfang der zus\u00e4tzlichen Leistung auf den Angebotszettel schreiben, "
+   ]
+  }, 
+  {
+   "begin": "151.080", 
+   "children": [], 
+   "end": "151.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Preis, "
+   ]
+  }, 
+  {
+   "begin": "151.640", 
+   "children": [], 
+   "end": "152.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Datum, "
+   ]
+  }, 
+  {
+   "begin": "152.240", 
+   "children": [], 
+   "end": "153.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Kundenunterschrift, "
+   ]
+  }, 
+  {
+   "begin": "153.440", 
+   "children": [], 
+   "end": "153.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "fertig, "
+   ]
+  }, 
+  {
+   "begin": "153.960", 
+   "children": [], 
+   "end": "155.080", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "aus die Maus."
+   ]
+  }, 
+  {
+   "begin": "155.080", 
+   "children": [], 
+   "end": "159.280", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Nicht aber so die seit 2014 g\u00fcltigen Regeln: "
+   ]
+  }, 
+  {
+   "begin": "159.280", 
+   "children": [], 
+   "end": "166.680", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Entweder muss jetzt der Handwerker die Installation beim Kunden zu Hause abbrechen und mit dem Kunden in seine Gesch\u00e4ftsr\u00e4ume fahren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "166.680", 
+   "children": [], 
+   "end": "168.720", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "was abwegig ist\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "168.720", 
+   "children": [], 
+   "end": "172.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "oder der Elektriker macht vor Ort zus\u00e4tzliche Angaben, "
+   ]
+  }, 
+  {
+   "begin": "172.880", 
+   "children": [], 
+   "end": "175.720", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die er dem Kunden schriftlich aush\u00e4ndigen muss. "
+   ]
+  }, 
+  {
+   "begin": "175.720", 
+   "children": [], 
+   "end": "176.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Das sind: "
+   ]
+  }, 
+  {
+   "begin": "176.920", 
+   "children": [], 
+   "end": "181.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Eigenschaft der Ware oder Dienstleistung inklusive Art der Preisberechnung, "
+   ]
+  }, 
+  {
+   "begin": "181.600", 
+   "children": [], 
+   "end": "182.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Zahlungs-, "
+   ]
+  }, 
+  {
+   "begin": "182.240", 
+   "children": [], 
+   "end": "182.760", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Lieferungs-, "
+   ]
+  }, 
+  {
+   "begin": "182.760", 
+   "children": [], 
+   "end": "185.520", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Leistungsbedingungen inklusive Lieferfristen, "
+   ]
+  }, 
+  {
+   "begin": "185.520", 
+   "children": [], 
+   "end": "186.560", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "M\u00e4ngelhaftungsrecht, "
+   ]
+  }, 
+  {
+   "begin": "186.560", 
+   "children": [], 
+   "end": "197.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Garantieanspr\u00fcche sowie Widerrufsbelehrungen und Belehrungen zum Verlust des Widerrufsrechts bei Leistungserf\u00fcllung innerhalb der 14-t\u00e4gigen Widerrufsfrist usw. "
+   ]
+  }, 
+  {
+   "begin": "197.280", 
+   "children": [], 
+   "end": "198.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "usf. "
+   ]
+  }, 
+  {
+   "begin": "198.240", 
+   "children": [], 
+   "end": "203.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Der Kunde ist doch an einer sofortigen Leistungserf\u00fcllung bei sich zu Hause interessiert, "
+   ]
+  }, 
+  {
+   "begin": "203.680", 
+   "children": [], 
+   "end": "208.160", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "aber die Belehrungslitanei wird zum Hauptarbeitsinhalt des Elektrikers\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "208.160", 
+   "children": [], 
+   "end": "212.280", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "anstatt die geforderte Steckdose zu verlegen."
+   ]
+  }, 
+  {
+   "begin": "212.280", 
+   "children": [], 
+   "end": "219.520", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Vergisst der Handwerker nur einen Punkt des Belehrungsreigens, "
+   ]
+  }, 
+  {
+   "begin": "219.520", 
+   "children": [], 
+   "end": "225.640", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "verl\u00e4ngert sich die Widerrufsfrist von 14\u00a0Tagen auf maximal ein Jahr und 14\u00a0Tage. "
+   ]
+  }, 
+  {
+   "begin": "225.640", 
+   "children": [], 
+   "end": "233.000", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Der Vertrag kann w\u00e4hrend dieser Frist vom Verbraucher ohne Grund angefochten und das Geld zur\u00fcckgefordert werden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "233.000", 
+   "children": [], 
+   "end": "235.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "ein Sachmangel muss nicht vorliegen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "235.360", 
+   "children": [], 
+   "end": "237.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wobei ja nicht mehr zur\u00fcckgefordert werden kann, "
+   ]
+  }, 
+  {
+   "begin": "237.840", 
+   "children": [], 
+   "end": "240.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "was schon verbaut worden ist. "
+   ]
+  }, 
+  {
+   "begin": "240.440", 
+   "children": [], 
+   "end": "241.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Das f\u00fchrt dazu, "
+   ]
+  }, 
+  {
+   "begin": "241.280", 
+   "children": [], 
+   "end": "242.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass viele Betriebe schon um vier- "
+   ]
+  }, 
+  {
+   "begin": "242.800", 
+   "children": [], 
+   "end": "245.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "bis f\u00fcnfstellige Euro-Betr\u00e4ge geprellt wurden; "
+   ]
+  }, 
+  {
+   "begin": "245.560", 
+   "children": [], 
+   "end": "252.080", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "der Bau ganzer Treppenh\u00e4user oder D\u00e4cher wurden wegen fehlender Belehrung nicht bezahlt."
+   ]
+  }, 
+  {
+   "begin": "252.080", 
+   "children": [], 
+   "end": "259.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen der FDP und auch der Mittelstands-Union, "
+   ]
+  }, 
+  {
+   "begin": "259.640", 
+   "children": [], 
+   "end": "263.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "ich beschreibe hier eine gemeinsame Position von uns allen. "
+   ]
+  }, 
+  {
+   "begin": "263.400", 
+   "children": [], 
+   "end": "265.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt k\u00f6nnten Sie auch mal klatschen, "
+   ]
+  }, 
+  {
+   "begin": "265.160", 
+   "children": [], 
+   "end": "272.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "obwohl es von der AfD kommt."
+   ]
+  }, 
+  {
+   "begin": "272.040", 
+   "children": [], 
+   "end": "273.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie nicht klatschen, "
+   ]
+  }, 
+  {
+   "begin": "273.240", 
+   "children": [], 
+   "end": "274.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dann hei\u00dft das: "
+   ]
+  }, 
+  {
+   "begin": "274.000", 
+   "children": [], 
+   "end": "275.920", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben das Mittelstandsthema uns, "
+   ]
+  }, 
+  {
+   "begin": "275.920", 
+   "children": [], 
+   "end": "276.520", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "der AfD, "
+   ]
+  }, 
+  {
+   "begin": "276.520", 
+   "children": [], 
+   "end": "278.160", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "schon lange kampflos \u00fcberlassen. "
+   ]
+  }, 
+  {
+   "begin": "278.160", 
+   "children": [], 
+   "end": "285.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr m\u00f6chte ich mich bei Ihnen bedanken."
+   ]
+  }, 
+  {
+   "begin": "285.040", 
+   "children": [], 
+   "end": "286.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Das Ganze, "
+   ]
+  }, 
+  {
+   "begin": "286.440", 
+   "children": [], 
+   "end": "288.040", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "um das es sich hier dreht, "
+   ]
+  }, 
+  {
+   "begin": "288.040", 
+   "children": [], 
+   "end": "290.080", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "ist kein Verbraucherschutz mehr, "
+   ]
+  }, 
+  {
+   "begin": "290.080", 
+   "children": [], 
+   "end": "292.000", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "sondern Unternehmensg\u00e4ngelei\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "292.000", 
+   "children": [], 
+   "end": "297.800", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "bei gleichzeitiger Verwirrung vieler Verbraucher durch b\u00fcrokratische Lehrstunden. "
+   ]
+  }, 
+  {
+   "begin": "297.800", 
+   "children": [], 
+   "end": "300.240", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Daher beantragt die AfD Folgendes:"
+   ]
+  }, 
+  {
+   "begin": "300.240", 
+   "children": [], 
+   "end": "301.440", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "301.440", 
+   "children": [], 
+   "end": "306.880", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung soll bei der nationalen Umsetzung der EU-Richtlinie \u00fcberpr\u00fcfen, "
+   ]
+  }, 
+  {
+   "begin": "306.880", 
+   "children": [], 
+   "end": "311.360", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "ob Spielr\u00e4ume f\u00fcr eine minder b\u00fcrokratische Umsetzung vorhanden sind, "
+   ]
+  }, 
+  {
+   "begin": "311.360", 
+   "children": [], 
+   "end": "314.160", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "und diese legislativ nutzen."
+   ]
+  }, 
+  {
+   "begin": "314.160", 
+   "children": [], 
+   "end": "315.120", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "315.120", 
+   "children": [], 
+   "end": "318.200", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Falls dies nicht oder nur unzureichend m\u00f6glich ist, "
+   ]
+  }, 
+  {
+   "begin": "318.200", 
+   "children": [], 
+   "end": "323.520", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "soll die Bundesregierung \u00fcber den EU-Rat die EU-Kommission auffordern, "
+   ]
+  }, 
+  {
+   "begin": "323.520", 
+   "children": [], 
+   "end": "327.680", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "die EU-Richtlinie b\u00fcrokratisch zu entr\u00fcmpeln."
+   ]
+  }, 
+  {
+   "begin": "327.680", 
+   "children": [], 
+   "end": "330.840", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kollegen und Kolleginnen aller Fraktionen, "
+   ]
+  }, 
+  {
+   "begin": "330.840", 
+   "children": [], 
+   "end": "337.760", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "die AfD und ich laden Sie herzlich zur konstruktiven Mitarbeit an unserem Antrag ein\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "337.760", 
+   "children": [], 
+   "end": "339.960", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "das hei\u00dft \u00fcber alle Partei- "
+   ]
+  }, 
+  {
+   "begin": "339.960", 
+   "children": [], 
+   "end": "342.360", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "und alle Fraktionsgrenzen hinweg\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "342.360", 
+   "children": [], 
+   "end": "344.920", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "damit wir f\u00fcr die Betroffenen etwas erreichen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "344.920", 
+   "children": [], 
+   "end": "348.840", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "was unsere gemeinsame Aufgabe in diesem Hohen Haus ist\u00a0\u2013,"
+   ]
+  }, 
+  {
+   "begin": "348.840", 
+   "children": [], 
+   "end": "349.920", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich, "
+   ]
+  }, 
+  {
+   "begin": "349.920", 
+   "children": [], 
+   "end": "350.920", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "erstens, "
+   ]
+  }, 
+  {
+   "begin": "350.920", 
+   "children": [], 
+   "end": "357.120", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "einen fairen Ausgleich der berechtigten Interessen von Verbrauchern und Unternehmen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "357.120", 
+   "children": [], 
+   "end": "359.920", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "es sind vorwiegend Unternehmen des inhabergef\u00fchrten, "
+   ]
+  }, 
+  {
+   "begin": "359.920", 
+   "children": [], 
+   "end": "361.320", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "kleinen Mittelstandes\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "361.320", 
+   "children": [], 
+   "end": "361.600", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "und, "
+   ]
+  }, 
+  {
+   "begin": "361.600", 
+   "children": [], 
+   "end": "362.760", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "zweitens, "
+   ]
+  }, 
+  {
+   "begin": "362.760", 
+   "children": [], 
+   "end": "367.040", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Entlastung dieser mittelst\u00e4ndischen Firmen von einer existenzbedrohenden, "
+   ]
+  }, 
+  {
+   "begin": "367.040", 
+   "children": [], 
+   "end": "369.160", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "b\u00fcrokratischen \u00dcberregulierung, "
+   ]
+  }, 
+  {
+   "begin": "369.160", 
+   "children": [], 
+   "end": "371.200", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "die gerade den Verbrauchern, "
+   ]
+  }, 
+  {
+   "begin": "371.200", 
+   "children": [], 
+   "end": "373.280", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "die eigentlich gesch\u00fctzt werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "373.280", 
+   "children": [], 
+   "end": "376.320", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "aufgrund ihrer Absurdit\u00e4t oft nix n\u00fctzt."
+   ]
+  }, 
+  {
+   "begin": "376.320", 
+   "children": [], 
+   "end": "378.360", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Ich bedanke mich f\u00fcr die Aufmerksamkeit, "
+   ]
+  }, 
+  {
+   "begin": "378.360", 
+   "children": [], 
+   "end": "380.480", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "und ich bedanke mich beim Herrn Pr\u00e4sidenten."
+   ]
+  }, 
+  {
+   "begin": "380.480", 
+   "children": [], 
+   "end": "391.360", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt erteile ich dem Kollegen Dr.\u00a0Hendrik Hoppenstedt, "
+   ]
+  }, 
+  {
+   "begin": "391.360", 
+   "children": [], 
+   "end": "392.520", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU-Fraktion, "
+   ]
+  }, 
+  {
+   "begin": "392.520", 
+   "children": [], 
+   "end": "393.720", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "das Wort."
+   ]
+  }
+ ]
+}

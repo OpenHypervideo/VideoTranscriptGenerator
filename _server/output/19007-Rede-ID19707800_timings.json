@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.480", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "children": [], 
+   "end": "14.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "14.840", 
+   "children": [], 
+   "end": "19.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Anschlag von Anis Amri am Breitscheidplatz war eine nationale Trag\u00f6die. "
+   ]
+  }, 
+  {
+   "begin": "19.080", 
+   "children": [], 
+   "end": "21.240", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben es schon mehrfach geh\u00f6rt: "
+   ]
+  }, 
+  {
+   "begin": "21.240", 
+   "children": [], 
+   "end": "21.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "12\u00a0Tote, "
+   ]
+  }, 
+  {
+   "begin": "21.960", 
+   "children": [], 
+   "end": "24.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "67 zum Teil schwer Verletzte, "
+   ]
+  }, 
+  {
+   "begin": "24.320", 
+   "children": [], 
+   "end": "26.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "das sind die kalten Zahlen. "
+   ]
+  }, 
+  {
+   "begin": "26.560", 
+   "children": [], 
+   "end": "30.200", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Der islamistische Terrorist hat sich gezielt ein christliches Fest ausgesucht, "
+   ]
+  }, 
+  {
+   "begin": "30.200", 
+   "children": [], 
+   "end": "32.560", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "um unschuldige Menschen zu ermorden, "
+   ]
+  }, 
+  {
+   "begin": "32.560", 
+   "children": [], 
+   "end": "34.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und es hat sich gezeigt: "
+   ]
+  }, 
+  {
+   "begin": "34.040", 
+   "children": [], 
+   "end": "38.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ein Teil der islamischen Welt hat uns den Krieg erkl\u00e4rt. "
+   ]
+  }, 
+  {
+   "begin": "38.880", 
+   "children": [], 
+   "end": "39.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wir sch\u00e4tzen, "
+   ]
+  }, 
+  {
+   "begin": "39.480", 
+   "children": [], 
+   "end": "45.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass sich weitere 700\u00a0Gef\u00e4hrder der Kategorie Amri in Deutschland aufhalten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "45.960", 
+   "children": [], 
+   "end": "50.320", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "700 tickende Zeitbomben mitten unter uns."
+   ]
+  }, 
+  {
+   "begin": "50.320", 
+   "children": [], 
+   "end": "55.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Aber der Anschlag ist nicht nur eine Trag\u00f6die, "
+   ]
+  }, 
+  {
+   "begin": "55.440", 
+   "children": [], 
+   "end": "57.800", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch ein politischer Skandal. "
+   ]
+  }, 
+  {
+   "begin": "57.800", 
+   "children": [], 
+   "end": "61.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Er steht f\u00fcr einen Offenbarungseid in der Fl\u00fcchtlings- "
+   ]
+  }, 
+  {
+   "begin": "61.400", 
+   "children": [], 
+   "end": "62.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "und Asylpolitik, "
+   ]
+  }, 
+  {
+   "begin": "62.800", 
+   "children": [], 
+   "end": "65.880", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "der eine wirklich gro\u00dfe Frage aufwirft: "
+   ]
+  }, 
+  {
+   "begin": "65.880", 
+   "children": [], 
+   "end": "67.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Was muss man eigentlich tun, "
+   ]
+  }, 
+  {
+   "begin": "67.280", 
+   "children": [], 
+   "end": "70.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "um aus Deutschland abgeschoben zu werden? "
+   ]
+  }, 
+  {
+   "begin": "70.280", 
+   "children": [], 
+   "end": "71.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Es gen\u00fcgt nicht, "
+   ]
+  }, 
+  {
+   "begin": "71.320", 
+   "children": [], 
+   "end": "75.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "illegal einzureisen oder sich 14 falsche Identit\u00e4ten zuzulegen. "
+   ]
+  }, 
+  {
+   "begin": "75.600", 
+   "children": [], 
+   "end": "76.280", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Es gen\u00fcgt nicht, "
+   ]
+  }, 
+  {
+   "begin": "76.280", 
+   "children": [], 
+   "end": "79.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "in Drogenhandel verwickelt zu sein oder andere Delikte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "79.640", 
+   "children": [], 
+   "end": "80.680", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "auch gewaltsam\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "80.680", 
+   "children": [], 
+   "end": "81.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "zu begehen. "
+   ]
+  }, 
+  {
+   "begin": "81.320", 
+   "children": [], 
+   "end": "82.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Das reicht alles nicht. "
+   ]
+  }, 
+  {
+   "begin": "82.320", 
+   "children": [], 
+   "end": "83.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Und es reicht auch nicht, "
+   ]
+  }, 
+  {
+   "begin": "83.080", 
+   "children": [], 
+   "end": "88.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "in islamistischen Kreisen zu verkehren und mehr oder weniger offen Anschl\u00e4ge anzuk\u00fcndigen. "
+   ]
+  }, 
+  {
+   "begin": "88.240", 
+   "children": [], 
+   "end": "91.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "All das reicht nicht. "
+   ]
+  }, 
+  {
+   "begin": "91.040", 
+   "children": [], 
+   "end": "93.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das komplette Versagen der deutschen Asyl- "
+   ]
+  }, 
+  {
+   "begin": "93.120", 
+   "children": [], 
+   "end": "98.280", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und Fl\u00fcchtlingspolitik ist so offensichtlich und das Ausma\u00df des Skandals ist so gro\u00df, "
+   ]
+  }, 
+  {
+   "begin": "98.280", 
+   "children": [], 
+   "end": "104.040", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass die Einsetzung eines Untersuchungsausschusses keiner besonderen Begr\u00fcndung bedarf. "
+   ]
+  }, 
+  {
+   "begin": "104.040", 
+   "children": [], 
+   "end": "109.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Erkenntnisse der Untersuchungsaussch\u00fcsse in Berlin und Nordrhein-Westfalen haben das schon gezeigt."
+   ]
+  }, 
+  {
+   "begin": "109.560", 
+   "children": [], 
+   "end": "114.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben bereits im Vorfeld unsere Bereitschaft zu einem gemeinsamen Antrag erkl\u00e4rt. "
+   ]
+  }, 
+  {
+   "begin": "114.800", 
+   "children": [], 
+   "end": "116.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Dieser ist nicht an uns gescheitert. "
+   ]
+  }, 
+  {
+   "begin": "116.720", 
+   "children": [], 
+   "end": "124.520", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wir sehen in den vorliegenden Antr\u00e4gen eine breite gemeinsame Basis und eine \u00dcbereinstimmung in den meisten Punkten. "
+   ]
+  }, 
+  {
+   "begin": "124.520", 
+   "children": [], 
+   "end": "126.480", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Der AfD sind vier Punkte wichtig, "
+   ]
+  }, 
+  {
+   "begin": "126.480", 
+   "children": [], 
+   "end": "128.320", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "bei denen wir noch \u00c4nderungen einbringen wollen."
+   ]
+  }, 
+  {
+   "begin": "128.320", 
+   "children": [], 
+   "end": "129.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "129.200", 
+   "children": [], 
+   "end": "132.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die Zahl der Ausschussmitglieder m\u00f6chten wir gerne auf 18 erh\u00f6hen, "
+   ]
+  }, 
+  {
+   "begin": "132.600", 
+   "children": [], 
+   "end": "138.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "sodass kleine Fraktionen wie die drittgr\u00f6\u00dfte Fraktion auch mehr als einen Abgeordneten stellen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "138.440", 
+   "children": [], 
+   "end": "138.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir denken, "
+   ]
+  }, 
+  {
+   "begin": "138.880", 
+   "children": [], 
+   "end": "142.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass die Arbeit dann besser geleistet werden kann."
+   ]
+  }, 
+  {
+   "begin": "142.040", 
+   "children": [], 
+   "end": "143.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "143.600", 
+   "children": [], 
+   "end": "148.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen den Beginn des Untersuchungszeitraums auf die Einreise Amris in den Schengen-Raum legen; "
+   ]
+  }, 
+  {
+   "begin": "148.560", 
+   "children": [], 
+   "end": "153.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "denn der Anschlag am Breitscheidplatz ist nicht isoliert zu betrachten. "
+   ]
+  }, 
+  {
+   "begin": "153.120", 
+   "children": [], 
+   "end": "156.680", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Er steht im Zusammenhang mit der Krise des europ\u00e4ischen Asylsystems, "
+   ]
+  }, 
+  {
+   "begin": "156.680", 
+   "children": [], 
+   "end": "160.720", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "an der die Bundesregierung mit ihrer Politik wesentlich beteiligt ist. "
+   ]
+  }, 
+  {
+   "begin": "160.720", 
+   "children": [], 
+   "end": "166.480", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Die Aufarbeitung der Vorgeschichte ist deswegen besonders wichtig und dringend erforderlich."
+   ]
+  }, 
+  {
+   "begin": "166.480", 
+   "children": [], 
+   "end": "166.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "166.720", 
+   "children": [], 
+   "end": "179.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen das Ende des Untersuchungszeitraumes auf den Zeitpunkt der Einsetzung des Untersuchungsausschusses festsetzen und die Untersuchung nicht schon mit dem Tod Amris enden lassen. "
+   ]
+  }, 
+  {
+   "begin": "179.760", 
+   "children": [], 
+   "end": "180.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt keinen Grund, "
+   ]
+  }, 
+  {
+   "begin": "180.520", 
+   "children": [], 
+   "end": "183.320", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die Arbeit des Untersuchungsausschusses einzuschr\u00e4nken. "
+   ]
+  }, 
+  {
+   "begin": "183.320", 
+   "children": [], 
+   "end": "184.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Die Netzwerke, "
+   ]
+  }, 
+  {
+   "begin": "184.080", 
+   "children": [], 
+   "end": "185.600", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "in denen Amri t\u00e4tig war, "
+   ]
+  }, 
+  {
+   "begin": "185.600", 
+   "children": [], 
+   "end": "186.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "sind weiter aktiv, "
+   ]
+  }, 
+  {
+   "begin": "186.640", 
+   "children": [], 
+   "end": "192.640", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "und die Fehler der Beh\u00f6rden haben sich \u00fcber den Tod von Amri hinaus fortgesetzt. "
+   ]
+  }, 
+  {
+   "begin": "192.640", 
+   "children": [], 
+   "end": "196.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Auch das geh\u00f6rt aufgekl\u00e4rt."
+   ]
+  }, 
+  {
+   "begin": "196.640", 
+   "children": [], 
+   "end": "202.840", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Der Fokus sollte nicht auf den Fehlern untergeordneter Stellen oder Fehlurteilen einzelner Beamter liegen, "
+   ]
+  }, 
+  {
+   "begin": "202.840", 
+   "children": [], 
+   "end": "207.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "worauf sich insbesondere der Sonderermittler in Berlin so sehr fokussiert hat. "
+   ]
+  }, 
+  {
+   "begin": "207.240", 
+   "children": [], 
+   "end": "217.800", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "In Anbetracht der \u00dcberforderung von Polizei und Sicherheitsdiensten in dem Asylchaos von 2015 bis 2017 ist es ja fast nicht \u00fcberraschend, "
+   ]
+  }, 
+  {
+   "begin": "217.800", 
+   "children": [], 
+   "end": "219.040", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass es dazu kam."
+   ]
+  }, 
+  {
+   "begin": "219.040", 
+   "children": [], 
+   "end": "220.480", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Viertens. "
+   ]
+  }, 
+  {
+   "begin": "220.480", 
+   "children": [], 
+   "end": "224.200", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Der Untersuchungsausschuss muss die entscheidende Frage stellen: "
+   ]
+  }, 
+  {
+   "begin": "224.200", 
+   "children": [], 
+   "end": "229.320", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Wer tr\u00e4gt die politische Gesamtverantwortung f\u00fcr das Desaster?"
+   ]
+  }, 
+  {
+   "begin": "229.320", 
+   "children": [], 
+   "end": "232.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir begr\u00fc\u00dfen sehr die Bereitschaft aller Parteien, "
+   ]
+  }, 
+  {
+   "begin": "232.480", 
+   "children": [], 
+   "end": "236.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "den Untersuchungsausschuss einzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "236.600", 
+   "children": [], 
+   "end": "240.160", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir sehen das als einen notwendigen Teil der Gesamtaufkl\u00e4rung an, "
+   ]
+  }, 
+  {
+   "begin": "240.160", 
+   "children": [], 
+   "end": "246.920", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "der vollst\u00e4ndigen Aufarbeitung eines der gr\u00f6\u00dften Skandale der bundesrepublikanischen Geschichte. "
+   ]
+  }, 
+  {
+   "begin": "246.920", 
+   "children": [], 
+   "end": "251.720", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Der Anschlag war das Ergebnis eines breiten Versagens des gesamten politischen Systems, "
+   ]
+  }, 
+  {
+   "begin": "251.720", 
+   "children": [], 
+   "end": "254.720", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere aber auch oberer Entscheidungstr\u00e4ger, "
+   ]
+  }, 
+  {
+   "begin": "254.720", 
+   "children": [], 
+   "end": "256.920", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "und nicht nur der nachgeordneten Beamten."
+   ]
+  }, 
+  {
+   "begin": "256.920", 
+   "children": [], 
+   "end": "258.960", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Entscheidend wird sein\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "258.960", 
+   "children": [], 
+   "end": "260.560", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "darauf kommt es dann an\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "260.560", 
+   "children": [], 
+   "end": "263.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "welche Konsequenzen wir aus der Aufkl\u00e4rung ziehen. "
+   ]
+  }, 
+  {
+   "begin": "263.080", 
+   "children": [], 
+   "end": "264.160", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Schon jetzt k\u00f6nnen wir sagen: "
+   ]
+  }, 
+  {
+   "begin": "264.160", 
+   "children": [], 
+   "end": "265.800", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden die Probleme nicht l\u00f6sen, "
+   ]
+  }, 
+  {
+   "begin": "265.800", 
+   "children": [], 
+   "end": "268.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "indem wir die Mittel f\u00fcr Integrationskurse aufstocken, "
+   ]
+  }, 
+  {
+   "begin": "268.360", 
+   "children": [], 
+   "end": "269.680", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "die Familien nachholen, "
+   ]
+  }, 
+  {
+   "begin": "269.680", 
+   "children": [], 
+   "end": "276.240", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "die Weihnachtsm\u00e4rkte zupollern oder 20\u00a0000\u00a0Polizisten f\u00fcr 700\u00a0Gef\u00e4hrder 24\u00a0Stunden am Tag, "
+   ]
+  }, 
+  {
+   "begin": "276.240", 
+   "children": [], 
+   "end": "278.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "sieben Tage die Woche abstellen, "
+   ]
+  }, 
+  {
+   "begin": "278.440", 
+   "children": [], 
+   "end": "279.640", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "bis es zu sp\u00e4t ist. "
+   ]
+  }, 
+  {
+   "begin": "279.640", 
+   "children": [], 
+   "end": "280.800", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen kl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "280.800", 
+   "children": [], 
+   "end": "283.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "warum Amri nicht abgeschoben worden ist, "
+   ]
+  }, 
+  {
+   "begin": "283.640", 
+   "children": [], 
+   "end": "287.560", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "und dann m\u00fcssen wir diesen Fehler im System abstellen."
+   ]
+  }, 
+  {
+   "begin": "287.560", 
+   "children": [], 
+   "end": "288.080", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Jeder, "
+   ]
+  }, 
+  {
+   "begin": "288.080", 
+   "children": [], 
+   "end": "292.800", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "der auch nur halb so gef\u00e4hrlich ist wie Amri, "
+   ]
+  }, 
+  {
+   "begin": "292.800", 
+   "children": [], 
+   "end": "295.720", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "muss auf dem schnellsten Wege raus aus diesem Land. "
+   ]
+  }, 
+  {
+   "begin": "295.720", 
+   "children": [], 
+   "end": "299.720", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Das Leben der B\u00fcrger dieses Landes steht weit \u00fcber dem Aufenthaltsrecht von Terroristen."
+   ]
+  }, 
+  {
+   "begin": "299.720", 
+   "children": [], 
+   "end": "300.400", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "300.400", 
+   "children": [], 
+   "end": "315.000", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Kollege Stephan Thomae f\u00fcr die FDP-Fraktion."
+   ]
+  }
+ ]
+}

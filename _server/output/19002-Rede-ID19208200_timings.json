@@ -1,0 +1,284 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben zwei Punkte aus meiner Rede angesprochen."
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "children": [], 
+   "end": "9.360", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Der erste Punkt ist der Zeitraum, "
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "children": [], 
+   "end": "11.120", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "wann das Urteil kommt. "
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "children": [], 
+   "end": "16.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie das Urteil und den Vorlagebeschluss des Bundesverfassungsgerichts genau gelesen haben, "
+   ]
+  }, 
+  {
+   "begin": "16.520", 
+   "children": [], 
+   "end": "17.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dann werden Sie festgestellt haben, "
+   ]
+  }, 
+  {
+   "begin": "17.280", 
+   "children": [], 
+   "end": "18.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass darin exakt steht, "
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "children": [], 
+   "end": "24.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass das Bundesverfassungsgericht den EuGH um eine rasche Bearbeitung bittet,"
+   ]
+  }, 
+  {
+   "begin": "24.480", 
+   "children": [], 
+   "end": "29.080", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "weil es sich um einen eilbed\u00fcrftigen Zustand handelt. "
+   ]
+  }, 
+  {
+   "begin": "29.080", 
+   "children": [], 
+   "end": "34.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Insoweit rechne ich pers\u00f6nlich eher mit Monaten als mit Jahren. "
+   ]
+  }, 
+  {
+   "begin": "34.440", 
+   "children": [], 
+   "end": "36.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der erste Punkt."
+   ]
+  }, 
+  {
+   "begin": "36.480", 
+   "children": [], 
+   "end": "38.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Zum zweiten Punkt, "
+   ]
+  }, 
+  {
+   "begin": "38.320", 
+   "children": [], 
+   "end": "42.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "den Sie angesprochen haben. "
+   ]
+  }, 
+  {
+   "begin": "42.800", 
+   "children": [], 
+   "end": "43.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben gesagt, "
+   ]
+  }, 
+  {
+   "begin": "43.880", 
+   "children": [], 
+   "end": "51.040", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie in Ihren Antrag nur Rechtsquellen als Begr\u00fcndung reinkopiert haben. "
+   ]
+  }, 
+  {
+   "begin": "51.040", 
+   "children": [], 
+   "end": "55.320", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Ich nenne jetzt einmal als Beispiele die Rechtsquellen \u201e faz.net \u201c, "
+   ]
+  }, 
+  {
+   "begin": "55.320", 
+   "children": [], 
+   "end": "56.480", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "\u201e www.welt.de \u201c"
+   ]
+  }, 
+  {
+   "begin": "56.480", 
+   "children": [], 
+   "end": "60.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "und die ganz bekannte Rechtsquelle von Hans-Werner Sinn, "
+   ]
+  }, 
+  {
+   "begin": "60.400", 
+   "children": [], 
+   "end": "62.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "\u201eAm Limit\u201c aus der \u201eFAZ\u201c."
+   ]
+  }, 
+  {
+   "begin": "62.520", 
+   "children": [], 
+   "end": "64.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren von der AfD, "
+   ]
+  }, 
+  {
+   "begin": "64.920", 
+   "children": [], 
+   "end": "66.240", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen hier nat\u00fcrlich vorlegen, "
+   ]
+  }, 
+  {
+   "begin": "66.240", 
+   "children": [], 
+   "end": "66.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "was Sie wollen."
+   ]
+  }, 
+  {
+   "begin": "66.880", 
+   "children": [], 
+   "end": "70.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein freies Parlament. "
+   ]
+  }, 
+  {
+   "begin": "70.120", 
+   "children": [], 
+   "end": "72.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen aber nicht verhindern, "
+   ]
+  }, 
+  {
+   "begin": "72.480", 
+   "children": [], 
+   "end": "74.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns damit besch\u00e4ftigen und dass wir, "
+   ]
+  }, 
+  {
+   "begin": "74.520", 
+   "children": [], 
+   "end": "75.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie so etwas vorlegen, "
+   ]
+  }, 
+  {
+   "begin": "75.720", 
+   "children": [], 
+   "end": "79.560", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "das auch gegen\u00fcber der deutschen \u00d6ffentlichkeit ansprechen."
+   ]
+  }, 
+  {
+   "begin": "79.560", 
+   "children": [], 
+   "end": "84.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank. "
+   ]
+  }, 
+  {
+   "begin": "84.760", 
+   "children": [], 
+   "end": "85.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Sie d\u00fcrfen sich setzen."
+   ]
+  }
+ ]
+}

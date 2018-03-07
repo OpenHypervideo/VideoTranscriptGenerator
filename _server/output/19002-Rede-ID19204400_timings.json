@@ -1,0 +1,884 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "children": [], 
+   "end": "10.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "children": [], 
+   "end": "14.560", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der S\u00fcdsudan ist der j\u00fcngste Staat der Welt. "
+   ]
+  }, 
+  {
+   "begin": "14.560", 
+   "children": [], 
+   "end": "16.160", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt ihn seit sechs Jahren. "
+   ]
+  }, 
+  {
+   "begin": "16.160", 
+   "children": [], 
+   "end": "18.080", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Seit vier Jahren gibt es dort Krieg. "
+   ]
+  }, 
+  {
+   "begin": "18.080", 
+   "children": [], 
+   "end": "23.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Aber im Grunde genommen gibt es dort mit kleinen Unterbrechungen seit 40\u00a0Jahren Krieg und B\u00fcrgerkrieg. "
+   ]
+  }, 
+  {
+   "begin": "23.280", 
+   "children": [], 
+   "end": "28.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Viele Vorredner haben die aktuelle Situation beschrieben und darauf hingewiesen, "
+   ]
+  }, 
+  {
+   "begin": "28.560", 
+   "children": [], 
+   "end": "31.080", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "was das tats\u00e4chlich bedeutet. "
+   ]
+  }, 
+  {
+   "begin": "31.080", 
+   "children": [], 
+   "end": "31.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "31.800", 
+   "children": [], 
+   "end": "33.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "allein die nackten Zahlen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "33.480", 
+   "children": [], 
+   "end": "44.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "von den 12\u00a0Millionen Einwohnern sind 7,6\u00a0Millionen von Nahrungsmittelhilfen abh\u00e4ngig und 1,25\u00a0Millionen unmittelbar vom Hungertod bedroht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "44.680", 
+   "children": [], 
+   "end": "46.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "sind ja schon erschreckend genug. "
+   ]
+  }, 
+  {
+   "begin": "46.920", 
+   "children": [], 
+   "end": "48.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Aber wenn man sich einmal anschaut, "
+   ]
+  }, 
+  {
+   "begin": "48.520", 
+   "children": [], 
+   "end": "50.640", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "wie sich diese Zahlen entwickelt haben, "
+   ]
+  }, 
+  {
+   "begin": "50.640", 
+   "children": [], 
+   "end": "55.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "seit wir im vergangenen Jahr \u00fcber die Verl\u00e4ngerung dieses Mandats entschieden haben, "
+   ]
+  }, 
+  {
+   "begin": "55.360", 
+   "children": [], 
+   "end": "56.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dann muss man sagen: "
+   ]
+  }, 
+  {
+   "begin": "56.280", 
+   "children": [], 
+   "end": "60.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Es hat sich in der Tat nicht zum Guten entwickelt, "
+   ]
+  }, 
+  {
+   "begin": "60.320", 
+   "children": [], 
+   "end": "63.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "sondern es ist schlechter geworden."
+   ]
+  }, 
+  {
+   "begin": "63.800", 
+   "children": [], 
+   "end": "66.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Der Kollege Schmidt hat seine Rede mit der Feststellung beendet, "
+   ]
+  }, 
+  {
+   "begin": "66.920", 
+   "children": [], 
+   "end": "69.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass man sich letztlich auch der Alternativen, "
+   ]
+  }, 
+  {
+   "begin": "69.720", 
+   "children": [], 
+   "end": "70.680", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die es dazu gibt, "
+   ]
+  }, 
+  {
+   "begin": "70.680", 
+   "children": [], 
+   "end": "71.840", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "bewusst sein muss. "
+   ]
+  }, 
+  {
+   "begin": "71.840", 
+   "children": [], 
+   "end": "72.440", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "72.440", 
+   "children": [], 
+   "end": "76.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "das m\u00fcssen wir in eine Gesamtbetrachtung einbeziehen. "
+   ]
+  }, 
+  {
+   "begin": "76.160", 
+   "children": [], 
+   "end": "78.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein vielschichtiger Konflikt, "
+   ]
+  }, 
+  {
+   "begin": "78.720", 
+   "children": [], 
+   "end": "81.640", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "der mit zwei Namen verbunden ist: "
+   ]
+  }, 
+  {
+   "begin": "81.640", 
+   "children": [], 
+   "end": "89.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dem des Pr\u00e4sidenten und dem seines fr\u00fcheren Vizepr\u00e4sidenten. "
+   ]
+  }, 
+  {
+   "begin": "89.600", 
+   "children": [], 
+   "end": "90.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um Macht, "
+   ]
+  }, 
+  {
+   "begin": "90.520", 
+   "children": [], 
+   "end": "91.440", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "es geht um Geld, "
+   ]
+  }, 
+  {
+   "begin": "91.440", 
+   "children": [], 
+   "end": "92.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "es geht um Ressourcen, "
+   ]
+  }, 
+  {
+   "begin": "92.840", 
+   "children": [], 
+   "end": "94.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "es geht um Bodensch\u00e4tze, "
+   ]
+  }, 
+  {
+   "begin": "94.160", 
+   "children": [], 
+   "end": "95.480", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "es geht um \u00d6l. "
+   ]
+  }, 
+  {
+   "begin": "95.480", 
+   "children": [], 
+   "end": "100.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Es geht letztlich auch um einen ethnischen Konflikt zwischen den Dinka und den Nuer, "
+   ]
+  }, 
+  {
+   "begin": "100.000", 
+   "children": [], 
+   "end": "101.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "der dem Ganzen zugrunde liegt. "
+   ]
+  }, 
+  {
+   "begin": "101.200", 
+   "children": [], 
+   "end": "105.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Vor diesem Hintergrund brauchen wir in der Tat eine vielschichtige L\u00f6sung."
+   ]
+  }, 
+  {
+   "begin": "105.120", 
+   "children": [], 
+   "end": "106.880", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Aber eines ist klar: "
+   ]
+  }, 
+  {
+   "begin": "106.880", 
+   "children": [], 
+   "end": "111.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Niemand hier in dieser Debatte hat eine Alternative zu diesem Einsatz, "
+   ]
+  }, 
+  {
+   "begin": "111.520", 
+   "children": [], 
+   "end": "113.800", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "zu diesem UN-Mandat benannt. "
+   ]
+  }, 
+  {
+   "begin": "113.800", 
+   "children": [], 
+   "end": "116.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Denn die Situation ist doch die, "
+   ]
+  }, 
+  {
+   "begin": "116.280", 
+   "children": [], 
+   "end": "117.800", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass es \u00fcberhaupt nichts bringt, "
+   ]
+  }, 
+  {
+   "begin": "117.800", 
+   "children": [], 
+   "end": "120.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "hier nur mit ziviler Entwicklungshilfe zu arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "120.880", 
+   "children": [], 
+   "end": "125.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wenn allein in diesem Jahr bereits 18 Entwicklungshelfer ermordet worden sind, "
+   ]
+  }, 
+  {
+   "begin": "125.840", 
+   "children": [], 
+   "end": "130.600", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir im vergangenen Jahr Polizisten aus dieser Mission abgezogen haben, "
+   ]
+  }, 
+  {
+   "begin": "130.600", 
+   "children": [], 
+   "end": "132.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dann zeigt das doch ganz eindeutig, "
+   ]
+  }, 
+  {
+   "begin": "132.800", 
+   "children": [], 
+   "end": "139.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass man eben auch mit milit\u00e4rischen Mitteln die Grundlage f\u00fcr ein hinreichendes Ma\u00df an Sicherheit schaffen muss. "
+   ]
+  }, 
+  {
+   "begin": "139.600", 
+   "children": [], 
+   "end": "140.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ja nicht nur so, "
+   ]
+  }, 
+  {
+   "begin": "140.760", 
+   "children": [], 
+   "end": "147.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass die Entwicklungshelfer und die Soldaten von UNMISS sich im Land nicht frei bewegen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "147.120", 
+   "children": [], 
+   "end": "153.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Selbst der Pr\u00e4sident ist mehr ein B\u00fcrgermeister von Juba als tats\u00e4chlich Pr\u00e4sident des Landes, "
+   ]
+  }, 
+  {
+   "begin": "153.440", 
+   "children": [], 
+   "end": "155.000", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "der sich frei bewegen k\u00f6nnte."
+   ]
+  }, 
+  {
+   "begin": "155.000", 
+   "children": [], 
+   "end": "158.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es eine wesentliche Voraussetzung daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "158.640", 
+   "children": [], 
+   "end": "163.600", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass ein umfassender Ansatz hier tats\u00e4chlich umgesetzt werden kann. "
+   ]
+  }, 
+  {
+   "begin": "163.600", 
+   "children": [], 
+   "end": "167.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "In der Tat haben wir da relativ wenige Vorschl\u00e4ge geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "167.280", 
+   "children": [], 
+   "end": "168.240", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube auch, "
+   ]
+  }, 
+  {
+   "begin": "168.240", 
+   "children": [], 
+   "end": "171.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass wir bei der Verl\u00e4ngerung von UNMISS deutlich machen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "171.840", 
+   "children": [], 
+   "end": "174.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass es so nicht weitergehen kann, "
+   ]
+  }, 
+  {
+   "begin": "174.280", 
+   "children": [], 
+   "end": "177.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "sondern dass wir ein verst\u00e4rktes Engagement brauchen, "
+   ]
+  }, 
+  {
+   "begin": "177.320", 
+   "children": [], 
+   "end": "183.480", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass wir beispielsweise auch Druck der europ\u00e4ischen Staaten auf die Nachbarl\u00e4nder ben\u00f6tigen, "
+   ]
+  }, 
+  {
+   "begin": "183.480", 
+   "children": [], 
+   "end": "186.800", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel auf \u00c4gypten und \u00c4thiopien, "
+   ]
+  }, 
+  {
+   "begin": "186.800", 
+   "children": [], 
+   "end": "189.640", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die dort alle mit eigenen Interessen unterwegs sind, "
+   ]
+  }, 
+  {
+   "begin": "189.640", 
+   "children": [], 
+   "end": "190.560", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Uganda, "
+   ]
+  }, 
+  {
+   "begin": "190.560", 
+   "children": [], 
+   "end": "192.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "das dort die Regierungstruppen unterst\u00fctzt, "
+   ]
+  }, 
+  {
+   "begin": "192.960", 
+   "children": [], 
+   "end": "194.640", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "und anderes mehr."
+   ]
+  }, 
+  {
+   "begin": "194.640", 
+   "children": [], 
+   "end": "196.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Ich will an dieser Stelle noch einmal sagen: "
+   ]
+  }, 
+  {
+   "begin": "196.880", 
+   "children": [], 
+   "end": "198.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns auch bewusst sein, "
+   ]
+  }, 
+  {
+   "begin": "198.840", 
+   "children": [], 
+   "end": "202.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass wir nicht rein altruistisch unterwegs sind. "
+   ]
+  }, 
+  {
+   "begin": "202.880", 
+   "children": [], 
+   "end": "210.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Beispielsweise hat der katholische Bischof von S\u00fcdsudan bereits im August darauf hingewiesen, "
+   ]
+  }, 
+  {
+   "begin": "210.480", 
+   "children": [], 
+   "end": "218.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass sich gro\u00dfe Fl\u00fcchtlingsstr\u00f6me aus dem S\u00fcdsudan in Richtung Europa aufmachen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "218.080", 
+   "children": [], 
+   "end": "223.880", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Dass sich die Zahl der Fl\u00fcchtlinge in den letzten zw\u00f6lf Monaten etwa verdoppelt hat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "223.880", 
+   "children": [], 
+   "end": "226.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "2\u00a0Millionen Menschen innerhalb des Landes, "
+   ]
+  }, 
+  {
+   "begin": "226.560", 
+   "children": [], 
+   "end": "228.720", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "1\u00a0Million in Uganda, "
+   ]
+  }, 
+  {
+   "begin": "228.720", 
+   "children": [], 
+   "end": "231.160", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "700\u00a0000 im Sudan\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "231.160", 
+   "children": [], 
+   "end": "232.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "ist erschreckend. "
+   ]
+  }, 
+  {
+   "begin": "232.840", 
+   "children": [], 
+   "end": "235.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ich mir die Situation in Uganda anschaue, "
+   ]
+  }, 
+  {
+   "begin": "235.400", 
+   "children": [], 
+   "end": "237.720", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dann ist es wie ein D\u00e9j\u00e0-vu-Erlebnis. "
+   ]
+  }, 
+  {
+   "begin": "237.720", 
+   "children": [], 
+   "end": "246.040", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Dort br\u00e4uchte man laut UN-Weltern\u00e4hrungsprogramm 570\u00a0Millionen US-Dollar, "
+   ]
+  }, 
+  {
+   "begin": "246.040", 
+   "children": [], 
+   "end": "248.320", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "um die Menschen versorgen zu k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "248.320", 
+   "children": [], 
+   "end": "252.040", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Tats\u00e4chlich sind nur 20\u00a0Prozent der Mittel vorhanden. "
+   ]
+  }, 
+  {
+   "begin": "252.040", 
+   "children": [], 
+   "end": "259.920", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Das erinnert mich fatal an den Sommer 2015 und die Situation in den Anrainerstaaten Syriens."
+   ]
+  }, 
+  {
+   "begin": "259.920", 
+   "children": [], 
+   "end": "261.920", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb sollte uns bewusst sein: "
+   ]
+  }, 
+  {
+   "begin": "261.920", 
+   "children": [], 
+   "end": "265.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden hier nicht nur \u00fcber ein kleines Bundeswehrmandat, "
+   ]
+  }, 
+  {
+   "begin": "265.440", 
+   "children": [], 
+   "end": "273.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "wir reden \u00fcber die drittgr\u00f6\u00dfte Fl\u00fcchtlingskrise nach Syrien und Afghanistan und deshalb \u00fcber unser Thema. "
+   ]
+  }, 
+  {
+   "begin": "273.120", 
+   "children": [], 
+   "end": "275.360", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Aus diesem Grunde m\u00fcssen wir dort auch mehr tun: "
+   ]
+  }, 
+  {
+   "begin": "275.360", 
+   "children": [], 
+   "end": "276.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "humanit\u00e4r, "
+   ]
+  }, 
+  {
+   "begin": "276.560", 
+   "children": [], 
+   "end": "278.600", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "in der Rechtsstaatszusammenarbeit, "
+   ]
+  }, 
+  {
+   "begin": "278.600", 
+   "children": [], 
+   "end": "281.240", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "aber auch mit dem notwendigen Milit\u00e4r, "
+   ]
+  }, 
+  {
+   "begin": "281.240", 
+   "children": [], 
+   "end": "284.920", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "um Sicherheit f\u00fcr all das gew\u00e4hrleisten zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "284.920", 
+   "children": [], 
+   "end": "292.160", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "292.160", 
+   "children": [], 
+   "end": "297.720", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat Dr.\u00a0Reinhard Brandl f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

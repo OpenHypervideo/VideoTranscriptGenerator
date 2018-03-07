@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "0.040", 
+   "children": [], 
+   "end": "8.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "children": [], 
+   "end": "11.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Beim vorhergehenden Tagesordnungspunkt haben wir uns mit der Frage befasst, "
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "children": [], 
+   "end": "15.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "wie wir qualifizierte Zuwanderer ins Land holen wollen. "
+   ]
+  }, 
+  {
+   "begin": "15.960", 
+   "children": [], 
+   "end": "16.600", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich wiederhole\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "children": [], 
+   "end": "17.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "sozusagen vor der Klammer\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "17.840", 
+   "children": [], 
+   "end": "19.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass es ein wichtiger Punkt ist, "
+   ]
+  }, 
+  {
+   "begin": "19.560", 
+   "children": [], 
+   "end": "20.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Regeln daf\u00fcr zu schaffen, "
+   ]
+  }, 
+  {
+   "begin": "20.920", 
+   "children": [], 
+   "end": "22.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wie Menschen zuwandern k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "22.440", 
+   "children": [], 
+   "end": "24.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "wie sie ins Land kommen k\u00f6nnen: "
+   ]
+  }, 
+  {
+   "begin": "24.040", 
+   "children": [], 
+   "end": "26.520", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Asyl f\u00fcr pers\u00f6nlich Verfolgte, "
+   ]
+  }, 
+  {
+   "begin": "26.520", 
+   "children": [], 
+   "end": "32.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "humanit\u00e4rer Schutz f\u00fcr Kriegsfl\u00fcchtlinge und Einwanderung qualifizierter Fachkr\u00e4fte."
+   ]
+  }, 
+  {
+   "begin": "32.280", 
+   "children": [], 
+   "end": "33.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Mich st\u00f6rt nicht, "
+   ]
+  }, 
+  {
+   "begin": "33.960", 
+   "children": [], 
+   "end": "35.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "35.200", 
+   "children": [], 
+   "end": "36.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "neben diesen drei T\u00fcren, "
+   ]
+  }, 
+  {
+   "begin": "36.640", 
+   "children": [], 
+   "end": "38.400", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die ins Land f\u00fchren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "38.400", 
+   "children": [], 
+   "end": "39.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "auch mal mit der Frage befassen, "
+   ]
+  }, 
+  {
+   "begin": "39.800", 
+   "children": [], 
+   "end": "42.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "welche T\u00fcr f\u00fcr Menschen, "
+   ]
+  }, 
+  {
+   "begin": "42.280", 
+   "children": [], 
+   "end": "46.120", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die vielleicht nicht auf Dauer im Land bleiben k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "46.120", 
+   "children": [], 
+   "end": "46.880", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wieder hinausf\u00fchren muss."
+   ]
+  }, 
+  {
+   "begin": "46.880", 
+   "children": [], 
+   "end": "48.240", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Grunds\u00e4tzlich ist auch das eine Frage, "
+   ]
+  }, 
+  {
+   "begin": "48.240", 
+   "children": [], 
+   "end": "49.840", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "mit der wir uns befassen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "49.840", 
+   "children": [], 
+   "end": "53.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Was mich an Ihrem Antrag st\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "53.520", 
+   "children": [], 
+   "end": "55.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "sind drei Dinge, "
+   ]
+  }, 
+  {
+   "begin": "55.000", 
+   "children": [], 
+   "end": "58.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die ihn rettungslos vergiften, "
+   ]
+  }, 
+  {
+   "begin": "58.400", 
+   "children": [], 
+   "end": "61.200", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich selektive Wahrnehmung der Realit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "61.200", 
+   "children": [], 
+   "end": "63.520", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Zynismus und Heuchelei."
+   ]
+  }, 
+  {
+   "begin": "63.520", 
+   "children": [], 
+   "end": "69.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Von all dem findet sich in diesem vergifteten Antrag reichlich."
+   ]
+  }, 
+  {
+   "begin": "69.720", 
+   "children": [], 
+   "end": "71.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Erstens: "
+   ]
+  }, 
+  {
+   "begin": "71.040", 
+   "children": [], 
+   "end": "76.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "selektive Wahrnehmung der Realit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "76.080", 
+   "children": [], 
+   "end": "76.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Sie schreiben, "
+   ]
+  }, 
+  {
+   "begin": "76.760", 
+   "children": [], 
+   "end": "81.160", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Sicherheitslage in Syrien substanziell verbessert habe\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "81.160", 
+   "children": [], 
+   "end": "82.880", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "was immer das genau hei\u00dfen m\u00f6ge\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "82.880", 
+   "children": [], 
+   "end": "90.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass Kampfhandlungen und sicherheitsrelevante St\u00f6rungen nur noch in einigen Teilen des Landes stattf\u00e4nden."
+   ]
+  }, 
+  {
+   "begin": "90.920", 
+   "children": [], 
+   "end": "92.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "92.080", 
+   "children": [], 
+   "end": "97.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Guido Steinberg hat heute im \u201eMorgenmagazin\u201c deutlich gemacht, "
+   ]
+  }, 
+  {
+   "begin": "97.600", 
+   "children": [], 
+   "end": "102.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass der Krieg in Syrien alles andere als l\u00e4ngst beendet ist, "
+   ]
+  }, 
+  {
+   "begin": "102.800", 
+   "children": [], 
+   "end": "104.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass die Al-Nusra-Front, "
+   ]
+  }, 
+  {
+   "begin": "104.320", 
+   "children": [], 
+   "end": "112.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "die Kurden und der IS jederzeit wieder den Krieg und die Gewalt in alle Teile des Landes zur\u00fccktragen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "112.640", 
+   "children": [], 
+   "end": "115.800", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich werfe nur mal einen Blick auf die letzte Woche in Syrien: "
+   ]
+  }, 
+  {
+   "begin": "115.800", 
+   "children": [], 
+   "end": "116.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "am Freitag, "
+   ]
+  }, 
+  {
+   "begin": "116.880", 
+   "children": [], 
+   "end": "118.800", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dem 17.\u00a0November, "
+   ]
+  }, 
+  {
+   "begin": "118.800", 
+   "children": [], 
+   "end": "121.240", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "ein Anschlag des IS in Deir al-Sor, "
+   ]
+  }, 
+  {
+   "begin": "121.240", 
+   "children": [], 
+   "end": "122.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "im Osten Syriens, "
+   ]
+  }, 
+  {
+   "begin": "122.640", 
+   "children": [], 
+   "end": "125.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "mit mindestens 20 Toten und 30 Verletzten, "
+   ]
+  }, 
+  {
+   "begin": "125.840", 
+   "children": [], 
+   "end": "131.280", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "am 14.\u00a0November ein Luftangriff auf einen Markt in Atareb, "
+   ]
+  }, 
+  {
+   "begin": "131.280", 
+   "children": [], 
+   "end": "133.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "im Nordwesten Syriens\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "133.440", 
+   "children": [], 
+   "end": "136.040", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "eigentlich eine Deeskalationszone des Landes\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "136.040", 
+   "children": [], 
+   "end": "138.200", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "mit 53 get\u00f6teten Zivilisten. "
+   ]
+  }, 
+  {
+   "begin": "138.200", 
+   "children": [], 
+   "end": "140.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "So k\u00f6nnen wir den November weiter durchgehen, "
+   ]
+  }, 
+  {
+   "begin": "140.200", 
+   "children": [], 
+   "end": "142.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "was ich jetzt aber nicht tun will. "
+   ]
+  }, 
+  {
+   "begin": "142.120", 
+   "children": [], 
+   "end": "146.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Selektive Wahrnehmung der Realit\u00e4t ist eines der Gifte Ihres Antrags."
+   ]
+  }, 
+  {
+   "begin": "146.120", 
+   "children": [], 
+   "end": "150.240", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das zweite Gift ist blanker Zynismus. "
+   ]
+  }, 
+  {
+   "begin": "150.240", 
+   "children": [], 
+   "end": "151.000", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Sie schreiben: "
+   ]
+  }, 
+  {
+   "begin": "151.000", 
+   "children": [], 
+   "end": "153.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Der Wiederaufbau nimmt Fahrt auf."
+   ]
+  }, 
+  {
+   "begin": "153.120", 
+   "children": [], 
+   "end": "157.440", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Der syrische Pr\u00e4sident forderte seine ins Ausland geflohenen B\u00fcrger\u00a0\u2026 \u00f6ffentlich auf, "
+   ]
+  }, 
+  {
+   "begin": "157.440", 
+   "children": [], 
+   "end": "161.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "in die Heimat zur\u00fcckzukehren und am Wiederaufbau teilzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "161.080", 
+   "children": [], 
+   "end": "167.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Eine Amnestieregelung und sichere Unterbringung wurden von der syrischen Regierung in Aussicht gestellt."
+   ]
+  }, 
+  {
+   "begin": "167.240", 
+   "children": [], 
+   "end": "168.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "168.760", 
+   "children": [], 
+   "end": "171.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "der Nothilfekoordinator der Vereinten Nationen, "
+   ]
+  }, 
+  {
+   "begin": "171.680", 
+   "children": [], 
+   "end": "172.760", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Mark Lowcock, "
+   ]
+  }, 
+  {
+   "begin": "172.760", 
+   "children": [], 
+   "end": "175.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "hat am 31.\u00a0Oktober festgestellt, "
+   ]
+  }, 
+  {
+   "begin": "175.680", 
+   "children": [], 
+   "end": "181.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass die Auswirkungen der Syrien-Krise weiterhin tiefgreifend sind. "
+   ]
+  }, 
+  {
+   "begin": "181.560", 
+   "children": [], 
+   "end": "186.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "13\u00a0Millionen Menschen sind auf humanit\u00e4re Hilfe angewiesen. "
+   ]
+  }, 
+  {
+   "begin": "186.240", 
+   "children": [], 
+   "end": "190.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "6,1\u00a0Millionen Binnenfl\u00fcchtlinge sind in Syrien zu verzeichnen."
+   ]
+  }, 
+  {
+   "begin": "190.520", 
+   "children": [], 
+   "end": "198.360", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Eine R\u00fcckf\u00fchrung der bei uns befindlichen Fl\u00fcchtlinge nach Syrien w\u00fcrde nicht etwa den Wiederaufbau eines befriedenden Landes erleichtern, "
+   ]
+  }, 
+  {
+   "begin": "198.360", 
+   "children": [], 
+   "end": "205.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "sondern die humanit\u00e4re Binnenkrise des zerfurchten Landes verst\u00e4rken."
+   ]
+  }, 
+  {
+   "begin": "205.040", 
+   "children": [], 
+   "end": "210.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen k\u00f6nnen wir mit einem Regime, "
+   ]
+  }, 
+  {
+   "begin": "210.200", 
+   "children": [], 
+   "end": "212.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "das selbst Menschenrechtsverletzungen begeht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "212.160", 
+   "children": [], 
+   "end": "214.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Kollege Dr.\u00a0Harbarth hat es eben erl\u00e4utert, "
+   ]
+  }, 
+  {
+   "begin": "214.240", 
+   "children": [], 
+   "end": "218.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "4.\u00a0April Giftgasangriff auf Chan Schaichun mit 87 Toten\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "218.760", 
+   "children": [], 
+   "end": "221.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "kein R\u00fcckf\u00fchrungsabkommen, "
+   ]
+  }, 
+  {
+   "begin": "221.440", 
+   "children": [], 
+   "end": "226.360", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "keine v\u00f6lkerrechtlichen Vertr\u00e4ge auf rechtsstaatlicher Basis abschlie\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "226.360", 
+   "children": [], 
+   "end": "229.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Das dritte Gift ist Heuchelei. "
+   ]
+  }, 
+  {
+   "begin": "229.200", 
+   "children": [], 
+   "end": "230.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Sie schreiben, "
+   ]
+  }, 
+  {
+   "begin": "230.360", 
+   "children": [], 
+   "end": "232.080", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dass sichergestellt werden solle, "
+   ]
+  }, 
+  {
+   "begin": "232.080", 
+   "children": [], 
+   "end": "232.560", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass die"
+   ]
+  }, 
+  {
+   "begin": "232.560", 
+   "children": [], 
+   "end": "238.400", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "\u2026\u00a0R\u00fcckkehrer unbeschadet wieder nach Syrien einreisen k\u00f6nnen und in die Gebiete aufgenommen werden, "
+   ]
+  }, 
+  {
+   "begin": "238.400", 
+   "children": [], 
+   "end": "239.680", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die befriedet sind;\u00a0\u2026"
+   ]
+  }, 
+  {
+   "begin": "239.680", 
+   "children": [], 
+   "end": "240.280", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen, "
+   ]
+  }, 
+  {
+   "begin": "240.280", 
+   "children": [], 
+   "end": "244.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "dass die \u201ehumanit\u00e4re Versorgung sichergestellt ist\u201c. "
+   ]
+  }, 
+  {
+   "begin": "244.120", 
+   "children": [], 
+   "end": "250.160", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich m\u00fcssen Kriegsfl\u00fcchtlinge irgendwann in ihre Heimat zur\u00fcck\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "250.160", 
+   "children": [], 
+   "end": "252.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "wenn der Krieg vorbei ist. "
+   ]
+  }, 
+  {
+   "begin": "252.400", 
+   "children": [], 
+   "end": "254.880", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "So steht es auch in der Genfer Fl\u00fcchtlingskonvention."
+   ]
+  }, 
+  {
+   "begin": "254.880", 
+   "children": [], 
+   "end": "261.600", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Die FDP war immer auch eine Partei der Humanit\u00e4t und der Menschenrechte."
+   ]
+  }, 
+  {
+   "begin": "261.600", 
+   "children": [], 
+   "end": "263.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen sind wir der Meinung, "
+   ]
+  }, 
+  {
+   "begin": "263.640", 
+   "children": [], 
+   "end": "270.480", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "dass eine genaue Abw\u00e4gung erforderlich ist, "
+   ]
+  }, 
+  {
+   "begin": "270.480", 
+   "children": [], 
+   "end": "285.760", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "wann eine R\u00fcckf\u00fchrung m\u00f6glich ist. "
+   ]
+  }, 
+  {
+   "begin": "285.760", 
+   "children": [], 
+   "end": "287.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Sie hingegen wollen die Menschen in den Kugelhagel zur\u00fcckschicken"
+   ]
+  }, 
+  {
+   "begin": "287.000", 
+   "children": [], 
+   "end": "288.400", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "und packen ihnen in geheuchelter F\u00fcrsorge einen warmen Schal mit ein."
+   ]
+  }, 
+  {
+   "begin": "288.400", 
+   "children": [], 
+   "end": "291.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat Ulla Jelpke f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

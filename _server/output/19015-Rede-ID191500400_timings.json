@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "children": [], 
+   "end": "2.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "children": [], 
+   "end": "6.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "children": [], 
+   "end": "8.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "da Sie mir keine Zwischenfrage gestattet haben, "
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "children": [], 
+   "end": "12.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte ich Sie an dieser Stelle in Frageform auf etwas hinweisen: "
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "children": [], 
+   "end": "13.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ist Ihnen bekannt, "
+   ]
+  }, 
+  {
+   "begin": "13.440", 
+   "children": [], 
+   "end": "16.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass die Mikroanlage in diesem Haus sehr gut ausgesteuert ist?"
+   ]
+  }, 
+  {
+   "begin": "16.120", 
+   "children": [], 
+   "end": "22.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Reichardt, "
+   ]
+  }, 
+  {
+   "begin": "22.000", 
+   "children": [], 
+   "end": "25.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen darauf antworten."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "children": [], 
+   "end": "2.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "children": [], 
+   "end": "10.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "S\u00fcdsudan ist ein Land, "
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "children": [], 
+   "end": "21.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "bei dessen Staatsgr\u00fcndung im Jahr\u00a02011 die Hoffnung auf eine friedliche Zukunft noch sehr gro\u00df und im R\u00fcckblick\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "21.760", 
+   "children": [], 
+   "end": "23.080", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "das muss man sagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.080", 
+   "children": [], 
+   "end": "25.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "offensichtlich leider sehr naiv war. "
+   ]
+  }, 
+  {
+   "begin": "25.320", 
+   "children": [], 
+   "end": "32.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Zu Recht ist dieses Land in einem \u201eWelt\u201c-Artikel vor ein paar Wochen als \u201etraurigste Nation der Welt\u201c bezeichnet worden: "
+   ]
+  }, 
+  {
+   "begin": "32.720", 
+   "children": [], 
+   "end": "34.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "2\u00a0Millionen Menschen, "
+   ]
+  }, 
+  {
+   "begin": "34.320", 
+   "children": [], 
+   "end": "35.920", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die in die Nachbarl\u00e4nder fliehen mussten, "
+   ]
+  }, 
+  {
+   "begin": "35.920", 
+   "children": [], 
+   "end": "39.600", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "seit die Gewalt 2013 dort ausgebrochen ist, "
+   ]
+  }, 
+  {
+   "begin": "39.600", 
+   "children": [], 
+   "end": "41.200", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "1,9\u00a0Millionen Menschen, "
+   ]
+  }, 
+  {
+   "begin": "41.200", 
+   "children": [], 
+   "end": "43.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die intern vertrieben sind, "
+   ]
+  }, 
+  {
+   "begin": "43.120", 
+   "children": [], 
+   "end": "45.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "fast 1,5\u00a0Millionen Menschen, "
+   ]
+  }, 
+  {
+   "begin": "45.880", 
+   "children": [], 
+   "end": "48.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die direkt vom Hungertod bedroht sind, "
+   ]
+  }, 
+  {
+   "begin": "48.480", 
+   "children": [], 
+   "end": "49.400", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "und 6\u00a0Millionen Menschen, "
+   ]
+  }, 
+  {
+   "begin": "49.400", 
+   "children": [], 
+   "end": "52.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die auf Nahrungsmittelhilfe angewiesen sind."
+   ]
+  }, 
+  {
+   "begin": "52.240", 
+   "children": [], 
+   "end": "58.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Die Liste der Kriegsverbrechen von Pr\u00e4sident Salva Kiir und seinem fr\u00fcheren Stellvertreter Riek Machar, "
+   ]
+  }, 
+  {
+   "begin": "58.320", 
+   "children": [], 
+   "end": "60.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die das Land in ihrem Machtkampf knechten, "
+   ]
+  }, 
+  {
+   "begin": "60.880", 
+   "children": [], 
+   "end": "61.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "ja, "
+   ]
+  }, 
+  {
+   "begin": "61.160", 
+   "children": [], 
+   "end": "62.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "ihre eigene Bev\u00f6lkerung qu\u00e4len, "
+   ]
+  }, 
+  {
+   "begin": "62.800", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wird Tag f\u00fcr Tag l\u00e4nger. "
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "69.000", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Sexuelle Gewalt wird als barbarische Waffe eingesetzt, "
+   ]
+  }, 
+  {
+   "begin": "69.000", 
+   "children": [], 
+   "end": "73.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und auch das systematische Aushungern ganzer D\u00f6rfer ist an der Tagesordnung."
+   ]
+  }, 
+  {
+   "begin": "73.800", 
+   "children": [], 
+   "end": "75.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "75.680", 
+   "children": [], 
+   "end": "78.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die Situation ist zum Verzweifeln; "
+   ]
+  }, 
+  {
+   "begin": "78.360", 
+   "children": [], 
+   "end": "80.280", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "sie ist zum Heulen. "
+   ]
+  }, 
+  {
+   "begin": "80.280", 
+   "children": [], 
+   "end": "87.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Friedensmission der Vereinten Nationen soll zur L\u00f6sung des Konfliktes und zum Schutz der Zivilbev\u00f6lkerung beitragen. "
+   ]
+  }, 
+  {
+   "begin": "87.720", 
+   "children": [], 
+   "end": "87.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "87.800", 
+   "children": [], 
+   "end": "89.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "man sollte nicht drum herumreden: "
+   ]
+  }, 
+  {
+   "begin": "89.720", 
+   "children": [], 
+   "end": "94.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Auch im Rahmen von UNMISS sind einige durchaus gravierende Fehler begangen worden. "
+   ]
+  }, 
+  {
+   "begin": "94.200", 
+   "children": [], 
+   "end": "97.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Dadurch ist wertvolles Vertrauen verloren gegangen. "
+   ]
+  }, 
+  {
+   "begin": "97.040", 
+   "children": [], 
+   "end": "99.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Aber man hat diese Fehler eingestanden, "
+   ]
+  }, 
+  {
+   "begin": "99.280", 
+   "children": [], 
+   "end": "100.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "man hat sie geahndet, "
+   ]
+  }, 
+  {
+   "begin": "100.840", 
+   "children": [], 
+   "end": "102.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "und man hat Konsequenzen gezogen."
+   ]
+  }, 
+  {
+   "begin": "102.640", 
+   "children": [], 
+   "end": "104.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte eines ganz deutlich sagen: "
+   ]
+  }, 
+  {
+   "begin": "104.760", 
+   "children": [], 
+   "end": "106.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle wollen uns gar nicht vorstellen, "
+   ]
+  }, 
+  {
+   "begin": "106.400", 
+   "children": [], 
+   "end": "111.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "was es f\u00fcr die Menschen im S\u00fcdsudan bedeuten w\u00fcrde und wie katastrophal die Lage w\u00e4re, "
+   ]
+  }, 
+  {
+   "begin": "111.800", 
+   "children": [], 
+   "end": "118.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wenn nicht UNMISS mit den Schutzzonen nach wie vor 200\u00a0000\u00a0Menschen Zuflucht gew\u00e4hren w\u00fcrde. "
+   ]
+  }, 
+  {
+   "begin": "118.440", 
+   "children": [], 
+   "end": "119.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das ist einer der Gr\u00fcnde, "
+   ]
+  }, 
+  {
+   "begin": "119.360", 
+   "children": [], 
+   "end": "122.680", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "warum wir Gr\u00fcne heute dem Mandat zustimmen werden."
+   ]
+  }, 
+  {
+   "begin": "122.680", 
+   "children": [], 
+   "end": "128.120", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Unser Dank gilt all den Kr\u00e4ften, "
+   ]
+  }, 
+  {
+   "begin": "128.120", 
+   "children": [], 
+   "end": "131.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "ob in Uniform oder in Zivil, "
+   ]
+  }, 
+  {
+   "begin": "131.000", 
+   "children": [], 
+   "end": "137.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die sich im S\u00fcdsudan in dieser schwierigen Lage f\u00fcr eine Chance auf Frieden und Sicherheit einsetzen. "
+   ]
+  }, 
+  {
+   "begin": "137.640", 
+   "children": [], 
+   "end": "139.360", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Von einem wirklichen Frieden ist man ja noch weit entfernt. "
+   ]
+  }, 
+  {
+   "begin": "139.360", 
+   "children": [], 
+   "end": "142.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Man muss der internationalen Gemeinschaft aber die Frage stellen, "
+   ]
+  }, 
+  {
+   "begin": "142.840", 
+   "children": [], 
+   "end": "144.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "ob sie wirklich alles tut, "
+   ]
+  }, 
+  {
+   "begin": "144.520", 
+   "children": [], 
+   "end": "145.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "was sie tun kann, "
+   ]
+  }, 
+  {
+   "begin": "145.760", 
+   "children": [], 
+   "end": "148.280", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "um dieser schwierigen Lage Herr zu werden. "
+   ]
+  }, 
+  {
+   "begin": "148.280", 
+   "children": [], 
+   "end": "150.080", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Die Antwort lautet leider: "
+   ]
+  }, 
+  {
+   "begin": "150.080", 
+   "children": [], 
+   "end": "150.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Nein.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "150.520", 
+   "children": [], 
+   "end": "153.320", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Da braucht man nur in das deutsche Mandat zu schauen. "
+   ]
+  }, 
+  {
+   "begin": "153.320", 
+   "children": [], 
+   "end": "161.360", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Seit Jahren gibt es die sehr niedrige Personalobergrenze von 50\u00a0Soldatinnen und Soldaten f\u00fcr diese Friedensmission der Vereinten Nationen. "
+   ]
+  }, 
+  {
+   "begin": "161.360", 
+   "children": [], 
+   "end": "164.600", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "In all den Jahren wurde sie nicht einmal zur H\u00e4lfte ausgesch\u00f6pft. "
+   ]
+  }, 
+  {
+   "begin": "164.600", 
+   "children": [], 
+   "end": "171.400", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Letztes Jahr hat die Bundesregierung zur Ver\u00e4rgerung der Vereinten Nationen ohne R\u00fccksprache einfach beschlossen, "
+   ]
+  }, 
+  {
+   "begin": "171.400", 
+   "children": [], 
+   "end": "172.240", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die Stellung deutscher Polizeikr\u00e4fte, "
+   ]
+  }, 
+  {
+   "begin": "172.240", 
+   "children": [], 
+   "end": "174.600", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "deren Anzahl auch nicht sehr gro\u00df war, "
+   ]
+  }, 
+  {
+   "begin": "174.600", 
+   "children": [], 
+   "end": "175.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "einfach einzustellen. "
+   ]
+  }, 
+  {
+   "begin": "175.680", 
+   "children": [], 
+   "end": "176.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Man muss sagen: "
+   ]
+  }, 
+  {
+   "begin": "176.240", 
+   "children": [], 
+   "end": "179.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Das deutsche Engagement ist an dieser Stelle zu bescheiden. "
+   ]
+  }, 
+  {
+   "begin": "179.960", 
+   "children": [], 
+   "end": "187.480", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Es bedarf einer engagierten und glaubw\u00fcrdigen Antwort angesichts der d\u00fcsteren Lage."
+   ]
+  }, 
+  {
+   "begin": "187.480", 
+   "children": [], 
+   "end": "191.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch international geht auf jeden Fall mehr. "
+   ]
+  }, 
+  {
+   "begin": "191.400", 
+   "children": [], 
+   "end": "196.160", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Man will schon ewig eine Schutztruppe von 4\u00a0000\u00a0Soldatinnen und Soldaten aufstellen, "
+   ]
+  }, 
+  {
+   "begin": "196.160", 
+   "children": [], 
+   "end": "197.760", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "kommt damit aber nicht voran. "
+   ]
+  }, 
+  {
+   "begin": "197.760", 
+   "children": [], 
+   "end": "199.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "199.080", 
+   "children": [], 
+   "end": "200.480", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "es gibt eine Sache, "
+   ]
+  }, 
+  {
+   "begin": "200.480", 
+   "children": [], 
+   "end": "202.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "an der es im S\u00fcdsudan wirklich nicht mangelt. "
+   ]
+  }, 
+  {
+   "begin": "202.840", 
+   "children": [], 
+   "end": "204.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Das sind Waffen. "
+   ]
+  }, 
+  {
+   "begin": "204.000", 
+   "children": [], 
+   "end": "205.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann es nicht fassen, "
+   ]
+  }, 
+  {
+   "begin": "205.480", 
+   "children": [], 
+   "end": "211.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass es nach wie vor kein weltweites Waffenembargo gegen den S\u00fcdsudan gibt. "
+   ]
+  }, 
+  {
+   "begin": "211.160", 
+   "children": [], 
+   "end": "212.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "212.080", 
+   "children": [], 
+   "end": "216.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "das ist l\u00e4ngst \u00fcberf\u00e4llig."
+   ]
+  }, 
+  {
+   "begin": "216.080", 
+   "children": [], 
+   "end": "217.720", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir wirklich alles tun wollen, "
+   ]
+  }, 
+  {
+   "begin": "217.720", 
+   "children": [], 
+   "end": "221.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "um diese furchtbare Situation wenigstens ein bisschen zu verbessern, "
+   ]
+  }, 
+  {
+   "begin": "221.480", 
+   "children": [], 
+   "end": "222.800", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "das Leid ein bisschen zu lindern, "
+   ]
+  }, 
+  {
+   "begin": "222.800", 
+   "children": [], 
+   "end": "224.400", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dann darf man sich nicht nur halbherzig engagieren."
+   ]
+  }, 
+  {
+   "begin": "224.400", 
+   "children": [], 
+   "end": "224.401", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "224.401", 
+   "children": [], 
+   "end": "225.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "225.360", 
+   "children": [], 
+   "end": "226.320", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Agnieszka Brugger.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "226.320", 
+   "children": [], 
+   "end": "229.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Als letzten Redner in dieser Debatte rufe ich Roderich Kiesewetter f\u00fcr die CDU/CSU-Fraktion auf."
+   ]
+  }, 
+  {
+   "begin": "229.960", 
+   "children": [], 
+   "end": "231.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte die Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "231.440", 
+   "children": [], 
+   "end": "235.880", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "auch ihm ihre Aufmerksamkeit zu schenken.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "235.880", 
+   "children": [], 
+   "end": "237.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kiesewetter."
+   ]
+  }
+ ]
+}

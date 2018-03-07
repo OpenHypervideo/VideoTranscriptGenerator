@@ -1,0 +1,754 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "children": [], 
+   "end": "2.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "children": [], 
+   "end": "5.040", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Zeit ist reif: "
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "children": [], 
+   "end": "5.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Gestern, "
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "children": [], 
+   "end": "12.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "heute und morgen gehen eine halbe Million Menschen auf die Stra\u00dfe und k\u00e4mpfen f\u00fcr ihre Forderungen. "
+   ]
+  }, 
+  {
+   "begin": "12.400", 
+   "children": [], 
+   "end": "14.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die Besch\u00e4ftigten der Metall- "
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "children": [], 
+   "end": "22.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und Elektroindustrie beantworten die Frage \u201eWem geh\u00f6rt die Zeit?\u201c gerade sehr eindrucksvoll. "
+   ]
+  }, 
+  {
+   "begin": "22.240", 
+   "children": [], 
+   "end": "24.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagen: "
+   ]
+  }, 
+  {
+   "begin": "24.560", 
+   "children": [], 
+   "end": "26.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "\u201eMein Leben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "26.280", 
+   "children": [], 
+   "end": "30.440", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "meine Zeit.\u201c"
+   ]
+  }, 
+  {
+   "begin": "30.440", 
+   "children": [], 
+   "end": "36.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist die Frage der Arbeitszeit zur\u00fcck im Zentrum der politischen Debatte. "
+   ]
+  }, 
+  {
+   "begin": "36.560", 
+   "children": [], 
+   "end": "41.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich als Gewerkschafterin im Bundestag verstehe das als politischen Auftrag."
+   ]
+  }, 
+  {
+   "begin": "41.920", 
+   "children": [], 
+   "end": "45.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Die Besch\u00e4ftigten sp\u00fcren es jeden Tag: "
+   ]
+  }, 
+  {
+   "begin": "45.160", 
+   "children": [], 
+   "end": "51.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Leben wird weitgehend von der Arbeit und damit vom Arbeitgeber bestimmt. "
+   ]
+  }, 
+  {
+   "begin": "51.280", 
+   "children": [], 
+   "end": "53.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Menschen m\u00fcssen zu allen m\u00f6glichen Tages- "
+   ]
+  }, 
+  {
+   "begin": "53.920", 
+   "children": [], 
+   "end": "55.560", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und Nachtzeiten arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "55.560", 
+   "children": [], 
+   "end": "60.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "egal ob an Feiertagen oder am Wochenende. "
+   ]
+  }, 
+  {
+   "begin": "60.760", 
+   "children": [], 
+   "end": "65.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitsverh\u00e4ltnisse werden dadurch zunehmend unsicher. "
+   ]
+  }, 
+  {
+   "begin": "65.040", 
+   "children": [], 
+   "end": "71.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das \u00f6ffnet der Ausbeutung T\u00fcr und Tor und hat mit Selbstbestimmung nichts zu tun."
+   ]
+  }, 
+  {
+   "begin": "71.800", 
+   "children": [], 
+   "end": "82.080", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Je nach Auftragslage arbeiten die Besch\u00e4ftigten bis zum Umfallen oder m\u00fcssen zu Hause bleiben. "
+   ]
+  }, 
+  {
+   "begin": "82.080", 
+   "children": [], 
+   "end": "87.560", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "So werden unternehmerische Risiken auf die Besch\u00e4ftigten verlagert. "
+   ]
+  }, 
+  {
+   "begin": "87.560", 
+   "children": [], 
+   "end": "88.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Die Gesundheit, "
+   ]
+  }, 
+  {
+   "begin": "88.760", 
+   "children": [], 
+   "end": "90.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "das Privatleben sowie Sorge- "
+   ]
+  }, 
+  {
+   "begin": "90.600", 
+   "children": [], 
+   "end": "94.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegearbeit bleiben auf der Strecke."
+   ]
+  }, 
+  {
+   "begin": "94.360", 
+   "children": [], 
+   "end": "96.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Es ist h\u00f6chste Zeit, "
+   ]
+  }, 
+  {
+   "begin": "96.040", 
+   "children": [], 
+   "end": "103.360", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "im Interesse der Besch\u00e4ftigten und der Gesellschaft die w\u00f6chentliche H\u00f6chstarbeitszeit auf 40\u00a0Stunden zu begrenzen."
+   ]
+  }, 
+  {
+   "begin": "103.360", 
+   "children": [], 
+   "end": "108.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Es darf nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "108.600", 
+   "children": [], 
+   "end": "116.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass j\u00e4hrlich 1,7\u00a0Milliarden \u00dcberstunden anfallen und nicht einmal die H\u00e4lfte davon bezahlt wird. "
+   ]
+  }, 
+  {
+   "begin": "116.520", 
+   "children": [], 
+   "end": "119.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ich nenne das organisierten Lohnraub."
+   ]
+  }, 
+  {
+   "begin": "119.080", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Und dann stellt sich auch noch Gesamtmetall-Pr\u00e4sident Dulger hin und behauptet, "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "134.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Teillohnausgleich bei Pflege und Kinderbetreuung \u201eGeld f\u00fcrs Nichtstun\u201c ist. "
+   ]
+  }, 
+  {
+   "begin": "134.800", 
+   "children": [], 
+   "end": "143.400", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein Schlag ins Gesicht von Millionen von besch\u00e4ftigten Menschen und eine bodenlose Frechheit, "
+   ]
+  }, 
+  {
+   "begin": "143.400", 
+   "children": [], 
+   "end": "147.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "so etwas zu sagen."
+   ]
+  }, 
+  {
+   "begin": "147.320", 
+   "children": [], 
+   "end": "152.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "W\u00fcrden wir alleine diese 1,7\u00a0Milliarden \u00dcberstunden umverteilen, "
+   ]
+  }, 
+  {
+   "begin": "152.920", 
+   "children": [], 
+   "end": "159.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dann h\u00e4tten wir laut Bundesregierung 1\u00a0Million Vollzeitstellen mehr. "
+   ]
+  }, 
+  {
+   "begin": "159.480", 
+   "children": [], 
+   "end": "164.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Mit der vorhandenen Menge an Arbeit ist es wie mit dem Reichtum: "
+   ]
+  }, 
+  {
+   "begin": "164.000", 
+   "children": [], 
+   "end": "165.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Es ist genug da, "
+   ]
+  }, 
+  {
+   "begin": "165.680", 
+   "children": [], 
+   "end": "168.080", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "es ist nur falsch verteilt."
+   ]
+  }, 
+  {
+   "begin": "168.080", 
+   "children": [], 
+   "end": "173.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Entwicklung m\u00fcssen wir endlich einen Riegel vorschieben. "
+   ]
+  }, 
+  {
+   "begin": "173.840", 
+   "children": [], 
+   "end": "177.320", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen sichere Arbeitsverh\u00e4ltnisse f\u00fcr alle. "
+   ]
+  }, 
+  {
+   "begin": "177.320", 
+   "children": [], 
+   "end": "178.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen k\u00fcrzere, "
+   ]
+  }, 
+  {
+   "begin": "178.760", 
+   "children": [], 
+   "end": "184.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "aber ausreichende Wochenarbeitszeiten."
+   ]
+  }, 
+  {
+   "begin": "184.000", 
+   "children": [], 
+   "end": "187.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Heben Sie den Schatz an Teilzeitbesch\u00e4ftigten, "
+   ]
+  }, 
+  {
+   "begin": "187.480", 
+   "children": [], 
+   "end": "191.000", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "die gerne l\u00e4nger arbeiten w\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "191.000", 
+   "children": [], 
+   "end": "195.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wie das Sondierungspapier zeigt, "
+   ]
+  }, 
+  {
+   "begin": "195.560", 
+   "children": [], 
+   "end": "204.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "haben Besch\u00e4ftigte in dieser Hinsicht leider auch von einer Gro\u00dfen Koalition nichts zu erwarten. "
+   ]
+  }, 
+  {
+   "begin": "204.880", 
+   "children": [], 
+   "end": "219.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Das Arbeitszeitgesetz soll im Sinne der Arbeitgeber ver\u00e4ndert und der Gesundheitsschutz der Besch\u00e4ftigten gleich mitverkauft werden."
+   ]
+  }, 
+  {
+   "begin": "219.600", 
+   "children": [], 
+   "end": "224.560", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das geplante R\u00fcckkehrrecht aus Teilzeit ist dabei ein Witz."
+   ]
+  }, 
+  {
+   "begin": "224.560", 
+   "children": [], 
+   "end": "230.120", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Es betrifft die Besch\u00e4ftigten in 95,5\u00a0Prozent der Betriebe nicht. "
+   ]
+  }, 
+  {
+   "begin": "230.120", 
+   "children": [], 
+   "end": "236.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Zudem schlie\u00dft es von vornherein mehr als die H\u00e4lfte aller Frauen aus. "
+   ]
+  }, 
+  {
+   "begin": "236.920", 
+   "children": [], 
+   "end": "244.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ich als Gewerkschafterin fordere ein echtes R\u00fcckkehrrecht von Teilzeit in Vollzeit."
+   ]
+  }, 
+  {
+   "begin": "244.560", 
+   "children": [], 
+   "end": "248.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt nur einen Weg f\u00fcr die lohnabh\u00e4ngig Besch\u00e4ftigten, "
+   ]
+  }, 
+  {
+   "begin": "248.560", 
+   "children": [], 
+   "end": "255.720", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "damit aus fremdbestimmter Flexibilit\u00e4t eine selbstbestimmte Arbeitszeitrealit\u00e4t wird: "
+   ]
+  }, 
+  {
+   "begin": "255.720", 
+   "children": [], 
+   "end": "257.560", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Vertraut auf eure Kraft! "
+   ]
+  }, 
+  {
+   "begin": "257.560", 
+   "children": [], 
+   "end": "260.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Organisiert euch in den DGB-Gewerkschaften! "
+   ]
+  }, 
+  {
+   "begin": "260.560", 
+   "children": [], 
+   "end": "263.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "K\u00e4mpft solidarisch f\u00fcr eure Interessen! "
+   ]
+  }, 
+  {
+   "begin": "263.080", 
+   "children": [], 
+   "end": "263.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir, "
+   ]
+  }, 
+  {
+   "begin": "263.400", 
+   "children": [], 
+   "end": "264.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke, "
+   ]
+  }, 
+  {
+   "begin": "264.120", 
+   "children": [], 
+   "end": "268.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "werden euch unterst\u00fctzen und den politischen Rahmen setzen, "
+   ]
+  }, 
+  {
+   "begin": "268.840", 
+   "children": [], 
+   "end": "270.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "um gute, "
+   ]
+  }, 
+  {
+   "begin": "270.080", 
+   "children": [], 
+   "end": "273.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "selbstbestimmte Arbeit f\u00fcr alle zu erm\u00f6glichen."
+   ]
+  }, 
+  {
+   "begin": "273.240", 
+   "children": [], 
+   "end": "275.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Denken Sie bitte an die Redezeit?"
+   ]
+  }, 
+  {
+   "begin": "275.800", 
+   "children": [], 
+   "end": "279.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Begrenzen wir die w\u00f6chentliche H\u00f6chstarbeitszeit! "
+   ]
+  }, 
+  {
+   "begin": "279.480", 
+   "children": [], 
+   "end": "283.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Schaffen wir einen echten Anspruch auf ein R\u00fcckkehrrecht in Vollzeit! "
+   ]
+  }, 
+  {
+   "begin": "283.240", 
+   "children": [], 
+   "end": "285.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Kolleginnen und Kollegen der IG\u00a0Metall, "
+   ]
+  }, 
+  {
+   "begin": "285.880", 
+   "children": [], 
+   "end": "291.920", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "wir solidarisieren uns mit eurem Kampf f\u00fcr mehr Lohn und eine Absenkung der Arbeitszeit. "
+   ]
+  }, 
+  {
+   "begin": "291.920", 
+   "children": [], 
+   "end": "300.320", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "In ein paar Stunden fahre ich zu meinen Kolleginnen und Kollegen nach Gronau und werde an ihrer Seite gemeinsam mit ihnen k\u00e4mpfen."
+   ]
+  }, 
+  {
+   "begin": "300.320", 
+   "children": [], 
+   "end": "305.000", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "305.000", 
+   "children": [], 
+   "end": "306.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "306.400", 
+   "children": [], 
+   "end": "308.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Krellmann.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "308.520", 
+   "children": [], 
+   "end": "310.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden ja jetzt \u00fcber die H\u00f6chstarbeitszeit. "
+   ]
+  }, 
+  {
+   "begin": "310.840", 
+   "children": [], 
+   "end": "311.320", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte, "
+   ]
+  }, 
+  {
+   "begin": "311.320", 
+   "children": [], 
+   "end": "313.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "auch die H\u00f6chst\u00adredezeit einzuhalten."
+   ]
+  }, 
+  {
+   "begin": "313.400", 
+   "children": [], 
+   "end": "313.960", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Der n\u00e4chste Redner: "
+   ]
+  }, 
+  {
+   "begin": "313.960", 
+   "children": [], 
+   "end": "316.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wilfried Oellers f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

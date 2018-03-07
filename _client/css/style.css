@@ -85,6 +85,7 @@ button.btn.btn-default:not([disabled]):hover {
 #fileContents, #xmlContents {
 	padding: 6px 5px 1px 0;
 	background: #eee;
+	position: relative;
 }
 
 #fileContents > ul, #xmlContents > ul {
@@ -99,6 +100,7 @@ button.btn.btn-default:not([disabled]):hover {
 	color: #999;
 	pointer-events: none;
 	list-style: none;
+	position: relative;
 }
 
 #xmlContents li[data-type="zwischenfrage"] {

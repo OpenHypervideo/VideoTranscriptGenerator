@@ -1,0 +1,984 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.280", 
+   "children": [], 
+   "end": "10.920", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "children": [], 
+   "end": "11.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "children": [], 
+   "end": "13.040", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "ich spreche jetzt zum Thema."
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "children": [], 
+   "end": "21.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Nachdem ich mir den Antrag der Gr\u00fcnen zum ersten Mal durchgelesen habe, "
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "children": [], 
+   "end": "22.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "habe ich mich gefragt: "
+   ]
+  }, 
+  {
+   "begin": "22.800", 
+   "children": [], 
+   "end": "26.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wie oft habe ich eigentlich mit meinen Kindern dar\u00fcber diskutiert, "
+   ]
+  }, 
+  {
+   "begin": "26.360", 
+   "children": [], 
+   "end": "28.080", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie nicht in die Schule gehen wollten? "
+   ]
+  }, 
+  {
+   "begin": "28.080", 
+   "children": [], 
+   "end": "29.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe immer gesagt: "
+   ]
+  }, 
+  {
+   "begin": "29.080", 
+   "children": [], 
+   "end": "31.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "In anderen L\u00e4ndern der Welt w\u00e4ren Kinder froh, "
+   ]
+  }, 
+  {
+   "begin": "31.760", 
+   "children": [], 
+   "end": "34.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie zur Schule gehen k\u00f6nnten."
+   ]
+  }, 
+  {
+   "begin": "34.080", 
+   "children": [], 
+   "end": "35.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ja so: "
+   ]
+  }, 
+  {
+   "begin": "35.640", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Weltweit haben 264\u00a0Millionen\u00a0Kinder keinen Zugang zu Schulbildung. "
+   ]
+  }, 
+  {
+   "begin": "42.760", 
+   "children": [], 
+   "end": "46.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber 330\u00a0Millionen\u00a0Kinder besuchen zwar Schulen, "
+   ]
+  }, 
+  {
+   "begin": "46.280", 
+   "children": [], 
+   "end": "48.280", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "lernen aber nicht die Grundlagen im Lesen, "
+   ]
+  }, 
+  {
+   "begin": "48.280", 
+   "children": [], 
+   "end": "49.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Schreiben und Rechnen."
+   ]
+  }, 
+  {
+   "begin": "49.680", 
+   "children": [], 
+   "end": "57.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Auch aus diesem Grund war es ein ma\u00dfgebliches Ziel der im Jahr\u00a02015 verabschiedeten Nachhaltigkeitsziele, "
+   ]
+  }, 
+  {
+   "begin": "57.240", 
+   "children": [], 
+   "end": "60.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Bildung f\u00fcr alle Menschen weltweit zu erm\u00f6glichen. "
+   ]
+  }, 
+  {
+   "begin": "60.240", 
+   "children": [], 
+   "end": "61.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das \u00fcberrascht nicht; "
+   ]
+  }, 
+  {
+   "begin": "61.240", 
+   "children": [], 
+   "end": "63.120", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "denn wir alle kennen doch den Vorteil, "
+   ]
+  }, 
+  {
+   "begin": "63.120", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "den Bildung in Entwicklungsl\u00e4ndern hat: "
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "67.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Bildung reduziert Armut, "
+   ]
+  }, 
+  {
+   "begin": "67.480", 
+   "children": [], 
+   "end": "69.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Bildung f\u00fchrt zu Wohlstand, "
+   ]
+  }, 
+  {
+   "begin": "69.400", 
+   "children": [], 
+   "end": "71.400", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Bildung f\u00fchrt zu Chancengleichheit, "
+   ]
+  }, 
+  {
+   "begin": "71.400", 
+   "children": [], 
+   "end": "74.240", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und Bildung leistet einen hohen Beitrag dazu, "
+   ]
+  }, 
+  {
+   "begin": "74.240", 
+   "children": [], 
+   "end": "78.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass Menschen gesundheitlich aufgekl\u00e4rt werden."
+   ]
+  }, 
+  {
+   "begin": "78.840", 
+   "children": [], 
+   "end": "80.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Kurz gesagt, "
+   ]
+  }, 
+  {
+   "begin": "80.600", 
+   "children": [], 
+   "end": "84.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Bildung versetzt die Menschen in Entwicklungsl\u00e4ndern in die Lage, "
+   ]
+  }, 
+  {
+   "begin": "84.200", 
+   "children": [], 
+   "end": "88.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "ihr Leben ein St\u00fcck weit selbstbestimmter in die Hand zu nehmen. "
+   ]
+  }, 
+  {
+   "begin": "88.400", 
+   "children": [], 
+   "end": "94.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Durch Bildung werden die Lebensbedingungen von Millionen von Menschen direkt und vor Ort verbessert."
+   ]
+  }, 
+  {
+   "begin": "94.840", 
+   "children": [], 
+   "end": "98.080", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Das sieht ganz offensichtlich auch die Bundesregierung so. "
+   ]
+  }, 
+  {
+   "begin": "98.080", 
+   "children": [], 
+   "end": "102.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Minister M\u00fcller hat erst vor wenigen Monaten in einer Rede gesagt:"
+   ]
+  }, 
+  {
+   "begin": "102.520", 
+   "children": [], 
+   "end": "105.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Es m\u00fcssen Perspektiven vor Ort geschaffen werden. "
+   ]
+  }, 
+  {
+   "begin": "105.800", 
+   "children": [], 
+   "end": "109.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Nur wer vor Ort eine Aufgabe und ein Auskommen hat, "
+   ]
+  }, 
+  {
+   "begin": "109.280", 
+   "children": [], 
+   "end": "110.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wird bleiben. "
+   ]
+  }, 
+  {
+   "begin": "110.600", 
+   "children": [], 
+   "end": "112.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Kinder brauchen Schulen, "
+   ]
+  }, 
+  {
+   "begin": "112.160", 
+   "children": [], 
+   "end": "113.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Jugendliche eine Ausbildung, "
+   ]
+  }, 
+  {
+   "begin": "113.720", 
+   "children": [], 
+   "end": "117.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Erwachsene Arbeit und Auskommen."
+   ]
+  }, 
+  {
+   "begin": "117.200", 
+   "children": [], 
+   "end": "118.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "118.560", 
+   "children": [], 
+   "end": "121.800", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "man sollte Worten dann aber auch Taten folgen lassen."
+   ]
+  }, 
+  {
+   "begin": "121.800", 
+   "children": [], 
+   "end": "124.080", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb unterst\u00fctzen wir die Forderung, "
+   ]
+  }, 
+  {
+   "begin": "124.080", 
+   "children": [], 
+   "end": "130.280", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "den finanziellen Beitrag Deutschlands an der Globalen Bildungspartnerschaft zu erh\u00f6hen."
+   ]
+  }, 
+  {
+   "begin": "130.280", 
+   "children": [], 
+   "end": "133.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Zwar ist es wichtig, "
+   ]
+  }, 
+  {
+   "begin": "133.680", 
+   "children": [], 
+   "end": "137.480", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass wir 190\u00a0Millionen Euro in die berufliche Bildung investieren; "
+   ]
+  }, 
+  {
+   "begin": "137.480", 
+   "children": [], 
+   "end": "142.200", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "aber die Grundbildung darf dahinter auf keinen Fall zur\u00fcckstehen."
+   ]
+  }, 
+  {
+   "begin": "142.200", 
+   "children": [], 
+   "end": "143.400", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wer nicht lesen, "
+   ]
+  }, 
+  {
+   "begin": "143.400", 
+   "children": [], 
+   "end": "145.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "schreiben und rechnen kann, "
+   ]
+  }, 
+  {
+   "begin": "145.440", 
+   "children": [], 
+   "end": "150.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wird sich auch nicht f\u00fcr eine anschlie\u00dfende h\u00f6here Bildung qualifizieren k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "150.160", 
+   "children": [], 
+   "end": "153.720", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Leider scheint sich das noch nicht bis ins Ministerium herumgesprochen zu haben; "
+   ]
+  }, 
+  {
+   "begin": "153.720", 
+   "children": [], 
+   "end": "154.320", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "diesen Eindruck muss man haben, "
+   ]
+  }, 
+  {
+   "begin": "154.320", 
+   "children": [], 
+   "end": "157.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wenn man sich die geplanten Ausgaben f\u00fcr die GPE ansieht. "
+   ]
+  }, 
+  {
+   "begin": "157.120", 
+   "children": [], 
+   "end": "162.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Anstatt bisher 7\u00a0Millionen\u00a0Euro j\u00e4hrlich gibt es ab diesem Jahr 9\u00a0Millionen\u00a0Euro. "
+   ]
+  }, 
+  {
+   "begin": "162.320", 
+   "children": [], 
+   "end": "168.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nun wirklich kein substanzieller Beitrag Deutschlands f\u00fcr weltweite Grundbildung, "
+   ]
+  }, 
+  {
+   "begin": "168.320", 
+   "children": [], 
+   "end": "171.960", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "deckt sich aber mit der Strategie des Ministers."
+   ]
+  }, 
+  {
+   "begin": "171.960", 
+   "children": [], 
+   "end": "176.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Entgegen allen Reden und obwohl bekannt ist, "
+   ]
+  }, 
+  {
+   "begin": "176.360", 
+   "children": [], 
+   "end": "183.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dass ein gemeinsames Vorgehen mit mehreren Partnern auf der internationalen Ebene am erfolgversprechendsten ist, "
+   ]
+  }, 
+  {
+   "begin": "183.080", 
+   "children": [], 
+   "end": "188.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "setzt er fast ausschlie\u00dflich auf bilaterale Projekte."
+   ]
+  }, 
+  {
+   "begin": "188.120", 
+   "children": [], 
+   "end": "190.320", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Warum wir uns an dieser Stelle\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "190.320", 
+   "children": [], 
+   "end": "192.120", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "leider so oft\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "192.120", 
+   "children": [], 
+   "end": "193.880", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "international abkapseln, "
+   ]
+  }, 
+  {
+   "begin": "193.880", 
+   "children": [], 
+   "end": "196.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "muss schon hinterfragt werden."
+   ]
+  }, 
+  {
+   "begin": "196.560", 
+   "children": [], 
+   "end": "198.120", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Denn wir sehen doch, "
+   ]
+  }, 
+  {
+   "begin": "198.120", 
+   "children": [], 
+   "end": "202.400", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass Kooperationen wie die GPE erfolgreich sind."
+   ]
+  }, 
+  {
+   "begin": "202.400", 
+   "children": [], 
+   "end": "208.320", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Seit 2002 gehen 72\u00a0Millionen\u00a0Kinder mehr in die Grundschule, "
+   ]
+  }, 
+  {
+   "begin": "208.320", 
+   "children": [], 
+   "end": "215.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "74\u00a0Prozent der M\u00e4dchen gehen nun zur Grundschule und schlie\u00dfen diese auch ab."
+   ]
+  }, 
+  {
+   "begin": "215.120", 
+   "children": [], 
+   "end": "215.760", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "215.760", 
+   "children": [], 
+   "end": "218.120", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "meine lieben Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "218.120", 
+   "children": [], 
+   "end": "219.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "sind messbare Erfolge. "
+   ]
+  }, 
+  {
+   "begin": "219.960", 
+   "children": [], 
+   "end": "222.120", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die GPE ist ein funktionierendes Programm. "
+   ]
+  }, 
+  {
+   "begin": "222.120", 
+   "children": [], 
+   "end": "223.560", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Es sorgt nicht nur daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "223.560", 
+   "children": [], 
+   "end": "228.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass viele Kinder auf der Welt genauso wie meine eigenen die Chance haben, "
+   ]
+  }, 
+  {
+   "begin": "228.400", 
+   "children": [], 
+   "end": "229.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "in die Schule zu gehen. "
+   ]
+  }, 
+  {
+   "begin": "229.640", 
+   "children": [], 
+   "end": "230.960", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Es sorgt auch daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "230.960", 
+   "children": [], 
+   "end": "235.840", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Umdenken vieler GPE-Partnerl\u00e4nder eingesetzt hat. "
+   ]
+  }, 
+  {
+   "begin": "235.840", 
+   "children": [], 
+   "end": "238.160", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Die sind mittlerweile auch dazu bereit, "
+   ]
+  }, 
+  {
+   "begin": "238.160", 
+   "children": [], 
+   "end": "240.880", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "ihre eigenen Bildungsausgaben zu erh\u00f6hen. "
+   ]
+  }, 
+  {
+   "begin": "240.880", 
+   "children": [], 
+   "end": "242.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Denn uns allen sollte klar sein: "
+   ]
+  }, 
+  {
+   "begin": "242.960", 
+   "children": [], 
+   "end": "244.280", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Es n\u00fctzt nichts, "
+   ]
+  }, 
+  {
+   "begin": "244.280", 
+   "children": [], 
+   "end": "245.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir ankommen, "
+   ]
+  }, 
+  {
+   "begin": "245.280", 
+   "children": [], 
+   "end": "250.760", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Schulen bauen und vor Ort dann nicht gen\u00fcgend Lehrer ausgebildet werden k\u00f6nnen oder die Kinder ohne B\u00fccher, "
+   ]
+  }, 
+  {
+   "begin": "250.760", 
+   "children": [], 
+   "end": "252.960", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Stifte und Zettel dastehen."
+   ]
+  }, 
+  {
+   "begin": "252.960", 
+   "children": [], 
+   "end": "260.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Ob das von Deutschland aufgebrachte Geld in diesem Rahmen tats\u00e4chlich auch nachhaltig investiertes Geld ist, "
+   ]
+  }, 
+  {
+   "begin": "260.000", 
+   "children": [], 
+   "end": "262.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "das werden wir zuk\u00fcnftig pr\u00fcfen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "262.400", 
+   "children": [], 
+   "end": "264.040", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Und wir sollten auch schauen, "
+   ]
+  }, 
+  {
+   "begin": "264.040", 
+   "children": [], 
+   "end": "266.480", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "wie sich die GPE weiter verbessern l\u00e4sst. "
+   ]
+  }, 
+  {
+   "begin": "266.480", 
+   "children": [], 
+   "end": "269.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Bei aller Liebe f\u00fcr den Grundsatz dieses Antrages: "
+   ]
+  }, 
+  {
+   "begin": "269.320", 
+   "children": [], 
+   "end": "275.600", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Eine so kurzfristige Mittelaufstockung dieser Gr\u00f6\u00dfenordnung aus dem Bauch heraus ist nicht zielf\u00fchrend. "
+   ]
+  }, 
+  {
+   "begin": "275.600", 
+   "children": [], 
+   "end": "279.320", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Uns geht es um den nachhaltigen Einsatz f\u00fcr Grundbildung. "
+   ]
+  }, 
+  {
+   "begin": "279.320", 
+   "children": [], 
+   "end": "284.120", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Da kommen wir mit dem Motto \u201eViel hilft viel\u201c einfach nicht weiter. "
+   ]
+  }, 
+  {
+   "begin": "284.120", 
+   "children": [], 
+   "end": "287.400", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns den Antrag im Ausschuss weiter beraten. "
+   ]
+  }, 
+  {
+   "begin": "287.400", 
+   "children": [], 
+   "end": "289.640", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Die Geberkonferenz ist vorbei, "
+   ]
+  }, 
+  {
+   "begin": "289.640", 
+   "children": [], 
+   "end": "291.480", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "aber wir haben nun die Chance, "
+   ]
+  }, 
+  {
+   "begin": "291.480", 
+   "children": [], 
+   "end": "292.320", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "zu schauen, "
+   ]
+  }, 
+  {
+   "begin": "292.320", 
+   "children": [], 
+   "end": "296.520", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "an welchen Stellen wir mehr Geld f\u00fcr Grundausbildung einsetzen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "296.520", 
+   "children": [], 
+   "end": "299.880", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Bei diesem Ziel stehen die Freien Demokraten an Ihrer Seite."
+   ]
+  }, 
+  {
+   "begin": "299.880", 
+   "children": [], 
+   "end": "307.680", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "307.680", 
+   "children": [], 
+   "end": "310.160", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Die dritte erste Rede in Folge: "
+   ]
+  }, 
+  {
+   "begin": "310.160", 
+   "children": [], 
+   "end": "313.960", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "die Kollegin Brigitte Freihold von der Fraktion Die Linke."
+   ]
+  }
+ ]
+}

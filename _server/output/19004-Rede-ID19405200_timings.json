@@ -1,0 +1,1464 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "children": [], 
+   "end": "1.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "children": [], 
+   "end": "18.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir beraten in der Tat das ERP-Wirtschaftsplangesetz\u00a02018, "
+   ]
+  }, 
+  {
+   "begin": "18.000", 
+   "children": [], 
+   "end": "23.320", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "wie es jetzt auch richtigerweise an der Tafel ausgewiesen wird. "
+   ]
+  }, 
+  {
+   "begin": "23.320", 
+   "children": [], 
+   "end": "34.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Kollege Westphal hat schon richtigerweise darauf hingewiesen, "
+   ]
+  }, 
+  {
+   "begin": "34.400", 
+   "children": [], 
+   "end": "35.760", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass das ERP, "
+   ]
+  }, 
+  {
+   "begin": "35.760", 
+   "children": [], 
+   "end": "39.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "European Recovery Program\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "39.080", 
+   "children": [], 
+   "end": "45.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "diese Mittel wurden einstmals im Rahmen des Marshallplans zur Verf\u00fcgung gestellt\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "45.280", 
+   "children": [], 
+   "end": "47.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "eine Erfolgsgeschichte ist. "
+   ]
+  }, 
+  {
+   "begin": "47.080", 
+   "children": [], 
+   "end": "48.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Seit fast 70\u00a0Jahren, "
+   ]
+  }, 
+  {
+   "begin": "48.840", 
+   "children": [], 
+   "end": "56.520", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "seit 1948 werden diese Mittel in Deutschland zur Wirtschaftsf\u00f6rderung eingesetzt. "
+   ]
+  }, 
+  {
+   "begin": "56.520", 
+   "children": [], 
+   "end": "59.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Insgesamt sind es \u00fcber 100\u00a0Milliarden Euro, "
+   ]
+  }, 
+  {
+   "begin": "59.880", 
+   "children": [], 
+   "end": "74.480", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "mit denen hier insbesondere kleine und mittelst\u00e4ndische Unternehmen gef\u00f6rdert wurden und mit denen Millionen von Arbeitspl\u00e4tzen geschaffen und gesichert wurden."
+   ]
+  }, 
+  {
+   "begin": "74.480", 
+   "children": [], 
+   "end": "77.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Was wird gef\u00f6rdert? "
+   ]
+  }, 
+  {
+   "begin": "77.280", 
+   "children": [], 
+   "end": "81.800", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Innovationen, "
+   ]
+  }, 
+  {
+   "begin": "81.800", 
+   "children": [], 
+   "end": "86.000", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Exportleistungen von Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "86.000", 
+   "children": [], 
+   "end": "93.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Aufbau und Modernisierung bestehender Unternehmen in regionalen F\u00f6rdergebieten und, "
+   ]
+  }, 
+  {
+   "begin": "93.240", 
+   "children": [], 
+   "end": "97.080", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "was jetzt zuk\u00fcnftig noch mehr im Fokus stehen wird, "
+   ]
+  }, 
+  {
+   "begin": "97.080", 
+   "children": [], 
+   "end": "98.680", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Existenzgr\u00fcnder, "
+   ]
+  }, 
+  {
+   "begin": "98.680", 
+   "children": [], 
+   "end": "104.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wachstumsfinanzierungen und vor allem auch Beteiligungskapital f\u00fcr junge, "
+   ]
+  }, 
+  {
+   "begin": "104.600", 
+   "children": [], 
+   "end": "107.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "innovative Unternehmen. "
+   ]
+  }, 
+  {
+   "begin": "107.120", 
+   "children": [], 
+   "end": "112.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Im Fokus stehen dabei kleine und mittelst\u00e4ndische Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "112.960", 
+   "children": [], 
+   "end": "122.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die im Vergleich zu Gro\u00dfunternehmen oftmals strukturelle Nachteile bei der Finanzierung haben. "
+   ]
+  }, 
+  {
+   "begin": "122.240", 
+   "children": [], 
+   "end": "128.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die F\u00f6rderung erfolgt traditionell durch Kredit. "
+   ]
+  }, 
+  {
+   "begin": "128.040", 
+   "children": [], 
+   "end": "131.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland ist ja ein Land des Kredits, "
+   ]
+  }, 
+  {
+   "begin": "131.280", 
+   "children": [], 
+   "end": "132.080", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "des Bankkredits, "
+   ]
+  }, 
+  {
+   "begin": "132.080", 
+   "children": [], 
+   "end": "135.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "der Fremdkapitalfinanzierung, "
+   ]
+  }, 
+  {
+   "begin": "135.160", 
+   "children": [], 
+   "end": "140.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "weil wir \u00fcber Jahrzehnte hinweg Eigenkapital steuerlich vielleicht nicht immer so behandelt haben, "
+   ]
+  }, 
+  {
+   "begin": "140.480", 
+   "children": [], 
+   "end": "142.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wie wir es h\u00e4tten tun sollen. "
+   ]
+  }, 
+  {
+   "begin": "142.720", 
+   "children": [], 
+   "end": "151.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb haben wir in Deutschland traditionell eher eine fremdkapitallastige Finanzierung."
+   ]
+  }, 
+  {
+   "begin": "151.080", 
+   "children": [], 
+   "end": "155.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Diese F\u00f6rderung erfolgt insbesondere dort, "
+   ]
+  }, 
+  {
+   "begin": "155.040", 
+   "children": [], 
+   "end": "160.480", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "wo der bisherige Bankkredit nicht aushilft oder nicht ausreichend ist. "
+   ]
+  }, 
+  {
+   "begin": "160.480", 
+   "children": [], 
+   "end": "163.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die F\u00f6rderung war in der Vergangenheit besonders dadurch gekennzeichnet, "
+   ]
+  }, 
+  {
+   "begin": "163.840", 
+   "children": [], 
+   "end": "168.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass Kredite mit besonders g\u00fcnstigen Zinsen zum Zuge kamen: "
+   ]
+  }, 
+  {
+   "begin": "168.080", 
+   "children": [], 
+   "end": "170.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "mit langen Laufzeiten, "
+   ]
+  }, 
+  {
+   "begin": "170.400", 
+   "children": [], 
+   "end": "173.080", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Verzicht auf Tilgungsleistungen, "
+   ]
+  }, 
+  {
+   "begin": "173.080", 
+   "children": [], 
+   "end": "174.880", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere in den Anfangsjahren, "
+   ]
+  }, 
+  {
+   "begin": "174.880", 
+   "children": [], 
+   "end": "180.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "was gerade f\u00fcr Neugr\u00fcndungen oftmals wichtig und hilfreich war, "
+   ]
+  }, 
+  {
+   "begin": "180.280", 
+   "children": [], 
+   "end": "183.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "und gleichzeitig sehr flexibel, "
+   ]
+  }, 
+  {
+   "begin": "183.680", 
+   "children": [], 
+   "end": "189.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass jederzeit Tilgungen vorgenommen und damit Zins- "
+   ]
+  }, 
+  {
+   "begin": "189.720", 
+   "children": [], 
+   "end": "197.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "und Tilgungsbelastungen schnell gemildert werden konnten. "
+   ]
+  }, 
+  {
+   "begin": "197.840", 
+   "children": [], 
+   "end": "198.400", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "So weit, "
+   ]
+  }, 
+  {
+   "begin": "198.400", 
+   "children": [], 
+   "end": "199.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "so gut."
+   ]
+  }, 
+  {
+   "begin": "199.480", 
+   "children": [], 
+   "end": "204.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Bisher haben wir ein j\u00e4hrliches F\u00f6rdervolumen von rund 6\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "204.640", 
+   "children": [], 
+   "end": "210.280", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Aber bekanntlich ist das Bessere der Feind des Guten. "
+   ]
+  }, 
+  {
+   "begin": "210.280", 
+   "children": [], 
+   "end": "211.400", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir sehen, "
+   ]
+  }, 
+  {
+   "begin": "211.400", 
+   "children": [], 
+   "end": "226.400", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass durch das niedrige Zinsniveau und das Zinsumfeld diese Zinsvorteile bei Krediten in den letzten Jahren nicht mehr der allergr\u00f6\u00dfte Renner sind. "
+   ]
+  }, 
+  {
+   "begin": "226.400", 
+   "children": [], 
+   "end": "230.800", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb weist uns der Bundesrechnungshof zu Recht darauf hin, "
+   ]
+  }, 
+  {
+   "begin": "230.800", 
+   "children": [], 
+   "end": "234.440", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass der Mittelabfluss gar nicht mehr so vollumf\u00e4nglich erfolgt, "
+   ]
+  }, 
+  {
+   "begin": "234.440", 
+   "children": [], 
+   "end": "236.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wie es in der Vergangenheit der Fall war. "
+   ]
+  }, 
+  {
+   "begin": "236.920", 
+   "children": [], 
+   "end": "239.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Dies ist im \u00dcbrigen auch ein Zeichen daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "239.240", 
+   "children": [], 
+   "end": "245.760", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass die Finanzierungssituation im klassischen unternehmerischen Bereich funktioniert, "
+   ]
+  }, 
+  {
+   "begin": "245.760", 
+   "children": [], 
+   "end": "251.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "auch jetzt in der Hochkonjunktur und in der Aufschwungsphase. "
+   ]
+  }, 
+  {
+   "begin": "251.080", 
+   "children": [], 
+   "end": "252.560", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Wer wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "252.560", 
+   "children": [], 
+   "end": "253.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "was die Zukunft bringt. "
+   ]
+  }, 
+  {
+   "begin": "253.920", 
+   "children": [], 
+   "end": "258.440", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb m\u00fcssen wir dort auch weiterhin am Ball bleiben."
+   ]
+  }, 
+  {
+   "begin": "258.440", 
+   "children": [], 
+   "end": "260.560", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Es besteht hier Handlungsbedarf\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "260.560", 
+   "children": [], 
+   "end": "266.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "der Kollege Westphal hat schon darauf hingewiesen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "266.080", 
+   "children": [], 
+   "end": "271.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere bei innovativen jungen Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "271.360", 
+   "children": [], 
+   "end": "272.840", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die schnell wachsen. "
+   ]
+  }, 
+  {
+   "begin": "272.840", 
+   "children": [], 
+   "end": "283.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Diese Unternehmen k\u00f6nnen sich \u00fcber den Bankkredit nicht so schnell refinanzieren oder gar Wachstum finanzieren. "
+   ]
+  }, 
+  {
+   "begin": "283.520", 
+   "children": [], 
+   "end": "285.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Hier gereicht es uns zum Nachteil, "
+   ]
+  }, 
+  {
+   "begin": "285.240", 
+   "children": [], 
+   "end": "295.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass wir aufgrund der Historie in Deutschland bei der Wachstumsfinanzierung im Vergleich zu vielen anderen L\u00e4ndern nicht so gut aufgestellt sind. "
+   ]
+  }, 
+  {
+   "begin": "295.480", 
+   "children": [], 
+   "end": "299.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb m\u00fcssen wir hier jetzt neue Schwerpunkte setzen, "
+   ]
+  }, 
+  {
+   "begin": "299.560", 
+   "children": [], 
+   "end": "309.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass wir weg vom Kredit hin zur Wachstumsfinanzierung mit kapitalersetzendem Charakter beim Eigenkapital kommen. "
+   ]
+  }, 
+  {
+   "begin": "309.280", 
+   "children": [], 
+   "end": "311.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der neue Fokus, "
+   ]
+  }, 
+  {
+   "begin": "311.000", 
+   "children": [], 
+   "end": "316.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "der in der vergangenen Legislaturperiode hier im Haus gro\u00dfe \u00dcbereinstimmung gefunden hat."
+   ]
+  }, 
+  {
+   "begin": "316.760", 
+   "children": [], 
+   "end": "323.880", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Der Markt f\u00fcr Venture-Finanzierungen in Deutschland hat sich in den letzten Jahren zwar gut entwickelt, "
+   ]
+  }, 
+  {
+   "begin": "323.880", 
+   "children": [], 
+   "end": "329.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "von 2013 bis 2015 haben sich die Betr\u00e4ge allein auf 3\u00a0Milliarden Euro vervierfacht. "
+   ]
+  }, 
+  {
+   "begin": "329.600", 
+   "children": [], 
+   "end": "333.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man es aber im internationalen Vergleich sieht, "
+   ]
+  }, 
+  {
+   "begin": "333.440", 
+   "children": [], 
+   "end": "336.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "sind wir leider noch \u00fcbersichtlich unterwegs. "
+   ]
+  }, 
+  {
+   "begin": "336.400", 
+   "children": [], 
+   "end": "340.920", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "In den USA sind es 50\u00a0Milliarden Euro im selben Zeitraum. "
+   ]
+  }, 
+  {
+   "begin": "340.920", 
+   "children": [], 
+   "end": "342.640", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Dort haben sich die Betr\u00e4ge verdoppelt. "
+   ]
+  }, 
+  {
+   "begin": "342.640", 
+   "children": [], 
+   "end": "343.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland hat, "
+   ]
+  }, 
+  {
+   "begin": "343.600", 
+   "children": [], 
+   "end": "347.720", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "was die Wachstumsfinanzierung in absoluten Zahlen angeht, "
+   ]
+  }, 
+  {
+   "begin": "347.720", 
+   "children": [], 
+   "end": "350.760", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "in Europa Platz drei hinter Gro\u00dfbritannien und Schweden inne. "
+   ]
+  }, 
+  {
+   "begin": "350.760", 
+   "children": [], 
+   "end": "354.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Bezogen auf das BIP ist das Potenzial noch h\u00f6her. "
+   ]
+  }, 
+  {
+   "begin": "354.440", 
+   "children": [], 
+   "end": "368.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "In den eben angef\u00fchrten USA betr\u00e4gt der Wachstumsfinanzierungsbereich 0,3\u00a0Prozent des Bruttoinlandsprodukts, "
+   ]
+  }, 
+  {
+   "begin": "368.960", 
+   "children": [], 
+   "end": "373.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "in Israel sogar 0,4\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "373.280", 
+   "children": [], 
+   "end": "378.120", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend es in Deutschland gerade einmal 0,02\u00a0Prozent sind. "
+   ]
+  }, 
+  {
+   "begin": "378.120", 
+   "children": [], 
+   "end": "378.680", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "378.680", 
+   "children": [], 
+   "end": "381.360", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wir haben mindestens den Faktor\u00a010, "
+   ]
+  }, 
+  {
+   "begin": "381.360", 
+   "children": [], 
+   "end": "385.000", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "den wir hier noch hebeln m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "385.000", 
+   "children": [], 
+   "end": "391.680", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Die KfW geht gegenw\u00e4rtig von einer Angebotsl\u00fccke in H\u00f6he von 500 bis 600\u00a0Millionen Euro j\u00e4hrlich aus. "
+   ]
+  }, 
+  {
+   "begin": "391.680", 
+   "children": [], 
+   "end": "392.400", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Auch hier\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "392.400", 
+   "children": [], 
+   "end": "396.280", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "darauf hat der Kollege Westphal schon hingewiesen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "396.280", 
+   "children": [], 
+   "end": "402.440", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "haben wir ein Problem mit der Wagniskapitalfinanzierung im Wachstumsbereich bei Dimensionen in H\u00f6he von 5, "
+   ]
+  }, 
+  {
+   "begin": "402.440", 
+   "children": [], 
+   "end": "403.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "10, "
+   ]
+  }, 
+  {
+   "begin": "403.240", 
+   "children": [], 
+   "end": "403.520", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "15, "
+   ]
+  }, 
+  {
+   "begin": "403.520", 
+   "children": [], 
+   "end": "405.760", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "20 oder gar 50\u00a0Millionen Euro. "
+   ]
+  }, 
+  {
+   "begin": "405.760", 
+   "children": [], 
+   "end": "408.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Das k\u00f6nnen wir im Moment kaum leisten. "
+   ]
+  }, 
+  {
+   "begin": "408.000", 
+   "children": [], 
+   "end": "412.720", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben nicht die entsprechenden M\u00f6glichkeiten. "
+   ]
+  }, 
+  {
+   "begin": "412.720", 
+   "children": [], 
+   "end": "416.480", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb besteht hier eine fatale Abh\u00e4ngigkeit, "
+   ]
+  }, 
+  {
+   "begin": "416.480", 
+   "children": [], 
+   "end": "418.600", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "dass Dritte es von au\u00dfen finanzieren. "
+   ]
+  }, 
+  {
+   "begin": "418.600", 
+   "children": [], 
+   "end": "419.520", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re noch okay, "
+   ]
+  }, 
+  {
+   "begin": "419.520", 
+   "children": [], 
+   "end": "421.240", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "wenn es in Deutschland stattfindet. "
+   ]
+  }, 
+  {
+   "begin": "421.240", 
+   "children": [], 
+   "end": "422.800", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr besteht aber die Gefahr, "
+   ]
+  }, 
+  {
+   "begin": "422.800", 
+   "children": [], 
+   "end": "426.520", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "dass die Unternehmen entsprechend abwandern, "
+   ]
+  }, 
+  {
+   "begin": "426.520", 
+   "children": [], 
+   "end": "433.080", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "gerade im Hightechbereich haben wir das im Wachstumsfinanzierungsbereich in den letzten Jahren beobachten m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "433.080", 
+   "children": [], 
+   "end": "438.760", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb gibt es den neuen Ansatz mit einer Beteiligungstochter der KfW. "
+   ]
+  }, 
+  {
+   "begin": "438.760", 
+   "children": [], 
+   "end": "440.680", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt schon eine ganze Reihe: "
+   ]
+  }, 
+  {
+   "begin": "440.680", 
+   "children": [], 
+   "end": "442.560", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "ERP-Beteiligungsprogramm, "
+   ]
+  }, 
+  {
+   "begin": "442.560", 
+   "children": [], 
+   "end": "445.240", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "ERP/EIF-Mezzanine-Dachfonds, "
+   ]
+  }, 
+  {
+   "begin": "445.240", 
+   "children": [], 
+   "end": "450.200", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "ERP-Venture-Capital-Fondsinvestments, "
+   ]
+  }, 
+  {
+   "begin": "450.200", 
+   "children": [], 
+   "end": "450.920", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Wachstumsfonds, "
+   ]
+  }, 
+  {
+   "begin": "450.920", 
+   "children": [], 
+   "end": "452.760", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "coparion und andere mehr; "
+   ]
+  }, 
+  {
+   "begin": "452.760", 
+   "children": [], 
+   "end": "453.920", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "ich kann sie hier im Einzelnen nicht erl\u00e4utern. "
+   ]
+  }, 
+  {
+   "begin": "453.920", 
+   "children": [], 
+   "end": "459.480", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Hier steht eine Gr\u00f6\u00dfenordnung von 700\u00a0Millionen Euro zur Verf\u00fcgung. "
+   ]
+  }, 
+  {
+   "begin": "459.480", 
+   "children": [], 
+   "end": "464.840", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Die Beteiligungsfinanzierung soll auf 500\u00a0Millionen Euro erh\u00f6ht werden. "
+   ]
+  }, 
+  {
+   "begin": "464.840", 
+   "children": [], 
+   "end": "469.400", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Dies soll au\u00dferhalb der KfW mithilfe des Vehikels geschehen, "
+   ]
+  }, 
+  {
+   "begin": "469.400", 
+   "children": [], 
+   "end": "478.160", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "das sich jetzt in der Gr\u00fcndung befindet und das hoffentlich im ersten Quartal des n\u00e4chsten Jahres operativ anl\u00e4uft. "
+   ]
+  }, 
+  {
+   "begin": "478.160", 
+   "children": [], 
+   "end": "480.960", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Es wird dann auf Eigenkapital, "
+   ]
+  }, 
+  {
+   "begin": "480.960", 
+   "children": [], 
+   "end": "488.520", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "also kapitalersetzende Ma\u00dfnahmen wie Venture Capital Fonds und Venture Debt Fonds, "
+   ]
+  }, 
+  {
+   "begin": "488.520", 
+   "children": [], 
+   "end": "490.040", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "spezialisiert sein."
+   ]
+  }, 
+  {
+   "begin": "490.040", 
+   "children": [], 
+   "end": "491.280", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Es ist aber nicht so, "
+   ]
+  }, 
+  {
+   "begin": "491.280", 
+   "children": [], 
+   "end": "493.600", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das nur \u00f6ffentlich managen wollen. "
+   ]
+  }, 
+  {
+   "begin": "493.600", 
+   "children": [], 
+   "end": "498.040", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Der VEB ist auch bei der Wachstumsfinanzierung nicht die richtige Antwort, "
+   ]
+  }, 
+  {
+   "begin": "498.040", 
+   "children": [], 
+   "end": "501.000", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "sondern die KfW soll dazu verhelfen, "
+   ]
+  }, 
+  {
+   "begin": "501.000", 
+   "children": [], 
+   "end": "505.360", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "dass auch privates Kapital sich entsprechend entwickelt, "
+   ]
+  }, 
+  {
+   "begin": "505.360", 
+   "children": [], 
+   "end": "510.800", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "gehebelt und zunehmend in den Wachstumsmarkt integriert wird. "
+   ]
+  }, 
+  {
+   "begin": "510.800", 
+   "children": [], 
+   "end": "514.280", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Es erfolgt also kein Crowding-out, "
+   ]
+  }, 
+  {
+   "begin": "514.280", 
+   "children": [], 
+   "end": "516.360", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "sondern ein Crowding-in."
+   ]
+  }, 
+  {
+   "begin": "516.360", 
+   "children": [], 
+   "end": "518.480", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Wir denken, "
+   ]
+  }, 
+  {
+   "begin": "518.480", 
+   "children": [], 
+   "end": "521.080", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "dass wir auf einem guten Weg sind. "
+   ]
+  }, 
+  {
+   "begin": "521.080", 
+   "children": [], 
+   "end": "521.520", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Ich hoffe, "
+   ]
+  }, 
+  {
+   "begin": "521.520", 
+   "children": [], 
+   "end": "528.640", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in der 19.\u00a0Legislaturperiode eine ebenso gro\u00dfe \u00dcbereinstimmung finden und haben werden, "
+   ]
+  }, 
+  {
+   "begin": "528.640", 
+   "children": [], 
+   "end": "533.680", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "wie wir sie in der 18.\u00a0Legislaturperiode hatten. "
+   ]
+  }, 
+  {
+   "begin": "533.680", 
+   "children": [], 
+   "end": "536.720", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Dort hatten wir den ERP-Unterausschuss des Ausschusses f\u00fcr Wirtschaft und Energie. "
+   ]
+  }, 
+  {
+   "begin": "536.720", 
+   "children": [], 
+   "end": "539.480", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Frau Grotel\u00fcschen hat ihm vorgesessen; "
+   ]
+  }, 
+  {
+   "begin": "539.480", 
+   "children": [], 
+   "end": "540.280", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "sie ist heute hier. "
+   ]
+  }, 
+  {
+   "begin": "540.280", 
+   "children": [], 
+   "end": "544.760", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Dort wurde die wesentliche und wichtige Vorarbeit f\u00fcr den Beschluss geleistet, "
+   ]
+  }, 
+  {
+   "begin": "544.760", 
+   "children": [], 
+   "end": "551.720", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "den wir hier im Hause am 30.\u00a0M\u00e4rz dieses Jahres \u00fcber alle Fraktionen hinweg gefasst haben. "
+   ]
+  }, 
+  {
+   "begin": "551.720", 
+   "children": [], 
+   "end": "553.400", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung wurde darin aufgefordert, "
+   ]
+  }, 
+  {
+   "begin": "553.400", 
+   "children": [], 
+   "end": "555.240", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "diese Instrumente entsprechend weiterzuentwickeln. "
+   ]
+  }, 
+  {
+   "begin": "555.240", 
+   "children": [], 
+   "end": "556.640", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Nun liegt der Gesetzentwurf vor. "
+   ]
+  }, 
+  {
+   "begin": "556.640", 
+   "children": [], 
+   "end": "558.480", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "Auch in dieser \u00dcbergangsphase, "
+   ]
+  }, 
+  {
+   "begin": "558.480", 
+   "children": [], 
+   "end": "561.880", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "in der wir uns im Moment befinden, "
+   ]
+  }, 
+  {
+   "begin": "561.880", 
+   "children": [], 
+   "end": "573.080", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "zeigen wir uns hier im Deutschen Bundestag handlungsf\u00e4hig und k\u00f6nnen dem wichtigen Instrument der Wachstumsfinanzierung neue Impulse geben."
+   ]
+  }, 
+  {
+   "begin": "573.080", 
+   "children": [], 
+   "end": "573.560", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Ich hoffe, "
+   ]
+  }, 
+  {
+   "begin": "573.560", 
+   "children": [], 
+   "end": "578.640", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "dass wir sowohl heute bei der ersten Lesung als auch bei den weiteren Beratungen im Ausschuss, "
+   ]
+  }, 
+  {
+   "begin": "578.640", 
+   "children": [], 
+   "end": "585.760", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "in der zweiten und dritten Lesung sowie vor dem Bundesrat die notwendige Unterst\u00fctzung bekommen, "
+   ]
+  }, 
+  {
+   "begin": "585.760", 
+   "children": [], 
+   "end": "591.680", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "um die PS bei der Wachstumsfinanzierung bereits im ersten Quartal des n\u00e4chsten Jahres auf die Piste bringen zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "591.680", 
+   "children": [], 
+   "end": "592.120", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne: "
+   ]
+  }, 
+  {
+   "begin": "592.120", 
+   "children": [], 
+   "end": "593.480", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "593.480", 
+   "children": [], 
+   "end": "596.440", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "und ich hoffe auf breite Unterst\u00fctzung."
+   ]
+  }, 
+  {
+   "begin": "596.440", 
+   "children": [], 
+   "end": "605.000", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "Zu seiner ersten Rede rufe ich jetzt auf Enrico \u00adKomning von der AfD-Fraktion."
+   ]
+  }
+ ]
+}

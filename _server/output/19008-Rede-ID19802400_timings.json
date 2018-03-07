@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "children": [], 
+   "end": "8.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "children": [], 
+   "end": "14.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man sich den Antrag der Linken anschaut, "
+   ]
+  }, 
+  {
+   "begin": "14.840", 
+   "children": [], 
+   "end": "16.640", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dann erkennt man: "
+   ]
+  }, 
+  {
+   "begin": "16.640", 
+   "children": [], 
+   "end": "19.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Er ist weder sozialpolitisch noch wirtschaftspolitisch geeignet, "
+   ]
+  }, 
+  {
+   "begin": "19.800", 
+   "children": [], 
+   "end": "22.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "er ist vielmehr Sozialismus in Reinkultur."
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "children": [], 
+   "end": "28.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen auf Kosten der Steuerzahler 200\u00a0000 staatlich finanzierte Arbeitspl\u00e4tze schaffen. "
+   ]
+  }, 
+  {
+   "begin": "28.800", 
+   "children": [], 
+   "end": "32.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen den Anspruch auf Arbeitslosengeld bereits nach vier Monaten, "
+   ]
+  }, 
+  {
+   "begin": "32.000", 
+   "children": [], 
+   "end": "34.560", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "was nicht nur unfair gegen\u00fcber jahrelang Besch\u00e4ftigten ist, "
+   ]
+  }, 
+  {
+   "begin": "34.560", 
+   "children": [], 
+   "end": "37.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch zus\u00e4tzliche Kosten verursacht. "
+   ]
+  }, 
+  {
+   "begin": "37.360", 
+   "children": [], 
+   "end": "38.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Und Sie wissen auch schon, "
+   ]
+  }, 
+  {
+   "begin": "38.240", 
+   "children": [], 
+   "end": "40.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wie das finanziert werden soll. "
+   ]
+  }, 
+  {
+   "begin": "40.200", 
+   "children": [], 
+   "end": "47.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen mit einer Sonderabgabe Unternehmen belasten und durch diese neue Sonderabgabe weitere B\u00fcrokratie schaffen."
+   ]
+  }, 
+  {
+   "begin": "47.120", 
+   "children": [], 
+   "end": "50.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in Deutschland schon heute eine der h\u00f6chsten Steuer- "
+   ]
+  }, 
+  {
+   "begin": "50.560", 
+   "children": [], 
+   "end": "52.400", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "und Abgabenlasten weltweit."
+   ]
+  }, 
+  {
+   "begin": "52.400", 
+   "children": [], 
+   "end": "53.040", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die B\u00fcrokratie, "
+   ]
+  }, 
+  {
+   "begin": "53.040", 
+   "children": [], 
+   "end": "53.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die wir im Land haben, "
+   ]
+  }, 
+  {
+   "begin": "53.800", 
+   "children": [], 
+   "end": "54.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "ist \u00fcberbordend. "
+   ]
+  }, 
+  {
+   "begin": "54.960", 
+   "children": [], 
+   "end": "57.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Um Menschen in Arbeit zu bringen, "
+   ]
+  }, 
+  {
+   "begin": "57.000", 
+   "children": [], 
+   "end": "58.560", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "muss man den umgekehrten Weg gehen, "
+   ]
+  }, 
+  {
+   "begin": "58.560", 
+   "children": [], 
+   "end": "62.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich Steuern und Abgaben senken und B\u00fcrokratie abbauen."
+   ]
+  }, 
+  {
+   "begin": "62.440", 
+   "children": [], 
+   "end": "65.400", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man h\u00f6rt und liest, "
+   ]
+  }, 
+  {
+   "begin": "65.400", 
+   "children": [], 
+   "end": "71.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "wie leichtfertig von Politikern aus diesem Hause immer wieder mit dem hart verdienten Geld der Steuerzahler umgegangen wird, "
+   ]
+  }, 
+  {
+   "begin": "71.760", 
+   "children": [], 
+   "end": "72.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dann erkennt man, "
+   ]
+  }, 
+  {
+   "begin": "72.640", 
+   "children": [], 
+   "end": "79.840", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass viele hier noch nie in der freien Wirtschaft gearbeitet haben."
+   ]
+  }, 
+  {
+   "begin": "79.840", 
+   "children": [], 
+   "end": "81.120", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns eines festhalten: "
+   ]
+  }, 
+  {
+   "begin": "81.120", 
+   "children": [], 
+   "end": "87.120", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr uns sind im Gegensatz zu Ihnen die steuerzahlenden Arbeitnehmer und Unternehmer keine Melkk\u00fche, "
+   ]
+  }, 
+  {
+   "begin": "87.120", 
+   "children": [], 
+   "end": "91.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr uns sind diese Menschen das R\u00fcckgrat und der Motor der deutschen Wirtschaft."
+   ]
+  }, 
+  {
+   "begin": "91.960", 
+   "children": [], 
+   "end": "96.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Unser Dank und unser Respekt m\u00fcssen diesen Menschen gelten, "
+   ]
+  }, 
+  {
+   "begin": "96.120", 
+   "children": [], 
+   "end": "98.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "die mit ihrer t\u00e4glichen Arbeit daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "98.080", 
+   "children": [], 
+   "end": "101.480", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass wir hier in diesem Hohen Hause \u00fcberhaupt dar\u00fcber diskutieren k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "101.480", 
+   "children": [], 
+   "end": "103.880", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Steuermittel zu verteilen."
+   ]
+  }, 
+  {
+   "begin": "103.880", 
+   "children": [], 
+   "end": "105.960", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen von der Linkspartei sei gesagt: "
+   ]
+  }, 
+  {
+   "begin": "105.960", 
+   "children": [], 
+   "end": "111.720", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Mit Ihren feuchten sozialistischen Tr\u00e4umen haben Ihre Vorg\u00e4nger bereits einmal einen deutschen Staat in den Ruin getrieben,"
+   ]
+  }, 
+  {
+   "begin": "111.720", 
+   "children": [], 
+   "end": "114.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und ein zweites Mal werden wir das nicht zulassen."
+   ]
+  }, 
+  {
+   "begin": "114.480", 
+   "children": [], 
+   "end": "119.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben anscheinend nichts aus der Geschichte gelernt; "
+   ]
+  }, 
+  {
+   "begin": "119.000", 
+   "children": [], 
+   "end": "122.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "denn Sie vertreten hier dieselbe wirtschaftspolitische Ideologie wie Hitler, "
+   ]
+  }, 
+  {
+   "begin": "122.760", 
+   "children": [], 
+   "end": "123.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Stalin, "
+   ]
+  }, 
+  {
+   "begin": "123.440", 
+   "children": [], 
+   "end": "124.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Mao oder Honecker."
+   ]
+  }, 
+  {
+   "begin": "124.920", 
+   "children": [], 
+   "end": "127.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Und egal ob nationaler oder internationaler Sozialismus: "
+   ]
+  }, 
+  {
+   "begin": "127.880", 
+   "children": [], 
+   "end": "129.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das ist in der Vergangenheit immer gescheitert, "
+   ]
+  }, 
+  {
+   "begin": "129.880", 
+   "children": [], 
+   "end": "131.200", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "und das ist auch gut so. "
+   ]
+  }, 
+  {
+   "begin": "131.200", 
+   "children": [], 
+   "end": "133.600", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland braucht keine Planwirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "133.600", 
+   "children": [], 
+   "end": "135.520", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "es braucht auch keine staatliche Bevormundung. "
+   ]
+  }, 
+  {
+   "begin": "135.520", 
+   "children": [], 
+   "end": "137.280", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Unser Land braucht Freiheit."
+   ]
+  }, 
+  {
+   "begin": "137.280", 
+   "children": [], 
+   "end": "142.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Machen Sie doch mal ein Praktikum in einem Unternehmen. "
+   ]
+  }, 
+  {
+   "begin": "142.360", 
+   "children": [], 
+   "end": "143.160", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Schauen Sie sich an, "
+   ]
+  }, 
+  {
+   "begin": "143.160", 
+   "children": [], 
+   "end": "144.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wie die freie Wirtschaft funktioniert. "
+   ]
+  }, 
+  {
+   "begin": "144.880", 
+   "children": [], 
+   "end": "145.360", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Erleben Sie, "
+   ]
+  }, 
+  {
+   "begin": "145.360", 
+   "children": [], 
+   "end": "147.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wie hart die Menschen in diesem Land arbeiten m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "147.560", 
+   "children": [], 
+   "end": "149.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "um die Steuern bezahlen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "149.200", 
+   "children": [], 
+   "end": "152.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die Sie hier so freiz\u00fcgig verteilen."
+   ]
+  }, 
+  {
+   "begin": "152.120", 
+   "children": [], 
+   "end": "155.280", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Antrag ist auch deswegen ungeeignet, "
+   ]
+  }, 
+  {
+   "begin": "155.280", 
+   "children": [], 
+   "end": "157.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "weil Sie die sozialen Spannungen im Land befeuern. "
+   ]
+  }, 
+  {
+   "begin": "157.440", 
+   "children": [], 
+   "end": "158.080", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Sie fordern\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "158.080", 
+   "children": [], 
+   "end": "158.880", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "158.880", 
+   "children": [], 
+   "end": "165.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "\u201eeine ausk\u00f6mmliche Finanzierung und bessere integrative Leistungen besonders auch f\u00fcr Gefl\u00fcchtete zu gew\u00e4hrleisten\u201c. "
+   ]
+  }, 
+  {
+   "begin": "165.160", 
+   "children": [], 
+   "end": "168.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wer sollen denn die \u201eGefl\u00fcchteten\u201c sein? "
+   ]
+  }, 
+  {
+   "begin": "168.080", 
+   "children": [], 
+   "end": "168.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Meinen Sie damit, "
+   ]
+  }, 
+  {
+   "begin": "168.800", 
+   "children": [], 
+   "end": "169.880", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wie so viele Linke, "
+   ]
+  }, 
+  {
+   "begin": "169.880", 
+   "children": [], 
+   "end": "171.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Asylbewerber? "
+   ]
+  }, 
+  {
+   "begin": "171.520", 
+   "children": [], 
+   "end": "173.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Dann lassen Sie mich eines klarstellen: "
+   ]
+  }, 
+  {
+   "begin": "173.080", 
+   "children": [], 
+   "end": "174.080", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Der Begriff ist falsch; "
+   ]
+  }, 
+  {
+   "begin": "174.080", 
+   "children": [], 
+   "end": "175.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "denn der Gro\u00dfteil der Menschen, "
+   ]
+  }, 
+  {
+   "begin": "175.800", 
+   "children": [], 
+   "end": "178.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "die hierzulande Asyl beantragen,"
+   ]
+  }, 
+  {
+   "begin": "178.280", 
+   "children": [], 
+   "end": "180.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "ist weder asylberechtigt noch vor etwas geflohen, "
+   ]
+  }, 
+  {
+   "begin": "180.640", 
+   "children": [], 
+   "end": "183.520", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "sondern sie werden angelockt von unseren Sozialleistungen, "
+   ]
+  }, 
+  {
+   "begin": "183.520", 
+   "children": [], 
+   "end": "185.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "von denen sie besser leben k\u00f6nnen als im Heimatland."
+   ]
+  }, 
+  {
+   "begin": "185.960", 
+   "children": [], 
+   "end": "190.840", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Asylbewerber werden bereits jetzt im Vergleich zu einheimischen Bed\u00fcrftigen in vielen Bereichen bevorzugt, "
+   ]
+  }, 
+  {
+   "begin": "190.840", 
+   "children": [], 
+   "end": "191.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel dadurch, "
+   ]
+  }, 
+  {
+   "begin": "191.680", 
+   "children": [], 
+   "end": "194.160", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass bei ihnen keine Verm\u00f6genspr\u00fcfung stattfindet, "
+   ]
+  }, 
+  {
+   "begin": "194.160", 
+   "children": [], 
+   "end": "199.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend man bei Deutschen sogar Eltern und Kinder zur Kasse bittet."
+   ]
+  }, 
+  {
+   "begin": "199.760", 
+   "children": [], 
+   "end": "201.160", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Eines sei klargestellt: "
+   ]
+  }, 
+  {
+   "begin": "201.160", 
+   "children": [], 
+   "end": "204.800", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Extraw\u00fcrste f\u00fcr Asylbewerber wird es mit uns nicht geben."
+   ]
+  }, 
+  {
+   "begin": "204.800", 
+   "children": [], 
+   "end": "210.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Der einzig sinnvolle Ansatz in Ihrem Antrag\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "210.760", 
+   "children": [], 
+   "end": "213.040", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "da stimmen wir Ihnen zu\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "213.040", 
+   "children": [], 
+   "end": "213.200", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "213.200", 
+   "children": [], 
+   "end": "215.600", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "die Regelung zur Zwangsverrentung ersatzlos zu streichen. "
+   ]
+  }, 
+  {
+   "begin": "215.600", 
+   "children": [], 
+   "end": "215.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "215.960", 
+   "children": [], 
+   "end": "217.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dieser Zwang geh\u00f6rt abgeschafft. "
+   ]
+  }, 
+  {
+   "begin": "217.600", 
+   "children": [], 
+   "end": "219.360", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen haben auch wir einen Antrag gestellt, "
+   ]
+  }, 
+  {
+   "begin": "219.360", 
+   "children": [], 
+   "end": "221.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "diese Zwangsverrentung abzuschaffen."
+   ]
+  }, 
+  {
+   "begin": "221.200", 
+   "children": [], 
+   "end": "224.320", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Zum Gesetzentwurf der FDP sei gesagt: "
+   ]
+  }, 
+  {
+   "begin": "224.320", 
+   "children": [], 
+   "end": "228.280", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Die Senkung der Beitr\u00e4ge zur Arbeitslosenversicherung ist eine gute Sache. "
+   ]
+  }, 
+  {
+   "begin": "228.280", 
+   "children": [], 
+   "end": "230.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Das sieht nicht nur der Bund der Steuerzahler so, "
+   ]
+  }, 
+  {
+   "begin": "230.000", 
+   "children": [], 
+   "end": "232.120", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "sondern das sehen auch wir von der AfD so. "
+   ]
+  }, 
+  {
+   "begin": "232.120", 
+   "children": [], 
+   "end": "239.480", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Das mit Abstand beste Programm zur Vermeidung von Arbeitslosigkeit und Wirtschaftsabschwung sind nicht aufgebl\u00e4hte T\u00f6pfe der Sozialversicherungen, "
+   ]
+  }, 
+  {
+   "begin": "239.480", 
+   "children": [], 
+   "end": "242.160", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "sondern ist der Abbau von B\u00fcrokratie, "
+   ]
+  }, 
+  {
+   "begin": "242.160", 
+   "children": [], 
+   "end": "244.280", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Abgaben und Steuern."
+   ]
+  }, 
+  {
+   "begin": "244.280", 
+   "children": [], 
+   "end": "249.920", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Im Gegensatz zu Herrn Lindner sind wir aber nicht darum bem\u00fcht, "
+   ]
+  }, 
+  {
+   "begin": "249.920", 
+   "children": [], 
+   "end": "252.080", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "uns von irgendjemandem abzugrenzen, "
+   ]
+  }, 
+  {
+   "begin": "252.080", 
+   "children": [], 
+   "end": "256.280", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "sondern f\u00fcr uns steht sachorientierte Politik zum Wohle unseres Landes im Fokus. "
+   ]
+  }, 
+  {
+   "begin": "256.280", 
+   "children": [], 
+   "end": "261.720", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Daher wollen wir gemeinsam mit der Linksfraktion die Zwangsverrentung abschaffen und gemeinsam mit der FDP die Steuer- "
+   ]
+  }, 
+  {
+   "begin": "261.720", 
+   "children": [], 
+   "end": "263.400", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "und Abgabenlast im Land senken."
+   ]
+  }, 
+  {
+   "begin": "263.400", 
+   "children": [], 
+   "end": "266.440", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Wir von der AfD stimmen folglich der \u00dcberweisung an den Ausschuss zu und hoffen, "
+   ]
+  }, 
+  {
+   "begin": "266.440", 
+   "children": [], 
+   "end": "270.080", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "dort dem einen oder anderen von der Linksfraktion beibringen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "270.080", 
+   "children": [], 
+   "end": "271.920", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "wie man ein Land nicht in den Ruin treibt."
+   ]
+  }, 
+  {
+   "begin": "271.920", 
+   "children": [], 
+   "end": "273.240", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "273.240", 
+   "children": [], 
+   "end": "280.960", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion Die Linke spricht nun die Kollegin Sabine Zimmermann."
+   ]
+  }
+ ]
+}

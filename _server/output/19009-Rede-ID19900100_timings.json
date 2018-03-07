@@ -1,0 +1,974 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.001", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "1. "
+   ]
+  }, 
+  {
+   "begin": "0.001", 
+   "children": [], 
+   "end": "1.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Vereinbarte Debatte"
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "children": [], 
+   "end": "2.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "55 Jahre \u00c9lys\u00e9e-Vertrag"
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "children": [], 
+   "end": "4.480", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen aus der Assembl\u00e9e nationale und aus dem Deutschen Bundestag! "
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "children": [], 
+   "end": "6.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Heute ist ein Tag der Parlamente. "
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "children": [], 
+   "end": "8.240", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Wir debattieren in den Parlamenten in Berlin und in Paris eine Resolution, "
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "children": [], 
+   "end": "9.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "die allein im parlamentarischen Raum entstanden ist."
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "children": [], 
+   "end": "9.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen: "
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "children": [], 
+   "end": "9.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Regierungen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "children": [], 
+   "end": "10.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "gew\u00e4hlte Regierungen, "
+   ]
+  }, 
+  {
+   "begin": "10.000", 
+   "children": [], 
+   "end": "10.360", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur gesch\u00e4ftsf\u00fchrende. "
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "children": [], 
+   "end": "12.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Die Sozialdemokratische Partei Deutschlands hat gestern auf ihrem Parteitag f\u00fcr die Aufnahme von Koalitionsverhandlungen gestimmt. "
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "children": [], 
+   "end": "14.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Nicht nur die B\u00fcrgerinnen und B\u00fcrger in Deutschland warten darauf, "
+   ]
+  }, 
+  {
+   "begin": "14.440", 
+   "children": [], 
+   "end": "16.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass es nach nunmehr vier Monaten seit der Bundestagswahl bald eine voll handlungsf\u00e4hige Regierung gibt. "
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "children": [], 
+   "end": "18.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Darauf warten auch und vor allem unsere Freunde und Partner in Europa und in der Welt."
+   ]
+  }, 
+  {
+   "begin": "22.200", 
+   "children": [], 
+   "end": "23.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Wir debattieren heute eine gleichlautende Resolution von Assembl\u00e9e nationale und Deutschem Bundestag, "
+   ]
+  }, 
+  {
+   "begin": "25.840", 
+   "children": [], 
+   "end": "26.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "und ich begr \u00fc\u00dfe dazu die Mitglieder der Delegation aus dem franz\u00f6sischen Parlament"
+   ]
+  }, 
+  {
+   "begin": "29.440", 
+   "children": [], 
+   "end": "30.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "mit seinem Pr\u00e4sidenten Fran\u00e7ois de Rugy an der Spitze. "
+   ]
+  }, 
+  {
+   "begin": "30.280", 
+   "children": [], 
+   "end": "30.680", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Seien Sie uns herzlich willkommen!"
+   ]
+  }, 
+  {
+   "begin": "30.680", 
+   "children": [], 
+   "end": "30.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Es ehrt uns, "
+   ]
+  }, 
+  {
+   "begin": "30.920", 
+   "children": [], 
+   "end": "31.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie unserer Sitzung beiwohnen. "
+   ]
+  }, 
+  {
+   "begin": "31.640", 
+   "children": [], 
+   "end": "32.440", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das ist kein Festakt heute, "
+   ]
+  }, 
+  {
+   "begin": "32.440", 
+   "children": [], 
+   "end": "33.160", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "sondern das ist eine Debatte. "
+   ]
+  }, 
+  {
+   "begin": "33.160", 
+   "children": [], 
+   "end": "34.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Es ist aber ein besonderer Anlass, "
+   ]
+  }, 
+  {
+   "begin": "34.320", 
+   "children": [], 
+   "end": "35.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und deswegen haben wir uns darauf verst\u00e4ndigt, "
+   ]
+  }, 
+  {
+   "begin": "35.800", 
+   "children": [], 
+   "end": "35.801", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Pr\u00e4sident de Rugy zu bitten, "
+   ]
+  }, 
+  {
+   "begin": "35.801", 
+   "children": [], 
+   "end": "36.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "in unserer Sitzung heute zu uns zu sprechen. "
+   ]
+  }, 
+  {
+   "begin": "36.680", 
+   "children": [], 
+   "end": "40.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Auch ich werde heute Nachmittag mit einer Delegation des Hohen Hauses in Paris zu Gast sein und Gelegenheit haben, "
+   ]
+  }, 
+  {
+   "begin": "40.280", 
+   "children": [], 
+   "end": "41.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "mich an unsere franz\u00f6sischen Kolleginnen und Kollegen zu wenden. "
+   ]
+  }, 
+  {
+   "begin": "41.880", 
+   "children": [], 
+   "end": "42.160", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "42.160", 
+   "children": [], 
+   "end": "42.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "lieber Fran\u00e7ois de Rugy, "
+   ]
+  }, 
+  {
+   "begin": "42.800", 
+   "children": [], 
+   "end": "43.560", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie gleich zu uns sprechen."
+   ]
+  }, 
+  {
+   "begin": "43.560", 
+   "children": [], 
+   "end": "50.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Dieser wechselseitige Besuch folgt fast schon einer Tradition nach den gemeinsamen Sitzungen beider Parlamente 2003 in Versailles und 2013 hier in Berlin. "
+   ]
+  }, 
+  {
+   "begin": "50.080", 
+   "children": [], 
+   "end": "51.440", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Er ist trotzdem nicht selbstverst\u00e4ndlich. "
+   ]
+  }, 
+  {
+   "begin": "51.440", 
+   "children": [], 
+   "end": "53.640", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Er ist Ausdruck der ganz besonderen Beziehungen unserer beiden Staaten. "
+   ]
+  }, 
+  {
+   "begin": "53.640", 
+   "children": [], 
+   "end": "57.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "An einem 22.\u00a0Januar wurde in Paris der \u00c9lys\u00e9e-Vertrag unterzeichnet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "57.320", 
+   "children": [], 
+   "end": "59.600", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "das war 1963\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "59.600", 
+   "children": [], 
+   "end": "62.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "und das hat die politischen Beziehungen zwischen Deutschland und Frankreich ver\u00e4ndert\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "62.760", 
+   "children": [], 
+   "end": "62.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "gl\u00fccklich ver\u00e4ndert."
+   ]
+  }, 
+  {
+   "begin": "62.960", 
+   "children": [], 
+   "end": "72.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch die Welt \u00e4ndert sich best\u00e4ndig und mit ihr die Herausforderungen f\u00fcr unsere beiden L\u00e4nder. "
+   ]
+  }, 
+  {
+   "begin": "72.520", 
+   "children": [], 
+   "end": "73.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb nehmen wir den 55.\u00a0Jahrestag zum Anlass, "
+   ]
+  }, 
+  {
+   "begin": "75.840", 
+   "children": [], 
+   "end": "77.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "um gemeinsam die Grundlagen unserer engen Zusammenarbeit weiterzuentwickeln. "
+   ]
+  }, 
+  {
+   "begin": "77.720", 
+   "children": [], 
+   "end": "82.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Die dazu in den vergangenen Wochen erarbeitete Resolution tr\u00e4gt den unterschiedlichen Akteuren der deutsch-franz\u00f6sischen Freundschaft Rechnung. "
+   ]
+  }, 
+  {
+   "begin": "82.520", 
+   "children": [], 
+   "end": "83.320", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Sie nimmt uns als Parlamentarier in die Pflicht, "
+   ]
+  }, 
+  {
+   "begin": "83.320", 
+   "children": [], 
+   "end": "84.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "und sie fordert die Regierungen auf, "
+   ]
+  }, 
+  {
+   "begin": "84.000", 
+   "children": [], 
+   "end": "84.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "ihre Verantwortung wahrzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "84.760", 
+   "children": [], 
+   "end": "85.840", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Beides braucht es; "
+   ]
+  }, 
+  {
+   "begin": "85.840", 
+   "children": [], 
+   "end": "87.280", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "denn auf unsere beiden Staaten kommen besondere Aufgaben im zusammenwachsenden Europa zu. "
+   ]
+  }, 
+  {
+   "begin": "87.280", 
+   "children": [], 
+   "end": "88.840", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wir sp\u00fcren doch die Erwartungen, "
+   ]
+  }, 
+  {
+   "begin": "88.840", 
+   "children": [], 
+   "end": "89.840", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "die sich an uns richten, "
+   ]
+  }, 
+  {
+   "begin": "89.840", 
+   "children": [], 
+   "end": "102.840", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "gerade auch von unseren Nachbarn. "
+   ]
+  }, 
+  {
+   "begin": "102.840", 
+   "children": [], 
+   "end": "104.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wir vergessen dar\u00fcber nicht die eigentlichen Grundlagen unserer Partnerschaft. "
+   ]
+  }, 
+  {
+   "begin": "104.240", 
+   "children": [], 
+   "end": "104.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das sind die engen zivilgesellschaftlichen Kontakte: "
+   ]
+  }, 
+  {
+   "begin": "104.360", 
+   "children": [], 
+   "end": "104.361", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "in den Grenzregionen, "
+   ]
+  }, 
+  {
+   "begin": "104.361", 
+   "children": [], 
+   "end": "104.362", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "in den St\u00e4dtepartnerschaften, "
+   ]
+  }, 
+  {
+   "begin": "104.362", 
+   "children": [], 
+   "end": "105.040", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "im Jugendwerk und in den zahlreichen deutsch-franz\u00f6sischen Gesellschaften. "
+   ]
+  }, 
+  {
+   "begin": "105.040", 
+   "children": [], 
+   "end": "105.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Sie erst erm\u00f6glichen es uns, "
+   ]
+  }, 
+  {
+   "begin": "105.200", 
+   "children": [], 
+   "end": "105.480", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "auch politisch zueinanderzufinden. "
+   ]
+  }, 
+  {
+   "begin": "105.480", 
+   "children": [], 
+   "end": "105.600", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Dazu brauchte es nach der Epoche verheerender Weltkriege kluge, "
+   ]
+  }, 
+  {
+   "begin": "105.600", 
+   "children": [], 
+   "end": "105.601", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "mutige Menschen, "
+   ]
+  }, 
+  {
+   "begin": "105.601", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "die halfen, "
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "106.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "aufeinander zuzugehen."
+   ]
+  }, 
+  {
+   "begin": "106.080", 
+   "children": [], 
+   "end": "106.440", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Einer von ihnen ist Joseph Rovan. "
+   ]
+  }, 
+  {
+   "begin": "106.440", 
+   "children": [], 
+   "end": "106.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Er wurde vor 100\u00a0Jahren als Joseph Rosenthal in M\u00fcnchen geboren, "
+   ]
+  }, 
+  {
+   "begin": "106.520", 
+   "children": [], 
+   "end": "106.521", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "1918, "
+   ]
+  }, 
+  {
+   "begin": "106.521", 
+   "children": [], 
+   "end": "106.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "als der Erste Weltkrieg endete, "
+   ]
+  }, 
+  {
+   "begin": "106.640", 
+   "children": [], 
+   "end": "107.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "la Grande Guerre, "
+   ]
+  }, 
+  {
+   "begin": "107.000", 
+   "children": [], 
+   "end": "107.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wie unsere franz\u00f6sischen Freunde noch immer sagen. "
+   ]
+  }, 
+  {
+   "begin": "107.840", 
+   "children": [], 
+   "end": "109.240", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Er fand sp\u00e4ter vor den Nationalsozialisten in Frankreich Schutz und eine neue Heimat. "
+   ]
+  }, 
+  {
+   "begin": "109.240", 
+   "children": [], 
+   "end": "110.800", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Er k\u00e4mpfte in der R\u00e9sistance f\u00fcr die Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "110.800", 
+   "children": [], 
+   "end": "148.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "er \u00fcberlebte das KZ Dachau. "
+   ]
+  }, 
+  {
+   "begin": "148.200", 
+   "children": [], 
+   "end": "150.720", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Als Franzose mit deutschen Wurzeln erhielt er 1968, "
+   ]
+  }, 
+  {
+   "begin": "150.720", 
+   "children": [], 
+   "end": "151.240", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "vor 50\u00a0Jahren, "
+   ]
+  }, 
+  {
+   "begin": "151.240", 
+   "children": [], 
+   "end": "151.760", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "eine Professur f\u00fcr deutsche Geschichte und Politik in Paris. "
+   ]
+  }, 
+  {
+   "begin": "151.760", 
+   "children": [], 
+   "end": "153.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wir schulden vielen gro\u00dfen Pers\u00f6nlichkeiten der Auss\u00f6hnung Dank. "
+   ]
+  }, 
+  {
+   "begin": "153.000", 
+   "children": [], 
+   "end": "153.840", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Unter ihnen hat Joseph Rovan wesentlich dazu beigetragen, "
+   ]
+  }, 
+  {
+   "begin": "153.840", 
+   "children": [], 
+   "end": "154.040", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass aus Feinden Freunde geworden sind, "
+   ]
+  }, 
+  {
+   "begin": "154.040", 
+   "children": [], 
+   "end": "154.041", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "und wenn wir heute \u00fcber die gemeinsame Resolution debattieren, "
+   ]
+  }, 
+  {
+   "begin": "154.041", 
+   "children": [], 
+   "end": "154.042", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dann auch im Geiste dieses Mannes. "
+   ]
+  }, 
+  {
+   "begin": "154.042", 
+   "children": [], 
+   "end": "154.043", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen um die Geschichte, "
+   ]
+  }, 
+  {
+   "begin": "154.043", 
+   "children": [], 
+   "end": "154.044", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "nat\u00fcrlich; "
+   ]
+  }, 
+  {
+   "begin": "154.044", 
+   "children": [], 
+   "end": "154.280", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "aber wir wollen unsere gemeinsame Zukunft gestalten, "
+   ]
+  }, 
+  {
+   "begin": "154.280", 
+   "children": [], 
+   "end": "154.520", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "so wie es Joseph Rovan auf den Punkt brachte, "
+   ]
+  }, 
+  {
+   "begin": "154.520", 
+   "children": [], 
+   "end": "156.000", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "als er \u00fcber Deutsche und Franzosen an der Schwelle zum 21.\u00a0Jahrhundert schrieb: "
+   ]
+  }, 
+  {
+   "begin": "156.000", 
+   "children": [], 
+   "end": "156.360", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "\u201eZwei V\u00f6lker\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "156.360", 
+   "children": [], 
+   "end": "156.720", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "eine Zukunft\u201c. "
+   ]
+  }, 
+  {
+   "begin": "156.720", 
+   "children": [], 
+   "end": "156.721", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Heute, "
+   ]
+  }, 
+  {
+   "begin": "156.721", 
+   "children": [], 
+   "end": "156.920", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "unter den Bedingungen der Globalisierung, "
+   ]
+  }, 
+  {
+   "begin": "156.920", 
+   "children": [], 
+   "end": "157.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "gilt f\u00fcr Frankreich und Deutschland mehr denn je: "
+   ]
+  }, 
+  {
+   "begin": "157.000", 
+   "children": [], 
+   "end": "157.040", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Diese Zukunft, "
+   ]
+  }, 
+  {
+   "begin": "157.040", 
+   "children": [], 
+   "end": "157.160", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "unsere gemeinsame Zukunft, "
+   ]
+  }, 
+  {
+   "begin": "157.160", 
+   "children": [], 
+   "end": "157.161", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "liegt in Europa."
+   ]
+  }, 
+  {
+   "begin": "157.161", 
+   "children": [], 
+   "end": "157.162", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Monsieur le Pr\u00e9sident, "
+   ]
+  }, 
+  {
+   "begin": "157.162", 
+   "children": [], 
+   "end": "157.163", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "cher coll\u00e8gue, "
+   ]
+  }, 
+  {
+   "begin": "157.163", 
+   "children": [], 
+   "end": "157.360", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "cher Fran\u00e7ois de Rugy, "
+   ]
+  }, 
+  {
+   "begin": "157.360", 
+   "children": [], 
+   "end": "157.960", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "vous avez la parole.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "157.960", 
+   "children": [], 
+   "end": "159.000", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Pr\u00e4sident der franz\u00f6sischen Nationalversammlung."
+   ]
+  }
+ ]
+}

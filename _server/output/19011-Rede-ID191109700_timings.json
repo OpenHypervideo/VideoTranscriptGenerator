@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.160", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "children": [], 
+   "end": "6.080", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "children": [], 
+   "end": "7.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Werte Zuschauer! "
+   ]
+  }, 
+  {
+   "begin": "7.440", 
+   "children": [], 
+   "end": "10.800", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Gut gemeint ist nicht immer gut gemacht. "
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "children": [], 
+   "end": "11.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die Entscheidung, "
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "children": [], 
+   "end": "16.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "ab 2004 der betrieblichen Altersversorgung den vollen Beitragssatz in der Kranken- "
+   ]
+  }, 
+  {
+   "begin": "16.520", 
+   "children": [], 
+   "end": "18.520", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung aufzubrummen, "
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "children": [], 
+   "end": "22.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "war in den Augen vieler Betroffener weder transparent noch gerecht. "
+   ]
+  }, 
+  {
+   "begin": "22.560", 
+   "children": [], 
+   "end": "23.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Es gab keine \u00dcbergangsregelung, "
+   ]
+  }, 
+  {
+   "begin": "23.800", 
+   "children": [], 
+   "end": "25.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "keinen Vertrauensschutz; "
+   ]
+  }, 
+  {
+   "begin": "25.080", 
+   "children": [], 
+   "end": "27.360", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "das ist alles schon angesprochen worden. "
+   ]
+  }, 
+  {
+   "begin": "27.360", 
+   "children": [], 
+   "end": "32.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Auch wenn das alles h\u00f6chstrichterlich abgesegnet ist: "
+   ]
+  }, 
+  {
+   "begin": "32.000", 
+   "children": [], 
+   "end": "33.200", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Ich verstehe, "
+   ]
+  }, 
+  {
+   "begin": "33.200", 
+   "children": [], 
+   "end": "36.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass viele das nicht verstehen und ungerecht finden."
+   ]
+  }, 
+  {
+   "begin": "36.680", 
+   "children": [], 
+   "end": "42.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das Ganze hat die betriebliche Altersversorgung insgesamt sicherlich nicht attraktiver gemacht. "
+   ]
+  }, 
+  {
+   "begin": "42.840", 
+   "children": [], 
+   "end": "44.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Denn wichtig ist auch hier, "
+   ]
+  }, 
+  {
+   "begin": "44.640", 
+   "children": [], 
+   "end": "48.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "was nach Abzug von Steuern und Sozialabgaben am Ende hinten rauskommt, "
+   ]
+  }, 
+  {
+   "begin": "48.320", 
+   "children": [], 
+   "end": "49.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "damit die Menschen sagen: "
+   ]
+  }, 
+  {
+   "begin": "49.320", 
+   "children": [], 
+   "end": "52.320", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das lohnt sich auch f\u00fcr mich.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "52.320", 
+   "children": [], 
+   "end": "56.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es heute nicht nur eine Debatte \u00fcber Krankenversicherungsbeitr\u00e4ge; "
+   ]
+  }, 
+  {
+   "begin": "56.800", 
+   "children": [], 
+   "end": "61.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "es ist eine Debatte \u00fcber die Zukunft der Altersversorgung in Deutschland."
+   ]
+  }, 
+  {
+   "begin": "61.400", 
+   "children": [], 
+   "end": "66.360", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die SPD steht die gesetzliche Rente im Mittelpunkt, "
+   ]
+  }, 
+  {
+   "begin": "66.360", 
+   "children": [], 
+   "end": "67.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "keine Frage; "
+   ]
+  }, 
+  {
+   "begin": "67.240", 
+   "children": [], 
+   "end": "69.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "die wollen wir st\u00e4rken. "
+   ]
+  }, 
+  {
+   "begin": "69.680", 
+   "children": [], 
+   "end": "73.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Betriebliche Altersversorgung ist f\u00fcr uns die beste Erg\u00e4nzung dazu\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "73.360", 
+   "children": [], 
+   "end": "74.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Erg\u00e4nzung, "
+   ]
+  }, 
+  {
+   "begin": "74.600", 
+   "children": [], 
+   "end": "77.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "kein Ersatz."
+   ]
+  }, 
+  {
+   "begin": "77.160", 
+   "children": [], 
+   "end": "82.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Im vergangen Jahr haben wir uns sehr intensiv mit betrieblicher Altersversorgung besch\u00e4ftigt. "
+   ]
+  }, 
+  {
+   "begin": "82.280", 
+   "children": [], 
+   "end": "83.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben einige Verbesserungen erreicht; "
+   ]
+  }, 
+  {
+   "begin": "83.920", 
+   "children": [], 
+   "end": "85.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "aber eines haben wir nicht hinbekommen: "
+   ]
+  }, 
+  {
+   "begin": "85.520", 
+   "children": [], 
+   "end": "89.520", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "das Thema Krankenversicherungsbeitr\u00e4ge abzur\u00e4umen. "
+   ]
+  }, 
+  {
+   "begin": "89.520", 
+   "children": [], 
+   "end": "92.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "In der bisherigen Koalition waren wir uns deshalb einig, "
+   ]
+  }, 
+  {
+   "begin": "92.800", 
+   "children": [], 
+   "end": "94.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass wir da noch einmal ranm\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "94.080", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ich hoffe: "
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "97.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es zu einer neuen Koalition kommt, "
+   ]
+  }, 
+  {
+   "begin": "97.480", 
+   "children": [], 
+   "end": "99.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "sind wir uns auch weiterhin einig, "
+   ]
+  }, 
+  {
+   "begin": "99.600", 
+   "children": [], 
+   "end": "104.280", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass da noch etwas passieren muss."
+   ]
+  }, 
+  {
+   "begin": "104.280", 
+   "children": [], 
+   "end": "106.960", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Immerhin gilt mit dem Betriebsrentenst\u00e4rkungsgesetz\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "106.960", 
+   "children": [], 
+   "end": "108.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "es ist schon angesprochen worden\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "108.560", 
+   "children": [], 
+   "end": "111.960", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wer jetzt in der betrieblichen Altersversorgung riestert, "
+   ]
+  }, 
+  {
+   "begin": "111.960", 
+   "children": [], 
+   "end": "116.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "der muss beim Rentenbezug keine Krankenversicherungsbeitr\u00e4ge mehr zahlen. "
+   ]
+  }, 
+  {
+   "begin": "116.000", 
+   "children": [], 
+   "end": "117.880", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Mit der Pflicht der Arbeitgeber, "
+   ]
+  }, 
+  {
+   "begin": "117.880", 
+   "children": [], 
+   "end": "123.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "bei der Entgeltumwandlung den Gro\u00dfteil ihrer eingesparten Sozialbeitr\u00e4ge an die Besch\u00e4ftigten weiterzugeben, "
+   ]
+  }, 
+  {
+   "begin": "123.640", 
+   "children": [], 
+   "end": "128.360", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "haben wir die Belastung der k\u00fcnftigen Betriebsrentnerinnen und -rentner verringert. "
+   ]
+  }, 
+  {
+   "begin": "128.360", 
+   "children": [], 
+   "end": "132.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ausreichend ist das alles aber noch nicht."
+   ]
+  }, 
+  {
+   "begin": "132.120", 
+   "children": [], 
+   "end": "133.720", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Um es deutlich zu sagen: "
+   ]
+  }, 
+  {
+   "begin": "133.720", 
+   "children": [], 
+   "end": "134.960", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD ist daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "134.960", 
+   "children": [], 
+   "end": "140.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass grunds\u00e4tzlich Betriebsrentner wie bei der gesetzlichen Rente den halben Krankenkassenbeitrag zahlen."
+   ]
+  }, 
+  {
+   "begin": "140.440", 
+   "children": [], 
+   "end": "143.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re eine klare, "
+   ]
+  }, 
+  {
+   "begin": "143.920", 
+   "children": [], 
+   "end": "146.880", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "eine einfache und transparente Regel. "
+   ]
+  }, 
+  {
+   "begin": "146.880", 
+   "children": [], 
+   "end": "147.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Und: "
+   ]
+  }, 
+  {
+   "begin": "147.240", 
+   "children": [], 
+   "end": "150.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Betriebsrentnerinnen und -rentner h\u00e4tten deutlich mehr im Portemonnaie."
+   ]
+  }, 
+  {
+   "begin": "150.280", 
+   "children": [], 
+   "end": "153.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Damit w\u00fcrde\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "153.400", 
+   "children": [], 
+   "end": "154.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "zugegeben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "154.760", 
+   "children": [], 
+   "end": "157.480", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die sogenannte Doppelverbeitragung nicht abgeschafft, "
+   ]
+  }, 
+  {
+   "begin": "157.480", 
+   "children": [], 
+   "end": "160.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die im Antrag der Linken kritisiert wird,"
+   ]
+  }, 
+  {
+   "begin": "160.000", 
+   "children": [], 
+   "end": "161.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "also die Situation, "
+   ]
+  }, 
+  {
+   "begin": "161.160", 
+   "children": [], 
+   "end": "169.600", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass sowohl auf die Finanzierung der betrieblichen Altersversorgung als auch auf die Betriebsrente selbst Beitr\u00e4ge f\u00e4llig werden."
+   ]
+  }, 
+  {
+   "begin": "169.600", 
+   "children": [], 
+   "end": "170.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "In der Tat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.960", 
+   "children": [], 
+   "end": "173.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "das gebe ich unumwunden zu\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "173.280", 
+   "children": [], 
+   "end": "175.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Das Problem l\u00f6sen wir mit unserem Vorschlag nicht, "
+   ]
+  }, 
+  {
+   "begin": "175.800", 
+   "children": [], 
+   "end": "178.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "erst recht nicht r\u00fcckwirkend. "
+   ]
+  }, 
+  {
+   "begin": "178.880", 
+   "children": [], 
+   "end": "180.760", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Es ist aber auch schon angesprochen worden: "
+   ]
+  }, 
+  {
+   "begin": "180.760", 
+   "children": [], 
+   "end": "184.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Eine solche Logik der Doppelverbeitragung gibt es auch bei der gesetzlichen Rente. "
+   ]
+  }, 
+  {
+   "begin": "184.960", 
+   "children": [], 
+   "end": "186.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Das abzuschaffen, "
+   ]
+  }, 
+  {
+   "begin": "186.080", 
+   "children": [], 
+   "end": "188.360", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "hat bisher noch niemand gefordert."
+   ]
+  }, 
+  {
+   "begin": "188.360", 
+   "children": [], 
+   "end": "190.840", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie es uns nicht komplizierter machen, "
+   ]
+  }, 
+  {
+   "begin": "190.840", 
+   "children": [], 
+   "end": "192.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "als es ohnehin schon ist. "
+   ]
+  }, 
+  {
+   "begin": "192.480", 
+   "children": [], 
+   "end": "194.440", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen klare, "
+   ]
+  }, 
+  {
+   "begin": "194.440", 
+   "children": [], 
+   "end": "195.320", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "transparente, "
+   ]
+  }, 
+  {
+   "begin": "195.320", 
+   "children": [], 
+   "end": "199.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "nachvollziehbare Regeln f\u00fcr alle Formen der betrieblichen Altersversorgung, "
+   ]
+  }, 
+  {
+   "begin": "199.280", 
+   "children": [], 
+   "end": "201.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "wenn es um Krankenkassenbeitr\u00e4ge geht. "
+   ]
+  }, 
+  {
+   "begin": "201.800", 
+   "children": [], 
+   "end": "203.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns deshalb gemeinsam schauen, "
+   ]
+  }, 
+  {
+   "begin": "203.480", 
+   "children": [], 
+   "end": "204.360", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "wie wir das hinbekommen, "
+   ]
+  }, 
+  {
+   "begin": "204.360", 
+   "children": [], 
+   "end": "206.240", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wie wir das finanzieren k\u00f6nnen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "206.240", 
+   "children": [], 
+   "end": "210.880", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6glichst ohne die Beitr\u00e4ge f\u00fcr alle Versicherten zu erh\u00f6hen; "
+   ]
+  }, 
+  {
+   "begin": "210.880", 
+   "children": [], 
+   "end": "213.720", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "denn sonst m\u00fcssten auch die h\u00f6here Beitr\u00e4ge zahlen, "
+   ]
+  }, 
+  {
+   "begin": "213.720", 
+   "children": [], 
+   "end": "215.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "die von Betriebsrenten gar nicht profitieren."
+   ]
+  }, 
+  {
+   "begin": "217.520", 
+   "children": [], 
+   "end": "218.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Und\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "218.040", 
+   "children": [], 
+   "end": "221.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "das sage ich hier auch in aller Offenheit\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "221.600", 
+   "children": [], 
+   "end": "223.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns ernsthaft \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "223.520", 
+   "children": [], 
+   "end": "228.120", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wie wir f\u00fcr die Gruppe der Direktversicherten etwas tun k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "228.120", 
+   "children": [], 
+   "end": "235.760", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "die vor 2004 Vertr\u00e4ge abgeschlossen haben und die damals von den \u00c4nderungen kalt erwischt worden sind."
+   ]
+  }, 
+  {
+   "begin": "235.760", 
+   "children": [], 
+   "end": "240.800", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Das ist vermutlich h\u00f6chst kompliziert und sicherlich nicht mit einem Federstrich zu machen; "
+   ]
+  }, 
+  {
+   "begin": "240.800", 
+   "children": [], 
+   "end": "242.720", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "aber wir sollten es zumindest versuchen. "
+   ]
+  }, 
+  {
+   "begin": "242.720", 
+   "children": [], 
+   "end": "245.040", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "An uns jedenfalls wird es nicht scheitern. "
+   ]
+  }, 
+  {
+   "begin": "245.040", 
+   "children": [], 
+   "end": "247.160", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich auf die Beratungen im Ausschuss."
+   ]
+  }, 
+  {
+   "begin": "247.160", 
+   "children": [], 
+   "end": "250.280", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "250.280", 
+   "children": [], 
+   "end": "256.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Der letzte Redner in der Debatte ist der Kollege Dr.\u00a0Roy K\u00fchne von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

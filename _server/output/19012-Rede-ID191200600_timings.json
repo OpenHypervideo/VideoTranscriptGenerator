@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "children": [], 
+   "end": "2.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "children": [], 
+   "end": "4.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Dass es so gut l\u00e4uft, "
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "children": [], 
+   "end": "10.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "hat viel mit Europa und der Welt, "
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "children": [], 
+   "end": "13.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "jedoch herzlich wenig mit der Bundesregierung zu tun. "
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "children": [], 
+   "end": "14.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Was aber mit Ihnen zu tun hat, "
+   ]
+  }, 
+  {
+   "begin": "14.840", 
+   "children": [], 
+   "end": "15.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "15.080", 
+   "children": [], 
+   "end": "19.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass es in ganz zentralen Punkten keine Verbesserung gibt."
+   ]
+  }, 
+  {
+   "begin": "19.240", 
+   "children": [], 
+   "end": "22.040", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Der Aufschwung kommt doch schon lange nicht mehr bei allen an. "
+   ]
+  }, 
+  {
+   "begin": "22.040", 
+   "children": [], 
+   "end": "26.960", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die Gleichung \u201eWachstum gleich Wohlstand\u201c stimmt doch in dieser Form nicht mehr. "
+   ]
+  }, 
+  {
+   "begin": "26.960", 
+   "children": [], 
+   "end": "28.440", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Der Niedriglohnsektor ist riesig."
+   ]
+  }, 
+  {
+   "begin": "28.440", 
+   "children": [], 
+   "end": "30.840", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Die Langzeitarbeitslosigkeit verfestigt sich."
+   ]
+  }, 
+  {
+   "begin": "30.840", 
+   "children": [], 
+   "end": "35.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Der Fachkr\u00e4ftemangel ist das Thema f\u00fcr Mittelstand und Handwerk schlechthin. "
+   ]
+  }, 
+  {
+   "begin": "35.360", 
+   "children": [], 
+   "end": "41.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Im Dezember\u00a02017 wurden 761\u00a0000 offene Stellen gemeldet. "
+   ]
+  }, 
+  {
+   "begin": "41.560", 
+   "children": [], 
+   "end": "44.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das sind 15\u00a0Prozent mehr als im Vorjahr. "
+   ]
+  }, 
+  {
+   "begin": "44.840", 
+   "children": [], 
+   "end": "51.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Und bei der Digitalisierung sind wir gerade einmal auf Platz\u00a017 von 35\u00a0Industriel\u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "51.080", 
+   "children": [], 
+   "end": "54.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland verschl\u00e4ft seine Zukunftschancen, "
+   ]
+  }, 
+  {
+   "begin": "54.720", 
+   "children": [], 
+   "end": "56.200", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "56.200", 
+   "children": [], 
+   "end": "59.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Was Sie \u00fcberhaupt nicht anpacken\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "59.240", 
+   "children": [], 
+   "end": "60.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die SPD h\u00e4tte es gewollt, "
+   ]
+  }, 
+  {
+   "begin": "60.720", 
+   "children": [], 
+   "end": "62.000", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "aber die Union macht es nicht, "
+   ]
+  }, 
+  {
+   "begin": "62.000", 
+   "children": [], 
+   "end": "64.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wie wir jetzt lesen d\u00fcrfen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "64.200", 
+   "children": [], 
+   "end": "68.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ist die Abzugsf\u00e4higkeit bei Managergeh\u00e4ltern und Boni."
+   ]
+  }, 
+  {
+   "begin": "68.200", 
+   "children": [], 
+   "end": "71.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Warum ist es eine Aufgabe der Steuerzahler, "
+   ]
+  }, 
+  {
+   "begin": "71.000", 
+   "children": [], 
+   "end": "72.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dies zu finanzieren? "
+   ]
+  }, 
+  {
+   "begin": "72.400", 
+   "children": [], 
+   "end": "73.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht gerecht; "
+   ]
+  }, 
+  {
+   "begin": "73.160", 
+   "children": [], 
+   "end": "75.640", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "das ist Kuschen vor der Wirtschaft."
+   ]
+  }, 
+  {
+   "begin": "75.640", 
+   "children": [], 
+   "end": "79.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland war lange Vorreiter in Sachen Umweltschutz. "
+   ]
+  }, 
+  {
+   "begin": "79.200", 
+   "children": [], 
+   "end": "81.320", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir verspielen diesen Vorsprung. "
+   ]
+  }, 
+  {
+   "begin": "81.320", 
+   "children": [], 
+   "end": "82.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Beispiel Autoindustrie: "
+   ]
+  }, 
+  {
+   "begin": "82.400", 
+   "children": [], 
+   "end": "86.360", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Der Trend geht hin zu sauberen Antrieben. "
+   ]
+  }, 
+  {
+   "begin": "86.360", 
+   "children": [], 
+   "end": "89.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die deutsche Industrie hinkt weit hinterher. "
+   ]
+  }, 
+  {
+   "begin": "89.360", 
+   "children": [], 
+   "end": "91.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung steuert nicht dagegen. "
+   ]
+  }, 
+  {
+   "begin": "91.320", 
+   "children": [], 
+   "end": "92.320", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie wollen, "
+   ]
+  }, 
+  {
+   "begin": "92.320", 
+   "children": [], 
+   "end": "96.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Autoindustrie auch in Zukunft weltweit f\u00fchrend ist, "
+   ]
+  }, 
+  {
+   "begin": "96.080", 
+   "children": [], 
+   "end": "98.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen Sie mehr tun, "
+   ]
+  }, 
+  {
+   "begin": "98.560", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "als eine Kaufpr\u00e4mie f\u00fcr Elektroautos einzuf\u00fchren."
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "106.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wir Gr\u00fcnen sagen: "
+   ]
+  }, 
+  {
+   "begin": "106.400", 
+   "children": [], 
+   "end": "107.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wirtschaftspolitik ist mehr als Psychologie, "
+   ]
+  }, 
+  {
+   "begin": "107.720", 
+   "children": [], 
+   "end": "110.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Selbstverpflichtung und das Warten darauf, "
+   ]
+  }, 
+  {
+   "begin": "110.640", 
+   "children": [], 
+   "end": "112.560", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass Draghi die Zinsen niedrig h\u00e4lt. "
+   ]
+  }, 
+  {
+   "begin": "112.560", 
+   "children": [], 
+   "end": "117.360", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wirtschaftspolitik ist mehr als gro\u00dfes Marketing f\u00fcr kleine Schritte. "
+   ]
+  }, 
+  {
+   "begin": "117.360", 
+   "children": [], 
+   "end": "118.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das ist es, "
+   ]
+  }, 
+  {
+   "begin": "118.120", 
+   "children": [], 
+   "end": "121.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "was uns dieser Jahreswirtschaftsbericht gibt."
+   ]
+  }, 
+  {
+   "begin": "121.760", 
+   "children": [], 
+   "end": "123.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Die Industrie ist viel weiter. "
+   ]
+  }, 
+  {
+   "begin": "123.520", 
+   "children": [], 
+   "end": "125.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das Wirtschaftsforum in Davos\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "125.360", 
+   "children": [], 
+   "end": "128.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "das ist kein Hort von Umweltaktivisten\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "128.320", 
+   "children": [], 
+   "end": "132.480", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "erkl\u00e4rt Klimaschutz zur gr\u00f6\u00dften Herausforderung f\u00fcr die Wirtschaft."
+   ]
+  }, 
+  {
+   "begin": "132.480", 
+   "children": [], 
+   "end": "134.200", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Der BDI, "
+   ]
+  }, 
+  {
+   "begin": "134.200", 
+   "children": [], 
+   "end": "137.240", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "auch kein Sammelbecken von Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "137.240", 
+   "children": [], 
+   "end": "138.480", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "fordert von der Politik, "
+   ]
+  }, 
+  {
+   "begin": "138.480", 
+   "children": [], 
+   "end": "145.400", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Klimaschutz als bedeutende Chance f\u00fcr die Wirtschaft anzuerkennen und diese Chance st\u00e4rker zu nutzen. "
+   ]
+  }, 
+  {
+   "begin": "145.400", 
+   "children": [], 
+   "end": "146.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Mein Gott, "
+   ]
+  }, 
+  {
+   "begin": "146.080", 
+   "children": [], 
+   "end": "147.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "das sind ausgestreckte H\u00e4nde. "
+   ]
+  }, 
+  {
+   "begin": "147.520", 
+   "children": [], 
+   "end": "149.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Ergreifen Sie sie doch endlich!"
+   ]
+  }, 
+  {
+   "begin": "149.000", 
+   "children": [], 
+   "end": "152.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wo ist denn Ihr Ansatz zu einer \u00f6kologischen Industriepolitik? "
+   ]
+  }, 
+  {
+   "begin": "152.240", 
+   "children": [], 
+   "end": "155.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir stehen im Wettlauf mit der Klimakrise, "
+   ]
+  }, 
+  {
+   "begin": "155.120", 
+   "children": [], 
+   "end": "156.800", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "und wir m\u00fcssen alles daf\u00fcr tun, "
+   ]
+  }, 
+  {
+   "begin": "156.800", 
+   "children": [], 
+   "end": "159.720", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "den Klimawandel ernsthaft in unsere \u00d6konomie, "
+   ]
+  }, 
+  {
+   "begin": "159.720", 
+   "children": [], 
+   "end": "161.600", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "in unsere Wirtschaftspolitik aufzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "161.600", 
+   "children": [], 
+   "end": "164.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Klimaschutz ist die Herausforderung der Zukunft, "
+   ]
+  }, 
+  {
+   "begin": "164.920", 
+   "children": [], 
+   "end": "165.720", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "und da sind Sie blank, "
+   ]
+  }, 
+  {
+   "begin": "165.720", 
+   "children": [], 
+   "end": "167.320", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "167.320", 
+   "children": [], 
+   "end": "167.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wissen Sie, "
+   ]
+  }, 
+  {
+   "begin": "167.840", 
+   "children": [], 
+   "end": "172.640", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "was noch ein Riesenskandal ist? "
+   ]
+  }, 
+  {
+   "begin": "172.640", 
+   "children": [], 
+   "end": "175.360", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wir sprechen in Deutschland inzwischen von Regionen, "
+   ]
+  }, 
+  {
+   "begin": "175.360", 
+   "children": [], 
+   "end": "176.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die abgeh\u00e4ngt sind."
+   ]
+  }, 
+  {
+   "begin": "176.760", 
+   "children": [], 
+   "end": "179.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Armutszeugnis f\u00fcr so ein reiches Land. "
+   ]
+  }, 
+  {
+   "begin": "179.720", 
+   "children": [], 
+   "end": "183.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ich keinen Arzt und keinen Lebensmittelladen mehr finde, "
+   ]
+  }, 
+  {
+   "begin": "183.400", 
+   "children": [], 
+   "end": "186.160", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "die Ladenzeile leersteht und die H\u00e4user verfallen, "
+   ]
+  }, 
+  {
+   "begin": "186.160", 
+   "children": [], 
+   "end": "189.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dann hat das mit Wohlstand nichts mehr zu tun. "
+   ]
+  }, 
+  {
+   "begin": "189.000", 
+   "children": [], 
+   "end": "191.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Dann wird Wachstum zur Worth\u00fclse."
+   ]
+  }, 
+  {
+   "begin": "191.520", 
+   "children": [], 
+   "end": "194.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Was ist jetzt Ihre Strategie f\u00fcr diese Regionen? "
+   ]
+  }, 
+  {
+   "begin": "194.760", 
+   "children": [], 
+   "end": "195.880", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ich empfehle immer wieder: "
+   ]
+  }, 
+  {
+   "begin": "195.880", 
+   "children": [], 
+   "end": "198.560", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Besch\u00e4ftigen Sie sich einmal mit Richard Florida, "
+   ]
+  }, 
+  {
+   "begin": "198.560", 
+   "children": [], 
+   "end": "200.080", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "einem amerikanischen \u00d6konomen, "
+   ]
+  }, 
+  {
+   "begin": "200.080", 
+   "children": [], 
+   "end": "203.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "der wirtschaftlich prosperierende Regionen untersucht hat. "
+   ]
+  }, 
+  {
+   "begin": "203.080", 
+   "children": [], 
+   "end": "203.840", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Er hat festgestellt, "
+   ]
+  }, 
+  {
+   "begin": "203.840", 
+   "children": [], 
+   "end": "205.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass es auf drei Dinge ankommt, "
+   ]
+  }, 
+  {
+   "begin": "205.040", 
+   "children": [], 
+   "end": "206.280", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "die ber\u00fchmten drei T: "
+   ]
+  }, 
+  {
+   "begin": "206.280", 
+   "children": [], 
+   "end": "208.320", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "erstens Technik: "
+   ]
+  }, 
+  {
+   "begin": "208.320", 
+   "children": [], 
+   "end": "210.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Investitionen in zukunftsweisende, "
+   ]
+  }, 
+  {
+   "begin": "210.600", 
+   "children": [], 
+   "end": "213.200", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "moderne und damit gr\u00fcne Technologien; "
+   ]
+  }, 
+  {
+   "begin": "213.200", 
+   "children": [], 
+   "end": "215.480", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "zweitens Talente: "
+   ]
+  }, 
+  {
+   "begin": "215.480", 
+   "children": [], 
+   "end": "217.880", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Investitionen in beste Schulen und Hochschulen, "
+   ]
+  }, 
+  {
+   "begin": "217.880", 
+   "children": [], 
+   "end": "218.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "in Aus- "
+   ]
+  }, 
+  {
+   "begin": "218.520", 
+   "children": [], 
+   "end": "219.880", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "und Weiterbildung; "
+   ]
+  }, 
+  {
+   "begin": "219.880", 
+   "children": [], 
+   "end": "222.160", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "und drittens Toleranz\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "222.160", 
+   "children": [], 
+   "end": "227.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "das richte ich ganz konkret an die rechte Seite hier im Haus\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "227.000", 
+   "children": [], 
+   "end": "231.440", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wer No-go-Areas f\u00fcr Fremde und Schutzsuchende hat, "
+   ]
+  }, 
+  {
+   "begin": "231.440", 
+   "children": [], 
+   "end": "234.560", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "wer Menschen ausgrenzt und ihnen die T\u00fcren verschlie\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "234.560", 
+   "children": [], 
+   "end": "238.400", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "der handelt nicht nur zutiefst inhuman,"
+   ]
+  }, 
+  {
+   "begin": "238.400", 
+   "children": [], 
+   "end": "243.320", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "der verschlie\u00dft sich auch der Kreativit\u00e4t dieser Welt und schmort im eigenen Saft."
+   ]
+  }, 
+  {
+   "begin": "243.320", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Toleranz ist ein hohes Gut, "
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "248.040", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "und wir werden dieses immer verteidigen und sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "248.040", 
+   "children": [], 
+   "end": "250.680", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Das ist auch wichtig f\u00fcr die wirtschaftliche Entwicklung in unserem Land."
+   ]
+  }, 
+  {
+   "begin": "250.680", 
+   "children": [], 
+   "end": "251.520", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "251.520", 
+   "children": [], 
+   "end": "261.880", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt erteile ich das Wort dem Kollegen Bernd Westphal, "
+   ]
+  }, 
+  {
+   "begin": "261.880", 
+   "children": [], 
+   "end": "261.960", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "SPD."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,584 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "children": [], 
+   "end": "8.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "children": [], 
+   "end": "18.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Angeh\u00f6rigen der Opfer haben uns im Dezember des letzten Jahres in ihrem offenen Brief an die Frau Bundeskanzlerin einen klaren Fingerzeig gegeben. "
+   ]
+  }, 
+  {
+   "begin": "18.400", 
+   "children": [], 
+   "end": "19.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben nicht gesagt, "
+   ]
+  }, 
+  {
+   "begin": "19.520", 
+   "children": [], 
+   "end": "24.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns in diesem Ausschuss \u00fcber parteipolitisches Klein-Klein unterhalten sollen, "
+   ]
+  }, 
+  {
+   "begin": "24.800", 
+   "children": [], 
+   "end": "27.640", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "sondern sie verlangen zu Recht Aufkl\u00e4rung, "
+   ]
+  }, 
+  {
+   "begin": "27.640", 
+   "children": [], 
+   "end": "31.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und deshalb ist dieser Untersuchungsausschuss \u00fcberf\u00e4llig."
+   ]
+  }, 
+  {
+   "begin": "31.720", 
+   "children": [], 
+   "end": "39.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber ein Jahr nach den schrecklichen Ereignissen auf dem Breitscheidplatz sind immer noch viele Fragen unbeantwortet. "
+   ]
+  }, 
+  {
+   "begin": "39.280", 
+   "children": [], 
+   "end": "45.200", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Die Opfer treibt vor allem die Frage nach dem Warum um. "
+   ]
+  }, 
+  {
+   "begin": "45.200", 
+   "children": [], 
+   "end": "55.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Warum wurden am 19.\u00a0Dezember 2016\u00a0 12 Menschen aus dem Leben gerissen und 67\u00a0Menschen teils lebensgef\u00e4hrlich verletzt? "
+   ]
+  }, 
+  {
+   "begin": "55.000", 
+   "children": [], 
+   "end": "60.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Warum wurden die genauen Hintergr\u00fcnde des Attentats bis heute nicht aufgekl\u00e4rt? "
+   ]
+  }, 
+  {
+   "begin": "60.720", 
+   "children": [], 
+   "end": "67.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Warum konnten diese schrecklichen Ereignisse nicht rechtzeitig verhindert werden?"
+   ]
+  }, 
+  {
+   "begin": "67.480", 
+   "children": [], 
+   "end": "74.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Gemeinsam mit den Fraktionen Die Linke und B\u00fcndnis\u00a090/Die Gr\u00fcnen war es uns Freien Demokraten wichtig, "
+   ]
+  }, 
+  {
+   "begin": "74.120", 
+   "children": [], 
+   "end": "78.400", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur die Lebensgeschichte des Attent\u00e4ters nachzuzeichnen, "
+   ]
+  }, 
+  {
+   "begin": "78.400", 
+   "children": [], 
+   "end": "81.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "sondern den Komplex auch umfassend zu beleuchten. "
+   ]
+  }, 
+  {
+   "begin": "81.920", 
+   "children": [], 
+   "end": "85.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Gerade bei den interfraktionellen Gespr\u00e4chen auf Berichterstatter- "
+   ]
+  }, 
+  {
+   "begin": "85.120", 
+   "children": [], 
+   "end": "88.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "und Arbeitsebene wurde viel erreicht. "
+   ]
+  }, 
+  {
+   "begin": "88.400", 
+   "children": [], 
+   "end": "94.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Kernanliegen als FDP-Fraktion waren und sind drei Hauptpunkte:"
+   ]
+  }, 
+  {
+   "begin": "94.120", 
+   "children": [], 
+   "end": "96.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Uns interessiert erstens: "
+   ]
+  }, 
+  {
+   "begin": "96.400", 
+   "children": [], 
+   "end": "101.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Gibt es so etwas wie eine Fehlerkultur in den deutschen Beh\u00f6rden? "
+   ]
+  }, 
+  {
+   "begin": "101.280", 
+   "children": [], 
+   "end": "103.840", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Haben wir in Deutschland einen Sicherheitsapparat, "
+   ]
+  }, 
+  {
+   "begin": "103.840", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "der aufkl\u00e4rt und aus Fehlern, "
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "106.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die passieren, "
+   ]
+  }, 
+  {
+   "begin": "106.320", 
+   "children": [], 
+   "end": "107.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "lernt, "
+   ]
+  }, 
+  {
+   "begin": "107.840", 
+   "children": [], 
+   "end": "108.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "oder einen Apparat, "
+   ]
+  }, 
+  {
+   "begin": "108.800", 
+   "children": [], 
+   "end": "111.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "der vertuscht und eigene Verantwortung beiseiteschiebt?"
+   ]
+  }, 
+  {
+   "begin": "111.840", 
+   "children": [], 
+   "end": "113.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "113.440", 
+   "children": [], 
+   "end": "119.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Welche Unterst\u00fctzer aus der islamistischen Szene haben sich im Umfeld des Attent\u00e4ters bewegt und ihn unterst\u00fctzt? "
+   ]
+  }, 
+  {
+   "begin": "119.800", 
+   "children": [], 
+   "end": "120.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Und vor allem: "
+   ]
+  }, 
+  {
+   "begin": "120.640", 
+   "children": [], 
+   "end": "123.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wussten die Nachrichtendienste davon?"
+   ]
+  }, 
+  {
+   "begin": "123.200", 
+   "children": [], 
+   "end": "124.520", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "124.520", 
+   "children": [], 
+   "end": "131.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wie sind deutsche Beh\u00f6rden mit Informationen ausl\u00e4ndischer Nachrichtendienste umgegangen? "
+   ]
+  }, 
+  {
+   "begin": "131.200", 
+   "children": [], 
+   "end": "136.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wurde Amri gegebenenfalls sogar l\u00e4nger als n\u00f6tig auf freiem Fu\u00df gelassen?"
+   ]
+  }, 
+  {
+   "begin": "136.760", 
+   "children": [], 
+   "end": "140.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Diese Punkte sind Bestandteil des Untersuchungsauftrags. "
+   ]
+  }, 
+  {
+   "begin": "140.640", 
+   "children": [], 
+   "end": "143.920", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr haben wir gek\u00e4mpft; "
+   ]
+  }, 
+  {
+   "begin": "143.920", 
+   "children": [], 
+   "end": "149.120", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "denn eine umfassende Aufkl\u00e4rung erfordert einen umfassenden Untersuchungsauftrag. "
+   ]
+  }, 
+  {
+   "begin": "149.120", 
+   "children": [], 
+   "end": "150.400", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Ein Parlament, "
+   ]
+  }, 
+  {
+   "begin": "150.400", 
+   "children": [], 
+   "end": "153.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "das sich schon zu Beginn selber beschneidet, "
+   ]
+  }, 
+  {
+   "begin": "153.400", 
+   "children": [], 
+   "end": "155.880", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "kann und darf es nicht geben, "
+   ]
+  }, 
+  {
+   "begin": "155.880", 
+   "children": [], 
+   "end": "157.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "157.240", 
+   "children": [], 
+   "end": "163.480", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Bei allem, "
+   ]
+  }, 
+  {
+   "begin": "163.480", 
+   "children": [], 
+   "end": "164.400", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "was wir heute wissen, "
+   ]
+  }, 
+  {
+   "begin": "164.400", 
+   "children": [], 
+   "end": "165.280", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "zeigt sich doch, "
+   ]
+  }, 
+  {
+   "begin": "165.280", 
+   "children": [], 
+   "end": "171.000", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass sich bereits im NSU-Komplex erkannte Ermittlungsfehler offensichtlich wiederholt haben. "
+   ]
+  }, 
+  {
+   "begin": "171.000", 
+   "children": [], 
+   "end": "179.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Schon bei unserer Arbeit im NSU-Untersuchungsausschuss im Landtag von Baden-W\u00fcrttemberg sind wir mit Sachverhalten konfrontiert worden, "
+   ]
+  }, 
+  {
+   "begin": "179.400", 
+   "children": [], 
+   "end": "182.120", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die sich heute in \u00e4hnlicher Weise wieder aufdr\u00e4ngen: "
+   ]
+  }, 
+  {
+   "begin": "182.120", 
+   "children": [], 
+   "end": "188.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Warum tauschen Ermittlungsbeh\u00f6rden Informationen oft gar nicht oder nur unzureichend aus? "
+   ]
+  }, 
+  {
+   "begin": "188.040", 
+   "children": [], 
+   "end": "191.520", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Warum werden Informationen nicht weiterverarbeitet? "
+   ]
+  }, 
+  {
+   "begin": "191.520", 
+   "children": [], 
+   "end": "199.840", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Warum k\u00f6nnen Nachrichtendienste trotz Quellen im engsten Umfeld der Extremisten diese nicht von ihren Taten abhalten? "
+   ]
+  }, 
+  {
+   "begin": "199.840", 
+   "children": [], 
+   "end": "204.840", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Warum sind in Deutschland im Sicherheitsbereich oft zu viele zust\u00e4ndig, "
+   ]
+  }, 
+  {
+   "begin": "204.840", 
+   "children": [], 
+   "end": "208.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "aber am Ende keiner verantwortlich?"
+   ]
+  }, 
+  {
+   "begin": "208.000", 
+   "children": [], 
+   "end": "214.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "214.840", 
+   "children": [], 
+   "end": "217.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "ich habe nun viele Warum-Fragen gestellt. "
+   ]
+  }, 
+  {
+   "begin": "217.680", 
+   "children": [], 
+   "end": "219.160", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das ist auch die Frage, "
+   ]
+  }, 
+  {
+   "begin": "219.160", 
+   "children": [], 
+   "end": "227.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die die Opfer seit \u00fcber einem Jahr umtreibt und auf die wir gemeinsam als Parlament eine Antwort finden wollen: "
+   ]
+  }, 
+  {
+   "begin": "227.840", 
+   "children": [], 
+   "end": "230.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Warum?"
+   ]
+  }, 
+  {
+   "begin": "230.400", 
+   "children": [], 
+   "end": "234.280", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin ist die Kollegin Martina Renner, "
+   ]
+  }, 
+  {
+   "begin": "234.280", 
+   "children": [], 
+   "end": "235.960", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Fraktion Die Linke."
+   ]
+  }
+ ]
+}

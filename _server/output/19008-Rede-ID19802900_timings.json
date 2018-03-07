@@ -1,0 +1,854 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.720", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "children": [], 
+   "end": "7.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "children": [], 
+   "end": "9.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir leben in einer Welt im Wandel. "
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "children": [], 
+   "end": "12.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Megatrends sind der demografische Wandel, "
+   ]
+  }, 
+  {
+   "begin": "12.440", 
+   "children": [], 
+   "end": "14.240", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "die digitale Revolution, "
+   ]
+  }, 
+  {
+   "begin": "14.240", 
+   "children": [], 
+   "end": "16.080", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Globalisierung und vieles mehr. "
+   ]
+  }, 
+  {
+   "begin": "16.080", 
+   "children": [], 
+   "end": "18.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Politik muss diese Trends gestalten, "
+   ]
+  }, 
+  {
+   "begin": "18.480", 
+   "children": [], 
+   "end": "25.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "damit wir den Wohlstand sichern k\u00f6nnen und unsere Art zu leben f\u00fcr die Zukunft erhalten k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "25.240", 
+   "children": [], 
+   "end": "27.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Union wollen gestalten. "
+   ]
+  }, 
+  {
+   "begin": "27.760", 
+   "children": [], 
+   "end": "30.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen Verantwortung \u00fcbernehmen. "
+   ]
+  }, 
+  {
+   "begin": "30.000", 
+   "children": [], 
+   "end": "32.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wir stellen uns dieser Verantwortung. "
+   ]
+  }, 
+  {
+   "begin": "32.000", 
+   "children": [], 
+   "end": "33.040", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Andere tun dies nicht. "
+   ]
+  }, 
+  {
+   "begin": "33.040", 
+   "children": [], 
+   "end": "37.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Wieder andere sind sich noch nicht ganz sicher. "
+   ]
+  }, 
+  {
+   "begin": "37.080", 
+   "children": [], 
+   "end": "46.880", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Aber Union und SPD haben mit dem Sondierungsergebnis eine wirklich gute Basis f\u00fcr eine m\u00f6gliche schwarz-rote Koalition geschaffen; "
+   ]
+  }, 
+  {
+   "begin": "46.880", 
+   "children": [], 
+   "end": "49.480", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "denn wir geben die richtigen Antworten, "
+   ]
+  }, 
+  {
+   "begin": "49.480", 
+   "children": [], 
+   "end": "51.440", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die den Menschen nutzen. "
+   ]
+  }, 
+  {
+   "begin": "51.440", 
+   "children": [], 
+   "end": "55.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen unser Land zusammenf\u00fchren statt spalten. "
+   ]
+  }, 
+  {
+   "begin": "55.800", 
+   "children": [], 
+   "end": "58.560", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen setzen wir auf echte Entlastungen, "
+   ]
+  }, 
+  {
+   "begin": "58.560", 
+   "children": [], 
+   "end": "63.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "mehr Unterst\u00fctzung f\u00fcr Familien und mehr Sicherheit im Alter."
+   ]
+  }, 
+  {
+   "begin": "63.480", 
+   "children": [], 
+   "end": "64.880", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "64.880", 
+   "children": [], 
+   "end": "69.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die beispielsweise mit dem schrittweisen Abbau des Solis f\u00fcr Entlastungen sorgen. "
+   ]
+  }, 
+  {
+   "begin": "69.080", 
+   "children": [], 
+   "end": "71.400", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben es im Bereich der Rente vorgemacht: "
+   ]
+  }, 
+  {
+   "begin": "71.400", 
+   "children": [], 
+   "end": "79.040", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Hier haben wir den Rentenversicherungsbeitrag um 0,1\u00a0Prozentpunkte gesenkt. "
+   ]
+  }, 
+  {
+   "begin": "79.040", 
+   "children": [], 
+   "end": "85.080", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Genau das wollen wir jetzt auch beim Arbeitslosenversicherungsbeitrag machen und ihn um 0,3\u00a0Prozentpunkte verringern: "
+   ]
+  }, 
+  {
+   "begin": "85.080", 
+   "children": [], 
+   "end": "88.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "eine echte Entlastung f\u00fcr die Beitragszahlerinnen und Beitragszahler. "
+   ]
+  }, 
+  {
+   "begin": "88.760", 
+   "children": [], 
+   "end": "89.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Kollege Kurth, "
+   ]
+  }, 
+  {
+   "begin": "89.920", 
+   "children": [], 
+   "end": "92.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wir h\u00e4tten das nat\u00fcrlich auch mit Ihnen machen k\u00f6nnen; "
+   ]
+  }, 
+  {
+   "begin": "92.760", 
+   "children": [], 
+   "end": "95.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "aber die Gr\u00fcnen waren es letztendlich, "
+   ]
+  }, 
+  {
+   "begin": "95.800", 
+   "children": [], 
+   "end": "97.200", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die sich geweigert haben, "
+   ]
+  }, 
+  {
+   "begin": "97.200", 
+   "children": [], 
+   "end": "100.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "den Arbeitslosenversicherungsbeitrag zu senken."
+   ]
+  }, 
+  {
+   "begin": "100.200", 
+   "children": [], 
+   "end": "102.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir setzen auch mit einer R\u00fcckkehr zur Parit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "102.400", 
+   "children": [], 
+   "end": "110.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "zur h\u00e4lftigen Finanzierung der Krankenversicherungsbeitr\u00e4ge durch Arbeitnehmer und Arbeitgeber, "
+   ]
+  }, 
+  {
+   "begin": "110.840", 
+   "children": [], 
+   "end": "116.280", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "auf eine Entlastung der Beitragszahler."
+   ]
+  }, 
+  {
+   "begin": "116.280", 
+   "children": [], 
+   "end": "119.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen den Fortschritt gestalten. "
+   ]
+  }, 
+  {
+   "begin": "119.240", 
+   "children": [], 
+   "end": "121.040", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind uns sicher: "
+   ]
+  }, 
+  {
+   "begin": "121.040", 
+   "children": [], 
+   "end": "123.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Zukunft einer Nation wird in den Klassenzimmern, "
+   ]
+  }, 
+  {
+   "begin": "123.560", 
+   "children": [], 
+   "end": "125.400", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "in den Laboren entschieden. "
+   ]
+  }, 
+  {
+   "begin": "125.400", 
+   "children": [], 
+   "end": "128.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen wollen wir wuchtige Investitionen vornehmen, "
+   ]
+  }, 
+  {
+   "begin": "128.400", 
+   "children": [], 
+   "end": "133.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "gerade im Bereich der Bildung und im Bereich der Forschung. "
+   ]
+  }, 
+  {
+   "begin": "133.720", 
+   "children": [], 
+   "end": "135.080", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich wissen wir auch, "
+   ]
+  }, 
+  {
+   "begin": "135.080", 
+   "children": [], 
+   "end": "139.080", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass die Digitalisierung vor dem Arbeitsmarkt nicht haltmachen wird. "
+   ]
+  }, 
+  {
+   "begin": "139.080", 
+   "children": [], 
+   "end": "143.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Aber Digitalisierung immer nur angstvoll zu beschreiben ist nicht unsere Aufgabe. "
+   ]
+  }, 
+  {
+   "begin": "143.680", 
+   "children": [], 
+   "end": "144.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Aufgabe ist es, "
+   ]
+  }, 
+  {
+   "begin": "144.680", 
+   "children": [], 
+   "end": "152.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "die Herausforderung der digitalen Revolution zu gestalten und sie als Chance f\u00fcr mehr Arbeit und f\u00fcr bessere Arbeit zu begreifen."
+   ]
+  }, 
+  {
+   "begin": "152.800", 
+   "children": [], 
+   "end": "160.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen wird in einer sich wandelnden Arbeitswelt nat\u00fcrlich die Weiterbildung einen h\u00f6heren Stellenwert einnehmen. "
+   ]
+  }, 
+  {
+   "begin": "160.120", 
+   "children": [], 
+   "end": "166.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Die betriebliche Weiterbildung soll weiterhin im Betrieb stattfinden. "
+   ]
+  }, 
+  {
+   "begin": "166.360", 
+   "children": [], 
+   "end": "167.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Es ist unsere Aufgabe, "
+   ]
+  }, 
+  {
+   "begin": "167.880", 
+   "children": [], 
+   "end": "169.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "passgenau dort zu unterst\u00fctzen, "
+   ]
+  }, 
+  {
+   "begin": "169.760", 
+   "children": [], 
+   "end": "173.880", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "wo Betriebe der Unterst\u00fctzung bed\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "173.880", 
+   "children": [], 
+   "end": "176.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Aufgabe stellen wir uns."
+   ]
+  }, 
+  {
+   "begin": "176.480", 
+   "children": [], 
+   "end": "178.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen Arbeit, "
+   ]
+  }, 
+  {
+   "begin": "178.360", 
+   "children": [], 
+   "end": "181.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wachstum und Wohlstand sichern. "
+   ]
+  }, 
+  {
+   "begin": "181.560", 
+   "children": [], 
+   "end": "185.240", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen verschreiben wir uns dem Ziel der Vollbesch\u00e4ftigung. "
+   ]
+  }, 
+  {
+   "begin": "185.240", 
+   "children": [], 
+   "end": "185.920", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das ist richtig. "
+   ]
+  }, 
+  {
+   "begin": "185.920", 
+   "children": [], 
+   "end": "194.640", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen die Sozialabgaben bei 40\u00a0Prozent der Bruttol\u00f6hne halten und unsere erfolgreiche Arbeitsmarktpolitik kraftvoll fortsetzen."
+   ]
+  }, 
+  {
+   "begin": "194.640", 
+   "children": [], 
+   "end": "196.560", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir wissen auch: "
+   ]
+  }, 
+  {
+   "begin": "196.560", 
+   "children": [], 
+   "end": "199.000", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland ist erfolgreich, "
+   ]
+  }, 
+  {
+   "begin": "199.000", 
+   "children": [], 
+   "end": "204.720", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht jeder in Deutschland hat in gleichem Ma\u00dfe Anteil an diesem Erfolg. "
+   ]
+  }, 
+  {
+   "begin": "204.720", 
+   "children": [], 
+   "end": "206.080", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Dies wollen wir \u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "206.080", 
+   "children": [], 
+   "end": "208.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "gerade in der Arbeitsmarktpolitik. "
+   ]
+  }, 
+  {
+   "begin": "208.360", 
+   "children": [], 
+   "end": "213.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen nutzen wir verst\u00e4rkt die M\u00f6glichkeiten, "
+   ]
+  }, 
+  {
+   "begin": "213.240", 
+   "children": [], 
+   "end": "217.200", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "gerade Langzeitarbeitslosen Perspektiven zu er\u00f6ffnen und Br\u00fccken zu bauen. "
+   ]
+  }, 
+  {
+   "begin": "217.200", 
+   "children": [], 
+   "end": "221.640", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr wollen wir \u00fcber 1\u00a0Milliarde Euro zus\u00e4tzlich in die Hand nehmen. "
+   ]
+  }, 
+  {
+   "begin": "221.640", 
+   "children": [], 
+   "end": "228.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das zentrale Ergebnis der Sondierungsverhandlungen zwischen SPD und Union in diesem Bereich. "
+   ]
+  }, 
+  {
+   "begin": "228.480", 
+   "children": [], 
+   "end": "229.200", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "229.200", 
+   "children": [], 
+   "end": "230.400", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "das ist ein gutes Ergebnis, "
+   ]
+  }, 
+  {
+   "begin": "230.400", 
+   "children": [], 
+   "end": "233.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "weil wir den Menschen weitere M\u00f6glichkeiten er\u00f6ffnen, "
+   ]
+  }, 
+  {
+   "begin": "233.920", 
+   "children": [], 
+   "end": "236.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "am Arbeitsmarkt teilzuhaben. "
+   ]
+  }, 
+  {
+   "begin": "236.240", 
+   "children": [], 
+   "end": "238.240", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Das wollen wir gestalten."
+   ]
+  }, 
+  {
+   "begin": "238.240", 
+   "children": [], 
+   "end": "239.360", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Entscheidend ist f\u00fcr uns immer, "
+   ]
+  }, 
+  {
+   "begin": "239.360", 
+   "children": [], 
+   "end": "241.160", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "eine gute Zukunft zu erreichen. "
+   ]
+  }, 
+  {
+   "begin": "241.160", 
+   "children": [], 
+   "end": "242.480", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Das ist sicherlich eine Frage der Ordnung der Wirtschaft; "
+   ]
+  }, 
+  {
+   "begin": "242.480", 
+   "children": [], 
+   "end": "244.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "aber es ist auch eine Kulturfrage. "
+   ]
+  }, 
+  {
+   "begin": "244.560", 
+   "children": [], 
+   "end": "245.720", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen setzen wir auf Aktivierung statt Alimentierung. "
+   ]
+  }, 
+  {
+   "begin": "245.720", 
+   "children": [], 
+   "end": "247.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Auch darin unterscheiden wir uns von den Linken. "
+   ]
+  }, 
+  {
+   "begin": "247.440", 
+   "children": [], 
+   "end": "249.240", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wir setzen auf Anreize statt Verbote und auf das Motto \u201ePrivat vor Staat\u201c. "
+   ]
+  }, 
+  {
+   "begin": "249.240", 
+   "children": [], 
+   "end": "249.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Das sind die Pr\u00e4missen, "
+   ]
+  }, 
+  {
+   "begin": "249.440", 
+   "children": [], 
+   "end": "250.640", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "unter denen wir erfolgreiche Unionspolitik gestalten."
+   ]
+  }, 
+  {
+   "begin": "250.640", 
+   "children": [], 
+   "end": "251.560", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Herzliches Dankesch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "251.560", 
+   "children": [], 
+   "end": "254.080", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe die Aussprache zu diesem Tagesordnungspunkt."
+   ]
+  }, 
+  {
+   "begin": "254.080", 
+   "children": [], 
+   "end": "258.760", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Interfraktionell wird \u00dcberweisung der Vorlagen auf den Drucksachen\u00a019/434, "
+   ]
+  }, 
+  {
+   "begin": "258.760", 
+   "children": [], 
+   "end": "264.360", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "19/105 und 19/462 an den Ausschuss f\u00fcr Arbeit und Soziales vorgeschlagen. "
+   ]
+  }, 
+  {
+   "begin": "264.360", 
+   "children": [], 
+   "end": "266.680", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Sind Sie damit einverstanden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "266.680", 
+   "children": [], 
+   "end": "267.640", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Fall. "
+   ]
+  }, 
+  {
+   "begin": "267.640", 
+   "children": [], 
+   "end": "268.960", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist die \u00dcberweisung beschlossen."
+   ]
+  }
+ ]
+}

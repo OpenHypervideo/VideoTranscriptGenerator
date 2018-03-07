@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "children": [], 
+   "end": "12.480", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen und Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "12.480", 
+   "children": [], 
+   "end": "14.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Eine Nachricht hat uns letzte Woche \u00fcberrascht. "
+   ]
+  }, 
+  {
+   "begin": "14.440", 
+   "children": [], 
+   "end": "15.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Es hie\u00df: "
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "children": [], 
+   "end": "17.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Der Bund will kostenlosen Nahverkehr. "
+   ]
+  }, 
+  {
+   "begin": "17.800", 
+   "children": [], 
+   "end": "18.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Viele gingen davon aus, "
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "children": [], 
+   "end": "22.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass dies fl\u00e4chendeckend f\u00fcr ganz Deutschland gelten soll. "
+   ]
+  }, 
+  {
+   "begin": "22.200", 
+   "children": [], 
+   "end": "25.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wer sich dann aber genauer informiert hat, "
+   ]
+  }, 
+  {
+   "begin": "25.000", 
+   "children": [], 
+   "end": "25.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "konnte nachlesen: "
+   ]
+  }, 
+  {
+   "begin": "25.760", 
+   "children": [], 
+   "end": "28.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um einen Modellversuch in f\u00fcnf Kommunen. "
+   ]
+  }, 
+  {
+   "begin": "28.480", 
+   "children": [], 
+   "end": "34.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein wichtiger Vorschlag zur Erprobung von Ma\u00dfnahmen zur Verbesserung der Luftqualit\u00e4t."
+   ]
+  }, 
+  {
+   "begin": "34.760", 
+   "children": [], 
+   "end": "38.440", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Modellversuche in einigen Regionen halte ich f\u00fcr sinnvoll, "
+   ]
+  }, 
+  {
+   "begin": "38.440", 
+   "children": [], 
+   "end": "41.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dies kann aber nicht \u00fcberall umgesetzt werden. "
+   ]
+  }, 
+  {
+   "begin": "41.520", 
+   "children": [], 
+   "end": "46.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "In vielen St\u00e4dten sind die Kapazit\u00e4tsgrenzen auf vielen Linien des \u00d6PNV fast erreicht. "
+   ]
+  }, 
+  {
+   "begin": "46.960", 
+   "children": [], 
+   "end": "54.160", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "In meinem Frankfurter Wahlkreis haben wir auf manchen Strecken seit\u00a02010 einen Zuwachs von fast 60\u00a0Prozent erreicht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "54.160", 
+   "children": [], 
+   "end": "56.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "da geht kaum noch was. "
+   ]
+  }, 
+  {
+   "begin": "56.240", 
+   "children": [], 
+   "end": "58.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir versuchen in Frankfurt aber, "
+   ]
+  }, 
+  {
+   "begin": "58.240", 
+   "children": [], 
+   "end": "60.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "durch neue Angebote die Menschen dazu zu bringen, "
+   ]
+  }, 
+  {
+   "begin": "60.000", 
+   "children": [], 
+   "end": "62.120", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "auf Busse und Bahnen umzusteigen. "
+   ]
+  }, 
+  {
+   "begin": "62.120", 
+   "children": [], 
+   "end": "72.200", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Auf Initiative unseres Frankfurter SPD-Oberb\u00fcrgermeisters Peter Feldmann hin haben wir im Dezember\u00a02017 einen neuen Nachtverkehr f\u00fcr U-Bahnen am Wochenende eingef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "72.200", 
+   "children": [], 
+   "end": "76.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Nachtverkehr wird von der Bev\u00f6lkerung ausgesprochen gut angenommen. "
+   ]
+  }, 
+  {
+   "begin": "76.440", 
+   "children": [], 
+   "end": "78.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb denken wir dar\u00fcber nach, "
+   ]
+  }, 
+  {
+   "begin": "78.040", 
+   "children": [], 
+   "end": "81.080", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "diesen Nachtverkehr auf weitere U-Bahnen und Stra\u00dfenbahnen auszuweiten."
+   ]
+  }, 
+  {
+   "begin": "81.080", 
+   "children": [], 
+   "end": "85.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Grunds\u00e4tzlich m\u00fcssen die Bedingungen f\u00fcr den \u00d6PNV verbessert werden. "
+   ]
+  }, 
+  {
+   "begin": "85.840", 
+   "children": [], 
+   "end": "86.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es gut, "
+   ]
+  }, 
+  {
+   "begin": "86.640", 
+   "children": [], 
+   "end": "88.640", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass wir im Koalitionsvertrag vereinbart haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "88.640", 
+   "children": [], 
+   "end": "89.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "das werden wir umsetzen, "
+   ]
+  }, 
+  {
+   "begin": "89.320", 
+   "children": [], 
+   "end": "91.840", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "wenn er von unseren Mitgliedern angenommen wird\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "91.840", 
+   "children": [], 
+   "end": "95.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dass wir den \u00d6PNV deutlich besser f\u00f6rdern wollen. "
+   ]
+  }, 
+  {
+   "begin": "95.960", 
+   "children": [], 
+   "end": "98.720", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Mittel f\u00fcr das Gemeindeverkehrsfinanzierungsgesetz, "
+   ]
+  }, 
+  {
+   "begin": "98.720", 
+   "children": [], 
+   "end": "99.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "GVFG, "
+   ]
+  }, 
+  {
+   "begin": "99.760", 
+   "children": [], 
+   "end": "102.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "werden bis 2021 f\u00fcr Aus- "
+   ]
+  }, 
+  {
+   "begin": "102.320", 
+   "children": [], 
+   "end": "111.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und Neubauma\u00dfnahmen in zwei Schritten von derzeit 333\u00a0Millionen\u00a0Euro auf 1\u00a0Milliarde\u00a0Euro erh\u00f6ht und\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "111.640", 
+   "children": [], 
+   "end": "112.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "das ist wichtig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "112.120", 
+   "children": [], 
+   "end": "112.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dynamisiert. "
+   ]
+  }, 
+  {
+   "begin": "112.280", 
+   "children": [], 
+   "end": "119.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem GVFG stellt der Bund Mittel f\u00fcr gro\u00dfe Infrastrukturma\u00dfnahmen zum Ausbau des Schienenpersonennahverkehrs vor Ort zur Verf\u00fcgung. "
+   ]
+  }, 
+  {
+   "begin": "119.200", 
+   "children": [], 
+   "end": "122.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Damit k\u00f6nnen die Angebote im Nahverkehr ausgeweitet werden, "
+   ]
+  }, 
+  {
+   "begin": "122.720", 
+   "children": [], 
+   "end": "127.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "sodass die Pendlerinnen und Pendler zum Beispiel nicht mehr in \u00fcberf\u00fcllten Z\u00fcgen zusammenstehen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "127.600", 
+   "children": [], 
+   "end": "129.800", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Auch dies tr\u00e4gt sicherlich dazu bei, "
+   ]
+  }, 
+  {
+   "begin": "129.800", 
+   "children": [], 
+   "end": "131.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass die B\u00fcrgerinnen und B\u00fcrger bereit sind, "
+   ]
+  }, 
+  {
+   "begin": "131.360", 
+   "children": [], 
+   "end": "133.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "vom Auto auf die Bahn umzusteigen."
+   ]
+  }, 
+  {
+   "begin": "133.280", 
+   "children": [], 
+   "end": "136.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich ist auch ein geringerer Preis ein guter Grund, "
+   ]
+  }, 
+  {
+   "begin": "136.440", 
+   "children": [], 
+   "end": "137.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "umzusteigen. "
+   ]
+  }, 
+  {
+   "begin": "137.320", 
+   "children": [], 
+   "end": "140.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Auch diesbez\u00fcglich bin ich unserem Frankfurter Oberb\u00fcrgermeister dankbar. "
+   ]
+  }, 
+  {
+   "begin": "140.840", 
+   "children": [], 
+   "end": "144.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Er war und ist ein gro\u00dfer Bef\u00fcrworter des 1\u2011Euro-Tickets. "
+   ]
+  }, 
+  {
+   "begin": "144.840", 
+   "children": [], 
+   "end": "150.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "In einem ersten Schritt k\u00f6nnen jetzt erstmals Sch\u00fclerinnen und Sch\u00fcler f\u00fcr nur 1\u00a0Euro am Tag\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "150.480", 
+   "children": [], 
+   "end": "151.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "das ist das Wiener Modell\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "151.640", 
+   "children": [], 
+   "end": "153.720", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "rund ums Jahr Bus und Bahn fahren, "
+   ]
+  }, 
+  {
+   "begin": "153.720", 
+   "children": [], 
+   "end": "154.880", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "und dies in ganz Hessen. "
+   ]
+  }, 
+  {
+   "begin": "154.880", 
+   "children": [], 
+   "end": "156.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Das finde ich gro\u00dfartig."
+   ]
+  }, 
+  {
+   "begin": "156.040", 
+   "children": [], 
+   "end": "158.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Herr Gelbhaar, "
+   ]
+  }, 
+  {
+   "begin": "158.360", 
+   "children": [], 
+   "end": "162.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "in Frankfurt sind auch die Geb\u00fchren f\u00fcr das Einzelticket in diesem Jahr gesenkt worden. "
+   ]
+  }, 
+  {
+   "begin": "162.280", 
+   "children": [], 
+   "end": "163.560", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Es geht also auch anders, "
+   ]
+  }, 
+  {
+   "begin": "163.560", 
+   "children": [], 
+   "end": "164.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wenn man das will, "
+   ]
+  }, 
+  {
+   "begin": "164.800", 
+   "children": [], 
+   "end": "167.480", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "und Oberb\u00fcrgermeister Peter Feldmann will das."
+   ]
+  }, 
+  {
+   "begin": "167.480", 
+   "children": [], 
+   "end": "168.840", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wichtig ist mir auch, "
+   ]
+  }, 
+  {
+   "begin": "168.840", 
+   "children": [], 
+   "end": "171.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass wir im Koalitionsvertrag vereinbart haben, "
+   ]
+  }, 
+  {
+   "begin": "171.080", 
+   "children": [], 
+   "end": "178.000", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass Kommunen bei der Ausschreibung von \u00d6PNV-Leistungen auch privaten Unternehmen soziale und \u00f6kologische Standards vorschreiben k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "178.000", 
+   "children": [], 
+   "end": "179.320", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Noch lieber w\u00e4re es mir nat\u00fcrlich, "
+   ]
+  }, 
+  {
+   "begin": "179.320", 
+   "children": [], 
+   "end": "182.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wenn der \u00d6PNV von kommunalen Unternehmen betrieben wird."
+   ]
+  }, 
+  {
+   "begin": "182.680", 
+   "children": [], 
+   "end": "187.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Mit einer Senkung der Trassenpreise wollen wir mehr G\u00fcter vom Lkw auf die klimafreundliche Schiene bringen."
+   ]
+  }, 
+  {
+   "begin": "187.920", 
+   "children": [], 
+   "end": "191.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Die Verbesserungen beim \u00d6PNV sind gut und notwendig; "
+   ]
+  }, 
+  {
+   "begin": "191.240", 
+   "children": [], 
+   "end": "194.320", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht jeder Weg kann mit dem \u00d6PNV erledigt werden. "
+   ]
+  }, 
+  {
+   "begin": "194.320", 
+   "children": [], 
+   "end": "197.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb m\u00fcssen wir auch bei den Kraftfahrzeugen ansetzen. "
+   ]
+  }, 
+  {
+   "begin": "197.760", 
+   "children": [], 
+   "end": "202.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Beim Nationalen Forum Diesel im Sommer\u00a02017 sind einige Beschl\u00fcsse gefasst worden. "
+   ]
+  }, 
+  {
+   "begin": "202.440", 
+   "children": [], 
+   "end": "204.760", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Die Automobilindustrie war nur bereit, "
+   ]
+  }, 
+  {
+   "begin": "204.760", 
+   "children": [], 
+   "end": "209.200", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die Kosten f\u00fcr ein Softwareupdate f\u00fcr gut 5\u00a0Millionen Dieselfahrzeuge zu \u00fcbernehmen, "
+   ]
+  }, 
+  {
+   "begin": "209.200", 
+   "children": [], 
+   "end": "212.280", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "um die Stickoxidemissionen zu reduzieren. "
+   ]
+  }, 
+  {
+   "begin": "212.280", 
+   "children": [], 
+   "end": "215.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die Automobilindustrie hat angegeben, "
+   ]
+  }, 
+  {
+   "begin": "215.000", 
+   "children": [], 
+   "end": "221.600", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass es keine sinnvollen Nachr\u00fcstungen f\u00fcr die Hardware gibt. "
+   ]
+  }, 
+  {
+   "begin": "221.600", 
+   "children": [], 
+   "end": "224.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Der damalige Verkehrsminister Dobrindt hat dies geglaubt. "
+   ]
+  }, 
+  {
+   "begin": "224.840", 
+   "children": [], 
+   "end": "226.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe das schon damals arg angezweifelt. "
+   ]
+  }, 
+  {
+   "begin": "226.840", 
+   "children": [], 
+   "end": "228.520", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Seit dieser Woche wissen wir: "
+   ]
+  }, 
+  {
+   "begin": "228.520", 
+   "children": [], 
+   "end": "231.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Die Automobilindustrie hat wieder einmal getrickst. "
+   ]
+  }, 
+  {
+   "begin": "231.240", 
+   "children": [], 
+   "end": "233.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Der ADAC hat aktuell nachgewiesen, "
+   ]
+  }, 
+  {
+   "begin": "233.280", 
+   "children": [], 
+   "end": "236.240", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dass Hardwarenachr\u00fcstungen an Dieselfahrzeugen nicht nur m\u00f6glich, "
+   ]
+  }, 
+  {
+   "begin": "236.240", 
+   "children": [], 
+   "end": "238.040", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch hochwirksam sind. "
+   ]
+  }, 
+  {
+   "begin": "238.040", 
+   "children": [], 
+   "end": "246.760", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Bis zu 70\u00a0Prozent innerorts und bis zu 90\u00a0Prozent au\u00dferorts weniger Schadstoffe lassen sich laut den Messungen durch Nachr\u00fcstungen an solchen Fahrzeugen erreichen. "
+   ]
+  }, 
+  {
+   "begin": "246.760", 
+   "children": [], 
+   "end": "247.880", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Besonders wichtig ist: "
+   ]
+  }, 
+  {
+   "begin": "247.880", 
+   "children": [], 
+   "end": "255.240", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "In besonders belasteten Gebieten k\u00f6nnte dies eine Verbesserung der Luftqualit\u00e4t um bis zu 25\u00a0Prozent mit sich bringen."
+   ]
+  }, 
+  {
+   "begin": "255.240", 
+   "children": [], 
+   "end": "261.480", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Auch aufgrund des zu erwartenden Gerichtsurteils und des absolut notwendigen Gesundheitsschutzes ist es dringend erforderlich, "
+   ]
+  }, 
+  {
+   "begin": "261.480", 
+   "children": [], 
+   "end": "267.480", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass neben den Softwareupdates an den betroffenen Dieselfahrzeugen auch ein Hardwareupdate erfolgt. "
+   ]
+  }, 
+  {
+   "begin": "267.480", 
+   "children": [], 
+   "end": "272.240", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Autos mit diesen Updates k\u00f6nnten von drohenden Fahrverboten in deutschen Innenst\u00e4dten ausgenommen werden."
+   ]
+  }, 
+  {
+   "begin": "272.240", 
+   "children": [], 
+   "end": "274.240", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Aus meiner Sicht ist vollkommen klar: "
+   ]
+  }, 
+  {
+   "begin": "274.240", 
+   "children": [], 
+   "end": "278.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Die Kosten f\u00fcr die Nachr\u00fcstung d\u00fcrfen nicht an den Verbrauchern h\u00e4ngen bleiben."
+   ]
+  }, 
+  {
+   "begin": "278.760", 
+   "children": [], 
+   "end": "281.280", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen von den Verursachern getragen werden, "
+   ]
+  }, 
+  {
+   "begin": "281.280", 
+   "children": [], 
+   "end": "282.840", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "von der Automobilindustrie. "
+   ]
+  }, 
+  {
+   "begin": "282.840", 
+   "children": [], 
+   "end": "284.320", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Das hat Barbara Hendricks schon immer gefordert. "
+   ]
+  }, 
+  {
+   "begin": "284.320", 
+   "children": [], 
+   "end": "288.360", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Die Automobilunternehmen zahlen in den USA zig Milliarden an Strafen. "
+   ]
+  }, 
+  {
+   "begin": "288.360", 
+   "children": [], 
+   "end": "293.960", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Und hier wollen sie die Kundschaft mit der \u00dcbernahme der l\u00e4cherlich niedrigen Kosten f\u00fcr die Softwareupdates abspeisen? "
+   ]
+  }, 
+  {
+   "begin": "293.960", 
+   "children": [], 
+   "end": "298.040", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Viele bef\u00fcrchten jetzt einen hohen Wertverlust ihres Fahrzeugs und haben Angst, "
+   ]
+  }, 
+  {
+   "begin": "298.040", 
+   "children": [], 
+   "end": "300.520", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "dass sie die betroffenen Innenst\u00e4dte nicht mehr befahren d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "300.520", 
+   "children": [], 
+   "end": "302.400", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Viele Handwerker sehen die Gefahr, "
+   ]
+  }, 
+  {
+   "begin": "302.400", 
+   "children": [], 
+   "end": "304.240", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "dass sie ihren Fuhrpark stilllegen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "304.240", 
+   "children": [], 
+   "end": "306.600", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "306.600", 
+   "children": [], 
+   "end": "312.600", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie uns den Menschen helfen und die Automobilindustrie dazu verpflichten, "
+   ]
+  }, 
+  {
+   "begin": "312.600", 
+   "children": [], 
+   "end": "319.320", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "die Kosten f\u00fcr die notwendige Nachr\u00fcstung zu \u00fcbernehmen."
+   ]
+  }, 
+  {
+   "begin": "319.320", 
+   "children": [], 
+   "end": "321.680", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen ganz herzlich f\u00fcr die Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "321.680", 
+   "children": [], 
+   "end": "330.000", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Als letzte Rednerin in dieser Aktuellen Stunde hat die Kollegin Daniela Ludwig f\u00fcr die CDU/CSU-Fraktion das Wort."
+   ]
+  }
+ ]
+}

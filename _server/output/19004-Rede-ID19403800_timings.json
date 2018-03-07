@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "children": [], 
+   "end": "13.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "13.120", 
+   "children": [], 
+   "end": "21.200", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Fraktion Die Linke hat heute diese Aktuelle Stunde beantragt, "
+   ]
+  }, 
+  {
+   "begin": "21.200", 
+   "children": [], 
+   "end": "26.160", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "weil die Bundeskanzlerin sich schlicht geweigert hat, "
+   ]
+  }, 
+  {
+   "begin": "26.160", 
+   "children": [], 
+   "end": "30.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "im Vorfeld des Europ\u00e4ischen Rates, "
+   ]
+  }, 
+  {
+   "begin": "30.000", 
+   "children": [], 
+   "end": "32.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "der Ende der Woche stattfinden wird, "
+   ]
+  }, 
+  {
+   "begin": "32.440", 
+   "children": [], 
+   "end": "41.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "eine Regierungserkl\u00e4rung zur Politik dieser kommissarisch gef\u00fchrten Regierung im Europ\u00e4ischen Rat abzugeben, "
+   ]
+  }, 
+  {
+   "begin": "41.120", 
+   "children": [], 
+   "end": "44.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "obwohl dort gewichtige Themen wie die Militarisierung der EU, "
+   ]
+  }, 
+  {
+   "begin": "44.800", 
+   "children": [], 
+   "end": "50.600", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die Folgen der Brexit-Verhandlungen und vieles mehr auf der Tagesordnung stehen. "
+   ]
+  }, 
+  {
+   "begin": "50.600", 
+   "children": [], 
+   "end": "53.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Wir halten es f\u00fcr einen Skandal, "
+   ]
+  }, 
+  {
+   "begin": "53.760", 
+   "children": [], 
+   "end": "55.920", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass die Kanzlerin sich weigert, "
+   ]
+  }, 
+  {
+   "begin": "55.920", 
+   "children": [], 
+   "end": "59.360", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "hier dem Bundestag Rede und Antwort zu stehen, "
+   ]
+  }, 
+  {
+   "begin": "59.360", 
+   "children": [], 
+   "end": "62.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und deswegen haben wir diese Aktuelle Stunde beantragt."
+   ]
+  }, 
+  {
+   "begin": "62.880", 
+   "children": [], 
+   "end": "67.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Diese v\u00f6llige Missachtung des Parlaments macht Die Linke nicht mit. "
+   ]
+  }, 
+  {
+   "begin": "67.720", 
+   "children": [], 
+   "end": "69.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Uns wundert schon etwas, "
+   ]
+  }, 
+  {
+   "begin": "69.200", 
+   "children": [], 
+   "end": "72.480", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass die anderen Fraktionen so verhalten reagiert haben, "
+   ]
+  }, 
+  {
+   "begin": "72.480", 
+   "children": [], 
+   "end": "75.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "als wir letzte Woche gefordert haben, "
+   ]
+  }, 
+  {
+   "begin": "75.280", 
+   "children": [], 
+   "end": "78.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "eine Sondersitzung durchzuf\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "78.000", 
+   "children": [], 
+   "end": "82.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Sie sprechen immer von der Stunde des Parlaments, "
+   ]
+  }, 
+  {
+   "begin": "82.400", 
+   "children": [], 
+   "end": "84.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "vom Herz der Demokratie. "
+   ]
+  }, 
+  {
+   "begin": "84.280", 
+   "children": [], 
+   "end": "86.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es darauf ankommt, "
+   ]
+  }, 
+  {
+   "begin": "86.120", 
+   "children": [], 
+   "end": "88.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "diese Aussagen mit Leben zu f\u00fcllen, "
+   ]
+  }, 
+  {
+   "begin": "88.120", 
+   "children": [], 
+   "end": "89.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ist nicht viel da. "
+   ]
+  }, 
+  {
+   "begin": "89.200", 
+   "children": [], 
+   "end": "90.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "90.160", 
+   "children": [], 
+   "end": "99.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "das ist ein Armutszeugnis f\u00fcr die anderen Fraktionen hier."
+   ]
+  }, 
+  {
+   "begin": "99.800", 
+   "children": [], 
+   "end": "102.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage mich schon: "
+   ]
+  }, 
+  {
+   "begin": "102.160", 
+   "children": [], 
+   "end": "104.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wovor hat die Bundeskanzlerin eigentlich Angst? "
+   ]
+  }, 
+  {
+   "begin": "104.760", 
+   "children": [], 
+   "end": "105.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Warum weigert sie sich, "
+   ]
+  }, 
+  {
+   "begin": "105.920", 
+   "children": [], 
+   "end": "108.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dem Deutschen Bundestag Rede und Antwort zu stehen? "
+   ]
+  }, 
+  {
+   "begin": "108.640", 
+   "children": [], 
+   "end": "111.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr meine Fraktion kann ich sagen: "
+   ]
+  }, 
+  {
+   "begin": "111.120", 
+   "children": [], 
+   "end": "115.640", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir halten dieses Wegducken von Frau Merkel f\u00fcr unerh\u00f6rt."
+   ]
+  }, 
+  {
+   "begin": "115.640", 
+   "children": [], 
+   "end": "117.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das zeigt einmal mehr: "
+   ]
+  }, 
+  {
+   "begin": "117.600", 
+   "children": [], 
+   "end": "120.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Zeit ist abgelaufen. "
+   ]
+  }, 
+  {
+   "begin": "120.080", 
+   "children": [], 
+   "end": "121.160", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die Methode Merkel, "
+   ]
+  }, 
+  {
+   "begin": "121.160", 
+   "children": [], 
+   "end": "122.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "alles auszusitzen, "
+   ]
+  }, 
+  {
+   "begin": "122.560", 
+   "children": [], 
+   "end": "125.120", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "hat sich \u00fcberlebt."
+   ]
+  }, 
+  {
+   "begin": "125.120", 
+   "children": [], 
+   "end": "127.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben viel zu diskutieren zu Europa. "
+   ]
+  }, 
+  {
+   "begin": "127.480", 
+   "children": [], 
+   "end": "129.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Morgen ist es zehn Jahre her, "
+   ]
+  }, 
+  {
+   "begin": "129.400", 
+   "children": [], 
+   "end": "132.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass der Vertrag von Lissabon unterzeichnet wurde. "
+   ]
+  }, 
+  {
+   "begin": "132.160", 
+   "children": [], 
+   "end": "137.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke hat sich von Anfang an gegen diesen Vertrag von Lissabon gewandt."
+   ]
+  }, 
+  {
+   "begin": "137.520", 
+   "children": [], 
+   "end": "142.160", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben vor einer undemokratischen und militaristischen Europ\u00e4ischen Union gewarnt. "
+   ]
+  }, 
+  {
+   "begin": "142.160", 
+   "children": [], 
+   "end": "145.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr wurden wir von Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "145.080", 
+   "children": [], 
+   "end": "147.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "SPD und CDU/CSU hier bel\u00e4chelt. "
+   ]
+  }, 
+  {
+   "begin": "147.680", 
+   "children": [], 
+   "end": "149.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Uns wurde entgegnet, "
+   ]
+  }, 
+  {
+   "begin": "149.040", 
+   "children": [], 
+   "end": "152.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "es g\u00e4be gar keine milit\u00e4rischen Strukturen. "
+   ]
+  }, 
+  {
+   "begin": "152.400", 
+   "children": [], 
+   "end": "154.440", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Aber jetzt ist es so weit."
+   ]
+  }, 
+  {
+   "begin": "154.440", 
+   "children": [], 
+   "end": "158.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ohne Einvernehmen mit dem Bundestag herzustellen, "
+   ]
+  }, 
+  {
+   "begin": "158.480", 
+   "children": [], 
+   "end": "163.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "hat gestern eine gesch\u00e4ftsf\u00fchrende Regierung einer Aufr\u00fcstungs- "
+   ]
+  }, 
+  {
+   "begin": "163.440", 
+   "children": [], 
+   "end": "165.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "und Milit\u00e4runion zugestimmt. "
+   ]
+  }, 
+  {
+   "begin": "165.640", 
+   "children": [], 
+   "end": "169.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Wir halten das f\u00fcr einen Anschlag auf die Rechte des Bundestages, "
+   ]
+  }, 
+  {
+   "begin": "169.600", 
+   "children": [], 
+   "end": "175.040", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "einen Anschlag auf die Demokratie und einen Anschlag auf die friedliche Au\u00dfenpolitik."
+   ]
+  }, 
+  {
+   "begin": "175.040", 
+   "children": [], 
+   "end": "176.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Denn es wird\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "176.240", 
+   "children": [], 
+   "end": "179.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "quasi unter Ausschluss der \u00d6ffentlichkeit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "179.880", 
+   "children": [], 
+   "end": "182.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "deutlich mehr Geld f\u00fcr Aufr\u00fcstung geben. "
+   ]
+  }, 
+  {
+   "begin": "182.520", 
+   "children": [], 
+   "end": "188.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Es soll eine j\u00e4hrliche Erh\u00f6hung der Mittel f\u00fcr Milit\u00e4r und sehr viel mehr Geld f\u00fcr R\u00fcstungsforschung geben, "
+   ]
+  }, 
+  {
+   "begin": "188.000", 
+   "children": [], 
+   "end": "195.200", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und auch ein sogenannter Verteidigungsfonds soll eingesetzt werden. "
+   ]
+  }, 
+  {
+   "begin": "195.200", 
+   "children": [], 
+   "end": "199.040", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden deswegen auch rechtliche Schritte pr\u00fcfen. "
+   ]
+  }, 
+  {
+   "begin": "199.040", 
+   "children": [], 
+   "end": "200.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann Ihnen sagen: "
+   ]
+  }, 
+  {
+   "begin": "200.440", 
+   "children": [], 
+   "end": "203.080", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Es w\u00e4re nicht das erste Mal, "
+   ]
+  }, 
+  {
+   "begin": "203.080", 
+   "children": [], 
+   "end": "212.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass das Bundesverfassungsgericht die Missachtung der Rechte des Bundestages durch die Bundesregierung r\u00fcgen m\u00fcsste."
+   ]
+  }, 
+  {
+   "begin": "212.320", 
+   "children": [], 
+   "end": "215.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Was Sie hier auf die Schiene setzen wollen, "
+   ]
+  }, 
+  {
+   "begin": "215.160", 
+   "children": [], 
+   "end": "219.720", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "ist ein Einstieg in eine sogenannte Verteidigungsunion. "
+   ]
+  }, 
+  {
+   "begin": "219.720", 
+   "children": [], 
+   "end": "220.440", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Verteidigung, "
+   ]
+  }, 
+  {
+   "begin": "220.440", 
+   "children": [], 
+   "end": "220.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "denke ich, "
+   ]
+  }, 
+  {
+   "begin": "220.840", 
+   "children": [], 
+   "end": "222.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "ist hier jedoch der falsche Begriff. "
+   ]
+  }, 
+  {
+   "begin": "222.280", 
+   "children": [], 
+   "end": "230.160", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wir sehen es eher als eine EU mit globaler Kriegsf\u00fchrungsf\u00e4higkeit unter deutscher Hegemonie. "
+   ]
+  }, 
+  {
+   "begin": "230.160", 
+   "children": [], 
+   "end": "233.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Dagegen wird Die Linke immer antreten. "
+   ]
+  }, 
+  {
+   "begin": "233.800", 
+   "children": [], 
+   "end": "237.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Das machen wir nicht mit."
+   ]
+  }, 
+  {
+   "begin": "237.040", 
+   "children": [], 
+   "end": "243.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Europa ist ein Europa des Krieges und der Aufr\u00fcstung."
+   ]
+  }, 
+  {
+   "begin": "243.000", 
+   "children": [], 
+   "end": "246.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sie bringen dieses Milit\u00e4rprojekt auch deshalb voran, "
+   ]
+  }, 
+  {
+   "begin": "246.280", 
+   "children": [], 
+   "end": "247.600", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "weil Sie der Meinung sind, "
+   ]
+  }, 
+  {
+   "begin": "247.600", 
+   "children": [], 
+   "end": "260.480", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass die Menschen darauf warten und dass dieses neue europ\u00e4ische milit\u00e4rische Projekt ein Zukunftsprojekt w\u00e4re und eine Antwort auf die gro\u00dfe Skepsis vieler Europ\u00e4er. "
+   ]
+  }, 
+  {
+   "begin": "260.480", 
+   "children": [], 
+   "end": "262.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Was aber die Menschen hier in Europa brauchen, "
+   ]
+  }, 
+  {
+   "begin": "262.200", 
+   "children": [], 
+   "end": "263.960", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "ist soziale Sicherheit. "
+   ]
+  }, 
+  {
+   "begin": "263.960", 
+   "children": [], 
+   "end": "266.880", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Sie warten nicht auf eine Milit\u00e4runion. "
+   ]
+  }, 
+  {
+   "begin": "266.880", 
+   "children": [], 
+   "end": "273.320", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen eine Alternative zu diesem neoliberalen und militaristischen Europa."
+   ]
+  }, 
+  {
+   "begin": "273.320", 
+   "children": [], 
+   "end": "275.120", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen einen Plan\u00a0B, "
+   ]
+  }, 
+  {
+   "begin": "275.120", 
+   "children": [], 
+   "end": "285.160", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "eine Antwort auf die gro\u00dfe soziale Krise und die sozialen Ungleichheiten in Europa. "
+   ]
+  }, 
+  {
+   "begin": "285.160", 
+   "children": [], 
+   "end": "286.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube auch nicht, "
+   ]
+  }, 
+  {
+   "begin": "286.040", 
+   "children": [], 
+   "end": "290.080", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass die Gr\u00fcndungsm\u00fctter und \u2011v\u00e4ter sich vorgestellt haben, "
+   ]
+  }, 
+  {
+   "begin": "290.080", 
+   "children": [], 
+   "end": "297.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "dass auf die Vers\u00f6hnung \u00fcber den Sch\u00fctzengr\u00e4ben von Verdun jetzt eine neue Aufr\u00fcstungsunion folgt."
+   ]
+  }, 
+  {
+   "begin": "297.520", 
+   "children": [], 
+   "end": "298.360", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir, "
+   ]
+  }, 
+  {
+   "begin": "298.360", 
+   "children": [], 
+   "end": "299.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke, "
+   ]
+  }, 
+  {
+   "begin": "299.400", 
+   "children": [], 
+   "end": "303.800", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "wollen ein soziales und friedliches Europa der Menschen. "
+   ]
+  }, 
+  {
+   "begin": "303.800", 
+   "children": [], 
+   "end": "306.920", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Dem stehen die jetzt geplanten Milit\u00e4rausgaben, "
+   ]
+  }, 
+  {
+   "begin": "306.920", 
+   "children": [], 
+   "end": "310.480", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "der Aufbau einer neuen R\u00fcstungsindustrie in Europa, "
+   ]
+  }, 
+  {
+   "begin": "310.480", 
+   "children": [], 
+   "end": "312.640", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "fundamental entgegen. "
+   ]
+  }, 
+  {
+   "begin": "312.640", 
+   "children": [], 
+   "end": "315.120", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen keine Milit\u00e4runion. "
+   ]
+  }, 
+  {
+   "begin": "315.120", 
+   "children": [], 
+   "end": "319.200", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen die Wiederherstellung des Sozialstaats in Europa. "
+   ]
+  }, 
+  {
+   "begin": "319.200", 
+   "children": [], 
+   "end": "320.240", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Zukunftsprojekt."
+   ]
+  }, 
+  {
+   "begin": "320.240", 
+   "children": [], 
+   "end": "321.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "321.000", 
+   "children": [], 
+   "end": "326.520", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Heike H\u00e4nsel.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "326.520", 
+   "children": [], 
+   "end": "327.920", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner: "
+   ]
+  }, 
+  {
+   "begin": "327.920", 
+   "children": [], 
+   "end": "330.960", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "J\u00fcrgen Hardt f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

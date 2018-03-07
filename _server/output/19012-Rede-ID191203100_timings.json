@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "children": [], 
+   "end": "4.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "4.440", 
+   "children": [], 
+   "end": "6.720", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Zuschauer auf der Trib\u00fcne! "
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "children": [], 
+   "end": "11.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wer in diesem Land arbeitslos wird, "
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "children": [], 
+   "end": "12.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dem hilft diese Gesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "12.920", 
+   "children": [], 
+   "end": "16.000", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Aber dann hat diese Gesellschaft auch einen Anspruch darauf, "
+   ]
+  }, 
+  {
+   "begin": "16.000", 
+   "children": [], 
+   "end": "16.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass er, "
+   ]
+  }, 
+  {
+   "begin": "16.320", 
+   "children": [], 
+   "end": "19.960", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "wenn sich f\u00fcr denjenigen eine M\u00f6glichkeit bietet, "
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "children": [], 
+   "end": "22.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "von eigener H\u00e4nde Arbeit zu leben, "
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "children": [], 
+   "end": "24.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "diese Chance auch nutzt. "
+   ]
+  }, 
+  {
+   "begin": "24.480", 
+   "children": [], 
+   "end": "26.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das ist f\u00fcr mich Solidarit\u00e4t."
+   ]
+  }, 
+  {
+   "begin": "26.840", 
+   "children": [], 
+   "end": "28.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt wei\u00df ich: "
+   ]
+  }, 
+  {
+   "begin": "28.000", 
+   "children": [], 
+   "end": "31.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Solidarit\u00e4t ist f\u00fcr Die Linke etwas anderes. "
+   ]
+  }, 
+  {
+   "begin": "31.320", 
+   "children": [], 
+   "end": "33.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Solidarit\u00e4t bedeutet f\u00fcr Sie leider sehr h\u00e4ufig: "
+   ]
+  }, 
+  {
+   "begin": "33.920", 
+   "children": [], 
+   "end": "35.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Der Unternehmer muss bezahlen. "
+   ]
+  }, 
+  {
+   "begin": "35.200", 
+   "children": [], 
+   "end": "37.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Aber Solidarit\u00e4t ist weit mehr. "
+   ]
+  }, 
+  {
+   "begin": "37.240", 
+   "children": [], 
+   "end": "38.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Solidarit\u00e4t bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "38.400", 
+   "children": [], 
+   "end": "45.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass jeder im Rahmen seiner M\u00f6glichkeiten einen Beitrag zum Funktionieren des Gesamtsystems leistet,"
+   ]
+  }, 
+  {
+   "begin": "45.160", 
+   "children": [], 
+   "end": "47.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "und wer diesen Beitrag nicht erbringt, "
+   ]
+  }, 
+  {
+   "begin": "47.920", 
+   "children": [], 
+   "end": "49.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "der wird sanktioniert: "
+   ]
+  }, 
+  {
+   "begin": "49.480", 
+   "children": [], 
+   "end": "51.760", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Der Steuerhinterzieher wird sanktioniert,"
+   ]
+  }, 
+  {
+   "begin": "51.760", 
+   "children": [], 
+   "end": "54.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "der Schwarzarbeiter wird sanktioniert, "
+   ]
+  }, 
+  {
+   "begin": "54.200", 
+   "children": [], 
+   "end": "56.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und wer die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "56.760", 
+   "children": [], 
+   "end": "58.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "von eigener H\u00e4nde Arbeit zu leben, "
+   ]
+  }, 
+  {
+   "begin": "58.960", 
+   "children": [], 
+   "end": "61.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "abschl\u00e4gt und stattdessen von Sozialleistungen lebt, "
+   ]
+  }, 
+  {
+   "begin": "61.800", 
+   "children": [], 
+   "end": "64.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "der muss eben auch sanktioniert werden."
+   ]
+  }, 
+  {
+   "begin": "64.720", 
+   "children": [], 
+   "end": "67.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "67.400", 
+   "children": [], 
+   "end": "70.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass es in Deutschland sehr viele Menschen gibt, "
+   ]
+  }, 
+  {
+   "begin": "70.320", 
+   "children": [], 
+   "end": "72.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die von Hartz\u00a0IV leben und die alles daf\u00fcr t\u00e4ten, "
+   ]
+  }, 
+  {
+   "begin": "72.600", 
+   "children": [], 
+   "end": "74.160", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "einen Job zu bekommen. "
+   ]
+  }, 
+  {
+   "begin": "74.160", 
+   "children": [], 
+   "end": "78.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir von der Alternative f\u00fcr Deutschland stehen klar an der Seite dieser Menschen."
+   ]
+  }, 
+  {
+   "begin": "78.320", 
+   "children": [], 
+   "end": "82.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Bei Ihnen von der Linken sind diese Menschen hingegen schlecht aufgehoben. "
+   ]
+  }, 
+  {
+   "begin": "82.520", 
+   "children": [], 
+   "end": "84.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Antrag zeigt ganz klar: "
+   ]
+  }, 
+  {
+   "begin": "84.680", 
+   "children": [], 
+   "end": "86.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Sie stehen eher auf der Seite der Menschen, "
+   ]
+  }, 
+  {
+   "begin": "86.960", 
+   "children": [], 
+   "end": "90.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die \u00fcberhaupt nicht arbeiten wollen."
+   ]
+  }, 
+  {
+   "begin": "90.520", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Sie sch\u00e4digen damit unser Sozialsystem und schaden den Menschen, "
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "98.560", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die tats\u00e4chlich auf dieses Sozialsystem angewiesen sind."
+   ]
+  }, 
+  {
+   "begin": "98.560", 
+   "children": [], 
+   "end": "102.920", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte mich jetzt aber gar nicht an der Linken abarbeiten;"
+   ]
+  }, 
+  {
+   "begin": "102.920", 
+   "children": [], 
+   "end": "104.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "denn verantwortlich daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "104.640", 
+   "children": [], 
+   "end": "107.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass wir \u00fcberhaupt Sanktionen brauchen, "
+   ]
+  }, 
+  {
+   "begin": "107.600", 
+   "children": [], 
+   "end": "108.240", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "sind Sie, "
+   ]
+  }, 
+  {
+   "begin": "108.240", 
+   "children": [], 
+   "end": "113.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr geehrten Kollegen von SPD und CDU/CSU."
+   ]
+  }, 
+  {
+   "begin": "113.120", 
+   "children": [], 
+   "end": "114.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es ist n\u00e4mlich so, "
+   ]
+  }, 
+  {
+   "begin": "114.000", 
+   "children": [], 
+   "end": "117.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich f\u00fcr viele Menschen in diesem Land schlichtweg nicht lohnt, "
+   ]
+  }, 
+  {
+   "begin": "117.640", 
+   "children": [], 
+   "end": "118.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "zu arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "118.560", 
+   "children": [], 
+   "end": "123.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie als Mindestlohnempf\u00e4nger Vollzeit arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "123.520", 
+   "children": [], 
+   "end": "128.680", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dann haben Sie am Monatsende Abz\u00fcge von 25\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "128.680", 
+   "children": [], 
+   "end": "132.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Ein Viertel Ihres Gehaltes wird in Form von Steuern und Sozialabgaben abgezogen."
+   ]
+  }, 
+  {
+   "begin": "132.920", 
+   "children": [], 
+   "end": "134.680", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Das hat zur Folge, "
+   ]
+  }, 
+  {
+   "begin": "134.680", 
+   "children": [], 
+   "end": "137.000", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Hartz-IV-Empf\u00e4nger, "
+   ]
+  }, 
+  {
+   "begin": "137.000", 
+   "children": [], 
+   "end": "140.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dem Sie einen Job auf dieser Basis anbieten, "
+   ]
+  }, 
+  {
+   "begin": "140.000", 
+   "children": [], 
+   "end": "141.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "ziemlich schnell feststellt, "
+   ]
+  }, 
+  {
+   "begin": "141.960", 
+   "children": [], 
+   "end": "144.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass er hinterher nicht viel mehr Geld hat als vorher. "
+   ]
+  }, 
+  {
+   "begin": "144.840", 
+   "children": [], 
+   "end": "146.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe durchaus Verst\u00e4ndnis daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "146.840", 
+   "children": [], 
+   "end": "148.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "wenn dann jemand sagt: "
+   ]
+  }, 
+  {
+   "begin": "148.400", 
+   "children": [], 
+   "end": "149.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Lieber nicht!"
+   ]
+  }, 
+  {
+   "begin": "149.640", 
+   "children": [], 
+   "end": "150.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df nicht, "
+   ]
+  }, 
+  {
+   "begin": "150.360", 
+   "children": [], 
+   "end": "155.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "ob Sie von SPD und Union auch Verst\u00e4ndnis daf\u00fcr haben. "
+   ]
+  }, 
+  {
+   "begin": "155.120", 
+   "children": [], 
+   "end": "157.480", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Auf jeden Fall habe ich den Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "157.480", 
+   "children": [], 
+   "end": "162.160", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie diese Problematik \u00fcberhaupt nicht verstanden haben und \u00fcberhaupt nicht sehen;"
+   ]
+  }, 
+  {
+   "begin": "162.160", 
+   "children": [], 
+   "end": "169.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "denn in Ihrem Sondierungspapier lese ich zu diesem Problem kein einziges Wort."
+   ]
+  }, 
+  {
+   "begin": "169.920", 
+   "children": [], 
+   "end": "173.360", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Das ist nur ein Sondierungspapier; "
+   ]
+  }, 
+  {
+   "begin": "173.360", 
+   "children": [], 
+   "end": "176.840", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "aber trotzdem h\u00e4tten Sie sich dazu \u00e4u\u00dfern k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "176.840", 
+   "children": [], 
+   "end": "177.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "177.520", 
+   "children": [], 
+   "end": "180.720", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dieses Problem wird Ihnen ganz f\u00fcrchterlich auf die F\u00fc\u00dfe fallen. "
+   ]
+  }, 
+  {
+   "begin": "180.720", 
+   "children": [], 
+   "end": "181.560", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wenn, "
+   ]
+  }, 
+  {
+   "begin": "181.560", 
+   "children": [], 
+   "end": "184.200", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "wie Die Linke in ihrem Antrag richtigerweise zum Ausdruck bringt, "
+   ]
+  }, 
+  {
+   "begin": "184.200", 
+   "children": [], 
+   "end": "193.680", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "das Bundesverfassungsgericht die Sanktionen tats\u00e4chlich f\u00fcr verfassungswidrig erkl\u00e4rt und es sich f\u00fcr viele Menschen einfach nicht lohnt, "
+   ]
+  }, 
+  {
+   "begin": "193.680", 
+   "children": [], 
+   "end": "194.920", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wie ich eben dargelegt habe, "
+   ]
+  }, 
+  {
+   "begin": "194.920", 
+   "children": [], 
+   "end": "196.800", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "einen Job anzunehmen, "
+   ]
+  }, 
+  {
+   "begin": "196.800", 
+   "children": [], 
+   "end": "205.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wie wollen Sie dann in nennenswertem Umfang Menschen mit niedriger Qualifikation an den Arbeitsmarkt heranf\u00fchren?"
+   ]
+  }, 
+  {
+   "begin": "205.360", 
+   "children": [], 
+   "end": "211.960", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden an dieser Aufgabe wegen Ihrer Konzeptionslosigkeit gnadenlos scheitern."
+   ]
+  }, 
+  {
+   "begin": "211.960", 
+   "children": [], 
+   "end": "213.920", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Das finde ich sehr \u00e4rgerlich; "
+   ]
+  }, 
+  {
+   "begin": "213.920", 
+   "children": [], 
+   "end": "215.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "denn es gibt Ans\u00e4tze. "
+   ]
+  }, 
+  {
+   "begin": "215.680", 
+   "children": [], 
+   "end": "224.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnten zum Beispiel \u00fcber die Einf\u00fchrung von Freibetr\u00e4gen bei den Sozialversicherungsbeitr\u00e4gen sprechen. "
+   ]
+  }, 
+  {
+   "begin": "224.000", 
+   "children": [], 
+   "end": "230.160", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Damit k\u00f6nnte man die Aufnahme von Arbeit gerade f\u00fcr Geringqualifizierte tats\u00e4chlich attraktiver gestalten. "
+   ]
+  }, 
+  {
+   "begin": "230.160", 
+   "children": [], 
+   "end": "231.400", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt diese Ideen; "
+   ]
+  }, 
+  {
+   "begin": "231.400", 
+   "children": [], 
+   "end": "235.800", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "aber diese Ideen gibt es nicht bei der SPD und auch nicht bei der Union."
+   ]
+  }, 
+  {
+   "begin": "235.800", 
+   "children": [], 
+   "end": "240.800", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wir von der Alternative f\u00fcr Deutschland sind gerne bereit, "
+   ]
+  }, 
+  {
+   "begin": "240.800", 
+   "children": [], 
+   "end": "245.320", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "mit Ihnen konstruktiv an entsprechenden L\u00f6sungen zu arbeiten."
+   ]
+  }, 
+  {
+   "begin": "245.320", 
+   "children": [], 
+   "end": "250.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Den Antrag der Linken verstehen wir als einen Einstieg in diese Diskussion. "
+   ]
+  }, 
+  {
+   "begin": "250.080", 
+   "children": [], 
+   "end": "256.800", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden der \u00dcberweisung Ihres Antrags in den Ausschuss deshalb gerne zustimmen."
+   ]
+  }, 
+  {
+   "begin": "256.800", 
+   "children": [], 
+   "end": "259.800", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in Deutschland Menschen, "
+   ]
+  }, 
+  {
+   "begin": "259.800", 
+   "children": [], 
+   "end": "265.160", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "die niedrig qualifiziert sind und von Arbeitslosengeld\u00a0II leben. "
+   ]
+  }, 
+  {
+   "begin": "265.160", 
+   "children": [], 
+   "end": "266.720", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Unser Ziel muss es sein, "
+   ]
+  }, 
+  {
+   "begin": "266.720", 
+   "children": [], 
+   "end": "270.120", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dass sich Arbeit endlich auch f\u00fcr diese Menschen wieder lohnt."
+   ]
+  }, 
+  {
+   "begin": "270.120", 
+   "children": [], 
+   "end": "270.121", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen."
+   ]
+  }, 
+  {
+   "begin": "270.121", 
+   "children": [], 
+   "end": "270.840", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner: "
+   ]
+  }, 
+  {
+   "begin": "270.840", 
+   "children": [], 
+   "end": "277.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Pascal Kober von der FDP-Fraktion."
+   ]
+  }
+ ]
+}

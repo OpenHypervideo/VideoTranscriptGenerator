@@ -1,0 +1,1084 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "children": [], 
+   "end": "7.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "children": [], 
+   "end": "8.880", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Dies ist eine Debatte, "
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "children": [], 
+   "end": "11.640", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "die dieses Hohe Haus l\u00e4ngst h\u00e4tte f\u00fchren m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "children": [], 
+   "end": "13.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Es ist schon erstaunlich, "
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "children": [], 
+   "end": "16.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass es erst unseres Einzugs in den Deutschen Bundestag bedurfte, "
+   ]
+  }, 
+  {
+   "begin": "16.840", 
+   "children": [], 
+   "end": "18.640", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "um eine gesellschaftliche Debatte, "
+   ]
+  }, 
+  {
+   "begin": "18.640", 
+   "children": [], 
+   "end": "20.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die die Menschen drau\u00dfen umtreibt, "
+   ]
+  }, 
+  {
+   "begin": "20.680", 
+   "children": [], 
+   "end": "23.640", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "auf die B\u00fchne unseres nationalen Parlaments zu bringen."
+   ]
+  }, 
+  {
+   "begin": "23.640", 
+   "children": [], 
+   "end": "28.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die deutschen Sicherheitsbeh\u00f6rden sch\u00e4tzen, "
+   ]
+  }, 
+  {
+   "begin": "28.880", 
+   "children": [], 
+   "end": "34.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass 6,6\u00a0Millionen Migranten vor den Toren Europas auf den Zutritt zum Schengen-Raum hoffen, "
+   ]
+  }, 
+  {
+   "begin": "34.320", 
+   "children": [], 
+   "end": "38.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "mindestens 2,6\u00a0Millionen davon in Nordafrika; "
+   ]
+  }, 
+  {
+   "begin": "38.200", 
+   "children": [], 
+   "end": "40.200", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Tendenz steigend. "
+   ]
+  }, 
+  {
+   "begin": "40.200", 
+   "children": [], 
+   "end": "41.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "So viel zu der Behauptung, "
+   ]
+  }, 
+  {
+   "begin": "41.800", 
+   "children": [], 
+   "end": "45.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die Migrationskrise sei vorbei und bew\u00e4ltigt. "
+   ]
+  }, 
+  {
+   "begin": "45.000", 
+   "children": [], 
+   "end": "45.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "45.280", 
+   "children": [], 
+   "end": "46.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "46.720", 
+   "children": [], 
+   "end": "48.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "nichts ist vorbei, "
+   ]
+  }, 
+  {
+   "begin": "48.000", 
+   "children": [], 
+   "end": "50.320", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "und nichts ist bew\u00e4ltigt."
+   ]
+  }, 
+  {
+   "begin": "50.320", 
+   "children": [], 
+   "end": "59.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Bundesweit sind derzeit mehr als 300\u00a0000\u00a0Asylklagen anh\u00e4ngig. "
+   ]
+  }, 
+  {
+   "begin": "59.280", 
+   "children": [], 
+   "end": "60.000", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Ich zitiere:"
+   ]
+  }, 
+  {
+   "begin": "60.000", 
+   "children": [], 
+   "end": "60.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4mter, "
+   ]
+  }, 
+  {
+   "begin": "60.480", 
+   "children": [], 
+   "end": "61.040", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Gerichte, "
+   ]
+  }, 
+  {
+   "begin": "61.040", 
+   "children": [], 
+   "end": "61.560", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Schulen. "
+   ]
+  }, 
+  {
+   "begin": "61.560", 
+   "children": [], 
+   "end": "63.920", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das Gemeinwesen ist \u00fcberlastet. "
+   ]
+  }, 
+  {
+   "begin": "63.920", 
+   "children": [], 
+   "end": "65.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland muss umdenken, "
+   ]
+  }, 
+  {
+   "begin": "65.760", 
+   "children": [], 
+   "end": "68.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "um seine \u00f6ffentlichen G\u00fcter zu bewahren. "
+   ]
+  }, 
+  {
+   "begin": "68.160", 
+   "children": [], 
+   "end": "70.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Nutzung der ganzen Welt zu erm\u00f6glichen, "
+   ]
+  }, 
+  {
+   "begin": "70.760", 
+   "children": [], 
+   "end": "72.360", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "ist nicht liberal."
+   ]
+  }, 
+  {
+   "begin": "72.360", 
+   "children": [], 
+   "end": "76.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Mahnung stammt von Hans-Werner Sinn."
+   ]
+  }, 
+  {
+   "begin": "76.400", 
+   "children": [], 
+   "end": "78.520", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Bernd Raffelh\u00fcschen, "
+   ]
+  }, 
+  {
+   "begin": "78.520", 
+   "children": [], 
+   "end": "79.680", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dem Hause auch bekannt, "
+   ]
+  }, 
+  {
+   "begin": "79.680", 
+   "children": [], 
+   "end": "80.560", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "hat berechnet, "
+   ]
+  }, 
+  {
+   "begin": "80.560", 
+   "children": [], 
+   "end": "82.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass die 1\u00a0Million Fl\u00fcchtlinge, "
+   ]
+  }, 
+  {
+   "begin": "82.600", 
+   "children": [], 
+   "end": "84.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die nun einmal schon da sind, "
+   ]
+  }, 
+  {
+   "begin": "84.680", 
+   "children": [], 
+   "end": "87.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "wie die Frau Bundeskanzlerin zu sagen pflegt, "
+   ]
+  }, 
+  {
+   "begin": "87.560", 
+   "children": [], 
+   "end": "94.600", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "den deutschen Staat per saldo und auf Dauer 450\u00a0Milliarden Euro kosten werden."
+   ]
+  }, 
+  {
+   "begin": "94.600", 
+   "children": [], 
+   "end": "96.640", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Aber noch immer h\u00e4lt diese Regierung, "
+   ]
+  }, 
+  {
+   "begin": "96.640", 
+   "children": [], 
+   "end": "98.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "besonders die Bundeskanzlerin, "
+   ]
+  }, 
+  {
+   "begin": "98.240", 
+   "children": [], 
+   "end": "99.400", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "an der M\u00e4r fest, "
+   ]
+  }, 
+  {
+   "begin": "99.400", 
+   "children": [], 
+   "end": "104.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass im 21.\u00a0Jahrhundert Grenzen nicht mehr gesichert werden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "104.280", 
+   "children": [], 
+   "end": "106.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wenn das richtig w\u00e4re, "
+   ]
+  }, 
+  {
+   "begin": "106.120", 
+   "children": [], 
+   "end": "107.280", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Frau Bundeskanzlerin\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "107.280", 
+   "children": [], 
+   "end": "108.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "sie ist leider nicht anwesend\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "108.840", 
+   "children": [], 
+   "end": "116.240", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dann h\u00e4tte Ihre Regierung kein einziges der heute debattierten Bundeswehrmandate verl\u00e4ngern d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "116.240", 
+   "children": [], 
+   "end": "126.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Denn fast alle diese Mandate gehen von begrenzenden M\u00f6glichkeiten in begrenzten Gebieten aus."
+   ]
+  }, 
+  {
+   "begin": "126.480", 
+   "children": [], 
+   "end": "130.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Schlie\u00dflich lernen Juristen in den ersten drei Semestern, "
+   ]
+  }, 
+  {
+   "begin": "130.760", 
+   "children": [], 
+   "end": "133.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Staat aus drei Elementen besteht: "
+   ]
+  }, 
+  {
+   "begin": "133.000", 
+   "children": [], 
+   "end": "134.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dem Staatsvolk, "
+   ]
+  }, 
+  {
+   "begin": "134.600", 
+   "children": [], 
+   "end": "137.840", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "der von diesem ausge\u00fcbten Staatsgewalt und einem bestimmten, "
+   ]
+  }, 
+  {
+   "begin": "137.840", 
+   "children": [], 
+   "end": "141.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "fest umrissenen Staatsgebiet. "
+   ]
+  }, 
+  {
+   "begin": "141.120", 
+   "children": [], 
+   "end": "142.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Und dieses Staatsgebiet, "
+   ]
+  }, 
+  {
+   "begin": "142.680", 
+   "children": [], 
+   "end": "144.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Frau Bundeskanzlerin\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "144.360", 
+   "children": [], 
+   "end": "146.160", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "das richtet sich auch an die Regierung\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "146.160", 
+   "children": [], 
+   "end": "149.040", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "haben Sie laut Grundgesetz zu sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "149.040", 
+   "children": [], 
+   "end": "155.160", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Andernfalls verletzen Sie Ihren Amtseid."
+   ]
+  }, 
+  {
+   "begin": "155.160", 
+   "children": [], 
+   "end": "157.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "157.160", 
+   "children": [], 
+   "end": "159.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass das m\u00f6glich war und ist, "
+   ]
+  }, 
+  {
+   "begin": "159.760", 
+   "children": [], 
+   "end": "162.720", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "haben wir zuletzt in dem Buch \u201eDie Getriebenen\u201c gelesen, "
+   ]
+  }, 
+  {
+   "begin": "162.720", 
+   "children": [], 
+   "end": "164.440", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wonach Ihr Innenminister\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "164.440", 
+   "children": [], 
+   "end": "165.320", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "ich bin dankbar, "
+   ]
+  }, 
+  {
+   "begin": "165.320", 
+   "children": [], 
+   "end": "166.440", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass er da ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "166.440", 
+   "children": [], 
+   "end": "171.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "und die Polizeif\u00fchrung des Bundes und Bayerns bereit und willens waren, "
+   ]
+  }, 
+  {
+   "begin": "171.920", 
+   "children": [], 
+   "end": "174.040", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die Grenzen zu sichern. "
+   ]
+  }, 
+  {
+   "begin": "174.040", 
+   "children": [], 
+   "end": "177.000", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Allein die Bundeskanzlerin wollte es nicht."
+   ]
+  }, 
+  {
+   "begin": "177.000", 
+   "children": [], 
+   "end": "177.720", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Nun, "
+   ]
+  }, 
+  {
+   "begin": "177.720", 
+   "children": [], 
+   "end": "178.840", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "178.840", 
+   "children": [], 
+   "end": "179.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dieses Nichthandeln, "
+   ]
+  }, 
+  {
+   "begin": "179.960", 
+   "children": [], 
+   "end": "182.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dieses Laufenlassen hat Konsequenzen. "
+   ]
+  }, 
+  {
+   "begin": "182.400", 
+   "children": [], 
+   "end": "185.720", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sie gef\u00e4hrden nicht nur die Identit\u00e4t dieses Landes, "
+   ]
+  }, 
+  {
+   "begin": "185.720", 
+   "children": [], 
+   "end": "189.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "seine Zukunftsf\u00e4higkeit und seine Institutionen, "
+   ]
+  }, 
+  {
+   "begin": "189.400", 
+   "children": [], 
+   "end": "191.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "also den Rechtsstaat, "
+   ]
+  }, 
+  {
+   "begin": "191.560", 
+   "children": [], 
+   "end": "196.720", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "der uns Deutschen unserer historischen Erfahrungen wegen besonders am Herzen liegen sollte, "
+   ]
+  }, 
+  {
+   "begin": "196.720", 
+   "children": [], 
+   "end": "199.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "sondern Sie gef\u00e4hrden auch den Sozialstaat. "
+   ]
+  }, 
+  {
+   "begin": "199.560", 
+   "children": [], 
+   "end": "210.160", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Denn offene Grenzen und Sozialstaat schlie\u00dfen einander auf Dauer aus."
+   ]
+  }, 
+  {
+   "begin": "210.160", 
+   "children": [], 
+   "end": "216.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Selbstbestimmung und Demokratie entfalten sich im durch Grenzen gesch\u00fctzten Nationalstaat, "
+   ]
+  }, 
+  {
+   "begin": "216.400", 
+   "children": [], 
+   "end": "221.200", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "wie der gro\u00dfe Liberale Lord Dahrendorf einst feststellte, "
+   ]
+  }, 
+  {
+   "begin": "221.200", 
+   "children": [], 
+   "end": "226.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "und nicht im Luftreich des Traums der Vereinigten Staaten von Europa."
+   ]
+  }, 
+  {
+   "begin": "226.480", 
+   "children": [], 
+   "end": "228.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Offene Grenzen, "
+   ]
+  }, 
+  {
+   "begin": "228.480", 
+   "children": [], 
+   "end": "230.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "230.440", 
+   "children": [], 
+   "end": "232.040", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "sind aber auch ungerecht. "
+   ]
+  }, 
+  {
+   "begin": "232.040", 
+   "children": [], 
+   "end": "233.320", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Die besten Chancen, "
+   ]
+  }, 
+  {
+   "begin": "233.320", 
+   "children": [], 
+   "end": "234.960", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "nach Europa zu kommen, "
+   ]
+  }, 
+  {
+   "begin": "234.960", 
+   "children": [], 
+   "end": "236.280", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "haben junge M\u00e4nner, "
+   ]
+  }, 
+  {
+   "begin": "236.280", 
+   "children": [], 
+   "end": "237.440", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die \u00fcber Geld verf\u00fcgen. "
+   ]
+  }, 
+  {
+   "begin": "237.440", 
+   "children": [], 
+   "end": "245.480", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Die Top\u00a010 der \u00e4rmsten L\u00e4nder der Welt decken sich eben nicht mit den Top\u00a010 der Herkunftsregionen von Migranten. "
+   ]
+  }, 
+  {
+   "begin": "245.480", 
+   "children": [], 
+   "end": "249.320", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Und um der falschen Politik der offenen Grenzen die Krone aufzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "249.320", 
+   "children": [], 
+   "end": "252.720", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "zahlt der Innenminister jetzt hohe R\u00fcckkehrpr\u00e4mien an Menschen, "
+   ]
+  }, 
+  {
+   "begin": "252.720", 
+   "children": [], 
+   "end": "255.040", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "die gar nicht hier sein d\u00fcrften; "
+   ]
+  }, 
+  {
+   "begin": "255.040", 
+   "children": [], 
+   "end": "258.280", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "denn Abschiebungen funktionieren ja auch nicht."
+   ]
+  }, 
+  {
+   "begin": "258.280", 
+   "children": [], 
+   "end": "266.880", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "So gebiert ein illegaler Akt den n\u00e4chsten. "
+   ]
+  }, 
+  {
+   "begin": "266.880", 
+   "children": [], 
+   "end": "269.560", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Diese Politik ist verheerend, "
+   ]
+  }, 
+  {
+   "begin": "269.560", 
+   "children": [], 
+   "end": "272.880", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "und f\u00fcr diese Politik sind die Regierungsparteien, "
+   ]
+  }, 
+  {
+   "begin": "272.880", 
+   "children": [], 
+   "end": "275.320", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "die noch gemeinsam auf der Regierungsbank sitzen, "
+   ]
+  }, 
+  {
+   "begin": "275.320", 
+   "children": [], 
+   "end": "278.120", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "in den Wahlen auch abgestraft worden."
+   ]
+  }, 
+  {
+   "begin": "278.120", 
+   "children": [], 
+   "end": "285.600", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb fordern wir mit unserem Antrag: "
+   ]
+  }, 
+  {
+   "begin": "285.600", 
+   "children": [], 
+   "end": "289.800", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Schluss mit den offenen Grenzen und R\u00fcckkehr zum Rechtsstaat. "
+   ]
+  }, 
+  {
+   "begin": "289.800", 
+   "children": [], 
+   "end": "296.240", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft Zur\u00fcckweisung jedes Einzelnen bei unberechtigtem Grenz\u00fcbertritt. "
+   ]
+  }, 
+  {
+   "begin": "296.240", 
+   "children": [], 
+   "end": "302.120", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Einwanderung und Niederlassungsfreiheit sind keine Menschenrechte. "
+   ]
+  }, 
+  {
+   "begin": "302.120", 
+   "children": [], 
+   "end": "302.680", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "302.680", 
+   "children": [], 
+   "end": "304.920", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Menschen k\u00f6nnen illegal sein. "
+   ]
+  }, 
+  {
+   "begin": "304.920", 
+   "children": [], 
+   "end": "307.200", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Das stelle ich hier ausdr\u00fccklich fest."
+   ]
+  }, 
+  {
+   "begin": "307.200", 
+   "children": [], 
+   "end": "311.760", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Das ist mir klar.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "311.760", 
+   "children": [], 
+   "end": "313.360", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es besser, "
+   ]
+  }, 
+  {
+   "begin": "313.360", 
+   "children": [], 
+   "end": "315.360", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "sie gar nicht erst hereinzulassen, "
+   ]
+  }, 
+  {
+   "begin": "315.360", 
+   "children": [], 
+   "end": "318.720", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "statt sie m\u00fchevoll und mit ungewissem Erfolg abzuschieben."
+   ]
+  }, 
+  {
+   "begin": "318.720", 
+   "children": [], 
+   "end": "319.480", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "319.480", 
+   "children": [], 
+   "end": "334.000", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort f\u00fcr die CDU/CSU-Fraktion hat der Kollege Armin Schuster."
+   ]
+  }
+ ]
+}

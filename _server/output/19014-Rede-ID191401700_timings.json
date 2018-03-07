@@ -1,0 +1,1424 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Guten Morgen, "
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "children": [], 
+   "end": "8.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "children": [], 
+   "end": "12.040", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "children": [], 
+   "end": "15.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden aktuell \u00fcber einen der gr\u00f6\u00dften, "
+   ]
+  }, 
+  {
+   "begin": "15.280", 
+   "children": [], 
+   "end": "18.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "wenn nicht den gr\u00f6\u00dften Krisenherd auf der Welt. "
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "children": [], 
+   "end": "19.720", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Es ist v\u00f6llig klar, "
+   ]
+  }, 
+  {
+   "begin": "19.720", 
+   "children": [], 
+   "end": "25.920", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass diese Region damit ganz besondere Anforderungen an die deutsche Au\u00dfenpolitik stellt. "
+   ]
+  }, 
+  {
+   "begin": "25.920", 
+   "children": [], 
+   "end": "27.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen aber feststellen, "
+   ]
+  }, 
+  {
+   "begin": "27.240", 
+   "children": [], 
+   "end": "29.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "gerade mit Blick auf die aktuellen Entwicklungen, "
+   ]
+  }, 
+  {
+   "begin": "29.800", 
+   "children": [], 
+   "end": "35.960", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass die deutsche Au\u00dfenpolitik diesen Anforderungen ganz offensichtlich nicht gewachsen ist."
+   ]
+  }, 
+  {
+   "begin": "35.960", 
+   "children": [], 
+   "end": "38.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Die entscheidende Frage, "
+   ]
+  }, 
+  {
+   "begin": "38.080", 
+   "children": [], 
+   "end": "40.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die wir als AfD immer wieder stellen werden, "
+   ]
+  }, 
+  {
+   "begin": "40.800", 
+   "children": [], 
+   "end": "41.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "lautet: "
+   ]
+  }, 
+  {
+   "begin": "41.160", 
+   "children": [], 
+   "end": "47.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Welchen deutschen Interessen dient die aktuelle Politik der Bundesregierung in dieser Region? "
+   ]
+  }, 
+  {
+   "begin": "47.520", 
+   "children": [], 
+   "end": "51.160", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Nehmen wir als erstes Beispiel Syrien. "
+   ]
+  }, 
+  {
+   "begin": "51.160", 
+   "children": [], 
+   "end": "54.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Assad ist seit 2000 Pr\u00e4sident von Syrien. "
+   ]
+  }, 
+  {
+   "begin": "54.240", 
+   "children": [], 
+   "end": "63.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Die Aufst\u00e4nde gegen das Assad-Regime begannen im Jahr\u00a02011 im Zuge des Arabischen Fr\u00fchlings. "
+   ]
+  }, 
+  {
+   "begin": "63.520", 
+   "children": [], 
+   "end": "65.720", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung stellte sich sehr fr\u00fch, "
+   ]
+  }, 
+  {
+   "begin": "65.720", 
+   "children": [], 
+   "end": "67.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "bereits 2012, "
+   ]
+  }, 
+  {
+   "begin": "67.520", 
+   "children": [], 
+   "end": "68.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "gegen Assad. "
+   ]
+  }, 
+  {
+   "begin": "68.280", 
+   "children": [], 
+   "end": "70.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Die Frage ist doch: "
+   ]
+  }, 
+  {
+   "begin": "70.080", 
+   "children": [], 
+   "end": "72.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Warum? "
+   ]
+  }, 
+  {
+   "begin": "72.280", 
+   "children": [], 
+   "end": "74.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Gab es doch wirtschaftliche Gr\u00fcnde? "
+   ]
+  }, 
+  {
+   "begin": "74.480", 
+   "children": [], 
+   "end": "82.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "War zum Beispiel der von Assad abgelehnte Bau einer Gaspipeline von Katar durch Syrien nach Europa der Grund? "
+   ]
+  }, 
+  {
+   "begin": "82.480", 
+   "children": [], 
+   "end": "84.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Oder gab es politische Gr\u00fcnde, "
+   ]
+  }, 
+  {
+   "begin": "84.800", 
+   "children": [], 
+   "end": "91.200", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "etwa die indirekte Unterst\u00fctzung Israels bei der Ausschaltung eines politischen Gegners? "
+   ]
+  }, 
+  {
+   "begin": "91.200", 
+   "children": [], 
+   "end": "92.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Offiziell\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "92.320", 
+   "children": [], 
+   "end": "94.840", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "das ist der Standpunkt der Bundesregierung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "94.840", 
+   "children": [], 
+   "end": "100.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "geht es um die Unterst\u00fctzung von Demokratie und Menschenrechten in Syrien. "
+   ]
+  }, 
+  {
+   "begin": "100.160", 
+   "children": [], 
+   "end": "103.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Aber gab und gibt es nicht zwei abschreckende Beispiele, "
+   ]
+  }, 
+  {
+   "begin": "103.840", 
+   "children": [], 
+   "end": "105.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die zeigen, "
+   ]
+  }, 
+  {
+   "begin": "105.440", 
+   "children": [], 
+   "end": "107.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass das in dieser Region so nicht geht, "
+   ]
+  }, 
+  {
+   "begin": "107.800", 
+   "children": [], 
+   "end": "110.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass man missliebige Regime nicht einfach beseitigen und erwarten kann, "
+   ]
+  }, 
+  {
+   "begin": "110.240", 
+   "children": [], 
+   "end": "114.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass anschlie\u00dfend eine Demokratie entsteht und die Menschenrechte gewahrt werden?"
+   ]
+  }, 
+  {
+   "begin": "114.920", 
+   "children": [], 
+   "end": "117.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Nehmen wir den Irak als Beispiel. "
+   ]
+  }, 
+  {
+   "begin": "117.240", 
+   "children": [], 
+   "end": "127.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das aus unserer Sicht v\u00f6llig v\u00f6lkerrechtswidrige Angreifen des Iraks im Jahr\u00a02003 durch die USA und Gro\u00dfbritannien basierte auf der gigantischen L\u00fcge, "
+   ]
+  }, 
+  {
+   "begin": "127.680", 
+   "children": [], 
+   "end": "130.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Hussein sei im Besitz von Massenvernichtungswaffen."
+   ]
+  }, 
+  {
+   "begin": "130.120", 
+   "children": [], 
+   "end": "139.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "In der Folge mussten mehrere Hunderttausende Menschen ihr Leben lassen. "
+   ]
+  }, 
+  {
+   "begin": "139.120", 
+   "children": [], 
+   "end": "144.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das Land versank in Gewalt und Anarchie."
+   ]
+  }, 
+  {
+   "begin": "144.000", 
+   "children": [], 
+   "end": "145.960", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Nehmen wir Libyen: "
+   ]
+  }, 
+  {
+   "begin": "145.960", 
+   "children": [], 
+   "end": "148.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Gaddafi wurde 2011 gest\u00fcrzt. "
+   ]
+  }, 
+  {
+   "begin": "148.520", 
+   "children": [], 
+   "end": "155.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Seitdem ist das Land weitgehend ohne staatliche Autorit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "155.680", 
+   "children": [], 
+   "end": "161.720", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Derzeit durchqueren Zigtausende von Migranten Libyen auf dem Weg nach Europa. "
+   ]
+  }, 
+  {
+   "begin": "161.720", 
+   "children": [], 
+   "end": "165.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind lokalen Milizen und kriminellen Banden ausgesetzt."
+   ]
+  }, 
+  {
+   "begin": "165.240", 
+   "children": [], 
+   "end": "166.440", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Die Frage ist: "
+   ]
+  }, 
+  {
+   "begin": "166.440", 
+   "children": [], 
+   "end": "170.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Warum hatte die Bundesregierung aus diesen Beispielen nichts gelernt? "
+   ]
+  }, 
+  {
+   "begin": "170.600", 
+   "children": [], 
+   "end": "178.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Warum hat sie sich mit der Forderung \u201eAssad muss weg\u201c auf eine milit\u00e4rische L\u00f6sung in Syrien versteift? "
+   ]
+  }, 
+  {
+   "begin": "178.640", 
+   "children": [], 
+   "end": "180.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das war ein Fehler mit ganz fatalen, "
+   ]
+  }, 
+  {
+   "begin": "180.920", 
+   "children": [], 
+   "end": "182.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "mit dramatischen Auswirkungen: "
+   ]
+  }, 
+  {
+   "begin": "182.760", 
+   "children": [], 
+   "end": "187.880", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Nach sieben Jahren B\u00fcrgerkrieg sind mehr als 400\u00a0000\u00a0Tote zu beklagen, "
+   ]
+  }, 
+  {
+   "begin": "187.880", 
+   "children": [], 
+   "end": "190.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Millionen von Menschen sind auf der Flucht, "
+   ]
+  }, 
+  {
+   "begin": "190.240", 
+   "children": [], 
+   "end": "191.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "das Land liegt in Tr\u00fcmmern. "
+   ]
+  }, 
+  {
+   "begin": "191.960", 
+   "children": [], 
+   "end": "195.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "War das im deutschen Interesse? "
+   ]
+  }, 
+  {
+   "begin": "195.080", 
+   "children": [], 
+   "end": "196.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ganz sicher nicht."
+   ]
+  }, 
+  {
+   "begin": "196.640", 
+   "children": [], 
+   "end": "198.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Im Gegenteil: "
+   ]
+  }, 
+  {
+   "begin": "198.120", 
+   "children": [], 
+   "end": "202.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Das Ergebnis dieser verfehlten Politik, "
+   ]
+  }, 
+  {
+   "begin": "202.120", 
+   "children": [], 
+   "end": "204.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "unterst\u00fctzt von der Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "204.520", 
+   "children": [], 
+   "end": "207.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "hat auch unser Land dramatisch ver\u00e4ndert. "
+   ]
+  }, 
+  {
+   "begin": "207.520", 
+   "children": [], 
+   "end": "213.560", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Hunderttausende Syrer sind illegal nach Deutschland gelassen worden, "
+   ]
+  }, 
+  {
+   "begin": "213.560", 
+   "children": [], 
+   "end": "214.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Menschen, "
+   ]
+  }, 
+  {
+   "begin": "214.000", 
+   "children": [], 
+   "end": "220.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "die vorrangig in die von uns aufgebauten und finanzierten Sozialsysteme einwandern, "
+   ]
+  }, 
+  {
+   "begin": "220.080", 
+   "children": [], 
+   "end": "220.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Moslems, "
+   ]
+  }, 
+  {
+   "begin": "220.880", 
+   "children": [], 
+   "end": "221.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die, "
+   ]
+  }, 
+  {
+   "begin": "221.000", 
+   "children": [], 
+   "end": "222.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie hierbleiben, "
+   ]
+  }, 
+  {
+   "begin": "222.720", 
+   "children": [], 
+   "end": "225.760", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "unsere Gesellschaft dramatisch ver\u00e4ndern werden,"
+   ]
+  }, 
+  {
+   "begin": "225.760", 
+   "children": [], 
+   "end": "229.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "weil sie unsere Werte nicht nur ablehnen, "
+   ]
+  }, 
+  {
+   "begin": "229.440", 
+   "children": [], 
+   "end": "232.680", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "sondern zum Teil aktiv bek\u00e4mpfen."
+   ]
+  }, 
+  {
+   "begin": "232.680", 
+   "children": [], 
+   "end": "234.800", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Doch zur\u00fcck zu Syrien. "
+   ]
+  }, 
+  {
+   "begin": "234.800", 
+   "children": [], 
+   "end": "240.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Nach dem Eingreifen der Russen wird Assad wohl bleiben. "
+   ]
+  }, 
+  {
+   "begin": "240.160", 
+   "children": [], 
+   "end": "241.200", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Der B\u00fcrgerkrieg, "
+   ]
+  }, 
+  {
+   "begin": "241.200", 
+   "children": [], 
+   "end": "242.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "so dramatisch er bisweilen noch verl\u00e4uft, "
+   ]
+  }, 
+  {
+   "begin": "242.800", 
+   "children": [], 
+   "end": "244.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "scheint dem Ende zuzugehen, "
+   ]
+  }, 
+  {
+   "begin": "244.520", 
+   "children": [], 
+   "end": "245.840", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "und es ist an der Zeit, "
+   ]
+  }, 
+  {
+   "begin": "245.840", 
+   "children": [], 
+   "end": "249.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber den Wiederaufbau Syriens nachzudenken. "
+   ]
+  }, 
+  {
+   "begin": "249.680", 
+   "children": [], 
+   "end": "251.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Es macht doch keinen Sinn, "
+   ]
+  }, 
+  {
+   "begin": "251.000", 
+   "children": [], 
+   "end": "255.320", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Assad aus dem Friedensprozess auszuklammern. "
+   ]
+  }, 
+  {
+   "begin": "255.320", 
+   "children": [], 
+   "end": "260.840", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Erfolgreiche Au\u00dfenpolitik muss doch immer auch Realpolitik sein. "
+   ]
+  }, 
+  {
+   "begin": "260.840", 
+   "children": [], 
+   "end": "265.880", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb fordern wir den Bundestag auf, "
+   ]
+  }, 
+  {
+   "begin": "265.880", 
+   "children": [], 
+   "end": "269.720", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die Bundesregierung dazu zu veranlassen, "
+   ]
+  }, 
+  {
+   "begin": "269.720", 
+   "children": [], 
+   "end": "274.880", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "in Verhandlungen mit Syrien \u00fcber die R\u00fcckf\u00fchrung von Syrern nach Syrien einzutreten."
+   ]
+  }, 
+  {
+   "begin": "274.880", 
+   "children": [], 
+   "end": "277.480", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Weil das hier bewusst missverstanden worden ist, "
+   ]
+  }, 
+  {
+   "begin": "277.480", 
+   "children": [], 
+   "end": "278.160", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wiederhole ich: "
+   ]
+  }, 
+  {
+   "begin": "278.160", 
+   "children": [], 
+   "end": "282.280", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um die freiwillige R\u00fcckkehr in sichere R\u00e4ume."
+   ]
+  }, 
+  {
+   "begin": "282.280", 
+   "children": [], 
+   "end": "288.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Dann kann es auch die in den letzten Wochen intensiv diskutierte Familienzusammenf\u00fchrung geben, "
+   ]
+  }, 
+  {
+   "begin": "288.360", 
+   "children": [], 
+   "end": "290.480", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die wir als AfD nat\u00fcrlich bef\u00fcrworten, "
+   ]
+  }, 
+  {
+   "begin": "290.480", 
+   "children": [], 
+   "end": "293.480", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "aber bitte im Heimatland und nicht in Deutschland."
+   ]
+  }, 
+  {
+   "begin": "293.480", 
+   "children": [], 
+   "end": "295.480", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re im deutschen Interesse."
+   ]
+  }, 
+  {
+   "begin": "295.480", 
+   "children": [], 
+   "end": "298.680", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Blicken wir auf die T\u00fcrkei. "
+   ]
+  }, 
+  {
+   "begin": "298.680", 
+   "children": [], 
+   "end": "309.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Das Vorgehen der T\u00fcrkei gegen die kurdischen Milizen auf syrischem Hoheitsgebiet ist v\u00f6lkerrechtswidrig. "
+   ]
+  }, 
+  {
+   "begin": "309.000", 
+   "children": [], 
+   "end": "314.000", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Die angebliche Selbstverteidigung wird doch obsolet, "
+   ]
+  }, 
+  {
+   "begin": "314.000", 
+   "children": [], 
+   "end": "315.880", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "wenn die t\u00fcrkische Regierung ank\u00fcndigt, "
+   ]
+  }, 
+  {
+   "begin": "315.880", 
+   "children": [], 
+   "end": "318.520", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Afrin belagern zu wollen. "
+   ]
+  }, 
+  {
+   "begin": "318.520", 
+   "children": [], 
+   "end": "320.760", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Die deutsche Reaktion hierauf? "
+   ]
+  }, 
+  {
+   "begin": "320.760", 
+   "children": [], 
+   "end": "322.120", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Fehlanzeige, "
+   ]
+  }, 
+  {
+   "begin": "322.120", 
+   "children": [], 
+   "end": "325.440", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "obwohl das doch zu erwarten gewesen w\u00e4re."
+   ]
+  }, 
+  {
+   "begin": "325.440", 
+   "children": [], 
+   "end": "327.960", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Erinnern wir uns an die Krim. "
+   ]
+  }, 
+  {
+   "begin": "327.960", 
+   "children": [], 
+   "end": "334.720", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland ist Wortf\u00fchrer bei den Sanktionen gegen Russland wegen v\u00f6lkerrechtswidrigen Vorgehens, "
+   ]
+  }, 
+  {
+   "begin": "334.720", 
+   "children": [], 
+   "end": "337.880", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "obwohl das gar nicht im deutschen Interesse liegt. "
+   ]
+  }, 
+  {
+   "begin": "337.880", 
+   "children": [], 
+   "end": "340.120", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Der Ost-Ausschuss der Deutschen Wirtschaft sch\u00e4tzt, "
+   ]
+  }, 
+  {
+   "begin": "340.120", 
+   "children": [], 
+   "end": "345.840", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "dass ungef\u00e4hr 150\u00a0000\u00a0Arbeitspl\u00e4tze durch die Russland-Sanktionen verloren gegangen sind."
+   ]
+  }, 
+  {
+   "begin": "345.840", 
+   "children": [], 
+   "end": "349.600", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen ein Ende der Entspannungspolitik in Europa feststellen; "
+   ]
+  }, 
+  {
+   "begin": "349.600", 
+   "children": [], 
+   "end": "351.880", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "das hat die Bundesregierung in Kauf genommen. "
+   ]
+  }, 
+  {
+   "begin": "351.880", 
+   "children": [], 
+   "end": "358.960", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Warum schweigt sie denn zu den Vorkommnissen in der T\u00fcrkei? "
+   ]
+  }, 
+  {
+   "begin": "358.960", 
+   "children": [], 
+   "end": "360.160", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Ist das Fl\u00fcchtlingsabkommen, "
+   ]
+  }, 
+  {
+   "begin": "360.160", 
+   "children": [], 
+   "end": "363.800", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "das man mit dem Pr\u00e4sidenten Erdogan geschlossen hat, "
+   ]
+  }, 
+  {
+   "begin": "363.800", 
+   "children": [], 
+   "end": "364.720", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "und die damit verbundene Angst, "
+   ]
+  }, 
+  {
+   "begin": "364.720", 
+   "children": [], 
+   "end": "371.520", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "dass die T\u00fcrkei wieder Hunderttausende Fl\u00fcchtlinge \u00fcber die Balkanroute auf den Weg nach Europa schicken w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "371.520", 
+   "children": [], 
+   "end": "373.920", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "die wir an unseren Grenzen nicht aufhalten k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "373.920", 
+   "children": [], 
+   "end": "376.040", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6glicherweise der Grund? "
+   ]
+  }, 
+  {
+   "begin": "376.040", 
+   "children": [], 
+   "end": "377.400", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben damals schon gesagt: "
+   ]
+  }, 
+  {
+   "begin": "377.400", 
+   "children": [], 
+   "end": "380.160", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Abkommen ist ein fundamentaler Fehler; "
+   ]
+  }, 
+  {
+   "begin": "380.160", 
+   "children": [], 
+   "end": "383.440", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "denn es begr\u00fcndet eine Abh\u00e4ngigkeit von der T\u00fcrkei. "
+   ]
+  }, 
+  {
+   "begin": "383.440", 
+   "children": [], 
+   "end": "386.360", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Auch hier haben wir offensichtlich recht behalten."
+   ]
+  }, 
+  {
+   "begin": "386.360", 
+   "children": [], 
+   "end": "390.760", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Daher unser Appell an die Bundesregierung: "
+   ]
+  }, 
+  {
+   "begin": "390.760", 
+   "children": [], 
+   "end": "393.160", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie sich nicht unter Druck setzen! "
+   ]
+  }, 
+  {
+   "begin": "393.160", 
+   "children": [], 
+   "end": "399.240", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Wenn der t\u00fcrkische Pr\u00e4sident tats\u00e4chlich wieder die Balkanroute f\u00fcr Fl\u00fcchtlinge aktivieren sollte, "
+   ]
+  }, 
+  {
+   "begin": "399.240", 
+   "children": [], 
+   "end": "399.880", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "dann tun Sie das, "
+   ]
+  }, 
+  {
+   "begin": "399.880", 
+   "children": [], 
+   "end": "401.520", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "was l\u00e4ngst \u00fcberf\u00e4llig ist: "
+   ]
+  }, 
+  {
+   "begin": "401.520", 
+   "children": [], 
+   "end": "405.040", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Stellen Sie die Kontrollen \u00fcber die deutschen Grenzen wieder her!"
+   ]
+  }, 
+  {
+   "begin": "405.040", 
+   "children": [], 
+   "end": "408.440", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Diese beiden Beispiele zeigen, "
+   ]
+  }, 
+  {
+   "begin": "408.440", 
+   "children": [], 
+   "end": "416.560", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "dass das Fazit der bisherigen deutschen Au\u00dfenpolitik im Nahen und Mittleren Osten mehr als ern\u00fcchternd ist. "
+   ]
+  }, 
+  {
+   "begin": "416.560", 
+   "children": [], 
+   "end": "423.240", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Jahre nach dem einst gefeierten Arabischen Fr\u00fchling ist die Region instabil wie nie zuvor. "
+   ]
+  }, 
+  {
+   "begin": "423.240", 
+   "children": [], 
+   "end": "426.320", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Die Unterst\u00fctzung von Revolutionsbewegungen, "
+   ]
+  }, 
+  {
+   "begin": "426.320", 
+   "children": [], 
+   "end": "428.480", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "die nie demokratisch gesinnt waren, "
+   ]
+  }, 
+  {
+   "begin": "428.480", 
+   "children": [], 
+   "end": "431.520", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "hat unz\u00e4hlige Tote gefordert. "
+   ]
+  }, 
+  {
+   "begin": "431.520", 
+   "children": [], 
+   "end": "435.280", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Die Sicherheitslage in Europa hat sich dadurch eklatant verschlechtert. "
+   ]
+  }, 
+  {
+   "begin": "435.280", 
+   "children": [], 
+   "end": "438.200", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung ist offensichtlich eher bereit, "
+   ]
+  }, 
+  {
+   "begin": "438.200", 
+   "children": [], 
+   "end": "440.280", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Konflikte nach Deutschland zu importieren, "
+   ]
+  }, 
+  {
+   "begin": "440.280", 
+   "children": [], 
+   "end": "445.040", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "als diese Themen in der Region anzugehen und zu l\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "445.040", 
+   "children": [], 
+   "end": "448.120", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "So kann das nicht weitergehen. "
+   ]
+  }, 
+  {
+   "begin": "448.120", 
+   "children": [], 
+   "end": "450.480", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen auch hier einen Neuanfang. "
+   ]
+  }, 
+  {
+   "begin": "450.480", 
+   "children": [], 
+   "end": "452.760", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine Au\u00dfenpolitik, "
+   ]
+  }, 
+  {
+   "begin": "452.760", 
+   "children": [], 
+   "end": "462.280", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "die wieder deutsche Interessen in den Mittelpunkt stellt und diese Interessen glaubw\u00fcrdig und nachhaltig verfolgt."
+   ]
+  }, 
+  {
+   "begin": "462.280", 
+   "children": [], 
+   "end": "466.160", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "Jedes andere Land der Welt verfolgt seine eigenen Ziele. "
+   ]
+  }, 
+  {
+   "begin": "466.160", 
+   "children": [], 
+   "end": "468.400", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir das nicht mehr tun, "
+   ]
+  }, 
+  {
+   "begin": "468.400", 
+   "children": [], 
+   "end": "474.160", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "werden zun\u00e4chst deutsche Interessen bedeutungslos und eines Tages auch wir selbst. "
+   ]
+  }, 
+  {
+   "begin": "474.160", 
+   "children": [], 
+   "end": "476.640", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Das werden wir als AfD nicht zulassen. "
+   ]
+  }, 
+  {
+   "begin": "476.640", 
+   "children": [], 
+   "end": "478.560", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Dem werden wir uns vehement entgegenstellen."
+   ]
+  }, 
+  {
+   "begin": "478.560", 
+   "children": [], 
+   "end": "479.520", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "479.520", 
+   "children": [], 
+   "end": "479.880", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "479.880", 
+   "children": [], 
+   "end": "484.560", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Herr Dr.\u00a0Hartwig.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "484.560", 
+   "children": [], 
+   "end": "487.000", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die Freien Demokraten der Kollege Bijan Djir-Sarai."
+   ]
+  }
+ ]
+}

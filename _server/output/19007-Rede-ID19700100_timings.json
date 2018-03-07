@@ -1,0 +1,2204 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.200", 
+   "children": [], 
+   "end": "12.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "children": [], 
+   "end": "16.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDas Schicksal in unserer Hand\u201c, "
+   ]
+  }, 
+  {
+   "begin": "16.400", 
+   "children": [], 
+   "end": "24.240", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "so titelte \u201eDer Spiegel\u201c zum Jahresbeginn, "
+   ]
+  }, 
+  {
+   "begin": "24.240", 
+   "children": [], 
+   "end": "30.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "also in der Zeit der guten Vors\u00e4tze. "
+   ]
+  }, 
+  {
+   "begin": "30.640", 
+   "children": [], 
+   "end": "43.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sage und schreibe 81\u00a0Prozent aller Deutschen schw\u00f6ren Silvester allem Ungesunden ab: "
+   ]
+  }, 
+  {
+   "begin": "43.280", 
+   "children": [], 
+   "end": "44.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Zigaretten, "
+   ]
+  }, 
+  {
+   "begin": "44.200", 
+   "children": [], 
+   "end": "45.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "zu viel Alkohol, "
+   ]
+  }, 
+  {
+   "begin": "45.480", 
+   "children": [], 
+   "end": "47.000", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "zu wenig Sport. "
+   ]
+  }, 
+  {
+   "begin": "47.000", 
+   "children": [], 
+   "end": "48.600", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind bester Absicht, "
+   ]
+  }, 
+  {
+   "begin": "48.600", 
+   "children": [], 
+   "end": "50.280", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "ges\u00fcnder zu leben. "
+   ]
+  }, 
+  {
+   "begin": "50.280", 
+   "children": [], 
+   "end": "52.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Diese Vors\u00e4tze halten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "52.200", 
+   "children": [], 
+   "end": "53.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "einen Tag, "
+   ]
+  }, 
+  {
+   "begin": "53.440", 
+   "children": [], 
+   "end": "54.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "eine Woche? "
+   ]
+  }, 
+  {
+   "begin": "54.800", 
+   "children": [], 
+   "end": "56.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr den Rest des Jahres gilt: "
+   ]
+  }, 
+  {
+   "begin": "56.840", 
+   "children": [], 
+   "end": "57.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Stress, "
+   ]
+  }, 
+  {
+   "begin": "57.240", 
+   "children": [], 
+   "end": "58.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "wenig Sport, "
+   ]
+  }, 
+  {
+   "begin": "58.240", 
+   "children": [], 
+   "end": "59.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "viele Kalorien. "
+   ]
+  }, 
+  {
+   "begin": "59.240", 
+   "children": [], 
+   "end": "61.200", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Diese Mischung macht dick. "
+   ]
+  }, 
+  {
+   "begin": "61.200", 
+   "children": [], 
+   "end": "62.560", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Und wer ist schuld? "
+   ]
+  }, 
+  {
+   "begin": "62.560", 
+   "children": [], 
+   "end": "63.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Die Gene, "
+   ]
+  }, 
+  {
+   "begin": "63.360", 
+   "children": [], 
+   "end": "64.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die Industrie, "
+   ]
+  }, 
+  {
+   "begin": "64.560", 
+   "children": [], 
+   "end": "67.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "der Terminkalender und nat\u00fcrlich die Politik."
+   ]
+  }, 
+  {
+   "begin": "67.320", 
+   "children": [], 
+   "end": "69.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Und nun \u201eDer Spiegel\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "69.120", 
+   "children": [], 
+   "end": "70.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "70.400", 
+   "children": [], 
+   "end": "76.120", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Den gr\u00f6\u00dften Anteil an seinem\u00a0\u2026 Schicksal hat jeder selbst in der Hand."
+   ]
+  }, 
+  {
+   "begin": "76.120", 
+   "children": [], 
+   "end": "79.360", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Keine bequeme Botschaft zum Jahresbeginn, "
+   ]
+  }, 
+  {
+   "begin": "79.360", 
+   "children": [], 
+   "end": "81.600", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "aber wissenschaftlich belegt. "
+   ]
+  }, 
+  {
+   "begin": "81.600", 
+   "children": [], 
+   "end": "87.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Gesundheit wird nur zu 20\u00a0Prozent allein durch Gene bestimmt. "
+   ]
+  }, 
+  {
+   "begin": "87.040", 
+   "children": [], 
+   "end": "89.880", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Auf diese k\u00f6nnen wir keinen Einfluss nehmen, "
+   ]
+  }, 
+  {
+   "begin": "89.880", 
+   "children": [], 
+   "end": "92.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "auf den gro\u00dfen Rest schon."
+   ]
+  }, 
+  {
+   "begin": "92.160", 
+   "children": [], 
+   "end": "95.040", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das Schl\u00fcsselwort hei\u00dft Epigenetik. "
+   ]
+  }, 
+  {
+   "begin": "95.040", 
+   "children": [], 
+   "end": "96.280", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die Forschung belegt, "
+   ]
+  }, 
+  {
+   "begin": "96.280", 
+   "children": [], 
+   "end": "98.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "was wir allzu gerne verdr\u00e4ngen: "
+   ]
+  }, 
+  {
+   "begin": "98.280", 
+   "children": [], 
+   "end": "99.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Mit Ern\u00e4hrung, "
+   ]
+  }, 
+  {
+   "begin": "99.400", 
+   "children": [], 
+   "end": "100.520", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Lebensstil, "
+   ]
+  }, 
+  {
+   "begin": "100.520", 
+   "children": [], 
+   "end": "103.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Umweltfaktoren k\u00f6nnen wir Mechanismen beeinflussen, "
+   ]
+  }, 
+  {
+   "begin": "103.520", 
+   "children": [], 
+   "end": "104.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die unsere Gene ein- "
+   ]
+  }, 
+  {
+   "begin": "104.720", 
+   "children": [], 
+   "end": "106.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "und ausschalten, "
+   ]
+  }, 
+  {
+   "begin": "106.160", 
+   "children": [], 
+   "end": "108.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und zwar ein Leben lang. "
+   ]
+  }, 
+  {
+   "begin": "108.240", 
+   "children": [], 
+   "end": "110.600", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "So bestimmen wir \u00fcbrigens auch selbst, "
+   ]
+  }, 
+  {
+   "begin": "110.600", 
+   "children": [], 
+   "end": "113.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "ob wir gesund sind oder an \u00dcbergewicht, "
+   ]
+  }, 
+  {
+   "begin": "113.440", 
+   "children": [], 
+   "end": "117.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Diabetes oder Herzinfarkt erkranken."
+   ]
+  }, 
+  {
+   "begin": "117.520", 
+   "children": [], 
+   "end": "118.280", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "118.280", 
+   "children": [], 
+   "end": "120.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wir haben unser Schicksal in der Hand, "
+   ]
+  }, 
+  {
+   "begin": "120.520", 
+   "children": [], 
+   "end": "121.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "jeden Tag: "
+   ]
+  }, 
+  {
+   "begin": "121.640", 
+   "children": [], 
+   "end": "122.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "beim Einkauf, "
+   ]
+  }, 
+  {
+   "begin": "122.640", 
+   "children": [], 
+   "end": "124.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "in der Kantine, "
+   ]
+  }, 
+  {
+   "begin": "124.120", 
+   "children": [], 
+   "end": "125.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "bei der Entscheidung, "
+   ]
+  }, 
+  {
+   "begin": "125.160", 
+   "children": [], 
+   "end": "127.840", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "zu joggen oder eine Zigarette anzuz\u00fcnden. "
+   ]
+  }, 
+  {
+   "begin": "127.840", 
+   "children": [], 
+   "end": "131.920", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Damit beeinflussen wir \u00fcbrigens das Leben unserer Kinder. "
+   ]
+  }, 
+  {
+   "begin": "131.920", 
+   "children": [], 
+   "end": "136.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "In den ersten 1\u00a0000\u00a0Tagen werden Weichen f\u00fcr das sp\u00e4tere Leben gestellt. "
+   ]
+  }, 
+  {
+   "begin": "136.120", 
+   "children": [], 
+   "end": "137.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Fehlern\u00e4hrung, "
+   ]
+  }, 
+  {
+   "begin": "137.320", 
+   "children": [], 
+   "end": "141.280", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Alkohol in der Schwangerschaft gef\u00e4hrden das Kind."
+   ]
+  }, 
+  {
+   "begin": "141.280", 
+   "children": [], 
+   "end": "144.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Die Ern\u00e4hrung ist ein zentraler Schl\u00fcssel. "
+   ]
+  }, 
+  {
+   "begin": "144.680", 
+   "children": [], 
+   "end": "147.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Die Auswahl ist gigantisch. "
+   ]
+  }, 
+  {
+   "begin": "147.120", 
+   "children": [], 
+   "end": "154.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Aus rund 170\u00a0000 Lebensmitteln k\u00f6nnen Verbraucher heute ihren Speiseplan zusammenstellen, "
+   ]
+  }, 
+  {
+   "begin": "154.120", 
+   "children": [], 
+   "end": "155.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "und zwar bezahlbar. "
+   ]
+  }, 
+  {
+   "begin": "155.640", 
+   "children": [], 
+   "end": "159.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Heute Abend wird die Internationale Gr\u00fcne Woche in Berlin er\u00f6ffnet. "
+   ]
+  }, 
+  {
+   "begin": "159.840", 
+   "children": [], 
+   "end": "161.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist ein Schaufenster, "
+   ]
+  }, 
+  {
+   "begin": "161.680", 
+   "children": [], 
+   "end": "162.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "was unsere Landwirte, "
+   ]
+  }, 
+  {
+   "begin": "162.960", 
+   "children": [], 
+   "end": "163.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "G\u00e4rtner, "
+   ]
+  }, 
+  {
+   "begin": "163.600", 
+   "children": [], 
+   "end": "164.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Fischer, "
+   ]
+  }, 
+  {
+   "begin": "164.480", 
+   "children": [], 
+   "end": "164.920", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "B\u00e4cker, "
+   ]
+  }, 
+  {
+   "begin": "164.920", 
+   "children": [], 
+   "end": "165.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Fleischer, "
+   ]
+  }, 
+  {
+   "begin": "165.440", 
+   "children": [], 
+   "end": "168.080", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Hersteller und H\u00e4ndler jeden Tag leisten. "
+   ]
+  }, 
+  {
+   "begin": "168.080", 
+   "children": [], 
+   "end": "169.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr unsere Fraktion, "
+   ]
+  }, 
+  {
+   "begin": "169.360", 
+   "children": [], 
+   "end": "170.400", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die CDU/CSU, "
+   ]
+  }, 
+  {
+   "begin": "170.400", 
+   "children": [], 
+   "end": "171.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "sage ich an dieser Stelle: "
+   ]
+  }, 
+  {
+   "begin": "171.760", 
+   "children": [], 
+   "end": "174.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Respekt und Dank f\u00fcr diese Leistungen."
+   ]
+  }, 
+  {
+   "begin": "174.960", 
+   "children": [], 
+   "end": "179.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Aber Vielfalt bedeutet auch Herausforderung. "
+   ]
+  }, 
+  {
+   "begin": "179.680", 
+   "children": [], 
+   "end": "182.880", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Was ist die richtige Wahl f\u00fcr mich? "
+   ]
+  }, 
+  {
+   "begin": "182.880", 
+   "children": [], 
+   "end": "185.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wie viel von was? "
+   ]
+  }, 
+  {
+   "begin": "185.400", 
+   "children": [], 
+   "end": "188.080", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Die Ern\u00e4hrung hat jede Leichtigkeit verloren. "
+   ]
+  }, 
+  {
+   "begin": "188.080", 
+   "children": [], 
+   "end": "190.040", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wir erleben Fanatismus, "
+   ]
+  }, 
+  {
+   "begin": "190.040", 
+   "children": [], 
+   "end": "191.240", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Verunsicherung, "
+   ]
+  }, 
+  {
+   "begin": "191.240", 
+   "children": [], 
+   "end": "193.040", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Gleichg\u00fcltigkeit. "
+   ]
+  }, 
+  {
+   "begin": "193.040", 
+   "children": [], 
+   "end": "195.640", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Jeder zweite Erwachsene ist \u00fcbergewichtig. "
+   ]
+  }, 
+  {
+   "begin": "195.640", 
+   "children": [], 
+   "end": "197.680", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig nehmen Mangel- "
+   ]
+  }, 
+  {
+   "begin": "197.680", 
+   "children": [], 
+   "end": "198.920", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "und Fehlern\u00e4hrungen zu, "
+   ]
+  }, 
+  {
+   "begin": "198.920", 
+   "children": [], 
+   "end": "201.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "vor allem im Alter. "
+   ]
+  }, 
+  {
+   "begin": "201.120", 
+   "children": [], 
+   "end": "204.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Dadurch steigen Risiken f\u00fcr Diabetes, "
+   ]
+  }, 
+  {
+   "begin": "204.000", 
+   "children": [], 
+   "end": "206.200", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Schlaganfall oder Muskelschwund. "
+   ]
+  }, 
+  {
+   "begin": "206.200", 
+   "children": [], 
+   "end": "208.480", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Der pers\u00f6nliche Leidensdruck ist gro\u00df, "
+   ]
+  }, 
+  {
+   "begin": "208.480", 
+   "children": [], 
+   "end": "210.440", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die Kosten explodieren, "
+   ]
+  }, 
+  {
+   "begin": "210.440", 
+   "children": [], 
+   "end": "213.440", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "die Gesundheitszeitbombe tickt. "
+   ]
+  }, 
+  {
+   "begin": "213.440", 
+   "children": [], 
+   "end": "215.280", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle sind gefordert, "
+   ]
+  }, 
+  {
+   "begin": "215.280", 
+   "children": [], 
+   "end": "216.720", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren: "
+   ]
+  }, 
+  {
+   "begin": "216.720", 
+   "children": [], 
+   "end": "218.200", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "jeder Einzelne von uns, "
+   ]
+  }, 
+  {
+   "begin": "218.200", 
+   "children": [], 
+   "end": "219.600", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "die Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "219.600", 
+   "children": [], 
+   "end": "222.960", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "die Wirtschaft und die Politik."
+   ]
+  }, 
+  {
+   "begin": "222.960", 
+   "children": [], 
+   "end": "226.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt mehrere Optionen oder auch Denkschulen. "
+   ]
+  }, 
+  {
+   "begin": "226.360", 
+   "children": [], 
+   "end": "228.840", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Ern\u00e4hrung per Gesetz w\u00e4re die eine. "
+   ]
+  }, 
+  {
+   "begin": "228.840", 
+   "children": [], 
+   "end": "232.080", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Der Staat lenkt die B\u00fcrger bei der Entscheidung, "
+   ]
+  }, 
+  {
+   "begin": "232.080", 
+   "children": [], 
+   "end": "232.720", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "was sie essen, "
+   ]
+  }, 
+  {
+   "begin": "232.720", 
+   "children": [], 
+   "end": "234.040", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "durch Verbote, "
+   ]
+  }, 
+  {
+   "begin": "234.040", 
+   "children": [], 
+   "end": "235.280", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Strafsteuern, "
+   ]
+  }, 
+  {
+   "begin": "235.280", 
+   "children": [], 
+   "end": "236.160", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Ampeln. "
+   ]
+  }, 
+  {
+   "begin": "236.160", 
+   "children": [], 
+   "end": "239.440", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Mal alle Bedenken zur Seite geschoben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "239.440", 
+   "children": [], 
+   "end": "245.080", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "von der Bevormundung des Verbrauchers bis zu Fragen der unternehmerischen Freiheit\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "245.080", 
+   "children": [], 
+   "end": "247.160", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Was soll besteuert werden, "
+   ]
+  }, 
+  {
+   "begin": "247.160", 
+   "children": [], 
+   "end": "249.320", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "was verboten? "
+   ]
+  }, 
+  {
+   "begin": "249.320", 
+   "children": [], 
+   "end": "250.520", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Baguette ja, "
+   ]
+  }, 
+  {
+   "begin": "250.520", 
+   "children": [], 
+   "end": "252.160", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Vollkornbrot nein. "
+   ]
+  }, 
+  {
+   "begin": "252.160", 
+   "children": [], 
+   "end": "253.200", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Zucker ja, "
+   ]
+  }, 
+  {
+   "begin": "253.200", 
+   "children": [], 
+   "end": "255.000", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "S\u00fc\u00dfstoff nein. "
+   ]
+  }, 
+  {
+   "begin": "255.000", 
+   "children": [], 
+   "end": "257.000", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Die entscheidende Frage ist doch am Ende: "
+   ]
+  }, 
+  {
+   "begin": "257.000", 
+   "children": [], 
+   "end": "259.680", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Was ist eigentlich gesund?"
+   ]
+  }, 
+  {
+   "begin": "259.680", 
+   "children": [], 
+   "end": "261.560", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Ich verstehe jeden Verbraucher, "
+   ]
+  }, 
+  {
+   "begin": "261.560", 
+   "children": [], 
+   "end": "263.760", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "der sich hier einfachere Antworten w\u00fcnscht, "
+   ]
+  }, 
+  {
+   "begin": "263.760", 
+   "children": [], 
+   "end": "265.320", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht auch durch eine Ampel. "
+   ]
+  }, 
+  {
+   "begin": "265.320", 
+   "children": [], 
+   "end": "267.160", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Es w\u00e4re so sch\u00f6n. "
+   ]
+  }, 
+  {
+   "begin": "267.160", 
+   "children": [], 
+   "end": "268.920", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Mir selbst geht es ja nicht anders. "
+   ]
+  }, 
+  {
+   "begin": "268.920", 
+   "children": [], 
+   "end": "270.360", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Aber Fakt ist: "
+   ]
+  }, 
+  {
+   "begin": "270.360", 
+   "children": [], 
+   "end": "274.080", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Diabetes kann nicht wegbesteuert werden. "
+   ]
+  }, 
+  {
+   "begin": "274.080", 
+   "children": [], 
+   "end": "279.520", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Durch Ampeln lassen sich komplexe Sachverhalte und Inhalte nicht darstellen; "
+   ]
+  }, 
+  {
+   "begin": "279.520", 
+   "children": [], 
+   "end": "281.680", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "denn Ern\u00e4hrung ist komplex."
+   ]
+  }, 
+  {
+   "begin": "281.680", 
+   "children": [], 
+   "end": "283.800", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Die erste Nachricht: "
+   ]
+  }, 
+  {
+   "begin": "283.800", 
+   "children": [], 
+   "end": "285.840", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Essen ist keine Krankheit. "
+   ]
+  }, 
+  {
+   "begin": "285.840", 
+   "children": [], 
+   "end": "287.920", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Die zweite Nachricht: "
+   ]
+  }, 
+  {
+   "begin": "287.920", 
+   "children": [], 
+   "end": "289.800", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Jeder Mensch hat andere Bedarfe. "
+   ]
+  }, 
+  {
+   "begin": "289.800", 
+   "children": [], 
+   "end": "291.960", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Kinder brauchen anderes als \u00c4ltere, "
+   ]
+  }, 
+  {
+   "begin": "291.960", 
+   "children": [], 
+   "end": "294.240", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Frauen weniger als M\u00e4nner. "
+   ]
+  }, 
+  {
+   "begin": "294.240", 
+   "children": [], 
+   "end": "298.440", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt keine grunds\u00e4tzlich guten oder schlechten Lebensmittel. "
+   ]
+  }, 
+  {
+   "begin": "298.440", 
+   "children": [], 
+   "end": "301.640", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Und es gibt leider keine Patentrezepte. "
+   ]
+  }, 
+  {
+   "begin": "301.640", 
+   "children": [], 
+   "end": "306.480", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Abnehmen unterliegt nicht den Gesetzen der Politik, "
+   ]
+  }, 
+  {
+   "begin": "306.480", 
+   "children": [], 
+   "end": "308.560", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "sondern am Ende nur der Physik. "
+   ]
+  }, 
+  {
+   "begin": "308.560", 
+   "children": [], 
+   "end": "310.160", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Wer zu viel isst, "
+   ]
+  }, 
+  {
+   "begin": "310.160", 
+   "children": [], 
+   "end": "310.680", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "nimmt zu, "
+   ]
+  }, 
+  {
+   "begin": "310.680", 
+   "children": [], 
+   "end": "312.800", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "egal ob Kartoffelstampf, "
+   ]
+  }, 
+  {
+   "begin": "312.800", 
+   "children": [], 
+   "end": "315.680", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Schokolade oder Dinkelnudeln. "
+   ]
+  }, 
+  {
+   "begin": "315.680", 
+   "children": [], 
+   "end": "318.120", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "So best\u00e4tigt es die Wissenschaft. "
+   ]
+  }, 
+  {
+   "begin": "318.120", 
+   "children": [], 
+   "end": "321.120", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Der Energiebilanz ist es am Ende egal, "
+   ]
+  }, 
+  {
+   "begin": "321.120", 
+   "children": [], 
+   "end": "323.280", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "woher die Kalorien kommen. "
+   ]
+  }, 
+  {
+   "begin": "323.280", 
+   "children": [], 
+   "end": "324.120", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Aber Achtung: "
+   ]
+  }, 
+  {
+   "begin": "324.120", 
+   "children": [], 
+   "end": "325.320", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "nur der. "
+   ]
+  }, 
+  {
+   "begin": "325.320", 
+   "children": [], 
+   "end": "329.440", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Dem K\u00f6rper und der Gesundheit ist es ganz und gar nicht egal. "
+   ]
+  }, 
+  {
+   "begin": "329.440", 
+   "children": [], 
+   "end": "333.320", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Diese brauchen eine ausgewogene Mischung aller N\u00e4hrstoffe."
+   ]
+  }, 
+  {
+   "begin": "333.320", 
+   "children": [], 
+   "end": "336.200", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Leichter gesagt als getan. "
+   ]
+  }, 
+  {
+   "begin": "336.200", 
+   "children": [], 
+   "end": "343.560", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "Trotz unz\u00e4hliger Fernsehsendungen und Ratgeber sind viele Verbraucher heute zutiefst verunsichert, "
+   ]
+  }, 
+  {
+   "begin": "343.560", 
+   "children": [], 
+   "end": "346.120", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "manche auch schlecht informiert. "
+   ]
+  }, 
+  {
+   "begin": "346.120", 
+   "children": [], 
+   "end": "353.520", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "Schon heute kann sich jeder die Zutaten auf der Verpackung ansehen. "
+   ]
+  }, 
+  {
+   "begin": "353.520", 
+   "children": [], 
+   "end": "355.080", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "Aber Hand aufs Herz: "
+   ]
+  }, 
+  {
+   "begin": "355.080", 
+   "children": [], 
+   "end": "356.320", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Wie oft lesen Sie diese? "
+   ]
+  }, 
+  {
+   "begin": "356.320", 
+   "children": [], 
+   "end": "357.320", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "Bewusster essen, "
+   ]
+  }, 
+  {
+   "begin": "357.320", 
+   "children": [], 
+   "end": "358.840", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "mehr Bewegung und Schlaf\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "358.840", 
+   "children": [], 
+   "end": "360.640", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "das klingt verstaubt. "
+   ]
+  }, 
+  {
+   "begin": "360.640", 
+   "children": [], 
+   "end": "362.360", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "Aber wer so lebt, "
+   ]
+  }, 
+  {
+   "begin": "362.360", 
+   "children": [], 
+   "end": "364.480", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "wird gesund \u00e4lter."
+   ]
+  }, 
+  {
+   "begin": "364.480", 
+   "children": [], 
+   "end": "367.560", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "Wie k\u00f6nnen wir das als Politik unterst\u00fctzen? "
+   ]
+  }, 
+  {
+   "begin": "367.560", 
+   "children": [], 
+   "end": "370.720", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "Ver\u00e4nderte Rezepturen k\u00f6nnen helfen. "
+   ]
+  }, 
+  {
+   "begin": "370.720", 
+   "children": [], 
+   "end": "380.000", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb hatten sich CDU/CSU und SPD auch in der letzten Wahlperiode gemeinsam f\u00fcr eine Reduktionsstrategie eingesetzt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "380.000", 
+   "children": [], 
+   "end": "382.800", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "in Kooperation mit Wirtschaft und Handel; "
+   ]
+  }, 
+  {
+   "begin": "382.800", 
+   "children": [], 
+   "end": "384.080", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "denn es geht nur mit ihnen, "
+   ]
+  }, 
+  {
+   "begin": "384.080", 
+   "children": [], 
+   "end": "385.240", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "nicht ohne sie. "
+   ]
+  }, 
+  {
+   "begin": "385.240", 
+   "children": [], 
+   "end": "387.520", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "Innovationen brauchen Zeit. "
+   ]
+  }, 
+  {
+   "begin": "387.520", 
+   "children": [], 
+   "end": "388.280", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "Der B\u00e4cker, "
+   ]
+  }, 
+  {
+   "begin": "388.280", 
+   "children": [], 
+   "end": "393.040", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "der Fleischer k\u00f6nnen dies nicht so leicht schultern wie ein Lebensmittelkonzern. "
+   ]
+  }, 
+  {
+   "begin": "393.040", 
+   "children": [], 
+   "end": "396.880", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "Staatliche Rezepte f\u00fchren zur Verdr\u00e4ngung der kleinen Betriebe, "
+   ]
+  }, 
+  {
+   "begin": "396.880", 
+   "children": [], 
+   "end": "398.800", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht zu mehr Gesundheit."
+   ]
+  }, 
+  {
+   "begin": "398.800", 
+   "children": [], 
+   "end": "401.560", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "Mehr Gesundheit geht nur mit Bildung, "
+   ]
+  }, 
+  {
+   "begin": "401.560", 
+   "children": [], 
+   "end": "402.480", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "Information, "
+   ]
+  }, 
+  {
+   "begin": "402.480", 
+   "children": [], 
+   "end": "403.680", 
+   "id": "s000163", 
+   "language": "deu", 
+   "lines": [
+    "Aufkl\u00e4rung, "
+   ]
+  }, 
+  {
+   "begin": "403.680", 
+   "children": [], 
+   "end": "405.440", 
+   "id": "s000164", 
+   "language": "deu", 
+   "lines": [
+    "und zwar schon f\u00fcr die Kleinsten: "
+   ]
+  }, 
+  {
+   "begin": "405.440", 
+   "children": [], 
+   "end": "406.320", 
+   "id": "s000165", 
+   "language": "deu", 
+   "lines": [
+    "in der Kita, "
+   ]
+  }, 
+  {
+   "begin": "406.320", 
+   "children": [], 
+   "end": "407.400", 
+   "id": "s000166", 
+   "language": "deu", 
+   "lines": [
+    "in der Schule. "
+   ]
+  }, 
+  {
+   "begin": "407.400", 
+   "children": [], 
+   "end": "411.000", 
+   "id": "s000167", 
+   "language": "deu", 
+   "lines": [
+    "Wir setzen deshalb auf Verhaltenspr\u00e4vention. "
+   ]
+  }, 
+  {
+   "begin": "411.000", 
+   "children": [], 
+   "end": "412.680", 
+   "id": "s000168", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen wissen wir: "
+   ]
+  }, 
+  {
+   "begin": "412.680", 
+   "children": [], 
+   "end": "416.480", 
+   "id": "s000169", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen dringend Ern\u00e4hrungsbildung. "
+   ]
+  }, 
+  {
+   "begin": "416.480", 
+   "children": [], 
+   "end": "423.920", 
+   "id": "s000170", 
+   "language": "deu", 
+   "lines": [
+    "Ern\u00e4hrungsbildung muss zuk\u00fcnftig in die Kitas und Schulen geh\u00f6ren wie die K\u00fcchen und Fachkr\u00e4fte."
+   ]
+  }, 
+  {
+   "begin": "423.920", 
+   "children": [], 
+   "end": "428.360", 
+   "id": "s000171", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen gesunde Angebote\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "428.360", 
+   "children": [], 
+   "end": "431.440", 
+   "id": "s000172", 
+   "language": "deu", 
+   "lines": [
+    "dazu geh\u00f6ren \u00fcbrigens Wasserspender in jeder Schule; "
+   ]
+  }, 
+  {
+   "begin": "431.440", 
+   "children": [], 
+   "end": "433.720", 
+   "id": "s000173", 
+   "language": "deu", 
+   "lines": [
+    "sie sollten eine Selbstverst\u00e4ndlichkeit sein\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "433.720", 
+   "children": [], 
+   "end": "438.240", 
+   "id": "s000174", 
+   "language": "deu", 
+   "lines": [
+    "verbindliche Qualit\u00e4tsstandards bei der Gemeinschaftsverpflegung in Kinderg\u00e4rten, "
+   ]
+  }, 
+  {
+   "begin": "438.240", 
+   "children": [], 
+   "end": "438.760", 
+   "id": "s000175", 
+   "language": "deu", 
+   "lines": [
+    "Schulen, "
+   ]
+  }, 
+  {
+   "begin": "438.760", 
+   "children": [], 
+   "end": "440.320", 
+   "id": "s000176", 
+   "language": "deu", 
+   "lines": [
+    "Kantinen und Alten- "
+   ]
+  }, 
+  {
+   "begin": "440.320", 
+   "children": [], 
+   "end": "441.320", 
+   "id": "s000177", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeheimen; "
+   ]
+  }, 
+  {
+   "begin": "441.320", 
+   "children": [], 
+   "end": "444.040", 
+   "id": "s000178", 
+   "language": "deu", 
+   "lines": [
+    "denn dort essen inzwischen die meisten Menschen. "
+   ]
+  }, 
+  {
+   "begin": "444.040", 
+   "children": [], 
+   "end": "446.440", 
+   "id": "s000179", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen ein offeneres Auge, "
+   ]
+  }, 
+  {
+   "begin": "446.440", 
+   "children": [], 
+   "end": "448.200", 
+   "id": "s000180", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel bei \u00c4lteren, "
+   ]
+  }, 
+  {
+   "begin": "448.200", 
+   "children": [], 
+   "end": "451.040", 
+   "id": "s000181", 
+   "language": "deu", 
+   "lines": [
+    "indem ihr Ern\u00e4hrungsstatus\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "451.040", 
+   "children": [], 
+   "end": "452.680", 
+   "id": "s000182", 
+   "language": "deu", 
+   "lines": [
+    "sie haben h\u00e4ufig mit Mangel- "
+   ]
+  }, 
+  {
+   "begin": "452.680", 
+   "children": [], 
+   "end": "454.160", 
+   "id": "s000183", 
+   "language": "deu", 
+   "lines": [
+    "und Fehlern\u00e4hrung zu tun\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "454.160", 
+   "children": [], 
+   "end": "458.320", 
+   "id": "s000184", 
+   "language": "deu", 
+   "lines": [
+    "durch ein regelm\u00e4\u00dfiges Ern\u00e4hrungsscreening erfasst wird."
+   ]
+  }, 
+  {
+   "begin": "458.320", 
+   "children": [], 
+   "end": "462.520", 
+   "id": "s000185", 
+   "language": "deu", 
+   "lines": [
+    "Bestehende Kennzeichnungsl\u00fccken m\u00fcssen wir schlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "462.520", 
+   "children": [], 
+   "end": "464.800", 
+   "id": "s000186", 
+   "language": "deu", 
+   "lines": [
+    "Wir setzen uns deshalb daf\u00fcr ein, "
+   ]
+  }, 
+  {
+   "begin": "464.800", 
+   "children": [], 
+   "end": "473.080", 
+   "id": "s000187", 
+   "language": "deu", 
+   "lines": [
+    "dass Lebensmittel mit tierischen Produkten entsprechend gekennzeichnet werden; "
+   ]
+  }, 
+  {
+   "begin": "473.080", 
+   "children": [], 
+   "end": "473.920", 
+   "id": "s000188", 
+   "language": "deu", 
+   "lines": [
+    "denn es ist wichtig, "
+   ]
+  }, 
+  {
+   "begin": "473.920", 
+   "children": [], 
+   "end": "475.680", 
+   "id": "s000189", 
+   "language": "deu", 
+   "lines": [
+    "dass der Verbraucher wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "475.680", 
+   "children": [], 
+   "end": "479.080", 
+   "id": "s000190", 
+   "language": "deu", 
+   "lines": [
+    "woher diese tierischen Produkte kommen."
+   ]
+  }, 
+  {
+   "begin": "479.080", 
+   "children": [], 
+   "end": "481.240", 
+   "id": "s000191", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen das Stillen f\u00f6rdern, "
+   ]
+  }, 
+  {
+   "begin": "481.240", 
+   "children": [], 
+   "end": "484.120", 
+   "id": "s000192", 
+   "language": "deu", 
+   "lines": [
+    "wir brauchen Ern\u00e4hrungsberatung in der Schwangerschaft, "
+   ]
+  }, 
+  {
+   "begin": "484.120", 
+   "children": [], 
+   "end": "487.480", 
+   "id": "s000193", 
+   "language": "deu", 
+   "lines": [
+    "und wir brauchen mehr Bewegung, "
+   ]
+  }, 
+  {
+   "begin": "487.480", 
+   "children": [], 
+   "end": "490.000", 
+   "id": "s000194", 
+   "language": "deu", 
+   "lines": [
+    "von der Kita bis zum Altenheim. "
+   ]
+  }, 
+  {
+   "begin": "490.000", 
+   "children": [], 
+   "end": "491.440", 
+   "id": "s000195", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen mehr Schlaf, "
+   ]
+  }, 
+  {
+   "begin": "491.440", 
+   "children": [], 
+   "end": "493.560", 
+   "id": "s000196", 
+   "language": "deu", 
+   "lines": [
+    "wir brauchen keinen Stress."
+   ]
+  }, 
+  {
+   "begin": "493.560", 
+   "children": [], 
+   "end": "494.880", 
+   "id": "s000197", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "494.880", 
+   "children": [], 
+   "end": "496.880", 
+   "id": "s000198", 
+   "language": "deu", 
+   "lines": [
+    "am Ende ist es ein Gesamtpaket. "
+   ]
+  }, 
+  {
+   "begin": "496.880", 
+   "children": [], 
+   "end": "497.520", 
+   "id": "s000199", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "497.520", 
+   "children": [], 
+   "end": "498.920", 
+   "id": "s000200", 
+   "language": "deu", 
+   "lines": [
+    "jeder von Ihnen wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "498.920", 
+   "children": [], 
+   "end": "501.800", 
+   "id": "s000201", 
+   "language": "deu", 
+   "lines": [
+    "was er am Ende zu tun h\u00e4tte, "
+   ]
+  }, 
+  {
+   "begin": "501.800", 
+   "children": [], 
+   "end": "504.400", 
+   "id": "s000202", 
+   "language": "deu", 
+   "lines": [
+    "aber tut es dann doch nicht. "
+   ]
+  }, 
+  {
+   "begin": "504.400", 
+   "children": [], 
+   "end": "506.320", 
+   "id": "s000203", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb m\u00f6chte ich Sie ermutigen. "
+   ]
+  }, 
+  {
+   "begin": "506.320", 
+   "children": [], 
+   "end": "507.840", 
+   "id": "s000204", 
+   "language": "deu", 
+   "lines": [
+    "Jeder hat die Wahl; "
+   ]
+  }, 
+  {
+   "begin": "507.840", 
+   "children": [], 
+   "end": "511.600", 
+   "id": "s000205", 
+   "language": "deu", 
+   "lines": [
+    "der Masterplan f\u00fcr ein gesundes Leben steht fest. "
+   ]
+  }, 
+  {
+   "begin": "511.600", 
+   "children": [], 
+   "end": "514.880", 
+   "id": "s000206", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben das Schicksal in unserer Hand. "
+   ]
+  }, 
+  {
+   "begin": "514.880", 
+   "children": [], 
+   "end": "524.720", 
+   "id": "s000207", 
+   "language": "deu", 
+   "lines": [
+    "Gehen Sie achtsam damit um."
+   ]
+  }, 
+  {
+   "begin": "524.720", 
+   "children": [], 
+   "end": "525.560", 
+   "id": "s000208", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "525.560", 
+   "children": [], 
+   "end": "526.880", 
+   "id": "s000209", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "526.880", 
+   "children": [], 
+   "end": "529.720", 
+   "id": "s000210", 
+   "language": "deu", 
+   "lines": [
+    "Bevor ich der n\u00e4chsten Rednerin das Wort erteile, "
+   ]
+  }, 
+  {
+   "begin": "529.720", 
+   "children": [], 
+   "end": "532.960", 
+   "id": "s000211", 
+   "language": "deu", 
+   "lines": [
+    "habe ich zwei weitere Geburtstage von Kolleginnen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "532.960", 
+   "children": [], 
+   "end": "533.720", 
+   "id": "s000212", 
+   "language": "deu", 
+   "lines": [
+    "beide B\u00fcndnis\u00a090/Die Gr\u00fcnen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "533.720", 
+   "children": [], 
+   "end": "534.120", 
+   "id": "s000213", 
+   "language": "deu", 
+   "lines": [
+    "zu vermelden, "
+   ]
+  }, 
+  {
+   "begin": "534.120", 
+   "children": [], 
+   "end": "536.760", 
+   "id": "s000214", 
+   "language": "deu", 
+   "lines": [
+    "denen ich gerne die Gl\u00fcckw\u00fcnsche des Hauses aussprechen m\u00f6chte: "
+   ]
+  }, 
+  {
+   "begin": "536.760", 
+   "children": [], 
+   "end": "544.040", 
+   "id": "s000215", 
+   "language": "deu", 
+   "lines": [
+    "Kollegin Dr.\u00a0Bettina Hoffmann feiert heute ihren 58.\u00a0Geburtstag, "
+   ]
+  }, 
+  {
+   "begin": "544.040", 
+   "children": [], 
+   "end": "552.720", 
+   "id": "s000216", 
+   "language": "deu", 
+   "lines": [
+    "und die Kollegin Dr.\u00a0Julia Verlinden feiert ihren 39.\u00a0Geburtstag. "
+   ]
+  }, 
+  {
+   "begin": "552.720", 
+   "children": [], 
+   "end": "561.240", 
+   "id": "s000217", 
+   "language": "deu", 
+   "lines": [
+    "Wir gratulieren beiden Kolleginnen herzlich dazu."
+   ]
+  }, 
+  {
+   "begin": "561.240", 
+   "children": [], 
+   "end": "563.640", 
+   "id": "s000218", 
+   "language": "deu", 
+   "lines": [
+    "Falls heute weitere Geburtstagskinder anwesend sein sollten, "
+   ]
+  }, 
+  {
+   "begin": "563.640", 
+   "children": [], 
+   "end": "566.480", 
+   "id": "s000219", 
+   "language": "deu", 
+   "lines": [
+    "bitte ich um Meldung noch vor Schluss der Plenar\u00adsitzung."
+   ]
+  }, 
+  {
+   "begin": "566.480", 
+   "children": [], 
+   "end": "572.000", 
+   "id": "s000220", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat als n\u00e4chste Rednerin die Kollegin Ursula Schulte von der SPD-Fraktion das Wort."
+   ]
+  }
+ ]
+}

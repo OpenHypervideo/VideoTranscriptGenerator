@@ -1,0 +1,744 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.560", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "children": [], 
+   "end": "2.560", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "children": [], 
+   "end": "3.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "children": [], 
+   "end": "5.640", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "5.640", 
+   "children": [], 
+   "end": "9.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Zun\u00e4chst einmal, "
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "children": [], 
+   "end": "11.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Frau Sch\u00fcle, "
+   ]
+  }, 
+  {
+   "begin": "11.280", 
+   "children": [], 
+   "end": "14.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte ich Ihnen f\u00fcr Sonntag viel Gl\u00fcck w\u00fcnschen, "
+   ]
+  }, 
+  {
+   "begin": "14.200", 
+   "children": [], 
+   "end": "19.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "damit wir Sie nicht in zwei Wochen wegen Phantomschmerzen Ihrerseits tr\u00f6sten m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "19.440", 
+   "children": [], 
+   "end": "20.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "20.120", 
+   "children": [], 
+   "end": "24.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "man kann im Deutschen Bundestag schon fast die Uhr danach stellen: "
+   ]
+  }, 
+  {
+   "begin": "24.760", 
+   "children": [], 
+   "end": "30.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Alle Jahre wieder wird hier in diesem Saal \u00fcber die Zukunft des BAf\u00f6G diskutiert."
+   ]
+  }, 
+  {
+   "begin": "30.640", 
+   "children": [], 
+   "end": "34.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Einmal mehr stellen wir auch heute wieder fest, "
+   ]
+  }, 
+  {
+   "begin": "34.680", 
+   "children": [], 
+   "end": "40.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass die Ausbildungsf\u00f6rderung zu wenige Sch\u00fcler und zu wenige Studierende \u00fcberhaupt erreicht. "
+   ]
+  }, 
+  {
+   "begin": "40.640", 
+   "children": [], 
+   "end": "46.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "In gewohnter Manier betonen die Regierungsfraktionen das bereits Erreichte und das noch Geplante, "
+   ]
+  }, 
+  {
+   "begin": "46.920", 
+   "children": [], 
+   "end": "49.800", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "und die linke Seite des Hauses \u00fcberbietet sich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "49.800", 
+   "children": [], 
+   "end": "51.000", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "vermutlich auch heute wieder\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "51.000", 
+   "children": [], 
+   "end": "53.440", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "im Wettlauf um finanzielle Gro\u00dfz\u00fcgigkeit. "
+   ]
+  }, 
+  {
+   "begin": "53.440", 
+   "children": [], 
+   "end": "55.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "So weit also nichts Neues."
+   ]
+  }, 
+  {
+   "begin": "55.040", 
+   "children": [], 
+   "end": "58.760", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Aber was muss sich in der Ausbildungsf\u00f6rderung wirklich \u00e4ndern? "
+   ]
+  }, 
+  {
+   "begin": "58.760", 
+   "children": [], 
+   "end": "64.120", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Betrachten wir doch endlich einmal die Gef\u00f6rderten als eigenst\u00e4ndige Pers\u00f6nlichkeiten,"
+   ]
+  }, 
+  {
+   "begin": "64.120", 
+   "children": [], 
+   "end": "65.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "als junge Erwachsene, "
+   ]
+  }, 
+  {
+   "begin": "65.720", 
+   "children": [], 
+   "end": "74.000", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die durch eigene Leistung vorankommen und mit der Wahl ihrer Ausbildung selbst die Weichen f\u00fcr ihre Zukunft stellen wollen. "
+   ]
+  }, 
+  {
+   "begin": "74.000", 
+   "children": [], 
+   "end": "78.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Betrachten wir sie nicht mehr als blo\u00dfes Anh\u00e4ngsel einer elterlichen Bedarfsgemeinschaft."
+   ]
+  }, 
+  {
+   "begin": "78.560", 
+   "children": [], 
+   "end": "84.080", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Drittel der Studierenden wollen finanziell unabh\u00e4ngig von ihren Eltern sein, "
+   ]
+  }, 
+  {
+   "begin": "84.080", 
+   "children": [], 
+   "end": "86.320", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und jeder Vierte f\u00fcrchtet sogar, "
+   ]
+  }, 
+  {
+   "begin": "86.320", 
+   "children": [], 
+   "end": "90.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die eigenen Eltern mit der Ausbildung finanziell zu \u00fcberfordern. "
+   ]
+  }, 
+  {
+   "begin": "90.520", 
+   "children": [], 
+   "end": "101.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Diese Abh\u00e4ngigkeit von der Unterst\u00fctzungskraft und manchmal auch der Unterst\u00fctzungsbereitschaft der Eltern hemmt viele junge Menschen in der freien Wahl ihrer Ausbildung. "
+   ]
+  }, 
+  {
+   "begin": "101.480", 
+   "children": [], 
+   "end": "105.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Genau deshalb wird es Zeit f\u00fcr ein elternunabh\u00e4ngiges BAf\u00f6G."
+   ]
+  }, 
+  {
+   "begin": "105.520", 
+   "children": [], 
+   "end": "111.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freie Demokraten wollen weltbeste Bildung f\u00fcr jeden, "
+   ]
+  }, 
+  {
+   "begin": "111.640", 
+   "children": [], 
+   "end": "115.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und zwar unabh\u00e4ngig von der sozialen Herkunft. "
+   ]
+  }, 
+  {
+   "begin": "115.080", 
+   "children": [], 
+   "end": "120.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Besonders stark sind die BAf\u00f6G-F\u00f6rderquoten bei bildungsfernen Familien gesunken; "
+   ]
+  }, 
+  {
+   "begin": "120.800", 
+   "children": [], 
+   "end": "122.400", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "das ist ein Alarmsignal."
+   ]
+  }, 
+  {
+   "begin": "122.400", 
+   "children": [], 
+   "end": "130.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Drittel der Studierenden stocken ihren Lebensunterhalt schon heute mit zeitaufwendigen Nebenjobs auf, "
+   ]
+  }, 
+  {
+   "begin": "130.240", 
+   "children": [], 
+   "end": "132.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbrigens gerade diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "132.600", 
+   "children": [], 
+   "end": "135.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die bisher kein BAf\u00f6G erhalten. "
+   ]
+  }, 
+  {
+   "begin": "135.400", 
+   "children": [], 
+   "end": "137.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Zeit fehlt ihnen zum Lernen, "
+   ]
+  }, 
+  {
+   "begin": "137.600", 
+   "children": [], 
+   "end": "141.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "und das verl\u00e4ngert allzu oft die Studiendauer. "
+   ]
+  }, 
+  {
+   "begin": "141.240", 
+   "children": [], 
+   "end": "142.360", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Es wird also Zeit, "
+   ]
+  }, 
+  {
+   "begin": "142.360", 
+   "children": [], 
+   "end": "147.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass sich junge Menschen endlich ganz auf ihre Ausbildung konzentrieren k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "147.000", 
+   "children": [], 
+   "end": "149.160", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Kollege Stefan Kaufmann, "
+   ]
+  }, 
+  {
+   "begin": "149.160", 
+   "children": [], 
+   "end": "155.080", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "deshalb brauchen wir eine automatische j\u00e4hrliche Anpassung der F\u00f6rders\u00e4tze an die allgemeine Preis- "
+   ]
+  }, 
+  {
+   "begin": "155.080", 
+   "children": [], 
+   "end": "156.400", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "und Einkommensentwicklung."
+   ]
+  }, 
+  {
+   "begin": "156.400", 
+   "children": [], 
+   "end": "159.080", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Was bei den Di\u00e4ten m\u00f6glich war, "
+   ]
+  }, 
+  {
+   "begin": "159.080", 
+   "children": [], 
+   "end": "160.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "muss auch beim BAf\u00f6G funktionieren k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "160.960", 
+   "children": [], 
+   "end": "163.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das ist l\u00e4ngst \u00fcberf\u00e4llig."
+   ]
+  }, 
+  {
+   "begin": "163.560", 
+   "children": [], 
+   "end": "166.840", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Individuelle Bildungswege sind keine Standardroute. "
+   ]
+  }, 
+  {
+   "begin": "166.840", 
+   "children": [], 
+   "end": "172.840", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Zu dieser Vielfalt geh\u00f6rt auch die berufliche Bildung als gleichwertige Alternative zum Studium. "
+   ]
+  }, 
+  {
+   "begin": "172.840", 
+   "children": [], 
+   "end": "178.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Auch bei den vielen Berufssch\u00fclern ist die F\u00f6rderquote leider stark r\u00fcckl\u00e4ufig. "
+   ]
+  }, 
+  {
+   "begin": "178.160", 
+   "children": [], 
+   "end": "183.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Bereiten wir also endlich den je nach Art der Ausbildungsst\u00e4tte unterschiedlichen F\u00f6rders\u00e4tzen ein Ende, "
+   ]
+  }, 
+  {
+   "begin": "183.760", 
+   "children": [], 
+   "end": "186.080", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "um die berufliche Bildung zu st\u00e4rken! "
+   ]
+  }, 
+  {
+   "begin": "186.080", 
+   "children": [], 
+   "end": "187.800", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Darauf kommt es an."
+   ]
+  }, 
+  {
+   "begin": "187.800", 
+   "children": [], 
+   "end": "196.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Fast ein Drittel der Studierenden studiert bereits heute de facto in Teilzeit. "
+   ]
+  }, 
+  {
+   "begin": "196.280", 
+   "children": [], 
+   "end": "203.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die starren Strukturen des BAf\u00f6G sollten wir also an die sich ver\u00e4ndernde Lebenswirklichkeit der Menschen anpassen. "
+   ]
+  }, 
+  {
+   "begin": "203.920", 
+   "children": [], 
+   "end": "211.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Es wird Zeit f\u00fcr mehr Flexibilit\u00e4t und eine anteilige F\u00f6rderung von Teilzeitausbildung und Teilzeitstudium, "
+   ]
+  }, 
+  {
+   "begin": "211.520", 
+   "children": [], 
+   "end": "213.240", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "und zwar f\u00fcr alle."
+   ]
+  }, 
+  {
+   "begin": "213.240", 
+   "children": [], 
+   "end": "221.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wie keine andere Fraktion treten wir Freie Demokraten f\u00fcr eine wirklich grundlegende Reform der Ausbildungsf\u00f6rderung ein."
+   ]
+  }, 
+  {
+   "begin": "221.280", 
+   "children": [], 
+   "end": "226.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag der Gr\u00fcnen geht teilweise durchaus in die richtige Richtung. "
+   ]
+  }, 
+  {
+   "begin": "226.080", 
+   "children": [], 
+   "end": "227.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Schade nur, "
+   ]
+  }, 
+  {
+   "begin": "227.640", 
+   "children": [], 
+   "end": "229.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie das Zwei-S\u00e4ulen-Modell, "
+   ]
+  }, 
+  {
+   "begin": "229.880", 
+   "children": [], 
+   "end": "233.600", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "das ja immerhin Elemente einer elternunabh\u00e4ngigen F\u00f6rderung enth\u00e4lt, "
+   ]
+  }, 
+  {
+   "begin": "233.600", 
+   "children": [], 
+   "end": "237.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "nur ganz vorsichtig im letzten Halbsatz Ihres Antrags verstecken."
+   ]
+  }, 
+  {
+   "begin": "237.960", 
+   "children": [], 
+   "end": "239.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Und schade, "
+   ]
+  }, 
+  {
+   "begin": "239.240", 
+   "children": [], 
+   "end": "245.840", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie auch die Teilzeitf\u00f6rderung mit hohem Verwaltungsaufwand auf wenige Gruppen beschr\u00e4nken wollen. "
+   ]
+  }, 
+  {
+   "begin": "245.840", 
+   "children": [], 
+   "end": "247.600", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Das geht auch mutiger. "
+   ]
+  }, 
+  {
+   "begin": "247.600", 
+   "children": [], 
+   "end": "250.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Die Bedarfss\u00e4tze wollen Sie pauschal erh\u00f6hen, "
+   ]
+  }, 
+  {
+   "begin": "250.240", 
+   "children": [], 
+   "end": "255.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "noch bevor die Auswirkungen der letzten Erh\u00f6hung wirklich nachhaltig messbar sind. "
+   ]
+  }, 
+  {
+   "begin": "255.240", 
+   "children": [], 
+   "end": "256.560", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns doch lieber schauen, "
+   ]
+  }, 
+  {
+   "begin": "256.560", 
+   "children": [], 
+   "end": "261.000", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wie wir endlich mehr Menschen in die elternunabh\u00e4ngige F\u00f6rderung bekommen!"
+   ]
+  }, 
+  {
+   "begin": "261.000", 
+   "children": [], 
+   "end": "264.920", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich auf die Diskussion mit Ihnen im Ausschuss. "
+   ]
+  }, 
+  {
+   "begin": "264.920", 
+   "children": [], 
+   "end": "269.720", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freie Demokraten werden der \u00dcberweisung des Antrags der Gr\u00fcnen sehr gerne zustimmen. "
+   ]
+  }, 
+  {
+   "begin": "269.720", 
+   "children": [], 
+   "end": "273.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir setzen uns weiterhin f\u00fcr eine flexible Ausbildungsf\u00f6rderung ein, "
+   ]
+  }, 
+  {
+   "begin": "273.760", 
+   "children": [], 
+   "end": "279.040", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die jungen Menschen unabh\u00e4ngig von ihrer sozialen Herkunft weltbeste Bildungschancen erm\u00f6glicht."
+   ]
+  }, 
+  {
+   "begin": "279.040", 
+   "children": [], 
+   "end": "281.360", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "281.360", 
+   "children": [], 
+   "end": "295.960", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat die Abgeordnete Nicole Gohlke f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

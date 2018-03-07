@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "12.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "children": [], 
+   "end": "16.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "children": [], 
+   "end": "24.720", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Mietenexplosion und Verdr\u00e4ngung sind zweifellos zwei der gr\u00f6\u00dften sozialen Probleme unserer Zeit. "
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "children": [], 
+   "end": "25.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "25.560", 
+   "children": [], 
+   "end": "29.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "ein halbes Jahr nach der Bundestagswahl wird es Zeit, "
+   ]
+  }, 
+  {
+   "begin": "29.560", 
+   "children": [], 
+   "end": "31.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass wir endlich auch hier einmal dar\u00fcber sprechen. "
+   ]
+  }, 
+  {
+   "begin": "31.920", 
+   "children": [], 
+   "end": "32.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin froh, "
+   ]
+  }, 
+  {
+   "begin": "32.800", 
+   "children": [], 
+   "end": "38.760", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass die Fraktion Die Linke heute daf\u00fcr gesorgt hat."
+   ]
+  }, 
+  {
+   "begin": "38.760", 
+   "children": [], 
+   "end": "43.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Die Mieten in Gro\u00dfst\u00e4dten und Ballungszentren explodieren. "
+   ]
+  }, 
+  {
+   "begin": "43.840", 
+   "children": [], 
+   "end": "49.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Dort sind die Mieten in den letzten 13\u00a0Jahren um fast 50\u00a0Prozent gestiegen, "
+   ]
+  }, 
+  {
+   "begin": "49.000", 
+   "children": [], 
+   "end": "53.280", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "selbst in l\u00e4ndlichen Kreisen in diesem Zeitraum um 21\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "53.280", 
+   "children": [], 
+   "end": "56.040", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbrigens besonders in den letzten Jahren. "
+   ]
+  }, 
+  {
+   "begin": "56.040", 
+   "children": [], 
+   "end": "60.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das Ergebnis von acht Jahren Wohnungspolitik der Gro\u00dfen Koalition. "
+   ]
+  }, 
+  {
+   "begin": "60.840", 
+   "children": [], 
+   "end": "62.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das kann so nicht bleiben."
+   ]
+  }, 
+  {
+   "begin": "62.240", 
+   "children": [], 
+   "end": "69.720", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die L\u00f6hne und Einkommen steigen lange nicht in diesem Ma\u00dfe. "
+   ]
+  }, 
+  {
+   "begin": "69.720", 
+   "children": [], 
+   "end": "73.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Wenn also die L\u00f6hne stagnieren und die Mieten steigen, "
+   ]
+  }, 
+  {
+   "begin": "73.600", 
+   "children": [], 
+   "end": "77.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dann ist das eine knallharte Umverteilung von unten nach oben. "
+   ]
+  }, 
+  {
+   "begin": "77.600", 
+   "children": [], 
+   "end": "79.920", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Das werden wir Linken nicht akzeptieren."
+   ]
+  }, 
+  {
+   "begin": "79.920", 
+   "children": [], 
+   "end": "83.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Es trifft ja insbesondere arme Haushalte. "
+   ]
+  }, 
+  {
+   "begin": "83.560", 
+   "children": [], 
+   "end": "87.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen fast 50\u00a0Prozent ihres Einkommens f\u00fcr die Miete ausgeben. "
+   ]
+  }, 
+  {
+   "begin": "87.360", 
+   "children": [], 
+   "end": "89.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wer Busfahrer oder Krankenschwester, "
+   ]
+  }, 
+  {
+   "begin": "89.720", 
+   "children": [], 
+   "end": "91.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Rentnerin oder Student ist, "
+   ]
+  }, 
+  {
+   "begin": "91.040", 
+   "children": [], 
+   "end": "94.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "kann sich in deutschen Innenst\u00e4dten bald keine Wohnung mehr leisten. "
+   ]
+  }, 
+  {
+   "begin": "94.680", 
+   "children": [], 
+   "end": "95.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Das m\u00fcssen wir endlich stoppen, "
+   ]
+  }, 
+  {
+   "begin": "95.920", 
+   "children": [], 
+   "end": "98.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "98.360", 
+   "children": [], 
+   "end": "101.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Seien wir ehrlich: "
+   ]
+  }, 
+  {
+   "begin": "101.480", 
+   "children": [], 
+   "end": "105.520", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die sogenannte Mietpreisbremse ist ein zahnloser Tiger. "
+   ]
+  }, 
+  {
+   "begin": "105.520", 
+   "children": [], 
+   "end": "112.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Bei der Einf\u00fchrung durch die letzte Gro\u00dfe Koalition wurden so viele Ausnahmen und Bedingungen geschaffen, "
+   ]
+  }, 
+  {
+   "begin": "112.560", 
+   "children": [], 
+   "end": "116.360", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dass die Mietpreisbremse nicht wirken konnte."
+   ]
+  }, 
+  {
+   "begin": "116.360", 
+   "children": [], 
+   "end": "118.560", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Mein Verdacht ist leider, "
+   ]
+  }, 
+  {
+   "begin": "118.560", 
+   "children": [], 
+   "end": "120.960", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass sie auch nicht wirken sollte, "
+   ]
+  }, 
+  {
+   "begin": "120.960", 
+   "children": [], 
+   "end": "121.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "weil die Bau- "
+   ]
+  }, 
+  {
+   "begin": "121.800", 
+   "children": [], 
+   "end": "124.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und Vermieterlobby es nicht wollte. "
+   ]
+  }, 
+  {
+   "begin": "124.800", 
+   "children": [], 
+   "end": "126.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Es kann einfach nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "126.200", 
+   "children": [], 
+   "end": "129.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass hier dauernd Politik f\u00fcr die Vermieterseite gemacht wird. "
+   ]
+  }, 
+  {
+   "begin": "129.120", 
+   "children": [], 
+   "end": "130.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Es wird endlich Zeit, "
+   ]
+  }, 
+  {
+   "begin": "130.200", 
+   "children": [], 
+   "end": "136.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass wir umdenken und Politik f\u00fcr die Mieterinnen und Mieter machen."
+   ]
+  }, 
+  {
+   "begin": "136.840", 
+   "children": [], 
+   "end": "138.680", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Auch die n\u00e4chste Gro\u00dfe Koalition\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "138.680", 
+   "children": [], 
+   "end": "140.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "sollte sie denn \u00fcberhaupt zustande kommen\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "140.440", 
+   "children": [], 
+   "end": "142.040", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "bietet wenig Anlass zur Hoffnung, "
+   ]
+  }, 
+  {
+   "begin": "142.040", 
+   "children": [], 
+   "end": "144.080", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass sich das in den n\u00e4chsten Jahren \u00e4ndern wird. "
+   ]
+  }, 
+  {
+   "begin": "144.080", 
+   "children": [], 
+   "end": "145.920", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Schuld ist im Kern die Union, "
+   ]
+  }, 
+  {
+   "begin": "145.920", 
+   "children": [], 
+   "end": "153.720", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die ihrem zuk\u00fcnftigen Koalitionspartner keinen Stich g\u00f6nnen will und alles daransetzt, "
+   ]
+  }, 
+  {
+   "begin": "153.720", 
+   "children": [], 
+   "end": "159.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "einen besseren Mieterschutz und eine wirkungsvolle Mietpreisbremse zu verhindern. "
+   ]
+  }, 
+  {
+   "begin": "159.400", 
+   "children": [], 
+   "end": "161.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen Volkspartei sein? "
+   ]
+  }, 
+  {
+   "begin": "161.120", 
+   "children": [], 
+   "end": "163.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das glaubt Ihnen wirklich kein Mensch mehr."
+   ]
+  }, 
+  {
+   "begin": "163.040", 
+   "children": [], 
+   "end": "172.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Im Entwurf des Koalitionsvertrages dr\u00fcckt man sich im Kern um eine wirkungsvolle Nachbesserung der Mietpreisbremse herum. "
+   ]
+  }, 
+  {
+   "begin": "172.560", 
+   "children": [], 
+   "end": "174.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Ausnahmen sollen bestehen bleiben. "
+   ]
+  }, 
+  {
+   "begin": "174.880", 
+   "children": [], 
+   "end": "178.120", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Es werden keine Strafen bei Verst\u00f6\u00dfen festgelegt. "
+   ]
+  }, 
+  {
+   "begin": "178.120", 
+   "children": [], 
+   "end": "179.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcberhaupt ist unklar, "
+   ]
+  }, 
+  {
+   "begin": "179.800", 
+   "children": [], 
+   "end": "183.440", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wie und ob es im Jahr\u00a02020 weitergehen soll, "
+   ]
+  }, 
+  {
+   "begin": "183.440", 
+   "children": [], 
+   "end": "184.600", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Mietpreisbremse\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "184.600", 
+   "children": [], 
+   "end": "185.800", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "zumindest nach aktueller Gesetzeslage\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "185.800", 
+   "children": [], 
+   "end": "186.160", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "ausl\u00e4uft. "
+   ]
+  }, 
+  {
+   "begin": "186.160", 
+   "children": [], 
+   "end": "189.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Laut Koalitionsvertrag sollen die Ma\u00dfnahmen dann \u00fcberpr\u00fcft werden. "
+   ]
+  }, 
+  {
+   "begin": "189.600", 
+   "children": [], 
+   "end": "191.040", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Alle Studien belegen doch: "
+   ]
+  }, 
+  {
+   "begin": "191.040", 
+   "children": [], 
+   "end": "193.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen dieses Gesetz nicht \u00fcberpr\u00fcfen, "
+   ]
+  }, 
+  {
+   "begin": "193.360", 
+   "children": [], 
+   "end": "195.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen es endlich nachbessern. "
+   ]
+  }, 
+  {
+   "begin": "195.400", 
+   "children": [], 
+   "end": "200.320", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Nur so bekommen wir das Problem in den Griff."
+   ]
+  }, 
+  {
+   "begin": "200.320", 
+   "children": [], 
+   "end": "201.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Es ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "201.280", 
+   "children": [], 
+   "end": "203.680", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "alle Ausnahmen und Schlupfl\u00f6cher zu schlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "203.680", 
+   "children": [], 
+   "end": "204.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Genau das wollen wir Linke; "
+   ]
+  }, 
+  {
+   "begin": "204.840", 
+   "children": [], 
+   "end": "206.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "das haben wir heute beantragt. "
+   ]
+  }, 
+  {
+   "begin": "206.600", 
+   "children": [], 
+   "end": "207.400", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "207.400", 
+   "children": [], 
+   "end": "209.320", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass s\u00e4mtliche Ausnahmen gestrichen werden. "
+   ]
+  }, 
+  {
+   "begin": "209.320", 
+   "children": [], 
+   "end": "210.120", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "210.120", 
+   "children": [], 
+   "end": "212.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass die Mietpreisbremse fl\u00e4chendeckend wirkt. "
+   ]
+  }, 
+  {
+   "begin": "212.760", 
+   "children": [], 
+   "end": "214.680", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen sie so umgestalten, "
+   ]
+  }, 
+  {
+   "begin": "214.680", 
+   "children": [], 
+   "end": "217.640", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass sie die Mieten tats\u00e4chlich deckelt. "
+   ]
+  }, 
+  {
+   "begin": "217.640", 
+   "children": [], 
+   "end": "221.480", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Dass die Mietpreisbremse in zwei Jahren auslaufen soll, "
+   ]
+  }, 
+  {
+   "begin": "221.480", 
+   "children": [], 
+   "end": "225.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "bevor sich ihre volle Wirkung \u00fcberhaupt entfalten kann, "
+   ]
+  }, 
+  {
+   "begin": "225.080", 
+   "children": [], 
+   "end": "228.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "ist doch v\u00f6llig inakzeptabel."
+   ]
+  }, 
+  {
+   "begin": "228.760", 
+   "children": [], 
+   "end": "231.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Es ist aus meiner Sicht auch v\u00f6llig logisch, "
+   ]
+  }, 
+  {
+   "begin": "231.200", 
+   "children": [], 
+   "end": "236.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass die Vermieter bei Verst\u00f6\u00dfen gegen die Mietpreisbremse bestraft werden m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "236.600", 
+   "children": [], 
+   "end": "239.840", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wenn den Leuten unrechtm\u00e4\u00dfig Geld aus der Tasche gezogen wird, "
+   ]
+  }, 
+  {
+   "begin": "239.840", 
+   "children": [], 
+   "end": "240.800", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dann ist das Betrug, "
+   ]
+  }, 
+  {
+   "begin": "240.800", 
+   "children": [], 
+   "end": "244.200", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "und das muss auch wie Betrug bestraft werden."
+   ]
+  }, 
+  {
+   "begin": "244.200", 
+   "children": [], 
+   "end": "245.000", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "245.000", 
+   "children": [], 
+   "end": "245.640", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "ich wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "245.640", 
+   "children": [], 
+   "end": "249.840", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass diese Vorstellungen den meisten Fraktionen zu weit gehen. "
+   ]
+  }, 
+  {
+   "begin": "249.840", 
+   "children": [], 
+   "end": "252.760", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen haben wir noch einen Gesetzentwurf vorgelegt, "
+   ]
+  }, 
+  {
+   "begin": "252.760", 
+   "children": [], 
+   "end": "255.320", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "der den kleinsten gemeinsamen Nenner definiert, "
+   ]
+  }, 
+  {
+   "begin": "255.320", 
+   "children": [], 
+   "end": "257.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich dass jeder Mieter das Recht haben muss, "
+   ]
+  }, 
+  {
+   "begin": "257.360", 
+   "children": [], 
+   "end": "260.160", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "die H\u00f6he der Vormiete zu erfahren, "
+   ]
+  }, 
+  {
+   "begin": "260.160", 
+   "children": [], 
+   "end": "261.960", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "und zwar ohne Wenn und Aber. "
+   ]
+  }, 
+  {
+   "begin": "261.960", 
+   "children": [], 
+   "end": "266.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Auch an dieser Stelle bin ich mir mit Blick auf den Koalitionsvertrag unsicher, "
+   ]
+  }, 
+  {
+   "begin": "266.320", 
+   "children": [], 
+   "end": "269.280", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie das am Ende des Tages bewerkstelligen wollen."
+   ]
+  }, 
+  {
+   "begin": "269.280", 
+   "children": [], 
+   "end": "271.200", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Schluss. "
+   ]
+  }, 
+  {
+   "begin": "271.200", 
+   "children": [], 
+   "end": "274.760", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Union muss hier endlich \u00fcber ihren Schatten springen. "
+   ]
+  }, 
+  {
+   "begin": "274.760", 
+   "children": [], 
+   "end": "277.640", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Die H\u00e4lfte der Menschen in Deutschland lebt zur Miete; "
+   ]
+  }, 
+  {
+   "begin": "277.640", 
+   "children": [], 
+   "end": "280.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "in den Gro\u00dfst\u00e4dten ist es die Mehrheit. "
+   ]
+  }, 
+  {
+   "begin": "280.000", 
+   "children": [], 
+   "end": "284.320", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Tun Sie endlich etwas f\u00fcr die Mehrheit der Menschen und nicht nur f\u00fcr die Bau- "
+   ]
+  }, 
+  {
+   "begin": "284.320", 
+   "children": [], 
+   "end": "290.840", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "und Vermieterlobby!"
+   ]
+  }, 
+  {
+   "begin": "290.840", 
+   "children": [], 
+   "end": "299.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner f\u00fcr die Fraktion der CDU/CSU ist der Kollege Dr.\u00a0Jan-Marco Luczak."
+   ]
+  }
+ ]
+}

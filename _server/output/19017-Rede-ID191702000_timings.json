@@ -1,0 +1,734 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "14.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Heute sind wir so weit, "
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "children": [], 
+   "end": "26.040", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass auch der Deutsche Bundestag mit einem eigenen Untersuchungsausschuss zur Aufarbeitung der Vorg\u00e4nge rund um den Terroranschlag auf dem Breitscheidplatz beitragen wird."
+   ]
+  }, 
+  {
+   "begin": "26.040", 
+   "children": [], 
+   "end": "26.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ja richtig, "
+   ]
+  }, 
+  {
+   "begin": "26.800", 
+   "children": [], 
+   "end": "30.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "was nicht erst heute meine Vorredner gesagt haben: "
+   ]
+  }, 
+  {
+   "begin": "30.160", 
+   "children": [], 
+   "end": "33.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind es den Opfern und ihren Angeh\u00f6rigen schuldig, "
+   ]
+  }, 
+  {
+   "begin": "33.040", 
+   "children": [], 
+   "end": "34.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "das zu tun. "
+   ]
+  }, 
+  {
+   "begin": "34.600", 
+   "children": [], 
+   "end": "38.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind es aber auch uns selbst und unserem Auftrag als Volksvertreter schuldig. "
+   ]
+  }, 
+  {
+   "begin": "38.800", 
+   "children": [], 
+   "end": "43.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Denn wir \u00fcberblicken die Entwicklung schon jetzt so weit, "
+   ]
+  }, 
+  {
+   "begin": "43.760", 
+   "children": [], 
+   "end": "45.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass wir sagen k\u00f6nnen: "
+   ]
+  }, 
+  {
+   "begin": "45.320", 
+   "children": [], 
+   "end": "48.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen und m\u00fcssen besser darin werden, "
+   ]
+  }, 
+  {
+   "begin": "48.000", 
+   "children": [], 
+   "end": "51.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die Sicherheit der B\u00fcrger vor Terror zu gew\u00e4hrleisten. "
+   ]
+  }, 
+  {
+   "begin": "51.320", 
+   "children": [], 
+   "end": "54.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das Zusammenspiel von Diensten und Polizeibeh\u00f6rden, "
+   ]
+  }, 
+  {
+   "begin": "54.760", 
+   "children": [], 
+   "end": "56.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "von Bund und L\u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "56.240", 
+   "children": [], 
+   "end": "61.720", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "von den f\u00fcr Migration zust\u00e4ndigen \u00c4mtern hat nicht richtig funktioniert. "
+   ]
+  }, 
+  {
+   "begin": "61.720", 
+   "children": [], 
+   "end": "65.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Die aus gutem Grund geschaffene Schnittstelle, "
+   ]
+  }, 
+  {
+   "begin": "65.160", 
+   "children": [], 
+   "end": "67.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "das Gemeinsame Terrorismusabwehrzentrum, "
+   ]
+  }, 
+  {
+   "begin": "67.320", 
+   "children": [], 
+   "end": "71.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "hat nicht die n\u00f6tige Verbindlichkeit in der Gefahrenabwehr entwickelt."
+   ]
+  }, 
+  {
+   "begin": "71.520", 
+   "children": [], 
+   "end": "75.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Dass jemand wie Amri sich immer wieder mit neuen Identit\u00e4ten anmelden konnte, "
+   ]
+  }, 
+  {
+   "begin": "75.480", 
+   "children": [], 
+   "end": "76.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "beweist, "
+   ]
+  }, 
+  {
+   "begin": "76.480", 
+   "children": [], 
+   "end": "83.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass wir nicht mit der n\u00f6tigen Kontrolldichte den \u00dcberblick \u00fcber personenbezogene Daten behalten haben."
+   ]
+  }, 
+  {
+   "begin": "83.960", 
+   "children": [], 
+   "end": "89.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Um hier in der Gesetzgebung weitere Fortschritte zu machen und im Gesetzesvollzug besser zu werden, "
+   ]
+  }, 
+  {
+   "begin": "89.800", 
+   "children": [], 
+   "end": "93.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "muss der Untersuchungsausschuss die Schwachstellen aufdecken."
+   ]
+  }, 
+  {
+   "begin": "93.320", 
+   "children": [], 
+   "end": "96.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Vor allem so kann sich unsere Arbeit bew\u00e4hren."
+   ]
+  }, 
+  {
+   "begin": "96.760", 
+   "children": [], 
+   "end": "101.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Der Untersuchungsausschuss soll nun schnell aktiv werden. "
+   ]
+  }, 
+  {
+   "begin": "101.520", 
+   "children": [], 
+   "end": "106.200", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Opfer und Angeh\u00f6rige sollen nicht jahrelang im Ungewissen gelassen werden, "
+   ]
+  }, 
+  {
+   "begin": "106.200", 
+   "children": [], 
+   "end": "112.080", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "wie sie es im Zusammenhang mit dem NSU-Prozess in M\u00fcnchen zu Recht immer wieder kritisiert haben."
+   ]
+  }, 
+  {
+   "begin": "112.080", 
+   "children": [], 
+   "end": "116.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Gleich zu Beginn ist ein Gespr\u00e4ch mit dem Beauftragten der Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "116.120", 
+   "children": [], 
+   "end": "116.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Kurt Beck, "
+   ]
+  }, 
+  {
+   "begin": "116.840", 
+   "children": [], 
+   "end": "116.960", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "geplant, "
+   ]
+  }, 
+  {
+   "begin": "116.960", 
+   "children": [], 
+   "end": "122.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "um dessen Erwartungen an die Arbeit des Untersuchungsausschusses Geh\u00f6r zu verschaffen. "
+   ]
+  }, 
+  {
+   "begin": "122.080", 
+   "children": [], 
+   "end": "124.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Was uns dabei besonders wichtig ist: "
+   ]
+  }, 
+  {
+   "begin": "124.040", 
+   "children": [], 
+   "end": "129.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Eine Begegnung mit Angeh\u00f6rigen und Opfern des Anschlags soll sich unmittelbar anschlie\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "129.960", 
+   "children": [], 
+   "end": "136.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Bereits in der ersten Sitzung am heutigen Abend sind \u00fcber 90 zum Teil umfangreiche Beweisbeschl\u00fcsse vorgesehen, "
+   ]
+  }, 
+  {
+   "begin": "136.600", 
+   "children": [], 
+   "end": "144.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "um die Beh\u00f6rden zur Bereitstellung ihrer Akten zu veranlassen und um m\u00f6gliche Zeugen f\u00fcr Vernehmungen durch den Ausschuss zu identifizieren. "
+   ]
+  }, 
+  {
+   "begin": "144.320", 
+   "children": [], 
+   "end": "147.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Danach wollen wir unverz\u00fcglich mit der praktischen Arbeit beginnen."
+   ]
+  }, 
+  {
+   "begin": "147.720", 
+   "children": [], 
+   "end": "152.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Dazu sind bislang drei Sachverst\u00e4ndigenanh\u00f6rungen vorgesehen, "
+   ]
+  }, 
+  {
+   "begin": "152.200", 
+   "children": [], 
+   "end": "155.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich erstens zur f\u00f6deralen Sicherheitsarchitektur, "
+   ]
+  }, 
+  {
+   "begin": "155.280", 
+   "children": [], 
+   "end": "159.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "zweitens zum islamistischen Extremismus, "
+   ]
+  }, 
+  {
+   "begin": "159.720", 
+   "children": [], 
+   "end": "161.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "zu Radikalisierungsprozessen, "
+   ]
+  }, 
+  {
+   "begin": "161.520", 
+   "children": [], 
+   "end": "167.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "zur Vorbeugung gegen Radikalisierung sowie zur Deradikalisierung und drittens zum Asyl- "
+   ]
+  }, 
+  {
+   "begin": "167.440", 
+   "children": [], 
+   "end": "171.400", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und Aufenthaltsrecht sowie zum Zusammenwirken der beteiligten Beh\u00f6rden. "
+   ]
+  }, 
+  {
+   "begin": "171.400", 
+   "children": [], 
+   "end": "180.200", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Mit diesen Anh\u00f6rungen wollen wir zum einen die \u00d6ffentlichkeit informieren und zum anderen alle Mitglieder des Untersuchungsausschusses auf denselben Kenntnisstand bringen."
+   ]
+  }, 
+  {
+   "begin": "180.200", 
+   "children": [], 
+   "end": "182.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Zugleich erhoffen wir uns von den Experten Hinweise darauf, "
+   ]
+  }, 
+  {
+   "begin": "182.920", 
+   "children": [], 
+   "end": "188.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "wo Defizite im derzeitigen Rechtsrahmen oder im System der Sicherheitsbeh\u00f6rden bestehen k\u00f6nnten. "
+   ]
+  }, 
+  {
+   "begin": "188.200", 
+   "children": [], 
+   "end": "191.200", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Diese Erkenntnisse sollen die weitere Untersuchung anleiten. "
+   ]
+  }, 
+  {
+   "begin": "191.200", 
+   "children": [], 
+   "end": "193.320", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um die Vorbereitung darauf, "
+   ]
+  }, 
+  {
+   "begin": "193.320", 
+   "children": [], 
+   "end": "195.120", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die richtigen Fragen zu stellen, "
+   ]
+  }, 
+  {
+   "begin": "195.120", 
+   "children": [], 
+   "end": "203.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "vor allem damit wir die Zeugen trotz des Umfangs und der Vielfalt des Materials fokussiert befragen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "203.200", 
+   "children": [], 
+   "end": "208.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir die Abl\u00e4ufe und die Verantwortlichkeiten im Vorfeld des Anschlags gekl\u00e4rt haben, "
+   ]
+  }, 
+  {
+   "begin": "208.720", 
+   "children": [], 
+   "end": "210.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "werden wir uns der Frage zuwenden, "
+   ]
+  }, 
+  {
+   "begin": "210.480", 
+   "children": [], 
+   "end": "218.600", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "ob und gegebenenfalls welche Ver\u00e4nderungen bei den Kompetenzen und ihrer Verteilung oder bei den praktischen Kapazit\u00e4ten der Beh\u00f6rden notwendig sind."
+   ]
+  }, 
+  {
+   "begin": "218.600", 
+   "children": [], 
+   "end": "219.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Mit einem Wort: "
+   ]
+  }, 
+  {
+   "begin": "219.360", 
+   "children": [], 
+   "end": "220.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Unser Ziel ist es, "
+   ]
+  }, 
+  {
+   "begin": "220.920", 
+   "children": [], 
+   "end": "223.960", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Defizite im bestehenden System zu identifizieren, "
+   ]
+  }, 
+  {
+   "begin": "223.960", 
+   "children": [], 
+   "end": "234.640", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die Beh\u00f6rden bei der Erkennung und Abwehr von Gefahren zu st\u00e4rken und damit den B\u00fcrgerinnen und B\u00fcrgern das Vertrauen in die Sicherheitsbeh\u00f6rden und in unsere Schutzvorkehrungen zur\u00fcckzugeben."
+   ]
+  }, 
+  {
+   "begin": "234.640", 
+   "children": [], 
+   "end": "238.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "238.240", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die SPD-Fraktion hat ein hohes Interesse an kollegialer Zusammenarbeit im Sinne unseres gemeinsamen Auftrags. "
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "248.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Untersuchungsausschuss ist uns zu wichtig, "
+   ]
+  }, 
+  {
+   "begin": "248.080", 
+   "children": [], 
+   "end": "252.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "um ihn als Waffe im Schlagabtausch der Parteien zu instrumentalisieren."
+   ]
+  }, 
+  {
+   "begin": "252.120", 
+   "children": [], 
+   "end": "254.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt aber auch, "
+   ]
+  }, 
+  {
+   "begin": "254.040", 
+   "children": [], 
+   "end": "255.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "lieber Kollege Schuster, "
+   ]
+  }, 
+  {
+   "begin": "255.120", 
+   "children": [], 
+   "end": "256.920", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns vielleicht darauf verst\u00e4ndigen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "256.920", 
+   "children": [], 
+   "end": "257.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass wir, "
+   ]
+  }, 
+  {
+   "begin": "257.080", 
+   "children": [], 
+   "end": "259.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir etwas gemeinsam inhaltlich beschlie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "259.000", 
+   "children": [], 
+   "end": "266.520", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "das auch gemeinsam tragen und nicht einzelne Fraktionen wie beispielsweise Die Linke an dieser Stelle nicht beteiligen, "
+   ]
+  }, 
+  {
+   "begin": "266.520", 
+   "children": [], 
+   "end": "272.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "obwohl wir inhaltlich derselben Meinung sind."
+   ]
+  }, 
+  {
+   "begin": "272.840", 
+   "children": [], 
+   "end": "274.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcnsche uns einen guten Anfang, "
+   ]
+  }, 
+  {
+   "begin": "274.800", 
+   "children": [], 
+   "end": "277.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "ein konstruktives Klima und \u00fcberzeugende Ergebnisse."
+   ]
+  }, 
+  {
+   "begin": "277.680", 
+   "children": [], 
+   "end": "278.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen."
+   ]
+  }, 
+  {
+   "begin": "278.360", 
+   "children": [], 
+   "end": "282.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Letzter Redner in dieser Debatte ist der Kollege Stephan Mayer, "
+   ]
+  }, 
+  {
+   "begin": "282.800", 
+   "children": [], 
+   "end": "283.960", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,774 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ja hier halbe Folklore.\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "children": [], 
+   "end": "11.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "children": [], 
+   "end": "12.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "children": [], 
+   "end": "15.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df nicht, "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "22.400", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "wie es Ihnen nach der M\u00fcnchner Sicherheitskonferenz am letzten Wochenende geht. "
+   ]
+  }, 
+  {
+   "begin": "22.400", 
+   "children": [], 
+   "end": "25.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ich und viele andere sind entt\u00e4uscht zur\u00fcckgelassen worden, "
+   ]
+  }, 
+  {
+   "begin": "25.080", 
+   "children": [], 
+   "end": "28.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "fast orientierungslos. "
+   ]
+  }, 
+  {
+   "begin": "28.040", 
+   "children": [], 
+   "end": "29.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Es findet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "29.160", 
+   "children": [], 
+   "end": "29.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "zu Recht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "29.880", 
+   "children": [], 
+   "end": "30.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "eine Debatte statt, "
+   ]
+  }, 
+  {
+   "begin": "30.800", 
+   "children": [], 
+   "end": "36.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "ob die Sicherheitskonferenz \u00fcberhaupt noch das geeignete Format ist, "
+   ]
+  }, 
+  {
+   "begin": "36.160", 
+   "children": [], 
+   "end": "41.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "ob es \u00fcberhaupt richtige Formate des Austausches in einer Welt gibt, "
+   ]
+  }, 
+  {
+   "begin": "41.360", 
+   "children": [], 
+   "end": "46.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "in der Regierungschefs und Staatsoberh\u00e4upter entweder gar nicht kommen oder, "
+   ]
+  }, 
+  {
+   "begin": "46.000", 
+   "children": [], 
+   "end": "48.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie kommen, "
+   ]
+  }, 
+  {
+   "begin": "48.200", 
+   "children": [], 
+   "end": "48.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dann nicht, "
+   ]
+  }, 
+  {
+   "begin": "48.640", 
+   "children": [], 
+   "end": "50.080", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "um sich miteinander auszutauschen, "
+   ]
+  }, 
+  {
+   "begin": "50.080", 
+   "children": [], 
+   "end": "55.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "sondern um Fensterreden f\u00fcr ihre W\u00e4hlerinnen und W\u00e4hler zu Hause halten."
+   ]
+  }, 
+  {
+   "begin": "55.000", 
+   "children": [], 
+   "end": "59.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Was hat sich seit den Tagen der Wehrkundetagung ver\u00e4ndert? "
+   ]
+  }, 
+  {
+   "begin": "59.440", 
+   "children": [], 
+   "end": "62.320", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Was bedeutet heute Diplomatie, "
+   ]
+  }, 
+  {
+   "begin": "62.320", 
+   "children": [], 
+   "end": "63.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Sicherheits- "
+   ]
+  }, 
+  {
+   "begin": "63.120", 
+   "children": [], 
+   "end": "64.720", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und Au\u00dfenpolitik, "
+   ]
+  }, 
+  {
+   "begin": "64.720", 
+   "children": [], 
+   "end": "65.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "in einer Zeit, "
+   ]
+  }, 
+  {
+   "begin": "65.320", 
+   "children": [], 
+   "end": "67.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "in der es keine zwei Bl\u00f6cke gibt, "
+   ]
+  }, 
+  {
+   "begin": "67.720", 
+   "children": [], 
+   "end": "72.920", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "sondern ein v\u00f6llig zerfasertes internationales Geflecht von einzelnen nationalen Interessen oder\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "72.920", 
+   "children": [], 
+   "end": "74.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "noch schlimmer\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "74.160", 
+   "children": [], 
+   "end": "76.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "von sogenannten Non-State Actors?"
+   ]
+  }, 
+  {
+   "begin": "76.320", 
+   "children": [], 
+   "end": "79.640", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Fukuyamas Ende der Geschichte findet nicht statt, "
+   ]
+  }, 
+  {
+   "begin": "79.640", 
+   "children": [], 
+   "end": "83.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "der Siegeszug der liberalen Demokratien auch nicht. "
+   ]
+  }, 
+  {
+   "begin": "83.600", 
+   "children": [], 
+   "end": "85.280", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Im Gegenteil: "
+   ]
+  }, 
+  {
+   "begin": "85.280", 
+   "children": [], 
+   "end": "88.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Der Krieg in Syrien geht in sein siebtes Jahr. "
+   ]
+  }, 
+  {
+   "begin": "88.160", 
+   "children": [], 
+   "end": "95.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Diese Weltlage macht eine besser funktionierende und auf gemeinsamen Werten und Normen aufbauende europ\u00e4ische Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "95.080", 
+   "children": [], 
+   "end": "97.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik unabdingbar."
+   ]
+  }, 
+  {
+   "begin": "97.640", 
+   "children": [], 
+   "end": "103.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem Vertrag von Lissabon haben wir wichtige Weichenstellungen in den Strukturen der Gemeinsamen Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "103.120", 
+   "children": [], 
+   "end": "104.960", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik vorgenommen. "
+   ]
+  }, 
+  {
+   "begin": "104.960", 
+   "children": [], 
+   "end": "108.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Diese betreffen ganz wesentlich auch die Rolle der Hohen Vertreterin. "
+   ]
+  }, 
+  {
+   "begin": "108.680", 
+   "children": [], 
+   "end": "116.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Auch deshalb hat die Hohe Vertreterin eine erfolgreiche Rolle gespielt bei den diplomatischen Bem\u00fchungen um eine Einigung im Atomstreit mit dem Iran."
+   ]
+  }, 
+  {
+   "begin": "116.200", 
+   "children": [], 
+   "end": "118.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcberhaupt: "
+   ]
+  }, 
+  {
+   "begin": "118.320", 
+   "children": [], 
+   "end": "123.120", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das Atomabkommen mit dem Iran ist ein Beispiel gelungener europ\u00e4ischer Au\u00dfenpolitik, "
+   ]
+  }, 
+  {
+   "begin": "123.120", 
+   "children": [], 
+   "end": "127.120", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und das trotz der Frustration nach dem letzten Wochenende in M\u00fcnchen. "
+   ]
+  }, 
+  {
+   "begin": "127.120", 
+   "children": [], 
+   "end": "129.680", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Aus diesem Erfolg m\u00fcssen wir lernen, "
+   ]
+  }, 
+  {
+   "begin": "129.680", 
+   "children": [], 
+   "end": "133.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "um auch andere Konflikte als Europ\u00e4er gemeinsam einzud\u00e4mmen."
+   ]
+  }, 
+  {
+   "begin": "133.960", 
+   "children": [], 
+   "end": "134.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "134.920", 
+   "children": [], 
+   "end": "136.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wie das Beispiel Iran zeigt: "
+   ]
+  }, 
+  {
+   "begin": "136.400", 
+   "children": [], 
+   "end": "138.360", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben gro\u00dfe Fortschritte in der europ\u00e4ischen Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "138.360", 
+   "children": [], 
+   "end": "139.840", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik erzielt. "
+   ]
+  }, 
+  {
+   "begin": "139.840", 
+   "children": [], 
+   "end": "141.920", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Doch wir d\u00fcrfen nicht stehen bleiben. "
+   ]
+  }, 
+  {
+   "begin": "141.920", 
+   "children": [], 
+   "end": "145.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Strukturen und Mechanismen in der europ\u00e4ischen Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "145.200", 
+   "children": [], 
+   "end": "150.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik an die sich st\u00e4ndig wandelnde internationale Lage anpassen. "
+   ]
+  }, 
+  {
+   "begin": "150.600", 
+   "children": [], 
+   "end": "153.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen auch innerhalb der EU den inneren Zusammenhalt herstellen, "
+   ]
+  }, 
+  {
+   "begin": "153.560", 
+   "children": [], 
+   "end": "157.640", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "indem wir uns der inneren Konflikte der Europ\u00e4ischen Union annehmen und diese l\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "157.640", 
+   "children": [], 
+   "end": "164.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen au\u00dferdem ein Verst\u00e4ndnis von den gemeinsamen Interessen der Mitgliedstaaten der Europ\u00e4ischen Union entwickeln. "
+   ]
+  }, 
+  {
+   "begin": "164.280", 
+   "children": [], 
+   "end": "165.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Und schlie\u00dflich, "
+   ]
+  }, 
+  {
+   "begin": "165.080", 
+   "children": [], 
+   "end": "166.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "darauf aufbauend, "
+   ]
+  }, 
+  {
+   "begin": "166.800", 
+   "children": [], 
+   "end": "171.320", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "ben\u00f6tigen wir dann auch eine gemeinsame Strategie und gemeinsame Instrumente, "
+   ]
+  }, 
+  {
+   "begin": "171.320", 
+   "children": [], 
+   "end": "173.880", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "um diese Strategie auch durchzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "173.880", 
+   "children": [], 
+   "end": "176.280", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Ein m\u00f6gliches Instrument zur schnelleren Umsetzung au\u00dfenpolitischer Beschl\u00fcsse\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "176.280", 
+   "children": [], 
+   "end": "177.680", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "es ist hier bereits gesagt worden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "177.680", 
+   "children": [], 
+   "end": "183.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnte das Treffen von Entscheidungen mit qualifizierter Mehrheit in einigen Bereichen der europ\u00e4ischen Au\u00dfenpolitik sein. "
+   ]
+  }, 
+  {
+   "begin": "183.800", 
+   "children": [], 
+   "end": "186.440", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Kommissionspr\u00e4sident Juncker hat angek\u00fcndigt, "
+   ]
+  }, 
+  {
+   "begin": "186.440", 
+   "children": [], 
+   "end": "189.320", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "in K\u00fcrze hierzu Vorschl\u00e4ge zu unterbreiten."
+   ]
+  }, 
+  {
+   "begin": "189.320", 
+   "children": [], 
+   "end": "190.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "190.680", 
+   "children": [], 
+   "end": "193.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "auch Deutschland muss seinen Beitrag dazu leisten, "
+   ]
+  }, 
+  {
+   "begin": "193.120", 
+   "children": [], 
+   "end": "196.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass wir zu einer st\u00e4rkeren europ\u00e4ischen Au\u00dfenpolitik kommen. "
+   ]
+  }, 
+  {
+   "begin": "196.520", 
+   "children": [], 
+   "end": "197.560", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich sehr, "
+   ]
+  }, 
+  {
+   "begin": "197.560", 
+   "children": [], 
+   "end": "203.040", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass der Koalitionsvertrag zwischen der SPD und der Union den Zusammenhalt Europas ganz nach vorne stellt. "
+   ]
+  }, 
+  {
+   "begin": "203.040", 
+   "children": [], 
+   "end": "205.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Der Koalitionsvertrag beinhaltet auch, "
+   ]
+  }, 
+  {
+   "begin": "205.480", 
+   "children": [], 
+   "end": "211.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass wir die au\u00dfenpolitischen Entscheidungsmechanismen innerhalb der Europ\u00e4ischen Union fortentwickeln wollen. "
+   ]
+  }, 
+  {
+   "begin": "211.840", 
+   "children": [], 
+   "end": "217.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen auch im zivilen Bereich eine vergleichbare Struktur zur milit\u00e4rischen Struktur, "
+   ]
+  }, 
+  {
+   "begin": "217.000", 
+   "children": [], 
+   "end": "217.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "zur PESCO, "
+   ]
+  }, 
+  {
+   "begin": "217.640", 
+   "children": [], 
+   "end": "218.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "schaffen."
+   ]
+  }, 
+  {
+   "begin": "218.080", 
+   "children": [], 
+   "end": "221.200", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir \u00fcberweisen den Antrag der FDP-Fraktion heute in den Ausschuss. "
+   ]
+  }, 
+  {
+   "begin": "221.200", 
+   "children": [], 
+   "end": "225.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich auf die Debatte \u00fcber eine bessere europ\u00e4ische Au\u00dfenpolitik. "
+   ]
+  }, 
+  {
+   "begin": "225.480", 
+   "children": [], 
+   "end": "234.760", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen das Momentum nutzen und gemeinsam mit Frankreich und unseren europ\u00e4ischen Partnern mehr Europa wagen; "
+   ]
+  }, 
+  {
+   "begin": "234.760", 
+   "children": [], 
+   "end": "239.960", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "denn nur vereint haben wir Europ\u00e4er in der Welt ein Gewicht."
+   ]
+  }, 
+  {
+   "begin": "239.960", 
+   "children": [], 
+   "end": "241.360", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "241.360", 
+   "children": [], 
+   "end": "247.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Der letzte Redner zu diesem Tagesordnungspunkt ist der Kollege Matern von Marschall von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

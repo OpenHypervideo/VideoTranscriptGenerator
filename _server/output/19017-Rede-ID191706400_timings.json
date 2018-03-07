@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "children": [], 
+   "end": "12.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "children": [], 
+   "end": "15.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "15.320", 
+   "children": [], 
+   "end": "20.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "An ambitionierten Begriffen zur Beschreibung von neuen Technologien in Regierungsberichten, "
+   ]
+  }, 
+  {
+   "begin": "20.760", 
+   "children": [], 
+   "end": "27.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Papieren von Kommissionen und Verb\u00e4nden und nicht zuletzt in Gesetzesmaterialien mangelte es noch nie. "
+   ]
+  }, 
+  {
+   "begin": "27.560", 
+   "children": [], 
+   "end": "32.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Das Betonen der gro\u00dfen Digitalisierungschancen darf nirgendwo fehlen. "
+   ]
+  }, 
+  {
+   "begin": "32.200", 
+   "children": [], 
+   "end": "35.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Diese Chancen werden von uns auch gar nicht bestritten. "
+   ]
+  }, 
+  {
+   "begin": "35.200", 
+   "children": [], 
+   "end": "35.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Aber, "
+   ]
+  }, 
+  {
+   "begin": "35.280", 
+   "children": [], 
+   "end": "36.600", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "36.600", 
+   "children": [], 
+   "end": "38.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "um die Chancen der Technik zu nutzen, "
+   ]
+  }, 
+  {
+   "begin": "38.120", 
+   "children": [], 
+   "end": "40.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "muss man die Technik zun\u00e4chst auch beherrschen. "
+   ]
+  }, 
+  {
+   "begin": "40.800", 
+   "children": [], 
+   "end": "42.600", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Long Term Evolution, "
+   ]
+  }, 
+  {
+   "begin": "42.600", 
+   "children": [], 
+   "end": "43.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "LTE, "
+   ]
+  }, 
+  {
+   "begin": "43.800", 
+   "children": [], 
+   "end": "46.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "ist ein weiterer wohlklingender Name. "
+   ]
+  }, 
+  {
+   "begin": "46.840", 
+   "children": [], 
+   "end": "53.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Aber der LTE-Netzausbau in Deutschland ist f\u00fcr unsere Bundesregierung wahrlich kein Ruhmesblatt."
+   ]
+  }, 
+  {
+   "begin": "53.040", 
+   "children": [], 
+   "end": "57.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dabei ist es sehr verwunderlich, "
+   ]
+  }, 
+  {
+   "begin": "57.760", 
+   "children": [], 
+   "end": "61.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere LTE-Netze international so stark abgeh\u00e4ngt sind, "
+   ]
+  }, 
+  {
+   "begin": "61.520", 
+   "children": [], 
+   "end": "66.600", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "hat sich doch Deutschland bereits sehr fr\u00fch mit dem Ausbau von 4G besch\u00e4ftigt. "
+   ]
+  }, 
+  {
+   "begin": "66.600", 
+   "children": [], 
+   "end": "68.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Aber schon im Jahre 2015, "
+   ]
+  }, 
+  {
+   "begin": "68.640", 
+   "children": [], 
+   "end": "71.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "also f\u00fcnf Jahre nach der Einf\u00fchrung von LTE hier in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "71.640", 
+   "children": [], 
+   "end": "73.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "zeigten bereits die ersten Studien, "
+   ]
+  }, 
+  {
+   "begin": "73.480", 
+   "children": [], 
+   "end": "74.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass andere L\u00e4nder, "
+   ]
+  }, 
+  {
+   "begin": "74.560", 
+   "children": [], 
+   "end": "77.000", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die mit dem Ausbau von LTE sp\u00e4ter begonnen hatten, "
+   ]
+  }, 
+  {
+   "begin": "77.000", 
+   "children": [], 
+   "end": "81.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "uns in Sachen Netzabdeckung und Verbindungsgeschwindigkeit l\u00e4ngst \u00fcbertroffen hatten. "
+   ]
+  }, 
+  {
+   "begin": "81.840", 
+   "children": [], 
+   "end": "83.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Sogar L\u00e4nder wie Uruguay, "
+   ]
+  }, 
+  {
+   "begin": "83.880", 
+   "children": [], 
+   "end": "84.560", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Kasachstan, "
+   ]
+  }, 
+  {
+   "begin": "84.560", 
+   "children": [], 
+   "end": "89.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Bolivien oder Georgien sind in Bezug auf LTE besser aufgestellt als Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "89.080", 
+   "children": [], 
+   "end": "89.840", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Es ist skandal\u00f6s, "
+   ]
+  }, 
+  {
+   "begin": "89.840", 
+   "children": [], 
+   "end": "90.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren,"
+   ]
+  }, 
+  {
+   "begin": "90.760", 
+   "children": [], 
+   "end": "95.440", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "wie sich unsere Bundesregierung schuldig macht an der technologischen Abwicklung Deutschlands."
+   ]
+  }, 
+  {
+   "begin": "95.440", 
+   "children": [], 
+   "end": "101.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Einst hat unser Land auf technisch-wissenschaftlichem Gebiet bei den Nobelpreisen abger\u00e4umt. "
+   ]
+  }, 
+  {
+   "begin": "101.280", 
+   "children": [], 
+   "end": "103.400", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Heute werden wir von technologischen Schwellen- "
+   ]
+  }, 
+  {
+   "begin": "103.400", 
+   "children": [], 
+   "end": "106.400", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und Entwicklungsl\u00e4ndern regelm\u00e4\u00dfig auf die Pl\u00e4tze verwiesen. "
+   ]
+  }, 
+  {
+   "begin": "106.400", 
+   "children": [], 
+   "end": "108.880", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine besch\u00e4mende Katastrophe."
+   ]
+  }, 
+  {
+   "begin": "108.880", 
+   "children": [], 
+   "end": "116.800", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Immerhin darf sich die Bundesregierung beruhigt auf die eigenen Schultern klopfen; "
+   ]
+  }, 
+  {
+   "begin": "116.800", 
+   "children": [], 
+   "end": "118.080", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "denn Staaten wie Sri Lanka, "
+   ]
+  }, 
+  {
+   "begin": "118.080", 
+   "children": [], 
+   "end": "123.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Guatemala oder auch Kambodscha rangieren in puncto LTE-Geschwindigkeit und Netzabdeckung hinter Deutschland."
+   ]
+  }, 
+  {
+   "begin": "123.800", 
+   "children": [], 
+   "end": "125.840", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Da k\u00f6nnen wir alle froh sein. "
+   ]
+  }, 
+  {
+   "begin": "125.840", 
+   "children": [], 
+   "end": "132.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Denn wer erkennt in diesen Staaten keine f\u00fchrenden Industrienationen beim morgendlichen Blick in das \u201eHandelsblatt\u201c? "
+   ]
+  }, 
+  {
+   "begin": "132.000", 
+   "children": [], 
+   "end": "135.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Leider hat sich in der Zwischenzeit nichts an diesen Zust\u00e4nden ge\u00e4ndert. "
+   ]
+  }, 
+  {
+   "begin": "135.200", 
+   "children": [], 
+   "end": "136.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Dies beweist eine Studie, "
+   ]
+  }, 
+  {
+   "begin": "136.320", 
+   "children": [], 
+   "end": "138.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die erst vor ein paar Tagen ver\u00f6ffentlicht worden ist. "
+   ]
+  }, 
+  {
+   "begin": "138.120", 
+   "children": [], 
+   "end": "141.840", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Die Kollegen haben sie eben schon genannt."
+   ]
+  }, 
+  {
+   "begin": "141.840", 
+   "children": [], 
+   "end": "142.520", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Man sagt, "
+   ]
+  }, 
+  {
+   "begin": "142.520", 
+   "children": [], 
+   "end": "144.800", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "das Internet mache die Welt zum Dorf, "
+   ]
+  }, 
+  {
+   "begin": "144.800", 
+   "children": [], 
+   "end": "146.920", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "verbinde alle miteinander. "
+   ]
+  }, 
+  {
+   "begin": "146.920", 
+   "children": [], 
+   "end": "147.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Nun sind Sie, "
+   ]
+  }, 
+  {
+   "begin": "147.440", 
+   "children": [], 
+   "end": "149.720", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren von den \u00fcbrigen Fraktionen hier, "
+   ]
+  }, 
+  {
+   "begin": "149.720", 
+   "children": [], 
+   "end": "153.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "inzwischen allesamt gro\u00dfe Globalisierungsbef\u00fcrworter. "
+   ]
+  }, 
+  {
+   "begin": "153.760", 
+   "children": [], 
+   "end": "155.760", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Aber Sie treiben die Globalisierung nur dort voran, "
+   ]
+  }, 
+  {
+   "begin": "155.760", 
+   "children": [], 
+   "end": "157.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wo sie Probleme schafft: "
+   ]
+  }, 
+  {
+   "begin": "157.080", 
+   "children": [], 
+   "end": "161.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "bei der Migration oder bei der globalen Absenkung von Sozialstandards."
+   ]
+  }, 
+  {
+   "begin": "161.280", 
+   "children": [], 
+   "end": "168.520", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "An der Herausforderung der technologischen Globalisierung durch schnellen Mobilfunk scheitern Sie kl\u00e4glich."
+   ]
+  }, 
+  {
+   "begin": "168.520", 
+   "children": [], 
+   "end": "174.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Aber genau diese Globalisierung w\u00fcrde keine Probleme schaffen, "
+   ]
+  }, 
+  {
+   "begin": "174.120", 
+   "children": [], 
+   "end": "175.240", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "sie w\u00fcrde\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "175.240", 
+   "children": [], 
+   "end": "176.880", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "ganz im Gegenteil\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "176.880", 
+   "children": [], 
+   "end": "178.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "sogar Probleme l\u00f6sen, "
+   ]
+  }, 
+  {
+   "begin": "178.320", 
+   "children": [], 
+   "end": "183.920", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel wenn es um die schwindende Attraktivit\u00e4t des l\u00e4ndlichen Raumes geht."
+   ]
+  }, 
+  {
+   "begin": "183.920", 
+   "children": [], 
+   "end": "185.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Die Mieten in den St\u00e4dten werden immer teurer, "
+   ]
+  }, 
+  {
+   "begin": "185.880", 
+   "children": [], 
+   "end": "187.160", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "sogar zu teuer. "
+   ]
+  }, 
+  {
+   "begin": "187.160", 
+   "children": [], 
+   "end": "189.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Sie denken \u00fcber die Einf\u00fchrung einer Mietpreisbremse nach; "
+   ]
+  }, 
+  {
+   "begin": "189.360", 
+   "children": [], 
+   "end": "190.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wir haben es heute geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "190.800", 
+   "children": [], 
+   "end": "192.080", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Aber die Landflucht, "
+   ]
+  }, 
+  {
+   "begin": "192.080", 
+   "children": [], 
+   "end": "193.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die Verdichtung in den St\u00e4dten, "
+   ]
+  }, 
+  {
+   "begin": "193.520", 
+   "children": [], 
+   "end": "196.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "das erkennen Sie nicht als Ursache."
+   ]
+  }, 
+  {
+   "begin": "196.120", 
+   "children": [], 
+   "end": "196.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Unsere B\u00fcrger, "
+   ]
+  }, 
+  {
+   "begin": "196.960", 
+   "children": [], 
+   "end": "200.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "unsere Familien und unsere Firmen brauchen attraktive Lebens- "
+   ]
+  }, 
+  {
+   "begin": "200.040", 
+   "children": [], 
+   "end": "201.440", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und Arbeitsbedingungen in den l\u00e4ndlichen Regionen. "
+   ]
+  }, 
+  {
+   "begin": "201.440", 
+   "children": [], 
+   "end": "202.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wenn sie gew\u00e4hrleistet w\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "202.480", 
+   "children": [], 
+   "end": "205.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrde auch der Zuzugsdruck auf die St\u00e4dte abnehmen, "
+   ]
+  }, 
+  {
+   "begin": "205.120", 
+   "children": [], 
+   "end": "210.520", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "und wir br\u00e4uchten nicht \u00fcber die wegen Ihrer falschen Politik notwendige Mietpreisbremse zu diskutieren."
+   ]
+  }, 
+  {
+   "begin": "210.520", 
+   "children": [], 
+   "end": "215.600", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Gerade LTE in der Fl\u00e4che ist f\u00fcr die Herstellung solcher Lebens- "
+   ]
+  }, 
+  {
+   "begin": "215.600", 
+   "children": [], 
+   "end": "218.320", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "und Arbeitsbedingungen unverzichtbar."
+   ]
+  }, 
+  {
+   "begin": "218.320", 
+   "children": [], 
+   "end": "219.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland hat LTE, "
+   ]
+  }, 
+  {
+   "begin": "219.640", 
+   "children": [], 
+   "end": "221.720", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "also die vierte Generation der Mobilfunknetze, "
+   ]
+  }, 
+  {
+   "begin": "221.720", 
+   "children": [], 
+   "end": "223.720", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "nur unzul\u00e4nglich umgesetzt. "
+   ]
+  }, 
+  {
+   "begin": "223.720", 
+   "children": [], 
+   "end": "225.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Nun steht mit der f\u00fcnften Generation\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "225.360", 
+   "children": [], 
+   "end": "225.680", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "kurz: "
+   ]
+  }, 
+  {
+   "begin": "225.680", 
+   "children": [], 
+   "end": "226.360", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "mit 5G\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "226.360", 
+   "children": [], 
+   "end": "229.480", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "bereits der technologische Nachfolger in den Startl\u00f6chern. "
+   ]
+  }, 
+  {
+   "begin": "229.480", 
+   "children": [], 
+   "end": "233.760", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Im Ausschuss f\u00fcr Verkehr und digitale Infrastruktur war gestern zu h\u00f6ren, "
+   ]
+  }, 
+  {
+   "begin": "233.760", 
+   "children": [], 
+   "end": "237.880", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland zum Leitmarkt f\u00fcr 5G-Anwendungen werden soll. "
+   ]
+  }, 
+  {
+   "begin": "237.880", 
+   "children": [], 
+   "end": "240.720", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Endet dann dieser n\u00e4chste Technologieschritt, "
+   ]
+  }, 
+  {
+   "begin": "240.720", 
+   "children": [], 
+   "end": "243.520", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "dieses n\u00e4chste gro\u00dfe Vorhaben f\u00fcr uns auch wieder so: "
+   ]
+  }, 
+  {
+   "begin": "243.520", 
+   "children": [], 
+   "end": "247.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "zuerst stark gestartet und dann auf halber Strecke liegen geblieben? "
+   ]
+  }, 
+  {
+   "begin": "247.760", 
+   "children": [], 
+   "end": "251.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns bei der 5G-Technologie nicht die alten Fehler wiederholen. "
+   ]
+  }, 
+  {
+   "begin": "251.640", 
+   "children": [], 
+   "end": "253.240", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns stark beginnen, "
+   ]
+  }, 
+  {
+   "begin": "253.240", 
+   "children": [], 
+   "end": "257.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie uns zur Abwechslung den Technologiesprung aber einmal vollst\u00e4ndig vollziehen, "
+   ]
+  }, 
+  {
+   "begin": "257.240", 
+   "children": [], 
+   "end": "263.880", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "sodass das Potenzial des neuen Standards vollumf\u00e4nglich ausgesch\u00f6pft werden kann und keine Nutzergruppen ausgeschlossen werden, "
+   ]
+  }, 
+  {
+   "begin": "263.880", 
+   "children": [], 
+   "end": "265.600", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "egal ob in den urbanen Ballungszentren, "
+   ]
+  }, 
+  {
+   "begin": "265.600", 
+   "children": [], 
+   "end": "267.880", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "in unseren D\u00f6rfern oder in unseren Kleinst\u00e4dten."
+   ]
+  }, 
+  {
+   "begin": "267.880", 
+   "children": [], 
+   "end": "268.680", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "268.680", 
+   "children": [], 
+   "end": "277.760", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion Die Linke hat die Kollegin Anke Domscheit-Berg das Wort."
+   ]
+  }
+ ]
+}

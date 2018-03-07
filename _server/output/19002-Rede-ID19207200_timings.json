@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "children": [], 
+   "end": "17.280", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "17.280", 
+   "children": [], 
+   "end": "22.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen!"
+   ]
+  }, 
+  {
+   "begin": "22.800", 
+   "children": [], 
+   "end": "24.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "...\u00a0nach der vertraglichen Regelung"
+   ]
+  }, 
+  {
+   "begin": "24.680", 
+   "children": [], 
+   "end": "25.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0zum Euro\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "25.440", 
+   "children": [], 
+   "end": "34.120", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "gibt es keine Haftung der Gemeinschaft f\u00fcr Verbindlichkeiten der Mitgliedstaaten und keine zus\u00e4tzlichen Finanztransfers."
+   ]
+  }, 
+  {
+   "begin": "34.120", 
+   "children": [], 
+   "end": "42.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Das sind die Worte Helmut Kohls aus der Bundestagsdebatte vom 23.\u00a0April 1998."
+   ]
+  }, 
+  {
+   "begin": "42.200", 
+   "children": [], 
+   "end": "48.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die CDU-Wahlwerbung zur Europawahl\u00a01999 proklamierte auf die Frage, "
+   ]
+  }, 
+  {
+   "begin": "48.120", 
+   "children": [], 
+   "end": "52.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ob Deutschland f\u00fcr die Schulden anderer L\u00e4nder aufkommen m\u00fcsste\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "52.080", 
+   "children": [], 
+   "end": "53.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere \u2013:"
+   ]
+  }, 
+  {
+   "begin": "53.160", 
+   "children": [], 
+   "end": "56.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ein ganz klares Nein! "
+   ]
+  }, 
+  {
+   "begin": "56.320", 
+   "children": [], 
+   "end": "59.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Der Maastrichter Vertrag verbietet ausdr\u00fccklich, "
+   ]
+  }, 
+  {
+   "begin": "59.760", 
+   "children": [], 
+   "end": "70.000", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass die Europ\u00e4ische Union oder die anderen EU-Partner f\u00fcr die Schulden eines Mitgliedstaates haften."
+   ]
+  }, 
+  {
+   "begin": "70.000", 
+   "children": [], 
+   "end": "74.160", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "So hat man es den W\u00e4hlern versprochen. "
+   ]
+  }, 
+  {
+   "begin": "74.160", 
+   "children": [], 
+   "end": "81.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Kein Euro-Land darf f\u00fcr die Schulden eines anderen Mitgliedstaates haftbar gemacht werden: "
+   ]
+  }, 
+  {
+   "begin": "81.040", 
+   "children": [], 
+   "end": "82.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "So steht es in den Vertr\u00e4gen."
+   ]
+  }, 
+  {
+   "begin": "82.680", 
+   "children": [], 
+   "end": "93.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Dies war ein zwingender und elementarer Grundsatz bei der Gr\u00fcndung der Europ\u00e4ischen W\u00e4hrungsunion. "
+   ]
+  }, 
+  {
+   "begin": "93.600", 
+   "children": [], 
+   "end": "95.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Offensichtlich ist es Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "95.320", 
+   "children": [], 
+   "end": "97.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die hier schon l\u00e4nger sitzen, "
+   ]
+  }, 
+  {
+   "begin": "97.160", 
+   "children": [], 
+   "end": "98.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "herzlich egal, "
+   ]
+  }, 
+  {
+   "begin": "98.640", 
+   "children": [], 
+   "end": "101.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "was Sie den B\u00fcrgern versprechen;"
+   ]
+  }, 
+  {
+   "begin": "101.280", 
+   "children": [], 
+   "end": "110.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "denn sonst h\u00e4tten Sie nicht den fatalen Griechenland-Rettungspaketen und den diversen Rettungsschirmen zugestimmt."
+   ]
+  }, 
+  {
+   "begin": "110.560", 
+   "children": [], 
+   "end": "119.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Der deutsche Steuerzahler muss enorme Haftungsrisiken tragen und daneben mit seinem hart erarbeiteten Geld marode Banken und Staaten retten, "
+   ]
+  }, 
+  {
+   "begin": "119.600", 
+   "children": [], 
+   "end": "122.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "weil diese schlecht gewirtschaftet haben. "
+   ]
+  }, 
+  {
+   "begin": "122.840", 
+   "children": [], 
+   "end": "128.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Als Dank schwindet sein Erspartes durch die Negativzinspolitik dahin, "
+   ]
+  }, 
+  {
+   "begin": "128.280", 
+   "children": [], 
+   "end": "132.240", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "und auch die Zukunft seiner Rente ist dadurch massiv gef\u00e4hrdet. "
+   ]
+  }, 
+  {
+   "begin": "132.240", 
+   "children": [], 
+   "end": "141.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Diese Politik ist unverantwortlich."
+   ]
+  }, 
+  {
+   "begin": "141.040", 
+   "children": [], 
+   "end": "143.080", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Was hier geschieht, "
+   ]
+  }, 
+  {
+   "begin": "143.080", 
+   "children": [], 
+   "end": "144.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "ist nicht nur unmoralisch, "
+   ]
+  }, 
+  {
+   "begin": "144.400", 
+   "children": [], 
+   "end": "146.040", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "es ist rechtswidrig. "
+   ]
+  }, 
+  {
+   "begin": "146.040", 
+   "children": [], 
+   "end": "156.480", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Artikel\u00a0123 des Vertrages \u00fcber die Arbeitsweise der Europ\u00e4ischen Union verbietet die Finanzierung eines Staates durch die Zentralbank ausdr\u00fccklich. "
+   ]
+  }, 
+  {
+   "begin": "156.480", 
+   "children": [], 
+   "end": "162.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Auch das Bundesverfassungsgericht hat dies j\u00fcngst in einer Entscheidung bekr\u00e4ftigt. "
+   ]
+  }, 
+  {
+   "begin": "162.240", 
+   "children": [], 
+   "end": "167.400", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung scheinen Urteil und Vertr\u00e4ge jedoch gar nicht interessiert zu haben. "
+   ]
+  }, 
+  {
+   "begin": "167.400", 
+   "children": [], 
+   "end": "170.040", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Man bastelt lieber bereits in Hinterzimmern, "
+   ]
+  }, 
+  {
+   "begin": "170.040", 
+   "children": [], 
+   "end": "173.920", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "um Debatten und Abstimmungen im Plenum zu umgehen. "
+   ]
+  }, 
+  {
+   "begin": "173.920", 
+   "children": [], 
+   "end": "176.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage Sie ganz ehrlich: "
+   ]
+  }, 
+  {
+   "begin": "176.160", 
+   "children": [], 
+   "end": "180.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Haben Sie alle eigentlich \u00fcberhaupt gar kein Unrechtsbewusstsein mehr?"
+   ]
+  }, 
+  {
+   "begin": "180.480", 
+   "children": [], 
+   "end": "192.640", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Diesem nicht hinnehmbaren Zustand wird sich die AfD, "
+   ]
+  }, 
+  {
+   "begin": "192.640", 
+   "children": [], 
+   "end": "194.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "die Alternative f\u00fcr Deutschland\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "194.400", 
+   "children": [], 
+   "end": "196.080", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und daf\u00fcr sind wir angetreten\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "196.080", 
+   "children": [], 
+   "end": "197.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "mit aller Kraft entgegenstellen. "
+   ]
+  }, 
+  {
+   "begin": "197.920", 
+   "children": [], 
+   "end": "201.400", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden nicht widerspruchslos zusehen, "
+   ]
+  }, 
+  {
+   "begin": "201.400", 
+   "children": [], 
+   "end": "214.760", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wie man uns weiter vor vollendete Tatsachen stellt und die B\u00fcrger kalt enteignet."
+   ]
+  }, 
+  {
+   "begin": "214.760", 
+   "children": [], 
+   "end": "216.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Die Reden von Angela Merkel, "
+   ]
+  }, 
+  {
+   "begin": "216.920", 
+   "children": [], 
+   "end": "218.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wolfgang Sch\u00e4uble, "
+   ]
+  }, 
+  {
+   "begin": "218.320", 
+   "children": [], 
+   "end": "222.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Juncker und Emmanuel Macron lassen keinen Zweifel mehr daran, "
+   ]
+  }, 
+  {
+   "begin": "222.640", 
+   "children": [], 
+   "end": "228.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass die geplante Marschroute des Euro-Raumes folgende ist: "
+   ]
+  }, 
+  {
+   "begin": "228.440", 
+   "children": [], 
+   "end": "231.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dauerhafte Vergemeinschaftung der Schulden, "
+   ]
+  }, 
+  {
+   "begin": "231.880", 
+   "children": [], 
+   "end": "235.000", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "ein Euro-Finanzminister mit einem eigenen Budget"
+   ]
+  }, 
+  {
+   "begin": "235.000", 
+   "children": [], 
+   "end": "238.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0haupts\u00e4chlich finanziert vom deutschen Steuerzahler, "
+   ]
+  }, 
+  {
+   "begin": "238.640", 
+   "children": [], 
+   "end": "239.600", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "versteht sich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "239.600", 
+   "children": [], 
+   "end": "242.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "und ein eigenes Euro-Zonen-Parlament."
+   ]
+  }, 
+  {
+   "begin": "242.680", 
+   "children": [], 
+   "end": "245.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Von Gewaltenteilung ist \u00fcberhaupt gar keine Spur mehr."
+   ]
+  }, 
+  {
+   "begin": "245.760", 
+   "children": [], 
+   "end": "247.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "247.840", 
+   "children": [], 
+   "end": "249.160", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "das ist ein Skandal, "
+   ]
+  }, 
+  {
+   "begin": "249.160", 
+   "children": [], 
+   "end": "254.600", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und Sie haben das zu verantworten."
+   ]
+  }, 
+  {
+   "begin": "254.600", 
+   "children": [], 
+   "end": "256.960", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Der Euro sollte dazu f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "256.960", 
+   "children": [], 
+   "end": "258.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass Europa zusammenw\u00e4chst. "
+   ]
+  }, 
+  {
+   "begin": "258.440", 
+   "children": [], 
+   "end": "263.080", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Von einem wahren Friedensprojekt sprach einst Helmut Kohl."
+   ]
+  }, 
+  {
+   "begin": "263.080", 
+   "children": [], 
+   "end": "264.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Die traurige Wahrheit aber ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "264.360", 
+   "children": [], 
+   "end": "265.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und das wissen Sie alle\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "265.520", 
+   "children": [], 
+   "end": "269.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Der Euro hat Europa auseinandergerissen."
+   ]
+  }, 
+  {
+   "begin": "269.080", 
+   "children": [], 
+   "end": "274.080", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die AfD-Fraktion bringt heute ihren ersten Sachantrag in den Deutschen Bundestag ein, "
+   ]
+  }, 
+  {
+   "begin": "274.080", 
+   "children": [], 
+   "end": "276.320", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "sehr geehrte Damen und Herren. "
+   ]
+  }, 
+  {
+   "begin": "276.320", 
+   "children": [], 
+   "end": "277.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "277.240", 
+   "children": [], 
+   "end": "279.160", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass das Verfassungs- "
+   ]
+  }, 
+  {
+   "begin": "279.160", 
+   "children": [], 
+   "end": "280.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "und EU-Vertragsrecht, "
+   ]
+  }, 
+  {
+   "begin": "280.720", 
+   "children": [], 
+   "end": "283.160", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "das Ihnen offensichtlich fremd ist, "
+   ]
+  }, 
+  {
+   "begin": "283.160", 
+   "children": [], 
+   "end": "284.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wieder eingehalten wird. "
+   ]
+  }, 
+  {
+   "begin": "284.760", 
+   "children": [], 
+   "end": "290.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "So sieht es n\u00e4mlich aus."
+   ]
+  }, 
+  {
+   "begin": "290.000", 
+   "children": [], 
+   "end": "291.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen damit den B\u00fcrgern, "
+   ]
+  }, 
+  {
+   "begin": "291.840", 
+   "children": [], 
+   "end": "292.960", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "den Steuerzahlern, "
+   ]
+  }, 
+  {
+   "begin": "292.960", 
+   "children": [], 
+   "end": "296.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "den Sparern und den zuk\u00fcnftigen Generationen eine Stimme geben, "
+   ]
+  }, 
+  {
+   "begin": "296.680", 
+   "children": [], 
+   "end": "301.800", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "die ihnen in den Jahren der unverantwortlichen Euro-Dauerrettung genommen wurde. "
+   ]
+  }, 
+  {
+   "begin": "301.800", 
+   "children": [], 
+   "end": "303.040", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wir fordern deshalb, "
+   ]
+  }, 
+  {
+   "begin": "303.040", 
+   "children": [], 
+   "end": "309.560", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "gegen s\u00e4mtliche EZB-Beschl\u00fcsse zum munteren Gelddrucken und zur Verm\u00f6gensvernichtung endlich Klage einzureichen. "
+   ]
+  }, 
+  {
+   "begin": "309.560", 
+   "children": [], 
+   "end": "313.560", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Die Anleihenkaufprogramme sind verfassungswidrig, "
+   ]
+  }, 
+  {
+   "begin": "313.560", 
+   "children": [], 
+   "end": "316.880", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "und sie versto\u00dfen gegen europ\u00e4isches Vertragsrecht, "
+   ]
+  }, 
+  {
+   "begin": "316.880", 
+   "children": [], 
+   "end": "319.720", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "sehr geehrte Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "319.720", 
+   "children": [], 
+   "end": "327.040", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Dazu muss der ewigen Euro-Rettung mittels der \u00adTARGET2-Salden endlich ein Ende gesetzt werden. "
+   ]
+  }, 
+  {
+   "begin": "327.040", 
+   "children": [], 
+   "end": "331.400", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem Abnicken s\u00e4mtlicher Pseudohilfsprogramme haben Sie, "
+   ]
+  }, 
+  {
+   "begin": "331.400", 
+   "children": [], 
+   "end": "333.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "werte Damen und Herren der Fraktionen, "
+   ]
+  }, 
+  {
+   "begin": "333.200", 
+   "children": [], 
+   "end": "334.840", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "die schon l\u00e4nger hier sitzen, "
+   ]
+  }, 
+  {
+   "begin": "334.840", 
+   "children": [], 
+   "end": "341.160", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "unserem Staat und den deutschen Steuerzahlern bereits einen immens hohen Schaden zugef\u00fcgt. "
+   ]
+  }, 
+  {
+   "begin": "341.160", 
+   "children": [], 
+   "end": "342.920", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Damit muss endlich Schluss sein. "
+   ]
+  }, 
+  {
+   "begin": "342.920", 
+   "children": [], 
+   "end": "345.000", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Die B\u00fcrger haben es satt, "
+   ]
+  }, 
+  {
+   "begin": "345.000", 
+   "children": [], 
+   "end": "349.360", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "eine abgehobene Politik der arroganten Gutsherrenart auszuhalten. "
+   ]
+  }, 
+  {
+   "begin": "349.360", 
+   "children": [], 
+   "end": "354.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Und es muss endlich wieder zur Rechtsstaatlichkeit zur\u00fcckgekehrt werden. "
+   ]
+  }, 
+  {
+   "begin": "354.240", 
+   "children": [], 
+   "end": "356.160", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr sind wir angetreten."
+   ]
+  }, 
+  {
+   "begin": "356.160", 
+   "children": [], 
+   "end": "365.040", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Vielen herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "365.040", 
+   "children": [], 
+   "end": "370.480", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner in der Debatte ist f\u00fcr die CDU/CSU der Kollege Eckhardt Rehberg. "
+   ]
+  }, 
+  {
+   "begin": "370.480", 
+   "children": [], 
+   "end": "371.400", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Kollege Rehberg, "
+   ]
+  }, 
+  {
+   "begin": "371.400", 
+   "children": [], 
+   "end": "372.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben das Wort."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "children": [], 
+   "end": "13.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "children": [], 
+   "end": "15.200", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "children": [], 
+   "end": "24.920", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Da wird der j\u00fcdische Inhaber eines Restaurants in Berlin hart attackiert und beschimpft und ihm der Tod angedroht. "
+   ]
+  }, 
+  {
+   "begin": "27.040", 
+   "children": [], 
+   "end": "42.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Da trauen sich Juden in Berlin nicht mehr auf die Stra\u00dfe und sich als Juden zu erkennen zu geben. "
+   ]
+  }, 
+  {
+   "begin": "42.680", 
+   "children": [], 
+   "end": "54.240", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Nach einer j\u00fcngsten Studie haben immer mehr j\u00fcdische Menschen in unserem Land gro\u00dfe Sorge \u00fcber diese Entwicklung. "
+   ]
+  }, 
+  {
+   "begin": "54.240", 
+   "children": [], 
+   "end": "60.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ein viel zu gro\u00dfer Anteil von ihnen tr\u00e4gt sich mit dem Gedanken, "
+   ]
+  }, 
+  {
+   "begin": "60.560", 
+   "children": [], 
+   "end": "66.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht doch Deutschland wieder zu verlassen."
+   ]
+  }, 
+  {
+   "begin": "66.920", 
+   "children": [], 
+   "end": "82.200", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Vor dem Hintergrund der Schoah und der Ermordung von \u00fcber 6\u00a0Millionen Juden im Dritten Reich tragen wir in Deutschland eine besondere Verantwortung daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "82.200", 
+   "children": [], 
+   "end": "94.600", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass Antisemitismus in unserem Land nicht immer weiter wachsen kann."
+   ]
+  }, 
+  {
+   "begin": "94.600", 
+   "children": [], 
+   "end": "109.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es haben hier im Deutschen Bundestag in der letzten Legislaturperiode in einer Debatte alle Fraktionen festgestellt, "
+   ]
+  }, 
+  {
+   "begin": "109.880", 
+   "children": [], 
+   "end": "111.600", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns dar\u00fcber freuen, "
+   ]
+  }, 
+  {
+   "begin": "111.600", 
+   "children": [], 
+   "end": "117.680", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass j\u00fcdisches Leben in unserem Land wieder vorhanden ist, "
+   ]
+  }, 
+  {
+   "begin": "117.680", 
+   "children": [], 
+   "end": "121.040", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und dass wir dies f\u00f6rdern wollen. "
+   ]
+  }, 
+  {
+   "begin": "123.560", 
+   "children": [], 
+   "end": "135.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Es liegt eine besondere Aussage von Menschen j\u00fcdischen Glaubens darin, "
+   ]
+  }, 
+  {
+   "begin": "135.960", 
+   "children": [], 
+   "end": "144.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie nach der Schoah in das Land zur\u00fcckkehren oder neu in diesem Land anfangen, "
+   ]
+  }, 
+  {
+   "begin": "144.760", 
+   "children": [], 
+   "end": "150.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "das Juden ein so uns\u00e4gliches Unrecht angetan hat. "
+   ]
+  }, 
+  {
+   "begin": "150.800", 
+   "children": [], 
+   "end": "154.200", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen haben wir eine gro\u00dfe Verantwortung daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "154.200", 
+   "children": [], 
+   "end": "166.040", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass dieses j\u00fcdische Leben auch in Zukunft in diesem Land unbedr\u00e4ngt und weitgehend ohne Sorgen f\u00fcr diese Menschen m\u00f6glich ist."
+   ]
+  }, 
+  {
+   "begin": "166.040", 
+   "children": [], 
+   "end": "185.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wir hatten einen unabh\u00e4ngigen Expertenkreis zu diesem Themenkomplex eingesetzt und haben einen Expertenbericht bekommen. "
+   ]
+  }, 
+  {
+   "begin": "185.960", 
+   "children": [], 
+   "end": "189.960", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Bericht wird uns gesagt, "
+   ]
+  }, 
+  {
+   "begin": "189.960", 
+   "children": [], 
+   "end": "195.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass der Gro\u00dfteil antisemitischer Aktionen, "
+   ]
+  }, 
+  {
+   "begin": "195.880", 
+   "children": [], 
+   "end": "196.640", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Verbrechen, "
+   ]
+  }, 
+  {
+   "begin": "196.640", 
+   "children": [], 
+   "end": "203.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Attacken aus dem Bereich des Rechtsextremismus kommt, "
+   ]
+  }, 
+  {
+   "begin": "203.160", 
+   "children": [], 
+   "end": "214.840", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass aber auch eine wachsende Zahl antisemitischer Handlungen von eingewanderten Menschen festzustellen ist, "
+   ]
+  }, 
+  {
+   "begin": "214.840", 
+   "children": [], 
+   "end": "217.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die aus einer Region kommen, "
+   ]
+  }, 
+  {
+   "begin": "217.480", 
+   "children": [], 
+   "end": "225.360", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wo der Hass auf Israel und Antisemitismus eins zu eins gepflegt werden, "
+   ]
+  }, 
+  {
+   "begin": "225.360", 
+   "children": [], 
+   "end": "229.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr verehrten Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "229.280", 
+   "children": [], 
+   "end": "235.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Beides d\u00fcrfen wir nicht zulassen."
+   ]
+  }, 
+  {
+   "begin": "235.600", 
+   "children": [], 
+   "end": "245.800", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wenn vor einigen Tagen vor dem Brandenburger Tor israelische Flaggen verbrannt wurden, "
+   ]
+  }, 
+  {
+   "begin": "245.800", 
+   "children": [], 
+   "end": "247.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "bin ich der Meinung, "
+   ]
+  }, 
+  {
+   "begin": "247.280", 
+   "children": [], 
+   "end": "253.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass man dies nicht mit dem Satz \u201eDas ist die Flagge eines Staates\u201c abtun kann; "
+   ]
+  }, 
+  {
+   "begin": "253.840", 
+   "children": [], 
+   "end": "259.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "denn die Flagge Israels hat bei uns in Deutschland eine andere Bedeutung. "
+   ]
+  }, 
+  {
+   "begin": "259.240", 
+   "children": [], 
+   "end": "262.760", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen d\u00fcrfen wir dies nicht zulassen."
+   ]
+  }, 
+  {
+   "begin": "262.760", 
+   "children": [], 
+   "end": "275.920", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben eine gro\u00dfe Aufgabe vor uns. "
+   ]
+  }, 
+  {
+   "begin": "275.920", 
+   "children": [], 
+   "end": "278.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt kann man nat\u00fcrlich dar\u00fcber diskutieren, "
+   ]
+  }, 
+  {
+   "begin": "278.920", 
+   "children": [], 
+   "end": "286.040", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "ob die Vorschl\u00e4ge der Expertenkommission tats\u00e4chlich zu dem gew\u00fcnschten Erfolg f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "286.040", 
+   "children": [], 
+   "end": "289.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem bin ich der Meinung, "
+   ]
+  }, 
+  {
+   "begin": "289.880", 
+   "children": [], 
+   "end": "292.760", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass man den entscheidenden Vorschlag, "
+   ]
+  }, 
+  {
+   "begin": "292.760", 
+   "children": [], 
+   "end": "295.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "der dort gemacht worden ist, "
+   ]
+  }, 
+  {
+   "begin": "295.280", 
+   "children": [], 
+   "end": "299.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "doch zuerst einmal umsetzen sollte. "
+   ]
+  }, 
+  {
+   "begin": "299.400", 
+   "children": [], 
+   "end": "301.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Damit gehen wir an die Arbeit, "
+   ]
+  }, 
+  {
+   "begin": "301.600", 
+   "children": [], 
+   "end": "302.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und dann schauen wir uns an, "
+   ]
+  }, 
+  {
+   "begin": "302.920", 
+   "children": [], 
+   "end": "304.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ob es Erfolg hat."
+   ]
+  }, 
+  {
+   "begin": "304.840", 
+   "children": [], 
+   "end": "307.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde es richtig, "
+   ]
+  }, 
+  {
+   "begin": "307.640", 
+   "children": [], 
+   "end": "311.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in unserem gemeinsamen Antrag formulieren: "
+   ]
+  }, 
+  {
+   "begin": "311.160", 
+   "children": [], 
+   "end": "313.840", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Wir fordern die Bundesregierung auf, "
+   ]
+  }, 
+  {
+   "begin": "313.840", 
+   "children": [], 
+   "end": "323.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "den von der Expertenkommission vorgeschlagenen Beauftragten f\u00fcr Antisemitismusbek\u00e4mpfung einzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "323.120", 
+   "children": [], 
+   "end": "325.120", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage zu, "
+   ]
+  }, 
+  {
+   "begin": "325.120", 
+   "children": [], 
+   "end": "330.160", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass wir als Union dies auf jeden Fall in jeder Koalition, "
+   ]
+  }, 
+  {
+   "begin": "330.160", 
+   "children": [], 
+   "end": "332.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die wir eingehen, "
+   ]
+  }, 
+  {
+   "begin": "332.160", 
+   "children": [], 
+   "end": "334.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "auch durchsetzen. "
+   ]
+  }, 
+  {
+   "begin": "334.680", 
+   "children": [], 
+   "end": "335.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube auch, "
+   ]
+  }, 
+  {
+   "begin": "335.840", 
+   "children": [], 
+   "end": "337.240", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass es richtig ist, "
+   ]
+  }, 
+  {
+   "begin": "337.240", 
+   "children": [], 
+   "end": "339.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass wir im Bundestag gesagt haben: "
+   ]
+  }, 
+  {
+   "begin": "339.280", 
+   "children": [], 
+   "end": "340.800", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen das.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "340.800", 
+   "children": [], 
+   "end": "348.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden dies in den Beratungen \u00fcber den Haushaltsplan finanziell unterlegen und auf den Weg bringen, "
+   ]
+  }, 
+  {
+   "begin": "348.160", 
+   "children": [], 
+   "end": "350.040", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "350.040", 
+   "children": [], 
+   "end": "359.160", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich wird in dem Bericht auch gesagt, "
+   ]
+  }, 
+  {
+   "begin": "359.160", 
+   "children": [], 
+   "end": "362.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "was dieser Beauftragte machen soll. "
+   ]
+  }, 
+  {
+   "begin": "362.640", 
+   "children": [], 
+   "end": "363.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "363.360", 
+   "children": [], 
+   "end": "364.720", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "das Entscheidende ist, "
+   ]
+  }, 
+  {
+   "begin": "364.720", 
+   "children": [], 
+   "end": "372.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "vor allem bei der j\u00fcngeren Generation Bewusstsein zu schaffen. "
+   ]
+  }, 
+  {
+   "begin": "372.240", 
+   "children": [], 
+   "end": "375.000", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Es darf nie passieren, "
+   ]
+  }, 
+  {
+   "begin": "375.000", 
+   "children": [], 
+   "end": "392.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass junge Menschen aus unseren Schulen herauskommen und \u00fcber das Thema Antisemitismus noch kein einziges Wort geh\u00f6rt haben."
+   ]
+  }, 
+  {
+   "begin": "392.120", 
+   "children": [], 
+   "end": "394.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Mit dieser Arbeit, "
+   ]
+  }, 
+  {
+   "begin": "394.240", 
+   "children": [], 
+   "end": "398.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die wir da vor uns haben, "
+   ]
+  }, 
+  {
+   "begin": "398.480", 
+   "children": [], 
+   "end": "407.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und dem Beauftragten k\u00f6nnen wir ein Zeichen senden an die Juden, "
+   ]
+  }, 
+  {
+   "begin": "407.200", 
+   "children": [], 
+   "end": "410.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "die in unserem Land leben: "
+   ]
+  }, 
+  {
+   "begin": "410.160", 
+   "children": [], 
+   "end": "413.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir nehmen eure Sorgen ernst. "
+   ]
+  }, 
+  {
+   "begin": "413.440", 
+   "children": [], 
+   "end": "415.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir stehen zu euch, "
+   ]
+  }, 
+  {
+   "begin": "415.760", 
+   "children": [], 
+   "end": "418.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "und wir werden nicht zulassen, "
+   ]
+  }, 
+  {
+   "begin": "418.640", 
+   "children": [], 
+   "end": "423.240", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass Antisemitismus in unserem Land euch so bedr\u00e4ngt. "
+   ]
+  }, 
+  {
+   "begin": "423.240", 
+   "children": [], 
+   "end": "426.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden alles daf\u00fcr tun, "
+   ]
+  }, 
+  {
+   "begin": "426.560", 
+   "children": [], 
+   "end": "440.200", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass j\u00fcdisches Leben auch in Zukunft in unserem Land existieren kann."
+   ]
+  }, 
+  {
+   "begin": "440.200", 
+   "children": [], 
+   "end": "444.200", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden alles daransetzen, "
+   ]
+  }, 
+  {
+   "begin": "444.200", 
+   "children": [], 
+   "end": "444.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass Dinge, "
+   ]
+  }, 
+  {
+   "begin": "444.960", 
+   "children": [], 
+   "end": "449.160", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "die wir nicht f\u00fcr in Ordnung halten, "
+   ]
+  }, 
+  {
+   "begin": "449.160", 
+   "children": [], 
+   "end": "452.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "auch entsprechend geahndet werden. "
+   ]
+  }, 
+  {
+   "begin": "452.040", 
+   "children": [], 
+   "end": "454.920", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden deshalb pr\u00fcfen, "
+   ]
+  }, 
+  {
+   "begin": "454.920", 
+   "children": [], 
+   "end": "463.720", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "ob wir das Verbrennen von Flaggen des Staates Israel in unserem Land verbieten k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "463.720", 
+   "children": [], 
+   "end": "465.560", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir tun alles, "
+   ]
+  }, 
+  {
+   "begin": "465.560", 
+   "children": [], 
+   "end": "470.960", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "damit Antisemitismus in unserem Land zur\u00fcckgedr\u00e4ngt wird. "
+   ]
+  }, 
+  {
+   "begin": "470.960", 
+   "children": [], 
+   "end": "475.920", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "In Deutschland darf es nie wieder Antisemitismus geben, "
+   ]
+  }, 
+  {
+   "begin": "475.920", 
+   "children": [], 
+   "end": "477.680", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "und in dem Umfang, "
+   ]
+  }, 
+  {
+   "begin": "477.680", 
+   "children": [], 
+   "end": "479.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "wie wir ihn jetzt haben, "
+   ]
+  }, 
+  {
+   "begin": "479.320", 
+   "children": [], 
+   "end": "481.360", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "muss er weiter zur\u00fcckgedr\u00e4ngt werden. "
+   ]
+  }, 
+  {
+   "begin": "481.360", 
+   "children": [], 
+   "end": "482.640", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann nur sagen: "
+   ]
+  }, 
+  {
+   "begin": "482.640", 
+   "children": [], 
+   "end": "486.160", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wer sich antisemitisch \u00e4u\u00dfert, "
+   ]
+  }, 
+  {
+   "begin": "486.160", 
+   "children": [], 
+   "end": "489.720", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "der muss daf\u00fcr auch \u00f6ffentlich entsprechend zur Rechenschaft gezogen werden."
+   ]
+  }, 
+  {
+   "begin": "489.720", 
+   "children": [], 
+   "end": "503.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin ist Kerstin Griese f\u00fcr die Fraktion der SPD."
+   ]
+  }
+ ]
+}

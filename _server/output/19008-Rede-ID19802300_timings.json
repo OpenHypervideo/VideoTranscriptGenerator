@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "children": [], 
+   "end": "4.080", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "children": [], 
+   "end": "5.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "In der letzten Wahlperiode\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "children": [], 
+   "end": "7.000", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Matthias Zimmer hat es gesagt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "children": [], 
+   "end": "11.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "war der Arbeitsmarkt von einer Positivmeldung nach der anderen gekennzeichnet. "
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "children": [], 
+   "end": "15.120", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die Arbeitslosenzahlen sind gesunken wie noch nie. "
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "children": [], 
+   "end": "16.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wir freuen uns dar\u00fcber. "
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "children": [], 
+   "end": "18.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Es ist f\u00fcr uns ein Ansporn, "
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "children": [], 
+   "end": "20.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "weiter f\u00fcr gute Arbeit zu k\u00e4mpfen. "
+   ]
+  }, 
+  {
+   "begin": "20.760", 
+   "children": [], 
+   "end": "21.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "21.480", 
+   "children": [], 
+   "end": "24.200", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD-Fraktion k\u00e4mpft f\u00fcr gute Arbeit. "
+   ]
+  }, 
+  {
+   "begin": "24.200", 
+   "children": [], 
+   "end": "26.960", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00e4mpfen nach wie vor daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "26.960", 
+   "children": [], 
+   "end": "29.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass sachgrundlose Befristungen abgeschafft werden,"
+   ]
+  }, 
+  {
+   "begin": "29.920", 
+   "children": [], 
+   "end": "35.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "weil nur das eine Planbarkeit des Lebens gerade f\u00fcr junge Menschen gew\u00e4hrleistet. "
+   ]
+  }, 
+  {
+   "begin": "35.200", 
+   "children": [], 
+   "end": "36.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00e4mpfen daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "36.440", 
+   "children": [], 
+   "end": "41.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass Leiharbeitnehmer ab dem ersten Tag so verg\u00fctet werden wie Stammbelegschaften."
+   ]
+  }, 
+  {
+   "begin": "41.880", 
+   "children": [], 
+   "end": "44.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00e4mpfen daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "44.400", 
+   "children": [], 
+   "end": "49.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bek\u00e4mpfung des Missbrauchs von Werkvertr\u00e4gen verst\u00e4rkt wird. "
+   ]
+  }, 
+  {
+   "begin": "49.160", 
+   "children": [], 
+   "end": "50.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Und wir k\u00e4mpfen daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "50.400", 
+   "children": [], 
+   "end": "55.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass die Arbeit auf Abruf einged\u00e4mmt wird."
+   ]
+  }, 
+  {
+   "begin": "55.000", 
+   "children": [], 
+   "end": "57.320", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD fordert einen Pakt f\u00fcr anst\u00e4ndige L\u00f6hne, "
+   ]
+  }, 
+  {
+   "begin": "57.320", 
+   "children": [], 
+   "end": "60.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "eine st\u00e4rkere Tarifbindung und den Ausbau der Mitbestimmung. "
+   ]
+  }, 
+  {
+   "begin": "60.600", 
+   "children": [], 
+   "end": "62.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen eine Weiterbildungsoffensive\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "62.760", 
+   "children": [], 
+   "end": "64.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "mit einem Recht auf Weiterbildung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "64.480", 
+   "children": [], 
+   "end": "67.160", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und ein neues Arbeitslosengeld\u00a0Q."
+   ]
+  }, 
+  {
+   "begin": "67.160", 
+   "children": [], 
+   "end": "68.200", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "68.200", 
+   "children": [], 
+   "end": "74.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "unser wichtigstes Ziel ist in dieser Legislaturperiode aber die Einf\u00fchrung eines sozialen Arbeitsmarktes. "
+   ]
+  }, 
+  {
+   "begin": "74.800", 
+   "children": [], 
+   "end": "77.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Denn es gibt viele Langzeitarbeitslose, "
+   ]
+  }, 
+  {
+   "begin": "77.560", 
+   "children": [], 
+   "end": "82.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die den Sprung in den ersten Arbeitsmarkt schlicht und ergreifend nicht mehr schaffen. "
+   ]
+  }, 
+  {
+   "begin": "82.120", 
+   "children": [], 
+   "end": "83.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Es ist nicht richtig, "
+   ]
+  }, 
+  {
+   "begin": "83.480", 
+   "children": [], 
+   "end": "86.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "solche Menschen auf Dauer zum Nichtstun zu verdammen."
+   ]
+  }, 
+  {
+   "begin": "86.560", 
+   "children": [], 
+   "end": "87.680", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Denn Arbeit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "87.680", 
+   "children": [], 
+   "end": "90.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "da schlie\u00dfe ich mich Matthias Zimmer an\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "90.200", 
+   "children": [], 
+   "end": "93.320", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "ist mehr als nur Geldverdienen; "
+   ]
+  }, 
+  {
+   "begin": "93.320", 
+   "children": [], 
+   "end": "98.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Arbeit gibt dem Leben Sinn und strukturiert den Tag."
+   ]
+  }, 
+  {
+   "begin": "98.120", 
+   "children": [], 
+   "end": "100.720", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "100.720", 
+   "children": [], 
+   "end": "105.960", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "egal wie Sie die Sondierungsvereinbarung zwischen Unionsparteien und SPD bewerten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "105.960", 
+   "children": [], 
+   "end": "110.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die Passage zum sozialen Arbeitsmarkt ist schlichtweg gro\u00dfartig."
+   ]
+  }, 
+  {
+   "begin": "110.240", 
+   "children": [], 
+   "end": "115.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen 150\u00a0000\u00a0Langzeitarbeitslosen eine Besch\u00e4ftigung geben."
+   ]
+  }, 
+  {
+   "begin": "115.400", 
+   "children": [], 
+   "end": "116.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Noch besser ist es, "
+   ]
+  }, 
+  {
+   "begin": "116.600", 
+   "children": [], 
+   "end": "118.720", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "wie die Finanzierung funktionieren soll. "
+   ]
+  }, 
+  {
+   "begin": "118.720", 
+   "children": [], 
+   "end": "126.360", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Zum ersten Mal werden wir Mittel aus der passiven Arbeitsmarktpolitik in die aktive Arbeitsmarktpolitik transferieren. "
+   ]
+  }, 
+  {
+   "begin": "126.360", 
+   "children": [], 
+   "end": "127.160", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "127.160", 
+   "children": [], 
+   "end": "130.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass wir einen Passiv-Aktiv-Tausch machen und k\u00fcnftig nicht Arbeitslosigkeit, "
+   ]
+  }, 
+  {
+   "begin": "130.960", 
+   "children": [], 
+   "end": "133.960", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "sondern Arbeit finanzieren wollen."
+   ]
+  }, 
+  {
+   "begin": "133.960", 
+   "children": [], 
+   "end": "140.080", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "In der letzten Legislaturperiode war es vor allen Dingen Bundesfinanzminister Sch\u00e4uble, "
+   ]
+  }, 
+  {
+   "begin": "140.080", 
+   "children": [], 
+   "end": "141.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "der das verhindert hat. "
+   ]
+  }, 
+  {
+   "begin": "141.440", 
+   "children": [], 
+   "end": "143.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Leider sitzt er jetzt gerade nicht mehr hinter mir, "
+   ]
+  }, 
+  {
+   "begin": "143.880", 
+   "children": [], 
+   "end": "144.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "aber ich muss gestehen: "
+   ]
+  }, 
+  {
+   "begin": "144.600", 
+   "children": [], 
+   "end": "146.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe mich richtig gefreut, "
+   ]
+  }, 
+  {
+   "begin": "146.360", 
+   "children": [], 
+   "end": "150.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "als wir Herrn Sch\u00e4uble zum Bundestagspr\u00e4sidenten gew\u00e4hlt haben."
+   ]
+  }, 
+  {
+   "begin": "150.160", 
+   "children": [], 
+   "end": "152.080", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren von der Linken, "
+   ]
+  }, 
+  {
+   "begin": "152.080", 
+   "children": [], 
+   "end": "153.440", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Antrag\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "153.440", 
+   "children": [], 
+   "end": "154.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "das werden Sie gemerkt haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "154.760", 
+   "children": [], 
+   "end": "157.080", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "ist in Teilen durchaus deckungsgleich mit dem, "
+   ]
+  }, 
+  {
+   "begin": "157.080", 
+   "children": [], 
+   "end": "158.200", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "was wir wollen."
+   ]
+  }, 
+  {
+   "begin": "158.200", 
+   "children": [], 
+   "end": "159.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Frau Zimmermann, "
+   ]
+  }, 
+  {
+   "begin": "159.920", 
+   "children": [], 
+   "end": "161.040", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "ich danke Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "161.040", 
+   "children": [], 
+   "end": "162.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie klargestellt haben, "
+   ]
+  }, 
+  {
+   "begin": "162.400", 
+   "children": [], 
+   "end": "165.600", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass es nur um 1\u00a0050\u00a0Euro geht. "
+   ]
+  }, 
+  {
+   "begin": "165.600", 
+   "children": [], 
+   "end": "167.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Ich war schon einigerma\u00dfen konsterniert, "
+   ]
+  }, 
+  {
+   "begin": "167.960", 
+   "children": [], 
+   "end": "172.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie Arbeitslosen mehr Geld zahlen wollen als Menschen auf dem sozialen Arbeitsmarkt. "
+   ]
+  }, 
+  {
+   "begin": "172.800", 
+   "children": [], 
+   "end": "173.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe gedacht: "
+   ]
+  }, 
+  {
+   "begin": "173.960", 
+   "children": [], 
+   "end": "177.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt will die Linke Arbeitslosigkeit schon besser alimentieren als Arbeit? "
+   ]
+  }, 
+  {
+   "begin": "177.080", 
+   "children": [], 
+   "end": "178.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Das kann ja wohl nicht wahr sein.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "178.960", 
+   "children": [], 
+   "end": "180.800", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen f\u00fcr die Klarstellung."
+   ]
+  }, 
+  {
+   "begin": "180.800", 
+   "children": [], 
+   "end": "188.840", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Die FDP fordert eine Beitragssatzsenkung der Arbeitslosenversicherungsbeitr\u00e4ge um 0,5\u00a0Prozentpunkte. "
+   ]
+  }, 
+  {
+   "begin": "188.840", 
+   "children": [], 
+   "end": "189.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "189.600", 
+   "children": [], 
+   "end": "192.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Eine Beitragssatzsenkung ist in Ordnung; "
+   ]
+  }, 
+  {
+   "begin": "192.000", 
+   "children": [], 
+   "end": "195.320", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "aber die letzte Finanzkrise hat uns doch eines gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "195.320", 
+   "children": [], 
+   "end": "196.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich dass es ratsam ist, "
+   ]
+  }, 
+  {
+   "begin": "196.840", 
+   "children": [], 
+   "end": "199.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "immer ein Finanzpolster in der Hinterhand zu haben, "
+   ]
+  }, 
+  {
+   "begin": "199.440", 
+   "children": [], 
+   "end": "201.920", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "und das gerade im Bereich der Arbeitsmarktpolitik. "
+   ]
+  }, 
+  {
+   "begin": "201.920", 
+   "children": [], 
+   "end": "203.760", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es richtig, "
+   ]
+  }, 
+  {
+   "begin": "203.760", 
+   "children": [], 
+   "end": "205.240", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "was im Sondierungspapier steht: "
+   ]
+  }, 
+  {
+   "begin": "205.240", 
+   "children": [], 
+   "end": "209.240", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Eine Absenkung um 0,3\u00a0Prozentpunkte reicht aus."
+   ]
+  }, 
+  {
+   "begin": "209.240", 
+   "children": [], 
+   "end": "211.840", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Ohnehin ist festzustellen: "
+   ]
+  }, 
+  {
+   "begin": "211.840", 
+   "children": [], 
+   "end": "214.040", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Der Teil zur Arbeitsmarkt- "
+   ]
+  }, 
+  {
+   "begin": "214.040", 
+   "children": [], 
+   "end": "217.160", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "und Sozialpolitik im Sondierungspapier ist richtig stark. "
+   ]
+  }, 
+  {
+   "begin": "217.160", 
+   "children": [], 
+   "end": "218.560", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Dennoch: "
+   ]
+  }, 
+  {
+   "begin": "218.560", 
+   "children": [], 
+   "end": "221.760", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wir Sozialdemokraten tun uns nicht leicht damit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "221.760", 
+   "children": [], 
+   "end": "222.840", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "das wissen Sie alle\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "222.840", 
+   "children": [], 
+   "end": "227.280", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "in eine dritte Gro\u00dfe Koalition mit Bundeskanzlerin Merkel einzutreten. "
+   ]
+  }, 
+  {
+   "begin": "227.280", 
+   "children": [], 
+   "end": "232.960", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Das wird in unserer Partei sehr kontrovers und auch intensiv diskutiert. "
+   ]
+  }, 
+  {
+   "begin": "232.960", 
+   "children": [], 
+   "end": "237.040", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Sie von der CSU nennen das einen \u201eZwergenaufstand\u201c. "
+   ]
+  }, 
+  {
+   "begin": "237.040", 
+   "children": [], 
+   "end": "237.880", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "237.880", 
+   "children": [], 
+   "end": "243.160", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "das sagt viel \u00fcber Ihr Demokratieverst\u00e4ndnis aus."
+   ]
+  }, 
+  {
+   "begin": "243.160", 
+   "children": [], 
+   "end": "243.600", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Ich f\u00fcrchte, "
+   ]
+  }, 
+  {
+   "begin": "243.600", 
+   "children": [], 
+   "end": "247.840", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben einfach zu h\u00e4ufig Herrn Orban in Ihr Kloster eingeladen."
+   ]
+  }, 
+  {
+   "begin": "247.840", 
+   "children": [], 
+   "end": "249.320", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Der Unterschied zwischen Ihnen und uns ist: "
+   ]
+  }, 
+  {
+   "begin": "249.320", 
+   "children": [], 
+   "end": "250.640", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen eine gelenkte Demokratie, "
+   ]
+  }, 
+  {
+   "begin": "250.640", 
+   "children": [], 
+   "end": "252.400", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "wir eine gelebte Demokratie."
+   ]
+  }, 
+  {
+   "begin": "252.400", 
+   "children": [], 
+   "end": "254.040", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen."
+   ]
+  }, 
+  {
+   "begin": "254.040", 
+   "children": [], 
+   "end": "265.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Der n\u00e4chste Redner ist Kollege Martin Sichert von der AfD-Fraktion."
+   ]
+  }
+ ]
+}

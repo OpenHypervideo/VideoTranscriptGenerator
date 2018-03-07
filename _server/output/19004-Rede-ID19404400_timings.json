@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.800", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "children": [], 
+   "end": "16.920", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "children": [], 
+   "end": "20.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "20.840", 
+   "children": [], 
+   "end": "25.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Bei den Brexit-Verhandlungen stellen sich aktuell die Fragen: "
+   ]
+  }, 
+  {
+   "begin": "25.520", 
+   "children": [], 
+   "end": "30.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ist ausreichender Fortschritt in den Verhandlungen erzielt worden? "
+   ]
+  }, 
+  {
+   "begin": "30.320", 
+   "children": [], 
+   "end": "42.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Soll der Europ\u00e4ische Rat am Freitag den Weg f\u00fcr weitere Verhandlungen \u00fcber das zuk\u00fcnftige Verh\u00e4ltnis zwischen dem Vereinigten K\u00f6nigreich und der Europ\u00e4ischen Union er\u00f6ffnen? "
+   ]
+  }, 
+  {
+   "begin": "42.840", 
+   "children": [], 
+   "end": "45.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "An dieser Stelle ist zun\u00e4chst festzustellen, "
+   ]
+  }, 
+  {
+   "begin": "45.600", 
+   "children": [], 
+   "end": "50.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Einteilung in zwei Phasen als richtig erwiesen hat."
+   ]
+  }, 
+  {
+   "begin": "50.240", 
+   "children": [], 
+   "end": "55.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Gro\u00dfbritannien hat sich in der Vergangenheit immer als knallharter Verhandlungspartner erwiesen, "
+   ]
+  }, 
+  {
+   "begin": "55.880", 
+   "children": [], 
+   "end": "61.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "hat st\u00e4ndig Rosinenpickerei betrieben und hat auch Sonderrechte erhalten. "
+   ]
+  }, 
+  {
+   "begin": "61.080", 
+   "children": [], 
+   "end": "63.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke an den Briten-Rabatt, "
+   ]
+  }, 
+  {
+   "begin": "63.080", 
+   "children": [], 
+   "end": "71.040", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die Nichtzugeh\u00f6rigkeit zur W\u00e4hrungsunion und zum Schengen-Raum und an die vielen Opt-ins und Opt-outs im Bereich Justiz und Inneres."
+   ]
+  }, 
+  {
+   "begin": "71.040", 
+   "children": [], 
+   "end": "74.480", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben also unsere Erfahrungen gemacht und mussten damit rechnen, "
+   ]
+  }, 
+  {
+   "begin": "74.480", 
+   "children": [], 
+   "end": "80.440", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass Gro\u00dfbritannien wichtige Fragen bis ans Ende der Verhandlungen zur\u00fcckstellen wird oder am liebsten gar nicht behandeln will. "
+   ]
+  }, 
+  {
+   "begin": "80.440", 
+   "children": [], 
+   "end": "83.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Man wollte sofort \u00fcber einen Handelsvertrag reden. "
+   ]
+  }, 
+  {
+   "begin": "83.920", 
+   "children": [], 
+   "end": "90.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Eindruck ist durch die Verhandlungen selbst auch best\u00e4tigt worden: "
+   ]
+  }, 
+  {
+   "begin": "90.680", 
+   "children": [], 
+   "end": "94.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Boris Johnson und David Davis haben stets gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "94.800", 
+   "children": [], 
+   "end": "96.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass bei ihnen \u00fcberhaupt kein Interesse besteht, "
+   ]
+  }, 
+  {
+   "begin": "96.800", 
+   "children": [], 
+   "end": "103.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber Zahlen und Positionen im Bereich der finanziellen Verpflichtungen zu sprechen."
+   ]
+  }, 
+  {
+   "begin": "103.440", 
+   "children": [], 
+   "end": "109.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "In ihrer Florenz-Rede am 22.\u00a0September 2017 hat die Premierministerin Theresa May zwar gesagt, "
+   ]
+  }, 
+  {
+   "begin": "109.360", 
+   "children": [], 
+   "end": "113.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Gro\u00dfbritannien werde seine Verpflichtungen erf\u00fcllen, "
+   ]
+  }, 
+  {
+   "begin": "113.440", 
+   "children": [], 
+   "end": "115.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "als es dann in die Verhandlungen ging, "
+   ]
+  }, 
+  {
+   "begin": "115.800", 
+   "children": [], 
+   "end": "117.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "hie\u00df es bei David Davis aber stets: "
+   ]
+  }, 
+  {
+   "begin": "117.560", 
+   "children": [], 
+   "end": "118.280", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Es ist nicht die Zeit, "
+   ]
+  }, 
+  {
+   "begin": "118.280", 
+   "children": [], 
+   "end": "119.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "das m\u00fcssen wir bis sp\u00e4ter verschieben, "
+   ]
+  }, 
+  {
+   "begin": "119.640", 
+   "children": [], 
+   "end": "126.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir auch \u00fcber die zuk\u00fcnftige Beziehung zwischen dem Vereinigten K\u00f6nigreich und der EU reden."
+   ]
+  }, 
+  {
+   "begin": "126.440", 
+   "children": [], 
+   "end": "132.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Nach der monatelangen Blockade ist an dieser Stelle nun endlich der Gordische Knoten durchgeschlagen worden. "
+   ]
+  }, 
+  {
+   "begin": "132.480", 
+   "children": [], 
+   "end": "136.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb kann man in diesem Bereich auch tats\u00e4chlich von einem Durchbruch sprechen. "
+   ]
+  }, 
+  {
+   "begin": "136.280", 
+   "children": [], 
+   "end": "139.800", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re f\u00fcr mich ohne die Arbeit von Michel Barnier und seiner Mitarbeiter, "
+   ]
+  }, 
+  {
+   "begin": "139.800", 
+   "children": [], 
+   "end": "140.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "seines Teams, "
+   ]
+  }, 
+  {
+   "begin": "140.680", 
+   "children": [], 
+   "end": "147.360", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "nicht denkbar gewesen. "
+   ]
+  }, 
+  {
+   "begin": "147.360", 
+   "children": [], 
+   "end": "148.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb, "
+   ]
+  }, 
+  {
+   "begin": "148.120", 
+   "children": [], 
+   "end": "148.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "meine ich, "
+   ]
+  }, 
+  {
+   "begin": "148.600", 
+   "children": [], 
+   "end": "154.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "kann man ihm auch einmal ausdr\u00fccklich f\u00fcr seine geleistete Arbeit danken."
+   ]
+  }, 
+  {
+   "begin": "154.960", 
+   "children": [], 
+   "end": "157.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ein Weiteres steht fest: "
+   ]
+  }, 
+  {
+   "begin": "157.520", 
+   "children": [], 
+   "end": "162.640", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die anderen 27\u00a0Mitgliedstaaten sind v\u00f6llig geschlossen aufgetreten. "
+   ]
+  }, 
+  {
+   "begin": "162.640", 
+   "children": [], 
+   "end": "164.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht immer der Fall. "
+   ]
+  }, 
+  {
+   "begin": "164.200", 
+   "children": [], 
+   "end": "166.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Man hat mit einer Stimme gesprochen, "
+   ]
+  }, 
+  {
+   "begin": "166.400", 
+   "children": [], 
+   "end": "167.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "und das macht uns stark. "
+   ]
+  }, 
+  {
+   "begin": "167.960", 
+   "children": [], 
+   "end": "168.680", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "168.680", 
+   "children": [], 
+   "end": "171.480", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir jetzt in die zweite Phase kommen, "
+   ]
+  }, 
+  {
+   "begin": "171.480", 
+   "children": [], 
+   "end": "173.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dann wird das das Pfund sein, "
+   ]
+  }, 
+  {
+   "begin": "173.080", 
+   "children": [], 
+   "end": "174.200", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "mit dem wir wuchern k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "174.200", 
+   "children": [], 
+   "end": "177.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir sollten diese Strategie beibehalten."
+   ]
+  }, 
+  {
+   "begin": "177.720", 
+   "children": [], 
+   "end": "182.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich sind die Regelungen erst verbindlich, "
+   ]
+  }, 
+  {
+   "begin": "182.120", 
+   "children": [], 
+   "end": "183.840", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "wenn alles vereinbart ist; "
+   ]
+  }, 
+  {
+   "begin": "183.840", 
+   "children": [], 
+   "end": "187.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "das Gesamtpaket muss vereinbart werden."
+   ]
+  }, 
+  {
+   "begin": "187.000", 
+   "children": [], 
+   "end": "188.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "188.080", 
+   "children": [], 
+   "end": "190.880", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die Briten sind f\u00fcr eine ausgebuffte Verhandlungsf\u00fchrung bekannt. "
+   ]
+  }, 
+  {
+   "begin": "190.880", 
+   "children": [], 
+   "end": "193.160", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Aber an dieser Stelle habe ich keine Zweifel: "
+   ]
+  }, 
+  {
+   "begin": "193.160", 
+   "children": [], 
+   "end": "196.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wenn in der jetzigen ersten Phase das Papier unterzeichnet sein wird, "
+   ]
+  }, 
+  {
+   "begin": "196.680", 
+   "children": [], 
+   "end": "200.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dann wird man sich auch an die Punkte halten, "
+   ]
+  }, 
+  {
+   "begin": "200.280", 
+   "children": [], 
+   "end": "202.160", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die vereinbart sind."
+   ]
+  }, 
+  {
+   "begin": "202.160", 
+   "children": [], 
+   "end": "202.960", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Im Einzelnen:"
+   ]
+  }, 
+  {
+   "begin": "202.960", 
+   "children": [], 
+   "end": "207.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Bei den B\u00fcrgerrechten wurde sehr viel und sehr Gutes erreicht. "
+   ]
+  }, 
+  {
+   "begin": "207.400", 
+   "children": [], 
+   "end": "210.160", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Man hat sich auf ein einfaches, "
+   ]
+  }, 
+  {
+   "begin": "210.160", 
+   "children": [], 
+   "end": "213.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "kosteng\u00fcnstiges und effizientes Verfahren verst\u00e4ndigt, "
+   ]
+  }, 
+  {
+   "begin": "213.720", 
+   "children": [], 
+   "end": "218.200", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "sodass die B\u00fcrger schnell an ihr Daueraufenthaltsrecht gelangen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "218.200", 
+   "children": [], 
+   "end": "223.200", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Das oberste britische Gericht soll f\u00fcr acht Jahre die M\u00f6glichkeit haben, "
+   ]
+  }, 
+  {
+   "begin": "223.200", 
+   "children": [], 
+   "end": "225.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "den Europ\u00e4ischen Gerichtshof anzurufen; "
+   ]
+  }, 
+  {
+   "begin": "225.760", 
+   "children": [], 
+   "end": "229.840", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "damit soll Einheitlichkeit in der Rechtsprechung sichergestellt werden."
+   ]
+  }, 
+  {
+   "begin": "229.840", 
+   "children": [], 
+   "end": "233.960", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Bei den finanziellen Verpflichtungen besteht weitgehend Einigkeit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "233.960", 
+   "children": [], 
+   "end": "234.840", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "nicht \u00fcber die Summen, "
+   ]
+  }, 
+  {
+   "begin": "234.840", 
+   "children": [], 
+   "end": "236.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die \u00fcberall herumgeistern, "
+   ]
+  }, 
+  {
+   "begin": "236.800", 
+   "children": [], 
+   "end": "239.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "sondern \u00fcber die Berechnungsmethode und dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "239.080", 
+   "children": [], 
+   "end": "242.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "um welche Positionen es letztlich geht. "
+   ]
+  }, 
+  {
+   "begin": "242.600", 
+   "children": [], 
+   "end": "245.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Eine Einigung wurde bislang aber nicht dar\u00fcber erzielt, "
+   ]
+  }, 
+  {
+   "begin": "245.720", 
+   "children": [], 
+   "end": "248.080", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "ob bei der Europ\u00e4ischen Investitionsbank\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "248.080", 
+   "children": [], 
+   "end": "249.680", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "das ist noch ein Knackpunkt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "249.680", 
+   "children": [], 
+   "end": "252.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "ein R\u00fcckzahlungsanspruch besteht, "
+   ]
+  }, 
+  {
+   "begin": "252.080", 
+   "children": [], 
+   "end": "255.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "der sich lediglich auf die Kapitaleinlagen bezieht, "
+   ]
+  }, 
+  {
+   "begin": "255.000", 
+   "children": [], 
+   "end": "259.120", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "oder ob er sich auch auf die entstandene Kapitalbildung im Bereich der R\u00fccklagen bezieht. "
+   ]
+  }, 
+  {
+   "begin": "259.120", 
+   "children": [], 
+   "end": "262.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber diesen Knackpunkt wird man noch diskutieren m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "262.560", 
+   "children": [], 
+   "end": "269.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Auch bez\u00fcglich der Kosten f\u00fcr den Umzug der beiden Agenturen wurde noch keine Einigkeit erzielt."
+   ]
+  }, 
+  {
+   "begin": "269.200", 
+   "children": [], 
+   "end": "274.800", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Zur Situation Irlands hat ein Kommentator das Ganze wie folgt zusammengefasst: "
+   ]
+  }, 
+  {
+   "begin": "274.800", 
+   "children": [], 
+   "end": "279.080", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Republik Irland vollwertiges Mitglied im EU-Binnenmarkt bleibt, "
+   ]
+  }, 
+  {
+   "begin": "279.080", 
+   "children": [], 
+   "end": "287.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "es keine Zollgrenze zu Nordirland geben darf und ebenfalls keine zwischen Nordirland und dem Vereinigten K\u00f6nigreich, "
+   ]
+  }, 
+  {
+   "begin": "287.080", 
+   "children": [], 
+   "end": "288.560", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dann bleibt nur die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "288.560", 
+   "children": [], 
+   "end": "293.360", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass das Vereinigte K\u00f6nigreich Mitglied im Binnenmarkt bleibt.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "293.360", 
+   "children": [], 
+   "end": "298.200", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Das ist in der Tat die Frage nach der Quadratur des Kreises, "
+   ]
+  }, 
+  {
+   "begin": "298.200", 
+   "children": [], 
+   "end": "301.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "die es zu beantworten gilt."
+   ]
+  }, 
+  {
+   "begin": "301.840", 
+   "children": [], 
+   "end": "304.960", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "In der jetzigen Phase stellt sich aber doch die Frage: "
+   ]
+  }, 
+  {
+   "begin": "304.960", 
+   "children": [], 
+   "end": "305.640", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Ist das, "
+   ]
+  }, 
+  {
+   "begin": "305.640", 
+   "children": [], 
+   "end": "307.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "was jetzt auf dem Tisch liegt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "307.360", 
+   "children": [], 
+   "end": "310.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "das muss nicht das endg\u00fcltige Ergebnis sein\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "310.080", 
+   "children": [], 
+   "end": "311.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "ausreichend, "
+   ]
+  }, 
+  {
+   "begin": "311.320", 
+   "children": [], 
+   "end": "315.400", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "um in die n\u00e4chste Verhandlungsphase gehen zu k\u00f6nnen? "
+   ]
+  }, 
+  {
+   "begin": "315.400", 
+   "children": [], 
+   "end": "315.920", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Ich meine, "
+   ]
+  }, 
+  {
+   "begin": "315.920", 
+   "children": [], 
+   "end": "319.120", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "man kann hier ohne Wenn und Aber feststellen: "
+   ]
+  }, 
+  {
+   "begin": "319.120", 
+   "children": [], 
+   "end": "322.880", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "In den Verhandlungen wurde ausreichender Fortschritt erzielt. "
+   ]
+  }, 
+  {
+   "begin": "322.880", 
+   "children": [], 
+   "end": "325.960", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen also dem Europ\u00e4ischen Rat empfehlen, "
+   ]
+  }, 
+  {
+   "begin": "325.960", 
+   "children": [], 
+   "end": "329.160", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "die n\u00e4chste Verhandlungsphase zu er\u00f6ffnen."
+   ]
+  }, 
+  {
+   "begin": "329.160", 
+   "children": [], 
+   "end": "329.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "329.960", 
+   "children": [], 
+   "end": "336.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Zu seiner ersten Rede erteile ich das Wort dem Kollegen Markus T\u00f6ns von der SPD-Fraktion."
+   ]
+  }
+ ]
+}

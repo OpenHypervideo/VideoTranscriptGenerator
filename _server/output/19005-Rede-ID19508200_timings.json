@@ -1,0 +1,2344 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "children": [], 
+   "end": "3.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "children": [], 
+   "end": "8.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Das ist kein AfD-Parteitag, "
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "children": [], 
+   "end": "11.880", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "und wir m\u00fcssen uns der Materie etwas komplexer n\u00e4hern, "
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "children": [], 
+   "end": "13.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Herr Gauland."
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "children": [], 
+   "end": "13.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Das versuche ich jetzt einmal."
+   ]
+  }, 
+  {
+   "begin": "13.920", 
+   "children": [], 
+   "end": "16.400", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Europa ist ein gemeinsamer Raum der Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "16.400", 
+   "children": [], 
+   "end": "18.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "der Sicherheit und des Rechts. "
+   ]
+  }, 
+  {
+   "begin": "18.480", 
+   "children": [], 
+   "end": "19.720", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Das war das Ziel, "
+   ]
+  }, 
+  {
+   "begin": "19.720", 
+   "children": [], 
+   "end": "37.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "nachdem im Vertrag von Amsterdam 1997 festgelegt worden war, "
+   ]
+  }, 
+  {
+   "begin": "37.360", 
+   "children": [], 
+   "end": "42.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "die Schengener Abkommen in das EU-Recht zu integrieren. "
+   ]
+  }, 
+  {
+   "begin": "42.600", 
+   "children": [], 
+   "end": "49.600", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben den B\u00fcrgern Europas versprochen und eine Garantie abgegeben, "
+   ]
+  }, 
+  {
+   "begin": "49.600", 
+   "children": [], 
+   "end": "51.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass offene Binnengrenzen, "
+   ]
+  }, 
+  {
+   "begin": "51.800", 
+   "children": [], 
+   "end": "58.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Personenfreiz\u00fcgigkeit bei mehr Sicherheit als in Zeiten von Schlagb\u00e4umen, "
+   ]
+  }, 
+  {
+   "begin": "58.280", 
+   "children": [], 
+   "end": "59.880", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6glich ist, "
+   ]
+  }, 
+  {
+   "begin": "59.880", 
+   "children": [], 
+   "end": "63.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und wir haben es l\u00e4ngst bewiesen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "63.520", 
+   "children": [], 
+   "end": "67.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "seit Mitte der 1990er-Jahre."
+   ]
+  }, 
+  {
+   "begin": "67.360", 
+   "children": [], 
+   "end": "71.680", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Personenfreiz\u00fcgigkeit ist ein zentrales Element, "
+   ]
+  }, 
+  {
+   "begin": "71.680", 
+   "children": [], 
+   "end": "75.080", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "eine S\u00e4ule des europ\u00e4ischen Einigungsprozesses."
+   ]
+  }, 
+  {
+   "begin": "75.080", 
+   "children": [], 
+   "end": "79.040", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Bevor wir den so platt zur Disposition stellen, "
+   ]
+  }, 
+  {
+   "begin": "79.040", 
+   "children": [], 
+   "end": "80.680", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie es machen, "
+   ]
+  }, 
+  {
+   "begin": "80.680", 
+   "children": [], 
+   "end": "82.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie uns diskutieren."
+   ]
+  }, 
+  {
+   "begin": "82.480", 
+   "children": [], 
+   "end": "83.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Geht das \u00fcberhaupt, "
+   ]
+  }, 
+  {
+   "begin": "83.800", 
+   "children": [], 
+   "end": "86.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "was man sich damals bei Schengen gedacht hat? "
+   ]
+  }, 
+  {
+   "begin": "86.480", 
+   "children": [], 
+   "end": "88.520", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Vor Ihnen steht jemand, "
+   ]
+  }, 
+  {
+   "begin": "88.520", 
+   "children": [], 
+   "end": "92.800", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "der in F\u00fchrungsverantwortung an der deutsch-franz\u00f6sischen Grenze, "
+   ]
+  }, 
+  {
+   "begin": "92.800", 
+   "children": [], 
+   "end": "94.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "an den Beneluxgrenzen, "
+   ]
+  }, 
+  {
+   "begin": "94.280", 
+   "children": [], 
+   "end": "95.360", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "an der deutsch-polnischen, "
+   ]
+  }, 
+  {
+   "begin": "95.360", 
+   "children": [], 
+   "end": "103.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "an der deutsch-tschechischen Grenze und zum Schluss an der deutsch-schweizerischen Grenze selber Schlagb\u00e4ume abgebaut hat. "
+   ]
+  }, 
+  {
+   "begin": "103.160", 
+   "children": [], 
+   "end": "104.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann Ihnen beredt erkl\u00e4ren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "104.840", 
+   "children": [], 
+   "end": "107.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "ich habe leider nur ein paar Minuten Redezeit\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "107.760", 
+   "children": [], 
+   "end": "110.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "wie intelligent Schengen ist, "
+   ]
+  }, 
+  {
+   "begin": "110.840", 
+   "children": [], 
+   "end": "113.480", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "wenn alle 26\u00a0Mitgliedstaaten das tun, "
+   ]
+  }, 
+  {
+   "begin": "113.480", 
+   "children": [], 
+   "end": "115.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "was wir vereinbart haben,"
+   ]
+  }, 
+  {
+   "begin": "115.960", 
+   "children": [], 
+   "end": "119.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und ich kann Ihnen beredt erkl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "119.120", 
+   "children": [], 
+   "end": "121.480", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "wie naiv und dumm es ist, "
+   ]
+  }, 
+  {
+   "begin": "121.480", 
+   "children": [], 
+   "end": "122.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "zu glauben, "
+   ]
+  }, 
+  {
+   "begin": "122.480", 
+   "children": [], 
+   "end": "123.480", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "all die Probleme, "
+   ]
+  }, 
+  {
+   "begin": "123.480", 
+   "children": [], 
+   "end": "123.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "die Sie, "
+   ]
+  }, 
+  {
+   "begin": "123.640", 
+   "children": [], 
+   "end": "124.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Herr Gauland, "
+   ]
+  }, 
+  {
+   "begin": "124.240", 
+   "children": [], 
+   "end": "124.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "auff\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "124.880", 
+   "children": [], 
+   "end": "126.800", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nne man mit einer Ma\u00dfnahme l\u00f6sen, "
+   ]
+  }, 
+  {
+   "begin": "126.800", 
+   "children": [], 
+   "end": "129.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich durch vollst\u00e4ndige Grenzkontrollen."
+   ]
+  }, 
+  {
+   "begin": "129.680", 
+   "children": [], 
+   "end": "131.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Da fehlen mir die Worte, "
+   ]
+  }, 
+  {
+   "begin": "131.840", 
+   "children": [], 
+   "end": "133.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "jedenfalls die diplomatischen."
+   ]
+  }, 
+  {
+   "begin": "133.560", 
+   "children": [], 
+   "end": "139.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Gestatten Sie eine Zwischenfrage des Abgeordneten Ehrhorn?"
+   ]
+  }, 
+  {
+   "begin": "139.960", 
+   "children": [], 
+   "end": "141.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ja; "
+   ]
+  }, 
+  {
+   "begin": "141.880", 
+   "children": [], 
+   "end": "144.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "deshalb sind wir ja hier."
+   ]
+  }, 
+  {
+   "begin": "144.120", 
+   "children": [], 
+   "end": "146.480", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Sehr verehrter Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "146.480", 
+   "children": [], 
+   "end": "148.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "ich m\u00f6chte Sie nur eines fragen: "
+   ]
+  }, 
+  {
+   "begin": "148.680", 
+   "children": [], 
+   "end": "149.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ist es richtig, "
+   ]
+  }, 
+  {
+   "begin": "149.680", 
+   "children": [], 
+   "end": "153.800", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass Ihre Partei ein Gutachten dazu eingeholt hat, "
+   ]
+  }, 
+  {
+   "begin": "153.800", 
+   "children": [], 
+   "end": "159.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "ob die widerrechtliche \u00d6ffnung der Grenzen verfassungskonform ist oder nicht, "
+   ]
+  }, 
+  {
+   "begin": "159.680", 
+   "children": [], 
+   "end": "164.200", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Gutachten vom Verfassungsrichter Di Fabio erstellt worden ist? "
+   ]
+  }, 
+  {
+   "begin": "164.200", 
+   "children": [], 
+   "end": "165.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Ist es weiterhin richtig, "
+   ]
+  }, 
+  {
+   "begin": "165.840", 
+   "children": [], 
+   "end": "166.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie, "
+   ]
+  }, 
+  {
+   "begin": "166.320", 
+   "children": [], 
+   "end": "168.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "nachdem Sie wussten, "
+   ]
+  }, 
+  {
+   "begin": "168.840", 
+   "children": [], 
+   "end": "174.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass das Verhalten der Regierung eben nicht verfassungskonform ist, "
+   ]
+  }, 
+  {
+   "begin": "174.840", 
+   "children": [], 
+   "end": "181.440", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "trotzdem in keinster Weise darauf reagiert haben?"
+   ]
+  }, 
+  {
+   "begin": "181.440", 
+   "children": [], 
+   "end": "183.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Ehrhorn, "
+   ]
+  }, 
+  {
+   "begin": "183.000", 
+   "children": [], 
+   "end": "186.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "ich k\u00f6nnte jetzt eine ganze Stunde darauf verwenden, "
+   ]
+  }, 
+  {
+   "begin": "186.400", 
+   "children": [], 
+   "end": "188.480", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "um \u00fcber das Gutachten von Herrn Di Fabio zu reden. "
+   ]
+  }, 
+  {
+   "begin": "188.480", 
+   "children": [], 
+   "end": "195.040", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Ich k\u00f6nnte aber auch auf die beiden Gutachten vom Wissenschaftlichen Dienst verweisen, "
+   ]
+  }, 
+  {
+   "begin": "195.040", 
+   "children": [], 
+   "end": "198.920", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die Sie in Ihrem Antrag erw\u00e4hnen."
+   ]
+  }, 
+  {
+   "begin": "198.920", 
+   "children": [], 
+   "end": "200.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Tun Sie mir einen Gefallen: "
+   ]
+  }, 
+  {
+   "begin": "200.280", 
+   "children": [], 
+   "end": "203.400", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Lesen Sie doch einmal Ihren eigenen Antrag"
+   ]
+  }, 
+  {
+   "begin": "203.400", 
+   "children": [], 
+   "end": "204.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "und die Gutachten, "
+   ]
+  }, 
+  {
+   "begin": "204.760", 
+   "children": [], 
+   "end": "206.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die Sie darin zitieren. "
+   ]
+  }, 
+  {
+   "begin": "206.200", 
+   "children": [], 
+   "end": "209.080", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Denn in diesen Gutachten steht klipp und klar: "
+   ]
+  }, 
+  {
+   "begin": "209.080", 
+   "children": [], 
+   "end": "214.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt Gr\u00fcnde f\u00fcr station\u00e4re Grenz\u00fcbertrittskontrollen, "
+   ]
+  }, 
+  {
+   "begin": "214.080", 
+   "children": [], 
+   "end": "217.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "bei denen man auch Zur\u00fcckweisungen aussprechen kann, "
+   ]
+  }, 
+  {
+   "begin": "217.200", 
+   "children": [], 
+   "end": "220.200", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "und es gibt besondere Situationen, "
+   ]
+  }, 
+  {
+   "begin": "220.200", 
+   "children": [], 
+   "end": "222.720", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "in denen ein Land entscheiden kann, "
+   ]
+  }, 
+  {
+   "begin": "222.720", 
+   "children": [], 
+   "end": "224.720", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "genau das nicht zu tun."
+   ]
+  }, 
+  {
+   "begin": "224.720", 
+   "children": [], 
+   "end": "229.960", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt k\u00f6nnten wir zusammen unendlich viele Juristen und Experten auff\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "229.960", 
+   "children": [], 
+   "end": "232.520", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr die eine oder die andere Meinung eintreten. "
+   ]
+  }, 
+  {
+   "begin": "232.520", 
+   "children": [], 
+   "end": "232.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "232.960", 
+   "children": [], 
+   "end": "234.680", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "was die L\u00f6sung ist: "
+   ]
+  }, 
+  {
+   "begin": "234.680", 
+   "children": [], 
+   "end": "241.640", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Grenzkontrollen macht man juristisch im Sinne einer Verh\u00e4ltnism\u00e4\u00dfigkeit zur politischen Lage. "
+   ]
+  }, 
+  {
+   "begin": "241.640", 
+   "children": [], 
+   "end": "242.240", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Man kann\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "242.240", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "das w\u00fcrde ich niemals bestreiten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "247.960", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "station\u00e4re Grenz\u00fcbertrittskontrollen durchf\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "247.960", 
+   "children": [], 
+   "end": "250.320", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "wenn eine Krisensituation besteht, "
+   ]
+  }, 
+  {
+   "begin": "250.320", 
+   "children": [], 
+   "end": "253.640", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "wenn eine Ultima-Ratio-Situation da ist, "
+   ]
+  }, 
+  {
+   "begin": "253.640", 
+   "children": [], 
+   "end": "256.480", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "wie sie 2015 bestand. "
+   ]
+  }, 
+  {
+   "begin": "256.480", 
+   "children": [], 
+   "end": "263.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Was hat der Bundesinnenminister Ende\u00a02015 entschieden? "
+   ]
+  }, 
+  {
+   "begin": "263.520", 
+   "children": [], 
+   "end": "269.920", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "An allen deutschen Landesgrenzen mit Schwerpunkt an der bayerisch-\u00f6sterreichischen Grenze sollen Grenz\u00fcbertrittskontrollen vorgenommen werden."
+   ]
+  }, 
+  {
+   "begin": "269.920", 
+   "children": [], 
+   "end": "272.040", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Was wollen Sie eigentlich? "
+   ]
+  }, 
+  {
+   "begin": "272.040", 
+   "children": [], 
+   "end": "272.600", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "272.600", 
+   "children": [], 
+   "end": "273.760", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "was Sie nicht verstehen, "
+   ]
+  }, 
+  {
+   "begin": "273.760", 
+   "children": [], 
+   "end": "274.080", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "274.080", 
+   "children": [], 
+   "end": "276.880", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "dass zwischen offenen Grenzen, "
+   ]
+  }, 
+  {
+   "begin": "276.880", 
+   "children": [], 
+   "end": "280.520", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Schleierfahndung nach Inkrafttreten des Schengener Abkommens, "
+   ]
+  }, 
+  {
+   "begin": "280.520", 
+   "children": [], 
+   "end": "282.120", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "R\u00f6mischen Vertr\u00e4gen, "
+   ]
+  }, 
+  {
+   "begin": "282.120", 
+   "children": [], 
+   "end": "287.400", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Kontaktdienststellenzusammenarbeit und station\u00e4ren Grenzkontrollen ein gro\u00dfes Instrumentarium liegt, "
+   ]
+  }, 
+  {
+   "begin": "287.400", 
+   "children": [], 
+   "end": "289.480", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "das man intelligent einsetzt. "
+   ]
+  }, 
+  {
+   "begin": "289.480", 
+   "children": [], 
+   "end": "291.720", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Dazu sind Sie leider nicht f\u00e4hig."
+   ]
+  }, 
+  {
+   "begin": "291.720", 
+   "children": [], 
+   "end": "294.280", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "294.280", 
+   "children": [], 
+   "end": "295.840", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "ich gebe es offen zu, "
+   ]
+  }, 
+  {
+   "begin": "295.840", 
+   "children": [], 
+   "end": "303.840", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "bevor Sie in der n\u00e4chsten Zwischenfrage auch noch aus \u201eDie Getriebenen\u201c zitieren: "
+   ]
+  }, 
+  {
+   "begin": "303.840", 
+   "children": [], 
+   "end": "304.560", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "304.560", 
+   "children": [], 
+   "end": "311.360", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "ich h\u00e4tte mir Ende\u00a02015 schneller Grenzkontrollen gew\u00fcnscht. "
+   ]
+  }, 
+  {
+   "begin": "311.360", 
+   "children": [], 
+   "end": "314.320", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Aber das ist ein demokratischer Meinungsbildungsprozess gewesen."
+   ]
+  }, 
+  {
+   "begin": "314.320", 
+   "children": [], 
+   "end": "316.600", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube sogar, "
+   ]
+  }, 
+  {
+   "begin": "316.600", 
+   "children": [], 
+   "end": "319.760", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "dass ich da eine ganz gute Wirkung erzielt habe. "
+   ]
+  }, 
+  {
+   "begin": "319.760", 
+   "children": [], 
+   "end": "322.520", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "In jedem Fall ist es so, "
+   ]
+  }, 
+  {
+   "begin": "322.520", 
+   "children": [], 
+   "end": "324.040", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren: "
+   ]
+  }, 
+  {
+   "begin": "324.040", 
+   "children": [], 
+   "end": "325.280", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Der Kollege Stephan Mayer, "
+   ]
+  }, 
+  {
+   "begin": "325.280", 
+   "children": [], 
+   "end": "329.240", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "der Kollege Clemens Binninger und ich haben Mitte\u00a02015, "
+   ]
+  }, 
+  {
+   "begin": "329.240", 
+   "children": [], 
+   "end": "332.000", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "vor dieser krisenhaften Situation, "
+   ]
+  }, 
+  {
+   "begin": "332.000", 
+   "children": [], 
+   "end": "334.720", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "an Jean-Claude Juncker geschrieben und erkl\u00e4rt: "
+   ]
+  }, 
+  {
+   "begin": "334.720", 
+   "children": [], 
+   "end": "338.760", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie nicht bald f\u00fcr eine Renaissance des Schengener Grenzkodex sorgen, "
+   ]
+  }, 
+  {
+   "begin": "338.760", 
+   "children": [], 
+   "end": "343.040", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "stehen wir unmittelbar vor der Einf\u00fchrung von station\u00e4ren Grenzkontrollen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "343.040", 
+   "children": [], 
+   "end": "344.480", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Bevor Sie wach waren, "
+   ]
+  }, 
+  {
+   "begin": "344.480", 
+   "children": [], 
+   "end": "346.760", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "sind wir l\u00e4ngst unterwegs gewesen."
+   ]
+  }, 
+  {
+   "begin": "346.760", 
+   "children": [], 
+   "end": "351.880", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Wir h\u00e4tten Sie im Parlament nicht gebraucht."
+   ]
+  }, 
+  {
+   "begin": "351.880", 
+   "children": [], 
+   "end": "357.120", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt sage ich Ihnen mal was als S\u00fcdbadener\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "357.120", 
+   "children": [], 
+   "end": "360.920", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "wir empfinden uns als Vorbildeurop\u00e4er\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "360.920", 
+   "children": [], 
+   "end": "365.960", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Bevor wir uns von solch stumpfen Argumenten unsere Reisefreiheit, "
+   ]
+  }, 
+  {
+   "begin": "365.960", 
+   "children": [], 
+   "end": "372.360", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "unseren Handel und die Wirtschaft zerst\u00f6ren oder gravierend st\u00f6ren lassen,"
+   ]
+  }, 
+  {
+   "begin": "372.360", 
+   "children": [], 
+   "end": "374.240", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "k\u00e4mpfen wir um das, "
+   ]
+  }, 
+  {
+   "begin": "374.240", 
+   "children": [], 
+   "end": "375.560", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "worum es wirklich geht, "
+   ]
+  }, 
+  {
+   "begin": "375.560", 
+   "children": [], 
+   "end": "376.760", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren. "
+   ]
+  }, 
+  {
+   "begin": "376.760", 
+   "children": [], 
+   "end": "379.640", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen kein Spiel mit falschen Zahlen. "
+   ]
+  }, 
+  {
+   "begin": "379.640", 
+   "children": [], 
+   "end": "382.680", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Sie sprechen in Ihrem Antrag von Hunderttausenden, "
+   ]
+  }, 
+  {
+   "begin": "382.680", 
+   "children": [], 
+   "end": "385.440", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "die in diesem Jahr die Grenze illegal \u00fcberschreiten. "
+   ]
+  }, 
+  {
+   "begin": "385.440", 
+   "children": [], 
+   "end": "387.560", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Es sind 170\u00a0000."
+   ]
+  }, 
+  {
+   "begin": "387.560", 
+   "children": [], 
+   "end": "389.200", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Da hat man nicht mal die abgezogen, "
+   ]
+  }, 
+  {
+   "begin": "389.200", 
+   "children": [], 
+   "end": "390.800", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "die zur\u00fcckgeschickt werden."
+   ]
+  }, 
+  {
+   "begin": "390.800", 
+   "children": [], 
+   "end": "393.040", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "393.040", 
+   "children": [], 
+   "end": "395.920", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Sie inszenieren eine Krise vor den Menschen in diesem Land. "
+   ]
+  }, 
+  {
+   "begin": "395.920", 
+   "children": [], 
+   "end": "399.040", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "Sie arbeiten mit falschen Zahlen."
+   ]
+  }, 
+  {
+   "begin": "399.040", 
+   "children": [], 
+   "end": "400.080", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Herr Gauland, "
+   ]
+  }, 
+  {
+   "begin": "400.080", 
+   "children": [], 
+   "end": "408.440", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie den Sozialstaat und offene Grenzen f\u00fcr nicht m\u00f6glich halten: "
+   ]
+  }, 
+  {
+   "begin": "408.440", 
+   "children": [], 
+   "end": "410.800", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Machen Sie irgendeinen Grundkurs Politik, "
+   ]
+  }, 
+  {
+   "begin": "410.800", 
+   "children": [], 
+   "end": "411.840", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "aber machen Sie ihn, "
+   ]
+  }, 
+  {
+   "begin": "411.840", 
+   "children": [], 
+   "end": "414.480", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "bevor Sie das n\u00e4chste Mal in diesen Plenarsaal kommen! "
+   ]
+  }, 
+  {
+   "begin": "414.480", 
+   "children": [], 
+   "end": "416.600", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ja eine irrwitzige Vorstellung, "
+   ]
+  }, 
+  {
+   "begin": "416.600", 
+   "children": [], 
+   "end": "417.480", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "zu glauben, "
+   ]
+  }, 
+  {
+   "begin": "417.480", 
+   "children": [], 
+   "end": "425.760", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "wir k\u00f6nnten dieses Land nicht mit offenen Grenzen gestalten."
+   ]
+  }, 
+  {
+   "begin": "425.760", 
+   "children": [], 
+   "end": "426.840", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage mich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "426.840", 
+   "children": [], 
+   "end": "428.000", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "ich bin da ganz fair\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "428.000", 
+   "children": [], 
+   "end": "432.000", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "Ist das eine Mischung aus Inkompetenz und Fahrl\u00e4ssigkeit,"
+   ]
+  }, 
+  {
+   "begin": "432.000", 
+   "children": [], 
+   "end": "433.320", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "oder ist das, "
+   ]
+  }, 
+  {
+   "begin": "433.320", 
+   "children": [], 
+   "end": "434.440", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "was Sie hier tun, "
+   ]
+  }, 
+  {
+   "begin": "434.440", 
+   "children": [], 
+   "end": "435.080", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "Vorsatz? "
+   ]
+  }, 
+  {
+   "begin": "435.080", 
+   "children": [], 
+   "end": "435.440", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "Jedenfalls: "
+   ]
+  }, 
+  {
+   "begin": "435.440", 
+   "children": [], 
+   "end": "436.920", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "Nach den Debatten, "
+   ]
+  }, 
+  {
+   "begin": "436.920", 
+   "children": [], 
+   "end": "439.280", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "die gerade hinter uns liegen, "
+   ]
+  }, 
+  {
+   "begin": "439.280", 
+   "children": [], 
+   "end": "441.240", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "ist das aufr\u00fchrerisch. "
+   ]
+  }, 
+  {
+   "begin": "441.240", 
+   "children": [], 
+   "end": "443.400", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "Das kann ich Ihnen einfach nicht empfehlen."
+   ]
+  }, 
+  {
+   "begin": "443.400", 
+   "children": [], 
+   "end": "445.280", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "Es ist nicht in Ordnung."
+   ]
+  }, 
+  {
+   "begin": "445.280", 
+   "children": [], 
+   "end": "448.360", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "448.360", 
+   "children": [], 
+   "end": "452.240", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "ich komme zu einem Konsens aller Fraktionen in diesem Hause\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "452.240", 
+   "children": [], 
+   "end": "454.040", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "mit Ausnahme, "
+   ]
+  }, 
+  {
+   "begin": "454.040", 
+   "children": [], 
+   "end": "454.640", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "vermute ich, "
+   ]
+  }, 
+  {
+   "begin": "454.640", 
+   "children": [], 
+   "end": "456.160", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "Ihrer Fraktion. "
+   ]
+  }, 
+  {
+   "begin": "456.160", 
+   "children": [], 
+   "end": "461.400", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland hat seit 1995\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "461.400", 
+   "children": [], 
+   "end": "463.480", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "ich habe es eigenh\u00e4ndig ausgerechnet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "463.480", 
+   "children": [], 
+   "end": "469.080", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "im Schnitt 150\u00a0000\u00a0Menschen Asyl gew\u00e4hrt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "469.080", 
+   "children": [], 
+   "end": "472.240", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "von 1995 bis heute. "
+   ]
+  }, 
+  {
+   "begin": "472.240", 
+   "children": [], 
+   "end": "476.640", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "Dass die Union in ihrem Asylkompromiss von 200\u00a0000 spricht, "
+   ]
+  }, 
+  {
+   "begin": "476.640", 
+   "children": [], 
+   "end": "479.200", 
+   "id": "s000163", 
+   "language": "deu", 
+   "lines": [
+    "ist also kein Zufall. "
+   ]
+  }, 
+  {
+   "begin": "479.200", 
+   "children": [], 
+   "end": "485.040", 
+   "id": "s000164", 
+   "language": "deu", 
+   "lines": [
+    "Das ist f\u00fcr uns Politik mit einem humanit\u00e4ren Ansatz, "
+   ]
+  }, 
+  {
+   "begin": "485.040", 
+   "children": [], 
+   "end": "487.200", 
+   "id": "s000165", 
+   "language": "deu", 
+   "lines": [
+    "den Sie nie verstehen werden. "
+   ]
+  }, 
+  {
+   "begin": "487.200", 
+   "children": [], 
+   "end": "489.160", 
+   "id": "s000166", 
+   "language": "deu", 
+   "lines": [
+    "Die Debatte ist zwar wichtig, "
+   ]
+  }, 
+  {
+   "begin": "489.160", 
+   "children": [], 
+   "end": "490.880", 
+   "id": "s000167", 
+   "language": "deu", 
+   "lines": [
+    "aber sie bringt Ihnen wahrscheinlich nichts; "
+   ]
+  }, 
+  {
+   "begin": "490.880", 
+   "children": [], 
+   "end": "492.360", 
+   "id": "s000168", 
+   "language": "deu", 
+   "lines": [
+    "das werden Sie nie lernen."
+   ]
+  }, 
+  {
+   "begin": "492.360", 
+   "children": [], 
+   "end": "495.200", 
+   "id": "s000169", 
+   "language": "deu", 
+   "lines": [
+    "Da gibt es einen gravierenden Unterschied zwischen uns: "
+   ]
+  }, 
+  {
+   "begin": "495.200", 
+   "children": [], 
+   "end": "498.000", 
+   "id": "s000170", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen helfen und Sie nicht. "
+   ]
+  }, 
+  {
+   "begin": "498.000", 
+   "children": [], 
+   "end": "499.720", 
+   "id": "s000171", 
+   "language": "deu", 
+   "lines": [
+    "Sie glauben auch noch, "
+   ]
+  }, 
+  {
+   "begin": "499.720", 
+   "children": [], 
+   "end": "507.960", 
+   "id": "s000172", 
+   "language": "deu", 
+   "lines": [
+    "dass so etwas durch Grenzkontrollen zu machen sei."
+   ]
+  }, 
+  {
+   "begin": "507.960", 
+   "children": [], 
+   "end": "512.760", 
+   "id": "s000173", 
+   "language": "deu", 
+   "lines": [
+    "Ich zeige kurz die eigentliche Probleml\u00f6sung; "
+   ]
+  }, 
+  {
+   "begin": "512.760", 
+   "children": [], 
+   "end": "515.480", 
+   "id": "s000174", 
+   "language": "deu", 
+   "lines": [
+    "das ist nicht dieses stumpfe Geschw\u00e4tz."
+   ]
+  }, 
+  {
+   "begin": "515.480", 
+   "children": [], 
+   "end": "519.200", 
+   "id": "s000175", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "519.200", 
+   "children": [], 
+   "end": "524.720", 
+   "id": "s000176", 
+   "language": "deu", 
+   "lines": [
+    "vor Ihnen steht ein gl\u00fchender Fan des Schengener Grenzkodex."
+   ]
+  }, 
+  {
+   "begin": "524.720", 
+   "children": [], 
+   "end": "526.640", 
+   "id": "s000177", 
+   "language": "deu", 
+   "lines": [
+    "Ich kritisiere ein wenig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "526.640", 
+   "children": [], 
+   "end": "531.240", 
+   "id": "s000178", 
+   "language": "deu", 
+   "lines": [
+    "in der ersten Periode als Hinterb\u00e4nkler zugegebenerma\u00dfen frucht- "
+   ]
+  }, 
+  {
+   "begin": "531.240", 
+   "children": [], 
+   "end": "532.600", 
+   "id": "s000179", 
+   "language": "deu", 
+   "lines": [
+    "und erfolglos\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "532.600", 
+   "children": [], 
+   "end": "539.160", 
+   "id": "s000180", 
+   "language": "deu", 
+   "lines": [
+    "den Niedergang des Schengener Grenzkodex in Europa. "
+   ]
+  }, 
+  {
+   "begin": "539.160", 
+   "children": [], 
+   "end": "539.480", 
+   "id": "s000181", 
+   "language": "deu", 
+   "lines": [
+    "Auch wir, "
+   ]
+  }, 
+  {
+   "begin": "539.480", 
+   "children": [], 
+   "end": "540.200", 
+   "id": "s000182", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "540.200", 
+   "children": [], 
+   "end": "541.480", 
+   "id": "s000183", 
+   "language": "deu", 
+   "lines": [
+    "machen oft den Fehler, "
+   ]
+  }, 
+  {
+   "begin": "541.480", 
+   "children": [], 
+   "end": "544.200", 
+   "id": "s000184", 
+   "language": "deu", 
+   "lines": [
+    "nur vom Au\u00dfengrenzenstandard zu sprechen. "
+   ]
+  }, 
+  {
+   "begin": "544.200", 
+   "children": [], 
+   "end": "548.760", 
+   "id": "s000185", 
+   "language": "deu", 
+   "lines": [
+    "Diese Eindimensionalit\u00e4t hatten wir bei der Erfindung des Grenzkodex nicht."
+   ]
+  }, 
+  {
+   "begin": "548.760", 
+   "children": [], 
+   "end": "553.600", 
+   "id": "s000186", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt in 26\u00a0L\u00e4ndern eine Schengen-Schleierfahndung. "
+   ]
+  }, 
+  {
+   "begin": "553.600", 
+   "children": [], 
+   "end": "555.240", 
+   "id": "s000187", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt der Pr\u00fcmer Vertrag, "
+   ]
+  }, 
+  {
+   "begin": "555.240", 
+   "children": [], 
+   "end": "560.760", 
+   "id": "s000188", 
+   "language": "deu", 
+   "lines": [
+    "dazu geh\u00f6rt das Kontaktdienststellenwesen usw. "
+   ]
+  }, 
+  {
+   "begin": "560.760", 
+   "children": [], 
+   "end": "564.840", 
+   "id": "s000189", 
+   "language": "deu", 
+   "lines": [
+    "All das hat man bei der Kommission langsam schleichend aufgegeben. "
+   ]
+  }, 
+  {
+   "begin": "564.840", 
+   "children": [], 
+   "end": "569.880", 
+   "id": "s000190", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Otto Schily und G\u00fcnther Beckstein nicht gewesen w\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "569.880", 
+   "children": [], 
+   "end": "574.920", 
+   "id": "s000191", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4tten wir schon Anfang der 2000er-Jahre diesen Kodex infrage gestellt, "
+   ]
+  }, 
+  {
+   "begin": "574.920", 
+   "children": [], 
+   "end": "577.120", 
+   "id": "s000192", 
+   "language": "deu", 
+   "lines": [
+    "weil es eine politische Mehrheit daf\u00fcr gab. "
+   ]
+  }, 
+  {
+   "begin": "577.120", 
+   "children": [], 
+   "end": "578.440", 
+   "id": "s000193", 
+   "language": "deu", 
+   "lines": [
+    "Ich wende mich dagegen. "
+   ]
+  }, 
+  {
+   "begin": "578.440", 
+   "children": [], 
+   "end": "580.680", 
+   "id": "s000194", 
+   "language": "deu", 
+   "lines": [
+    "Solche Fraktionen entstehen, "
+   ]
+  }, 
+  {
+   "begin": "580.680", 
+   "children": [], 
+   "end": "589.240", 
+   "id": "s000195", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir den Schengener Grenzkodex nicht endlich wieder daf\u00fcr verwenden, "
+   ]
+  }, 
+  {
+   "begin": "589.240", 
+   "children": [], 
+   "end": "593.280", 
+   "id": "s000196", 
+   "language": "deu", 
+   "lines": [
+    "wof\u00fcr er eigentlich gedacht war."
+   ]
+  }, 
+  {
+   "begin": "593.280", 
+   "children": [], 
+   "end": "594.440", 
+   "id": "s000197", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ich schone Sie mal."
+   ]
+  }, 
+  {
+   "begin": "594.440", 
+   "children": [], 
+   "end": "595.720", 
+   "id": "s000198", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "595.720", 
+   "children": [], 
+   "end": "598.320", 
+   "id": "s000199", 
+   "language": "deu", 
+   "lines": [
+    "einen Satz erlauben Sie mir bitte an FDP, "
+   ]
+  }, 
+  {
+   "begin": "598.320", 
+   "children": [], 
+   "end": "600.040", 
+   "id": "s000200", 
+   "language": "deu", 
+   "lines": [
+    "SPD und Gr\u00fcne. "
+   ]
+  }, 
+  {
+   "begin": "600.040", 
+   "children": [], 
+   "end": "601.600", 
+   "id": "s000201", 
+   "language": "deu", 
+   "lines": [
+    "\u201eLiebe Freunde\u201c, "
+   ]
+  }, 
+  {
+   "begin": "601.600", 
+   "children": [], 
+   "end": "603.080", 
+   "id": "s000202", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4tte ich fast gesagt; "
+   ]
+  }, 
+  {
+   "begin": "603.080", 
+   "children": [], 
+   "end": "604.560", 
+   "id": "s000203", 
+   "language": "deu", 
+   "lines": [
+    "wir sondieren aber nicht.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "604.560", 
+   "children": [], 
+   "end": "608.520", 
+   "id": "s000204", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "608.520", 
+   "children": [], 
+   "end": "612.480", 
+   "id": "s000205", 
+   "language": "deu", 
+   "lines": [
+    "wer ein politisches Problem damit hat, "
+   ]
+  }, 
+  {
+   "begin": "612.480", 
+   "children": [], 
+   "end": "615.520", 
+   "id": "s000206", 
+   "language": "deu", 
+   "lines": [
+    "station\u00e4re Grenzkontrollen zu machen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "615.520", 
+   "children": [], 
+   "end": "616.440", 
+   "id": "s000207", 
+   "language": "deu", 
+   "lines": [
+    "ich habe gerade erkl\u00e4rt: "
+   ]
+  }, 
+  {
+   "begin": "616.440", 
+   "children": [], 
+   "end": "618.360", 
+   "id": "s000208", 
+   "language": "deu", 
+   "lines": [
+    "es ist eigentlich kein Problem\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "618.360", 
+   "children": [], 
+   "end": "620.880", 
+   "id": "s000209", 
+   "language": "deu", 
+   "lines": [
+    "aber auch keine Schleierfahndung will\u00a0\u2026"
+   ]
+  }, 
+  {
+   "begin": "620.880", 
+   "children": [], 
+   "end": "624.440", 
+   "id": "s000210", 
+   "language": "deu", 
+   "lines": [
+    "Ich vollende den Satz nicht; "
+   ]
+  }, 
+  {
+   "begin": "624.440", 
+   "children": [], 
+   "end": "626.760", 
+   "id": "s000211", 
+   "language": "deu", 
+   "lines": [
+    "ich \u00fcberlasse es Ihnen. "
+   ]
+  }, 
+  {
+   "begin": "626.760", 
+   "children": [], 
+   "end": "633.320", 
+   "id": "s000212", 
+   "language": "deu", 
+   "lines": [
+    "Die Schleierfahndung an 26\u00a0Binnengrenzlinien ist ein wichtiges Mittel. "
+   ]
+  }, 
+  {
+   "begin": "633.320", 
+   "children": [], 
+   "end": "634.880", 
+   "id": "s000213", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb pl\u00e4diere ich: "
+   ]
+  }, 
+  {
+   "begin": "634.880", 
+   "children": [], 
+   "end": "638.800", 
+   "id": "s000214", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine europ\u00e4ische Grenzpolizei. "
+   ]
+  }, 
+  {
+   "begin": "638.800", 
+   "children": [], 
+   "end": "641.600", 
+   "id": "s000215", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir Herrn Macron mit Geld entgegenkommen wollen, "
+   ]
+  }, 
+  {
+   "begin": "641.600", 
+   "children": [], 
+   "end": "643.120", 
+   "id": "s000216", 
+   "language": "deu", 
+   "lines": [
+    "dann f\u00fcr eine solche Ma\u00dfnahme. "
+   ]
+  }, 
+  {
+   "begin": "643.120", 
+   "children": [], 
+   "end": "647.400", 
+   "id": "s000217", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen zudem Europol verbessern. "
+   ]
+  }, 
+  {
+   "begin": "647.400", 
+   "children": [], 
+   "end": "651.280", 
+   "id": "s000218", 
+   "language": "deu", 
+   "lines": [
+    "Es darf nicht nur ein Informationsaustauschzentrum geben."
+   ]
+  }, 
+  {
+   "begin": "651.280", 
+   "children": [], 
+   "end": "652.560", 
+   "id": "s000219", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "652.560", 
+   "children": [], 
+   "end": "655.760", 
+   "id": "s000220", 
+   "language": "deu", 
+   "lines": [
+    "denken Sie an Ihre Redezeit."
+   ]
+  }, 
+  {
+   "begin": "655.760", 
+   "children": [], 
+   "end": "659.240", 
+   "id": "s000221", 
+   "language": "deu", 
+   "lines": [
+    "Zum Schluss m\u00f6chte ich noch Folgendes sagen: "
+   ]
+  }, 
+  {
+   "begin": "659.240", 
+   "children": [], 
+   "end": "661.240", 
+   "id": "s000222", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Herr Gauland, "
+   ]
+  }, 
+  {
+   "begin": "661.240", 
+   "children": [], 
+   "end": "666.240", 
+   "id": "s000223", 
+   "language": "deu", 
+   "lines": [
+    "Fluchtursachenbek\u00e4mpfung ist die einzig wirklich wirksame Methode, "
+   ]
+  }, 
+  {
+   "begin": "666.240", 
+   "children": [], 
+   "end": "668.680", 
+   "id": "s000224", 
+   "language": "deu", 
+   "lines": [
+    "all denjenigen Ph\u00e4nomenen zu begegnen, "
+   ]
+  }, 
+  {
+   "begin": "668.680", 
+   "children": [], 
+   "end": "670.200", 
+   "id": "s000225", 
+   "language": "deu", 
+   "lines": [
+    "die Sie beschrieben haben."
+   ]
+  }, 
+  {
+   "begin": "670.200", 
+   "children": [], 
+   "end": "676.520", 
+   "id": "s000226", 
+   "language": "deu", 
+   "lines": [
+    "Aber station\u00e4re Grenz\u00fcbertrittskontrollen eignen sich daf\u00fcr nicht."
+   ]
+  }, 
+  {
+   "begin": "676.520", 
+   "children": [], 
+   "end": "677.680", 
+   "id": "s000227", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "677.680", 
+   "children": [], 
+   "end": "679.400", 
+   "id": "s000228", 
+   "language": "deu", 
+   "lines": [
+    "kommen Sie bitte zum Schluss."
+   ]
+  }, 
+  {
+   "begin": "679.400", 
+   "children": [], 
+   "end": "681.040", 
+   "id": "s000229", 
+   "language": "deu", 
+   "lines": [
+    "Damit werden Sie niemals die Probleme l\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "681.040", 
+   "children": [], 
+   "end": "684.720", 
+   "id": "s000230", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin der amtierenden Bundesregierung dankbar f\u00fcr ihre Arbeit auf den entsprechenden Feldern. "
+   ]
+  }, 
+  {
+   "begin": "684.720", 
+   "children": [], 
+   "end": "690.480", 
+   "id": "s000231", 
+   "language": "deu", 
+   "lines": [
+    "Die Mehrdimensionalit\u00e4t dieses Themas werden Sie nie begreifen und damit auch nie die Ans\u00e4tze zur L\u00f6sung finden."
+   ]
+  }, 
+  {
+   "begin": "690.480", 
+   "children": [], 
+   "end": "691.520", 
+   "id": "s000232", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Schuster!"
+   ]
+  }, 
+  {
+   "begin": "691.520", 
+   "children": [], 
+   "end": "693.680", 
+   "id": "s000233", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "693.680", 
+   "children": [], 
+   "end": "699.960", 
+   "id": "s000234", 
+   "language": "deu", 
+   "lines": [
+    "Der n\u00e4chste Redner ist Professor Dr.\u00a0Lars Castellucci f\u00fcr die SPD-Fraktion."
+   ]
+  }
+ ]
+}

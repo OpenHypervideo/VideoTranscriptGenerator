@@ -1,0 +1,394 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "11.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Guten Morgen, "
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "children": [], 
+   "end": "14.600", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "children": [], 
+   "end": "19.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Nehmen Sie bitte Platz."
+   ]
+  }, 
+  {
+   "begin": "19.080", 
+   "children": [], 
+   "end": "35.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "35.840", 
+   "children": [], 
+   "end": "45.120", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "45.120", 
+   "children": [], 
+   "end": "51.640", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ich begr\u00fc\u00dfe Sie zur konstituierenden Sitzung des 19.\u00a0Deutschen Bundestages. "
+   ]
+  }, 
+  {
+   "begin": "51.640", 
+   "children": [], 
+   "end": "54.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Es entspricht der st\u00e4ndigen \u00dcbung, "
+   ]
+  }, 
+  {
+   "begin": "54.160", 
+   "children": [], 
+   "end": "62.640", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "zu Beginn der konstituierenden Sitzung nach den Regelungen der bisherigen Gesch\u00e4ftsordnung des Deutschen Bundestages zu verfahren."
+   ]
+  }, 
+  {
+   "begin": "62.640", 
+   "children": [], 
+   "end": "68.640", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "\u00a7\u00a01 Absatz\u00a02 der Gesch\u00e4ftsordnung des Deutschen Bundestages sieht vor, "
+   ]
+  }, 
+  {
+   "begin": "68.640", 
+   "children": [], 
+   "end": "73.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass das am l\u00e4ngsten dem Bundestag angeh\u00f6rende Mitglied, "
+   ]
+  }, 
+  {
+   "begin": "73.080", 
+   "children": [], 
+   "end": "75.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "das hierzu bereit ist, "
+   ]
+  }, 
+  {
+   "begin": "75.160", 
+   "children": [], 
+   "end": "77.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "den Vorsitz \u00fcbernimmt, "
+   ]
+  }, 
+  {
+   "begin": "77.120", 
+   "children": [], 
+   "end": "80.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "bis der Deutsche Bundestag einen Pr\u00e4sidenten gew\u00e4hlt hat."
+   ]
+  }, 
+  {
+   "begin": "80.760", 
+   "children": [], 
+   "end": "87.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die Fraktion der AfD widerspricht diesem Verfahren und hat auf Drucksache\u00a019/2 beantragt, "
+   ]
+  }, 
+  {
+   "begin": "87.960", 
+   "children": [], 
+   "end": "90.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "einen Versammlungsleiter zu w\u00e4hlen, "
+   ]
+  }, 
+  {
+   "begin": "90.040", 
+   "children": [], 
+   "end": "93.360", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "der die konstituierende Sitzung er\u00f6ffnen soll. "
+   ]
+  }, 
+  {
+   "begin": "93.360", 
+   "children": [], 
+   "end": "97.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber diesen Antrag lasse ich sofort abstimmen. "
+   ]
+  }, 
+  {
+   "begin": "97.240", 
+   "children": [], 
+   "end": "102.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Wer dem Antrag der Fraktion der AfD zustimmt, "
+   ]
+  }, 
+  {
+   "begin": "102.000", 
+   "children": [], 
+   "end": "105.600", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "den bitte ich um sein Handzeichen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "105.600", 
+   "children": [], 
+   "end": "109.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Gegenstimmen?\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "109.720", 
+   "children": [], 
+   "end": "113.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "113.360", 
+   "children": [], 
+   "end": "120.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag ist damit mit den Stimmen aller Fraktionen bei Zustimmung der AfD-Fraktion abgelehnt."
+   ]
+  }, 
+  {
+   "begin": "120.880", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir verfahren nunmehr entsprechend \u00a7\u00a01 Absatz\u00a02 der bisherigen Gesch\u00e4ftsordnung. "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "130.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Herr Dr.\u00a0Wolfgang Sch\u00e4uble ist das Mitglied, "
+   ]
+  }, 
+  {
+   "begin": "130.800", 
+   "children": [], 
+   "end": "134.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "das dem Deutschen Bundestag am l\u00e4ngsten angeh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "134.360", 
+   "children": [], 
+   "end": "139.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Er hat jedoch auf das Amt des Alterspr\u00e4sidenten verzichtet. "
+   ]
+  }, 
+  {
+   "begin": "141.640", 
+   "children": [], 
+   "end": "147.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Damit r\u00fcckt das am zweitl\u00e4ngsten dem Bundestag angeh\u00f6rende Mitglied nach. "
+   ]
+  }, 
+  {
+   "begin": "147.040", 
+   "children": [], 
+   "end": "150.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Ich war von 1980 bis 2013, "
+   ]
+  }, 
+  {
+   "begin": "150.280", 
+   "children": [], 
+   "end": "153.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "also 33\u00a0Jahre, "
+   ]
+  }, 
+  {
+   "begin": "153.040", 
+   "children": [], 
+   "end": "155.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Mitglied des Deutschen Bundestages. "
+   ]
+  }, 
+  {
+   "begin": "155.480", 
+   "children": [], 
+   "end": "158.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ist jemand unter Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "158.160", 
+   "children": [], 
+   "end": "160.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "der dem Bundestag l\u00e4nger angeh\u00f6rt?\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "160.120", 
+   "children": [], 
+   "end": "161.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das scheint offenkundig nicht der Fall zu sein. "
+   ]
+  }, 
+  {
+   "begin": "161.640", 
+   "children": [], 
+   "end": "163.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Dann trifft es also tats\u00e4chlich zu, "
+   ]
+  }, 
+  {
+   "begin": "163.200", 
+   "children": [], 
+   "end": "167.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass die Rolle des Alterspr\u00e4sidenten auf mich zukommt. "
+   ]
+  }, 
+  {
+   "begin": "167.280", 
+   "children": [], 
+   "end": "171.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Es ist mir eine Ehre und Freude zugleich, "
+   ]
+  }, 
+  {
+   "begin": "171.160", 
+   "children": [], 
+   "end": "175.360", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "den Vorsitz bis zur Amts\u00fcbernahme durch den neugew\u00e4hlten Pr\u00e4sidenten des Deutschen Bundestages zu \u00fcbernehmen."
+   ]
+  }, 
+  {
+   "begin": "175.360", 
+   "children": [], 
+   "end": "177.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Damit rufe ich nun den Tagesordnungspunkt\u00a01 auf:"
+   ]
+  }, 
+  {
+   "begin": "177.760", 
+   "children": [], 
+   "end": "180.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Er\u00f6ffnung der Sitzung durch den Alterspr\u00e4sidenten"
+   ]
+  }
+ ]
+}

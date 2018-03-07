@@ -1,0 +1,744 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "children": [], 
+   "end": "7.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "children": [], 
+   "end": "10.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "children": [], 
+   "end": "16.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man \u00fcber \u00a7\u00a0219a des Strafgesetzbuches debattiert, "
+   ]
+  }, 
+  {
+   "begin": "16.120", 
+   "children": [], 
+   "end": "20.240", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dann muss man alle betroffenen Interessen ber\u00fccksichtigen. "
+   ]
+  }, 
+  {
+   "begin": "20.240", 
+   "children": [], 
+   "end": "24.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die vorgelegten Gesetzentw\u00fcrfe nehmen die Interessen von \u00c4rzten in den Blick\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "24.800", 
+   "children": [], 
+   "end": "26.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "zu Recht."
+   ]
+  }, 
+  {
+   "begin": "26.360", 
+   "children": [], 
+   "end": "31.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die vorgelegten Gesetzentw\u00fcrfe nehmen die Interessen von Schwangeren in den Blick\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "31.320", 
+   "children": [], 
+   "end": "33.200", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "zu Recht. "
+   ]
+  }, 
+  {
+   "begin": "33.200", 
+   "children": [], 
+   "end": "40.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Zwei der vorgelegten Entw\u00fcrfe lassen aber einen wichtigen Grundrechtstr\u00e4ger au\u00dfer Acht: "
+   ]
+  }, 
+  {
+   "begin": "40.480", 
+   "children": [], 
+   "end": "44.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "das ungeborene Kind. "
+   ]
+  }, 
+  {
+   "begin": "44.320", 
+   "children": [], 
+   "end": "50.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Dies halten wir f\u00fcr falsch."
+   ]
+  }, 
+  {
+   "begin": "50.160", 
+   "children": [], 
+   "end": "57.000", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Die Interessen eines Arztes sind nicht mehr wert als die Interessen eines Kindes."
+   ]
+  }, 
+  {
+   "begin": "57.000", 
+   "children": [], 
+   "end": "66.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Man kann nicht Kinderrechte im Grundgesetz einfordern, "
+   ]
+  }, 
+  {
+   "begin": "66.280", 
+   "children": [], 
+   "end": "81.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wenn man die vom Bundesverfassungsgericht anerkannten Grundrechte ungeborener Kinder mit keinem Wort und keiner Silbe erw\u00e4hnt."
+   ]
+  }, 
+  {
+   "begin": "81.640", 
+   "children": [], 
+   "end": "84.160", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es war das Bundesverfassungsgericht, "
+   ]
+  }, 
+  {
+   "begin": "84.160", 
+   "children": [], 
+   "end": "89.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "das klare Vorgaben zum Schutz des ungeborenen Lebens gemacht hat. "
+   ]
+  }, 
+  {
+   "begin": "89.280", 
+   "children": [], 
+   "end": "92.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte aus der Entscheidung des Bundesverfassungsgerichts zitieren:"
+   ]
+  }, 
+  {
+   "begin": "92.840", 
+   "children": [], 
+   "end": "95.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das Grundgesetz verpflichtet den Staat, "
+   ]
+  }, 
+  {
+   "begin": "95.800", 
+   "children": [], 
+   "end": "96.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "menschliches Leben, "
+   ]
+  }, 
+  {
+   "begin": "96.920", 
+   "children": [], 
+   "end": "98.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "auch das ungeborene, "
+   ]
+  }, 
+  {
+   "begin": "98.280", 
+   "children": [], 
+   "end": "99.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "zu sch\u00fctzen\u00a0\u2026"
+   ]
+  }, 
+  {
+   "begin": "99.680", 
+   "children": [], 
+   "end": "104.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "\u2026 Rechtlicher Schutz geb\u00fchrt dem Ungeborenen auch gegen\u00fcber seiner Mutter\u00a0\u2026"
+   ]
+  }, 
+  {
+   "begin": "104.880", 
+   "children": [], 
+   "end": "115.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "\u2026 Der Schwangerschaftsabbruch mu\u00df f\u00fcr die ganze Dauer der Schwangerschaft grunds\u00e4tzlich als Unrecht angesehen und demgem\u00e4\u00df rechtlich verboten sein\u00a0\u2026"
+   ]
+  }, 
+  {
+   "begin": "115.680", 
+   "children": [], 
+   "end": "124.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "\u2026 Der Staat mu\u00df zur Erf\u00fcllung seiner Schutzpflicht ausreichende Ma\u00dfnahmen normativer und tats\u00e4chlicher Art ergreifen, "
+   ]
+  }, 
+  {
+   "begin": "124.200", 
+   "children": [], 
+   "end": "125.200", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die dazu f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "125.200", 
+   "children": [], 
+   "end": "125.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "da\u00df ein\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "125.920", 
+   "children": [], 
+   "end": "129.600", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "unter Ber\u00fccksichtigung entgegenstehender Rechtsg\u00fcter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "129.600", 
+   "children": [], 
+   "end": "134.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "angemessener und als solcher wirksamer Schutz erreicht wird\u00a0\u2026"
+   ]
+  }, 
+  {
+   "begin": "134.280", 
+   "children": [], 
+   "end": "137.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "\u2026 Das Unterma\u00dfverbot l\u00e4\u00dft es nicht zu, "
+   ]
+  }, 
+  {
+   "begin": "137.080", 
+   "children": [], 
+   "end": "145.640", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "auf den Einsatz auch des Strafrechts und die davon ausgehende Schutzwirkung f\u00fcr das menschliche Leben frei zu verzichten."
+   ]
+  }, 
+  {
+   "begin": "145.640", 
+   "children": [], 
+   "end": "147.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das sagt das Bundesverfassungsgericht, "
+   ]
+  }, 
+  {
+   "begin": "147.800", 
+   "children": [], 
+   "end": "150.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und dem habe ich nichts hinzuzuf\u00fcgen."
+   ]
+  }, 
+  {
+   "begin": "150.040", 
+   "children": [], 
+   "end": "159.520", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Da das heranwachsende Kind sich nicht selbst sch\u00fctzen kann, "
+   ]
+  }, 
+  {
+   "begin": "159.520", 
+   "children": [], 
+   "end": "162.040", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "sondern hierzu auf den Staat angewiesen ist, "
+   ]
+  }, 
+  {
+   "begin": "162.040", 
+   "children": [], 
+   "end": "164.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "regelt unsere Rechtsordnung, "
+   ]
+  }, 
+  {
+   "begin": "164.560", 
+   "children": [], 
+   "end": "169.280", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Schwangerschaftsabbruch grunds\u00e4tzlich rechtswidrig ist,"
+   ]
+  }, 
+  {
+   "begin": "169.280", 
+   "children": [], 
+   "end": "175.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "er aber unter n\u00e4her bestimmten Voraussetzungen straffrei bleibt. "
+   ]
+  }, 
+  {
+   "begin": "175.240", 
+   "children": [], 
+   "end": "180.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Eine der Voraussetzungen ist die zwingende Beratung der Schwangeren. "
+   ]
+  }, 
+  {
+   "begin": "180.680", 
+   "children": [], 
+   "end": "182.400", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Hier hei\u00dft es im Gesetz: "
+   ]
+  }, 
+  {
+   "begin": "182.400", 
+   "children": [], 
+   "end": "187.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDie Beratung dient dem Schutz des ungeborenen Lebens.\u201c"
+   ]
+  }, 
+  {
+   "begin": "187.640", 
+   "children": [], 
+   "end": "193.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Diese verpflichtende Beratung durch eine unabh\u00e4ngige Stelle, "
+   ]
+  }, 
+  {
+   "begin": "193.000", 
+   "children": [], 
+   "end": "196.280", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich gerade nicht durch denjenigen Arzt, "
+   ]
+  }, 
+  {
+   "begin": "196.280", 
+   "children": [], 
+   "end": "200.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "der einen m\u00f6glichen Schwangerschaftsabbruch vornehmen w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "200.400", 
+   "children": [], 
+   "end": "202.480", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "kann nur funktionieren, "
+   ]
+  }, 
+  {
+   "begin": "202.480", 
+   "children": [], 
+   "end": "209.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie nicht durch Werbung und durch \u00e4u\u00dfere Einfl\u00fcsse konterkariert wird."
+   ]
+  }, 
+  {
+   "begin": "209.640", 
+   "children": [], 
+   "end": "217.360", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb w\u00fcrde die Zulassung von Werbung das derzeitige Beratungsmodell infrage stellen. "
+   ]
+  }, 
+  {
+   "begin": "217.360", 
+   "children": [], 
+   "end": "219.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Genau das wollen wir nicht."
+   ]
+  }, 
+  {
+   "begin": "219.640", 
+   "children": [], 
+   "end": "228.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "\u00a7\u00a0219a ist eine wichtige Schutznorm f\u00fcr das ungeborene Leben, "
+   ]
+  }, 
+  {
+   "begin": "228.320", 
+   "children": [], 
+   "end": "229.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "eine Vorschrift, "
+   ]
+  }, 
+  {
+   "begin": "229.360", 
+   "children": [], 
+   "end": "230.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die verhindern soll, "
+   ]
+  }, 
+  {
+   "begin": "230.880", 
+   "children": [], 
+   "end": "237.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass der Schwangerschaftsabbruch in der \u00d6ffentlichkeit als etwas Normales dargestellt wird."
+   ]
+  }, 
+  {
+   "begin": "237.120", 
+   "children": [], 
+   "end": "239.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Es ist f\u00fcr uns klar: "
+   ]
+  }, 
+  {
+   "begin": "239.200", 
+   "children": [], 
+   "end": "242.600", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Schwangere Frauen und insbesondere solche, "
+   ]
+  }, 
+  {
+   "begin": "242.600", 
+   "children": [], 
+   "end": "244.320", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die sich in einer Not- "
+   ]
+  }, 
+  {
+   "begin": "244.320", 
+   "children": [], 
+   "end": "246.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und Konfliktsituation befinden, "
+   ]
+  }, 
+  {
+   "begin": "246.760", 
+   "children": [], 
+   "end": "248.760", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen jede Hilfe erhalten, "
+   ]
+  }, 
+  {
+   "begin": "248.760", 
+   "children": [], 
+   "end": "249.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die sie brauchen. "
+   ]
+  }, 
+  {
+   "begin": "249.560", 
+   "children": [], 
+   "end": "252.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Daran gibt es \u00fcberhaupt keinen Zweifel."
+   ]
+  }, 
+  {
+   "begin": "252.400", 
+   "children": [], 
+   "end": "253.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Eine Frau, "
+   ]
+  }, 
+  {
+   "begin": "253.760", 
+   "children": [], 
+   "end": "260.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "die sich als Ergebnis der Beratung zur Durchf\u00fchrung eines Schwangerschaftsabbruchs entschlie\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "260.560", 
+   "children": [], 
+   "end": "263.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "muss im Vorfeld die M\u00f6glichkeit haben, "
+   ]
+  }, 
+  {
+   "begin": "263.680", 
+   "children": [], 
+   "end": "269.320", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "sich insbesondere bei staatlichen und neutralen Stellen zu informieren, "
+   ]
+  }, 
+  {
+   "begin": "269.320", 
+   "children": [], 
+   "end": "275.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "bei welchem Arzt der Schwangerschaftsabbruch medizinisch kompetent durchgef\u00fchrt werden kann. "
+   ]
+  }, 
+  {
+   "begin": "275.680", 
+   "children": [], 
+   "end": "278.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Daran besteht \u00fcberhaupt kein Zweifel."
+   ]
+  }, 
+  {
+   "begin": "278.240", 
+   "children": [], 
+   "end": "281.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Aber dies ist die Aufgabe der Beratungsstellen. "
+   ]
+  }, 
+  {
+   "begin": "281.840", 
+   "children": [], 
+   "end": "283.520", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Plakate, "
+   ]
+  }, 
+  {
+   "begin": "283.520", 
+   "children": [], 
+   "end": "285.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Zeitungsanzeigen, "
+   ]
+  }, 
+  {
+   "begin": "285.240", 
+   "children": [], 
+   "end": "289.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Internetwerbung sind daf\u00fcr kein probates Mittel."
+   ]
+  }, 
+  {
+   "begin": "289.560", 
+   "children": [], 
+   "end": "293.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen im Abtreibungsbereich keine Werbung,"
+   ]
+  }, 
+  {
+   "begin": "293.640", 
+   "children": [], 
+   "end": "299.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir wollen Mut und Hilfe bei der Entscheidung gegen einen Schwangerschaftsabbruch geben. "
+   ]
+  }, 
+  {
+   "begin": "299.840", 
+   "children": [], 
+   "end": "308.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb werden wir diese Gesetzentw\u00fcrfe ablehnen."
+   ]
+  }, 
+  {
+   "begin": "308.440", 
+   "children": [], 
+   "end": "309.360", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "309.360", 
+   "children": [], 
+   "end": "315.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Die n\u00e4chste Rednerin f\u00fcr die SPD-Fraktion ist die Kollegin Dr.\u00a0Eva H\u00f6gl."
+   ]
+  }
+ ]
+}

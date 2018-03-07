@@ -1,0 +1,764 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "children": [], 
+   "end": "9.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "children": [], 
+   "end": "17.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "17.960", 
+   "children": [], 
+   "end": "19.880", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle wollen, "
+   ]
+  }, 
+  {
+   "begin": "19.880", 
+   "children": [], 
+   "end": "27.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Firmen den wirtschaftlichen Wandel unter den neuen digitalen Voraussetzungen erfolgreich meistern. "
+   ]
+  }, 
+  {
+   "begin": "27.360", 
+   "children": [], 
+   "end": "29.720", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Managemententscheidungen sollen deshalb erreichen, "
+   ]
+  }, 
+  {
+   "begin": "29.720", 
+   "children": [], 
+   "end": "38.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass Unternehmen fit f\u00fcr die Zukunft gemacht werden und so langfristig Arbeitspl\u00e4tze gerade am Standort Deutschland sichern. "
+   ]
+  }, 
+  {
+   "begin": "38.200", 
+   "children": [], 
+   "end": "41.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Es kann aber nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "41.320", 
+   "children": [], 
+   "end": "50.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass Manager und Anteilseigner den Gewinn allein unter sich ausmachen und die Mitarbeiterinnen und Mitarbeiter als Verlierer dastehen."
+   ]
+  }, 
+  {
+   "begin": "50.520", 
+   "children": [], 
+   "end": "52.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Aber ich m\u00f6chte an dieser Stelle klarstellen, "
+   ]
+  }, 
+  {
+   "begin": "52.880", 
+   "children": [], 
+   "end": "60.040", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass die Politik Rahmenbedingungen festlegt und nicht in die Entscheidungen einzelner Unternehmen eingreifen soll. "
+   ]
+  }, 
+  {
+   "begin": "62.360", 
+   "children": [], 
+   "end": "68.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wir leben in einer sozialen Marktwirtschaft und nicht in einer sozialistischen Diktatur."
+   ]
+  }, 
+  {
+   "begin": "68.880", 
+   "children": [], 
+   "end": "71.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Meine lieben Damen und Herren von der Linken, "
+   ]
+  }, 
+  {
+   "begin": "71.720", 
+   "children": [], 
+   "end": "73.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die DDR ist Geschichte, "
+   ]
+  }, 
+  {
+   "begin": "73.560", 
+   "children": [], 
+   "end": "77.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "und das ist auch gut so."
+   ]
+  }, 
+  {
+   "begin": "77.000", 
+   "children": [], 
+   "end": "80.000", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Politik sorgt f\u00fcr gute Rahmenbedingungen, "
+   ]
+  }, 
+  {
+   "begin": "80.000", 
+   "children": [], 
+   "end": "81.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "um Arbeitspl\u00e4tze zu schaffen, "
+   ]
+  }, 
+  {
+   "begin": "81.680", 
+   "children": [], 
+   "end": "84.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "und auch das ist gut so. "
+   ]
+  }, 
+  {
+   "begin": "84.120", 
+   "children": [], 
+   "end": "91.120", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Die unionsgef\u00fchrte Bundesregierung hat den Wirtschaftsstandort Deutschland in der Vergangenheit nachhaltig gest\u00e4rkt, "
+   ]
+  }, 
+  {
+   "begin": "91.120", 
+   "children": [], 
+   "end": "99.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel durch steuerfinanzierte Milliardeninvestitionen in unsere Infrastruktur und in unser Bildungssystem, "
+   ]
+  }, 
+  {
+   "begin": "99.280", 
+   "children": [], 
+   "end": "104.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "das kontinuierlich hochqualifizierte Fachkr\u00e4fte hervorbringt. "
+   ]
+  }, 
+  {
+   "begin": "104.440", 
+   "children": [], 
+   "end": "108.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben die richtigen Weichen f\u00fcr gute wirtschaftliche Rahmenbedingungen in Deutschland gestellt. "
+   ]
+  }, 
+  {
+   "begin": "108.880", 
+   "children": [], 
+   "end": "111.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Davon profitieren die Unternehmen im Land. "
+   ]
+  }, 
+  {
+   "begin": "111.320", 
+   "children": [], 
+   "end": "115.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr erwarte ich aber auch von den Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "115.000", 
+   "children": [], 
+   "end": "116.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass sie Verantwortung \u00fcbernehmen: "
+   ]
+  }, 
+  {
+   "begin": "116.880", 
+   "children": [], 
+   "end": "120.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr ihre Mitarbeiter und f\u00fcr die Standorte, "
+   ]
+  }, 
+  {
+   "begin": "120.160", 
+   "children": [], 
+   "end": "122.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "damit nicht ganze Regionen zugrunde gehen, "
+   ]
+  }, 
+  {
+   "begin": "122.320", 
+   "children": [], 
+   "end": "131.360", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "weil auf einen Schlag Werke vollst\u00e4ndig geschlossen werden und Zulieferbetriebe und weitere Dienstleister vor Ort mitbetroffen sind."
+   ]
+  }, 
+  {
+   "begin": "131.360", 
+   "children": [], 
+   "end": "134.560", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Angesichts eines Rekordarbeitsmarktes, "
+   ]
+  }, 
+  {
+   "begin": "134.560", 
+   "children": [], 
+   "end": "142.960", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "der niedrigsten Arbeitslosenzahl und gro\u00dfer Unternehmensgewinne scheinen Massenentlassungen gegenw\u00e4rtig paradox. "
+   ]
+  }, 
+  {
+   "begin": "142.960", 
+   "children": [], 
+   "end": "146.840", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Sie erinnern an gro\u00dfe Wirtschaftskrisen und unsichere Zeiten. "
+   ]
+  }, 
+  {
+   "begin": "146.840", 
+   "children": [], 
+   "end": "153.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Dabei beneiden uns andere L\u00e4nder f\u00fcr unsere aktuelle sehr gute wirtschaftliche St\u00e4rke. "
+   ]
+  }, 
+  {
+   "begin": "153.520", 
+   "children": [], 
+   "end": "157.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Aus meiner Sicht k\u00f6nnen Entlassungen nur das allerletzte Mittel sein, "
+   ]
+  }, 
+  {
+   "begin": "157.080", 
+   "children": [], 
+   "end": "159.800", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "um aus Krisen herauszukommen."
+   ]
+  }, 
+  {
+   "begin": "159.800", 
+   "children": [], 
+   "end": "160.960", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin davon \u00fcberzeugt, "
+   ]
+  }, 
+  {
+   "begin": "160.960", 
+   "children": [], 
+   "end": "163.760", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass Unternehmen gut ausgebildete Fachkr\u00e4fte, "
+   ]
+  }, 
+  {
+   "begin": "163.760", 
+   "children": [], 
+   "end": "167.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "in deren Ausbildung und Qualifizierung viel investiert wurde, "
+   ]
+  }, 
+  {
+   "begin": "167.520", 
+   "children": [], 
+   "end": "170.000", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "auch weiterhin besch\u00e4ftigen m\u00f6chten. "
+   ]
+  }, 
+  {
+   "begin": "170.000", 
+   "children": [], 
+   "end": "172.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Alternative Ma\u00dfnahmen wie Weiterbildung, "
+   ]
+  }, 
+  {
+   "begin": "172.400", 
+   "children": [], 
+   "end": "178.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitsplatzwechsel oder Altersteilzeit sind zun\u00e4chst der sinnvollere Weg."
+   ]
+  }, 
+  {
+   "begin": "178.720", 
+   "children": [], 
+   "end": "179.960", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Ich verstehe die Angst davor, "
+   ]
+  }, 
+  {
+   "begin": "179.960", 
+   "children": [], 
+   "end": "181.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "entlassen zu werden. "
+   ]
+  }, 
+  {
+   "begin": "181.480", 
+   "children": [], 
+   "end": "186.240", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Der Verlust eines Arbeitsplatzes ist eine existenzielle Bedrohung. "
+   ]
+  }, 
+  {
+   "begin": "186.240", 
+   "children": [], 
+   "end": "188.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Er bedeutet nicht nur den Wegfall des Einkommens, "
+   ]
+  }, 
+  {
+   "begin": "188.720", 
+   "children": [], 
+   "end": "192.800", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "sondern oft auch eine Krise in den Familien."
+   ]
+  }, 
+  {
+   "begin": "192.800", 
+   "children": [], 
+   "end": "200.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Bei schwierigen Unternehmensentscheidungen setze ich vor allem auf die bew\u00e4hrte Zusammenarbeit zwischen Arbeitnehmerschaft und Management. "
+   ]
+  }, 
+  {
+   "begin": "200.640", 
+   "children": [], 
+   "end": "205.840", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Hier sind Gewerkschaften und Arbeitgebervertretungen in einer Verantwortung, "
+   ]
+  }, 
+  {
+   "begin": "205.840", 
+   "children": [], 
+   "end": "208.600", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die sie nicht auf die Politik abw\u00e4lzen d\u00fcrfen, "
+   ]
+  }, 
+  {
+   "begin": "208.600", 
+   "children": [], 
+   "end": "210.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "210.400", 
+   "children": [], 
+   "end": "211.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "211.800", 
+   "children": [], 
+   "end": "215.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Die Sozialpartnerschaft ist der Schl\u00fcssel zum Erfolg, "
+   ]
+  }, 
+  {
+   "begin": "215.080", 
+   "children": [], 
+   "end": "217.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "kein Gesetz, "
+   ]
+  }, 
+  {
+   "begin": "217.200", 
+   "children": [], 
+   "end": "221.240", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "das die Handlungsf\u00e4higkeit des Managements und der Arbeitnehmervertretungen, "
+   ]
+  }, 
+  {
+   "begin": "221.240", 
+   "children": [], 
+   "end": "222.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "also beider Seiten, "
+   ]
+  }, 
+  {
+   "begin": "222.880", 
+   "children": [], 
+   "end": "225.160", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "erheblich belastet. "
+   ]
+  }, 
+  {
+   "begin": "225.160", 
+   "children": [], 
+   "end": "228.720", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen also an der St\u00e4rkung der Tarifbindung arbeiten."
+   ]
+  }, 
+  {
+   "begin": "228.720", 
+   "children": [], 
+   "end": "234.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "So k\u00f6nnen betriebliche Vereinbarungen sozialvertr\u00e4glich umgesetzt werden. "
+   ]
+  }, 
+  {
+   "begin": "234.840", 
+   "children": [], 
+   "end": "236.680", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Das setzt nat\u00fcrlich voraus, "
+   ]
+  }, 
+  {
+   "begin": "236.680", 
+   "children": [], 
+   "end": "240.280", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass Abmachungen zwischen den Tarifpartnern eingehalten werden. "
+   ]
+  }, 
+  {
+   "begin": "240.280", 
+   "children": [], 
+   "end": "241.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das setzt aber auch voraus, "
+   ]
+  }, 
+  {
+   "begin": "241.640", 
+   "children": [], 
+   "end": "242.680", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Gewerkschaften nicht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "242.680", 
+   "children": [], 
+   "end": "243.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wie beim Mindestlohn\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "243.600", 
+   "children": [], 
+   "end": "245.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "aus der Verantwortung stehlen."
+   ]
+  }, 
+  {
+   "begin": "245.680", 
+   "children": [], 
+   "end": "247.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Den Mindestlohn haben n\u00e4mlich wir gemacht, "
+   ]
+  }, 
+  {
+   "begin": "247.520", 
+   "children": [], 
+   "end": "248.760", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "nicht die Gewerkschaften."
+   ]
+  }, 
+  {
+   "begin": "248.760", 
+   "children": [], 
+   "end": "253.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitnehmerschaft und Arbeitgeber kennen ihre Unternehmen besser als wir. "
+   ]
+  }, 
+  {
+   "begin": "253.640", 
+   "children": [], 
+   "end": "260.600", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Im konstruktiven Interessenausgleich k\u00f6nnen L\u00f6sungen in Krisenzeiten am besten gefunden werden. "
+   ]
+  }, 
+  {
+   "begin": "260.600", 
+   "children": [], 
+   "end": "262.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "262.320", 
+   "children": [], 
+   "end": "265.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wir helfen sehr gerne und vermitteln leidenschaftlich. "
+   ]
+  }, 
+  {
+   "begin": "265.160", 
+   "children": [], 
+   "end": "269.320", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Eine gesetzliche Regelung halte ich aber f\u00fcr den falschen Weg."
+   ]
+  }, 
+  {
+   "begin": "269.320", 
+   "children": [], 
+   "end": "273.480", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "An der Stelle w\u00fcnsche ich Ihnen eine gesegnete Weihnacht und einen guten Rutsch ins neue Jahr."
+   ]
+  }, 
+  {
+   "begin": "273.480", 
+   "children": [], 
+   "end": "274.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "274.000", 
+   "children": [], 
+   "end": "274.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "274.760", 
+   "children": [], 
+   "end": "277.960", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Weiler. "
+   ]
+  }, 
+  {
+   "begin": "277.960", 
+   "children": [], 
+   "end": "280.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr ist es vielleicht noch ein bisschen fr\u00fch.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "280.360", 
+   "children": [], 
+   "end": "283.000", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes kommt der Kollege Michael Gerdes f\u00fcr die SPD."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,784 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.480", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "children": [], 
+   "end": "8.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "children": [], 
+   "end": "10.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.400", 
+   "children": [], 
+   "end": "14.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte zu Beginn meiner Rede meine Freude dar\u00fcber zu Protokoll geben, "
+   ]
+  }, 
+  {
+   "begin": "14.200", 
+   "children": [], 
+   "end": "24.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass offenbar die Begeisterung bei der Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen \u00fcber den neuerlichen Ma\u00dfnahmenkatalog zur Verbesserung der Luft in Deutschland vonseiten der Bundesregierung so gro\u00df war, "
+   ]
+  }, 
+  {
+   "begin": "24.800", 
+   "children": [], 
+   "end": "27.760", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass sie ihn zum Antrag in der heutigen Plenarsitzung erhoben hat. "
+   ]
+  }, 
+  {
+   "begin": "27.760", 
+   "children": [], 
+   "end": "28.840", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "28.840", 
+   "children": [], 
+   "end": "29.880", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass wir die Gelegenheit haben, "
+   ]
+  }, 
+  {
+   "begin": "29.880", 
+   "children": [], 
+   "end": "31.600", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dar\u00fcber zu diskutieren."
+   ]
+  }, 
+  {
+   "begin": "31.600", 
+   "children": [], 
+   "end": "35.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage das auch deshalb, "
+   ]
+  }, 
+  {
+   "begin": "35.480", 
+   "children": [], 
+   "end": "40.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "weil sich in den vergangenen Jahren die Luftqualit\u00e4t in Deutschland deutlich verbessert hat. "
+   ]
+  }, 
+  {
+   "begin": "40.880", 
+   "children": [], 
+   "end": "42.080", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wer das ignoriert, "
+   ]
+  }, 
+  {
+   "begin": "42.080", 
+   "children": [], 
+   "end": "44.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "will entweder nicht sehen, "
+   ]
+  }, 
+  {
+   "begin": "44.720", 
+   "children": [], 
+   "end": "46.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "will das nicht wahrnehmen, "
+   ]
+  }, 
+  {
+   "begin": "46.240", 
+   "children": [], 
+   "end": "49.480", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "oder er f\u00fchrt b\u00f6se Absichten im Schilde."
+   ]
+  }, 
+  {
+   "begin": "49.480", 
+   "children": [], 
+   "end": "57.800", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Schwefeldioxidbelastung hat sich seit 1990 in Deutschland um 94\u00a0Prozent reduziert, "
+   ]
+  }, 
+  {
+   "begin": "57.800", 
+   "children": [], 
+   "end": "60.880", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "beim Kohlenmonoxid sind es 79\u00a0Prozent weniger, "
+   ]
+  }, 
+  {
+   "begin": "60.880", 
+   "children": [], 
+   "end": "64.200", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "beim Staub 82\u00a0Prozent weniger, "
+   ]
+  }, 
+  {
+   "begin": "64.200", 
+   "children": [], 
+   "end": "68.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "bei den fl\u00fcchtigen organischen Verbindungen sind es 70\u00a0Prozent weniger, "
+   ]
+  }, 
+  {
+   "begin": "68.520", 
+   "children": [], 
+   "end": "74.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und bei den NO X -Belastungen haben wir einen R\u00fcckgang um 59\u00a0Prozent zu verzeichnen. "
+   ]
+  }, 
+  {
+   "begin": "74.280", 
+   "children": [], 
+   "end": "76.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wer nicht bereit ist, "
+   ]
+  }, 
+  {
+   "begin": "76.360", 
+   "children": [], 
+   "end": "78.080", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "das zu sehen und zu akzeptieren, "
+   ]
+  }, 
+  {
+   "begin": "78.080", 
+   "children": [], 
+   "end": "80.920", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ist ignorant und kann keine seri\u00f6se Politik machen."
+   ]
+  }, 
+  {
+   "begin": "80.920", 
+   "children": [], 
+   "end": "84.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie es ganz aktuell haben wollen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "84.120", 
+   "children": [], 
+   "end": "91.440", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wir diskutieren ja in diesen Tagen viel \u00fcber das Urteil des Bundesverwaltungsgerichtes\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "91.440", 
+   "children": [], 
+   "end": "92.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Die Anzahl der St\u00e4dte, "
+   ]
+  }, 
+  {
+   "begin": "92.720", 
+   "children": [], 
+   "end": "97.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "die die ambitionierten Grenzwerte der Europ\u00e4ischen Union nicht einhalten, "
+   ]
+  }, 
+  {
+   "begin": "97.680", 
+   "children": [], 
+   "end": "104.000", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "hat sich von 2016 bis 2017 um \u00fcber 20 reduziert. "
+   ]
+  }, 
+  {
+   "begin": "104.000", 
+   "children": [], 
+   "end": "105.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein gro\u00dfer Erfolg und zeigt, "
+   ]
+  }, 
+  {
+   "begin": "105.760", 
+   "children": [], 
+   "end": "108.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass wir auf dem richtigen Weg sind."
+   ]
+  }, 
+  {
+   "begin": "108.120", 
+   "children": [], 
+   "end": "110.080", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen, "
+   ]
+  }, 
+  {
+   "begin": "110.080", 
+   "children": [], 
+   "end": "111.880", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "111.880", 
+   "children": [], 
+   "end": "117.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "im \u00dcbrigen ist es nicht das erste Papier und der erste Ma\u00dfnahmenkatalog, "
+   ]
+  }, 
+  {
+   "begin": "117.000", 
+   "children": [], 
+   "end": "122.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "den die Bundesregierung vorgelegt und jetzt der Europ\u00e4ischen Union zugestellt hat. "
+   ]
+  }, 
+  {
+   "begin": "122.080", 
+   "children": [], 
+   "end": "123.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ich will daran erinnern, "
+   ]
+  }, 
+  {
+   "begin": "123.600", 
+   "children": [], 
+   "end": "134.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass wir im Sofortprogramm Saubere Luft 2017-2020 Ma\u00dfnahmen in einem Gesamtvolumen von \u00fcber 1\u00a0Milliarde Euro auf den Weg gebracht haben, "
+   ]
+  }, 
+  {
+   "begin": "134.680", 
+   "children": [], 
+   "end": "139.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die ebenfalls ihre Wirksamkeit entfalten werden."
+   ]
+  }, 
+  {
+   "begin": "139.720", 
+   "children": [], 
+   "end": "141.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Darum bin ich absolut sicher: "
+   ]
+  }, 
+  {
+   "begin": "141.280", 
+   "children": [], 
+   "end": "143.040", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden es auch in diesem Jahr schaffen, "
+   ]
+  }, 
+  {
+   "begin": "143.040", 
+   "children": [], 
+   "end": "144.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die Anzahl der St\u00e4dte, "
+   ]
+  }, 
+  {
+   "begin": "144.880", 
+   "children": [], 
+   "end": "146.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "die die Grenzwerte nicht einhalten, "
+   ]
+  }, 
+  {
+   "begin": "146.760", 
+   "children": [], 
+   "end": "149.240", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "noch einmal drastisch zu reduzieren, "
+   ]
+  }, 
+  {
+   "begin": "149.240", 
+   "children": [], 
+   "end": "150.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und zwar ohne Fahrverbote, "
+   ]
+  }, 
+  {
+   "begin": "150.880", 
+   "children": [], 
+   "end": "152.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ohne radikale Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "152.240", 
+   "children": [], 
+   "end": "153.160", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "ohne das, "
+   ]
+  }, 
+  {
+   "begin": "153.160", 
+   "children": [], 
+   "end": "154.320", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "was Sie fordern, "
+   ]
+  }, 
+  {
+   "begin": "154.320", 
+   "children": [], 
+   "end": "162.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich eine kalte Enteignung der Autofahrerinnen und Autofahrer in Deutschland."
+   ]
+  }, 
+  {
+   "begin": "162.480", 
+   "children": [], 
+   "end": "166.040", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden die Elektrifizierung des Verkehrs vorantreiben. "
+   ]
+  }, 
+  {
+   "begin": "166.040", 
+   "children": [], 
+   "end": "171.560", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden die Dieselbusse im \u00d6PNV ebenso wie Kommunalfahrzeuge nachr\u00fcsten, "
+   ]
+  }, 
+  {
+   "begin": "171.560", 
+   "children": [], 
+   "end": "177.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "und wir werden \u00fcber die Digitalisierung des Verkehrs ebenfalls gro\u00dfe Effekte erzielen."
+   ]
+  }, 
+  {
+   "begin": "177.120", 
+   "children": [], 
+   "end": "181.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Die eine oder andere Debatte, "
+   ]
+  }, 
+  {
+   "begin": "181.560", 
+   "children": [], 
+   "end": "183.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die in diesen Tagen gef\u00fchrt wird, "
+   ]
+  }, 
+  {
+   "begin": "183.240", 
+   "children": [], 
+   "end": "184.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "scheint mir eine Debatte zu sein, "
+   ]
+  }, 
+  {
+   "begin": "184.920", 
+   "children": [], 
+   "end": "186.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "die an den Realit\u00e4ten vorbeigeht, "
+   ]
+  }, 
+  {
+   "begin": "186.760", 
+   "children": [], 
+   "end": "188.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "in der man nicht bereit ist, "
+   ]
+  }, 
+  {
+   "begin": "188.560", 
+   "children": [], 
+   "end": "190.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die gro\u00dfen Fortschritte, "
+   ]
+  }, 
+  {
+   "begin": "190.120", 
+   "children": [], 
+   "end": "190.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die wir gemacht haben, "
+   ]
+  }, 
+  {
+   "begin": "190.880", 
+   "children": [], 
+   "end": "191.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "zu akzeptieren, "
+   ]
+  }, 
+  {
+   "begin": "191.560", 
+   "children": [], 
+   "end": "192.480", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "sondern mit der man versucht, "
+   ]
+  }, 
+  {
+   "begin": "192.480", 
+   "children": [], 
+   "end": "194.880", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "einen Feldzug gegen eine Technologie\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "194.880", 
+   "children": [], 
+   "end": "197.320", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "in diesem Fall die Dieseltechnologie\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "197.320", 
+   "children": [], 
+   "end": "198.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "weiter voranzutreiben. "
+   ]
+  }, 
+  {
+   "begin": "198.880", 
+   "children": [], 
+   "end": "201.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Am Ende richtet sie sich gegen das Auto an sich, "
+   ]
+  }, 
+  {
+   "begin": "201.000", 
+   "children": [], 
+   "end": "203.200", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "und in ihr geht es nicht mehr darum, "
+   ]
+  }, 
+  {
+   "begin": "203.200", 
+   "children": [], 
+   "end": "207.160", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "die Luftqualit\u00e4t in unserem Land zu verbessern."
+   ]
+  }, 
+  {
+   "begin": "207.160", 
+   "children": [], 
+   "end": "210.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden uns nicht davon beirren lassen, "
+   ]
+  }, 
+  {
+   "begin": "210.000", 
+   "children": [], 
+   "end": "220.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "mit Augenma\u00df und im Interesse der Autofahrerinnen und Autofahrer unsere Politik der Verbesserung der Luftqualit\u00e4t in Deutschland fortzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "220.040", 
+   "children": [], 
+   "end": "221.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich auf die Debatten, "
+   ]
+  }, 
+  {
+   "begin": "221.120", 
+   "children": [], 
+   "end": "222.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "die wir hier in vier, "
+   ]
+  }, 
+  {
+   "begin": "222.160", 
+   "children": [], 
+   "end": "224.160", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcnf oder sechs Jahren f\u00fchren; "
+   ]
+  }, 
+  {
+   "begin": "224.160", 
+   "children": [], 
+   "end": "224.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "denn dann\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "224.560", 
+   "children": [], 
+   "end": "225.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "das werden Sie sehen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "225.400", 
+   "children": [], 
+   "end": "229.080", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "wird sich die Luftqualit\u00e4t in Deutschland in derselben Weise weiter verbessert haben, "
+   ]
+  }, 
+  {
+   "begin": "229.080", 
+   "children": [], 
+   "end": "231.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "wie wir es in den letzten Jahren erlebt haben."
+   ]
+  }, 
+  {
+   "begin": "231.240", 
+   "children": [], 
+   "end": "232.880", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "232.880", 
+   "children": [], 
+   "end": "234.640", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "234.640", 
+   "children": [], 
+   "end": "236.800", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Wittke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "236.800", 
+   "children": [], 
+   "end": "244.000", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die Fraktion der SPD der Kollege Mathias Stein mit seiner ersten Parlamentsrede."
+   ]
+  }
+ ]
+}

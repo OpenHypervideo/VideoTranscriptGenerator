@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "children": [], 
+   "end": "11.480", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "children": [], 
+   "end": "13.560", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Eigentlich hervorragende Zahlen, "
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "children": [], 
+   "end": "20.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "die da Siemens auf der Pressekonferenz am 9.\u00a0November pr\u00e4sentiert hat: "
+   ]
+  }, 
+  {
+   "begin": "20.120", 
+   "children": [], 
+   "end": "21.720", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Rekordums\u00e4tze, "
+   ]
+  }, 
+  {
+   "begin": "21.720", 
+   "children": [], 
+   "end": "22.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Rekordgewinne\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "children": [], 
+   "end": "26.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und dann der Schicksalsschlag f\u00fcr ganze Standorte in Deutschland bis hin zur Schlie\u00dfung. "
+   ]
+  }, 
+  {
+   "begin": "26.280", 
+   "children": [], 
+   "end": "29.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "6\u00a0900\u00a0Besch\u00e4ftigte werden weltweit abgebaut, "
+   ]
+  }, 
+  {
+   "begin": "29.240", 
+   "children": [], 
+   "end": "31.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ungef\u00e4hr 3\u00a0000 in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "31.360", 
+   "children": [], 
+   "end": "33.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eben nicht soziale Marktwirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "33.520", 
+   "children": [], 
+   "end": "34.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wie wir sie uns vorstellen. "
+   ]
+  }, 
+  {
+   "begin": "34.480", 
+   "children": [], 
+   "end": "35.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin sehr dankbar, "
+   ]
+  }, 
+  {
+   "begin": "35.680", 
+   "children": [], 
+   "end": "43.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass es differenzierte Wortmeldungen auch aus den Reihen der CDU/CSU-Fraktion dazu gegeben hat."
+   ]
+  }, 
+  {
+   "begin": "43.440", 
+   "children": [], 
+   "end": "47.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Der Vorstandsvorsitzende der Siemens\u00a0AG, "
+   ]
+  }, 
+  {
+   "begin": "47.840", 
+   "children": [], 
+   "end": "48.320", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Joe \u00adKaeser, "
+   ]
+  }, 
+  {
+   "begin": "48.320", 
+   "children": [], 
+   "end": "50.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wird sehr h\u00e4ufig zu Vortr\u00e4gen eingeladen. "
+   ]
+  }, 
+  {
+   "begin": "50.600", 
+   "children": [], 
+   "end": "53.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Er ist ein gefragter Gespr\u00e4chspartner. "
+   ]
+  }, 
+  {
+   "begin": "53.400", 
+   "children": [], 
+   "end": "56.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Viele Zitate werden ihm zugeschrieben. "
+   ]
+  }, 
+  {
+   "begin": "56.760", 
+   "children": [], 
+   "end": "62.880", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcbrigens sagte er bei seinem Amtsantritt als Siemens-Chef im Jahr\u00a02013 w\u00f6rtlich:"
+   ]
+  }, 
+  {
+   "begin": "62.880", 
+   "children": [], 
+   "end": "66.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Es ist keine unternehmerische Leistung, "
+   ]
+  }, 
+  {
+   "begin": "66.000", 
+   "children": [], 
+   "end": "70.320", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6glichst viele Arbeitspl\u00e4tze zu vernichten."
+   ]
+  }, 
+  {
+   "begin": "70.320", 
+   "children": [], 
+   "end": "73.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "73.600", 
+   "children": [], 
+   "end": "75.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ich denke, "
+   ]
+  }, 
+  {
+   "begin": "75.720", 
+   "children": [], 
+   "end": "79.880", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Sonntagsreden sollten auch in der Arbeitswoche Bestand haben."
+   ]
+  }, 
+  {
+   "begin": "79.880", 
+   "children": [], 
+   "end": "81.320", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Was sage ich jetzt den Besch\u00e4ftigten, "
+   ]
+  }, 
+  {
+   "begin": "81.320", 
+   "children": [], 
+   "end": "85.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die vom Verlust ihres Arbeitsplatzes bedroht sind, "
+   ]
+  }, 
+  {
+   "begin": "85.880", 
+   "children": [], 
+   "end": "88.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "die eigentlich mit ihrer tagt\u00e4glichen flei\u00dfigen, "
+   ]
+  }, 
+  {
+   "begin": "88.600", 
+   "children": [], 
+   "end": "92.240", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "innovativen Arbeit zu dem Rekordergebnis beigetragen haben? "
+   ]
+  }, 
+  {
+   "begin": "92.240", 
+   "children": [], 
+   "end": "95.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Die m\u00fcssen sich doch v\u00f6llig verh\u00f6hnt vorkommen. "
+   ]
+  }, 
+  {
+   "begin": "95.080", 
+   "children": [], 
+   "end": "97.720", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb sage ich ganz klar: "
+   ]
+  }, 
+  {
+   "begin": "97.720", 
+   "children": [], 
+   "end": "100.920", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Solidarit\u00e4t gilt allen Besch\u00e4ftigten deutschlandweit, "
+   ]
+  }, 
+  {
+   "begin": "100.920", 
+   "children": [], 
+   "end": "102.920", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "die von diesen Sparma\u00dfnahmen betroffen sind."
+   ]
+  }, 
+  {
+   "begin": "102.920", 
+   "children": [], 
+   "end": "107.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ich blicke auf mein Heimatbundesland Sachsen: "
+   ]
+  }, 
+  {
+   "begin": "107.200", 
+   "children": [], 
+   "end": "115.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "In Leipzig sind durch Schlie\u00dfung des Kompressorenwerks 270\u00a0Besch\u00e4ftigte, "
+   ]
+  }, 
+  {
+   "begin": "115.960", 
+   "children": [], 
+   "end": "121.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "in G\u00f6rlitz an der Nei\u00dfe 960\u00a0Besch\u00e4ftigte von der Schlie\u00dfung betroffen. "
+   ]
+  }, 
+  {
+   "begin": "121.760", 
+   "children": [], 
+   "end": "125.640", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das stellt eine besch\u00e4ftigungspolitische Katastrophe f\u00fcr Ostdeutschland dar. "
+   ]
+  }, 
+  {
+   "begin": "125.640", 
+   "children": [], 
+   "end": "133.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Dabei rede ich jetzt noch nicht einmal \u00fcber Erfurt oder Berlin oder von Standorten wie M\u00fclheim oder Erlangen oder Offenbach in Westdeutschland. "
+   ]
+  }, 
+  {
+   "begin": "133.520", 
+   "children": [], 
+   "end": "134.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Generell ist es so\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "134.720", 
+   "children": [], 
+   "end": "137.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "das muss zur Kenntnis genommen werden\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "137.640", 
+   "children": [], 
+   "end": "141.760", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass das f\u00fcr uns alle angesichts der guten Ergebnisse nicht akzeptabel ist."
+   ]
+  }, 
+  {
+   "begin": "141.760", 
+   "children": [], 
+   "end": "143.600", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "143.600", 
+   "children": [], 
+   "end": "145.320", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "es gilt nun wirklich, "
+   ]
+  }, 
+  {
+   "begin": "145.320", 
+   "children": [], 
+   "end": "148.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "einmal den Praxischeck zu machen. "
+   ]
+  }, 
+  {
+   "begin": "148.440", 
+   "children": [], 
+   "end": "149.560", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage es mal so: "
+   ]
+  }, 
+  {
+   "begin": "149.560", 
+   "children": [], 
+   "end": "155.440", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Sicherlich ist die weltweite Lage auf dem Markt f\u00fcr fossile Stromerzeugung schwierig und angespannt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "155.440", 
+   "children": [], 
+   "end": "156.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "keine Frage. "
+   ]
+  }, 
+  {
+   "begin": "156.760", 
+   "children": [], 
+   "end": "160.080", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Da gibt es auch ein von der Politik gewolltes Umdenken. "
+   ]
+  }, 
+  {
+   "begin": "160.080", 
+   "children": [], 
+   "end": "164.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Aber am Standort G\u00f6rlitz werden viele Produkte hergestellt, "
+   ]
+  }, 
+  {
+   "begin": "164.920", 
+   "children": [], 
+   "end": "167.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die davon gar nicht betroffen sind. "
+   ]
+  }, 
+  {
+   "begin": "167.160", 
+   "children": [], 
+   "end": "169.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Auch das geh\u00f6rt zur Wahrheit. "
+   ]
+  }, 
+  {
+   "begin": "169.040", 
+   "children": [], 
+   "end": "178.960", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "G\u00f6rlitz ist Weltspitze in der Ausr\u00fcstung von dezentralen Biomassekraftwerken mit Kraft-W\u00e4rme-Kopplung oder von solarthermischen Kraftwerken und hat \u00fcbrigens auch volle Auftragsb\u00fccher. "
+   ]
+  }, 
+  {
+   "begin": "178.960", 
+   "children": [], 
+   "end": "182.640", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "In Leipzig werden Turbokompressoren f\u00fcr die Prozessindustrie hergestellt, "
+   ]
+  }, 
+  {
+   "begin": "182.640", 
+   "children": [], 
+   "end": "185.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die nicht nur im energetischen Bereich, "
+   ]
+  }, 
+  {
+   "begin": "185.320", 
+   "children": [], 
+   "end": "191.560", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch in der chemischen Industrie und bei der Stahlproduktion zum Einsatz kommen."
+   ]
+  }, 
+  {
+   "begin": "191.560", 
+   "children": [], 
+   "end": "193.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Joe Kaeser sagt ja gerne, "
+   ]
+  }, 
+  {
+   "begin": "193.000", 
+   "children": [], 
+   "end": "194.800", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dass beides wichtig ist: "
+   ]
+  }, 
+  {
+   "begin": "194.800", 
+   "children": [], 
+   "end": "197.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Mensch und Marge. "
+   ]
+  }, 
+  {
+   "begin": "197.920", 
+   "children": [], 
+   "end": "204.160", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Aber offensichtlich ist bei dieser Entscheidung von Siemens dar\u00fcber nicht ernsthaft nachgedacht worden. "
+   ]
+  }, 
+  {
+   "begin": "204.160", 
+   "children": [], 
+   "end": "207.440", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wer sich die aktuelle Gesch\u00e4ftsentwicklung anschaut, "
+   ]
+  }, 
+  {
+   "begin": "207.440", 
+   "children": [], 
+   "end": "208.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "der wird feststellen, "
+   ]
+  }, 
+  {
+   "begin": "208.320", 
+   "children": [], 
+   "end": "222.640", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass bei der Division \u201ePower and Gas\u201c statt 11,4\u00a0Prozent wie im letzten Jahr nur noch 10,3\u00a0Prozent Gewinn erreicht wurden. "
+   ]
+  }, 
+  {
+   "begin": "222.640", 
+   "children": [], 
+   "end": "225.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt frage ich Sie aber: "
+   ]
+  }, 
+  {
+   "begin": "225.040", 
+   "children": [], 
+   "end": "227.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Ist es nicht unglaublich, "
+   ]
+  }, 
+  {
+   "begin": "227.360", 
+   "children": [], 
+   "end": "230.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass man trotz eines zweistelligen Gewinns Arbeitspl\u00e4tze abbaut? "
+   ]
+  }, 
+  {
+   "begin": "230.720", 
+   "children": [], 
+   "end": "234.480", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Es ist doch angesichts dieser Ergebnisse verlogen, "
+   ]
+  }, 
+  {
+   "begin": "234.480", 
+   "children": [], 
+   "end": "235.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "zu sagen, "
+   ]
+  }, 
+  {
+   "begin": "235.240", 
+   "children": [], 
+   "end": "237.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die Arbeitnehmer h\u00e4tten schlecht gearbeitet. "
+   ]
+  }, 
+  {
+   "begin": "237.360", 
+   "children": [], 
+   "end": "241.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber die strukturellen Folgen in meiner Region will ich gar nicht weiter reden. "
+   ]
+  }, 
+  {
+   "begin": "241.560", 
+   "children": [], 
+   "end": "243.200", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind verheerend. "
+   ]
+  }, 
+  {
+   "begin": "243.200", 
+   "children": [], 
+   "end": "249.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in G\u00f6rlitz nun einmal ein Geflecht aus Zulieferunternehmen und eine enge Kooperation mit Schulen und Hochschulen. "
+   ]
+  }, 
+  {
+   "begin": "249.240", 
+   "children": [], 
+   "end": "251.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Das alles wird kaputtgemacht und aufs Spiel gesetzt. "
+   ]
+  }, 
+  {
+   "begin": "251.760", 
+   "children": [], 
+   "end": "256.360", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ungerechtfertigt und unverantwortlich. "
+   ]
+  }, 
+  {
+   "begin": "256.360", 
+   "children": [], 
+   "end": "258.520", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Leuchtt\u00fcrme im Osten sind gefragt. "
+   ]
+  }, 
+  {
+   "begin": "258.520", 
+   "children": [], 
+   "end": "260.800", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen neue aufbauen und d\u00fcrfen die bestehenden nicht abbauen."
+   ]
+  }, 
+  {
+   "begin": "260.800", 
+   "children": [], 
+   "end": "268.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Was die Perspektiven betrifft, "
+   ]
+  }, 
+  {
+   "begin": "268.360", 
+   "children": [], 
+   "end": "269.920", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "will ich darauf hinweisen, "
+   ]
+  }, 
+  {
+   "begin": "269.920", 
+   "children": [], 
+   "end": "277.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass vor kurzem 52\u00a0Unternehmensverb\u00e4nde in Deutschland ein Bekenntnis zur Klimapolitik ver\u00f6ffentlicht haben. "
+   ]
+  }, 
+  {
+   "begin": "277.000", 
+   "children": [], 
+   "end": "280.160", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Siemens hat diese Erkl\u00e4rung mitgetragen. "
+   ]
+  }, 
+  {
+   "begin": "280.160", 
+   "children": [], 
+   "end": "281.640", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Darin hei\u00dft es \u00fcbrigens, "
+   ]
+  }, 
+  {
+   "begin": "281.640", 
+   "children": [], 
+   "end": "289.400", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass das Pariser Klimaabkommen die unternehmerische Planungssicherheit erh\u00f6ht und zus\u00e4tzliche Investitionen erm\u00f6glicht. "
+   ]
+  }, 
+  {
+   "begin": "289.400", 
+   "children": [], 
+   "end": "291.440", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Nehmen wir also Siemens beim Wort. "
+   ]
+  }, 
+  {
+   "begin": "291.440", 
+   "children": [], 
+   "end": "293.640", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Investieren Sie von Siemens in G\u00f6rlitz, "
+   ]
+  }, 
+  {
+   "begin": "293.640", 
+   "children": [], 
+   "end": "294.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Berlin, "
+   ]
+  }, 
+  {
+   "begin": "294.440", 
+   "children": [], 
+   "end": "295.000", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Offenbach, "
+   ]
+  }, 
+  {
+   "begin": "295.000", 
+   "children": [], 
+   "end": "295.480", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Erlangen, "
+   ]
+  }, 
+  {
+   "begin": "295.480", 
+   "children": [], 
+   "end": "295.880", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "M\u00fclheim, "
+   ]
+  }, 
+  {
+   "begin": "295.880", 
+   "children": [], 
+   "end": "297.040", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Leipzig und Erfurt! "
+   ]
+  }, 
+  {
+   "begin": "297.040", 
+   "children": [], 
+   "end": "299.880", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Tun Sie etwas f\u00fcr die Zukunft gerade auch in Ostdeutschland! "
+   ]
+  }, 
+  {
+   "begin": "299.880", 
+   "children": [], 
+   "end": "300.320", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kaeser, "
+   ]
+  }, 
+  {
+   "begin": "300.320", 
+   "children": [], 
+   "end": "301.720", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind herzlich eingeladen, "
+   ]
+  }, 
+  {
+   "begin": "301.720", 
+   "children": [], 
+   "end": "302.520", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "dort mitzutun. "
+   ]
+  }, 
+  {
+   "begin": "302.520", 
+   "children": [], 
+   "end": "303.760", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Kommen Sie nach G\u00f6rlitz, "
+   ]
+  }, 
+  {
+   "begin": "303.760", 
+   "children": [], 
+   "end": "305.160", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "schauen Sie sich das Werk an, "
+   ]
+  }, 
+  {
+   "begin": "305.160", 
+   "children": [], 
+   "end": "306.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "und helfen Sie mit, "
+   ]
+  }, 
+  {
+   "begin": "306.000", 
+   "children": [], 
+   "end": "309.440", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "dass das Unternehmen auch in Ostdeutschland eine Zukunft hat!"
+   ]
+  }, 
+  {
+   "begin": "309.440", 
+   "children": [], 
+   "end": "325.960", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat Jana Schimke f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

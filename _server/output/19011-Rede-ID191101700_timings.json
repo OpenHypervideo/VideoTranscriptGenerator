@@ -1,0 +1,744 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "children": [], 
+   "end": "9.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "children": [], 
+   "end": "13.040", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Unser Zusammenleben in diesem Land wird von zwei Dingen getragen: "
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dem Grundgesetz und dem Beherrschen der deutschen Sprache. "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "23.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Der Geist des Grundgesetzes wird beatmet von der niedergeschriebenen freiheitlich-demokratischen Grundordnung und den daraus folgenden Rechten, "
+   ]
+  }, 
+  {
+   "begin": "23.680", 
+   "children": [], 
+   "end": "26.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "beispielsweise dem Recht auf Meinungsfreiheit, "
+   ]
+  }, 
+  {
+   "begin": "26.160", 
+   "children": [], 
+   "end": "29.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Versammlungsfreiheit und freie Wahlen."
+   ]
+  }, 
+  {
+   "begin": "29.200", 
+   "children": [], 
+   "end": "32.200", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Unser Land ist eine Verantwortungsgemeinschaft, "
+   ]
+  }, 
+  {
+   "begin": "32.200", 
+   "children": [], 
+   "end": "36.240", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die auf den grundrechtlich garantierten und unumst\u00f6\u00dflichen Werten fu\u00dft. "
+   ]
+  }, 
+  {
+   "begin": "36.240", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Keiner von uns hat sich je das Grundgesetz vorgenommen und handschriftlich unterschrieben als eine Sammlung von Klauseln, "
+   ]
+  }, 
+  {
+   "begin": "42.760", 
+   "children": [], 
+   "end": "44.040", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "denen wir uns unterwerfen. "
+   ]
+  }, 
+  {
+   "begin": "44.040", 
+   "children": [], 
+   "end": "45.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Und doch: "
+   ]
+  }, 
+  {
+   "begin": "45.280", 
+   "children": [], 
+   "end": "47.000", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Es ist unser Gesellschaftsvertrag, "
+   ]
+  }, 
+  {
+   "begin": "47.000", 
+   "children": [], 
+   "end": "48.120", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "den wir ehren, "
+   ]
+  }, 
+  {
+   "begin": "48.120", 
+   "children": [], 
+   "end": "49.480", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "den wir achten, "
+   ]
+  }, 
+  {
+   "begin": "49.480", 
+   "children": [], 
+   "end": "51.360", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "aber vor allem sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "51.360", 
+   "children": [], 
+   "end": "54.440", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Zum Schutze des Grundgesetzes bestellt der Staat Polizeibeh\u00f6rden, "
+   ]
+  }, 
+  {
+   "begin": "54.440", 
+   "children": [], 
+   "end": "57.640", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Staatsanw\u00e4lte und Richter. "
+   ]
+  }, 
+  {
+   "begin": "57.640", 
+   "children": [], 
+   "end": "59.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Doch der beste Schutz sind Menschen, "
+   ]
+  }, 
+  {
+   "begin": "59.240", 
+   "children": [], 
+   "end": "60.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die mit den Chancen, "
+   ]
+  }, 
+  {
+   "begin": "60.480", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Rechten und Pflichten des Grundgesetzes aufwachsen. "
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "68.080", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Gerade deshalb richten sie bewusst oder unbewusst ihr Handeln danach aus, "
+   ]
+  }, 
+  {
+   "begin": "68.080", 
+   "children": [], 
+   "end": "69.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "weil sie die Freiheiten, "
+   ]
+  }, 
+  {
+   "begin": "69.120", 
+   "children": [], 
+   "end": "69.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "die sie genie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "69.720", 
+   "children": [], 
+   "end": "73.960", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "als Kehrseite desselben Freiheitsrechtes bewahren wollen."
+   ]
+  }, 
+  {
+   "begin": "73.960", 
+   "children": [], 
+   "end": "76.960", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Nach dieser idealisierten Betrachtungsweise gebe ich gerne zu, "
+   ]
+  }, 
+  {
+   "begin": "76.960", 
+   "children": [], 
+   "end": "79.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass wir dennoch Anlass genug haben, "
+   ]
+  }, 
+  {
+   "begin": "79.320", 
+   "children": [], 
+   "end": "84.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "mit Misstrauen und Argwohn auf Gesetzesverst\u00f6\u00dfe zu blicken. "
+   ]
+  }, 
+  {
+   "begin": "84.200", 
+   "children": [], 
+   "end": "86.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Besonders verwerflich ist das, "
+   ]
+  }, 
+  {
+   "begin": "86.040", 
+   "children": [], 
+   "end": "87.920", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "wenn das Vertrauen des Staates, "
+   ]
+  }, 
+  {
+   "begin": "87.920", 
+   "children": [], 
+   "end": "89.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "etwa durch eine Zuwendung, "
+   ]
+  }, 
+  {
+   "begin": "89.560", 
+   "children": [], 
+   "end": "90.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "entt\u00e4uscht w\u00fcrde. "
+   ]
+  }, 
+  {
+   "begin": "90.760", 
+   "children": [], 
+   "end": "95.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Was ist also der beste Schutz gegen eine solche Entt\u00e4uschung? "
+   ]
+  }, 
+  {
+   "begin": "95.200", 
+   "children": [], 
+   "end": "98.320", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Vertrauen oder Misstrauen zu Beginn? "
+   ]
+  }, 
+  {
+   "begin": "98.320", 
+   "children": [], 
+   "end": "107.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD-Fraktion hat sich damals f\u00fcr das Vertrauen in den Rechtsstaat und die Zuwendungsempf\u00e4nger entschieden und diese Demokratieklausel hinsichtlich ihrer unbestimmten Rechtsbegriffe\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "107.080", 
+   "children": [], 
+   "end": "108.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere: "
+   ]
+  }, 
+  {
+   "begin": "108.040", 
+   "children": [], 
+   "end": "111.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "\u201eAnschein der Unterst\u00fctzung extremistischer Strukturen\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "111.240", 
+   "children": [], 
+   "end": "112.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "kritisiert. "
+   ]
+  }, 
+  {
+   "begin": "112.880", 
+   "children": [], 
+   "end": "116.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das Verwaltungsgericht Dresden best\u00e4tigte diese Haltung. "
+   ]
+  }, 
+  {
+   "begin": "116.320", 
+   "children": [], 
+   "end": "125.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die Verpflichtung zu bestimmten Weltanschauungen oder Bekenntnissen und folglich damit einhergehende Grundrechtsbeschr\u00e4nkungen sind nur in bestimmten Gewaltverh\u00e4ltnissen zul\u00e4ssig. "
+   ]
+  }, 
+  {
+   "begin": "125.520", 
+   "children": [], 
+   "end": "126.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Einb\u00fcrgerungen, "
+   ]
+  }, 
+  {
+   "begin": "126.920", 
+   "children": [], 
+   "end": "129.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "das Beamtenverh\u00e4ltnis sind solche F\u00e4lle, "
+   ]
+  }, 
+  {
+   "begin": "129.440", 
+   "children": [], 
+   "end": "134.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "ein Zuwendungsverh\u00e4ltnis zwischen Staat und Privaten sicherlich nicht."
+   ]
+  }, 
+  {
+   "begin": "134.480", 
+   "children": [], 
+   "end": "137.600", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Ein gesetzliches F\u00f6rderprogramm ist durchdacht. "
+   ]
+  }, 
+  {
+   "begin": "137.600", 
+   "children": [], 
+   "end": "140.160", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Es setzt Vergabeverfahren voraus. "
+   ]
+  }, 
+  {
+   "begin": "140.160", 
+   "children": [], 
+   "end": "151.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Eine Armada von Verwaltungsvorschriften und eine Pr\u00fcfung von Voraussetzungen und Bedingungen sowie die belebende Konkurrenz von sich bewerbenden Vereinen und Verb\u00e4nden gehen einer solchen F\u00f6rderung voraus. "
+   ]
+  }, 
+  {
+   "begin": "151.960", 
+   "children": [], 
+   "end": "154.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Viele w\u00fcrdigen das als B\u00fcrokratiewahn herab. "
+   ]
+  }, 
+  {
+   "begin": "154.760", 
+   "children": [], 
+   "end": "156.400", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Ich sehe darin ein Verfahren, "
+   ]
+  }, 
+  {
+   "begin": "156.400", 
+   "children": [], 
+   "end": "162.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "das Recht und Gesetz in Entscheidungen konkretisiert und im \u00dcbrigen auch jetzt schon die M\u00f6glichkeit kennt, "
+   ]
+  }, 
+  {
+   "begin": "162.800", 
+   "children": [], 
+   "end": "165.280", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "fehlerhafte F\u00f6rderbewilligungen zu revidieren. "
+   ]
+  }, 
+  {
+   "begin": "165.280", 
+   "children": [], 
+   "end": "170.760", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ein Blick in das Verwaltungsverfahrensgesetz w\u00fcrde die Rechtsfindung sicherlich erheblich erleichtern. "
+   ]
+  }, 
+  {
+   "begin": "170.760", 
+   "children": [], 
+   "end": "171.880", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Eine Institution, "
+   ]
+  }, 
+  {
+   "begin": "171.880", 
+   "children": [], 
+   "end": "173.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die demokratiefeindlich ist oder w\u00e4re, "
+   ]
+  }, 
+  {
+   "begin": "173.880", 
+   "children": [], 
+   "end": "177.920", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "begibt sich doch nicht freiwillig unter das Joch einer staatlichen \u00dcberpr\u00fcfung. "
+   ]
+  }, 
+  {
+   "begin": "177.920", 
+   "children": [], 
+   "end": "178.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "178.600", 
+   "children": [], 
+   "end": "179.800", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Selbst wenn\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "179.800", 
+   "children": [], 
+   "end": "181.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "unsere Demokratie f\u00fcrchtet sich nicht, "
+   ]
+  }, 
+  {
+   "begin": "181.720", 
+   "children": [], 
+   "end": "183.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "nicht einmal vor ihren Feinden, "
+   ]
+  }, 
+  {
+   "begin": "183.440", 
+   "children": [], 
+   "end": "185.440", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "sie h\u00e4lt Meinungen und Versammlungen und Menschen aus, "
+   ]
+  }, 
+  {
+   "begin": "185.440", 
+   "children": [], 
+   "end": "187.240", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die sich eines Schutzes bedienen, "
+   ]
+  }, 
+  {
+   "begin": "187.240", 
+   "children": [], 
+   "end": "189.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "den sie nicht ansatzweise verdienen, "
+   ]
+  }, 
+  {
+   "begin": "189.960", 
+   "children": [], 
+   "end": "197.120", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "ob sie dies nun mit offen zur Schau gestellten Absichten in Springerstiefeln tun oder ob in versteckten Chatprotokollen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "197.120", 
+   "children": [], 
+   "end": "198.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "198.000", 
+   "children": [], 
+   "end": "202.120", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "von \u201eGrube auszuheben\u201c und \u201eL\u00f6schkalk obendrauf zu streuen\u201c die Rede ist. "
+   ]
+  }, 
+  {
+   "begin": "202.120", 
+   "children": [], 
+   "end": "204.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Das d\u00fcrfte Ihnen wahrscheinlich bekannt vorkommen. "
+   ]
+  }, 
+  {
+   "begin": "204.440", 
+   "children": [], 
+   "end": "211.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "So sind selbst diese demokratiekritischen bis \u2011feindlichen \u00c4u\u00dferungen und Institutionen D\u00fcnger f\u00fcr unsere Demokratie, "
+   ]
+  }, 
+  {
+   "begin": "211.840", 
+   "children": [], 
+   "end": "217.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "weil sie unseren Widerspruch hervorrufen und die Schw\u00e4che jener Menschen offenbaren."
+   ]
+  }, 
+  {
+   "begin": "217.760", 
+   "children": [], 
+   "end": "222.400", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Bertolt Brecht hat es einmal markanter formuliert:"
+   ]
+  }, 
+  {
+   "begin": "222.400", 
+   "children": [], 
+   "end": "227.520", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die Ver\u00e4nderbarkeit der Welt besteht auf ihrer Widerspr\u00fcchlichkeit."
+   ]
+  }, 
+  {
+   "begin": "227.520", 
+   "children": [], 
+   "end": "229.480", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin der festen \u00dcberzeugung: "
+   ]
+  }, 
+  {
+   "begin": "229.480", 
+   "children": [], 
+   "end": "233.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Demokratie braucht keine zus\u00e4tzlichen Klauseln. "
+   ]
+  }, 
+  {
+   "begin": "233.360", 
+   "children": [], 
+   "end": "237.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr mich ist das Grundgesetz Garant gegen Extremismus genug."
+   ]
+  }, 
+  {
+   "begin": "237.560", 
+   "children": [], 
+   "end": "241.840", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit, "
+   ]
+  }, 
+  {
+   "begin": "241.840", 
+   "children": [], 
+   "end": "244.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }
+ ]
+}

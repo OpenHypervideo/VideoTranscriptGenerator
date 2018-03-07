@@ -1,0 +1,974 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.160", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "0.160", 
+   "children": [], 
+   "end": "1.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.840", 
+   "children": [], 
+   "end": "10.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "children": [], 
+   "end": "11.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Es ist grunds\u00e4tzlich gut, "
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "children": [], 
+   "end": "17.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass der Deutsche Bundestag sich mit der aktuellen Entwicklung im Nahen und Mittleren Osten besch\u00e4ftigt. "
+   ]
+  }, 
+  {
+   "begin": "17.520", 
+   "children": [], 
+   "end": "21.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "In nur vier Minuten die zahlreichen Konflikte in dieser Region darzustellen, "
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "children": [], 
+   "end": "25.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "ist allerdings eine au\u00dferordentlich gro\u00dfe Herausforderung."
+   ]
+  }, 
+  {
+   "begin": "25.280", 
+   "children": [], 
+   "end": "31.160", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die M\u00fcnchner Sicherheitskonferenz am vergangenen Wochenende machte einmal mehr deutlich, "
+   ]
+  }, 
+  {
+   "begin": "31.160", 
+   "children": [], 
+   "end": "36.400", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wie fragil und gef\u00e4hrlich die politische Lage im Nahen und Mittleren Osten ist. "
+   ]
+  }, 
+  {
+   "begin": "36.400", 
+   "children": [], 
+   "end": "41.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Es finden derzeit verschiedene Stellvertreterkriege in Syrien statt. "
+   ]
+  }, 
+  {
+   "begin": "41.080", 
+   "children": [], 
+   "end": "46.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Die Bedrohung Israels durch das iranische Regime w\u00e4chst erschreckend. "
+   ]
+  }, 
+  {
+   "begin": "46.760", 
+   "children": [], 
+   "end": "50.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Der Jemen versinkt im B\u00fcrgerkrieg. "
+   ]
+  }, 
+  {
+   "begin": "50.120", 
+   "children": [], 
+   "end": "53.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Afghanistan ist alles andere als sicher. "
+   ]
+  }, 
+  {
+   "begin": "53.800", 
+   "children": [], 
+   "end": "56.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die Stabilit\u00e4t des Libanons br\u00f6ckelt. "
+   ]
+  }, 
+  {
+   "begin": "56.840", 
+   "children": [], 
+   "end": "61.400", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Der Konflikt zwischen Israelis und Pal\u00e4stinensern ist nach wie vor ungel\u00f6st. "
+   ]
+  }, 
+  {
+   "begin": "61.400", 
+   "children": [], 
+   "end": "64.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Der Machtkampf zwischen Saudi-Arabien und Iran versch\u00e4rft sich.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "64.760", 
+   "children": [], 
+   "end": "68.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Diese Aufz\u00e4hlung lie\u00dfe sich beliebig weiterf\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "68.840", 
+   "children": [], 
+   "end": "72.920", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Leider sind weitere Konflikte am Horizont erkennbar."
+   ]
+  }, 
+  {
+   "begin": "72.920", 
+   "children": [], 
+   "end": "75.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Jahrzehntelang hat es keine deutsche bzw. "
+   ]
+  }, 
+  {
+   "begin": "75.720", 
+   "children": [], 
+   "end": "79.040", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "europ\u00e4ische Strategie f\u00fcr den Nahen und Mittleren Osten gegeben. "
+   ]
+  }, 
+  {
+   "begin": "79.040", 
+   "children": [], 
+   "end": "81.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr wurde gewartet und darauf vertraut, "
+   ]
+  }, 
+  {
+   "begin": "81.640", 
+   "children": [], 
+   "end": "86.440", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass die USA eine Entscheidung treffen oder eine Strategie entwickeln, "
+   ]
+  }, 
+  {
+   "begin": "86.440", 
+   "children": [], 
+   "end": "87.440", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und dann wurde geschaut, "
+   ]
+  }, 
+  {
+   "begin": "87.440", 
+   "children": [], 
+   "end": "92.400", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "welche Rolle im Rahmen dieser US-Parameter \u00fcbernommen werden kann. "
+   ]
+  }, 
+  {
+   "begin": "92.400", 
+   "children": [], 
+   "end": "96.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Faktoren haben diese Vorgehensweise aus meiner Sicht ver\u00e4ndert: "
+   ]
+  }, 
+  {
+   "begin": "96.720", 
+   "children": [], 
+   "end": "102.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die Fl\u00fcchtlingskrise im Jahr\u00a02015 und die Wahl des US-Pr\u00e4sidenten Trump."
+   ]
+  }, 
+  {
+   "begin": "102.440", 
+   "children": [], 
+   "end": "108.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Fl\u00fcchtlingskrise aus dem Jahr\u00a02015 hat uns erschreckend deutlich gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "108.080", 
+   "children": [], 
+   "end": "110.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass die Probleme dieser Region nicht weit weg, "
+   ]
+  }, 
+  {
+   "begin": "110.760", 
+   "children": [], 
+   "end": "112.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "irgendwo auf der Welt, "
+   ]
+  }, 
+  {
+   "begin": "112.720", 
+   "children": [], 
+   "end": "116.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "sondern unmittelbar vor der Haust\u00fcr Europas sind. "
+   ]
+  }, 
+  {
+   "begin": "116.400", 
+   "children": [], 
+   "end": "117.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "117.280", 
+   "children": [], 
+   "end": "119.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass diese Probleme nicht zu uns kommen, "
+   ]
+  }, 
+  {
+   "begin": "119.360", 
+   "children": [], 
+   "end": "121.880", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "sondern vor Ort gel\u00f6st werden, "
+   ]
+  }, 
+  {
+   "begin": "121.880", 
+   "children": [], 
+   "end": "128.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen wir Europ\u00e4er uns in dieser Region politisch mehr engagieren."
+   ]
+  }, 
+  {
+   "begin": "128.680", 
+   "children": [], 
+   "end": "134.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Wahl des US-Pr\u00e4sidenten Trump und seine politische Ausrichtung verdeutlichen uns, "
+   ]
+  }, 
+  {
+   "begin": "134.680", 
+   "children": [], 
+   "end": "137.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass es notwendiger denn je ist, "
+   ]
+  }, 
+  {
+   "begin": "137.000", 
+   "children": [], 
+   "end": "138.160", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die Gemeinsame Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "138.160", 
+   "children": [], 
+   "end": "144.840", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik Europas zu st\u00e4rken und sich speziell im Nahen und Mittleren Osten politisch zu engagieren."
+   ]
+  }, 
+  {
+   "begin": "144.840", 
+   "children": [], 
+   "end": "150.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Gelegentlich wird in den Hauptst\u00e4dten Europas oder auch der USA so diskutiert, "
+   ]
+  }, 
+  {
+   "begin": "150.360", 
+   "children": [], 
+   "end": "152.560", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "als ob wir diejenigen seien, "
+   ]
+  }, 
+  {
+   "begin": "152.560", 
+   "children": [], 
+   "end": "155.160", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "die die Zukunft dieser Region gestalten m\u00fcssten. "
+   ]
+  }, 
+  {
+   "begin": "155.160", 
+   "children": [], 
+   "end": "155.920", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "155.920", 
+   "children": [], 
+   "end": "160.840", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen eine europ\u00e4isch-transatlantische Strategie f\u00fcr diese Region entwickeln. "
+   ]
+  }, 
+  {
+   "begin": "160.840", 
+   "children": [], 
+   "end": "165.560", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Was jedoch am Ende des Tages politisch vor Ort passiert, "
+   ]
+  }, 
+  {
+   "begin": "165.560", 
+   "children": [], 
+   "end": "168.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen die Menschen selbst bestimmen. "
+   ]
+  }, 
+  {
+   "begin": "168.080", 
+   "children": [], 
+   "end": "168.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Ob Saudis, "
+   ]
+  }, 
+  {
+   "begin": "168.880", 
+   "children": [], 
+   "end": "169.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Iraker, "
+   ]
+  }, 
+  {
+   "begin": "169.600", 
+   "children": [], 
+   "end": "171.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Iraner oder Syrer, "
+   ]
+  }, 
+  {
+   "begin": "171.080", 
+   "children": [], 
+   "end": "177.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "am Ende des Tages m\u00fcssen die Menschen selbst Verantwortung f\u00fcr ihre Zukunft \u00fcbernehmen und entscheiden, "
+   ]
+  }, 
+  {
+   "begin": "177.040", 
+   "children": [], 
+   "end": "180.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "in welcher Ordnung und in welchem System sie leben wollen."
+   ]
+  }, 
+  {
+   "begin": "180.680", 
+   "children": [], 
+   "end": "181.480", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "181.480", 
+   "children": [], 
+   "end": "187.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "der Nahe und Mittlere Osten leidet seit Ende der 70er-Jahre an einer Krankheit. "
+   ]
+  }, 
+  {
+   "begin": "187.560", 
+   "children": [], 
+   "end": "190.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Diese Krankheit nennt sich Fundamentalismus. "
+   ]
+  }, 
+  {
+   "begin": "190.880", 
+   "children": [], 
+   "end": "192.560", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Soziale Ungerechtigkeit, "
+   ]
+  }, 
+  {
+   "begin": "192.560", 
+   "children": [], 
+   "end": "193.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Armut, "
+   ]
+  }, 
+  {
+   "begin": "193.280", 
+   "children": [], 
+   "end": "197.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Bildungsferne und Perspektivlosigkeit sind Elemente, "
+   ]
+  }, 
+  {
+   "begin": "197.320", 
+   "children": [], 
+   "end": "202.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die die Gesellschaften der Region pr\u00e4gen und zu Radikalit\u00e4t f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "202.400", 
+   "children": [], 
+   "end": "209.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Erst wenn diese gesellschaftspolitischen Probleme nachhaltig angepackt werden, "
+   ]
+  }, 
+  {
+   "begin": "209.840", 
+   "children": [], 
+   "end": "213.320", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wird die Region eine Zukunft und eine Chance haben."
+   ]
+  }, 
+  {
+   "begin": "213.320", 
+   "children": [], 
+   "end": "219.800", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Die Problemfelder im Nahen und Mittleren Osten sind uns hinreichend bekannt. "
+   ]
+  }, 
+  {
+   "begin": "219.800", 
+   "children": [], 
+   "end": "222.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir erleben trotzdem derzeit eine Situation, "
+   ]
+  }, 
+  {
+   "begin": "222.520", 
+   "children": [], 
+   "end": "224.720", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "die gef\u00e4hrlicher ist als je zuvor. "
+   ]
+  }, 
+  {
+   "begin": "224.720", 
+   "children": [], 
+   "end": "226.280", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "T\u00fcrken gegen Kurden, "
+   ]
+  }, 
+  {
+   "begin": "226.280", 
+   "children": [], 
+   "end": "227.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Iran gegen Israel, "
+   ]
+  }, 
+  {
+   "begin": "227.760", 
+   "children": [], 
+   "end": "229.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Saudi-Arabien gegen Iran, "
+   ]
+  }, 
+  {
+   "begin": "229.520", 
+   "children": [], 
+   "end": "231.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Pal\u00e4stinenser gegen Israelis, "
+   ]
+  }, 
+  {
+   "begin": "231.440", 
+   "children": [], 
+   "end": "233.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "USA gegen Russland, "
+   ]
+  }, 
+  {
+   "begin": "233.040", 
+   "children": [], 
+   "end": "234.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Schiiten gegen Sunniten, "
+   ]
+  }, 
+  {
+   "begin": "234.960", 
+   "children": [], 
+   "end": "236.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "NATO gegen NATO\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "236.560", 
+   "children": [], 
+   "end": "241.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "noch nie war die Region so ein gef\u00e4hrliches Pulverfass wie heute. "
+   ]
+  }, 
+  {
+   "begin": "241.520", 
+   "children": [], 
+   "end": "242.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Ich bedaure, "
+   ]
+  }, 
+  {
+   "begin": "242.560", 
+   "children": [], 
+   "end": "243.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass die T\u00fcrkei, "
+   ]
+  }, 
+  {
+   "begin": "243.440", 
+   "children": [], 
+   "end": "247.240", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die einst ein Stabilisationsfaktor in dieser Region war, "
+   ]
+  }, 
+  {
+   "begin": "247.240", 
+   "children": [], 
+   "end": "250.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "kein zuverl\u00e4ssiger Partner mehr ist."
+   ]
+  }, 
+  {
+   "begin": "250.000", 
+   "children": [], 
+   "end": "251.920", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "251.920", 
+   "children": [], 
+   "end": "258.680", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die Suche nach verb\u00fcndeten Partnern im Nahen und Mittleren Osten ist au\u00dferordentlich schwierig. "
+   ]
+  }, 
+  {
+   "begin": "258.680", 
+   "children": [], 
+   "end": "260.920", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Zusammenhang warne ich davor, "
+   ]
+  }, 
+  {
+   "begin": "260.920", 
+   "children": [], 
+   "end": "264.080", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Saudi-Arabien als strategischen Partner zu betrachten."
+   ]
+  }, 
+  {
+   "begin": "264.080", 
+   "children": [], 
+   "end": "268.320", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin mir \u00fcber die wirtschaftliche Bedeutung Saudi-Arabiens im Klaren. "
+   ]
+  }, 
+  {
+   "begin": "268.320", 
+   "children": [], 
+   "end": "273.760", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Wer aber \u00fcber Jahrzehnte weltweit Terrorismus finanziert, "
+   ]
+  }, 
+  {
+   "begin": "273.760", 
+   "children": [], 
+   "end": "277.720", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Extremismus f\u00f6rdert und die Menschenrechte im eigenen Land mit F\u00fc\u00dfen tritt, "
+   ]
+  }, 
+  {
+   "begin": "277.720", 
+   "children": [], 
+   "end": "281.040", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "kann niemals ein zuverl\u00e4ssiger und seri\u00f6ser Partner sein, "
+   ]
+  }, 
+  {
+   "begin": "281.040", 
+   "children": [], 
+   "end": "285.120", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn er ein Bollwerk gegen iranische Interessen in dieser Region ist."
+   ]
+  }, 
+  {
+   "begin": "285.120", 
+   "children": [], 
+   "end": "285.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "285.720", 
+   "children": [], 
+   "end": "286.400", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "kommen Sie zum Schluss, "
+   ]
+  }, 
+  {
+   "begin": "286.400", 
+   "children": [], 
+   "end": "286.840", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "bitte."
+   ]
+  }, 
+  {
+   "begin": "286.840", 
+   "children": [], 
+   "end": "287.720", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ein letzter Satz, "
+   ]
+  }, 
+  {
+   "begin": "287.720", 
+   "children": [], 
+   "end": "290.440", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "290.440", 
+   "children": [], 
+   "end": "293.880", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Die Situation im Nahen und Mittleren Osten ist komplex. "
+   ]
+  }, 
+  {
+   "begin": "293.880", 
+   "children": [], 
+   "end": "296.240", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wir d\u00fcrfen trotzdem nicht aufh\u00f6ren, "
+   ]
+  }, 
+  {
+   "begin": "296.240", 
+   "children": [], 
+   "end": "298.320", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "uns in dieser Region f\u00fcr Personen, "
+   ]
+  }, 
+  {
+   "begin": "298.320", 
+   "children": [], 
+   "end": "300.640", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Gruppen oder Bewegungen einzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "300.640", 
+   "children": [], 
+   "end": "303.200", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr Menschenrechte und B\u00fcrgerrechte eintreten; "
+   ]
+  }, 
+  {
+   "begin": "303.200", 
+   "children": [], 
+   "end": "307.840", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "denn diese Werte sind auch in der Region universell und unteilbar."
+   ]
+  }, 
+  {
+   "begin": "307.840", 
+   "children": [], 
+   "end": "310.360", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "310.360", 
+   "children": [], 
+   "end": "311.880", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "311.880", 
+   "children": [], 
+   "end": "316.000", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chste spricht f\u00fcr die Fraktion Die Linke die Kollegin Heike H\u00e4nsel."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "children": [], 
+   "end": "11.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "children": [], 
+   "end": "15.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Warum fallen in einer solchen Debatte die Beitr\u00e4ge mancher Teilnehmer immer gleich aus? "
+   ]
+  }, 
+  {
+   "begin": "15.920", 
+   "children": [], 
+   "end": "21.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Warum kanalisieren wir Antisemitismus derart, "
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "children": [], 
+   "end": "24.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass wir ihn nur von einer Seite sichtbar machen, "
+   ]
+  }, 
+  {
+   "begin": "24.520", 
+   "children": [], 
+   "end": "25.360", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "anstatt zu sagen: "
+   ]
+  }, 
+  {
+   "begin": "25.360", 
+   "children": [], 
+   "end": "26.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDas ist ein Ph\u00e4nomen, "
+   ]
+  }, 
+  {
+   "begin": "26.720", 
+   "children": [], 
+   "end": "28.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "das es in der gesamten Gesellschaft gibt\u201c? "
+   ]
+  }, 
+  {
+   "begin": "28.560", 
+   "children": [], 
+   "end": "28.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Warum, "
+   ]
+  }, 
+  {
+   "begin": "28.840", 
+   "children": [], 
+   "end": "30.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Frau von Storch, "
+   ]
+  }, 
+  {
+   "begin": "30.080", 
+   "children": [], 
+   "end": "31.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "haben Sie die Chance verpasst, "
+   ]
+  }, 
+  {
+   "begin": "31.560", 
+   "children": [], 
+   "end": "35.440", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "in dieser Debatte auf alle Facetten des Antisemitismus hinzuweisen?"
+   ]
+  }, 
+  {
+   "begin": "35.440", 
+   "children": [], 
+   "end": "48.280", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Der Historiker Norbert Frei hat \u00fcber Vergangenheitspolitik in Deutschland nach dem Zweiten Weltkrieg geschrieben. "
+   ]
+  }, 
+  {
+   "begin": "48.280", 
+   "children": [], 
+   "end": "49.120", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Er hat dokumentiert, "
+   ]
+  }, 
+  {
+   "begin": "49.120", 
+   "children": [], 
+   "end": "51.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "dass uns vieles in Deutschland gelungen ist: "
+   ]
+  }, 
+  {
+   "begin": "51.760", 
+   "children": [], 
+   "end": "52.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es ist uns gelungen, "
+   ]
+  }, 
+  {
+   "begin": "52.640", 
+   "children": [], 
+   "end": "53.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die Westbindung, "
+   ]
+  }, 
+  {
+   "begin": "53.320", 
+   "children": [], 
+   "end": "59.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die Demokratie und die Grundrechte zu verankern und unverr\u00fcckbar zu machen. "
+   ]
+  }, 
+  {
+   "begin": "59.040", 
+   "children": [], 
+   "end": "60.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Es ist uns gelungen, "
+   ]
+  }, 
+  {
+   "begin": "60.520", 
+   "children": [], 
+   "end": "63.200", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "uns mit unserer Vergangenheit auseinanderzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "63.200", 
+   "children": [], 
+   "end": "65.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Was uns nicht gelungen ist, "
+   ]
+  }, 
+  {
+   "begin": "65.400", 
+   "children": [], 
+   "end": "65.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "65.600", 
+   "children": [], 
+   "end": "71.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "das Ph\u00e4nomen des Antisemitismus aus der deutschen Gesellschaft endg\u00fcltig zu verbannen."
+   ]
+  }, 
+  {
+   "begin": "71.320", 
+   "children": [], 
+   "end": "71.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "71.720", 
+   "children": [], 
+   "end": "75.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wir werden akzeptieren m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "75.200", 
+   "children": [], 
+   "end": "76.360", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass das eine Aufgabe ist, "
+   ]
+  }, 
+  {
+   "begin": "76.360", 
+   "children": [], 
+   "end": "78.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "der wir uns nicht nur heute und morgen, "
+   ]
+  }, 
+  {
+   "begin": "78.280", 
+   "children": [], 
+   "end": "80.880", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "sondern noch in vielen Jahren stellen m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "80.880", 
+   "children": [], 
+   "end": "83.360", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Antisemitismus kommt zuerst von rechts. "
+   ]
+  }, 
+  {
+   "begin": "83.360", 
+   "children": [], 
+   "end": "86.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Hier haben Sie ein etwas janusk\u00f6pfiges Gesicht: "
+   ]
+  }, 
+  {
+   "begin": "86.320", 
+   "children": [], 
+   "end": "88.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind blind gegen\u00fcber den eigenen Reihen, "
+   ]
+  }, 
+  {
+   "begin": "88.760", 
+   "children": [], 
+   "end": "93.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "schauen aber mit einseitiger Anklage in Richtung Zuwanderer."
+   ]
+  }, 
+  {
+   "begin": "93.000", 
+   "children": [], 
+   "end": "95.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ich will nicht verhehlen, "
+   ]
+  }, 
+  {
+   "begin": "95.720", 
+   "children": [], 
+   "end": "99.560", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass es das Problem eines solchen Antisemitismus gibt; "
+   ]
+  }, 
+  {
+   "begin": "99.560", 
+   "children": [], 
+   "end": "103.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wir haben es hier leider live erleben m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "103.400", 
+   "children": [], 
+   "end": "104.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ich will aber sagen: "
+   ]
+  }, 
+  {
+   "begin": "104.920", 
+   "children": [], 
+   "end": "105.960", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Antisemitismus ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "105.960", 
+   "children": [], 
+   "end": "106.680", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "leider\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "106.680", 
+   "children": [], 
+   "end": "107.480", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "tiefer verwurzelt, "
+   ]
+  }, 
+  {
+   "begin": "107.480", 
+   "children": [], 
+   "end": "112.920", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "als dass man ihn einzelnen gesellschaftlichen Str\u00f6mungen oder politischen Meinungen zuordnen k\u00f6nnte."
+   ]
+  }, 
+  {
+   "begin": "112.920", 
+   "children": [], 
+   "end": "116.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle waren schon Zeugen von sekund\u00e4rem Antisemitismus. "
+   ]
+  }, 
+  {
+   "begin": "116.280", 
+   "children": [], 
+   "end": "117.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle haben schon erlebt, "
+   ]
+  }, 
+  {
+   "begin": "117.960", 
+   "children": [], 
+   "end": "125.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dass die eine oder andere mehr oder weniger subtile Bemerkung ge\u00e4u\u00dfert wurde. "
+   ]
+  }, 
+  {
+   "begin": "125.440", 
+   "children": [], 
+   "end": "127.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle sind aufgefordert, "
+   ]
+  }, 
+  {
+   "begin": "127.840", 
+   "children": [], 
+   "end": "134.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "uns als Zivilgesellschaft solchen Ph\u00e4nomenen entgegenzustellen."
+   ]
+  }, 
+  {
+   "begin": "134.000", 
+   "children": [], 
+   "end": "136.720", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das Instrument des Beauftragten ist ambivalent. "
+   ]
+  }, 
+  {
+   "begin": "136.720", 
+   "children": [], 
+   "end": "139.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ich begr\u00fc\u00dfe es im Ergebnis. "
+   ]
+  }, 
+  {
+   "begin": "139.000", 
+   "children": [], 
+   "end": "141.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Es darf aber keine Beauftragung sein, "
+   ]
+  }, 
+  {
+   "begin": "141.920", 
+   "children": [], 
+   "end": "145.720", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die den Beauftragenden seines Auftrags entledigt,"
+   ]
+  }, 
+  {
+   "begin": "145.720", 
+   "children": [], 
+   "end": "150.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "sondern es muss eine Beauftragung sein an einen Menschen, "
+   ]
+  }, 
+  {
+   "begin": "150.600", 
+   "children": [], 
+   "end": "152.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "der sich als Koordinator, "
+   ]
+  }, 
+  {
+   "begin": "152.080", 
+   "children": [], 
+   "end": "156.000", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "als Verst\u00e4rker zivilgesellschaftlicher Initiativen versteht, "
+   ]
+  }, 
+  {
+   "begin": "156.000", 
+   "children": [], 
+   "end": "157.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "an einen Menschen, "
+   ]
+  }, 
+  {
+   "begin": "157.040", 
+   "children": [], 
+   "end": "160.680", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "der die vielf\u00e4ltigen Initiativen im Islam, "
+   ]
+  }, 
+  {
+   "begin": "160.680", 
+   "children": [], 
+   "end": "165.040", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "im Christentum und in der Zivilgesellschaft aufnimmt und verst\u00e4rkt. "
+   ]
+  }, 
+  {
+   "begin": "165.040", 
+   "children": [], 
+   "end": "168.880", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen diese Aufgabe nicht an einen Beauftragten delegieren, "
+   ]
+  }, 
+  {
+   "begin": "168.880", 
+   "children": [], 
+   "end": "169.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "sondern der Beauftragte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "169.320", 
+   "children": [], 
+   "end": "170.320", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "richtig verstanden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.320", 
+   "children": [], 
+   "end": "173.680", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "muss uns in der Erf\u00fcllung dieser Aufgabe st\u00e4rken."
+   ]
+  }, 
+  {
+   "begin": "173.680", 
+   "children": [], 
+   "end": "176.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Am Ende will ich auf einen Aspekt zu sprechen kommen, "
+   ]
+  }, 
+  {
+   "begin": "176.640", 
+   "children": [], 
+   "end": "177.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "der mir wichtig ist. "
+   ]
+  }, 
+  {
+   "begin": "177.120", 
+   "children": [], 
+   "end": "185.520", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Der Historiker und Ausstellungsmacher Dmitrij Belkin hat f\u00fcr das J\u00fcdische Museum Frankfurt eine wunderbare Ausstellung gemacht, "
+   ]
+  }, 
+  {
+   "begin": "185.520", 
+   "children": [], 
+   "end": "191.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "in der er auch auf den linken Antisemitismus hinweist. "
+   ]
+  }, 
+  {
+   "begin": "191.720", 
+   "children": [], 
+   "end": "192.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Vor einigen Jahren, "
+   ]
+  }, 
+  {
+   "begin": "192.880", 
+   "children": [], 
+   "end": "194.600", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "als wir diesem Haus angeh\u00f6ren durften\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "194.600", 
+   "children": [], 
+   "end": "196.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "wir haben ja einen Bildungsurlaub eingelegt\u00a0\u2013,"
+   ]
+  }, 
+  {
+   "begin": "196.960", 
+   "children": [], 
+   "end": "200.880", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "haben wir gemeinsam Anstrengungen unternommen, "
+   ]
+  }, 
+  {
+   "begin": "200.880", 
+   "children": [], 
+   "end": "202.880", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "einen Antisemitismusbericht zu erstellen, "
+   ]
+  }, 
+  {
+   "begin": "202.880", 
+   "children": [], 
+   "end": "204.200", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "in dem wir diesem Ph\u00e4nomen auf den Grund gegangen sind. "
+   ]
+  }, 
+  {
+   "begin": "204.200", 
+   "children": [], 
+   "end": "205.200", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich muss sagen: "
+   ]
+  }, 
+  {
+   "begin": "205.200", 
+   "children": [], 
+   "end": "208.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Mich hat immer beeindruckt, "
+   ]
+  }, 
+  {
+   "begin": "208.000", 
+   "children": [], 
+   "end": "210.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "wie die Kollegin Pau diese Arbeit mit unterst\u00fctzt hat."
+   ]
+  }, 
+  {
+   "begin": "210.760", 
+   "children": [], 
+   "end": "213.120", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt also eine breite Allianz in diesem Parlament, "
+   ]
+  }, 
+  {
+   "begin": "213.120", 
+   "children": [], 
+   "end": "215.480", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "die sich f\u00fcr diese Aufgaben einsetzt."
+   ]
+  }, 
+  {
+   "begin": "215.480", 
+   "children": [], 
+   "end": "220.680", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "J\u00fcdisches Leben ist f\u00fcr uns Freie Demokraten, "
+   ]
+  }, 
+  {
+   "begin": "220.680", 
+   "children": [], 
+   "end": "225.480", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die wir eine vielf\u00e4ltige Gesellschaft sch\u00e4tzen, "
+   ]
+  }, 
+  {
+   "begin": "225.480", 
+   "children": [], 
+   "end": "228.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "ein unverzichtbarer Bestandteil. "
+   ]
+  }, 
+  {
+   "begin": "228.000", 
+   "children": [], 
+   "end": "233.840", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Das Existenzrecht Israels und j\u00fcdisches Leben in Deutschland sind f\u00fcr uns Aspekte, "
+   ]
+  }, 
+  {
+   "begin": "233.840", 
+   "children": [], 
+   "end": "236.440", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "vor die wir uns immer sch\u00fctzend stellen werden. "
+   ]
+  }, 
+  {
+   "begin": "236.440", 
+   "children": [], 
+   "end": "236.880", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Es ist sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "236.880", 
+   "children": [], 
+   "end": "237.800", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "zu sehen, "
+   ]
+  }, 
+  {
+   "begin": "237.800", 
+   "children": [], 
+   "end": "242.440", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass Juden diese Gesellschaft mittlerweile aktiv mitgestalten. "
+   ]
+  }, 
+  {
+   "begin": "242.440", 
+   "children": [], 
+   "end": "246.080", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind wieder vielf\u00e4ltig und an vielen Orten in Deutschland sichtbar. "
+   ]
+  }, 
+  {
+   "begin": "246.080", 
+   "children": [], 
+   "end": "247.200", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "\u201eWelche Freude!\u201c, "
+   ]
+  }, 
+  {
+   "begin": "247.200", 
+   "children": [], 
+   "end": "248.280", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "kann man dazu nur sagen. "
+   ]
+  }, 
+  {
+   "begin": "248.280", 
+   "children": [], 
+   "end": "250.600", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "An ihrer Seite wollen wir stehen und daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "250.600", 
+   "children": [], 
+   "end": "251.720", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "dass dies so bleiben kann."
+   ]
+  }, 
+  {
+   "begin": "251.720", 
+   "children": [], 
+   "end": "252.480", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "252.480", 
+   "children": [], 
+   "end": "262.960", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion Die Linke hat das Wort die Vizepr\u00e4sidentin Petra Pau."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,954 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "children": [], 
+   "end": "8.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "children": [], 
+   "end": "12.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir halten hier heute eine Aktuelle Stunde ab. "
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "children": [], 
+   "end": "15.480", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Aus welchem aktuellen Anlass wir das tun, "
+   ]
+  }, 
+  {
+   "begin": "15.480", 
+   "children": [], 
+   "end": "17.720", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "interessiert die Zuh\u00f6rer vielleicht auch. "
+   ]
+  }, 
+  {
+   "begin": "17.720", 
+   "children": [], 
+   "end": "21.360", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Zeitungsberichte haben in die \u00d6ffentlichkeit gebracht, "
+   ]
+  }, 
+  {
+   "begin": "21.360", 
+   "children": [], 
+   "end": "32.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass eine von deutschen Autokonzernen finanzierte Forschungsgemeinschaft Abgasversuche an Menschen und in den USA auch an Affen hat vornehmen lassen."
+   ]
+  }, 
+  {
+   "begin": "32.280", 
+   "children": [], 
+   "end": "36.640", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Der von der Gr\u00fcnenfraktion erhobene Vorwurf lautet nun, "
+   ]
+  }, 
+  {
+   "begin": "36.640", 
+   "children": [], 
+   "end": "39.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die Bundesregierung h\u00e4tte von diesen Tierversuchen gewusst. "
+   ]
+  }, 
+  {
+   "begin": "39.680", 
+   "children": [], 
+   "end": "42.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das sei schlie\u00dflich im September\u00a02016, "
+   ]
+  }, 
+  {
+   "begin": "42.120", 
+   "children": [], 
+   "end": "44.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "also schon vor anderthalb Jahren, "
+   ]
+  }, 
+  {
+   "begin": "44.680", 
+   "children": [], 
+   "end": "48.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "im Untersuchungsausschuss berichtet worden."
+   ]
+  }, 
+  {
+   "begin": "48.000", 
+   "children": [], 
+   "end": "48.560", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Herr Krischer, "
+   ]
+  }, 
+  {
+   "begin": "48.560", 
+   "children": [], 
+   "end": "49.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Sie waren doch auch dabei. "
+   ]
+  }, 
+  {
+   "begin": "49.840", 
+   "children": [], 
+   "end": "51.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Frage wurde heute schon gestellt; "
+   ]
+  }, 
+  {
+   "begin": "51.640", 
+   "children": [], 
+   "end": "52.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die m\u00fcssen Sie sich gefallen lassen: "
+   ]
+  }, 
+  {
+   "begin": "52.680", 
+   "children": [], 
+   "end": "55.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wo war denn damals Ihre Reaktion?"
+   ]
+  }, 
+  {
+   "begin": "55.120", 
+   "children": [], 
+   "end": "58.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Was ist denn jetzt diese neue Enth\u00fcllung, "
+   ]
+  }, 
+  {
+   "begin": "58.520", 
+   "children": [], 
+   "end": "61.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die anderthalb Jahre sp\u00e4ter eine Aktuelle Stunde rechtfertigt?"
+   ]
+  }, 
+  {
+   "begin": "61.640", 
+   "children": [], 
+   "end": "63.760", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Keine Frage: "
+   ]
+  }, 
+  {
+   "begin": "63.760", 
+   "children": [], 
+   "end": "70.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Diese Tests sind ethisch und auch vom Erkenntnisgewinn her mehr als fragw\u00fcrdig. "
+   ]
+  }, 
+  {
+   "begin": "70.880", 
+   "children": [], 
+   "end": "77.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb kann ich mich den Ausf\u00fchrungen unseres Ministers und auch meines Kollegen Steffen Bilger nur anschlie\u00dfen:"
+   ]
+  }, 
+  {
+   "begin": "77.880", 
+   "children": [], 
+   "end": "79.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Das muss und wird\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "79.320", 
+   "children": [], 
+   "end": "80.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "da bin ich mir sicher\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "80.920", 
+   "children": [], 
+   "end": "83.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "aufgekl\u00e4rt werden."
+   ]
+  }, 
+  {
+   "begin": "83.880", 
+   "children": [], 
+   "end": "92.040", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Aber mindestens genauso sehr wie \u00fcber das instinktlose Verhalten der deutschen Autobauer rege ich mich dar\u00fcber auf, "
+   ]
+  }, 
+  {
+   "begin": "92.040", 
+   "children": [], 
+   "end": "93.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wie undifferenziert, "
+   ]
+  }, 
+  {
+   "begin": "93.400", 
+   "children": [], 
+   "end": "100.160", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "unehrlich und damit auch verantwortungslos hier wieder einmal Stimmung gegen den Diesel gemacht wird, "
+   ]
+  }, 
+  {
+   "begin": "100.160", 
+   "children": [], 
+   "end": "104.200", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und zwar zuallererst gegen den Diesel aus deutscher Produktion. "
+   ]
+  }, 
+  {
+   "begin": "104.200", 
+   "children": [], 
+   "end": "106.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Um nichts anderes geht es hier. "
+   ]
+  }, 
+  {
+   "begin": "106.200", 
+   "children": [], 
+   "end": "110.120", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Das hat ja auch die Rede des Kollegen Krischer belegt."
+   ]
+  }, 
+  {
+   "begin": "110.120", 
+   "children": [], 
+   "end": "113.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wo war denn die Aktuelle Stunde, "
+   ]
+  }, 
+  {
+   "begin": "113.840", 
+   "children": [], 
+   "end": "117.880", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "als ganz aktuell und skandal\u00f6s bekannt wurde, "
+   ]
+  }, 
+  {
+   "begin": "117.880", 
+   "children": [], 
+   "end": "120.800", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass die Stickoxidbelastung am Neckartor in Stuttgart, "
+   ]
+  }, 
+  {
+   "begin": "120.800", 
+   "children": [], 
+   "end": "123.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dem schlechten Vorzeigebild, "
+   ]
+  }, 
+  {
+   "begin": "123.600", 
+   "children": [], 
+   "end": "128.520", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "im Jahr\u00a02017 nur noch an drei Stunden im ganzen Jahr\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "128.520", 
+   "children": [], 
+   "end": "130.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "zul\u00e4ssig w\u00e4ren 18\u00a0Stunden gewesen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "130.680", 
+   "children": [], 
+   "end": "132.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcberschritten worden sind? "
+   ]
+  }, 
+  {
+   "begin": "132.400", 
+   "children": [], 
+   "end": "134.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Auch der Jahresmittelwert ist gesunken. "
+   ]
+  }, 
+  {
+   "begin": "134.720", 
+   "children": [], 
+   "end": "139.960", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Offensichtlich kann man das Problem peu \u00e0 peu in den Griff bekommen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "139.960", 
+   "children": [], 
+   "end": "141.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "und zwar ohne Fahrverbote."
+   ]
+  }, 
+  {
+   "begin": "141.840", 
+   "children": [], 
+   "end": "149.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Seltsamerweise findet diese Meldung in der \u00f6ffentlichen Skandaldiskussion um Stickoxide kaum Widerhall. "
+   ]
+  }, 
+  {
+   "begin": "149.000", 
+   "children": [], 
+   "end": "150.400", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Warum nicht?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "150.400", 
+   "children": [], 
+   "end": "153.520", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Weil diese Meldung eben dem Ziel, "
+   ]
+  }, 
+  {
+   "begin": "153.520", 
+   "children": [], 
+   "end": "155.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dem Diesel den Garaus zu machen, "
+   ]
+  }, 
+  {
+   "begin": "155.560", 
+   "children": [], 
+   "end": "157.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "nicht dienlich ist."
+   ]
+  }, 
+  {
+   "begin": "157.520", 
+   "children": [], 
+   "end": "159.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Es ist notwendig, "
+   ]
+  }, 
+  {
+   "begin": "159.000", 
+   "children": [], 
+   "end": "160.960", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass wir aufh\u00f6ren, "
+   ]
+  }, 
+  {
+   "begin": "160.960", 
+   "children": [], 
+   "end": "170.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die Menschen zu ver\u00e4ppeln und aufzuhetzen und einen Verleumdungsfeldzug gegen die deutsche Autoindustrie zu f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "170.240", 
+   "children": [], 
+   "end": "171.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Denn wozu f\u00fchrt das? "
+   ]
+  }, 
+  {
+   "begin": "171.800", 
+   "children": [], 
+   "end": "173.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Es f\u00fchrt dazu, "
+   ]
+  }, 
+  {
+   "begin": "173.000", 
+   "children": [], 
+   "end": "176.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass wir am Ende vielleicht nur noch Elektroautos aus Fernost, "
+   ]
+  }, 
+  {
+   "begin": "176.920", 
+   "children": [], 
+   "end": "181.120", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht von der Marke des Hauptsponsors der Deutschen Umwelthilfe, "
+   ]
+  }, 
+  {
+   "begin": "181.120", 
+   "children": [], 
+   "end": "182.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "kaufen,"
+   ]
+  }, 
+  {
+   "begin": "182.480", 
+   "children": [], 
+   "end": "188.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die sich dann aber Hunderttausende hier im Lande gar nicht mehr leisten k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "188.360", 
+   "children": [], 
+   "end": "192.720", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "weil sie in der deutschen Auto- "
+   ]
+  }, 
+  {
+   "begin": "192.720", 
+   "children": [], 
+   "end": "196.760", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "und Zulieferindustrie ihren Job verloren haben."
+   ]
+  }, 
+  {
+   "begin": "196.760", 
+   "children": [], 
+   "end": "198.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ich lebe auf dem Land, "
+   ]
+  }, 
+  {
+   "begin": "198.520", 
+   "children": [], 
+   "end": "200.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "in R\u00f6merstein auf der Schw\u00e4bischen Alb. "
+   ]
+  }, 
+  {
+   "begin": "200.880", 
+   "children": [], 
+   "end": "205.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Dort sind wir im Alltag auf unsere Autos angewiesen,"
+   ]
+  }, 
+  {
+   "begin": "205.080", 
+   "children": [], 
+   "end": "209.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und gerade weil wir viel fahren m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "209.040", 
+   "children": [], 
+   "end": "210.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "haben sich viele, "
+   ]
+  }, 
+  {
+   "begin": "210.040", 
+   "children": [], 
+   "end": "212.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wie zuletzt auch unser gr\u00fcner Ministerpr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "212.960", 
+   "children": [], 
+   "end": "214.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ein Dieselauto gekauft."
+   ]
+  }, 
+  {
+   "begin": "214.800", 
+   "children": [], 
+   "end": "222.760", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Diese Menschen werden durch diese permanenten Skandaldebatten zutiefst verunsichert. "
+   ]
+  }, 
+  {
+   "begin": "222.760", 
+   "children": [], 
+   "end": "223.880", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind besorgt, "
+   ]
+  }, 
+  {
+   "begin": "223.880", 
+   "children": [], 
+   "end": "233.560", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "ob sie mit ihren Autos auch noch in Zukunft zur Arbeit nach Stuttgart fahren k\u00f6nnen oder ob sie sich nicht schnell ein neues Auto kaufen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "233.560", 
+   "children": [], 
+   "end": "236.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Das kann sich aber nicht jeder eben mal so leisten, "
+   ]
+  }, 
+  {
+   "begin": "236.720", 
+   "children": [], 
+   "end": "239.080", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "einen Tesla schon gar nicht."
+   ]
+  }, 
+  {
+   "begin": "239.080", 
+   "children": [], 
+   "end": "242.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Dann kaufen sie sich lieber einen Benziner. "
+   ]
+  }, 
+  {
+   "begin": "242.240", 
+   "children": [], 
+   "end": "243.520", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir wissen ja auch, "
+   ]
+  }, 
+  {
+   "begin": "243.520", 
+   "children": [], 
+   "end": "245.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass die Abgase der Benziner, "
+   ]
+  }, 
+  {
+   "begin": "245.400", 
+   "children": [], 
+   "end": "248.600", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "was die CO 2 -Werte in der Luft angeht, "
+   ]
+  }, 
+  {
+   "begin": "248.600", 
+   "children": [], 
+   "end": "251.040", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "noch negativer sind. "
+   ]
+  }, 
+  {
+   "begin": "251.040", 
+   "children": [], 
+   "end": "252.800", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Das ist Ihnen aber offensichtlich egal, "
+   ]
+  }, 
+  {
+   "begin": "252.800", 
+   "children": [], 
+   "end": "254.240", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen von den Gr\u00fcnen. "
+   ]
+  }, 
+  {
+   "begin": "254.240", 
+   "children": [], 
+   "end": "255.320", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Hauptsache: "
+   ]
+  }, 
+  {
+   "begin": "255.320", 
+   "children": [], 
+   "end": "256.880", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Der Diesel ist weg. "
+   ]
+  }, 
+  {
+   "begin": "256.880", 
+   "children": [], 
+   "end": "259.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Und dann kann man heftigst weiter kritisieren, "
+   ]
+  }, 
+  {
+   "begin": "259.280", 
+   "children": [], 
+   "end": "262.040", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass wir die Klimaziele nicht einhalten."
+   ]
+  }, 
+  {
+   "begin": "262.040", 
+   "children": [], 
+   "end": "262.920", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wie gesagt: "
+   ]
+  }, 
+  {
+   "begin": "262.920", 
+   "children": [], 
+   "end": "264.360", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Es ging mir heute nicht darum, "
+   ]
+  }, 
+  {
+   "begin": "264.360", 
+   "children": [], 
+   "end": "269.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "diese ethisch fragw\u00fcrdigen Tests oder Betr\u00fcgereien zu verteidigen oder zu verharmlosen."
+   ]
+  }, 
+  {
+   "begin": "269.560", 
+   "children": [], 
+   "end": "270.680", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Es ging mir darum, "
+   ]
+  }, 
+  {
+   "begin": "270.680", 
+   "children": [], 
+   "end": "273.440", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "dass wir die Debatte \u00fcber Abgasgrenzwerte, "
+   ]
+  }, 
+  {
+   "begin": "273.440", 
+   "children": [], 
+   "end": "274.360", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Dieselmotoren, "
+   ]
+  }, 
+  {
+   "begin": "274.360", 
+   "children": [], 
+   "end": "275.600", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Klimaschutz etc. "
+   ]
+  }, 
+  {
+   "begin": "275.600", 
+   "children": [], 
+   "end": "278.880", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "ehrlich und sachlich f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "278.880", 
+   "children": [], 
+   "end": "281.440", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt eben nicht nur, "
+   ]
+  }, 
+  {
+   "begin": "281.440", 
+   "children": [], 
+   "end": "283.280", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "dass die Betr\u00fcgereien aufgekl\u00e4rt werden, "
+   ]
+  }, 
+  {
+   "begin": "283.280", 
+   "children": [], 
+   "end": "284.240", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch, "
+   ]
+  }, 
+  {
+   "begin": "284.240", 
+   "children": [], 
+   "end": "286.280", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "dass alle Fakten auf den Tisch gelegt werden, "
+   ]
+  }, 
+  {
+   "begin": "286.280", 
+   "children": [], 
+   "end": "286.720", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "auch die, "
+   ]
+  }, 
+  {
+   "begin": "286.720", 
+   "children": [], 
+   "end": "299.200", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "die vielleicht nicht in Ihr Weltbild hineinpassen."
+   ]
+  }, 
+  {
+   "begin": "299.200", 
+   "children": [], 
+   "end": "304.000", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat Cem \u00d6zdemir f\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

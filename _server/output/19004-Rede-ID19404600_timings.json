@@ -1,0 +1,874 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "13.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "children": [], 
+   "end": "14.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "14.200", 
+   "children": [], 
+   "end": "16.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "16.000", 
+   "children": [], 
+   "end": "25.600", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Am 23.\u00a0Juni letzten Jahres durften die B\u00fcrger des Vereinigten K\u00f6nigreichs demokratisch \u00fcber eine Schicksalsfrage ihrer Nation entscheiden. "
+   ]
+  }, 
+  {
+   "begin": "25.600", 
+   "children": [], 
+   "end": "31.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben sich mehrheitlich f\u00fcr den Austritt aus der Europ\u00e4ischen Union entschieden."
+   ]
+  }, 
+  {
+   "begin": "31.480", 
+   "children": [], 
+   "end": "32.640", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Der Kollege Hardt, "
+   ]
+  }, 
+  {
+   "begin": "32.640", 
+   "children": [], 
+   "end": "34.400", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "der vorhin gesprochen hat, "
+   ]
+  }, 
+  {
+   "begin": "34.400", 
+   "children": [], 
+   "end": "35.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "hat das Ganze bezweifelt. "
+   ]
+  }, 
+  {
+   "begin": "35.280", 
+   "children": [], 
+   "end": "36.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich hatte irgendwie den Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "36.960", 
+   "children": [], 
+   "end": "40.200", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "er hat die Ernsthaftigkeit dieser Entscheidung infrage gestellt."
+   ]
+  }, 
+  {
+   "begin": "40.200", 
+   "children": [], 
+   "end": "40.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "40.840", 
+   "children": [], 
+   "end": "42.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "diese Entscheidung ist sehr ernsthaft. "
+   ]
+  }, 
+  {
+   "begin": "42.640", 
+   "children": [], 
+   "end": "42.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Zu glauben, "
+   ]
+  }, 
+  {
+   "begin": "42.920", 
+   "children": [], 
+   "end": "46.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass im Rahmen der Verhandlungen irgendetwas revidiert w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "46.560", 
+   "children": [], 
+   "end": "49.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "ist milde ausgedr\u00fcckt etwas blau\u00e4ugig."
+   ]
+  }, 
+  {
+   "begin": "49.040", 
+   "children": [], 
+   "end": "51.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Entscheidung hat weitreichende Konsequenzen: "
+   ]
+  }, 
+  {
+   "begin": "51.760", 
+   "children": [], 
+   "end": "53.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr das Land selbst, "
+   ]
+  }, 
+  {
+   "begin": "53.760", 
+   "children": [], 
+   "end": "57.440", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "aber auch f\u00fcr die anderen Staaten der EU. "
+   ]
+  }, 
+  {
+   "begin": "57.440", 
+   "children": [], 
+   "end": "58.840", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wie bei PESCO, "
+   ]
+  }, 
+  {
+   "begin": "58.840", 
+   "children": [], 
+   "end": "60.320", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "der Verteidigungsunion, "
+   ]
+  }, 
+  {
+   "begin": "60.320", 
+   "children": [], 
+   "end": "67.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "so ist auch bei der Ausgestaltung des Brexit die Mitsprache des Deutschen Bundestags dringend sicherzustellen. "
+   ]
+  }, 
+  {
+   "begin": "67.600", 
+   "children": [], 
+   "end": "68.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Der Bundestag entscheidet, "
+   ]
+  }, 
+  {
+   "begin": "68.880", 
+   "children": [], 
+   "end": "69.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "69.760", 
+   "children": [], 
+   "end": "73.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "und nicht nur eine Kanzlerin und die vielen Kommissare in Br\u00fcssel."
+   ]
+  }, 
+  {
+   "begin": "73.680", 
+   "children": [], 
+   "end": "76.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Es kann nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "76.760", 
+   "children": [], 
+   "end": "78.240", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass die Merkel-Regierung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "78.240", 
+   "children": [], 
+   "end": "79.840", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "formal nur gesch\u00e4ftsf\u00fchrend\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "79.840", 
+   "children": [], 
+   "end": "83.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "wichtige Entscheidungen trifft und vollendete Tatsachen schafft, "
+   ]
+  }, 
+  {
+   "begin": "83.960", 
+   "children": [], 
+   "end": "86.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "ohne diesen Bundestag einzubeziehen."
+   ]
+  }, 
+  {
+   "begin": "86.080", 
+   "children": [], 
+   "end": "92.800", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Grundsatzentscheidungen wie zu PESCO oder zur Ausgestaltung des Brexit hat der Bundestag mitzugestalten. "
+   ]
+  }, 
+  {
+   "begin": "92.800", 
+   "children": [], 
+   "end": "97.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle hier sind die gew\u00e4hlten Vertreter, "
+   ]
+  }, 
+  {
+   "begin": "97.160", 
+   "children": [], 
+   "end": "97.880", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "und wir\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "97.880", 
+   "children": [], 
+   "end": "100.480", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und nicht nur eine gesch\u00e4ftsf\u00fchrende Regierung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "100.480", 
+   "children": [], 
+   "end": "102.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "sind verantwortlich f\u00fcr das Land."
+   ]
+  }, 
+  {
+   "begin": "102.120", 
+   "children": [], 
+   "end": "105.360", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Der Brexit selber ist eine Kehrtwende in Europa. "
+   ]
+  }, 
+  {
+   "begin": "105.360", 
+   "children": [], 
+   "end": "110.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Er erfordert die sinnvolle Weiterentwicklung eines europ\u00e4ischen Verst\u00e4ndnisses. "
+   ]
+  }, 
+  {
+   "begin": "110.360", 
+   "children": [], 
+   "end": "113.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Denn wir m\u00fcssen es ganz klar unterst\u00fctzen, "
+   ]
+  }, 
+  {
+   "begin": "113.240", 
+   "children": [], 
+   "end": "114.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Europa weiterzuentwickeln\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "114.880", 
+   "children": [], 
+   "end": "123.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "in einer vern\u00fcnftigen und gerade nicht ideologischen Werten zugrunde liegenden und am Wohl der verschiedenen Nationen orientierten Ausrichtung."
+   ]
+  }, 
+  {
+   "begin": "123.640", 
+   "children": [], 
+   "end": "126.760", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "126.760", 
+   "children": [], 
+   "end": "129.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "der jetzige Weg der EU ist ein Irrweg."
+   ]
+  }, 
+  {
+   "begin": "129.320", 
+   "children": [], 
+   "end": "130.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die Euro-Schuldenkrise, "
+   ]
+  }, 
+  {
+   "begin": "130.640", 
+   "children": [], 
+   "end": "138.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die erodierenden Sozialsysteme und der Verlust der inneren Sicherheit sind ein untr\u00fcgliches Zeichen daf\u00fcr. "
+   ]
+  }, 
+  {
+   "begin": "138.040", 
+   "children": [], 
+   "end": "152.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Die R\u00fcckkehr zur Selbstbestimmung Gro\u00dfbritanniens ohne gesetzlich \u00fcbergriffige Bevormundung durch die Gesetzesflut aus Br\u00fcssel ist eine Entscheidung f\u00fcr die Vielfalt Europas."
+   ]
+  }, 
+  {
+   "begin": "152.400", 
+   "children": [], 
+   "end": "157.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Die Vielfalt der V\u00f6lker Europas hat Europa gro\u00df gemacht. "
+   ]
+  }, 
+  {
+   "begin": "157.120", 
+   "children": [], 
+   "end": "161.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Gro\u00dfe Teile der Bev\u00f6lkerung in den europ\u00e4ischen Staaten legen auch Wert auf diese Vielfalt."
+   ]
+  }, 
+  {
+   "begin": "161.800", 
+   "children": [], 
+   "end": "164.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt geht es um die Ausgestaltung des Brexit. "
+   ]
+  }, 
+  {
+   "begin": "164.120", 
+   "children": [], 
+   "end": "171.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Diese Ausgestaltung muss ein friedliches Zusammenleben in einem Binnenmarkt wie der fr\u00fcheren EWG zum Ziel haben. "
+   ]
+  }, 
+  {
+   "begin": "171.440", 
+   "children": [], 
+   "end": "180.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der erste reale Gegenentwurf zu der \u00fcberst\u00fcrzten Zwangsintegration in eine europ\u00e4ische Superb\u00fcrokratie, "
+   ]
+  }, 
+  {
+   "begin": "180.280", 
+   "children": [], 
+   "end": "184.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "die hier auch gerne die Vereinigten Staaten von Europa genannt wird."
+   ]
+  }, 
+  {
+   "begin": "184.560", 
+   "children": [], 
+   "end": "186.280", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Die Ausgestaltung darf deshalb, "
+   ]
+  }, 
+  {
+   "begin": "186.280", 
+   "children": [], 
+   "end": "190.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "weil sie als Alternative zu einem EU-Zentralstaat dient, "
+   ]
+  }, 
+  {
+   "begin": "190.280", 
+   "children": [], 
+   "end": "195.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur und keinesfalls ausgerechnet den EU-B\u00fcrokraten \u00fcberlassen werden, "
+   ]
+  }, 
+  {
+   "begin": "195.200", 
+   "children": [], 
+   "end": "200.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "denen ein solcher Erfolg der eindeutige Beleg ihres Irrwegs w\u00e4re. "
+   ]
+  }, 
+  {
+   "begin": "200.520", 
+   "children": [], 
+   "end": "200.960", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "200.960", 
+   "children": [], 
+   "end": "203.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "er darf auch nicht einer blo\u00df gesch\u00e4ftsf\u00fchrenden, "
+   ]
+  }, 
+  {
+   "begin": "203.080", 
+   "children": [], 
+   "end": "205.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "l\u00e4ngst abgew\u00e4hlten Regierung Merkel \u00fcberlassen werden. "
+   ]
+  }, 
+  {
+   "begin": "205.840", 
+   "children": [], 
+   "end": "210.200", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Beiden fehlen der Mut und der Wille zu einer erfolgreichen Gestaltung."
+   ]
+  }, 
+  {
+   "begin": "210.200", 
+   "children": [], 
+   "end": "216.560", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Der Wille zur Aufgeschlossenheit f\u00fcr neue Wege wird dringend ben\u00f6tigt, "
+   ]
+  }, 
+  {
+   "begin": "216.560", 
+   "children": [], 
+   "end": "218.480", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "gerade bei uns in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "218.480", 
+   "children": [], 
+   "end": "220.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Betrachten wir unsere Au\u00dfenhandelsbilanz, "
+   ]
+  }, 
+  {
+   "begin": "220.960", 
+   "children": [], 
+   "end": "221.320", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "so sehen wir, "
+   ]
+  }, 
+  {
+   "begin": "221.320", 
+   "children": [], 
+   "end": "223.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "gerade was Gro\u00dfbritannien betrifft, "
+   ]
+  }, 
+  {
+   "begin": "223.360", 
+   "children": [], 
+   "end": "225.280", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "einen deutlichen Au\u00dfenhandels\u00fcberschuss, "
+   ]
+  }, 
+  {
+   "begin": "225.280", 
+   "children": [], 
+   "end": "235.320", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "der im \u00dcbrigen nicht wie bei den maroden Euro-S\u00fcdl\u00e4ndern von uns noch \u00fcber Target2 finanziert und kreditiert wird."
+   ]
+  }, 
+  {
+   "begin": "235.320", 
+   "children": [], 
+   "end": "242.680", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben ein gro\u00dfes Interesse an einer weiterhin funktionierenden europ\u00e4ischen wirtschaftlichen Zusammenarbeit. "
+   ]
+  }, 
+  {
+   "begin": "242.680", 
+   "children": [], 
+   "end": "245.280", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Ein harter Brexit w\u00fcrde uns sehr schaden. "
+   ]
+  }, 
+  {
+   "begin": "245.280", 
+   "children": [], 
+   "end": "247.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Das hat auch Donald Tusk ganz klar betont, "
+   ]
+  }, 
+  {
+   "begin": "247.480", 
+   "children": [], 
+   "end": "252.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "der die Notwendigkeit einer EU-UK-Partnership hervorgehoben hat. "
+   ]
+  }, 
+  {
+   "begin": "252.600", 
+   "children": [], 
+   "end": "254.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen die wirtschaftliche Zusammenarbeit. "
+   ]
+  }, 
+  {
+   "begin": "254.440", 
+   "children": [], 
+   "end": "255.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist dringend notwendig."
+   ]
+  }, 
+  {
+   "begin": "255.800", 
+   "children": [], 
+   "end": "257.040", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Zum anderen ist, "
+   ]
+  }, 
+  {
+   "begin": "257.040", 
+   "children": [], 
+   "end": "259.440", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "wie eben schon angesprochen, "
+   ]
+  }, 
+  {
+   "begin": "259.440", 
+   "children": [], 
+   "end": "265.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "auch aus humanit\u00e4ren Gesichtspunkten eine sinnvolle Regelung im Rahmen des Brexit erforderlich. "
+   ]
+  }, 
+  {
+   "begin": "265.600", 
+   "children": [], 
+   "end": "269.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte hier noch einmal auf die Problematik von Irland zur\u00fcckkommen. "
+   ]
+  }, 
+  {
+   "begin": "269.360", 
+   "children": [], 
+   "end": "273.440", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem Karfreitagsabkommen von 1998, "
+   ]
+  }, 
+  {
+   "begin": "273.440", 
+   "children": [], 
+   "end": "275.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dem Good Friday Agreement, "
+   ]
+  }, 
+  {
+   "begin": "275.360", 
+   "children": [], 
+   "end": "281.160", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "haben die Regierungen in Gro\u00dfbritannien und Irland und die Partner in Nordirland eine Basis gelegt. "
+   ]
+  }, 
+  {
+   "begin": "281.160", 
+   "children": [], 
+   "end": "285.800", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Diese Basis darf jetzt nicht durch einen harten Brexit konterkariert werden, "
+   ]
+  }, 
+  {
+   "begin": "285.800", 
+   "children": [], 
+   "end": "287.400", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "nicht durch eine Grenze im Land. "
+   ]
+  }, 
+  {
+   "begin": "287.400", 
+   "children": [], 
+   "end": "290.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr sind wir in Deutschland aus humanit\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "290.520", 
+   "children": [], 
+   "end": "293.240", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "aus menschlichen Gesichtspunkten mitverantwortlich, "
+   ]
+  }, 
+  {
+   "begin": "293.240", 
+   "children": [], 
+   "end": "296.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "und daf\u00fcr sollten wir uns dringend einsetzen."
+   ]
+  }, 
+  {
+   "begin": "296.400", 
+   "children": [], 
+   "end": "298.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Zusammenfassend hei\u00dft das: "
+   ]
+  }, 
+  {
+   "begin": "298.720", 
+   "children": [], 
+   "end": "325.200", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Aus unserem eigenen wirtschaftlichen Interesse wie aber auch aus humanit\u00e4ren \u00dcberlegungen heraus wollen wir als AfD-Fraktion an der Aufrechterhaltung des EU-Binnenmarktes und der Ausgestaltung der europ\u00e4ischen Zusammenarbeit im Rahmen des Brexit gern mitwirken."
+   ]
+  }, 
+  {
+   "begin": "325.200", 
+   "children": [], 
+   "end": "325.600", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "325.600", 
+   "children": [], 
+   "end": "328.000", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion Die Linke spricht der Kollege Andrej Hunko."
+   ]
+  }
+ ]
+}

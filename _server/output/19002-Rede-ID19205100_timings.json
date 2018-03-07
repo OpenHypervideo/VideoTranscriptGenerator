@@ -1,0 +1,804 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "children": [], 
+   "end": "4.560", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "children": [], 
+   "end": "7.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Tage ist viel von Verantwortung die Rede,"
+   ]
+  }, 
+  {
+   "begin": "7.640", 
+   "children": [], 
+   "end": "9.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "so auch in dieser Debatte. "
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Dass Siemens im Windschatten der Regierungsbildung und parallel zur Verk\u00fcndung von Rekordgewinnen einen Jobkahlschlag in Ostdeutschland plant, "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "18.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "ist schlicht verantwortungslos."
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "children": [], 
+   "end": "32.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Mit fast 1\u00a0000\u00a0Besch\u00e4ftigten und Auszubildenden ist das G\u00f6rlitzer Siemens-Werk einer der letzten verbliebenen Leuchtt\u00fcrme in der ansonsten industriell strukturschwachen Oberlausitz. "
+   ]
+  }, 
+  {
+   "begin": "32.800", 
+   "children": [], 
+   "end": "36.720", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Eine Schlie\u00dfung des Turbinenwerks w\u00fcrde die gesamte Region hart treffen. "
+   ]
+  }, 
+  {
+   "begin": "36.720", 
+   "children": [], 
+   "end": "39.720", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Gerade musste die \u00f6stlichste Stadt Deutschlands, "
+   ]
+  }, 
+  {
+   "begin": "39.720", 
+   "children": [], 
+   "end": "40.280", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "G\u00f6rlitz, "
+   ]
+  }, 
+  {
+   "begin": "40.280", 
+   "children": [], 
+   "end": "45.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "den Abbau von Arbeitspl\u00e4tzen bei Bombardier in \u00e4hnlicher Gr\u00f6\u00dfenordnung verdauen. "
+   ]
+  }, 
+  {
+   "begin": "45.560", 
+   "children": [], 
+   "end": "46.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich zitiere:"
+   ]
+  }, 
+  {
+   "begin": "46.520", 
+   "children": [], 
+   "end": "49.200", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Es muss die Aufgabe von uns allen sein, "
+   ]
+  }, 
+  {
+   "begin": "49.200", 
+   "children": [], 
+   "end": "49.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Menschen, "
+   ]
+  }, 
+  {
+   "begin": "49.560", 
+   "children": [], 
+   "end": "50.880", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die sich zur\u00fcckgesetzt f\u00fchlen, "
+   ]
+  }, 
+  {
+   "begin": "50.880", 
+   "children": [], 
+   "end": "54.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "einzubinden und ihnen Perspektiven zu geben."
+   ]
+  }, 
+  {
+   "begin": "54.280", 
+   "children": [], 
+   "end": "58.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Satz von Joe Kaeser zum Ausgang der Bundestagswahl muss f\u00fcr die Siemens-Besch\u00e4ftigten wie Hohn klingen, "
+   ]
+  }, 
+  {
+   "begin": "58.760", 
+   "children": [], 
+   "end": "60.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "und zwar nicht nur in G\u00f6rlitz, "
+   ]
+  }, 
+  {
+   "begin": "60.840", 
+   "children": [], 
+   "end": "62.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch in Berlin, "
+   ]
+  }, 
+  {
+   "begin": "62.000", 
+   "children": [], 
+   "end": "62.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Leipzig, "
+   ]
+  }, 
+  {
+   "begin": "62.520", 
+   "children": [], 
+   "end": "64.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Erfurt und anderswo."
+   ]
+  }, 
+  {
+   "begin": "64.720", 
+   "children": [], 
+   "end": "67.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Seit Jahren ist bekannt, "
+   ]
+  }, 
+  {
+   "begin": "67.880", 
+   "children": [], 
+   "end": "71.840", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass die Nachfrage nach Kraftwerksturbinen sinkt und weiter sinken wird. "
+   ]
+  }, 
+  {
+   "begin": "71.840", 
+   "children": [], 
+   "end": "73.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Belegschaft muss nun ausbaden, "
+   ]
+  }, 
+  {
+   "begin": "73.720", 
+   "children": [], 
+   "end": "79.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass die Konzernzentrale viel zu lange an der alten Energiewelt festgehalten hat."
+   ]
+  }, 
+  {
+   "begin": "79.400", 
+   "children": [], 
+   "end": "87.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Die Begr\u00fcndung f\u00fcr den Arbeitsplatzabbau in der Sparte Power and Gas, "
+   ]
+  }, 
+  {
+   "begin": "87.000", 
+   "children": [], 
+   "end": "90.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "die immerhin noch 8\u00a0Prozent Umsatzrendite erwirtschaftet, "
+   ]
+  }, 
+  {
+   "begin": "90.400", 
+   "children": [], 
+   "end": "90.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "lautet: "
+   ]
+  }, 
+  {
+   "begin": "90.960", 
+   "children": [], 
+   "end": "94.320", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "fehlende wettbewerbliche Produkte und \u00dcberkapazit\u00e4ten. "
+   ]
+  }, 
+  {
+   "begin": "94.320", 
+   "children": [], 
+   "end": "97.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das trifft aber auf G\u00f6rlitz \u00fcberhaupt nicht zu. "
+   ]
+  }, 
+  {
+   "begin": "97.240", 
+   "children": [], 
+   "end": "99.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Davon zeugen nicht nur die vollen Auftragsb\u00fccher, "
+   ]
+  }, 
+  {
+   "begin": "99.800", 
+   "children": [], 
+   "end": "101.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch die Tatsache, "
+   ]
+  }, 
+  {
+   "begin": "101.760", 
+   "children": [], 
+   "end": "106.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass in G\u00f6rlitz Industriedampfturbinen und keine gro\u00dfen Gasturbinen gefertigt werden. "
+   ]
+  }, 
+  {
+   "begin": "106.920", 
+   "children": [], 
+   "end": "113.720", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Diese kommen zum Beispiel in Biomasseanlagen und Solarthermiekraftwerken zum Einsatz."
+   ]
+  }, 
+  {
+   "begin": "113.720", 
+   "children": [], 
+   "end": "115.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Technologie der Industriedampfmaschine, "
+   ]
+  }, 
+  {
+   "begin": "115.520", 
+   "children": [], 
+   "end": "116.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "116.360", 
+   "children": [], 
+   "end": "117.080", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "spielt nicht nur heute, "
+   ]
+  }, 
+  {
+   "begin": "117.080", 
+   "children": [], 
+   "end": "119.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch in Zukunft eine wichtige Rolle, "
+   ]
+  }, 
+  {
+   "begin": "119.560", 
+   "children": [], 
+   "end": "123.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "da sie eben nicht von fossilen Energietr\u00e4gern abh\u00e4ngig ist. "
+   ]
+  }, 
+  {
+   "begin": "123.440", 
+   "children": [], 
+   "end": "124.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe kein Verst\u00e4ndnis daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "124.880", 
+   "children": [], 
+   "end": "129.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass diese Fakten in der Konzernzentrale von Siemens \u00fcberhaupt keine Rolle spielen."
+   ]
+  }, 
+  {
+   "begin": "129.000", 
+   "children": [], 
+   "end": "139.400", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Im September konnte ich mir bei einem Besuch des Betriebsrates im G\u00f6rlitzer Siemens-Werk ein Bild davon machen, "
+   ]
+  }, 
+  {
+   "begin": "139.400", 
+   "children": [], 
+   "end": "149.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "auf welch hohem Niveau hier ausgebildet und produziert wird und wie stark das Werk in der Region vor allem mit der Hochschule Zittau/G\u00f6rlitz in Innovations- "
+   ]
+  }, 
+  {
+   "begin": "149.440", 
+   "children": [], 
+   "end": "151.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und Entwicklungsfragen vernetzt ist. "
+   ]
+  }, 
+  {
+   "begin": "151.760", 
+   "children": [], 
+   "end": "154.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Der Standort ist ein vorbildlicher Partner f\u00fcr Schulen, "
+   ]
+  }, 
+  {
+   "begin": "154.400", 
+   "children": [], 
+   "end": "158.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Hochschulen und Betriebe in der Ausbildung von Fachkr\u00e4ften. "
+   ]
+  }, 
+  {
+   "begin": "158.360", 
+   "children": [], 
+   "end": "164.280", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Die Schlie\u00dfungspl\u00e4ne blenden dieses Potenzial des Standorts vollkommen aus."
+   ]
+  }, 
+  {
+   "begin": "164.280", 
+   "children": [], 
+   "end": "167.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Pl\u00e4ne von Siemens zeigen aber einmal mehr: "
+   ]
+  }, 
+  {
+   "begin": "167.440", 
+   "children": [], 
+   "end": "177.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Die Abh\u00e4ngigkeit von fernen Konzernzentralen einerseits und die Kleinteiligkeit der Wirtschaftsstruktur andererseits sind immer noch die Achillesferse der ostdeutschen Wirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "177.600", 
+   "children": [], 
+   "end": "182.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "So haben 90\u00a0Prozent der Unternehmen in der Oberlausitz weniger als zehn Besch\u00e4ftigte."
+   ]
+  }, 
+  {
+   "begin": "182.600", 
+   "children": [], 
+   "end": "187.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Auch aus diesem Grund brauchen wir ein neues F\u00f6rdersystem f\u00fcr strukturschwache Regionen, "
+   ]
+  }, 
+  {
+   "begin": "187.200", 
+   "children": [], 
+   "end": "190.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "mit dem insbesondere Innovationen in jeder Hinsicht unterst\u00fctzt werden, "
+   ]
+  }, 
+  {
+   "begin": "190.680", 
+   "children": [], 
+   "end": "195.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "damit diese Unternehmen wachsen und die Region st\u00e4rken k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "195.320", 
+   "children": [], 
+   "end": "207.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Mit zu Ende gef\u00fchrten Sondierungsgespr\u00e4chen h\u00e4tten wir mit der steuerlichen Forschungsf\u00f6rderung ein wichtiges Instrument vereinbaren k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "207.120", 
+   "children": [], 
+   "end": "211.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "um kleine Unternehmen in ihrer Innovationskraft zu st\u00e4rken."
+   ]
+  }, 
+  {
+   "begin": "211.280", 
+   "children": [], 
+   "end": "219.200", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Die amtierende Bundesregierung muss jetzt erst recht zu ihrer Zusage stehen, "
+   ]
+  }, 
+  {
+   "begin": "219.200", 
+   "children": [], 
+   "end": "223.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "eine Kohleregion wie die Lausitz beim Strukturwandel zu unterst\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "223.200", 
+   "children": [], 
+   "end": "224.960", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen einen Strukturwandelfonds, "
+   ]
+  }, 
+  {
+   "begin": "224.960", 
+   "children": [], 
+   "end": "229.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "um die Oberlausitz voranzubringen."
+   ]
+  }, 
+  {
+   "begin": "229.880", 
+   "children": [], 
+   "end": "237.800", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Mich hat die gro\u00dfe Demonstration der Siemens-Besch\u00e4ftigten in G\u00f6rlitz am 9.\u00a0November sehr beeindruckt. "
+   ]
+  }, 
+  {
+   "begin": "237.800", 
+   "children": [], 
+   "end": "239.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Die ganze Stadt war dabei: "
+   ]
+  }, 
+  {
+   "begin": "239.560", 
+   "children": [], 
+   "end": "242.440", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Besch\u00e4ftigte von Bombardier und anderen Betrieben, "
+   ]
+  }, 
+  {
+   "begin": "242.440", 
+   "children": [], 
+   "end": "244.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Sch\u00fclerinnen und Sch\u00fcler, "
+   ]
+  }, 
+  {
+   "begin": "244.120", 
+   "children": [], 
+   "end": "245.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Vertreter aus allen Parteien\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "245.720", 
+   "children": [], 
+   "end": "247.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "bis auf die FDP\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "247.440", 
+   "children": [], 
+   "end": "252.720", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "und Mitarbeiterinnen und Mitarbeiter aus ebenfalls betroffenen Siemens-Standorten. "
+   ]
+  }, 
+  {
+   "begin": "252.720", 
+   "children": [], 
+   "end": "254.600", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Gemeinsam und solidarisch! "
+   ]
+  }, 
+  {
+   "begin": "254.600", 
+   "children": [], 
+   "end": "256.080", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Von dieser Aktuellen Stunde, "
+   ]
+  }, 
+  {
+   "begin": "256.080", 
+   "children": [], 
+   "end": "256.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "256.800", 
+   "children": [], 
+   "end": "259.760", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "geht das Signal an die betroffenen Siemens-Besch\u00e4ftigten: "
+   ]
+  }, 
+  {
+   "begin": "259.760", 
+   "children": [], 
+   "end": "261.640", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir stehen an eurer Seite, "
+   ]
+  }, 
+  {
+   "begin": "261.640", 
+   "children": [], 
+   "end": "271.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "und wir werden mit euch f\u00fcr den Erhalt eurer Arbeitspl\u00e4tze k\u00e4mpfen!"
+   ]
+  }, 
+  {
+   "begin": "271.160", 
+   "children": [], 
+   "end": "272.720", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Werner von Siemens schrieb einst: "
+   ]
+  }, 
+  {
+   "begin": "272.720", 
+   "children": [], 
+   "end": "278.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "\u201eF\u00fcr augenblicklichen Gewinn verkaufe ich die Zukunft nicht.\u201c Da kann ich nur sagen: "
+   ]
+  }, 
+  {
+   "begin": "278.680", 
+   "children": [], 
+   "end": "279.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Joe Kaeser, "
+   ]
+  }, 
+  {
+   "begin": "279.760", 
+   "children": [], 
+   "end": "284.000", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbernehmen Sie Verantwortung f\u00fcr Ihre Mitarbeiterinnen und Mitarbeiter."
+   ]
+  }, 
+  {
+   "begin": "284.000", 
+   "children": [], 
+   "end": "288.280", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns gemeinsam mit den Besch\u00e4ftigen und der Politik nach L\u00f6sungen suchen, "
+   ]
+  }, 
+  {
+   "begin": "288.280", 
+   "children": [], 
+   "end": "300.040", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "um eine Schlie\u00dfung der Standorte und den Abbau von Arbeitspl\u00e4tzen zu verhindern."
+   ]
+  }, 
+  {
+   "begin": "300.040", 
+   "children": [], 
+   "end": "301.320", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "301.320", 
+   "children": [], 
+   "end": "306.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat Andreas L\u00e4mmel f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

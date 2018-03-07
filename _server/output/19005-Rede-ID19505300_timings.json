@@ -1,0 +1,704 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.680", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "children": [], 
+   "end": "7.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "children": [], 
+   "end": "9.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Michael Grosse-Br\u00f6mer hat darauf hingewiesen: "
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "children": [], 
+   "end": "15.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind in der Kontinuit\u00e4t der letzten Legislatur des Deutschen Bundestages. "
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "children": [], 
+   "end": "19.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Da haben wir dar\u00fcber entschieden, "
+   ]
+  }, 
+  {
+   "begin": "19.440", 
+   "children": [], 
+   "end": "21.880", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "wie die Abgeordnetenentsch\u00e4digung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "21.880", 
+   "children": [], 
+   "end": "23.520", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "im Volksmund \u201eDi\u00e4ten\u201c genannt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.520", 
+   "children": [], 
+   "end": "24.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "aussehen soll, "
+   ]
+  }, 
+  {
+   "begin": "24.280", 
+   "children": [], 
+   "end": "25.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "welche H\u00f6he sie haben soll. "
+   ]
+  }, 
+  {
+   "begin": "25.520", 
+   "children": [], 
+   "end": "29.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind nach Artikel\u00a048 des Grundgesetzes dazu verpflichtet, "
+   ]
+  }, 
+  {
+   "begin": "29.240", 
+   "children": [], 
+   "end": "30.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dar\u00fcber selbst zu entscheiden; "
+   ]
+  }, 
+  {
+   "begin": "30.680", 
+   "children": [], 
+   "end": "32.960", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "denn wir haben Anspruch auf eine angemessene, "
+   ]
+  }, 
+  {
+   "begin": "32.960", 
+   "children": [], 
+   "end": "36.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die Unabh\u00e4ngigkeit sichernde Entsch\u00e4digung."
+   ]
+  }, 
+  {
+   "begin": "36.320", 
+   "children": [], 
+   "end": "40.040", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "In der letzten Legislatur hat dazu eine Expertenkommission getagt. "
+   ]
+  }, 
+  {
+   "begin": "40.040", 
+   "children": [], 
+   "end": "42.800", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben klare Empfehlungen bekommen, "
+   ]
+  }, 
+  {
+   "begin": "42.800", 
+   "children": [], 
+   "end": "46.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Abgeordnetenentsch\u00e4digung an den Bez\u00fcgen oberster Bundesrichter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "46.240", 
+   "children": [], 
+   "end": "49.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "das ist Beamtenbesoldungsstufe R\u00a06\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "49.280", 
+   "children": [], 
+   "end": "49.680", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "orientieren sollte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "49.680", 
+   "children": [], 
+   "end": "52.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "diese H\u00f6he haben wir nicht erreicht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "52.000", 
+   "children": [], 
+   "end": "58.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und dass es j\u00e4hrlich eine automatische Anpassung nur gem\u00e4\u00df der Steigerung des Nominallohnindexes in Deutschland geben sollte, "
+   ]
+  }, 
+  {
+   "begin": "58.520", 
+   "children": [], 
+   "end": "61.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "der vom Statistischen Bundesamt ver\u00f6ffentlicht wird."
+   ]
+  }, 
+  {
+   "begin": "61.120", 
+   "children": [], 
+   "end": "62.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wir halten das f\u00fcr eine offene, "
+   ]
+  }, 
+  {
+   "begin": "62.560", 
+   "children": [], 
+   "end": "63.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "transparente, "
+   ]
+  }, 
+  {
+   "begin": "63.560", 
+   "children": [], 
+   "end": "65.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "leistungsorientierte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "65.520", 
+   "children": [], 
+   "end": "67.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "davon sprach Michael Grosse-Br\u00f6mer; "
+   ]
+  }, 
+  {
+   "begin": "67.880", 
+   "children": [], 
+   "end": "69.080", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wie zutreffend das ist, "
+   ]
+  }, 
+  {
+   "begin": "69.080", 
+   "children": [], 
+   "end": "71.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "das m\u00f6gen andere beurteilen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "71.400", 
+   "children": [], 
+   "end": "76.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "aber zumindest faire Festlegung der H\u00f6he der Abgeordnetenentsch\u00e4digung."
+   ]
+  }, 
+  {
+   "begin": "76.320", 
+   "children": [], 
+   "end": "76.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "76.600", 
+   "children": [], 
+   "end": "80.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "wir k\u00f6nnen es insgesamt wohl niemandem recht machen. "
+   ]
+  }, 
+  {
+   "begin": "80.400", 
+   "children": [], 
+   "end": "85.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir immer wieder neu \u00fcber die H\u00f6he der Abgeordnetenentsch\u00e4digung abstimmen w\u00fcrden, "
+   ]
+  }, 
+  {
+   "begin": "85.800", 
+   "children": [], 
+   "end": "88.040", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrden wir den Vorwurf bekommen, "
+   ]
+  }, 
+  {
+   "begin": "88.040", 
+   "children": [], 
+   "end": "89.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "es sei Selbstbedienung. "
+   ]
+  }, 
+  {
+   "begin": "89.240", 
+   "children": [], 
+   "end": "90.320", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Machen wir es regelbasiert, "
+   ]
+  }, 
+  {
+   "begin": "90.320", 
+   "children": [], 
+   "end": "91.640", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "so wie wir es jetzt tun, "
+   ]
+  }, 
+  {
+   "begin": "91.640", 
+   "children": [], 
+   "end": "92.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "hei\u00dft es: "
+   ]
+  }, 
+  {
+   "begin": "92.160", 
+   "children": [], 
+   "end": "93.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Di\u00e4tenautomatismus.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "93.840", 
+   "children": [], 
+   "end": "97.840", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber wird es schwerlich einen Konsens mit der gesamten Bev\u00f6lkerung geben. "
+   ]
+  }, 
+  {
+   "begin": "97.840", 
+   "children": [], 
+   "end": "101.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir k\u00f6nnen als Abgeordnete selbstbewusst sagen: "
+   ]
+  }, 
+  {
+   "begin": "101.920", 
+   "children": [], 
+   "end": "104.920", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wir leisten hier eine verantwortungsvolle T\u00e4tigkeit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "104.920", 
+   "children": [], 
+   "end": "107.560", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "jetzt sind es mehr als 700\u00a0Abgeordnete f\u00fcr das deutsche Volk\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "107.560", 
+   "children": [], 
+   "end": "112.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "und die Entlohnung f\u00fcr diese verantwortungsvolle T\u00e4tigkeit muss auch unabh\u00e4ngigkeitssichernd sein, "
+   ]
+  }, 
+  {
+   "begin": "112.680", 
+   "children": [], 
+   "end": "114.360", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und sie muss angemessen sein! "
+   ]
+  }, 
+  {
+   "begin": "114.360", 
+   "children": [], 
+   "end": "115.560", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "So will es das Grundgesetz."
+   ]
+  }, 
+  {
+   "begin": "115.560", 
+   "children": [], 
+   "end": "115.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "115.920", 
+   "children": [], 
+   "end": "117.120", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass wir mit dem Vorschlag, "
+   ]
+  }, 
+  {
+   "begin": "117.120", 
+   "children": [], 
+   "end": "119.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die geltende Regelung zu verl\u00e4ngern, "
+   ]
+  }, 
+  {
+   "begin": "119.720", 
+   "children": [], 
+   "end": "120.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "auf dem richtigen Weg sind. "
+   ]
+  }, 
+  {
+   "begin": "120.920", 
+   "children": [], 
+   "end": "123.520", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte Sie dabei um Unterst\u00fctzung. "
+   ]
+  }, 
+  {
+   "begin": "123.520", 
+   "children": [], 
+   "end": "124.760", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Denn wir haben auch vor der Wahl, "
+   ]
+  }, 
+  {
+   "begin": "124.760", 
+   "children": [], 
+   "end": "125.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "um das klar zu sagen, "
+   ]
+  }, 
+  {
+   "begin": "125.880", 
+   "children": [], 
+   "end": "127.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "nie etwas anderes behauptet, "
+   ]
+  }, 
+  {
+   "begin": "127.280", 
+   "children": [], 
+   "end": "129.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir stehen hier in der Kontinuit\u00e4t dessen, "
+   ]
+  }, 
+  {
+   "begin": "129.400", 
+   "children": [], 
+   "end": "132.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "was wir in der letzten Legislaturperiode f\u00fcr richtig empfunden haben, "
+   ]
+  }, 
+  {
+   "begin": "132.480", 
+   "children": [], 
+   "end": "136.200", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "was wir beschlossen haben und was wir auch heute empfehlen wollen: "
+   ]
+  }, 
+  {
+   "begin": "136.200", 
+   "children": [], 
+   "end": "139.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die L\u00f6hne in Deutschland in den n\u00e4chsten Jahren steigen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "139.640", 
+   "children": [], 
+   "end": "140.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "ich hoffe sehr, "
+   ]
+  }, 
+  {
+   "begin": "140.720", 
+   "children": [], 
+   "end": "141.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass sie es tun; "
+   ]
+  }, 
+  {
+   "begin": "141.240", 
+   "children": [], 
+   "end": "144.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "denn wir brauchen eine st\u00e4rkere Binnennachfrage in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "144.000", 
+   "children": [], 
+   "end": "147.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "einen h\u00f6heren Anteil f\u00fcr die Besch\u00e4ftigten nicht nur an der Lohnentwicklung, "
+   ]
+  }, 
+  {
+   "begin": "147.400", 
+   "children": [], 
+   "end": "150.720", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch an den erwirtschafteten Gewinnen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "150.720", 
+   "children": [], 
+   "end": "151.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "steigen die Di\u00e4ten entsprechend. "
+   ]
+  }, 
+  {
+   "begin": "151.560", 
+   "children": [], 
+   "end": "155.760", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Von daher orientiert sich die Abgeordnetenentsch\u00e4digung genau am Mittelwert dessen, "
+   ]
+  }, 
+  {
+   "begin": "155.760", 
+   "children": [], 
+   "end": "158.200", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "was die Arbeitnehmer bekommen. "
+   ]
+  }, 
+  {
+   "begin": "158.200", 
+   "children": [], 
+   "end": "161.560", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Aus diesem Grunde k\u00f6nnen wir dem Antrag guten Gewissens zustimmen, "
+   ]
+  }, 
+  {
+   "begin": "161.560", 
+   "children": [], 
+   "end": "162.680", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "und ich empfehle Ihnen das auch."
+   ]
+  }, 
+  {
+   "begin": "162.680", 
+   "children": [], 
+   "end": "163.240", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "163.240", 
+   "children": [], 
+   "end": "168.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "168.480", 
+   "children": [], 
+   "end": "170.360", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Carsten Schneider.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.360", 
+   "children": [], 
+   "end": "175.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort zu seiner ersten Rede im Bundestag hat f\u00fcr die AfD-Fraktion Stefan Keuter."
+   ]
+  }
+ ]
+}

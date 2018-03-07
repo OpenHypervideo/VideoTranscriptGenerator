@@ -1,0 +1,734 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.680", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "children": [], 
+   "end": "11.920", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "children": [], 
+   "end": "16.600", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Einsatz im S\u00fcdsudan ist das letzte Bundeswehrmandat, "
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "children": [], 
+   "end": "19.880", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber das wir in dieser Woche entscheiden. "
+   ]
+  }, 
+  {
+   "begin": "19.880", 
+   "children": [], 
+   "end": "23.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Auch hier sind die Fragen zu beantworten: "
+   ]
+  }, 
+  {
+   "begin": "23.000", 
+   "children": [], 
+   "end": "25.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ist der Einsatz sinnvoll? "
+   ]
+  }, 
+  {
+   "begin": "25.920", 
+   "children": [], 
+   "end": "28.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ist er verantwortbar? "
+   ]
+  }, 
+  {
+   "begin": "28.080", 
+   "children": [], 
+   "end": "32.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Soll er fortgesetzt werden?"
+   ]
+  }, 
+  {
+   "begin": "32.920", 
+   "children": [], 
+   "end": "36.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Man darf die Situation nicht sch\u00f6nreden. "
+   ]
+  }, 
+  {
+   "begin": "36.440", 
+   "children": [], 
+   "end": "40.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die Lage im S\u00fcdsudan ist dramatisch. "
+   ]
+  }, 
+  {
+   "begin": "40.240", 
+   "children": [], 
+   "end": "41.200", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Klar ist auch: "
+   ]
+  }, 
+  {
+   "begin": "41.200", 
+   "children": [], 
+   "end": "45.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Sie hat sich trotz aller Friedensbem\u00fchungen weiter verschlechtert. "
+   ]
+  }, 
+  {
+   "begin": "45.000", 
+   "children": [], 
+   "end": "55.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Von 12\u00a0Millionen Einwohnern sind mittlerweile \u00fcber die H\u00e4lfte der Menschen von Nahrungsmittelhilfe abh\u00e4ngig. "
+   ]
+  }, 
+  {
+   "begin": "55.520", 
+   "children": [], 
+   "end": "61.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Eineinviertel Millionen Menschen sind direkt und unmittelbar vom Hunger bedroht. "
+   ]
+  }, 
+  {
+   "begin": "61.000", 
+   "children": [], 
+   "end": "64.680", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Zahl der Fl\u00fcchtlinge hat sich in den letzten Monaten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "64.680", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "im letzten Jahr, "
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "68.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "muss man sagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "68.120", 
+   "children": [], 
+   "end": "70.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "auf fast 4\u00a0Millionen verdoppelt."
+   ]
+  }, 
+  {
+   "begin": "70.320", 
+   "children": [], 
+   "end": "79.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Trotz eines vor zwei Jahren geschlossenen Friedensabkommens f\u00fchren alle Konfliktparteien ihre milit\u00e4rischen Aktionen fort. "
+   ]
+  }, 
+  {
+   "begin": "79.240", 
+   "children": [], 
+   "end": "84.680", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Die Gewaltanwendung gegen\u00fcber der Zivilbev\u00f6lkerung ist besorgniserregend. "
+   ]
+  }, 
+  {
+   "begin": "84.680", 
+   "children": [], 
+   "end": "91.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Hier wie in allen Konflikten sind immer wieder insbesondere Frauen und Kinder betroffen."
+   ]
+  }, 
+  {
+   "begin": "91.480", 
+   "children": [], 
+   "end": "92.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Hei\u00dft das jetzt, "
+   ]
+  }, 
+  {
+   "begin": "92.280", 
+   "children": [], 
+   "end": "94.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "der Einsatz ist gescheitert? "
+   ]
+  }, 
+  {
+   "begin": "94.400", 
+   "children": [], 
+   "end": "95.200", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Hei\u00dft das, "
+   ]
+  }, 
+  {
+   "begin": "95.200", 
+   "children": [], 
+   "end": "98.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wir ziehen uns zur\u00fcck? "
+   ]
+  }, 
+  {
+   "begin": "98.400", 
+   "children": [], 
+   "end": "102.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Die Vereinten Nationen haben in den letzten Jahren eine andere Antwort gegeben. "
+   ]
+  }, 
+  {
+   "begin": "102.880", 
+   "children": [], 
+   "end": "105.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben ihre Bem\u00fchungen verst\u00e4rkt. "
+   ]
+  }, 
+  {
+   "begin": "105.600", 
+   "children": [], 
+   "end": "107.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen heute entscheiden, "
+   ]
+  }, 
+  {
+   "begin": "107.280", 
+   "children": [], 
+   "end": "108.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "werte Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "108.720", 
+   "children": [], 
+   "end": "113.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "ob wir die Vereinten Nationen in diesem Bem\u00fchen unterst\u00fctzen wollen, "
+   ]
+  }, 
+  {
+   "begin": "113.400", 
+   "children": [], 
+   "end": "114.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "oder ob wir uns, "
+   ]
+  }, 
+  {
+   "begin": "114.440", 
+   "children": [], 
+   "end": "116.960", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "wie Die Linke das in ihrem Antrag fordert, "
+   ]
+  }, 
+  {
+   "begin": "116.960", 
+   "children": [], 
+   "end": "121.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "aus der gemeinsamen Verantwortung im Rahmen der Vereinten Nationen verabschieden. "
+   ]
+  }, 
+  {
+   "begin": "121.080", 
+   "children": [], 
+   "end": "124.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD steht zu einer St\u00e4rkung der Vereinten Nationen; "
+   ]
+  }, 
+  {
+   "begin": "124.400", 
+   "children": [], 
+   "end": "130.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wir bef\u00fcrworten diesen Einsatz."
+   ]
+  }, 
+  {
+   "begin": "130.560", 
+   "children": [], 
+   "end": "136.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Im S\u00fcdsudan geht es um einen begrenzten Auftrag. "
+   ]
+  }, 
+  {
+   "begin": "136.320", 
+   "children": [], 
+   "end": "142.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Bis zu 50\u00a0Soldatinnen und Soldaten der Bundeswehr k\u00f6nnen zum Einsatz kommen. "
+   ]
+  }, 
+  {
+   "begin": "142.520", 
+   "children": [], 
+   "end": "144.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Sie nehmen dort F\u00fchrungs-, "
+   ]
+  }, 
+  {
+   "begin": "144.280", 
+   "children": [], 
+   "end": "145.520", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Verbindungs-, "
+   ]
+  }, 
+  {
+   "begin": "145.520", 
+   "children": [], 
+   "end": "146.480", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Beratungs-, "
+   ]
+  }, 
+  {
+   "begin": "146.480", 
+   "children": [], 
+   "end": "147.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Beobachtungs- "
+   ]
+  }, 
+  {
+   "begin": "147.440", 
+   "children": [], 
+   "end": "150.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "und Unterst\u00fctzungsaufgaben wahr. "
+   ]
+  }, 
+  {
+   "begin": "150.000", 
+   "children": [], 
+   "end": "151.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Ich will mich an dieser Stelle, "
+   ]
+  }, 
+  {
+   "begin": "151.480", 
+   "children": [], 
+   "end": "156.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wie das auch schon Kolleginnen und Kollegen vor mir bei der Beratung anderer Missionen getan haben, "
+   ]
+  }, 
+  {
+   "begin": "156.720", 
+   "children": [], 
+   "end": "162.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "ganz ausdr\u00fccklich f\u00fcr den Einsatz unserer Soldatinnen und Soldaten bedanken. "
+   ]
+  }, 
+  {
+   "begin": "162.000", 
+   "children": [], 
+   "end": "170.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Sie leisten einen wichtigen Dienst in einer schwierigen Situation."
+   ]
+  }, 
+  {
+   "begin": "170.640", 
+   "children": [], 
+   "end": "174.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Die UN-Mission wird weiter gebraucht. "
+   ]
+  }, 
+  {
+   "begin": "174.520", 
+   "children": [], 
+   "end": "176.960", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Sie sch\u00fctzt Menschenleben. "
+   ]
+  }, 
+  {
+   "begin": "176.960", 
+   "children": [], 
+   "end": "183.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Sie wird hoffentlich in Zukunft einen Beitrag zur Stabilisierung des Landes leisten k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "183.240", 
+   "children": [], 
+   "end": "185.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Klar ist aber auch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "185.040", 
+   "children": [], 
+   "end": "187.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "das will ich ganz deutlich sagen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "187.680", 
+   "children": [], 
+   "end": "195.800", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass es ein Ende der Gewalt und einen Wiederaufbau im S\u00fcdsudan nur \u00fcber politische L\u00f6sungen geben kann. "
+   ]
+  }, 
+  {
+   "begin": "195.800", 
+   "children": [], 
+   "end": "199.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Hierzu braucht es ein gemeinsames Vorgehen der Nachbarl\u00e4nder. "
+   ]
+  }, 
+  {
+   "begin": "199.760", 
+   "children": [], 
+   "end": "207.320", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ein wichtiger erster Schritt hierbei w\u00e4re das Unterbinden weiterer Waffenlieferungen an die B\u00fcrgerkriegsparteien."
+   ]
+  }, 
+  {
+   "begin": "207.320", 
+   "children": [], 
+   "end": "213.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube im \u00dcbrigen wie viele internationale Beobachter, "
+   ]
+  }, 
+  {
+   "begin": "213.000", 
+   "children": [], 
+   "end": "216.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dass die von der Regierung beabsichtigte Idee, "
+   ]
+  }, 
+  {
+   "begin": "216.680", 
+   "children": [], 
+   "end": "219.280", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "in diesem Jahr Wahlen durchzuf\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "219.280", 
+   "children": [], 
+   "end": "223.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "in der gegenw\u00e4rtigen Situation nicht zu einer Befriedung des Konflikts f\u00fchren kann. "
+   ]
+  }, 
+  {
+   "begin": "223.560", 
+   "children": [], 
+   "end": "226.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Erst m\u00fcssen andere wichtige Voraussetzungen gekl\u00e4rt werden, "
+   ]
+  }, 
+  {
+   "begin": "226.760", 
+   "children": [], 
+   "end": "230.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "bevor dort Wahlen stattfinden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "230.080", 
+   "children": [], 
+   "end": "233.440", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Die akute Not und die hohe Zahl an Fl\u00fcchtlingen erfordern, "
+   ]
+  }, 
+  {
+   "begin": "233.440", 
+   "children": [], 
+   "end": "238.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "jetzt alle M\u00f6glichkeiten der humanit\u00e4ren Hilfe auszusch\u00f6pfen. "
+   ]
+  }, 
+  {
+   "begin": "238.040", 
+   "children": [], 
+   "end": "244.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung hat daf\u00fcr in diesem Jahr schon 90\u00a0Millionen Euro zur Verf\u00fcgung gestellt. "
+   ]
+  }, 
+  {
+   "begin": "244.120", 
+   "children": [], 
+   "end": "246.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch hier muss man klar und deutlich sagen: "
+   ]
+  }, 
+  {
+   "begin": "246.680", 
+   "children": [], 
+   "end": "254.400", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Nach gegenw\u00e4rtigen Sch\u00e4tzungen der Vereinten Nationen werden circa 1,6\u00a0Milliarden US-Dollar zur Unterst\u00fctzung gebraucht. "
+   ]
+  }, 
+  {
+   "begin": "254.400", 
+   "children": [], 
+   "end": "259.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Hier sind auch in Zukunft noch deutliche Anstrengungen der Weltgemeinschaft notwendig. "
+   ]
+  }, 
+  {
+   "begin": "259.480", 
+   "children": [], 
+   "end": "262.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Es macht aber auch keinen Sinn, "
+   ]
+  }, 
+  {
+   "begin": "262.920", 
+   "children": [], 
+   "end": "265.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "so wie die Linke das in ihrem Antrag tut, "
+   ]
+  }, 
+  {
+   "begin": "265.240", 
+   "children": [], 
+   "end": "271.320", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "humanit\u00e4re Hilfe und milit\u00e4rischen Einsatz der UN-Friedensmission gegeneinander auszuspielen. "
+   ]
+  }, 
+  {
+   "begin": "271.320", 
+   "children": [], 
+   "end": "273.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich will hier ganz deutlich sagen: "
+   ]
+  }, 
+  {
+   "begin": "273.280", 
+   "children": [], 
+   "end": "275.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Beides wird gebraucht, "
+   ]
+  }, 
+  {
+   "begin": "275.400", 
+   "children": [], 
+   "end": "285.040", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "und deshalb stimmt die SPD-Fraktion der Verl\u00e4ngerung von UNMISS zu."
+   ]
+  }, 
+  {
+   "begin": "285.040", 
+   "children": [], 
+   "end": "287.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }
+ ]
+}

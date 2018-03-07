@@ -1,0 +1,724 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.480", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.480", 
+   "children": [], 
+   "end": "3.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "children": [], 
+   "end": "11.240", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Chrupalla, "
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "children": [], 
+   "end": "12.600", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "ich wei\u00df nicht, "
+   ]
+  }, 
+  {
+   "begin": "12.600", 
+   "children": [], 
+   "end": "14.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "mit wem Sie reden. "
+   ]
+  }, 
+  {
+   "begin": "14.560", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Hier haben alle geschrieben, "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "20.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "mit wem sie geredet haben. "
+   ]
+  }, 
+  {
+   "begin": "20.480", 
+   "children": [], 
+   "end": "23.360", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht ist ein Teil des Problems der AfD, "
+   ]
+  }, 
+  {
+   "begin": "23.360", 
+   "children": [], 
+   "end": "25.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die sich so gerne zur Handwerkerpartei machen m\u00f6chte, "
+   ]
+  }, 
+  {
+   "begin": "25.680", 
+   "children": [], 
+   "end": "29.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass Handwerker bei Ihnen Leute wie Herr Poggenburg sind, "
+   ]
+  }, 
+  {
+   "begin": "29.480", 
+   "children": [], 
+   "end": "30.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber den man lesen muss, "
+   ]
+  }, 
+  {
+   "begin": "30.800", 
+   "children": [], 
+   "end": "41.440", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "dass er noch nicht einmal seine Beitr\u00e4ge zur Handwerkskammer entrichtet."
+   ]
+  }, 
+  {
+   "begin": "41.440", 
+   "children": [], 
+   "end": "45.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Die Kolleginnen und Kollegen haben schon die Luft aus diesem Antrag gelassen. "
+   ]
+  }, 
+  {
+   "begin": "45.360", 
+   "children": [], 
+   "end": "46.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df gar nicht, "
+   ]
+  }, 
+  {
+   "begin": "46.560", 
+   "children": [], 
+   "end": "47.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "ob es sich lohnt, "
+   ]
+  }, 
+  {
+   "begin": "47.360", 
+   "children": [], 
+   "end": "51.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Ihre und meine Lebenszeit noch einmal vier Minuten lang damit zu verschwenden."
+   ]
+  }, 
+  {
+   "begin": "51.120", 
+   "children": [], 
+   "end": "54.440", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ich will nur einen letzten Punkt klarstellen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "54.440", 
+   "children": [], 
+   "end": "57.440", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "das hilft Ihnen vielleicht in Ihrer handwerklichen Praxis\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "57.440", 
+   "children": [], 
+   "end": "64.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Sie vermischen hier die Rechtsfolgen einer Verletzung von Informationspflichten mit den Rechtsfolgen einer Unterlassung der Widerrufsbelehrung."
+   ]
+  }, 
+  {
+   "begin": "64.920", 
+   "children": [], 
+   "end": "66.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Methode AfD: "
+   ]
+  }, 
+  {
+   "begin": "66.400", 
+   "children": [], 
+   "end": "67.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Ich suche ein Problem, "
+   ]
+  }, 
+  {
+   "begin": "67.880", 
+   "children": [], 
+   "end": "69.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und wenn ich keines finde, "
+   ]
+  }, 
+  {
+   "begin": "69.880", 
+   "children": [], 
+   "end": "72.000", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dann denke ich mir eines aus."
+   ]
+  }, 
+  {
+   "begin": "72.000", 
+   "children": [], 
+   "end": "81.440", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Da der AfD keine echten Probleme im deutschen Handwerk einfallen,"
+   ]
+  }, 
+  {
+   "begin": "81.440", 
+   "children": [], 
+   "end": "83.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "will ich gerne weiterhelfen. "
+   ]
+  }, 
+  {
+   "begin": "83.760", 
+   "children": [], 
+   "end": "88.280", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Betrachten wir die Vorf\u00e4lligkeit der Sozialversicherungsbeitr\u00e4ge: "
+   ]
+  }, 
+  {
+   "begin": "88.280", 
+   "children": [], 
+   "end": "90.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die deutschen Sozialkassen sind voll. "
+   ]
+  }, 
+  {
+   "begin": "90.680", 
+   "children": [], 
+   "end": "97.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Weil Sie gestern und heute wieder von der schlimmen Zuwanderung in die Sozialsysteme geredet haben,"
+   ]
+  }, 
+  {
+   "begin": "97.320", 
+   "children": [], 
+   "end": "100.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "kommt jetzt eine ganz unangenehme Wahrheit: "
+   ]
+  }, 
+  {
+   "begin": "100.080", 
+   "children": [], 
+   "end": "101.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Sozialkassen sind voll, "
+   ]
+  }, 
+  {
+   "begin": "101.680", 
+   "children": [], 
+   "end": "103.200", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "weil wir Zuwanderung haben, "
+   ]
+  }, 
+  {
+   "begin": "103.200", 
+   "children": [], 
+   "end": "109.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "weil junge Menschen aus dem Ausland kommen und in die deutschen Sozialversicherungen einzahlen."
+   ]
+  }, 
+  {
+   "begin": "109.800", 
+   "children": [], 
+   "end": "110.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "110.640", 
+   "children": [], 
+   "end": "112.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "wir h\u00e4tten jetzt die Chance, "
+   ]
+  }, 
+  {
+   "begin": "112.120", 
+   "children": [], 
+   "end": "118.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die Vorf\u00e4lligkeit abzuschaffen und zur Rechtslage von vor 2006 zur\u00fcckzukehren."
+   ]
+  }, 
+  {
+   "begin": "118.760", 
+   "children": [], 
+   "end": "119.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "119.360", 
+   "children": [], 
+   "end": "125.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "jeder Handwerksbetrieb w\u00fcrde sich einmal im Monat mit dem Thema befassen und h\u00e4tte kein Liquidit\u00e4tsproblem mehr. "
+   ]
+  }, 
+  {
+   "begin": "125.800", 
+   "children": [], 
+   "end": "127.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re eine L\u00f6sung."
+   ]
+  }, 
+  {
+   "begin": "127.440", 
+   "children": [], 
+   "end": "130.880", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie sonst kein Problem finden, "
+   ]
+  }, 
+  {
+   "begin": "130.880", 
+   "children": [], 
+   "end": "135.080", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dann gucken Sie doch in die Februarausgabe der \u201eDeutschen Handwerks Zeitung\u201c. "
+   ]
+  }, 
+  {
+   "begin": "135.080", 
+   "children": [], 
+   "end": "136.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Dort steht, "
+   ]
+  }, 
+  {
+   "begin": "136.200", 
+   "children": [], 
+   "end": "143.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass 60\u00a0Prozent aller Inhaber von Handwerksbetrieben eine gesetzliche Rente von unter 600\u00a0Euro zu erwarten haben."
+   ]
+  }, 
+  {
+   "begin": "143.640", 
+   "children": [], 
+   "end": "147.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Dazu gab es von der AfD im letzten Jahr genau zwei \u00c4u\u00dferungen. "
+   ]
+  }, 
+  {
+   "begin": "147.520", 
+   "children": [], 
+   "end": "149.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe jedenfalls nur zwei gefunden; "
+   ]
+  }, 
+  {
+   "begin": "149.760", 
+   "children": [], 
+   "end": "152.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht haben Sie ja mehr dazu gesagt."
+   ]
+  }, 
+  {
+   "begin": "152.040", 
+   "children": [], 
+   "end": "152.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "152.760", 
+   "children": [], 
+   "end": "154.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "gestatten Sie eine Zwischenfrage?"
+   ]
+  }, 
+  {
+   "begin": "154.600", 
+   "children": [], 
+   "end": "156.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Frau von Storch kann danach fragen."
+   ]
+  }, 
+  {
+   "begin": "156.760", 
+   "children": [], 
+   "end": "161.120", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Sie gestatten also keine Zwischenfrage?"
+   ]
+  }, 
+  {
+   "begin": "161.120", 
+   "children": [], 
+   "end": "161.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Nein; "
+   ]
+  }, 
+  {
+   "begin": "161.640", 
+   "children": [], 
+   "end": "165.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "das ist ja auch meine erste Rede.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "165.680", 
+   "children": [], 
+   "end": "171.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Der s\u00e4chsische Landtagsabgeordnete Beger beklagt die Altersarmut der Handwerker. "
+   ]
+  }, 
+  {
+   "begin": "171.680", 
+   "children": [], 
+   "end": "173.280", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Seine Analyse ist so tiefsch\u00fcrfend, "
+   ]
+  }, 
+  {
+   "begin": "173.280", 
+   "children": [], 
+   "end": "175.080", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wie sie meistens bei der AfD ist: "
+   ]
+  }, 
+  {
+   "begin": "175.080", 
+   "children": [], 
+   "end": "177.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das liegt an der Alimentierung Griechenlands, "
+   ]
+  }, 
+  {
+   "begin": "177.400", 
+   "children": [], 
+   "end": "185.920", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "an den Kosten f\u00fcr den Unterhalt von Hunderttausenden Einwanderern ohne legitimen Asylgrund und an der Geldflutung der M\u00e4rkte durch die EZB.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "185.920", 
+   "children": [], 
+   "end": "189.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Analyse aus dem Jahr\u00a02016. "
+   ]
+  }, 
+  {
+   "begin": "189.320", 
+   "children": [], 
+   "end": "193.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Im Jahr\u00a02017 hat die \u201eDeutsche Handwerks Zeitung\u201c die AfD gefragt, "
+   ]
+  }, 
+  {
+   "begin": "193.640", 
+   "children": [], 
+   "end": "197.600", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "was sie f\u00fcr die Altersvorsorge von Handwerkern machen will. "
+   ]
+  }, 
+  {
+   "begin": "197.600", 
+   "children": [], 
+   "end": "200.480", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Im Jahr 2017 hat die AfD gesagt: "
+   ]
+  }, 
+  {
+   "begin": "200.480", 
+   "children": [], 
+   "end": "203.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Da haben wir Beratungsbedarf."
+   ]
+  }, 
+  {
+   "begin": "203.120", 
+   "children": [], 
+   "end": "204.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die AfD, "
+   ]
+  }, 
+  {
+   "begin": "204.240", 
+   "children": [], 
+   "end": "205.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die am Aschermittwoch gesagt hat: "
+   ]
+  }, 
+  {
+   "begin": "205.960", 
+   "children": [], 
+   "end": "207.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen nicht den Kuchen, "
+   ]
+  }, 
+  {
+   "begin": "207.560", 
+   "children": [], 
+   "end": "209.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "sondern die ganze B\u00e4ckerei. "
+   ]
+  }, 
+  {
+   "begin": "209.520", 
+   "children": [], 
+   "end": "219.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen f\u00e4llt zu einem zentralen Problem f\u00fcr die meisten Inhaber von Handwerksbetrieben nichts ein."
+   ]
+  }, 
+  {
+   "begin": "219.480", 
+   "children": [], 
+   "end": "221.680", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Der Beratungsbedarf dauert anscheinend noch an. "
+   ]
+  }, 
+  {
+   "begin": "221.680", 
+   "children": [], 
+   "end": "227.640", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen kommen Sie ein Jahr sp\u00e4ter mit der Verbraucherrechterichtlinie und einem Nichtproblem um die Ecke. "
+   ]
+  }, 
+  {
+   "begin": "227.640", 
+   "children": [], 
+   "end": "230.040", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind nicht die Partei des Mittelstands, "
+   ]
+  }, 
+  {
+   "begin": "230.040", 
+   "children": [], 
+   "end": "231.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind leider nur die AfD."
+   ]
+  }, 
+  {
+   "begin": "231.680", 
+   "children": [], 
+   "end": "238.640", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Letzter Redner in dieser Debatte ist der Kollege Alexander Hoffmann, "
+   ]
+  }, 
+  {
+   "begin": "238.640", 
+   "children": [], 
+   "end": "241.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

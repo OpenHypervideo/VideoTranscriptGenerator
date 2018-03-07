@@ -1,0 +1,784 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "children": [], 
+   "end": "17.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "children": [], 
+   "end": "23.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Eine gesunde und ausgewogene Ern\u00e4hrung ist die Grundlage f\u00fcr ein gutes Leben. "
+   ]
+  }, 
+  {
+   "begin": "23.320", 
+   "children": [], 
+   "end": "25.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wie richtig ist diese Aussage! "
+   ]
+  }, 
+  {
+   "begin": "25.720", 
+   "children": [], 
+   "end": "33.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wir nehmen die Er\u00f6ffnung der Internationalen Gr\u00fcnen Woche traditionell hier im Hohen Haus zum Anlass f\u00fcr eine Debatte, "
+   ]
+  }, 
+  {
+   "begin": "33.360", 
+   "children": [], 
+   "end": "36.080", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "um \u00fcber die aktuellen Entwicklungen der Ern\u00e4hrungs- "
+   ]
+  }, 
+  {
+   "begin": "36.080", 
+   "children": [], 
+   "end": "38.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und Landwirtschaftsbranche zu sprechen."
+   ]
+  }, 
+  {
+   "begin": "38.600", 
+   "children": [], 
+   "end": "46.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "So sprechen wir hier zum Beispiel auch \u00fcber die neuesten Erkenntnisse des Ern\u00e4hrungsreports 2018 des Bundesministeriums f\u00fcr Ern\u00e4hrung und Landwirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "46.320", 
+   "children": [], 
+   "end": "47.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "der aussagt, "
+   ]
+  }, 
+  {
+   "begin": "47.960", 
+   "children": [], 
+   "end": "53.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Ern\u00e4hrungsgewohnheiten der Menschen in Deutschland ver\u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "53.080", 
+   "children": [], 
+   "end": "57.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Der Verbraucher interessiert sich mehr denn je f\u00fcr die Herkunft, "
+   ]
+  }, 
+  {
+   "begin": "57.560", 
+   "children": [], 
+   "end": "61.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die Herstellung und die Zusammensetzung der Lebensmittel. "
+   ]
+  }, 
+  {
+   "begin": "61.760", 
+   "children": [], 
+   "end": "62.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "So hei\u00dft es dort auch, "
+   ]
+  }, 
+  {
+   "begin": "62.760", 
+   "children": [], 
+   "end": "64.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass der \u00fcberwiegende Teil, "
+   ]
+  }, 
+  {
+   "begin": "64.480", 
+   "children": [], 
+   "end": "67.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich circa 63\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "67.240", 
+   "children": [], 
+   "end": "69.800", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "der Verbraucher bewusst einkauft. "
+   ]
+  }, 
+  {
+   "begin": "69.800", 
+   "children": [], 
+   "end": "72.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Der Verbraucher ist bereit, "
+   ]
+  }, 
+  {
+   "begin": "72.240", 
+   "children": [], 
+   "end": "76.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "mehr f\u00fcr die Qualit\u00e4t der Lebensmittel zu bezahlen."
+   ]
+  }, 
+  {
+   "begin": "76.960", 
+   "children": [], 
+   "end": "79.840", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben den Verbraucherschutz angesprochen, "
+   ]
+  }, 
+  {
+   "begin": "79.840", 
+   "children": [], 
+   "end": "80.680", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und ich kann Ihnen nur best\u00e4tigen, "
+   ]
+  }, 
+  {
+   "begin": "80.680", 
+   "children": [], 
+   "end": "83.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr verehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "83.480", 
+   "children": [], 
+   "end": "86.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass es selbstverst\u00e4ndlich unsere Aufgabe ist, "
+   ]
+  }, 
+  {
+   "begin": "86.560", 
+   "children": [], 
+   "end": "87.080", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr zu sorgen, "
+   ]
+  }, 
+  {
+   "begin": "87.080", 
+   "children": [], 
+   "end": "90.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass der Verbraucher ausreichend informiert wird. "
+   ]
+  }, 
+  {
+   "begin": "90.240", 
+   "children": [], 
+   "end": "100.240", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die Sicherheit f\u00fcr die Verbraucherinnen und Verbraucher ist richtig und wichtig und muss zu jeder Zeit gew\u00e4hrleistet sein."
+   ]
+  }, 
+  {
+   "begin": "100.240", 
+   "children": [], 
+   "end": "103.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Aber lassen Sie mich dazu auch sagen, "
+   ]
+  }, 
+  {
+   "begin": "103.840", 
+   "children": [], 
+   "end": "115.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in Deutschland im weltweiten Vergleich schon jetzt die h\u00f6chsten Sicherheitsstandards und die strengsten Gesetze im Ern\u00e4hrungsbereich haben. "
+   ]
+  }, 
+  {
+   "begin": "115.920", 
+   "children": [], 
+   "end": "121.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Selbstverst\u00e4ndlich gibt es Punkte, "
+   ]
+  }, 
+  {
+   "begin": "121.560", 
+   "children": [], 
+   "end": "124.800", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die wir weiter konstruktiv diskutieren m\u00fcssen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "124.800", 
+   "children": [], 
+   "end": "126.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "keine Frage\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "126.600", 
+   "children": [], 
+   "end": "130.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "auch mit Unterst\u00fctzung der Wissenschaft."
+   ]
+  }, 
+  {
+   "begin": "130.440", 
+   "children": [], 
+   "end": "143.880", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "In vielen Regionen k\u00f6nnen wir Lebensmittel direkt vor der Haust\u00fcr produzieren und dementsprechend auch erwerben. "
+   ]
+  }, 
+  {
+   "begin": "143.880", 
+   "children": [], 
+   "end": "146.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Frau Kollegin Gminder, "
+   ]
+  }, 
+  {
+   "begin": "146.520", 
+   "children": [], 
+   "end": "151.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "mir ist es als Lebensmittelproduzent schon ganz recht, "
+   ]
+  }, 
+  {
+   "begin": "151.600", 
+   "children": [], 
+   "end": "155.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass wir regional einkaufen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "155.520", 
+   "children": [], 
+   "end": "158.960", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "es soll so viel wie m\u00f6glich regional eingekauft werden\u00a0\u2013; "
+   ]
+  }, 
+  {
+   "begin": "158.960", 
+   "children": [], 
+   "end": "164.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "auf der anderen Seite muss es uns in unserem Land aber auch erlaubt sein, "
+   ]
+  }, 
+  {
+   "begin": "164.680", 
+   "children": [], 
+   "end": "171.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr Produkte aus anderen L\u00e4ndern Werbung zu machen und Produkte aus anderen L\u00e4ndern zu uns zu nehmen, "
+   ]
+  }, 
+  {
+   "begin": "171.320", 
+   "children": [], 
+   "end": "174.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "weil auch wir unsere Produkte in anderen L\u00e4ndern verkaufen wollen."
+   ]
+  }, 
+  {
+   "begin": "174.840", 
+   "children": [], 
+   "end": "179.840", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Der Trend zu Regionalit\u00e4t und Nachhaltigkeit h\u00e4lt an. "
+   ]
+  }, 
+  {
+   "begin": "179.840", 
+   "children": [], 
+   "end": "192.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das \u00f6ffentliche Interesse f\u00fcr die Landwirtschaft und die Ern\u00e4hrungswirtschaft ist in den letzten Jahren enorm gewachsen. "
+   ]
+  }, 
+  {
+   "begin": "192.280", 
+   "children": [], 
+   "end": "193.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Menschen verstehen, "
+   ]
+  }, 
+  {
+   "begin": "193.440", 
+   "children": [], 
+   "end": "195.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wie produziert wird, "
+   ]
+  }, 
+  {
+   "begin": "195.120", 
+   "children": [], 
+   "end": "198.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wachsen auch die Anerkennung und das Verst\u00e4ndnis, "
+   ]
+  }, 
+  {
+   "begin": "198.680", 
+   "children": [], 
+   "end": "205.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "damit die Wertsch\u00e4tzung und gleichzeitig auch die Wertsch\u00f6pfung. "
+   ]
+  }, 
+  {
+   "begin": "205.400", 
+   "children": [], 
+   "end": "207.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Ziel ist es, "
+   ]
+  }, 
+  {
+   "begin": "207.960", 
+   "children": [], 
+   "end": "220.400", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dem Verbraucher durch eine ausreichende Transparenz in der gesamten Lebensmittelkette eine eigenverantwortliche und sachkundige Entscheidung zu erm\u00f6glichen. "
+   ]
+  }, 
+  {
+   "begin": "220.400", 
+   "children": [], 
+   "end": "224.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Gesundes Essen ist Genuss, "
+   ]
+  }, 
+  {
+   "begin": "224.160", 
+   "children": [], 
+   "end": "231.360", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "und eine ausgewogene Ern\u00e4hrung ist das beste Rezept f\u00fcr eine gute Gesundheit."
+   ]
+  }, 
+  {
+   "begin": "231.360", 
+   "children": [], 
+   "end": "232.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "232.480", 
+   "children": [], 
+   "end": "239.040", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die Grundlagen f\u00fcr eine gesunde Ern\u00e4hrung werden in der Landwirtschaft gelegt. "
+   ]
+  }, 
+  {
+   "begin": "239.040", 
+   "children": [], 
+   "end": "239.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Land-, "
+   ]
+  }, 
+  {
+   "begin": "239.720", 
+   "children": [], 
+   "end": "240.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Forst- "
+   ]
+  }, 
+  {
+   "begin": "240.320", 
+   "children": [], 
+   "end": "248.280", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "und auch Fischereiwirtschaft sind ein wesentlicher Bestandteil unserer Gesellschaft und ber\u00fchren uns alle in unserem t\u00e4glichen Leben. "
+   ]
+  }, 
+  {
+   "begin": "248.280", 
+   "children": [], 
+   "end": "251.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Sie schaffen unsere Lebensgrundlagen."
+   ]
+  }, 
+  {
+   "begin": "251.600", 
+   "children": [], 
+   "end": "257.200", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Um die nat\u00fcrlichen Produktionsgrundlagen f\u00fcr die Landwirtschaft zu bewahren, "
+   ]
+  }, 
+  {
+   "begin": "257.200", 
+   "children": [], 
+   "end": "263.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir unsere nat\u00fcrlichen Ressourcen nachhaltig nutzen und erhalten. "
+   ]
+  }, 
+  {
+   "begin": "263.880", 
+   "children": [], 
+   "end": "267.000", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Daher ist es mir ein besonderes Anliegen, "
+   ]
+  }, 
+  {
+   "begin": "267.000", 
+   "children": [], 
+   "end": "268.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass nicht gegen die Land- "
+   ]
+  }, 
+  {
+   "begin": "268.840", 
+   "children": [], 
+   "end": "271.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "und Ern\u00e4hrungswirtschaft gearbeitet wird, "
+   ]
+  }, 
+  {
+   "begin": "271.760", 
+   "children": [], 
+   "end": "276.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "sondern mit ihnen zusammen."
+   ]
+  }, 
+  {
+   "begin": "276.360", 
+   "children": [], 
+   "end": "279.200", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Ich sehe unsere Aufgabe darin, "
+   ]
+  }, 
+  {
+   "begin": "279.200", 
+   "children": [], 
+   "end": "282.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die Landwirtschaft in Deutschland zu unterst\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "282.680", 
+   "children": [], 
+   "end": "284.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Weichen stellen, "
+   ]
+  }, 
+  {
+   "begin": "284.720", 
+   "children": [], 
+   "end": "290.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "damit Landwirtschaft auch noch in vielen Jahren interessant ist."
+   ]
+  }, 
+  {
+   "begin": "290.080", 
+   "children": [], 
+   "end": "295.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft unter anderem, "
+   ]
+  }, 
+  {
+   "begin": "295.600", 
+   "children": [], 
+   "end": "300.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass wir den Landwirten die M\u00f6glichkeit geben m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "300.080", 
+   "children": [], 
+   "end": "303.520", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "im Stall und auf den Feldern zu arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "303.520", 
+   "children": [], 
+   "end": "310.680", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wir d\u00fcrfen sie nicht durch mehr und zum Teil auch unn\u00f6tige B\u00fcrokratie an die B\u00fcros fesseln. "
+   ]
+  }, 
+  {
+   "begin": "310.680", 
+   "children": [], 
+   "end": "317.560", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine selbstbewusste und nachhaltige sowie vor allem eine wettbewerbsf\u00e4hige Landwirtschaft."
+   ]
+  }, 
+  {
+   "begin": "317.560", 
+   "children": [], 
+   "end": "320.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich abschlie\u00dfend noch einen Dank aussprechen. "
+   ]
+  }, 
+  {
+   "begin": "320.680", 
+   "children": [], 
+   "end": "323.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Ein besonderer Dank geht an alle diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "323.520", 
+   "children": [], 
+   "end": "324.800", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "324.800", 
+   "children": [], 
+   "end": "327.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass die Land- "
+   ]
+  }, 
+  {
+   "begin": "327.240", 
+   "children": [], 
+   "end": "333.240", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "und Ern\u00e4hrungswirtschaft in Deutschland gute Sparten in unserem Land sind. "
+   ]
+  }, 
+  {
+   "begin": "333.240", 
+   "children": [], 
+   "end": "341.560", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns mit denen zusammen weiter f\u00fcr gute Ern\u00e4hrung f\u00fcr unsere Menschen in unserem wunderbaren Land sorgen!"
+   ]
+  }, 
+  {
+   "begin": "341.560", 
+   "children": [], 
+   "end": "343.320", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Vielen herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "343.320", 
+   "children": [], 
+   "end": "349.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Letzter Redner in dieser Debatte ist Johann Saathoff f\u00fcr die Fraktion der SPD."
+   ]
+  }
+ ]
+}

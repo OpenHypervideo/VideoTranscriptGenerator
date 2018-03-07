@@ -1,0 +1,834 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "children": [], 
+   "end": "9.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "children": [], 
+   "end": "10.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe B\u00fcrger! "
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "children": [], 
+   "end": "13.240", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste! "
+   ]
+  }, 
+  {
+   "begin": "13.240", 
+   "children": [], 
+   "end": "20.240", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ihren Ursprung hat die spezielle Problematik der Direktversicherung durch Gehaltsumwandlung im Jahr\u00a02004. "
+   ]
+  }, 
+  {
+   "begin": "20.240", 
+   "children": [], 
+   "end": "26.720", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Damals wurde das Gesetz zur Modernisierung der gesetzlichen Krankenversicherung von SPD und Gr\u00fcnen eingef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "26.720", 
+   "children": [], 
+   "end": "29.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Gesetz birgt gleich zwei Ungerechtigkeiten. "
+   ]
+  }, 
+  {
+   "begin": "29.960", 
+   "children": [], 
+   "end": "36.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Zum einen m\u00fcssen gesetzlich Krankenversicherte den vollen Betriebsrentenbeitrag zur Krankenversicherung leisten, "
+   ]
+  }, 
+  {
+   "begin": "36.400", 
+   "children": [], 
+   "end": "38.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend Privatversicherte, "
+   ]
+  }, 
+  {
+   "begin": "38.080", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "die nach Rentenbeginn nebenbei \u00fcber die Beitragsbemessungsgrenze hinaus dazuverdienen, "
+   ]
+  }, 
+  {
+   "begin": "42.760", 
+   "children": [], 
+   "end": "44.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "von den Zahlungen befreit sind. "
+   ]
+  }, 
+  {
+   "begin": "44.640", 
+   "children": [], 
+   "end": "45.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "45.240", 
+   "children": [], 
+   "end": "48.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass Gro\u00dfverdiener wieder einmal privilegiert werden; "
+   ]
+  }, 
+  {
+   "begin": "48.160", 
+   "children": [], 
+   "end": "50.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "denn Durchschnittsverdiener haben selten die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "50.920", 
+   "children": [], 
+   "end": "55.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "im Rentenalter nebenher \u00fcber die Beitragsbemessungsgrenze hinaus dazuzuverdienen."
+   ]
+  }, 
+  {
+   "begin": "55.760", 
+   "children": [], 
+   "end": "62.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Zum anderen werden Beitr\u00e4ge zur Kranken- "
+   ]
+  }, 
+  {
+   "begin": "62.240", 
+   "children": [], 
+   "end": "65.960", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung bei der Auszahlung der Betriebsrente f\u00e4llig. "
+   ]
+  }, 
+  {
+   "begin": "65.960", 
+   "children": [], 
+   "end": "76.080", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Auf die bis dahin beitragsfreien Auszahlungen aus den Kapitallebensversicherungen der Direktversicherten bei Rentenantritt wurden quasi \u00fcber Nacht Beitr\u00e4ge zur Kranken- "
+   ]
+  }, 
+  {
+   "begin": "76.080", 
+   "children": [], 
+   "end": "77.200", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung f\u00e4llig, "
+   ]
+  }, 
+  {
+   "begin": "77.200", 
+   "children": [], 
+   "end": "79.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und zwar in vollem Umfang. "
+   ]
+  }, 
+  {
+   "begin": "79.000", 
+   "children": [], 
+   "end": "79.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "79.880", 
+   "children": [], 
+   "end": "82.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass im Zuge der Auszahlung der volle Kranken- "
+   ]
+  }, 
+  {
+   "begin": "82.320", 
+   "children": [], 
+   "end": "84.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherungsbeitrag, "
+   ]
+  }, 
+  {
+   "begin": "84.120", 
+   "children": [], 
+   "end": "85.280", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "also Arbeitgeber- "
+   ]
+  }, 
+  {
+   "begin": "85.280", 
+   "children": [], 
+   "end": "86.600", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und Arbeitnehmeranteil, "
+   ]
+  }, 
+  {
+   "begin": "86.600", 
+   "children": [], 
+   "end": "88.240", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "entrichtet werden muss."
+   ]
+  }, 
+  {
+   "begin": "88.240", 
+   "children": [], 
+   "end": "88.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Nun, "
+   ]
+  }, 
+  {
+   "begin": "88.600", 
+   "children": [], 
+   "end": "89.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "das Ergebnis ist, "
+   ]
+  }, 
+  {
+   "begin": "89.920", 
+   "children": [], 
+   "end": "91.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dass Arbeitnehmer, "
+   ]
+  }, 
+  {
+   "begin": "91.120", 
+   "children": [], 
+   "end": "93.160", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "die mit einer Betriebsrente vorgesorgt haben, "
+   ]
+  }, 
+  {
+   "begin": "93.160", 
+   "children": [], 
+   "end": "94.920", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "doppelt zur Kasse gebeten werden: "
+   ]
+  }, 
+  {
+   "begin": "94.920", 
+   "children": [], 
+   "end": "101.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "einmal bei der Einzahlung in die betriebliche Rentenversicherung und ein weiteres Mal bei der Auszahlung der Betriebsrente. "
+   ]
+  }, 
+  {
+   "begin": "101.600", 
+   "children": [], 
+   "end": "103.560", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Bei Auszahlung m\u00fcssen die Rentner damit rechnen, "
+   ]
+  }, 
+  {
+   "begin": "103.560", 
+   "children": [], 
+   "end": "106.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass ihnen bis zu 19\u00a0Prozent ihrer Betriebsrente f\u00fcr die Kranken- "
+   ]
+  }, 
+  {
+   "begin": "106.920", 
+   "children": [], 
+   "end": "110.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung abgezogen werden. "
+   ]
+  }, 
+  {
+   "begin": "110.680", 
+   "children": [], 
+   "end": "113.720", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das GKV-Modernisierungsgesetz geht sogar so weit, "
+   ]
+  }, 
+  {
+   "begin": "113.720", 
+   "children": [], 
+   "end": "117.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass f\u00fcr die etwa 5,9\u00a0Millionen Arbeitnehmer mit Altvertr\u00e4gen, "
+   ]
+  }, 
+  {
+   "begin": "117.720", 
+   "children": [], 
+   "end": "120.080", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die bereits 2004 abgeschlossen waren, "
+   ]
+  }, 
+  {
+   "begin": "120.080", 
+   "children": [], 
+   "end": "124.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "die Regeln mitten im Spiel und r\u00fcckwirkend ge\u00e4ndert wurden. "
+   ]
+  }, 
+  {
+   "begin": "124.360", 
+   "children": [], 
+   "end": "128.160", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Dabei wurden die B\u00fcrger durch die Politiker im Vorfeld geradezu animiert, "
+   ]
+  }, 
+  {
+   "begin": "128.160", 
+   "children": [], 
+   "end": "130.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "privat f\u00fcr ihre Rente vorzusorgen. "
+   ]
+  }, 
+  {
+   "begin": "130.640", 
+   "children": [], 
+   "end": "132.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Diese B\u00fcrger haben darauf vertraut, "
+   ]
+  }, 
+  {
+   "begin": "132.680", 
+   "children": [], 
+   "end": "137.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dass ihnen die bei Vertragsabschluss zugesagten Leistungen im Alter ausgezahlt werden. "
+   ]
+  }, 
+  {
+   "begin": "137.880", 
+   "children": [], 
+   "end": "138.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Nun sieht es so aus, "
+   ]
+  }, 
+  {
+   "begin": "138.960", 
+   "children": [], 
+   "end": "147.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass bei einem Auszahlungsbetrag von beispielsweise 60\u00a0000\u00a0Euro fast 11\u00a0000\u00a0Euro an SV-Beitr\u00e4gen gezahlt werden m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "147.400", 
+   "children": [], 
+   "end": "149.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das waren 2004 keine Entscheidungen, "
+   ]
+  }, 
+  {
+   "begin": "149.760", 
+   "children": [], 
+   "end": "152.400", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die sich am Wohle der B\u00fcrger orientierten. "
+   ]
+  }, 
+  {
+   "begin": "152.400", 
+   "children": [], 
+   "end": "155.560", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Damals wurde nur auf die leeren Kassen der Krankenversicherung geblickt."
+   ]
+  }, 
+  {
+   "begin": "155.560", 
+   "children": [], 
+   "end": "161.840", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Interessant ist das Abstimmungsverhalten von CDU/CSU und SPD, "
+   ]
+  }, 
+  {
+   "begin": "161.840", 
+   "children": [], 
+   "end": "167.960", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "als ein in der Sache fast gleicher Antrag der Linken bereits 2015 in den Bundestag eingebracht wurde. "
+   ]
+  }, 
+  {
+   "begin": "167.960", 
+   "children": [], 
+   "end": "169.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Damals argumentierten Sie, "
+   ]
+  }, 
+  {
+   "begin": "169.240", 
+   "children": [], 
+   "end": "171.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass rein rechtlich kein Handlungsbedarf bestehe, "
+   ]
+  }, 
+  {
+   "begin": "171.680", 
+   "children": [], 
+   "end": "173.800", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "und Sie lehnten den Antrag ab. "
+   ]
+  }, 
+  {
+   "begin": "173.800", 
+   "children": [], 
+   "end": "180.920", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Wenigstens hatten die Gr\u00fcnen ein bisschen Einsicht und erkannten zumindest das Problem des GKV-Modernisierungsgesetzes. "
+   ]
+  }, 
+  {
+   "begin": "180.920", 
+   "children": [], 
+   "end": "182.640", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das war es jedoch schon. "
+   ]
+  }, 
+  {
+   "begin": "182.640", 
+   "children": [], 
+   "end": "186.040", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Handlungsbedarf wurde auch von den Gr\u00fcnen hier leider nicht gesehen. "
+   ]
+  }, 
+  {
+   "begin": "186.040", 
+   "children": [], 
+   "end": "187.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben die M\u00f6glichkeit nicht genutzt, "
+   ]
+  }, 
+  {
+   "begin": "187.840", 
+   "children": [], 
+   "end": "194.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die ungerechte Doppelverbeitragung aus der Welt zu schaffen und den Rentnern mit Direktversicherungen mehr von ihrer Altersvorsorge zu lassen. "
+   ]
+  }, 
+  {
+   "begin": "194.840", 
+   "children": [], 
+   "end": "196.040", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Chancen nutzen, "
+   ]
+  }, 
+  {
+   "begin": "196.040", 
+   "children": [], 
+   "end": "197.160", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Fehler korrigieren, "
+   ]
+  }, 
+  {
+   "begin": "197.160", 
+   "children": [], 
+   "end": "199.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "das geh\u00f6rt leider nicht zu Ihren St\u00e4rken."
+   ]
+  }, 
+  {
+   "begin": "199.240", 
+   "children": [], 
+   "end": "199.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Das Betriebsrentenst\u00e4rkungsgesetz, "
+   ]
+  }, 
+  {
+   "begin": "199.800", 
+   "children": [], 
+   "end": "210.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "das am 1.\u00a0Januar 2018 in Kraft getreten ist, "
+   ]
+  }, 
+  {
+   "begin": "210.960", 
+   "children": [], 
+   "end": "218.160", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "machte einen Bogen um die Problematik der Direktversicherung und heilte nur den Rohrkrepierer Riester-Rente. "
+   ]
+  }, 
+  {
+   "begin": "218.160", 
+   "children": [], 
+   "end": "223.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ein Wahlkampfslogan der SPD lautete \u201eZeit f\u00fcr mehr Gerechtigkeit\u201c. "
+   ]
+  }, 
+  {
+   "begin": "223.360", 
+   "children": [], 
+   "end": "224.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Das ist \u00e4u\u00dferst zynisch; "
+   ]
+  }, 
+  {
+   "begin": "224.840", 
+   "children": [], 
+   "end": "225.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "denn, "
+   ]
+  }, 
+  {
+   "begin": "225.080", 
+   "children": [], 
+   "end": "226.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren von der SPD, "
+   ]
+  }, 
+  {
+   "begin": "226.720", 
+   "children": [], 
+   "end": "230.840", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind die Verursacher dieser ungerechten Doppelverbeitragung f\u00fcr unsere Rentner."
+   ]
+  }, 
+  {
+   "begin": "230.840", 
+   "children": [], 
+   "end": "232.840", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen Deutschland gerechter gestalten, "
+   ]
+  }, 
+  {
+   "begin": "232.840", 
+   "children": [], 
+   "end": "238.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "nachdem sich erst durch Ihre Politik diese Ungerechtigkeit etablieren konnte. "
+   ]
+  }, 
+  {
+   "begin": "238.560", 
+   "children": [], 
+   "end": "244.880", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Einige Kollegen von der CDU/CSU haben sich w\u00e4hrend des Wahlkampfes ebenfalls f\u00fcr die Abschaffung der Doppelverbeitragung ausgesprochen. "
+   ]
+  }, 
+  {
+   "begin": "244.880", 
+   "children": [], 
+   "end": "245.840", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Nun ist es Zeit, "
+   ]
+  }, 
+  {
+   "begin": "245.840", 
+   "children": [], 
+   "end": "248.480", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "diesen Worten auch Taten folgen zu lassen."
+   ]
+  }, 
+  {
+   "begin": "248.480", 
+   "children": [], 
+   "end": "253.080", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Als AfD-Fraktion werden wir dem Antrag der Linken zustimmen und uns daf\u00fcr einsetzen, "
+   ]
+  }, 
+  {
+   "begin": "253.080", 
+   "children": [], 
+   "end": "260.760", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dass der Beitragspflicht in der gesetzlichen Krankenversicherung bei Versorgungsbez\u00fcgen nur einmal nachgekommen werden muss. "
+   ]
+  }, 
+  {
+   "begin": "260.760", 
+   "children": [], 
+   "end": "266.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Auf diese Weise wollen wir eine Doppelverbeitragung verhindern und den Menschen ein St\u00fcck mehr Gerechtigkeit zur\u00fcckgeben."
+   ]
+  }, 
+  {
+   "begin": "266.000", 
+   "children": [], 
+   "end": "267.720", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Ferner fordern wir, "
+   ]
+  }, 
+  {
+   "begin": "267.720", 
+   "children": [], 
+   "end": "273.080", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "falls es zu einer \u00dcberweisung des Antrags kommen sollte, "
+   ]
+  }, 
+  {
+   "begin": "273.080", 
+   "children": [], 
+   "end": "277.760", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "eine \u00dcberweisung an den Ausschuss f\u00fcr Arbeit und Soziales und nicht an den Gesundheitsausschuss, "
+   ]
+  }, 
+  {
+   "begin": "277.760", 
+   "children": [], 
+   "end": "281.480", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "da hier eine S\u00e4ule der Altersvorsorge direkt betroffen ist."
+   ]
+  }, 
+  {
+   "begin": "281.480", 
+   "children": [], 
+   "end": "282.360", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "282.360", 
+   "children": [], 
+   "end": "297.000", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort zu seiner ersten Rede hat der Kollege Till Mansmann von der FDP-Fraktion."
+   ]
+  }
+ ]
+}

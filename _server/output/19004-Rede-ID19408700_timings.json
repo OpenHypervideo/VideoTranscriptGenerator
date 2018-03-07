@@ -1,0 +1,864 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.280", 
+   "children": [], 
+   "end": "10.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.760", 
+   "children": [], 
+   "end": "15.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Zum Schluss einer solchen Debatte stellt sich die Frage: "
+   ]
+  }, 
+  {
+   "begin": "15.440", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Hat jemand, "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "18.160", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "der bei Siemens, "
+   ]
+  }, 
+  {
+   "begin": "18.160", 
+   "children": [], 
+   "end": "20.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "bei General Electric, "
+   ]
+  }, 
+  {
+   "begin": "20.680", 
+   "children": [], 
+   "end": "25.680", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "bei Air Berlin oder irgendwo anders arbeitet und Angst haben muss, "
+   ]
+  }, 
+  {
+   "begin": "25.680", 
+   "children": [], 
+   "end": "29.360", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "morgen seinen Arbeitsplatz zu verlieren, "
+   ]
+  }, 
+  {
+   "begin": "29.360", 
+   "children": [], 
+   "end": "33.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wirklich etwas aus einer solchen Debatte gewonnen? "
+   ]
+  }, 
+  {
+   "begin": "33.080", 
+   "children": [], 
+   "end": "34.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Da sehe ich gro\u00dfe Fragezeichen."
+   ]
+  }, 
+  {
+   "begin": "34.880", 
+   "children": [], 
+   "end": "35.960", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "35.960", 
+   "children": [], 
+   "end": "42.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wir als Politikerinnen und Politiker sollten uns angew\u00f6hnen, "
+   ]
+  }, 
+  {
+   "begin": "42.640", 
+   "children": [], 
+   "end": "46.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "in politischen Debatten nichts zu versprechen, "
+   ]
+  }, 
+  {
+   "begin": "46.400", 
+   "children": [], 
+   "end": "49.080", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "was wir schlichtweg nicht halten k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "49.080", 
+   "children": [], 
+   "end": "62.520", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Denn die Unternehmensentscheidungen werden nicht durch eine Debatte im Deutschen Bundestag oder durch eine Entscheidung der Bundesregierung umgedreht."
+   ]
+  }, 
+  {
+   "begin": "62.520", 
+   "children": [], 
+   "end": "67.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Aber es gilt sehr wohl: "
+   ]
+  }, 
+  {
+   "begin": "67.680", 
+   "children": [], 
+   "end": "73.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Das Erfolgsrezept der Bundesrepublik Deutschland ist die soziale Marktwirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "73.400", 
+   "children": [], 
+   "end": "77.680", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "und zur sozialen Marktwirtschaft geh\u00f6rt eben nicht nur, "
+   ]
+  }, 
+  {
+   "begin": "77.680", 
+   "children": [], 
+   "end": "83.880", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass Unternehmen in ihren Entscheidungen nicht durch den Staat geg\u00e4ngelt werden, "
+   ]
+  }, 
+  {
+   "begin": "83.880", 
+   "children": [], 
+   "end": "86.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "sondern dazu geh\u00f6rt genauso, "
+   ]
+  }, 
+  {
+   "begin": "86.400", 
+   "children": [], 
+   "end": "88.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass unternehmerische Entscheidungen, "
+   ]
+  }, 
+  {
+   "begin": "88.720", 
+   "children": [], 
+   "end": "90.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "besonders solche, "
+   ]
+  }, 
+  {
+   "begin": "90.200", 
+   "children": [], 
+   "end": "93.440", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die die materielle Existenz von Menschen betreffen, "
+   ]
+  }, 
+  {
+   "begin": "93.440", 
+   "children": [], 
+   "end": "98.600", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "aus dem Kontext sozialer Verantwortung heraus zu treffen sind. "
+   ]
+  }, 
+  {
+   "begin": "98.600", 
+   "children": [], 
+   "end": "100.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das gilt versch\u00e4rft dann, "
+   ]
+  }, 
+  {
+   "begin": "100.720", 
+   "children": [], 
+   "end": "103.960", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wenn es sich um Unternehmen wie Siemens handelt, "
+   ]
+  }, 
+  {
+   "begin": "103.960", 
+   "children": [], 
+   "end": "107.200", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "in die staatliche F\u00f6rderung in Millionenh\u00f6he geflossen ist, "
+   ]
+  }, 
+  {
+   "begin": "107.200", 
+   "children": [], 
+   "end": "110.000", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "staatliche F\u00f6rderung, "
+   ]
+  }, 
+  {
+   "begin": "110.000", 
+   "children": [], 
+   "end": "117.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die letztendlich die Steuergroschen flei\u00dfig arbeitender Arbeitnehmerinnen und Arbeitnehmer sind."
+   ]
+  }, 
+  {
+   "begin": "117.120", 
+   "children": [], 
+   "end": "119.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Bei den Unternehmensentscheidungen, "
+   ]
+  }, 
+  {
+   "begin": "119.600", 
+   "children": [], 
+   "end": "120.960", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die anstehen, "
+   ]
+  }, 
+  {
+   "begin": "120.960", 
+   "children": [], 
+   "end": "122.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "stellt sich in der Tat die Frage: "
+   ]
+  }, 
+  {
+   "begin": "122.600", 
+   "children": [], 
+   "end": "130.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wo bleibt das Zusammenspiel von Freiheit der Entscheidung und Wahrnehmung sozialer Verantwortung? "
+   ]
+  }, 
+  {
+   "begin": "130.720", 
+   "children": [], 
+   "end": "135.000", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen von den Unternehmensf\u00fchrungen in Deutschland zu Recht einfordern, "
+   ]
+  }, 
+  {
+   "begin": "135.000", 
+   "children": [], 
+   "end": "142.360", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "ihrer sozialen Verantwortung gegen\u00fcber ihren Arbeitnehmerinnen und Arbeitnehmern bei allen ihren unternehmerischen Entscheidungen auch wirklich gerecht zu werden."
+   ]
+  }, 
+  {
+   "begin": "142.360", 
+   "children": [], 
+   "end": "145.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das gilt insbesondere dann, "
+   ]
+  }, 
+  {
+   "begin": "145.400", 
+   "children": [], 
+   "end": "149.400", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "wenn einzelne Standorte so betroffen sind, "
+   ]
+  }, 
+  {
+   "begin": "149.400", 
+   "children": [], 
+   "end": "154.840", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass sich vielen Arbeitnehmerinnen und Arbeitnehmern in der Region vor Ort die Frage stellt: "
+   ]
+  }, 
+  {
+   "begin": "154.840", 
+   "children": [], 
+   "end": "157.880", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Gibt es \u00fcberhaupt eine Alternative? "
+   ]
+  }, 
+  {
+   "begin": "157.880", 
+   "children": [], 
+   "end": "162.480", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Diese Frage muss oftmals eher mit Nein beantwortet werden."
+   ]
+  }, 
+  {
+   "begin": "162.480", 
+   "children": [], 
+   "end": "165.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "165.320", 
+   "children": [], 
+   "end": "166.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wir erwarten, "
+   ]
+  }, 
+  {
+   "begin": "166.840", 
+   "children": [], 
+   "end": "169.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dass soziale Verantwortung so wahrgenommen wird, "
+   ]
+  }, 
+  {
+   "begin": "169.320", 
+   "children": [], 
+   "end": "174.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass von den Unternehmen selbst Vorschl\u00e4ge auf den Tisch gelegt werden, "
+   ]
+  }, 
+  {
+   "begin": "174.040", 
+   "children": [], 
+   "end": "177.360", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wie es an den betroffenen Standorten weitergehen soll, "
+   ]
+  }, 
+  {
+   "begin": "177.360", 
+   "children": [], 
+   "end": "181.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "welche Perspektiven f\u00fcr die Arbeitnehmerinnen und Arbeitnehmer er\u00f6ffnet werden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "181.760", 
+   "children": [], 
+   "end": "184.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Bei Siemens handelt es sich um ein Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "184.040", 
+   "children": [], 
+   "end": "185.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "das w\u00e4chst, "
+   ]
+  }, 
+  {
+   "begin": "185.120", 
+   "children": [], 
+   "end": "188.000", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "wo also Arbeitspl\u00e4tze aufgebaut werden. "
+   ]
+  }, 
+  {
+   "begin": "188.000", 
+   "children": [], 
+   "end": "193.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Dann wird man Arbeitnehmerinnen und Arbeitnehmern bei einem notwendigen strukturellen Umbau doch auch Alternativen anbieten und er\u00f6ffnen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "193.920", 
+   "children": [], 
+   "end": "194.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Erwartung, "
+   ]
+  }, 
+  {
+   "begin": "194.560", 
+   "children": [], 
+   "end": "196.080", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die wir an Siemens haben."
+   ]
+  }, 
+  {
+   "begin": "196.080", 
+   "children": [], 
+   "end": "198.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt in der Tat etwas, "
+   ]
+  }, 
+  {
+   "begin": "198.920", 
+   "children": [], 
+   "end": "201.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "das wir als Politik beitragen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "201.760", 
+   "children": [], 
+   "end": "205.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben schlie\u00dflich ein breites Instrumentarium, "
+   ]
+  }, 
+  {
+   "begin": "205.120", 
+   "children": [], 
+   "end": "207.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel \u00fcber die Weiterbildungs- "
+   ]
+  }, 
+  {
+   "begin": "207.400", 
+   "children": [], 
+   "end": "211.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "und Qualifizierungsangebote der Bundesagentur f\u00fcr Arbeit. "
+   ]
+  }, 
+  {
+   "begin": "211.200", 
+   "children": [], 
+   "end": "213.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Dazu stehen wir bereit. "
+   ]
+  }, 
+  {
+   "begin": "213.240", 
+   "children": [], 
+   "end": "220.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Oder im Fall von Air Berlin hatte der nordrhein-westf\u00e4lische Arbeitsminister Karl-Josef Laumann zu Recht vorgeschlagen, "
+   ]
+  }, 
+  {
+   "begin": "220.880", 
+   "children": [], 
+   "end": "224.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die Einrichtung einer Transfergesellschaft zu erw\u00e4gen, "
+   ]
+  }, 
+  {
+   "begin": "224.960", 
+   "children": [], 
+   "end": "225.600", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "eine M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "225.600", 
+   "children": [], 
+   "end": "227.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "die allerdings nicht ergriffen worden ist."
+   ]
+  }, 
+  {
+   "begin": "227.560", 
+   "children": [], 
+   "end": "231.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "231.520", 
+   "children": [], 
+   "end": "237.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "soziale Verantwortung geh\u00f6rt zur sozialen Marktwirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "237.520", 
+   "children": [], 
+   "end": "239.680", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr uns als Politiker gilt, "
+   ]
+  }, 
+  {
+   "begin": "239.680", 
+   "children": [], 
+   "end": "243.800", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere f\u00fcr die Bundesregierung und die betroffenen Landesregierungen: "
+   ]
+  }, 
+  {
+   "begin": "243.800", 
+   "children": [], 
+   "end": "244.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind bereit, "
+   ]
+  }, 
+  {
+   "begin": "244.800", 
+   "children": [], 
+   "end": "245.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "das, "
+   ]
+  }, 
+  {
+   "begin": "245.240", 
+   "children": [], 
+   "end": "252.040", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "was wir an F\u00f6rderinstrumentarien zur Weiterbildung und Qualifizierung von Arbeitnehmerinnen und Arbeitnehmern zur Verf\u00fcgung haben, "
+   ]
+  }, 
+  {
+   "begin": "252.040", 
+   "children": [], 
+   "end": "254.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "vor allem seitens der Bundesagentur f\u00fcr Arbeit, "
+   ]
+  }, 
+  {
+   "begin": "254.240", 
+   "children": [], 
+   "end": "258.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "aktiv in diesen Umstrukturierungsprozess einzubringen. "
+   ]
+  }, 
+  {
+   "begin": "258.400", 
+   "children": [], 
+   "end": "260.920", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Zur Freiheit geh\u00f6rt auch immer Verantwortung. "
+   ]
+  }, 
+  {
+   "begin": "260.920", 
+   "children": [], 
+   "end": "263.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Bundestag wollen diese Verantwortung wahrnehmen. "
+   ]
+  }, 
+  {
+   "begin": "263.400", 
+   "children": [], 
+   "end": "265.400", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Unternehmensf\u00fchrung sollte ihre Verantwortung wahrnehmen. "
+   ]
+  }, 
+  {
+   "begin": "265.400", 
+   "children": [], 
+   "end": "265.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Dann er\u00f6ffnen sich, "
+   ]
+  }, 
+  {
+   "begin": "265.600", 
+   "children": [], 
+   "end": "265.880", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "so hoffe ich, "
+   ]
+  }, 
+  {
+   "begin": "265.880", 
+   "children": [], 
+   "end": "268.520", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Arbeitnehmerinnen und Arbeitnehmer in den betroffenen Sektoren Chancen und M\u00f6glichkeiten im Sinne neuer beruflicher Perspektiven. "
+   ]
+  }, 
+  {
+   "begin": "268.520", 
+   "children": [], 
+   "end": "268.521", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Darum sollte es uns gehen."
+   ]
+  }, 
+  {
+   "begin": "268.521", 
+   "children": [], 
+   "end": "268.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "268.960", 
+   "children": [], 
+   "end": "269.240", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "269.240", 
+   "children": [], 
+   "end": "270.000", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Wei\u00df.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "270.000", 
+   "children": [], 
+   "end": "271.040", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe die Aussprache."
+   ]
+  }, 
+  {
+   "begin": "271.040", 
+   "children": [], 
+   "end": "276.080", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Interfraktionell wird \u00dcberweisung des Gesetzentwurfs auf Drucksache\u00a019/217 an den Hauptausschuss vorgeschlagen. "
+   ]
+  }, 
+  {
+   "begin": "276.080", 
+   "children": [], 
+   "end": "278.760", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Gibt es dazu anderweitige Vorschl\u00e4ge?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "278.760", 
+   "children": [], 
+   "end": "280.200", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Das ist erkennbar nicht der Fall. "
+   ]
+  }, 
+  {
+   "begin": "280.200", 
+   "children": [], 
+   "end": "282.000", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist die \u00dcberweisung so beschlossen."
+   ]
+  }
+ ]
+}

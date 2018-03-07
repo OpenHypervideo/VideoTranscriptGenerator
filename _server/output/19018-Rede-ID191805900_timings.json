@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "11.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "children": [], 
+   "end": "13.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "children": [], 
+   "end": "17.120", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in den letzten Tagen viel \u00fcber Grenzwerte geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "17.120", 
+   "children": [], 
+   "end": "23.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die gestrigen Aussagen des Kollegen Hofreiter von den Gr\u00fcnen will ich an dieser Stelle nicht unkommentiert lassen. "
+   ]
+  }, 
+  {
+   "begin": "23.200", 
+   "children": [], 
+   "end": "26.600", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Deutsche Autohersteller h\u00e4tten gelogen und betrogen, "
+   ]
+  }, 
+  {
+   "begin": "26.600", 
+   "children": [], 
+   "end": "31.240", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "und Grenzwerte seien um mehrere 100\u00a0Prozent \u00fcberschritten. "
+   ]
+  }, 
+  {
+   "begin": "31.240", 
+   "children": [], 
+   "end": "35.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Da Herr Hofreiter und einige andere offensichtlich Probleme haben, "
+   ]
+  }, 
+  {
+   "begin": "35.280", 
+   "children": [], 
+   "end": "38.640", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Informationen aus Zeitungen inhaltlich korrekt zu verarbeiten, "
+   ]
+  }, 
+  {
+   "begin": "38.640", 
+   "children": [], 
+   "end": "40.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "will ich Ihnen jetzt einmal kurz erkl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "40.160", 
+   "children": [], 
+   "end": "45.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "wie Fahrzeuge zertifiziert werden."
+   ]
+  }, 
+  {
+   "begin": "45.480", 
+   "children": [], 
+   "end": "47.400", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt eine Vorschrift, "
+   ]
+  }, 
+  {
+   "begin": "47.400", 
+   "children": [], 
+   "end": "48.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "in der steht, "
+   ]
+  }, 
+  {
+   "begin": "48.760", 
+   "children": [], 
+   "end": "53.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "wie viele Schadstoffe pro Kilometer emittiert werden d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "53.360", 
+   "children": [], 
+   "end": "55.040", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig ist genau definiert, "
+   ]
+  }, 
+  {
+   "begin": "55.040", 
+   "children": [], 
+   "end": "56.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wie das zu messen ist. "
+   ]
+  }, 
+  {
+   "begin": "56.760", 
+   "children": [], 
+   "end": "58.160", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Sind diese Grenzwerte erreicht, "
+   ]
+  }, 
+  {
+   "begin": "58.160", 
+   "children": [], 
+   "end": "59.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "ist die Vorschrift erf\u00fcllt, "
+   ]
+  }, 
+  {
+   "begin": "59.680", 
+   "children": [], 
+   "end": "62.400", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "und die Typgenehmigung wird durch das KBA erteilt. "
+   ]
+  }, 
+  {
+   "begin": "62.400", 
+   "children": [], 
+   "end": "63.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Jedes Auto, "
+   ]
+  }, 
+  {
+   "begin": "63.440", 
+   "children": [], 
+   "end": "65.320", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "das eine Typgenehmigung erhalten hat, "
+   ]
+  }, 
+  {
+   "begin": "65.320", 
+   "children": [], 
+   "end": "67.960", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "ist gesetzeskonform zugelassen. "
+   ]
+  }, 
+  {
+   "begin": "67.960", 
+   "children": [], 
+   "end": "68.840", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Dass es einen Hersteller gegeben hat, "
+   ]
+  }, 
+  {
+   "begin": "68.840", 
+   "children": [], 
+   "end": "70.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "der dort unlauter getrickst hat, "
+   ]
+  }, 
+  {
+   "begin": "70.120", 
+   "children": [], 
+   "end": "71.400", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "ist bekannt. "
+   ]
+  }, 
+  {
+   "begin": "71.400", 
+   "children": [], 
+   "end": "75.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr wurde die Typgenehmigung in einigen Einzelf\u00e4llen entzogen bzw. "
+   ]
+  }, 
+  {
+   "begin": "75.640", 
+   "children": [], 
+   "end": "79.280", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wurden entsprechende Ma\u00dfnahmen vorgeschrieben."
+   ]
+  }, 
+  {
+   "begin": "79.280", 
+   "children": [], 
+   "end": "84.200", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Gestern hat Herr Hofreiter die deutsche Autoindustrie pauschal verunglimpft."
+   ]
+  }, 
+  {
+   "begin": "84.200", 
+   "children": [], 
+   "end": "92.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die deutsche Autoindustrie erzeugt einen Umsatz von \u00fcber 400\u00a0Milliarden Euro pro Jahr. "
+   ]
+  }, 
+  {
+   "begin": "92.400", 
+   "children": [], 
+   "end": "97.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Die vielen Tausend Mitarbeiter in der Autoindustrie sind das R\u00fcckgrat der deutschen Wirtschaft."
+   ]
+  }, 
+  {
+   "begin": "97.760", 
+   "children": [], 
+   "end": "105.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Jahrelang haben Zehntausende Ingenieure in den Autokonzernen und Zulieferunternehmen daran gearbeitet, "
+   ]
+  }, 
+  {
+   "begin": "105.760", 
+   "children": [], 
+   "end": "108.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die gesetzlichen Vorgaben zu erf\u00fcllen. "
+   ]
+  }, 
+  {
+   "begin": "108.040", 
+   "children": [], 
+   "end": "110.480", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Fraktionschef hat gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "110.480", 
+   "children": [], 
+   "end": "113.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "wie sehr Ihre Partei diese Menschen verachtet,"
+   ]
+  }, 
+  {
+   "begin": "113.240", 
+   "children": [], 
+   "end": "125.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "indem er erstens ihnen pauschal Betrug vorwirft und zweitens ihre Arbeitspl\u00e4tze mit unhaltbaren Argumenten vernichtet; "
+   ]
+  }, 
+  {
+   "begin": "125.200", 
+   "children": [], 
+   "end": "125.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "so ist es."
+   ]
+  }, 
+  {
+   "begin": "125.400", 
+   "children": [], 
+   "end": "133.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die sogenannten Messungen der Umwelthilfe fanden unter v\u00f6llig anderen Testbedingungen als unter den gesetzlich vorgeschriebenen statt. "
+   ]
+  }, 
+  {
+   "begin": "133.800", 
+   "children": [], 
+   "end": "135.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Ich wiederhole: "
+   ]
+  }, 
+  {
+   "begin": "135.200", 
+   "children": [], 
+   "end": "139.520", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Zu einer Messung geh\u00f6rt ein Messverfahren mit einem definierten Grenzwert. "
+   ]
+  }, 
+  {
+   "begin": "139.520", 
+   "children": [], 
+   "end": "141.760", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wer ein anderes Messverfahren w\u00e4hlt, "
+   ]
+  }, 
+  {
+   "begin": "141.760", 
+   "children": [], 
+   "end": "144.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "kommt zu einem anderen Ergebnis, "
+   ]
+  }, 
+  {
+   "begin": "144.200", 
+   "children": [], 
+   "end": "145.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "ganz einfach. "
+   ]
+  }, 
+  {
+   "begin": "145.760", 
+   "children": [], 
+   "end": "148.760", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wer ist denn eigentlich diese Deutsche Umwelthilfe, "
+   ]
+  }, 
+  {
+   "begin": "148.760", 
+   "children": [], 
+   "end": "152.200", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die die deutsche Autoindustrie so massiv diffamiert?"
+   ]
+  }, 
+  {
+   "begin": "152.200", 
+   "children": [], 
+   "end": "153.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wei\u00df dieses Parlament, "
+   ]
+  }, 
+  {
+   "begin": "153.920", 
+   "children": [], 
+   "end": "161.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass einer der Hauptsponsoren der Deutschen Umwelthilfe der japanische Autohersteller Toyota ist?"
+   ]
+  }, 
+  {
+   "begin": "161.600", 
+   "children": [], 
+   "end": "172.120", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Auch die SPD fordert von der Autoindustrie die \u00dcbernahme der Kosten der Nachr\u00fcstung der Fahrzeuge mit \u00e4lteren Abgasnormen."
+   ]
+  }, 
+  {
+   "begin": "172.120", 
+   "children": [], 
+   "end": "177.680", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Seit wann muss ein Produkt r\u00fcckwirkend ge\u00e4nderte Vorschriften erf\u00fcllen? "
+   ]
+  }, 
+  {
+   "begin": "177.680", 
+   "children": [], 
+   "end": "179.360", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wo ist denn da die Rechtssicherheit?"
+   ]
+  }, 
+  {
+   "begin": "179.360", 
+   "children": [], 
+   "end": "188.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcbrigens fordern alle Altparteien Nachr\u00fcstungen nur von den deutschen Herstellern. "
+   ]
+  }, 
+  {
+   "begin": "188.280", 
+   "children": [], 
+   "end": "191.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Ausl\u00e4ndische Hersteller sollen nicht belangt werden."
+   ]
+  }, 
+  {
+   "begin": "191.600", 
+   "children": [], 
+   "end": "197.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Fr\u00fcher hat die SPD die Arbeitnehmerinteressen in diesem Land vertreten. "
+   ]
+  }, 
+  {
+   "begin": "197.080", 
+   "children": [], 
+   "end": "199.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wo ist eigentlich die Arbeitnehmervertretung der SPD, "
+   ]
+  }, 
+  {
+   "begin": "199.960", 
+   "children": [], 
+   "end": "206.160", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die Ihnen Ihre Arbeitsplatzvernichtungsstrategie ausredet?"
+   ]
+  }, 
+  {
+   "begin": "206.160", 
+   "children": [], 
+   "end": "207.400", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "In dem Brief von Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "207.400", 
+   "children": [], 
+   "end": "208.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Frau Bundesministerin, "
+   ]
+  }, 
+  {
+   "begin": "208.680", 
+   "children": [], 
+   "end": "213.920", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und zwei Unionsministern an den zust\u00e4ndigen EU-Kommissar lese ich: "
+   ]
+  }, 
+  {
+   "begin": "213.920", 
+   "children": [], 
+   "end": "223.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Zusammen mit den L\u00e4ndern und Kommunen denken wir \u00fcber kostenlosen \u00d6PNV als Mittel zur Senkung der Anzahl der Privat-Pkws nach.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "223.200", 
+   "children": [], 
+   "end": "225.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Hallo! "
+   ]
+  }, 
+  {
+   "begin": "225.120", 
+   "children": [], 
+   "end": "230.160", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Die CDU/CSU unterst\u00fctzt die Senkung der Anzahl der Privat-Pkws?! "
+   ]
+  }, 
+  {
+   "begin": "230.160", 
+   "children": [], 
+   "end": "231.480", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Sehr interessant! "
+   ]
+  }, 
+  {
+   "begin": "231.480", 
+   "children": [], 
+   "end": "233.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wissen Ihre Noch-W\u00e4hler eigentlich, "
+   ]
+  }, 
+  {
+   "begin": "233.160", 
+   "children": [], 
+   "end": "235.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie Privat-Pkws abschaffen wollen?"
+   ]
+  }, 
+  {
+   "begin": "235.560", 
+   "children": [], 
+   "end": "242.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die Regierungsparteien beschlie\u00dfen das Ende einer funktionierenden Technologie, "
+   ]
+  }, 
+  {
+   "begin": "242.720", 
+   "children": [], 
+   "end": "245.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ohne eine Alternative zu haben."
+   ]
+  }, 
+  {
+   "begin": "245.480", 
+   "children": [], 
+   "end": "246.160", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Das kenne ich irgendwoher; "
+   ]
+  }, 
+  {
+   "begin": "246.160", 
+   "children": [], 
+   "end": "249.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dar\u00fcber habe ich neulich schon einmal geredet."
+   ]
+  }, 
+  {
+   "begin": "249.280", 
+   "children": [], 
+   "end": "254.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Sie zerst\u00f6ren die \u00f6kologisch und wirtschaftlich sinnvollste Antriebsform f\u00fcr Pkw, "
+   ]
+  }, 
+  {
+   "begin": "254.920", 
+   "children": [], 
+   "end": "255.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "den Dieselmotor, "
+   ]
+  }, 
+  {
+   "begin": "255.960", 
+   "children": [], 
+   "end": "258.880", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "durch utopische Abgasvorschriften. "
+   ]
+  }, 
+  {
+   "begin": "258.880", 
+   "children": [], 
+   "end": "262.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Das trifft vorwiegend die deutschen Autohersteller, "
+   ]
+  }, 
+  {
+   "begin": "262.640", 
+   "children": [], 
+   "end": "265.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "da diese den Dieselmotor brauchen, "
+   ]
+  }, 
+  {
+   "begin": "265.800", 
+   "children": [], 
+   "end": "269.320", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "um die CO 2 -Vorgaben der Zukunft zu erf\u00fcllen."
+   ]
+  }, 
+  {
+   "begin": "269.320", 
+   "children": [], 
+   "end": "274.120", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Im internationalen Vergleich haben wir saubere Luft; "
+   ]
+  }, 
+  {
+   "begin": "274.120", 
+   "children": [], 
+   "end": "276.400", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "alle Messwerte best\u00e4tigen das. "
+   ]
+  }, 
+  {
+   "begin": "276.400", 
+   "children": [], 
+   "end": "280.560", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen gar keine Fahrverbote zur Luftreinhaltung, "
+   ]
+  }, 
+  {
+   "begin": "280.560", 
+   "children": [], 
+   "end": "283.680", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "h\u00f6chstens zur Schikane."
+   ]
+  }, 
+  {
+   "begin": "283.680", 
+   "children": [], 
+   "end": "284.840", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "284.840", 
+   "children": [], 
+   "end": "285.680", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "ich freue mich, "
+   ]
+  }, 
+  {
+   "begin": "285.680", 
+   "children": [], 
+   "end": "289.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass auch andere Parteien in diesem Haus mittlerweile daran denken, "
+   ]
+  }, 
+  {
+   "begin": "289.040", 
+   "children": [], 
+   "end": "290.880", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Fahrverbote wissenschaftlich zu hinterfragen, "
+   ]
+  }, 
+  {
+   "begin": "290.880", 
+   "children": [], 
+   "end": "292.920", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "und diese Initiative der AfD \u00fcbernehmen. "
+   ]
+  }, 
+  {
+   "begin": "292.920", 
+   "children": [], 
+   "end": "293.800", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank!"
+   ]
+  }, 
+  {
+   "begin": "293.800", 
+   "children": [], 
+   "end": "297.600", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen eine Politik, "
+   ]
+  }, 
+  {
+   "begin": "297.600", 
+   "children": [], 
+   "end": "304.320", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "die einen Interessenausgleich zwischen Umweltinteressen und anderen legitimen Interessen unserer Gesellschaft herstellt."
+   ]
+  }, 
+  {
+   "begin": "304.320", 
+   "children": [], 
+   "end": "305.240", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "305.240", 
+   "children": [], 
+   "end": "305.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Danke, "
+   ]
+  }, 
+  {
+   "begin": "305.520", 
+   "children": [], 
+   "end": "309.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Dirk Spaniel.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "309.760", 
+   "children": [], 
+   "end": "312.760", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin: "
+   ]
+  }, 
+  {
+   "begin": "312.760", 
+   "children": [], 
+   "end": "319.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Daniela Ludwig f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

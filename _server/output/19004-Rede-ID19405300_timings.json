@@ -1,0 +1,684 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.320", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.320", 
+   "children": [], 
+   "end": "11.320", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "children": [], 
+   "end": "14.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Besucher auf den Trib\u00fcnen! "
+   ]
+  }, 
+  {
+   "begin": "14.960", 
+   "children": [], 
+   "end": "18.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Immer wenn wir \u00fcber Wirtschaft reden, "
+   ]
+  }, 
+  {
+   "begin": "18.120", 
+   "children": [], 
+   "end": "21.240", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "will uns die Bundesregierung weismachen, "
+   ]
+  }, 
+  {
+   "begin": "21.240", 
+   "children": [], 
+   "end": "22.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "alles sei gut:"
+   ]
+  }, 
+  {
+   "begin": "22.680", 
+   "children": [], 
+   "end": "24.920", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "geringe Arbeitslosigkeit, "
+   ]
+  }, 
+  {
+   "begin": "24.920", 
+   "children": [], 
+   "end": "27.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "immer weiter wachsende Wachstumszahlen, "
+   ]
+  }, 
+  {
+   "begin": "27.000", 
+   "children": [], 
+   "end": "28.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Exportrekorde, "
+   ]
+  }, 
+  {
+   "begin": "28.320", 
+   "children": [], 
+   "end": "32.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und das auch noch bei Haushalts\u00fcbersch\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "32.800", 
+   "children": [], 
+   "end": "36.440", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das aber ist nur die halbe Wahrheit; "
+   ]
+  }, 
+  {
+   "begin": "36.440", 
+   "children": [], 
+   "end": "44.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "denn das Mantra\u00ad der schwarzen Null hat zu einem massiven Abbau \u00f6ffentlicher Investitionen gef\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "44.120", 
+   "children": [], 
+   "end": "52.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und die Niedrigzinspolitik der Europ\u00e4ischen Zentralbank bedeutet erhebliche Verm\u00f6gensabschmelzungen. "
+   ]
+  }, 
+  {
+   "begin": "52.080", 
+   "children": [], 
+   "end": "57.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "All dies bekommen insbesondere kleine und mittlere Unternehmen in Deutschland zu sp\u00fcren. "
+   ]
+  }, 
+  {
+   "begin": "57.840", 
+   "children": [], 
+   "end": "61.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Ein steter R\u00fcckgang der Unternehmensgr\u00fcndungen ist die Folge. "
+   ]
+  }, 
+  {
+   "begin": "61.960", 
+   "children": [], 
+   "end": "71.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Bei j\u00e4hrlich immer noch \u00fcber 20\u00a0000\u00a0Unternehmensinsolvenzen allein im Mittelstand bleibt das Pleiterisiko nach wie vor hoch. "
+   ]
+  }, 
+  {
+   "begin": "71.200", 
+   "children": [], 
+   "end": "78.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Aber gerade die kleinen und mittleren Unternehmen schaffen die Arbeitspl\u00e4tze in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "78.120", 
+   "children": [], 
+   "end": "81.400", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "So sind es wieder einmal die deutschen Arbeitnehmer, "
+   ]
+  }, 
+  {
+   "begin": "81.400", 
+   "children": [], 
+   "end": "83.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die in die R\u00f6hre schauen."
+   ]
+  }, 
+  {
+   "begin": "83.720", 
+   "children": [], 
+   "end": "91.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Richtig bleibt daher, "
+   ]
+  }, 
+  {
+   "begin": "91.000", 
+   "children": [], 
+   "end": "93.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "gerade diese Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "93.040", 
+   "children": [], 
+   "end": "98.520", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die auch und insbesondere in den strukturschwachen und l\u00e4ndlichen Gebieten Arbeitspl\u00e4tze schaffen, "
+   ]
+  }, 
+  {
+   "begin": "98.520", 
+   "children": [], 
+   "end": "101.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "zu f\u00f6rdern und zu unterst\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "101.520", 
+   "children": [], 
+   "end": "105.200", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Das dem European Recovery Program, "
+   ]
+  }, 
+  {
+   "begin": "105.200", 
+   "children": [], 
+   "end": "108.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "das auch als Marshallplan bekannt ist, "
+   ]
+  }, 
+  {
+   "begin": "108.120", 
+   "children": [], 
+   "end": "113.560", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "entstammende ERP-Sonderverm\u00f6gen ist daher von gr\u00f6\u00dferer Bedeutung als je zuvor; "
+   ]
+  }, 
+  {
+   "begin": "113.560", 
+   "children": [], 
+   "end": "119.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "denn das ERP-Sonderverm\u00f6gen muss f\u00fcr die gravierenden Fehler der Haushalts- "
+   ]
+  }, 
+  {
+   "begin": "119.480", 
+   "children": [], 
+   "end": "125.040", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "und W\u00e4hrungspolitik der Bundesregierung und der EZB in die Bresche springen."
+   ]
+  }, 
+  {
+   "begin": "125.040", 
+   "children": [], 
+   "end": "133.360", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung will f\u00fcr das Jahr\u00a02018 aus dem ERP-Sonderverm\u00f6gen knapp 790\u00a0Millionen Euro bereitstellen. "
+   ]
+  }, 
+  {
+   "begin": "133.360", 
+   "children": [], 
+   "end": "135.960", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das klingt erst einmal ganz gut. "
+   ]
+  }, 
+  {
+   "begin": "135.960", 
+   "children": [], 
+   "end": "140.520", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man aber einen genaueren Blick darauf wirft, "
+   ]
+  }, 
+  {
+   "begin": "140.520", 
+   "children": [], 
+   "end": "141.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "sieht man, "
+   ]
+  }, 
+  {
+   "begin": "141.000", 
+   "children": [], 
+   "end": "146.480", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass die Investitionsfinanzierungen um mehr als 11\u00a0Millionen Euro abgeschmolzen werden. "
+   ]
+  }, 
+  {
+   "begin": "146.480", 
+   "children": [], 
+   "end": "151.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das geht haupts\u00e4chlich zulasten der Finanzierungshilfen f\u00fcr Unternehmensgr\u00fcndungen. "
+   ]
+  }, 
+  {
+   "begin": "151.960", 
+   "children": [], 
+   "end": "155.040", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wo flie\u00dfen diese Mittel also hin?"
+   ]
+  }, 
+  {
+   "begin": "155.040", 
+   "children": [], 
+   "end": "160.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Nach Ansicht der Bundesregierung soll zum 1.\u00a0Januar eine weitere Gesellschaft\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "160.920", 
+   "children": [], 
+   "end": "164.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Herr Dr.\u00a0Pfeiffer hat schon darauf hingewiesen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "164.720", 
+   "children": [], 
+   "end": "166.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "eine KfW-Beteiligungstochter, "
+   ]
+  }, 
+  {
+   "begin": "166.560", 
+   "children": [], 
+   "end": "168.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "gegr\u00fcndet werden. "
+   ]
+  }, 
+  {
+   "begin": "168.840", 
+   "children": [], 
+   "end": "170.680", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die schon bestehenden Tochtergesellschaften, "
+   ]
+  }, 
+  {
+   "begin": "170.680", 
+   "children": [], 
+   "end": "173.040", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "beispielsweise die Deutsche Investitions- "
+   ]
+  }, 
+  {
+   "begin": "173.040", 
+   "children": [], 
+   "end": "174.880", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "und Entwicklungsgesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "174.880", 
+   "children": [], 
+   "end": "178.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die KfW IPEX-Bank GmbH und die Finanzierungs- "
+   ]
+  }, 
+  {
+   "begin": "178.920", 
+   "children": [], 
+   "end": "181.200", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und Beratungsgesellschaft mbH, "
+   ]
+  }, 
+  {
+   "begin": "181.200", 
+   "children": [], 
+   "end": "185.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "reichen aus Sicht der Bundesregierung offensichtlich nicht aus. "
+   ]
+  }, 
+  {
+   "begin": "185.120", 
+   "children": [], 
+   "end": "188.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Dabei k\u00f6nnte der postulierte Zweck der neuen Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "188.520", 
+   "children": [], 
+   "end": "192.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich das Angebot an Wagniskapital, "
+   ]
+  }, 
+  {
+   "begin": "192.640", 
+   "children": [], 
+   "end": "193.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Venture Capital, "
+   ]
+  }, 
+  {
+   "begin": "193.920", 
+   "children": [], 
+   "end": "195.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr innovative, "
+   ]
+  }, 
+  {
+   "begin": "195.160", 
+   "children": [], 
+   "end": "198.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "technologieorientierte Unternehmen zu verbessern, "
+   ]
+  }, 
+  {
+   "begin": "198.640", 
+   "children": [], 
+   "end": "205.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "mit Sicherheit auch innerhalb der bestehenden KfW-Strukturen erreicht werden. "
+   ]
+  }, 
+  {
+   "begin": "205.560", 
+   "children": [], 
+   "end": "206.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Der Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "206.240", 
+   "children": [], 
+   "end": "209.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass hier weitere Versorgungsposten geschaffen werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "209.320", 
+   "children": [], 
+   "end": "211.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dr\u00e4ngt sich schlichtweg auf."
+   ]
+  }, 
+  {
+   "begin": "211.640", 
+   "children": [], 
+   "end": "221.640", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Eine neue KfW-Tochter bedeutet wieder mehr B\u00fcrokratie, "
+   ]
+  }, 
+  {
+   "begin": "221.640", 
+   "children": [], 
+   "end": "224.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und die Bewilligungsverfahren werden l\u00e4nger dauern. "
+   ]
+  }, 
+  {
+   "begin": "224.240", 
+   "children": [], 
+   "end": "231.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Auf diese Weise ist den Unternehmensgr\u00fcndern und den kreativen K\u00f6pfen in Deutschland mit Sicherheit nicht geholfen. "
+   ]
+  }, 
+  {
+   "begin": "231.240", 
+   "children": [], 
+   "end": "232.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf an Otto von Bismarck erinnern, "
+   ]
+  }, 
+  {
+   "begin": "232.880", 
+   "children": [], 
+   "end": "233.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "der sagte: "
+   ]
+  }, 
+  {
+   "begin": "233.840", 
+   "children": [], 
+   "end": "235.200", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Die Demokratie ist es, "
+   ]
+  }, 
+  {
+   "begin": "235.200", 
+   "children": [], 
+   "end": "237.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "an der wir alle kranken."
+   ]
+  }, 
+  {
+   "begin": "237.160", 
+   "children": [], 
+   "end": "239.960", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Sparen Sie das Geld f\u00fcr diese Gesellschaft! "
+   ]
+  }, 
+  {
+   "begin": "239.960", 
+   "children": [], 
+   "end": "247.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen damit eine Reihe von Kleinunternehmen mit F\u00f6rdermitteln ausstatten und Anschubfinanzierungen f\u00fcr Start-ups leisten. "
+   ]
+  }, 
+  {
+   "begin": "247.120", 
+   "children": [], 
+   "end": "249.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Dann haben Sie uns auf Ihrer Seite."
+   ]
+  }, 
+  {
+   "begin": "249.680", 
+   "children": [], 
+   "end": "251.600", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden der \u00dcberweisung zustimmen."
+   ]
+  }, 
+  {
+   "begin": "251.600", 
+   "children": [], 
+   "end": "252.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "252.640", 
+   "children": [], 
+   "end": "254.160", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "254.160", 
+   "children": [], 
+   "end": "261.000", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ebenfalls zur ersten Rede darf ich nun dem Kollegen Reinhard Houben von der FDP-Fraktion das Wort erteilen."
+   ]
+  }
+ ]
+}

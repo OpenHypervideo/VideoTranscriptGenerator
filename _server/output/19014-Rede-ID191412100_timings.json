@@ -1,0 +1,984 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.360", 
+   "children": [], 
+   "end": "8.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "children": [], 
+   "end": "10.600", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.600", 
+   "children": [], 
+   "end": "11.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "children": [], 
+   "end": "23.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die Entscheidung des Amtsgerichtes Gie\u00dfen vom 24.\u00a0November letzten Jahres in der Angelegenheit der \u00c4rztin Kristina H\u00e4nel hat einen Paragrafen ins Licht der \u00d6ffentlichkeit ger\u00fcckt, "
+   ]
+  }, 
+  {
+   "begin": "23.480", 
+   "children": [], 
+   "end": "27.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "der in der Vergangenheit ein eher unscheinbares Dasein gefristet hat: "
+   ]
+  }, 
+  {
+   "begin": "27.920", 
+   "children": [], 
+   "end": "31.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "\u00a7\u00a0219a Strafgesetzbuch."
+   ]
+  }, 
+  {
+   "begin": "31.280", 
+   "children": [], 
+   "end": "34.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Auch in der Vergangenheit gab es F\u00e4lle, "
+   ]
+  }, 
+  {
+   "begin": "34.000", 
+   "children": [], 
+   "end": "37.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "in denen \u00c4rzte gegen Strafbefehle keinen Einspruch eingelegt haben, "
+   ]
+  }, 
+  {
+   "begin": "37.760", 
+   "children": [], 
+   "end": "38.440", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "gab es F\u00e4lle, "
+   ]
+  }, 
+  {
+   "begin": "38.440", 
+   "children": [], 
+   "end": "42.200", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "in denen \u00c4rzte eine Verfahrensbeendigung durch Einstellung unter Auflagen akzeptiert haben. "
+   ]
+  }, 
+  {
+   "begin": "42.200", 
+   "children": [], 
+   "end": "42.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Aber hier, "
+   ]
+  }, 
+  {
+   "begin": "42.800", 
+   "children": [], 
+   "end": "43.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "in diesem Fall, "
+   ]
+  }, 
+  {
+   "begin": "43.320", 
+   "children": [], 
+   "end": "45.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "kam es zu einer Anklageerhebung, "
+   ]
+  }, 
+  {
+   "begin": "45.600", 
+   "children": [], 
+   "end": "49.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "zur Er\u00f6ffnung eines Hauptverfahrens und zu einer Verurteilung. "
+   ]
+  }, 
+  {
+   "begin": "49.200", 
+   "children": [], 
+   "end": "56.440", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Urteil hat eine breite Diskussion \u00fcber die Zeitgem\u00e4\u00dfheit des \u00a7\u00a0219a Strafgesetzbuch ausgel\u00f6st."
+   ]
+  }, 
+  {
+   "begin": "56.440", 
+   "children": [], 
+   "end": "60.440", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Auf der einen Seite wird vorgetragen, "
+   ]
+  }, 
+  {
+   "begin": "60.440", 
+   "children": [], 
+   "end": "62.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass es zeitgem\u00e4\u00df ist, "
+   ]
+  }, 
+  {
+   "begin": "62.320", 
+   "children": [], 
+   "end": "65.760", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass sich Menschen einfach breiter informieren wollen, "
+   ]
+  }, 
+  {
+   "begin": "65.760", 
+   "children": [], 
+   "end": "66.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass sich junge Frauen, "
+   ]
+  }, 
+  {
+   "begin": "66.920", 
+   "children": [], 
+   "end": "68.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die ungewollt schwanger geworden sind, "
+   ]
+  }, 
+  {
+   "begin": "68.600", 
+   "children": [], 
+   "end": "70.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber einen Schwangerschaftsabbruch Gedanken machen, "
+   ]
+  }, 
+  {
+   "begin": "70.600", 
+   "children": [], 
+   "end": "73.000", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "sich dazu vielleicht schon entschlossen haben. "
+   ]
+  }, 
+  {
+   "begin": "73.000", 
+   "children": [], 
+   "end": "73.560", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Das Erste, "
+   ]
+  }, 
+  {
+   "begin": "73.560", 
+   "children": [], 
+   "end": "74.320", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "was sie tun, "
+   ]
+  }, 
+  {
+   "begin": "74.320", 
+   "children": [], 
+   "end": "75.960", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "ist heutzutage etwas ganz Normales: "
+   ]
+  }, 
+  {
+   "begin": "75.960", 
+   "children": [], 
+   "end": "78.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Sie informieren sich im Internet, "
+   ]
+  }, 
+  {
+   "begin": "78.040", 
+   "children": [], 
+   "end": "82.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "suchen die Seiten von \u00c4rzten und Einrichtungen auf und lesen dort nach. "
+   ]
+  }, 
+  {
+   "begin": "82.800", 
+   "children": [], 
+   "end": "85.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Warum soll eine solche sachliche Information nicht zul\u00e4ssig sein?"
+   ]
+  }, 
+  {
+   "begin": "85.120", 
+   "children": [], 
+   "end": "86.800", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Auf der anderen Seite soll, "
+   ]
+  }, 
+  {
+   "begin": "86.800", 
+   "children": [], 
+   "end": "87.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wie wir geh\u00f6rt haben, "
+   ]
+  }, 
+  {
+   "begin": "87.760", 
+   "children": [], 
+   "end": "91.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "\u00a7\u00a0219a Strafgesetzbuch erhalten bleiben, "
+   ]
+  }, 
+  {
+   "begin": "91.360", 
+   "children": [], 
+   "end": "94.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "weil ein Schwangerschaftsabbruch keine \u00e4rztliche Leistung wie eine andere ist. "
+   ]
+  }, 
+  {
+   "begin": "94.840", 
+   "children": [], 
+   "end": "96.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Es ist keine Heilbehandlung, "
+   ]
+  }, 
+  {
+   "begin": "96.280", 
+   "children": [], 
+   "end": "98.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "sondern er endet mit dem krassesten Eingriff, "
+   ]
+  }, 
+  {
+   "begin": "98.560", 
+   "children": [], 
+   "end": "99.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "der denkbar ist: "
+   ]
+  }, 
+  {
+   "begin": "99.560", 
+   "children": [], 
+   "end": "101.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Ende werdenden Lebens. "
+   ]
+  }, 
+  {
+   "begin": "101.840", 
+   "children": [], 
+   "end": "106.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen muss man sich vielleicht auch diesen Gedanken vor Augen f\u00fchren: "
+   ]
+  }, 
+  {
+   "begin": "106.560", 
+   "children": [], 
+   "end": "109.200", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Zu dem Schutzkonzept geh\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "109.200", 
+   "children": [], 
+   "end": "113.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass die Beratung \u00fcber einen Schwangerschaftsabbruch reglementiert sein soll, "
+   ]
+  }, 
+  {
+   "begin": "113.240", 
+   "children": [], 
+   "end": "117.160", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass es eben eine Sache anerkannter Beratungsstellen bleiben soll, "
+   ]
+  }, 
+  {
+   "begin": "117.160", 
+   "children": [], 
+   "end": "118.560", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dar\u00fcber zu informieren, "
+   ]
+  }, 
+  {
+   "begin": "118.560", 
+   "children": [], 
+   "end": "122.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "welche Hilfsangebote und Behandlungen es gibt."
+   ]
+  }, 
+  {
+   "begin": "122.800", 
+   "children": [], 
+   "end": "126.600", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Weil es so eine gro\u00dfe Spannbreite von ernstzunehmenden Ansichten gibt, "
+   ]
+  }, 
+  {
+   "begin": "126.600", 
+   "children": [], 
+   "end": "132.160", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "hat die FDP-Fraktion am Montag dieser Woche einen Fachkongress mit vier Experten durchgef\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "132.160", 
+   "children": [], 
+   "end": "134.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die die ganze Bandbreite abgedeckt haben. "
+   ]
+  }, 
+  {
+   "begin": "134.600", 
+   "children": [], 
+   "end": "141.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "An diesem Kongress haben 90\u00a0Abgeordnete aus allen Fraktionen des Deutschen Bundestages teilgenommen. "
+   ]
+  }, 
+  {
+   "begin": "141.440", 
+   "children": [], 
+   "end": "143.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Diskussion dort war sehr sachlich, "
+   ]
+  }, 
+  {
+   "begin": "143.880", 
+   "children": [], 
+   "end": "145.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "sehr konzentriert, "
+   ]
+  }, 
+  {
+   "begin": "145.160", 
+   "children": [], 
+   "end": "147.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "sehr differenziert. "
+   ]
+  }, 
+  {
+   "begin": "147.520", 
+   "children": [], 
+   "end": "148.640", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ich hatte das Gef\u00fchl, "
+   ]
+  }, 
+  {
+   "begin": "148.640", 
+   "children": [], 
+   "end": "152.880", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass dieses Haus dieses Thema sehr ernst nimmt."
+   ]
+  }, 
+  {
+   "begin": "152.880", 
+   "children": [], 
+   "end": "155.600", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Insofern ist es angemessen, "
+   ]
+  }, 
+  {
+   "begin": "155.600", 
+   "children": [], 
+   "end": "157.040", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns mit diesem schwierigen, "
+   ]
+  }, 
+  {
+   "begin": "157.040", 
+   "children": [], 
+   "end": "159.960", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "ernsten sittlichen Thema auch ernsthaft befassen, "
+   ]
+  }, 
+  {
+   "begin": "159.960", 
+   "children": [], 
+   "end": "162.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns noch einmal vor Augen f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "162.240", 
+   "children": [], 
+   "end": "167.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass das Schutzkonzept f\u00fcr werdendes Leben eine ganz komplizierte Struktur innehat, "
+   ]
+  }, 
+  {
+   "begin": "167.680", 
+   "children": [], 
+   "end": "170.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die eine komplizierte Statik mit einem Indikationsmodell umfasst, "
+   ]
+  }, 
+  {
+   "begin": "170.840", 
+   "children": [], 
+   "end": "172.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "verschr\u00e4nkt mit einem Fristenmodell. "
+   ]
+  }, 
+  {
+   "begin": "172.400", 
+   "children": [], 
+   "end": "176.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt eine Beratungsl\u00f6sung, "
+   ]
+  }, 
+  {
+   "begin": "176.280", 
+   "children": [], 
+   "end": "176.880", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "die vorsieht, "
+   ]
+  }, 
+  {
+   "begin": "176.880", 
+   "children": [], 
+   "end": "181.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass die Beratung im Gesetz genau beschrieben ist und eben nicht von jedermann durchgef\u00fchrt werden kann, "
+   ]
+  }, 
+  {
+   "begin": "181.840", 
+   "children": [], 
+   "end": "183.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "vor allem nicht von denen, "
+   ]
+  }, 
+  {
+   "begin": "183.480", 
+   "children": [], 
+   "end": "185.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die selber Eingriffe vornehmen."
+   ]
+  }, 
+  {
+   "begin": "185.800", 
+   "children": [], 
+   "end": "187.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Nun kann man sagen: "
+   ]
+  }, 
+  {
+   "begin": "187.080", 
+   "children": [], 
+   "end": "188.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Die heutigen Zeiten sind anders. "
+   ]
+  }, 
+  {
+   "begin": "188.840", 
+   "children": [], 
+   "end": "190.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ganz normal, "
+   ]
+  }, 
+  {
+   "begin": "190.000", 
+   "children": [], 
+   "end": "197.800", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass das Informationsbed\u00fcrfnis der Menschen gewachsen ist und dass \u00c4rzte um des Verm\u00f6gensvorteils willen daf\u00fcr Geb\u00fchren abrechnen, "
+   ]
+  }, 
+  {
+   "begin": "197.800", 
+   "children": [], 
+   "end": "199.360", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass sie Abbr\u00fcche vornehmen. "
+   ]
+  }, 
+  {
+   "begin": "199.360", 
+   "children": [], 
+   "end": "203.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Auch das ist zun\u00e4chst einmal kein Unrecht."
+   ]
+  }, 
+  {
+   "begin": "203.000", 
+   "children": [], 
+   "end": "206.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Aber man muss eben auch Respekt vor der Ansicht derer haben, "
+   ]
+  }, 
+  {
+   "begin": "206.080", 
+   "children": [], 
+   "end": "206.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die sagen: "
+   ]
+  }, 
+  {
+   "begin": "206.640", 
+   "children": [], 
+   "end": "211.880", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen bei dem Schutzkonzept f\u00fcr werdendes Leben nicht noch mehr Kompromisse eingehen. "
+   ]
+  }, 
+  {
+   "begin": "211.880", 
+   "children": [], 
+   "end": "213.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Es ist immerhin ein, "
+   ]
+  }, 
+  {
+   "begin": "213.240", 
+   "children": [], 
+   "end": "214.520", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wie ich schon ausf\u00fchrte, "
+   ]
+  }, 
+  {
+   "begin": "214.520", 
+   "children": [], 
+   "end": "215.680", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "sehr krasser Eingriff, "
+   ]
+  }, 
+  {
+   "begin": "215.680", 
+   "children": [], 
+   "end": "218.800", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "und deswegen ist auch diese Ansicht ernst zu nehmen."
+   ]
+  }, 
+  {
+   "begin": "218.800", 
+   "children": [], 
+   "end": "225.280", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Die FDP-Fraktion hat sich in Anbetracht dieses ernsthaften Themas darauf verst\u00e4ndigt, "
+   ]
+  }, 
+  {
+   "begin": "225.280", 
+   "children": [], 
+   "end": "227.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass das Ganze aus ihrer Sicht nicht, "
+   ]
+  }, 
+  {
+   "begin": "227.040", 
+   "children": [], 
+   "end": "229.480", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "wie es Kollegin Schauws sagte, "
+   ]
+  }, 
+  {
+   "begin": "229.480", 
+   "children": [], 
+   "end": "236.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "nur eine Sache der Landes\u00e4rztekammern und eine Sache des Standesrechtes der \u00c4rzte sein kann; "
+   ]
+  }, 
+  {
+   "begin": "236.120", 
+   "children": [], 
+   "end": "239.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "vielmehr m\u00fcssen wir uns selbst als Gesetzgeber dazu verhalten, "
+   ]
+  }, 
+  {
+   "begin": "239.200", 
+   "children": [], 
+   "end": "240.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "und wir m\u00fcssen \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "240.560", 
+   "children": [], 
+   "end": "244.960", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "wie wir zu dieser Werteentscheidung stehen. "
+   ]
+  }, 
+  {
+   "begin": "244.960", 
+   "children": [], 
+   "end": "247.680", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen m\u00fcssen wir uns der M\u00fche unterziehen, "
+   ]
+  }, 
+  {
+   "begin": "247.680", 
+   "children": [], 
+   "end": "250.200", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "uns selbst mit dieser Thematik zu besch\u00e4ftigen, "
+   ]
+  }, 
+  {
+   "begin": "250.200", 
+   "children": [], 
+   "end": "253.640", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "und wir k\u00f6nnen dies nicht einfach auf die \u00c4rztekammern abw\u00e4lzen."
+   ]
+  }, 
+  {
+   "begin": "253.640", 
+   "children": [], 
+   "end": "257.600", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt einen vermittelnden Vorschlag der FDP-Fraktion, "
+   ]
+  }, 
+  {
+   "begin": "257.600", 
+   "children": [], 
+   "end": "261.440", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "\u00a7\u00a0219a Strafgesetzbuch zu modernisieren, "
+   ]
+  }, 
+  {
+   "begin": "261.440", 
+   "children": [], 
+   "end": "267.800", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "das Werbeverbot im Strafrecht weiterhin verankert zu lassen und deutlich zu machen, "
+   ]
+  }, 
+  {
+   "begin": "267.800", 
+   "children": [], 
+   "end": "271.080", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "dass es \u00c4rzten nicht erlaubt sein soll, "
+   ]
+  }, 
+  {
+   "begin": "271.080", 
+   "children": [], 
+   "end": "277.640", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "in grob anst\u00f6\u00dfiger Weise f\u00fcr Schwangerschaftsabbr\u00fcche oder f\u00fcr strafbare Abbr\u00fcche zu werben. "
+   ]
+  }, 
+  {
+   "begin": "277.640", 
+   "children": [], 
+   "end": "278.680", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind der Auffassung, "
+   ]
+  }, 
+  {
+   "begin": "278.680", 
+   "children": [], 
+   "end": "286.120", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "dass in der Breite der Diskussion auch dieser Vorschlag in den weiteren Beratungen im Ausschuss vertreten sein muss. "
+   ]
+  }, 
+  {
+   "begin": "286.120", 
+   "children": [], 
+   "end": "287.520", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen werben wir daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "287.520", 
+   "children": [], 
+   "end": "291.280", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "unseren Gesetzentwurf an den Ausschuss zu \u00fcberweisen."
+   ]
+  }, 
+  {
+   "begin": "291.280", 
+   "children": [], 
+   "end": "292.200", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen."
+   ]
+  }, 
+  {
+   "begin": "292.200", 
+   "children": [], 
+   "end": "301.960", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion Die Linke spricht nun die Kollegin Cornelia M\u00f6hring."
+   ]
+  }
+ ]
+}

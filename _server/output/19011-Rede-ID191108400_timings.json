@@ -1,0 +1,884 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.320", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "children": [], 
+   "end": "7.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "children": [], 
+   "end": "12.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Bedeutung der Digitalisierung ist inzwischen vermutlich wirklich allen klar. "
+   ]
+  }, 
+  {
+   "begin": "12.480", 
+   "children": [], 
+   "end": "16.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Anhand der Debattenbeitr\u00e4ge der letzten Tage konnten wir ja erkennen, "
+   ]
+  }, 
+  {
+   "begin": "16.200", 
+   "children": [], 
+   "end": "22.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass sogar ehemalige Zweifler und Verhinderer inzwischen \u00dcberzeugungst\u00e4ter geworden sind."
+   ]
+  }, 
+  {
+   "begin": "22.400", 
+   "children": [], 
+   "end": "24.760", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung ver\u00e4ndert alles. "
+   ]
+  }, 
+  {
+   "begin": "24.760", 
+   "children": [], 
+   "end": "25.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sie ver\u00e4ndert unsere Art, "
+   ]
+  }, 
+  {
+   "begin": "25.600", 
+   "children": [], 
+   "end": "26.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "zu arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "26.560", 
+   "children": [], 
+   "end": "27.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "zu leben, "
+   ]
+  }, 
+  {
+   "begin": "27.800", 
+   "children": [], 
+   "end": "28.920", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "zu kommunizieren, "
+   ]
+  }, 
+  {
+   "begin": "28.920", 
+   "children": [], 
+   "end": "31.040", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "und das in einer rasenden Geschwindigkeit. "
+   ]
+  }, 
+  {
+   "begin": "31.040", 
+   "children": [], 
+   "end": "35.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wo ich mich als gut 30-J\u00e4hriger noch an die Floppy Disk erinnern kann, "
+   ]
+  }, 
+  {
+   "begin": "35.520", 
+   "children": [], 
+   "end": "38.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "gibt es wahrscheinlich in der Generation der U-20-J\u00e4hrigen niemanden mehr, "
+   ]
+  }, 
+  {
+   "begin": "38.760", 
+   "children": [], 
+   "end": "42.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "der sich an eine Zeit ohne ein Handy erinnern kann. "
+   ]
+  }, 
+  {
+   "begin": "42.240", 
+   "children": [], 
+   "end": "47.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Generation der Digital \u00adNatives zeigt uns heute schon einen ganz neuen Umgang mit Daten. "
+   ]
+  }, 
+  {
+   "begin": "47.760", 
+   "children": [], 
+   "end": "51.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Grenzen spielen nur eine absolut untergeordnete Rolle. "
+   ]
+  }, 
+  {
+   "begin": "51.880", 
+   "children": [], 
+   "end": "56.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Das Digitale ist fester Bestandteil fast aller Lebensbereiche geworden."
+   ]
+  }, 
+  {
+   "begin": "56.760", 
+   "children": [], 
+   "end": "58.440", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "In den vergangenen Jahren haben wir\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "58.440", 
+   "children": [], 
+   "end": "61.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn es eben infrage gestellt wurde\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "61.560", 
+   "children": [], 
+   "end": "65.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "bereits sp\u00fcrbare politische Fortschritte gemacht. "
+   ]
+  }, 
+  {
+   "begin": "65.960", 
+   "children": [], 
+   "end": "67.840", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Die Industrie\u00a04.0, "
+   ]
+  }, 
+  {
+   "begin": "67.840", 
+   "children": [], 
+   "end": "70.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "also das Herz unserer Wirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "70.120", 
+   "children": [], 
+   "end": "73.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ist entsprechend weiterentwickelt worden. "
+   ]
+  }, 
+  {
+   "begin": "73.240", 
+   "children": [], 
+   "end": "74.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben endlich begonnen, "
+   ]
+  }, 
+  {
+   "begin": "74.320", 
+   "children": [], 
+   "end": "76.960", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "einen Rahmen f\u00fcr das autonome Fahren zu entwickeln. "
+   ]
+  }, 
+  {
+   "begin": "76.960", 
+   "children": [], 
+   "end": "80.640", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr den Mittelstand wurden die Rahmenbedingungen deutlich verbessert, "
+   ]
+  }, 
+  {
+   "begin": "80.640", 
+   "children": [], 
+   "end": "83.880", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr Start-ups wurden Quellen von Venture-Capital erschlossen. "
+   ]
+  }, 
+  {
+   "begin": "83.880", 
+   "children": [], 
+   "end": "87.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Das Wei\u00dfbuch Arbeiten\u00a04.0 hat den Weg gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "87.520", 
+   "children": [], 
+   "end": "90.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wie sich die Arbeit im digitalen Zeitalter weiterentwickeln muss. "
+   ]
+  }, 
+  {
+   "begin": "90.920", 
+   "children": [], 
+   "end": "100.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben im Bereich der St\u00f6rerhaftung Fortschritte gemacht und mit der Datenschutz-Grundverordnung trotz mancher Kritik endlich auch dort f\u00fcr Sicherheit gesorgt. "
+   ]
+  }, 
+  {
+   "begin": "100.120", 
+   "children": [], 
+   "end": "102.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalbranche ist der gr\u00f6\u00dfte Arbeitgeber in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "102.800", 
+   "children": [], 
+   "end": "105.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Bei allem Verst\u00e4ndnis f\u00fcr Ihre Oppositionsrolle, "
+   ]
+  }, 
+  {
+   "begin": "105.120", 
+   "children": [], 
+   "end": "107.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen von den Gr\u00fcnen: "
+   ]
+  }, 
+  {
+   "begin": "107.240", 
+   "children": [], 
+   "end": "109.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das d\u00fcrfen auch Sie akzeptieren."
+   ]
+  }, 
+  {
+   "begin": "109.240", 
+   "children": [], 
+   "end": "114.800", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Man muss kein Prophet und auch kein Herr Kauder sein, "
+   ]
+  }, 
+  {
+   "begin": "114.800", 
+   "children": [], 
+   "end": "116.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "um festzustellen: "
+   ]
+  }, 
+  {
+   "begin": "116.000", 
+   "children": [], 
+   "end": "120.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung wird das bestimmende Thema f\u00fcr die kommenden Jahre bleiben."
+   ]
+  }, 
+  {
+   "begin": "120.680", 
+   "children": [], 
+   "end": "123.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Den digitalen Wandel m\u00fcssen wir gestalten, "
+   ]
+  }, 
+  {
+   "begin": "123.760", 
+   "children": [], 
+   "end": "124.040", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "und zwar nicht, "
+   ]
+  }, 
+  {
+   "begin": "124.040", 
+   "children": [], 
+   "end": "130.040", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "indem wir passiv zusehen und aus Angst vor einer zwangsl\u00e4ufigen Entwicklung wie das Kaninchen vor der Schlange sitzen, "
+   ]
+  }, 
+  {
+   "begin": "130.040", 
+   "children": [], 
+   "end": "131.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "sondern indem wir daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "131.400", 
+   "children": [], 
+   "end": "135.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass endlich alle an diesem Fortschritt teilhaben k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "135.680", 
+   "children": [], 
+   "end": "137.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es geht beim Infrastrukturausbau darum, "
+   ]
+  }, 
+  {
+   "begin": "137.800", 
+   "children": [], 
+   "end": "142.560", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "endlich und ausschlie\u00dflich auf die Glasfaser als Technologie zu setzen. "
+   ]
+  }, 
+  {
+   "begin": "142.560", 
+   "children": [], 
+   "end": "145.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen endlich den digitalen EU-Binnenmarkt, "
+   ]
+  }, 
+  {
+   "begin": "145.400", 
+   "children": [], 
+   "end": "147.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "5G muss Standard werden, "
+   ]
+  }, 
+  {
+   "begin": "147.680", 
+   "children": [], 
+   "end": "154.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "und wir werden im Bereich der Bildung durch den De-facto-Wegfall des Kooperationsverbots endlich die massiven Investitionen, "
+   ]
+  }, 
+  {
+   "begin": "154.440", 
+   "children": [], 
+   "end": "156.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die im Bildungsbereich notwendig sind, "
+   ]
+  }, 
+  {
+   "begin": "156.840", 
+   "children": [], 
+   "end": "157.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "anpacken."
+   ]
+  }, 
+  {
+   "begin": "157.920", 
+   "children": [], 
+   "end": "163.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Da d\u00fcrfen Sie gespannt sein."
+   ]
+  }, 
+  {
+   "begin": "163.520", 
+   "children": [], 
+   "end": "167.320", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden in den n\u00e4chsten Jahren noch gemeinsam erleben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "167.320", 
+   "children": [], 
+   "end": "168.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "davon gehe ich aus\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "168.240", 
+   "children": [], 
+   "end": "173.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "wie wir die Schulen sprichw\u00f6rtlich aus der Kreidezeit endlich herausf\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "173.400", 
+   "children": [], 
+   "end": "176.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr braucht es eben massive Investitionen. "
+   ]
+  }, 
+  {
+   "begin": "176.360", 
+   "children": [], 
+   "end": "181.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Und wir werden f\u00fcr die Start-ups nicht nur in der Gr\u00fcndungsphase Kapital bereitstellen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "181.840", 
+   "children": [], 
+   "end": "184.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "sondern eben auch in der wichtigen Phase danach. "
+   ]
+  }, 
+  {
+   "begin": "184.640", 
+   "children": [], 
+   "end": "186.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Da geht es auch darum, "
+   ]
+  }, 
+  {
+   "begin": "186.200", 
+   "children": [], 
+   "end": "187.360", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber Fonds, "
+   ]
+  }, 
+  {
+   "begin": "187.360", 
+   "children": [], 
+   "end": "190.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wie wir sie aus anderen europ\u00e4ischen L\u00e4ndern kennen, "
+   ]
+  }, 
+  {
+   "begin": "190.400", 
+   "children": [], 
+   "end": "194.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "neue Finanzierungsm\u00f6glichkeiten zu erschlie\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "194.400", 
+   "children": [], 
+   "end": "194.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde es spannend, "
+   ]
+  }, 
+  {
+   "begin": "194.960", 
+   "children": [], 
+   "end": "197.440", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "meine lieben Kolleginnen und Kollegen von den Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "197.440", 
+   "children": [], 
+   "end": "203.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie sich hier \u00fcber unser immerhin fertig gewordenes Sondierungspapier auslassen und beschweren, "
+   ]
+  }, 
+  {
+   "begin": "203.600", 
+   "children": [], 
+   "end": "208.600", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wo wir doch in Ihrem Antrag vor allem Allgemeinpl\u00e4tze finden konnten. "
+   ]
+  }, 
+  {
+   "begin": "208.600", 
+   "children": [], 
+   "end": "208.800", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "208.800", 
+   "children": [], 
+   "end": "214.880", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "beim Thema \u201eSpeicherung von Daten\u201c haben wir am Ende immer noch f\u00fcnf dieser ber\u00fchmt-ber\u00fcchtigten eckigen Klammern gefunden."
+   ]
+  }, 
+  {
+   "begin": "214.880", 
+   "children": [], 
+   "end": "216.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ja, "
+   ]
+  }, 
+  {
+   "begin": "216.080", 
+   "children": [], 
+   "end": "217.360", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "es gab immerhin ein Kapitel, "
+   ]
+  }, 
+  {
+   "begin": "217.360", 
+   "children": [], 
+   "end": "217.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "aber, "
+   ]
+  }, 
+  {
+   "begin": "217.560", 
+   "children": [], 
+   "end": "218.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "liebe Frau Kollegin Dr.\u00a0Christmann, "
+   ]
+  }, 
+  {
+   "begin": "218.960", 
+   "children": [], 
+   "end": "224.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wir kennen den Unterschied zwischen Sondierungsgespr\u00e4chen und Koalitionsverhandlungen."
+   ]
+  }, 
+  {
+   "begin": "224.200", 
+   "children": [], 
+   "end": "229.080", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben zum jetzigen Zeitpunkt Sondierungsgespr\u00e4che gef\u00fchrt und werden in den Koalitionsverhandlungen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "229.080", 
+   "children": [], 
+   "end": "230.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie sich \u00fcberraschen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "230.400", 
+   "children": [], 
+   "end": "232.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "da noch einiges auf den Weg bringen."
+   ]
+  }, 
+  {
+   "begin": "232.560", 
+   "children": [], 
+   "end": "236.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Noch einen Punkt m\u00f6chte ich ansprechen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "236.280", 
+   "children": [], 
+   "end": "239.520", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen dazu jetzt gar nicht Stellung nehmen\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "239.520", 
+   "children": [], 
+   "end": "243.600", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben eben in Ihrer Aufz\u00e4hlung um Hessen einen weiten Bogen gemacht."
+   ]
+  }, 
+  {
+   "begin": "243.600", 
+   "children": [], 
+   "end": "244.120", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "244.120", 
+   "children": [], 
+   "end": "248.160", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass im Bereich Breitbandausbau dort noch einiges im Argen liegt."
+   ]
+  }, 
+  {
+   "begin": "248.160", 
+   "children": [], 
+   "end": "249.320", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben in Ihrem Papier\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "249.320", 
+   "children": [], 
+   "end": "250.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "das will ich Ihnen zugutehalten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "250.080", 
+   "children": [], 
+   "end": "251.800", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "nat\u00fcrlich auch einige gute Ans\u00e4tze; "
+   ]
+  }, 
+  {
+   "begin": "251.800", 
+   "children": [], 
+   "end": "258.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "aber aus der blo\u00dfen Nennung einzelner Punkte entsteht noch nichts Konkretes und erst recht nichts Koh\u00e4rentes. "
+   ]
+  }, 
+  {
+   "begin": "258.400", 
+   "children": [], 
+   "end": "259.640", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Aber ich bin gerne bereit, "
+   ]
+  }, 
+  {
+   "begin": "259.640", 
+   "children": [], 
+   "end": "261.640", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "mit Ihnen im Ausschuss daran zu arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "261.640", 
+   "children": [], 
+   "end": "262.880", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das hinbekommen."
+   ]
+  }, 
+  {
+   "begin": "262.880", 
+   "children": [], 
+   "end": "263.920", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "263.920", 
+   "children": [], 
+   "end": "276.000", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Zu seiner ersten Rede rufe ich nun den Kollegen Uwe Kamann von der AfD-Fraktion auf."
+   ]
+  }
+ ]
+}

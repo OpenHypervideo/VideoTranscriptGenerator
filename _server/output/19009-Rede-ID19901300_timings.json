@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "children": [], 
+   "end": "13.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Cher Monsieur le Pr\u00e9sident de l\u2019Assembl\u00e9e! "
+   ]
+  }, 
+  {
+   "begin": "13.440", 
+   "children": [], 
+   "end": "14.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "14.800", 
+   "children": [], 
+   "end": "16.600", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Chers amis! "
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "children": [], 
+   "end": "17.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "children": [], 
+   "end": "23.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Frieden und Wohlstand in Europa bauen auf der F\u00e4higkeit und dem Willen auf, "
+   ]
+  }, 
+  {
+   "begin": "23.520", 
+   "children": [], 
+   "end": "27.920", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "deutsche und franz\u00f6sische Interessen in Einklang zu bringen. "
+   ]
+  }, 
+  {
+   "begin": "27.920", 
+   "children": [], 
+   "end": "31.160", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Diese F\u00e4higkeit und dieser Wille sind aber nicht gottgegeben; "
+   ]
+  }, 
+  {
+   "begin": "31.160", 
+   "children": [], 
+   "end": "35.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen und wir wollen sie wiederbeleben und st\u00e4rken."
+   ]
+  }, 
+  {
+   "begin": "35.320", 
+   "children": [], 
+   "end": "37.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin in einer Grenzstadt aufgewachsen, "
+   ]
+  }, 
+  {
+   "begin": "37.360", 
+   "children": [], 
+   "end": "38.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "direkt am Rhein, "
+   ]
+  }, 
+  {
+   "begin": "38.560", 
+   "children": [], 
+   "end": "40.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "in Neuenburg am Rhein. "
+   ]
+  }, 
+  {
+   "begin": "40.320", 
+   "children": [], 
+   "end": "45.600", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "In der Nachbarstadt M\u00fcllheim befand sich in meiner Kindheit eine franz\u00f6sische Kaserne. "
+   ]
+  }, 
+  {
+   "begin": "45.600", 
+   "children": [], 
+   "end": "49.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Heute ist dort die Deutsch-Franz\u00f6sische Brigade stationiert. "
+   ]
+  }, 
+  {
+   "begin": "49.240", 
+   "children": [], 
+   "end": "50.520", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Ich hatte das gro\u00dfe Gl\u00fcck, "
+   ]
+  }, 
+  {
+   "begin": "50.520", 
+   "children": [], 
+   "end": "54.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "in Freiburg auf das deutsch-franz\u00f6sische Gymnasium gehen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "54.200", 
+   "children": [], 
+   "end": "55.000", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "eine Schule, "
+   ]
+  }, 
+  {
+   "begin": "55.000", 
+   "children": [], 
+   "end": "59.680", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die aufgrund des ersten \u00c9lys\u00e9e-Vertrages geschaffen wurde. "
+   ]
+  }, 
+  {
+   "begin": "59.680", 
+   "children": [], 
+   "end": "65.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Diese Schule war und ist getragen von dem Willen zur Einheit in der Vielfalt. "
+   ]
+  }, 
+  {
+   "begin": "65.800", 
+   "children": [], 
+   "end": "67.680", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist getragen von der \u00dcberzeugung, "
+   ]
+  }, 
+  {
+   "begin": "67.680", 
+   "children": [], 
+   "end": "69.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass es zusammen immer besser ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "69.480", 
+   "children": [], 
+   "end": "71.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "trotz aller Schwierigkeiten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "71.640", 
+   "children": [], 
+   "end": "77.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und dass Trennung in dieser Partnerschaft keine Option ist und auch nicht sein darf. "
+   ]
+  }, 
+  {
+   "begin": "77.200", 
+   "children": [], 
+   "end": "79.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Und sie ist getragen von der \u00dcberzeugung, "
+   ]
+  }, 
+  {
+   "begin": "79.160", 
+   "children": [], 
+   "end": "81.320", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass diese Partnerschaft nur klappt, "
+   ]
+  }, 
+  {
+   "begin": "81.320", 
+   "children": [], 
+   "end": "83.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wenn man sich gegenseitig respektiert, "
+   ]
+  }, 
+  {
+   "begin": "83.400", 
+   "children": [], 
+   "end": "86.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "zu Kompromissen bereit ist und solidarisch ist, "
+   ]
+  }, 
+  {
+   "begin": "86.280", 
+   "children": [], 
+   "end": "87.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass sie nur klappt, "
+   ]
+  }, 
+  {
+   "begin": "87.480", 
+   "children": [], 
+   "end": "91.000", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wenn keiner Lehrmeister und keiner Sch\u00fcler ist, "
+   ]
+  }, 
+  {
+   "begin": "91.000", 
+   "children": [], 
+   "end": "92.920", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "sondern alle voneinander lernen."
+   ]
+  }, 
+  {
+   "begin": "92.920", 
+   "children": [], 
+   "end": "100.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke meinen ehemaligen Lehrerinnen und Lehrern f\u00fcr alles, "
+   ]
+  }, 
+  {
+   "begin": "100.880", 
+   "children": [], 
+   "end": "103.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "was sie uns mit auf den Weg gegeben haben. "
+   ]
+  }, 
+  {
+   "begin": "103.440", 
+   "children": [], 
+   "end": "107.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ich zehre und n\u00e4hre mich heute noch davon."
+   ]
+  }, 
+  {
+   "begin": "107.040", 
+   "children": [], 
+   "end": "109.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ich fordere von der n\u00e4chsten Regierung ein, "
+   ]
+  }, 
+  {
+   "begin": "109.240", 
+   "children": [], 
+   "end": "111.360", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "endlich mit dieser Haltung, "
+   ]
+  }, 
+  {
+   "begin": "111.360", 
+   "children": [], 
+   "end": "116.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "mit diesem Willen an die Reform Europas und der Euro-Zone heranzugehen, "
+   ]
+  }, 
+  {
+   "begin": "116.360", 
+   "children": [], 
+   "end": "122.440", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass wir endlich dieses \u201eInvestieren oder Reformieren\u201c \u00fcberwinden, "
+   ]
+  }, 
+  {
+   "begin": "122.440", 
+   "children": [], 
+   "end": "126.520", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "es hinter uns lassen und zu einem klugen \u201eund\u201c kommen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "126.520", 
+   "children": [], 
+   "end": "126.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das, "
+   ]
+  }, 
+  {
+   "begin": "126.960", 
+   "children": [], 
+   "end": "131.040", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "was Deutschland und Frankreich schaffen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "131.040", 
+   "children": [], 
+   "end": "132.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcnsche mir ferner, "
+   ]
+  }, 
+  {
+   "begin": "132.440", 
+   "children": [], 
+   "end": "139.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass wir dieses uns\u00e4gliche Schreckgespenst der Transferunion endlich in die Mottenkiste packen und uns die Vorschlage, "
+   ]
+  }, 
+  {
+   "begin": "139.840", 
+   "children": [], 
+   "end": "140.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die auf dem Tisch liegen, "
+   ]
+  }, 
+  {
+   "begin": "140.880", 
+   "children": [], 
+   "end": "142.440", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "anschauen, "
+   ]
+  }, 
+  {
+   "begin": "142.440", 
+   "children": [], 
+   "end": "147.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "und zwar in aller Ernsthaftigkeit und Konstruktivit\u00e4t."
+   ]
+  }, 
+  {
+   "begin": "147.080", 
+   "children": [], 
+   "end": "149.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Ich fordere von uns allen ein, "
+   ]
+  }, 
+  {
+   "begin": "149.680", 
+   "children": [], 
+   "end": "155.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Richtschnur nicht die n\u00e4chste Wahl und erst recht nicht die n\u00e4chste Umfrage ist, "
+   ]
+  }, 
+  {
+   "begin": "155.560", 
+   "children": [], 
+   "end": "157.480", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "sondern der Zusammenhalt Europas."
+   ]
+  }, 
+  {
+   "begin": "157.480", 
+   "children": [], 
+   "end": "158.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Frau Wagenknecht, "
+   ]
+  }, 
+  {
+   "begin": "158.240", 
+   "children": [], 
+   "end": "159.960", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben vorhin davon gesprochen, "
+   ]
+  }, 
+  {
+   "begin": "159.960", 
+   "children": [], 
+   "end": "166.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass Europa nur die Kapitalinteressen durchsetzen w\u00fcrde. "
+   ]
+  }, 
+  {
+   "begin": "166.240", 
+   "children": [], 
+   "end": "168.600", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wer bietet denn Google, "
+   ]
+  }, 
+  {
+   "begin": "168.600", 
+   "children": [], 
+   "end": "170.240", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Apple und anderen Konzernen die Stirn, "
+   ]
+  }, 
+  {
+   "begin": "170.240", 
+   "children": [], 
+   "end": "171.600", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wenn es um Steuern geht? "
+   ]
+  }, 
+  {
+   "begin": "171.600", 
+   "children": [], 
+   "end": "174.440", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Es ist doch wohl die Europ\u00e4ische Kommission, "
+   ]
+  }, 
+  {
+   "begin": "174.440", 
+   "children": [], 
+   "end": "176.360", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die gerade diesen Kampf f\u00fchrt!"
+   ]
+  }, 
+  {
+   "begin": "176.360", 
+   "children": [], 
+   "end": "177.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Frau Wagenknecht, "
+   ]
+  }, 
+  {
+   "begin": "177.720", 
+   "children": [], 
+   "end": "179.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben hier gefordert, "
+   ]
+  }, 
+  {
+   "begin": "179.520", 
+   "children": [], 
+   "end": "185.080", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland und Frankreich sollten eine gemeinsame Unternehmensteuer einf\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "185.080", 
+   "children": [], 
+   "end": "187.160", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Dann stimmen Sie der Resolution zu! "
+   ]
+  }, 
+  {
+   "begin": "187.160", 
+   "children": [], 
+   "end": "189.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Das wird darin n\u00e4mlich gefordert."
+   ]
+  }, 
+  {
+   "begin": "189.160", 
+   "children": [], 
+   "end": "189.520", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Sie reden davon, "
+   ]
+  }, 
+  {
+   "begin": "189.520", 
+   "children": [], 
+   "end": "201.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass es um Mindestl\u00f6hne und um die Rechte von Arbeitnehmerinnen und Arbeitnehmern geht. "
+   ]
+  }, 
+  {
+   "begin": "201.600", 
+   "children": [], 
+   "end": "203.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Dann stimmen Sie der Resolution zu! "
+   ]
+  }, 
+  {
+   "begin": "203.080", 
+   "children": [], 
+   "end": "204.800", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Denn da steht eindeutig drin, "
+   ]
+  }, 
+  {
+   "begin": "204.800", 
+   "children": [], 
+   "end": "209.200", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland und Frankreich die sozialen Rechte in Europa st\u00e4rken wollen. "
+   ]
+  }, 
+  {
+   "begin": "209.200", 
+   "children": [], 
+   "end": "210.280", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Stimmen Sie zu, "
+   ]
+  }, 
+  {
+   "begin": "210.280", 
+   "children": [], 
+   "end": "218.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und geben Sie sich einen Ruck! "
+   ]
+  }, 
+  {
+   "begin": "218.320", 
+   "children": [], 
+   "end": "220.080", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die Resolution ist da wunderbar."
+   ]
+  }, 
+  {
+   "begin": "220.080", 
+   "children": [], 
+   "end": "220.360", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcnsche mir, "
+   ]
+  }, 
+  {
+   "begin": "220.360", 
+   "children": [], 
+   "end": "223.520", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass wir genau so viel Mut wie die Generationen vor uns beweisen. "
+   ]
+  }, 
+  {
+   "begin": "223.520", 
+   "children": [], 
+   "end": "225.480", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Die hatten es doch viel schwerer als wir. "
+   ]
+  }, 
+  {
+   "begin": "225.480", 
+   "children": [], 
+   "end": "227.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Die mussten noch mit Feinden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "227.400", 
+   "children": [], 
+   "end": "228.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "mit Erbfeinden, "
+   ]
+  }, 
+  {
+   "begin": "228.200", 
+   "children": [], 
+   "end": "228.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Herr Post; "
+   ]
+  }, 
+  {
+   "begin": "228.600", 
+   "children": [], 
+   "end": "229.360", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben es gesagt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "229.360", 
+   "children": [], 
+   "end": "229.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "reden. "
+   ]
+  }, 
+  {
+   "begin": "229.960", 
+   "children": [], 
+   "end": "234.520", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen nur mit Freundinnen und Freunden Europa voranbringen. "
+   ]
+  }, 
+  {
+   "begin": "234.520", 
+   "children": [], 
+   "end": "237.720", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Das ist im Vergleich dazu doch eigentlich ein Klacks."
+   ]
+  }, 
+  {
+   "begin": "237.720", 
+   "children": [], 
+   "end": "240.120", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns das gemeinsam angehen! "
+   ]
+  }, 
+  {
+   "begin": "240.120", 
+   "children": [], 
+   "end": "243.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Falls wir noch ein bisschen l\u00e4nger auf eine Regierung warten m\u00fcssen: "
+   ]
+  }, 
+  {
+   "begin": "243.080", 
+   "children": [], 
+   "end": "245.280", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen ja schon einmal mit der Arbeit anfangen. "
+   ]
+  }, 
+  {
+   "begin": "245.280", 
+   "children": [], 
+   "end": "247.680", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle sind gew\u00e4hlt und arbeitsf\u00e4hig. "
+   ]
+  }, 
+  {
+   "begin": "247.680", 
+   "children": [], 
+   "end": "248.640", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne: "
+   ]
+  }, 
+  {
+   "begin": "248.640", 
+   "children": [], 
+   "end": "250.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Merci beaucoup! "
+   ]
+  }, 
+  {
+   "begin": "250.080", 
+   "children": [], 
+   "end": "251.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Amiti\u00e9 toujours! "
+   ]
+  }, 
+  {
+   "begin": "251.240", 
+   "children": [], 
+   "end": "252.360", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Vive l\u2019Europe! "
+   ]
+  }, 
+  {
+   "begin": "252.360", 
+   "children": [], 
+   "end": "265.120", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Es lebe Europa!"
+   ]
+  }, 
+  {
+   "begin": "265.120", 
+   "children": [], 
+   "end": "266.760", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat Andreas Jung, "
+   ]
+  }, 
+  {
+   "begin": "266.760", 
+   "children": [], 
+   "end": "268.000", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU-Fraktion, "
+   ]
+  }, 
+  {
+   "begin": "268.000", 
+   "children": [], 
+   "end": "268.960", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "das Wort."
+   ]
+  }
+ ]
+}

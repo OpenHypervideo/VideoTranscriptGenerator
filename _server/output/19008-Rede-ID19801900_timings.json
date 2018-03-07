@@ -1,0 +1,774 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.760", 
+   "children": [], 
+   "end": "13.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "13.840", 
+   "children": [], 
+   "end": "16.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Arbeitslosigkeit ist niedrig, "
+   ]
+  }, 
+  {
+   "begin": "16.000", 
+   "children": [], 
+   "end": "18.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "die Kassen sind voll. "
+   ]
+  }, 
+  {
+   "begin": "18.360", 
+   "children": [], 
+   "end": "25.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die R\u00fccklagen bei der Bundesagentur f\u00fcr Arbeit summieren sich derzeit auf fast 20\u00a0Milliarden Euro, "
+   ]
+  }, 
+  {
+   "begin": "25.880", 
+   "children": [], 
+   "end": "26.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "mehr als genug, "
+   ]
+  }, 
+  {
+   "begin": "26.800", 
+   "children": [], 
+   "end": "31.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "um eine Rezession abzufedern und beispielsweise Kurzarbeitergeld zu bezahlen. "
+   ]
+  }, 
+  {
+   "begin": "31.960", 
+   "children": [], 
+   "end": "40.160", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die Aussichten f\u00fcr die weitere Arbeitsmarktentwicklung sind dank der Innovationskraft und der Wettbewerbsf\u00e4higkeit unserer Wirtschaft gut, "
+   ]
+  }, 
+  {
+   "begin": "40.160", 
+   "children": [], 
+   "end": "48.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "sodass wir an dieser Stelle mit diesem Gesetzentwurf eine ma\u00dfvolle Entlastung der Arbeitslosenversicherungsbeitr\u00e4ge beantragen. "
+   ]
+  }, 
+  {
+   "begin": "48.160", 
+   "children": [], 
+   "end": "50.920", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Sozialkassen sind keine Sparkassen, "
+   ]
+  }, 
+  {
+   "begin": "50.920", 
+   "children": [], 
+   "end": "53.040", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "53.040", 
+   "children": [], 
+   "end": "61.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Im Jahr 2016 lagen die Einnahmen der Bundesagentur f\u00fcr Arbeit 5\u00a0Milliarden Euro \u00fcber den Ausgaben. "
+   ]
+  }, 
+  {
+   "begin": "61.160", 
+   "children": [], 
+   "end": "65.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "2017 waren es sogar 5,5\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "65.640", 
+   "children": [], 
+   "end": "67.400", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "In unserem Gesetzentwurf, "
+   ]
+  }, 
+  {
+   "begin": "67.400", 
+   "children": [], 
+   "end": "69.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "den wir Ihnen hier heute vorlegen, "
+   ]
+  }, 
+  {
+   "begin": "69.360", 
+   "children": [], 
+   "end": "72.040", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "schlagen wir wie der Sachverst\u00e4ndigenrat, "
+   ]
+  }, 
+  {
+   "begin": "72.040", 
+   "children": [], 
+   "end": "73.920", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die Wirtschaftsweisen, "
+   ]
+  }, 
+  {
+   "begin": "73.920", 
+   "children": [], 
+   "end": "79.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die Absenkung der Beitragss\u00e4tze um 0,5\u00a0Prozentpunkte vor."
+   ]
+  }, 
+  {
+   "begin": "79.320", 
+   "children": [], 
+   "end": "82.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Der Pr\u00e4sident der Bundesagentur f\u00fcr Arbeit selbst, "
+   ]
+  }, 
+  {
+   "begin": "82.240", 
+   "children": [], 
+   "end": "86.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "der fr\u00fchere sozialdemokratische Senator in Hamburg, "
+   ]
+  }, 
+  {
+   "begin": "86.520", 
+   "children": [], 
+   "end": "89.800", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "hat eine Absenkung der Beitr\u00e4ge f\u00fcr m\u00f6glich, "
+   ]
+  }, 
+  {
+   "begin": "89.800", 
+   "children": [], 
+   "end": "92.080", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr geboten gehalten. "
+   ]
+  }, 
+  {
+   "begin": "92.080", 
+   "children": [], 
+   "end": "96.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb appellieren wir an die gro\u00dfen Fraktionen in diesem Haus: "
+   ]
+  }, 
+  {
+   "begin": "96.240", 
+   "children": [], 
+   "end": "98.080", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Folgen Sie unserem Antrag! "
+   ]
+  }, 
+  {
+   "begin": "98.080", 
+   "children": [], 
+   "end": "100.920", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Insbesondere unser Appell an die CDU/CSU: "
+   ]
+  }, 
+  {
+   "begin": "100.920", 
+   "children": [], 
+   "end": "111.640", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wenn jetzt im Sondierungspapier gerade unsere mittelst\u00e4ndischen Personengesellschaften durch die Einf\u00fchrung der parit\u00e4tischen Finanzierung der gesetzlichen Krankenversicherung belastet werden, "
+   ]
+  }, 
+  {
+   "begin": "111.640", 
+   "children": [], 
+   "end": "112.840", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "besteht hier die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "112.840", 
+   "children": [], 
+   "end": "122.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "durch die Absenkung der Arbeitslosenversicherungsbeitr\u00e4ge eine Entlastung sowohl f\u00fcr Arbeitnehmerinnen und Arbeitnehmer als auch f\u00fcr Arbeitgeber zu schaffen."
+   ]
+  }, 
+  {
+   "begin": "122.800", 
+   "children": [], 
+   "end": "123.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Eines, "
+   ]
+  }, 
+  {
+   "begin": "123.480", 
+   "children": [], 
+   "end": "125.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "125.120", 
+   "children": [], 
+   "end": "126.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "ist klar: "
+   ]
+  }, 
+  {
+   "begin": "126.280", 
+   "children": [], 
+   "end": "129.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das Geld geh\u00f6rt den Beitragszahlern. "
+   ]
+  }, 
+  {
+   "begin": "129.760", 
+   "children": [], 
+   "end": "133.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die Arbeitnehmerinnen und Arbeitnehmer haben es sich erarbeitet. "
+   ]
+  }, 
+  {
+   "begin": "133.720", 
+   "children": [], 
+   "end": "135.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Solidarit\u00e4t hei\u00dft nicht nur, "
+   ]
+  }, 
+  {
+   "begin": "135.680", 
+   "children": [], 
+   "end": "137.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wenn es schlecht l\u00e4uft, "
+   ]
+  }, 
+  {
+   "begin": "137.440", 
+   "children": [], 
+   "end": "138.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "die Beitr\u00e4ge anzupassen, "
+   ]
+  }, 
+  {
+   "begin": "138.920", 
+   "children": [], 
+   "end": "140.880", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "sondern Solidarit\u00e4t hei\u00dft auch, "
+   ]
+  }, 
+  {
+   "begin": "140.880", 
+   "children": [], 
+   "end": "142.160", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wenn es gut l\u00e4uft, "
+   ]
+  }, 
+  {
+   "begin": "142.160", 
+   "children": [], 
+   "end": "143.520", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "die Beitr\u00e4ge zu senken. "
+   ]
+  }, 
+  {
+   "begin": "143.520", 
+   "children": [], 
+   "end": "146.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das Ziel unseres Gesetzentwurfes."
+   ]
+  }, 
+  {
+   "begin": "146.520", 
+   "children": [], 
+   "end": "148.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "148.640", 
+   "children": [], 
+   "end": "150.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wir befinden uns in einer Welt, "
+   ]
+  }, 
+  {
+   "begin": "150.440", 
+   "children": [], 
+   "end": "151.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die sich ver\u00e4ndert. "
+   ]
+  }, 
+  {
+   "begin": "151.640", 
+   "children": [], 
+   "end": "154.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Der digitale Tsunami ist in vollem Gange. "
+   ]
+  }, 
+  {
+   "begin": "154.120", 
+   "children": [], 
+   "end": "155.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir laufen Gefahr, "
+   ]
+  }, 
+  {
+   "begin": "155.720", 
+   "children": [], 
+   "end": "158.840", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass weite Teile des Mittelstandes davon erfasst werden. "
+   ]
+  }, 
+  {
+   "begin": "158.840", 
+   "children": [], 
+   "end": "161.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Andere L\u00e4nder passen ihre Standortbedingungen an, "
+   ]
+  }, 
+  {
+   "begin": "161.720", 
+   "children": [], 
+   "end": "165.320", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "etwa die USA durch eine weitgehende Steuerreform. "
+   ]
+  }, 
+  {
+   "begin": "165.320", 
+   "children": [], 
+   "end": "167.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es dringend an der Zeit, "
+   ]
+  }, 
+  {
+   "begin": "167.640", 
+   "children": [], 
+   "end": "170.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in der Bundesrepublik Deutschland \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "170.640", 
+   "children": [], 
+   "end": "175.320", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wie wir die politischen Rahmenbedingungen f\u00fcr die wirtschaftliche Entwicklung verbessern k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "175.320", 
+   "children": [], 
+   "end": "181.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Hier kann man durch die Absenkung der Arbeitslosenversicherungsbeitr\u00e4ge einen Beitrag dazu leisten."
+   ]
+  }, 
+  {
+   "begin": "181.480", 
+   "children": [], 
+   "end": "185.120", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen die arbeitende Mitte entlasten. "
+   ]
+  }, 
+  {
+   "begin": "185.120", 
+   "children": [], 
+   "end": "195.320", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Gerade die Absenkung von Sozialversicherungsbeitr\u00e4gen hilft den unteren und mittleren Einkommen ganz besonders, "
+   ]
+  }, 
+  {
+   "begin": "195.320", 
+   "children": [], 
+   "end": "198.200", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "also eben denjenigen Arbeitnehmerinnen und Arbeitnehmern, "
+   ]
+  }, 
+  {
+   "begin": "198.200", 
+   "children": [], 
+   "end": "200.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die keine oder wenig Steuern bezahlen. "
+   ]
+  }, 
+  {
+   "begin": "200.520", 
+   "children": [], 
+   "end": "203.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Hier wirkt sich das direkt auf den Geldbeutel aus. "
+   ]
+  }, 
+  {
+   "begin": "203.320", 
+   "children": [], 
+   "end": "204.280", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Manche behaupten, "
+   ]
+  }, 
+  {
+   "begin": "204.280", 
+   "children": [], 
+   "end": "205.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "es seien nur kleine Summen. "
+   ]
+  }, 
+  {
+   "begin": "205.400", 
+   "children": [], 
+   "end": "209.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Aber gerade f\u00fcr Geringverdiener ist dieses Geld ein wichtiger Beitrag, "
+   ]
+  }, 
+  {
+   "begin": "209.960", 
+   "children": [], 
+   "end": "210.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "der hilft, "
+   ]
+  }, 
+  {
+   "begin": "210.360", 
+   "children": [], 
+   "end": "212.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "notwendige Ausgaben zu t\u00e4tigen."
+   ]
+  }, 
+  {
+   "begin": "212.080", 
+   "children": [], 
+   "end": "214.400", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen klar sagen: "
+   ]
+  }, 
+  {
+   "begin": "214.400", 
+   "children": [], 
+   "end": "218.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wenn sich Geld in \u00f6ffentlichen Kassen befindet, "
+   ]
+  }, 
+  {
+   "begin": "218.880", 
+   "children": [], 
+   "end": "221.160", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "weckt das h\u00e4ufig Begehrlichkeiten. "
+   ]
+  }, 
+  {
+   "begin": "221.160", 
+   "children": [], 
+   "end": "223.520", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Diesen Begehrlichkeiten sollten wir widerstehen. "
+   ]
+  }, 
+  {
+   "begin": "223.520", 
+   "children": [], 
+   "end": "228.880", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Ausgabew\u00fcnsche m\u00fcssen kritisch auf Notwendigkeit und Wirksamkeit untersucht werden."
+   ]
+  }, 
+  {
+   "begin": "228.880", 
+   "children": [], 
+   "end": "230.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ich fasse zusammen: "
+   ]
+  }, 
+  {
+   "begin": "230.200", 
+   "children": [], 
+   "end": "238.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen mit diesem Gesetzentwurf einen Beitrag zur Entlastung der arbeitenden Mitte leisten. "
+   ]
+  }, 
+  {
+   "begin": "238.160", 
+   "children": [], 
+   "end": "239.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir fordern Sie auf, "
+   ]
+  }, 
+  {
+   "begin": "239.520", 
+   "children": [], 
+   "end": "241.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "ein klares Signal zu geben, "
+   ]
+  }, 
+  {
+   "begin": "241.000", 
+   "children": [], 
+   "end": "244.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "nachdem auch die Bundesagentur f\u00fcr Arbeit dies genauso vorgeschlagen hat. "
+   ]
+  }, 
+  {
+   "begin": "244.760", 
+   "children": [], 
+   "end": "245.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Weg. "
+   ]
+  }, 
+  {
+   "begin": "245.560", 
+   "children": [], 
+   "end": "247.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Hier k\u00f6nnen wir schnell handeln. "
+   ]
+  }, 
+  {
+   "begin": "247.240", 
+   "children": [], 
+   "end": "250.240", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Bitte stimmen Sie diesem Gesetzentwurf sp\u00e4ter zu."
+   ]
+  }, 
+  {
+   "begin": "250.240", 
+   "children": [], 
+   "end": "251.000", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "251.000", 
+   "children": [], 
+   "end": "262.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat der Kollege Dr.\u00a0Matthias Zimmer von der CDU/CSU-Fraktion das Wort."
+   ]
+  }
+ ]
+}

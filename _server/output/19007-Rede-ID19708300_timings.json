@@ -1,0 +1,784 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.240", 
+   "children": [], 
+   "end": "2.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "children": [], 
+   "end": "4.160", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "children": [], 
+   "end": "19.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Seit dem menschenverachtenden Terroranschlag auf dem Berliner Weihnachtsmarkt am Breitscheidplatz ist knapp \u00fcber ein Jahr vergangen. "
+   ]
+  }, 
+  {
+   "begin": "19.280", 
+   "children": [], 
+   "end": "24.720", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Zw\u00f6lf Menschen sind damals mitten aus dem Leben gerissen worden. "
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "children": [], 
+   "end": "27.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Angeh\u00f6rige verloren ihre Liebsten. "
+   ]
+  }, 
+  {
+   "begin": "27.320", 
+   "children": [], 
+   "end": "30.440", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Freundinnen und Freunde wurden f\u00fcr immer getrennt. "
+   ]
+  }, 
+  {
+   "begin": "30.440", 
+   "children": [], 
+   "end": "36.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Viele weitere Personen wurden verletzt oder schwer verletzt und sind bis heute traumatisiert. "
+   ]
+  }, 
+  {
+   "begin": "36.040", 
+   "children": [], 
+   "end": "50.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Am 19.\u00a0Januar\u00a02017 hat dann der 18.\u00a0Deutsche Bundestag innegehalten und seine Trauer um die Toten und das Mitgef\u00fchl f\u00fcr die Verletzten und Hinterbliebenen der Opfer zum Ausdruck gebracht. "
+   ]
+  }, 
+  {
+   "begin": "50.680", 
+   "children": [], 
+   "end": "51.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Gerade diesen Menschen, "
+   ]
+  }, 
+  {
+   "begin": "51.880", 
+   "children": [], 
+   "end": "55.400", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "die unfassbares Leid erfahren mussten, "
+   ]
+  }, 
+  {
+   "begin": "55.400", 
+   "children": [], 
+   "end": "57.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "sind wir Antworten schuldig, "
+   ]
+  }, 
+  {
+   "begin": "57.280", 
+   "children": [], 
+   "end": "59.480", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Antworten auf die Fragen, "
+   ]
+  }, 
+  {
+   "begin": "59.480", 
+   "children": [], 
+   "end": "64.160", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "ob und wie dieser Terroranschlag h\u00e4tte verhindert werden k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "64.160", 
+   "children": [], 
+   "end": "68.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Unser Respekt ihnen gegen\u00fcber gebietet es jetzt, "
+   ]
+  }, 
+  {
+   "begin": "68.080", 
+   "children": [], 
+   "end": "70.000", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "sachlich zu bleiben, "
+   ]
+  }, 
+  {
+   "begin": "70.000", 
+   "children": [], 
+   "end": "71.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "ganz genau hinzusehen, "
+   ]
+  }, 
+  {
+   "begin": "71.120", 
+   "children": [], 
+   "end": "73.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "zu bohren und nicht lockerzulassen, "
+   ]
+  }, 
+  {
+   "begin": "73.960", 
+   "children": [], 
+   "end": "74.600", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "bis alles\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "74.600", 
+   "children": [], 
+   "end": "75.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "ich meine, "
+   ]
+  }, 
+  {
+   "begin": "75.000", 
+   "children": [], 
+   "end": "76.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wirklich alles\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "76.400", 
+   "children": [], 
+   "end": "79.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "l\u00fcckenlos aufgekl\u00e4rt ist. "
+   ]
+  }, 
+  {
+   "begin": "79.040", 
+   "children": [], 
+   "end": "80.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Ebenso sind wir es ihnen schuldig, "
+   ]
+  }, 
+  {
+   "begin": "80.680", 
+   "children": [], 
+   "end": "81.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "auch zu \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "81.680", 
+   "children": [], 
+   "end": "85.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wie wir die Hilfen f\u00fcr Opfer und ihre Angeh\u00f6rigen in Zukunft verbessern k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "85.880", 
+   "children": [], 
+   "end": "91.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "In den Tagen und Wochen nach dem Anschlag \u00fcberschlugen sich die Schlagzeilen. "
+   ]
+  }, 
+  {
+   "begin": "91.760", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Bis heute kommen immer mehr Details \u00fcber den Attent\u00e4ter, "
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "100.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "seine Vorgeschichte und den Umgang mit ihm durch zahlreiche Beh\u00f6rden an die \u00d6ffentlichkeit. "
+   ]
+  }, 
+  {
+   "begin": "100.200", 
+   "children": [], 
+   "end": "100.840", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Auf Landes- "
+   ]
+  }, 
+  {
+   "begin": "100.840", 
+   "children": [], 
+   "end": "104.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und Bundesebene begann die systematische Aufarbeitung bereits. "
+   ]
+  }, 
+  {
+   "begin": "104.520", 
+   "children": [], 
+   "end": "107.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Neue Erkenntnisse wurden gewonnen. "
+   ]
+  }, 
+  {
+   "begin": "107.440", 
+   "children": [], 
+   "end": "111.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Aber es sind nat\u00fcrlich l\u00e4ngst nicht alle Fragen gekl\u00e4rt; "
+   ]
+  }, 
+  {
+   "begin": "111.360", 
+   "children": [], 
+   "end": "116.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "viele von ihnen wurden heute in der Debatte schon angesprochen."
+   ]
+  }, 
+  {
+   "begin": "116.800", 
+   "children": [], 
+   "end": "124.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Hause werden wir darum tief in die Hintergr\u00fcnde und vermutlich auch in Abgr\u00fcnde blicken m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "124.640", 
+   "children": [], 
+   "end": "127.800", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr uns alle stellt sich nat\u00fcrlich insbesondere die Frage, "
+   ]
+  }, 
+  {
+   "begin": "127.800", 
+   "children": [], 
+   "end": "129.840", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "welche Rolle die Bundesbeh\u00f6rden, "
+   ]
+  }, 
+  {
+   "begin": "129.840", 
+   "children": [], 
+   "end": "132.040", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "etwa das Bundesamt f\u00fcr Verfassungsschutz, "
+   ]
+  }, 
+  {
+   "begin": "132.040", 
+   "children": [], 
+   "end": "135.480", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "in der Zusammenarbeit mit den L\u00e4ndern Nordrhein-Westfalen, "
+   ]
+  }, 
+  {
+   "begin": "135.480", 
+   "children": [], 
+   "end": "139.120", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Berlin und Baden-W\u00fcrttemberg gespielt haben."
+   ]
+  }, 
+  {
+   "begin": "139.120", 
+   "children": [], 
+   "end": "141.440", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Mich treibt aber auch die Frage um, "
+   ]
+  }, 
+  {
+   "begin": "141.440", 
+   "children": [], 
+   "end": "148.480", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "warum das Wissen in diesem so wichtigen Fall offenbar nicht zwischen den Beh\u00f6rden geteilt wurde, "
+   ]
+  }, 
+  {
+   "begin": "148.480", 
+   "children": [], 
+   "end": "151.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Stichwort \u201eHandfl\u00e4chenabdr\u00fccke\u201c. "
+   ]
+  }, 
+  {
+   "begin": "151.000", 
+   "children": [], 
+   "end": "154.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Als Psychologin ist f\u00fcr mich zudem eine der spannendsten Fragen, "
+   ]
+  }, 
+  {
+   "begin": "154.880", 
+   "children": [], 
+   "end": "157.200", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wie wir es schaffen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "157.200", 
+   "children": [], 
+   "end": "163.680", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass Radikalisierungsprozesse bei jungen Menschen k\u00fcnftig fr\u00fchzeitig und so zuverl\u00e4ssig erkannt werden, "
+   ]
+  }, 
+  {
+   "begin": "163.680", 
+   "children": [], 
+   "end": "166.720", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass wir diesen dann angemessen begegnen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "166.720", 
+   "children": [], 
+   "end": "170.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen, "
+   ]
+  }, 
+  {
+   "begin": "170.640", 
+   "children": [], 
+   "end": "171.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "meine Herren, "
+   ]
+  }, 
+  {
+   "begin": "171.120", 
+   "children": [], 
+   "end": "176.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "13\u00a0Monate nach dem Anschlag debattieren wir heute \u00fcber die Einsetzung eines Untersuchungsausschusses. "
+   ]
+  }, 
+  {
+   "begin": "176.600", 
+   "children": [], 
+   "end": "177.760", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin froh, "
+   ]
+  }, 
+  {
+   "begin": "177.760", 
+   "children": [], 
+   "end": "183.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass es f\u00fcr dieses wichtige Anliegen zumindest im Grundsatz eine breite Mehrheit gibt. "
+   ]
+  }, 
+  {
+   "begin": "183.880", 
+   "children": [], 
+   "end": "188.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Im Kern verfolgen doch alle Antr\u00e4ge dasselbe Ziel: "
+   ]
+  }, 
+  {
+   "begin": "188.120", 
+   "children": [], 
+   "end": "191.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Der Ausschuss soll sich ein umfassendes Bild von dem schrecklichen Terroranschlag, "
+   ]
+  }, 
+  {
+   "begin": "191.880", 
+   "children": [], 
+   "end": "194.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6glichen Mitt\u00e4tern und Hinterm\u00e4nnern verschaffen. "
+   ]
+  }, 
+  {
+   "begin": "194.480", 
+   "children": [], 
+   "end": "198.080", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem sollen Empfehlungen im Hinblick auf konkrete Systemver\u00e4nderungen bzw. "
+   ]
+  }, 
+  {
+   "begin": "198.080", 
+   "children": [], 
+   "end": "200.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "-verbesserungen erarbeitet werden; "
+   ]
+  }, 
+  {
+   "begin": "200.320", 
+   "children": [], 
+   "end": "202.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "denn uns allen ist klar, "
+   ]
+  }, 
+  {
+   "begin": "202.520", 
+   "children": [], 
+   "end": "206.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass sich so ein furchtbarer Anschlag nicht wiederholen darf."
+   ]
+  }, 
+  {
+   "begin": "206.400", 
+   "children": [], 
+   "end": "212.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Auch wenn die vier Antr\u00e4ge im Detail unterschiedlich formuliert sind, "
+   ]
+  }, 
+  {
+   "begin": "212.760", 
+   "children": [], 
+   "end": "213.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "bin ich zuversichtlich, "
+   ]
+  }, 
+  {
+   "begin": "213.760", 
+   "children": [], 
+   "end": "215.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass die Beratungen im Gesch\u00e4ftsordnungsausschuss, "
+   ]
+  }, 
+  {
+   "begin": "215.520", 
+   "children": [], 
+   "end": "217.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir alle verbal ein bisschen abr\u00fcsten, "
+   ]
+  }, 
+  {
+   "begin": "217.600", 
+   "children": [], 
+   "end": "220.040", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "zu einem guten Ergebnis f\u00fchren werden. "
+   ]
+  }, 
+  {
+   "begin": "220.040", 
+   "children": [], 
+   "end": "227.360", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Auf der Arbeitsebene haben wir in den letzten Wochen bereits einige Fortschritte in Richtung eines gemeinsamen Antrags erzielt."
+   ]
+  }, 
+  {
+   "begin": "227.360", 
+   "children": [], 
+   "end": "231.040", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir als SPD sind auf jeden Fall dazu bereit, "
+   ]
+  }, 
+  {
+   "begin": "231.040", 
+   "children": [], 
+   "end": "238.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "und wir setzen dabei auf den Kooperationswillen und die Kooperationsbereitschaft der \u00fcbrigen Fraktionen. "
+   ]
+  }, 
+  {
+   "begin": "238.000", 
+   "children": [], 
+   "end": "240.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Im Zuge dieser Gespr\u00e4che bietet sich aus meiner Sicht zum Beispiel an, "
+   ]
+  }, 
+  {
+   "begin": "240.920", 
+   "children": [], 
+   "end": "246.360", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die Aspekte der Pr\u00e4vention und der Deradikalisierung als Teil der Schlussfolgerungen zu erg\u00e4nzen."
+   ]
+  }, 
+  {
+   "begin": "248.520", 
+   "children": [], 
+   "end": "249.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen, "
+   ]
+  }, 
+  {
+   "begin": "249.400", 
+   "children": [], 
+   "end": "250.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "meine Herren, "
+   ]
+  }, 
+  {
+   "begin": "250.240", 
+   "children": [], 
+   "end": "260.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "der Anschlag am 19.\u00a0Dezember\u00a02016 war ein Angriff auf unser friedliches Zusammenleben in einer bunten und weltoffenen Gesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "260.200", 
+   "children": [], 
+   "end": "262.040", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir d\u00fcrfen nicht zulassen, "
+   ]
+  }, 
+  {
+   "begin": "262.040", 
+   "children": [], 
+   "end": "262.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass Terror, "
+   ]
+  }, 
+  {
+   "begin": "262.680", 
+   "children": [], 
+   "end": "267.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Hass und Angst dieses Zusammenleben in Deutschland zerst\u00f6ren."
+   ]
+  }, 
+  {
+   "begin": "267.560", 
+   "children": [], 
+   "end": "274.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns darum gemeinsam hier im Bundestag kritisch, "
+   ]
+  }, 
+  {
+   "begin": "274.360", 
+   "children": [], 
+   "end": "277.960", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "sachlich und fundiert aufkl\u00e4ren."
+   ]
+  }, 
+  {
+   "begin": "277.960", 
+   "children": [], 
+   "end": "278.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "278.760", 
+   "children": [], 
+   "end": "294.000", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Kollege Stephan Mayer f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

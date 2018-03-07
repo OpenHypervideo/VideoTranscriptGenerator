@@ -1,0 +1,954 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.400", 
+   "children": [], 
+   "end": "3.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "children": [], 
+   "end": "4.600", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "children": [], 
+   "end": "8.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Das Grundgesetz sagt in Artikel\u00a01 Absatz\u00a01:"
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "children": [], 
+   "end": "11.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die W\u00fcrde des Menschen ist unantastbar."
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "children": [], 
+   "end": "15.080", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Dies kann gar nicht hoch genug gesch\u00e4tzt werden. "
+   ]
+  }, 
+  {
+   "begin": "15.080", 
+   "children": [], 
+   "end": "17.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Es bezieht sich nicht nur auf Frauen, "
+   ]
+  }, 
+  {
+   "begin": "17.960", 
+   "children": [], 
+   "end": "19.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "es bezieht sich nicht nur auf Frauen, "
+   ]
+  }, 
+  {
+   "begin": "19.560", 
+   "children": [], 
+   "end": "21.000", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die hier geboren sind, "
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "children": [], 
+   "end": "24.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "es bezieht sich nicht nur auf nichtmuslimische Frauen, "
+   ]
+  }, 
+  {
+   "begin": "24.040", 
+   "children": [], 
+   "end": "26.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "sondern auf alle Menschen, "
+   ]
+  }, 
+  {
+   "begin": "26.160", 
+   "children": [], 
+   "end": "27.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die hier in Deutschland leben: "
+   ]
+  }, 
+  {
+   "begin": "27.880", 
+   "children": [], 
+   "end": "30.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "auf alle Frauen und auf alle M\u00e4nner."
+   ]
+  }, 
+  {
+   "begin": "30.760", 
+   "children": [], 
+   "end": "31.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "31.520", 
+   "children": [], 
+   "end": "36.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "dass sich ausgerechnet die AfD zur Verteidigung der Frauenrechte berufen f\u00fchlt! "
+   ]
+  }, 
+  {
+   "begin": "36.960", 
+   "children": [], 
+   "end": "45.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Im Wahlprogramm und in vielen Debatten hat sie noch ein sehr reaktion\u00e4res Frauenbild vertreten und eine \u201egute alte Zeit\u201c glorifiziert, "
+   ]
+  }, 
+  {
+   "begin": "45.920", 
+   "children": [], 
+   "end": "49.000", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die es so \u00fcberhaupt nicht gab, "
+   ]
+  }, 
+  {
+   "begin": "49.000", 
+   "children": [], 
+   "end": "54.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "in der Frauen eben nicht selbstbestimmt leben konnten und nicht die Rechte hatten, "
+   ]
+  }, 
+  {
+   "begin": "54.880", 
+   "children": [], 
+   "end": "58.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die wir heute ganz selbstverst\u00e4ndlich genie\u00dfen: "
+   ]
+  }, 
+  {
+   "begin": "58.360", 
+   "children": [], 
+   "end": "59.680", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Rechte, "
+   ]
+  }, 
+  {
+   "begin": "59.680", 
+   "children": [], 
+   "end": "76.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Frauen jahrzehntelang hart gek\u00e4mpft haben und die vor 100 Jahren beispielsweise in Deutschland im Frauenwahlrecht gem\u00fcndet sind."
+   ]
+  }, 
+  {
+   "begin": "76.400", 
+   "children": [], 
+   "end": "79.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Dass Sie das nicht verstehen, "
+   ]
+  }, 
+  {
+   "begin": "79.960", 
+   "children": [], 
+   "end": "82.280", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "das wundert mich echt nicht."
+   ]
+  }, 
+  {
+   "begin": "82.280", 
+   "children": [], 
+   "end": "84.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin stolz und froh, "
+   ]
+  }, 
+  {
+   "begin": "84.000", 
+   "children": [], 
+   "end": "89.160", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass meine Generation und die Generation unserer Kinder diese Rechte haben: "
+   ]
+  }, 
+  {
+   "begin": "89.160", 
+   "children": [], 
+   "end": "89.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "das Recht, "
+   ]
+  }, 
+  {
+   "begin": "89.600", 
+   "children": [], 
+   "end": "91.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "zu demonstrieren, "
+   ]
+  }, 
+  {
+   "begin": "91.040", 
+   "children": [], 
+   "end": "92.640", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "einen Beruf zu lernen, "
+   ]
+  }, 
+  {
+   "begin": "92.640", 
+   "children": [], 
+   "end": "94.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "einen Beruf auszu\u00fcben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "94.120", 
+   "children": [], 
+   "end": "96.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "ohne die Unterschrift des Mannes\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "96.400", 
+   "children": [], 
+   "end": "99.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "eine Religion auszu\u00fcben oder auch nicht, "
+   ]
+  }, 
+  {
+   "begin": "99.880", 
+   "children": [], 
+   "end": "102.920", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "eine Familie zu gr\u00fcnden oder auch nicht, "
+   ]
+  }, 
+  {
+   "begin": "102.920", 
+   "children": [], 
+   "end": "103.880", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "kurz: "
+   ]
+  }, 
+  {
+   "begin": "103.880", 
+   "children": [], 
+   "end": "108.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "ein selbstbestimmtes Leben in W\u00fcrde und Freiheit zu f\u00fchren."
+   ]
+  }, 
+  {
+   "begin": "108.080", 
+   "children": [], 
+   "end": "111.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "111.120", 
+   "children": [], 
+   "end": "114.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "auch ich bin gegen eine aggressive Form des Islams, "
+   ]
+  }, 
+  {
+   "begin": "114.920", 
+   "children": [], 
+   "end": "117.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die ein frauenfeindliches Weltbild vertritt. "
+   ]
+  }, 
+  {
+   "begin": "117.840", 
+   "children": [], 
+   "end": "118.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "118.600", 
+   "children": [], 
+   "end": "120.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "es ist f\u00fcr mich v\u00f6llig inakzeptabel, "
+   ]
+  }, 
+  {
+   "begin": "120.920", 
+   "children": [], 
+   "end": "123.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "wenn dieses Frauenbild in Deutschland gelebt wird,"
+   ]
+  }, 
+  {
+   "begin": "123.720", 
+   "children": [], 
+   "end": "132.600", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "sei es in Fl\u00fcchtlingsfamilien oder islamischen Familien der zweiten Generation oder welchen Familien auch immer. "
+   ]
+  }, 
+  {
+   "begin": "132.600", 
+   "children": [], 
+   "end": "134.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt kein Recht, "
+   ]
+  }, 
+  {
+   "begin": "134.000", 
+   "children": [], 
+   "end": "135.400", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "weder in Deutschland noch sonst wo, "
+   ]
+  }, 
+  {
+   "begin": "135.400", 
+   "children": [], 
+   "end": "139.600", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "eine Frau aus verschm\u00e4hter Liebe oder anderen Gr\u00fcnden zu ermorden. "
+   ]
+  }, 
+  {
+   "begin": "139.600", 
+   "children": [], 
+   "end": "145.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube an den deutschen Rechtsstaat und an eine unabh\u00e4ngige Justiz"
+   ]
+  }, 
+  {
+   "begin": "145.560", 
+   "children": [], 
+   "end": "145.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "und, "
+   ]
+  }, 
+  {
+   "begin": "145.760", 
+   "children": [], 
+   "end": "147.280", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "wie schon gesagt, "
+   ]
+  }, 
+  {
+   "begin": "147.280", 
+   "children": [], 
+   "end": "158.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "an unser Grundgesetz und ganz besonders an seinen Artikel\u00a01."
+   ]
+  }, 
+  {
+   "begin": "158.440", 
+   "children": [], 
+   "end": "162.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen es uns einfach machen und hier die B\u00f6sen und da die Guten sehen; "
+   ]
+  }, 
+  {
+   "begin": "162.600", 
+   "children": [], 
+   "end": "165.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "aber die Welt ist nun mal nicht schwarz-wei\u00df. "
+   ]
+  }, 
+  {
+   "begin": "165.200", 
+   "children": [], 
+   "end": "167.920", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Das wird die AfD auch noch lernen m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "167.920", 
+   "children": [], 
+   "end": "170.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen Probleme benennen und bek\u00e4mpfen, "
+   ]
+  }, 
+  {
+   "begin": "170.920", 
+   "children": [], 
+   "end": "174.240", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "und Gewalt gegen Frauen ist ein Problem. "
+   ]
+  }, 
+  {
+   "begin": "174.240", 
+   "children": [], 
+   "end": "176.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Nicht nur in ausl\u00e4ndischen Familien, "
+   ]
+  }, 
+  {
+   "begin": "176.840", 
+   "children": [], 
+   "end": "178.480", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "auch in deutschen Familien, "
+   ]
+  }, 
+  {
+   "begin": "178.480", 
+   "children": [], 
+   "end": "180.560", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die Sie immer so als Beispiel bringen, "
+   ]
+  }, 
+  {
+   "begin": "180.560", 
+   "children": [], 
+   "end": "183.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "werden Frauen geschlagen und Kinder misshandelt. "
+   ]
+  }, 
+  {
+   "begin": "183.720", 
+   "children": [], 
+   "end": "192.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Aber einfache Antworten l\u00f6sen das Grundproblem leider nicht und h\u00e4tten es auch vor dreieinhalb Jahren nicht gel\u00f6st."
+   ]
+  }, 
+  {
+   "begin": "192.880", 
+   "children": [], 
+   "end": "193.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es darum geht, "
+   ]
+  }, 
+  {
+   "begin": "193.760", 
+   "children": [], 
+   "end": "197.560", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "den deutschen Rechtsstaat zu st\u00e4rken und f\u00fcr Menschenrechte einzutreten, "
+   ]
+  }, 
+  {
+   "begin": "197.560", 
+   "children": [], 
+   "end": "199.760", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "gern auch besonders f\u00fcr Frauenrechte, "
+   ]
+  }, 
+  {
+   "begin": "199.760", 
+   "children": [], 
+   "end": "202.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "gibt es hier im Hause eine ganz breite Mehrheit. "
+   ]
+  }, 
+  {
+   "begin": "202.600", 
+   "children": [], 
+   "end": "204.840", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Der d\u00fcrfen Sie sich gern anschlie\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "204.840", 
+   "children": [], 
+   "end": "209.120", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "\u201eFrauenrechte st\u00e4rken\u201c ist nicht das, "
+   ]
+  }, 
+  {
+   "begin": "209.120", 
+   "children": [], 
+   "end": "212.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "was beispielsweise am Montag hier im Tipi geschehen ist. "
+   ]
+  }, 
+  {
+   "begin": "212.960", 
+   "children": [], 
+   "end": "228.520", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "In einer Gespr\u00e4chsrunde der Antidiskriminierungsstelle zum Thema \u201eKultur will Wandel\u201c \u00fcber sexualisierte Gewalt in der Filmbranche sind pl\u00f6tzlich junge Frauen von einer rechtsgerichteten Kampagne aufgestanden. "
+   ]
+  }, 
+  {
+   "begin": "228.520", 
+   "children": [], 
+   "end": "231.520", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Statt auf die Debatte einzugehen, "
+   ]
+  }, 
+  {
+   "begin": "231.520", 
+   "children": [], 
+   "end": "231.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "haben sie, "
+   ]
+  }, 
+  {
+   "begin": "231.960", 
+   "children": [], 
+   "end": "234.960", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "ohne das Rederecht der anderen zu akzeptieren, "
+   ]
+  }, 
+  {
+   "begin": "234.960", 
+   "children": [], 
+   "end": "240.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "mit Bannern und ohrenbet\u00e4ubendem L\u00e4rm ihre eigenen Thesen vertreten."
+   ]
+  }, 
+  {
+   "begin": "240.120", 
+   "children": [], 
+   "end": "245.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Diese Art von fehlender Debattenkultur st\u00e4rkt jedenfalls kein Frauen- "
+   ]
+  }, 
+  {
+   "begin": "245.560", 
+   "children": [], 
+   "end": "248.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "und kein Demonstrationsrecht,"
+   ]
+  }, 
+  {
+   "begin": "248.000", 
+   "children": [], 
+   "end": "250.520", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "sondern schadet jeder sachlichen, "
+   ]
+  }, 
+  {
+   "begin": "250.520", 
+   "children": [], 
+   "end": "252.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "kontroversen Debatte, "
+   ]
+  }, 
+  {
+   "begin": "252.240", 
+   "children": [], 
+   "end": "256.040", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "um die es doch angeblich geht."
+   ]
+  }, 
+  {
+   "begin": "256.040", 
+   "children": [], 
+   "end": "259.320", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wer selber laut und vehement das kritisiert, "
+   ]
+  }, 
+  {
+   "begin": "259.320", 
+   "children": [], 
+   "end": "261.200", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "was ihm nicht gef\u00e4llt, "
+   ]
+  }, 
+  {
+   "begin": "261.200", 
+   "children": [], 
+   "end": "262.840", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "der muss auch damit leben, "
+   ]
+  }, 
+  {
+   "begin": "262.840", 
+   "children": [], 
+   "end": "270.440", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass andere wiederum diese Kritik kritisieren und genauso von ihrem Recht auf Meinungs\u00e4u\u00dferung Gebrauch machen; "
+   ]
+  }, 
+  {
+   "begin": "270.440", 
+   "children": [], 
+   "end": "272.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "denn hier gilt buchst\u00e4blich: "
+   ]
+  }, 
+  {
+   "begin": "272.600", 
+   "children": [], 
+   "end": "275.440", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Gleiches Recht f\u00fcr alle."
+   ]
+  }, 
+  {
+   "begin": "275.440", 
+   "children": [], 
+   "end": "277.120", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin \u00fcberzeugt: "
+   ]
+  }, 
+  {
+   "begin": "277.120", 
+   "children": [], 
+   "end": "282.640", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen keine Demonstrationsrechte von Frauen st\u00e4rken und auch keine von M\u00e4nnern. "
+   ]
+  }, 
+  {
+   "begin": "282.640", 
+   "children": [], 
+   "end": "287.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Das ist in unserem Grundgesetz geregelt."
+   ]
+  }, 
+  {
+   "begin": "287.360", 
+   "children": [], 
+   "end": "289.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen unsere Rechte leben, "
+   ]
+  }, 
+  {
+   "begin": "289.760", 
+   "children": [], 
+   "end": "291.600", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "sch\u00fctzen und bewahren, "
+   ]
+  }, 
+  {
+   "begin": "291.600", 
+   "children": [], 
+   "end": "294.080", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "die wir hier in Deutschland bereits haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "294.080", 
+   "children": [], 
+   "end": "297.360", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr alle Frauen und f\u00fcr alle M\u00e4nner. "
+   ]
+  }, 
+  {
+   "begin": "297.360", 
+   "children": [], 
+   "end": "299.080", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr bin ich gew\u00e4hlt worden, "
+   ]
+  }, 
+  {
+   "begin": "299.080", 
+   "children": [], 
+   "end": "300.640", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "von Frauen und M\u00e4nnern, "
+   ]
+  }, 
+  {
+   "begin": "300.640", 
+   "children": [], 
+   "end": "309.880", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "und daf\u00fcr setze ich mich ein."
+   ]
+  }, 
+  {
+   "begin": "309.880", 
+   "children": [], 
+   "end": "310.040", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "310.040", 
+   "children": [], 
+   "end": "312.080", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Ursula Groden-Kranich.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "312.080", 
+   "children": [], 
+   "end": "314.600", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin f\u00fcr die SPD-Fraktion: "
+   ]
+  }, 
+  {
+   "begin": "314.600", 
+   "children": [], 
+   "end": "316.000", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Elisabeth Kaiser."
+   ]
+  }
+ ]
+}

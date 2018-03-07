@@ -1,0 +1,1334 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.800", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "children": [], 
+   "end": "2.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "children": [], 
+   "end": "4.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Voltaire soll den Jemen einmal als das angenehmste Land der Erde bezeichnet haben. "
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "children": [], 
+   "end": "5.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Leider entspricht die Situation\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "5.120", 
+   "children": [], 
+   "end": "6.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "sie ist vielfach beschrieben worden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "children": [], 
+   "end": "7.000", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "im Jemen genau dem Gegenteil. "
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "children": [], 
+   "end": "7.001", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Die Menschen, "
+   ]
+  }, 
+  {
+   "begin": "7.001", 
+   "children": [], 
+   "end": "7.200", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "ob sie schon lange dort leben oder ob sie dort gestrandet sind, "
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "children": [], 
+   "end": "7.640", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "weil sie aus Somalia gefl\u00fcchtet sind, "
+   ]
+  }, 
+  {
+   "begin": "7.640", 
+   "children": [], 
+   "end": "8.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen den Jemen seit vielen Monaten eher als H\u00f6lle auf Erden begreifen."
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "children": [], 
+   "end": "8.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb will ich noch einmal einf\u00fchrend kurz darauf hinweisen: "
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "children": [], 
+   "end": "8.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "children": [], 
+   "end": "9.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "es ist die gr\u00f6\u00dfte humanit\u00e4re Katastrophe, "
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "children": [], 
+   "end": "9.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die sich zurzeit in der Welt abspielt. "
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "children": [], 
+   "end": "9.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Es fehlt an allem: "
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "children": [], 
+   "end": "9.361", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "an Nahrung, "
+   ]
+  }, 
+  {
+   "begin": "9.361", 
+   "children": [], 
+   "end": "9.362", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "an sauberem Trinkwasser, "
+   ]
+  }, 
+  {
+   "begin": "9.362", 
+   "children": [], 
+   "end": "9.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "an einer funktionierenden Gesundheitsversorgung. "
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "children": [], 
+   "end": "10.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber 22\u00a0Millionen Menschen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "children": [], 
+   "end": "10.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "zwei Drittel der Bev\u00f6lkerung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "children": [], 
+   "end": "10.560", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "sind auf Hilfe, "
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "children": [], 
+   "end": "11.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere auf Nahrungshilfe, "
+   ]
+  }, 
+  {
+   "begin": "11.280", 
+   "children": [], 
+   "end": "11.281", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "angewiesen. "
+   ]
+  }, 
+  {
+   "begin": "11.281", 
+   "children": [], 
+   "end": "11.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Vereinten Nationen und ihre Hilfswerke k\u00e4mpfen gegen Diphtherie und vor allem gegen die weltweit gr\u00f6\u00dfte Cholera-Epidemie. "
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "children": [], 
+   "end": "11.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Mehr als 90\u00a0Prozent des Gebietes des Jemens sind hiervon betroffen."
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "children": [], 
+   "end": "12.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Zur Lagebeschreibung geh\u00f6rt auch, "
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "children": [], 
+   "end": "12.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "zu sagen: "
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "children": [], 
+   "end": "13.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die milit\u00e4rische Intervention der saudi-arabisch gef\u00fchrten Koalition konnte den Konflikt nicht entscheiden oder gar l\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "children": [], 
+   "end": "14.200", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Das Gegenteil ist der Fall. "
+   ]
+  }, 
+  {
+   "begin": "14.200", 
+   "children": [], 
+   "end": "16.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die humanit\u00e4re Lage im Land hat sich im Zuge von Seeblockaden und der Zerst\u00f6rung ziviler Ziele dramatisch verschlechtert. "
+   ]
+  }, 
+  {
+   "begin": "16.240", 
+   "children": [], 
+   "end": "16.720", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Der ehemalige VN-Sondergesandte f\u00fcr den Jemen, "
+   ]
+  }, 
+  {
+   "begin": "16.720", 
+   "children": [], 
+   "end": "17.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ismail Ould Cheikh Ahmed, "
+   ]
+  }, 
+  {
+   "begin": "17.440", 
+   "children": [], 
+   "end": "19.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "hat sich drei Jahre lang vergeblich um eine politische L\u00f6sung bem\u00fcht. "
+   ]
+  }, 
+  {
+   "begin": "19.520", 
+   "children": [], 
+   "end": "23.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Doch trotz der wachsenden internationalen Kritik und der katastrophalen Lage im Land h\u00e4lt die saudisch gef\u00fchrte Koalition an ihrem Kurs fest. "
+   ]
+  }, 
+  {
+   "begin": "23.920", 
+   "children": [], 
+   "end": "26.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Auf der anderen Seite tragen auch die Huthi-Rebellen ihren Teil zur Eskalation bei. "
+   ]
+  }, 
+  {
+   "begin": "26.680", 
+   "children": [], 
+   "end": "27.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Mit Raketenangriffen auf Saudi-Arabien nehmen sie zudem bewusst auch zivile Opfer in Kauf."
+   ]
+  }, 
+  {
+   "begin": "27.560", 
+   "children": [], 
+   "end": "27.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "27.720", 
+   "children": [], 
+   "end": "28.160", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Herr Neu h\u00e4tte noch eine Zwischenfrage. "
+   ]
+  }, 
+  {
+   "begin": "28.160", 
+   "children": [], 
+   "end": "28.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Gestatten Sie das?"
+   ]
+  }, 
+  {
+   "begin": "28.440", 
+   "children": [], 
+   "end": "29.120", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Bezieht sich die Frage auf meine Ausf\u00fchrungen, "
+   ]
+  }, 
+  {
+   "begin": "29.120", 
+   "children": [], 
+   "end": "29.560", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "oder wollen Sie gleich wieder zu den R\u00fcstungsexporten kommen?"
+   ]
+  }, 
+  {
+   "begin": "29.560", 
+   "children": [], 
+   "end": "29.561", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Bitte."
+   ]
+  }, 
+  {
+   "begin": "29.561", 
+   "children": [], 
+   "end": "29.562", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Schmid, "
+   ]
+  }, 
+  {
+   "begin": "29.562", 
+   "children": [], 
+   "end": "29.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Frau Motschmann hat sich au\u00dferstande gesehen, "
+   ]
+  }, 
+  {
+   "begin": "29.960", 
+   "children": [], 
+   "end": "30.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "meine Frage zu beantworten, "
+   ]
+  }, 
+  {
+   "begin": "30.600", 
+   "children": [], 
+   "end": "32.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "welche Staaten k\u00fcnftig nicht mehr mit deutschen R\u00fcstungsg\u00fctern versorgt werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "32.680", 
+   "children": [], 
+   "end": "32.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "weil sie in dem Jemen-Konflikt direkt involviert sind. "
+   ]
+  }, 
+  {
+   "begin": "32.760", 
+   "children": [], 
+   "end": "33.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Sie verwies auf den Bundessicherheitsrat, "
+   ]
+  }, 
+  {
+   "begin": "33.200", 
+   "children": [], 
+   "end": "34.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "der nat\u00fcrlich geheim tagt und die Informationen nicht preisgibt."
+   ]
+  }, 
+  {
+   "begin": "34.920", 
+   "children": [], 
+   "end": "36.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Meine Frage an Sie: "
+   ]
+  }, 
+  {
+   "begin": "36.120", 
+   "children": [], 
+   "end": "37.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wissen Sie als Teil der SPD und sicherlich auch als Teil der Arbeitsgruppe, "
+   ]
+  }, 
+  {
+   "begin": "37.360", 
+   "children": [], 
+   "end": "38.400", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "welche Staaten damit gemeint sind? "
+   ]
+  }, 
+  {
+   "begin": "38.400", 
+   "children": [], 
+   "end": "39.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie nicht Teil der Arbeitsgruppe waren: "
+   ]
+  }, 
+  {
+   "begin": "39.880", 
+   "children": [], 
+   "end": "41.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "K\u00f6nnen Sie mir die Anschrift eines MdB oder eines Parteimitgliedes nennen, "
+   ]
+  }, 
+  {
+   "begin": "41.720", 
+   "children": [], 
+   "end": "44.640", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "der Teil dieser Arbeitsgruppe war und diese Auskunft geben k\u00f6nnte? "
+   ]
+  }, 
+  {
+   "begin": "44.640", 
+   "children": [], 
+   "end": "45.920", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Es ist von gro\u00dfem Interesse f\u00fcr die Menschen in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "45.920", 
+   "children": [], 
+   "end": "46.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "zu wissen, "
+   ]
+  }, 
+  {
+   "begin": "46.320", 
+   "children": [], 
+   "end": "47.320", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "welche Staaten damit gemeint sind."
+   ]
+  }, 
+  {
+   "begin": "47.320", 
+   "children": [], 
+   "end": "47.720", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Dazu komme ich noch, "
+   ]
+  }, 
+  {
+   "begin": "47.720", 
+   "children": [], 
+   "end": "47.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "sehr geehrter Herr Kollege Neu.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "47.960", 
+   "children": [], 
+   "end": "48.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Mir geht es jetzt erst einmal darum, "
+   ]
+  }, 
+  {
+   "begin": "48.240", 
+   "children": [], 
+   "end": "49.000", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns die Lage vor Augen halten. "
+   ]
+  }, 
+  {
+   "begin": "49.000", 
+   "children": [], 
+   "end": "49.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen die Lage und die Rolle des Irans nicht untersch\u00e4tzen. "
+   ]
+  }, 
+  {
+   "begin": "49.960", 
+   "children": [], 
+   "end": "49.961", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen, "
+   ]
+  }, 
+  {
+   "begin": "49.961", 
+   "children": [], 
+   "end": "50.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass er vermutlich die Huthi-Rebellen unterst\u00fctzt, "
+   ]
+  }, 
+  {
+   "begin": "50.280", 
+   "children": [], 
+   "end": "51.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "indem er Waffen liefert und f\u00fcr Ausbildung sorgt. "
+   ]
+  }, 
+  {
+   "begin": "51.240", 
+   "children": [], 
+   "end": "52.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man diese hochkomplexe Gemengelage zusammennimmt, "
+   ]
+  }, 
+  {
+   "begin": "52.800", 
+   "children": [], 
+   "end": "54.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dann ist eine Engf\u00fchrung auf die Frage deutscher Waffenexporte einfach unzureichend, "
+   ]
+  }, 
+  {
+   "begin": "54.240", 
+   "children": [], 
+   "end": "54.680", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn ich gerne darauf eingehen will."
+   ]
+  }, 
+  {
+   "begin": "54.680", 
+   "children": [], 
+   "end": "54.840", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich will zun\u00e4chst einmal sagen, "
+   ]
+  }, 
+  {
+   "begin": "54.840", 
+   "children": [], 
+   "end": "55.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "was unser Handeln leitet. "
+   ]
+  }, 
+  {
+   "begin": "55.000", 
+   "children": [], 
+   "end": "57.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen uns weiterhin f\u00fcr eine politische L\u00f6sung des Konflikts unter der Leitung der Vereinten Nationen einsetzen. "
+   ]
+  }, 
+  {
+   "begin": "57.560", 
+   "children": [], 
+   "end": "58.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "So ist es auch im Koalitionsvertrag benannt. "
+   ]
+  }, 
+  {
+   "begin": "58.760", 
+   "children": [], 
+   "end": "59.320", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wir unterst\u00fctzen deshalb auch den neuen UN-Sondergesandten f\u00fcr den Jemen, "
+   ]
+  }, 
+  {
+   "begin": "59.320", 
+   "children": [], 
+   "end": "59.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Martin Griffiths, "
+   ]
+  }, 
+  {
+   "begin": "59.360", 
+   "children": [], 
+   "end": "60.000", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "in seiner Arbeit. "
+   ]
+  }, 
+  {
+   "begin": "60.000", 
+   "children": [], 
+   "end": "61.920", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Er wurde in der vorigen Woche zu Gespr\u00e4chen im Ausw\u00e4rtigen Amt empfangen. "
+   ]
+  }, 
+  {
+   "begin": "61.920", 
+   "children": [], 
+   "end": "64.680", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wir unterst\u00fctzen vor allem auch die Arbeit der internationalen Expertenkommission im Jemen, "
+   ]
+  }, 
+  {
+   "begin": "64.680", 
+   "children": [], 
+   "end": "66.840", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die dort in alle Gebiete reisen k\u00f6nnen muss und nicht von bestimmten Gebieten ausgeschlossen werden darf. "
+   ]
+  }, 
+  {
+   "begin": "66.840", 
+   "children": [], 
+   "end": "67.680", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden weiterhin die humanit\u00e4re Hilfe im Jemen unterst\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "67.680", 
+   "children": [], 
+   "end": "68.160", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind drittgr\u00f6\u00dfter Geber. "
+   ]
+  }, 
+  {
+   "begin": "68.160", 
+   "children": [], 
+   "end": "69.080", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Die Kollegin von der CDU/CSU hat darauf hingewiesen. "
+   ]
+  }, 
+  {
+   "begin": "69.080", 
+   "children": [], 
+   "end": "71.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Im Jahr\u00a02017 waren es allein 165\u00a0Millionen Euro."
+   ]
+  }, 
+  {
+   "begin": "71.360", 
+   "children": [], 
+   "end": "73.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Die Waffenexporte sind in Deutschland schon mit den restriktivsten und transparentesten Regelungen im Vergleich zur gesamten EU ausgestattet."
+   ]
+  }, 
+  {
+   "begin": "73.720", 
+   "children": [], 
+   "end": "74.920", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich eines festhalten: "
+   ]
+  }, 
+  {
+   "begin": "74.920", 
+   "children": [], 
+   "end": "76.080", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Sozialdemokraten haben ma\u00dfgeblich daran mitgewirkt, "
+   ]
+  }, 
+  {
+   "begin": "76.080", 
+   "children": [], 
+   "end": "76.680", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "dass es so weit gekommen ist."
+   ]
+  }, 
+  {
+   "begin": "76.680", 
+   "children": [], 
+   "end": "77.560", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb haben wir in den Koalitionsverhandlungen durchgesetzt, "
+   ]
+  }, 
+  {
+   "begin": "77.560", 
+   "children": [], 
+   "end": "78.520", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "dass ab sofort keine Ausfuhren von R\u00fcstungsg\u00fctern an L\u00e4nder genehmigt werden, "
+   ]
+  }, 
+  {
+   "begin": "78.520", 
+   "children": [], 
+   "end": "79.200", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "die unmittelbar am Jemen-Krieg beteiligt sind."
+   ]
+  }, 
+  {
+   "begin": "79.200", 
+   "children": [], 
+   "end": "79.760", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Darauf haben Sie zu Recht hingewiesen. "
+   ]
+  }, 
+  {
+   "begin": "79.760", 
+   "children": [], 
+   "end": "80.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Erlauben Sie mir \u00fcbrigens den Hinweis, "
+   ]
+  }, 
+  {
+   "begin": "80.360", 
+   "children": [], 
+   "end": "83.000", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "dass ich aus den Dokumenten rund um die Jamaika-Sondierungen keinerlei Hinweise auf eine solche Regelung gefunden habe."
+   ]
+  }, 
+  {
+   "begin": "83.000", 
+   "children": [], 
+   "end": "83.160", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "83.160", 
+   "children": [], 
+   "end": "84.600", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "der Kollege Trittin hat eine Zwischenfrage. "
+   ]
+  }, 
+  {
+   "begin": "84.600", 
+   "children": [], 
+   "end": "85.000", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie sie zu?"
+   ]
+  }, 
+  {
+   "begin": "85.000", 
+   "children": [], 
+   "end": "85.760", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich das erst ausf\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "85.760", 
+   "children": [], 
+   "end": "86.120", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "dann k\u00f6nnen Sie Ihre Frage stellen. "
+   ]
+  }, 
+  {
+   "begin": "86.120", 
+   "children": [], 
+   "end": "86.360", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht erledigt es sich auch ja, "
+   ]
+  }, 
+  {
+   "begin": "86.360", 
+   "children": [], 
+   "end": "86.640", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Trittin."
+   ]
+  }, 
+  {
+   "begin": "86.640", 
+   "children": [], 
+   "end": "86.760", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich darauf hinweisen, "
+   ]
+  }, 
+  {
+   "begin": "86.760", 
+   "children": [], 
+   "end": "86.761", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "dass diese klare Haltung der noch nicht ins Amt gekommenen zuk\u00fcnftigen Bundesregierung durchaus einige Aufmerksamkeit, "
+   ]
+  }, 
+  {
+   "begin": "86.761", 
+   "children": [], 
+   "end": "86.762", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere in Saudi-Arabien, "
+   ]
+  }, 
+  {
+   "begin": "86.762", 
+   "children": [], 
+   "end": "86.763", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "hervorgerufen hat. "
+   ]
+  }, 
+  {
+   "begin": "86.763", 
+   "children": [], 
+   "end": "86.764", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie die j\u00fcngsten Pressemeldungen lesen, "
+   ]
+  }, 
+  {
+   "begin": "86.764", 
+   "children": [], 
+   "end": "86.765", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "dann wissen Sie, "
+   ]
+  }, 
+  {
+   "begin": "86.765", 
+   "children": [], 
+   "end": "87.000", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "dass die saudi-arabische Regierung die Botschaft, "
+   ]
+  }, 
+  {
+   "begin": "87.000", 
+   "children": [], 
+   "end": "88.000", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "die hinter dieser Aussage des Koalitionsvertrages steht, "
+   ]
+  }, 
+  {
+   "begin": "88.000", 
+   "children": [], 
+   "end": "88.240", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "verstanden hat. "
+   ]
+  }, 
+  {
+   "begin": "88.240", 
+   "children": [], 
+   "end": "88.600", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb werden wir das, "
+   ]
+  }, 
+  {
+   "begin": "88.600", 
+   "children": [], 
+   "end": "89.680", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "was im Koalitionsvertrag vereinbart ist, "
+   ]
+  }, 
+  {
+   "begin": "89.680", 
+   "children": [], 
+   "end": "90.120", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "umsetzen, "
+   ]
+  }, 
+  {
+   "begin": "90.120", 
+   "children": [], 
+   "end": "90.400", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "wenn er angenommen wird."
+   ]
+  }, 
+  {
+   "begin": "90.400", 
+   "children": [], 
+   "end": "90.401", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Sie fragen, "
+   ]
+  }, 
+  {
+   "begin": "90.401", 
+   "children": [], 
+   "end": "90.560", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "wie es umgesetzt wird. "
+   ]
+  }, 
+  {
+   "begin": "90.560", 
+   "children": [], 
+   "end": "90.840", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Sie kennen genauso gut wie ich die Regeln."
+   ]
+  }, 
+  {
+   "begin": "90.840", 
+   "children": [], 
+   "end": "90.841", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "R\u00fcstungsexporte sind Einzelfallentscheidungen. "
+   ]
+  }, 
+  {
+   "begin": "90.841", 
+   "children": [], 
+   "end": "90.842", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Die werden vom Bundessicherheitsrat getroffen. "
+   ]
+  }, 
+  {
+   "begin": "90.842", 
+   "children": [], 
+   "end": "90.843", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir entscheiden, "
+   ]
+  }, 
+  {
+   "begin": "90.843", 
+   "children": [], 
+   "end": "91.000", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "welche R\u00fcstungsexporte in Drittl\u00e4nder genehmigt werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "91.000", 
+   "children": [], 
+   "end": "91.440", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "kommt es entscheidend darauf an, "
+   ]
+  }, 
+  {
+   "begin": "91.440", 
+   "children": [], 
+   "end": "93.360", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "ob sie sich mit den beantragten R\u00fcstungsg\u00fctern unmittelbar an dem Jemen-Konflikt milit\u00e4risch beteiligen werden oder nicht."
+   ]
+  }, 
+  {
+   "begin": "93.360", 
+   "children": [], 
+   "end": "94.480", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Das wird dann jeweils im Einzelfall zu entscheiden sein."
+   ]
+  }, 
+  {
+   "begin": "94.480", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt kann man festhalten, "
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "97.440", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "dass die wesentliche milit\u00e4rische Beteiligung vonseiten Saudi-Arabiens und der Vereinigten Arabischen Emirate erbracht wird. "
+   ]
+  }, 
+  {
+   "begin": "97.440", 
+   "children": [], 
+   "end": "97.560", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "So ist die Sachlage, "
+   ]
+  }, 
+  {
+   "begin": "97.560", 
+   "children": [], 
+   "end": "97.720", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "wenn ich richtig informiert bin. "
+   ]
+  }, 
+  {
+   "begin": "97.720", 
+   "children": [], 
+   "end": "100.480", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb werden zuk\u00fcnftig R\u00fcstungsexporte in diese L\u00e4nder besonders genau gepr\u00fcft und im Zweifel im Einzelfall selbstverst\u00e4ndlich abgelehnt werden, "
+   ]
+  }, 
+  {
+   "begin": "100.480", 
+   "children": [], 
+   "end": "101.240", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "so wie es \u00dcbung in den Entscheidungsgremien der Bundesregierung ist. "
+   ]
+  }, 
+  {
+   "begin": "101.240", 
+   "children": [], 
+   "end": "101.840", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Da machen Sie sich einmal keine Sorgen."
+   ]
+  }, 
+  {
+   "begin": "101.840", 
+   "children": [], 
+   "end": "106.200", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden diese Passage des Koalitionsvertrages genauso getreulich umsetzen wie die anderen 180 Seiten."
+   ]
+  }, 
+  {
+   "begin": "106.200", 
+   "children": [], 
+   "end": "106.920", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "106.920", 
+   "children": [], 
+   "end": "108.720", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Ich erteile das Wort zu einer Kurzintervention dem Kollegen Trittin."
+   ]
+  }
+ ]
+}

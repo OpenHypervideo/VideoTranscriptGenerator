@@ -1,0 +1,644 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.720", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "children": [], 
+   "end": "6.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "6.520", 
+   "children": [], 
+   "end": "10.600", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Frau M\u00f6hring, "
+   ]
+  }, 
+  {
+   "begin": "10.600", 
+   "children": [], 
+   "end": "13.880", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sie waren emotional, "
+   ]
+  }, 
+  {
+   "begin": "13.880", 
+   "children": [], 
+   "end": "18.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "aber Sie haben denselben Fehler wie andere Redner vor Ihnen gemacht: "
+   ]
+  }, 
+  {
+   "begin": "18.880", 
+   "children": [], 
+   "end": "23.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben wieder einmal die schwere Situation der Frau gesehen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.840", 
+   "children": [], 
+   "end": "24.640", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "jawohl\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "24.640", 
+   "children": [], 
+   "end": "27.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "aber die Situation des Kindes v\u00f6llig ausgeblendet."
+   ]
+  }, 
+  {
+   "begin": "27.600", 
+   "children": [], 
+   "end": "29.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Seien wir doch einmal ehrlich: "
+   ]
+  }, 
+  {
+   "begin": "29.320", 
+   "children": [], 
+   "end": "31.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ein Mangel an Informationen dazu, "
+   ]
+  }, 
+  {
+   "begin": "31.400", 
+   "children": [], 
+   "end": "33.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wie Schwangerschaftsabbr\u00fcche ablaufen, "
+   ]
+  }, 
+  {
+   "begin": "33.800", 
+   "children": [], 
+   "end": "36.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "gibt es objektiv nicht. "
+   ]
+  }, 
+  {
+   "begin": "36.000", 
+   "children": [], 
+   "end": "37.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Dass Sie das behaupten, "
+   ]
+  }, 
+  {
+   "begin": "37.760", 
+   "children": [], 
+   "end": "39.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Frau Schauws oder Frau H\u00f6gl, "
+   ]
+  }, 
+  {
+   "begin": "39.960", 
+   "children": [], 
+   "end": "42.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "entspricht einfach nicht der Realit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "42.360", 
+   "children": [], 
+   "end": "42.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es geht, "
+   ]
+  }, 
+  {
+   "begin": "42.920", 
+   "children": [], 
+   "end": "44.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "44.480", 
+   "children": [], 
+   "end": "46.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "auch nicht um die technischen Informationen."
+   ]
+  }, 
+  {
+   "begin": "46.360", 
+   "children": [], 
+   "end": "47.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Es geht nicht darum, "
+   ]
+  }, 
+  {
+   "begin": "47.720", 
+   "children": [], 
+   "end": "48.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "zu wissen, "
+   ]
+  }, 
+  {
+   "begin": "48.280", 
+   "children": [], 
+   "end": "49.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wie die OP abl\u00e4uft. "
+   ]
+  }, 
+  {
+   "begin": "49.720", 
+   "children": [], 
+   "end": "49.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "49.960", 
+   "children": [], 
+   "end": "50.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "50.760", 
+   "children": [], 
+   "end": "51.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "es geht bei der Frage, "
+   ]
+  }, 
+  {
+   "begin": "51.960", 
+   "children": [], 
+   "end": "55.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "ob eine Schwangerschaft beendet wird oder nicht, "
+   ]
+  }, 
+  {
+   "begin": "55.040", 
+   "children": [], 
+   "end": "57.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "um die psychisch unglaublich belastende Situation, "
+   ]
+  }, 
+  {
+   "begin": "57.720", 
+   "children": [], 
+   "end": "59.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "in der sich die Frau, "
+   ]
+  }, 
+  {
+   "begin": "59.160", 
+   "children": [], 
+   "end": "61.000", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die Familie befindet. "
+   ]
+  }, 
+  {
+   "begin": "61.000", 
+   "children": [], 
+   "end": "66.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Diese psychische Situation l\u00e4sst sich nicht durch das Aufrufen einer Internetseite aufl\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "66.880", 
+   "children": [], 
+   "end": "68.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Dazu braucht es Gespr\u00e4che, "
+   ]
+  }, 
+  {
+   "begin": "68.640", 
+   "children": [], 
+   "end": "71.520", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dazu braucht es gerade das Beratungsgespr\u00e4ch."
+   ]
+  }, 
+  {
+   "begin": "71.520", 
+   "children": [], 
+   "end": "76.040", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist \u00a7\u00a0219a, "
+   ]
+  }, 
+  {
+   "begin": "76.040", 
+   "children": [], 
+   "end": "77.880", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn er trocken klingen mag, "
+   ]
+  }, 
+  {
+   "begin": "77.880", 
+   "children": [], 
+   "end": "79.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "nach wie vor notwendig; "
+   ]
+  }, 
+  {
+   "begin": "79.280", 
+   "children": [], 
+   "end": "82.720", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "denn er macht sich zum Anwalt der ungeborenen Kinder. "
+   ]
+  }, 
+  {
+   "begin": "82.720", 
+   "children": [], 
+   "end": "85.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Er macht vielleicht nicht ausreichend, "
+   ]
+  }, 
+  {
+   "begin": "85.560", 
+   "children": [], 
+   "end": "87.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "aber dennoch deutlich, "
+   ]
+  }, 
+  {
+   "begin": "87.120", 
+   "children": [], 
+   "end": "91.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass er die verletzlichste und schw\u00e4chste Form des Lebens sch\u00fctzt."
+   ]
+  }, 
+  {
+   "begin": "91.440", 
+   "children": [], 
+   "end": "92.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "92.680", 
+   "children": [], 
+   "end": "93.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "ich frage mich, "
+   ]
+  }, 
+  {
+   "begin": "93.200", 
+   "children": [], 
+   "end": "94.960", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "wie viele von Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "94.960", 
+   "children": [], 
+   "end": "99.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die hier f\u00fcr eine Abschaffung des Werbungsverbots pl\u00e4dieren, "
+   ]
+  }, 
+  {
+   "begin": "99.040", 
+   "children": [], 
+   "end": "101.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "schon einmal mit Frauen gesprochen haben, "
+   ]
+  }, 
+  {
+   "begin": "101.040", 
+   "children": [], 
+   "end": "103.440", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "die einen solchen Eingriff hinter sich haben"
+   ]
+  }, 
+  {
+   "begin": "103.440", 
+   "children": [], 
+   "end": "108.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "und die sich zum Teil ihr Leben lang genau diesen Eingriff nicht mehr verzeihen."
+   ]
+  }, 
+  {
+   "begin": "108.040", 
+   "children": [], 
+   "end": "108.560", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "108.560", 
+   "children": [], 
+   "end": "112.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "der Erhalt von \u00a7\u00a0219a\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "112.120", 
+   "children": [], 
+   "end": "113.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "egal, "
+   ]
+  }, 
+  {
+   "begin": "113.000", 
+   "children": [], 
+   "end": "114.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "wie laut Sie werden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "114.400", 
+   "children": [], 
+   "end": "116.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "ist mehr als nur ein Symbol. "
+   ]
+  }, 
+  {
+   "begin": "116.400", 
+   "children": [], 
+   "end": "119.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Er sch\u00fctzt gleicherma\u00dfen die Frau und das Kind. "
+   ]
+  }, 
+  {
+   "begin": "119.560", 
+   "children": [], 
+   "end": "122.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wenn uns diese Kinder wirklich am Herzen liegen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "122.200", 
+   "children": [], 
+   "end": "125.000", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "es sind in der Tat nach wie vor viel zu viele; "
+   ]
+  }, 
+  {
+   "begin": "125.000", 
+   "children": [], 
+   "end": "129.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "vermutlich mehr als 100\u00a0000 pro Jahr in Deutschland\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "129.360", 
+   "children": [], 
+   "end": "136.040", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dann sollten wir bei \u00a7\u00a0219a nicht zur\u00fcckweichen und den Schutz, "
+   ]
+  }, 
+  {
+   "begin": "136.040", 
+   "children": [], 
+   "end": "137.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "den er nach wie vor bietet, "
+   ]
+  }, 
+  {
+   "begin": "137.280", 
+   "children": [], 
+   "end": "138.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "ernst nehmen."
+   ]
+  }, 
+  {
+   "begin": "138.360", 
+   "children": [], 
+   "end": "140.320", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden auf die Probe gestellt. "
+   ]
+  }, 
+  {
+   "begin": "140.320", 
+   "children": [], 
+   "end": "141.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin der Meinung, "
+   ]
+  }, 
+  {
+   "begin": "141.400", 
+   "children": [], 
+   "end": "144.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wir sollten es an dieser Stelle genauso belassen, "
+   ]
+  }, 
+  {
+   "begin": "144.320", 
+   "children": [], 
+   "end": "145.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "wie es ist, "
+   ]
+  }, 
+  {
+   "begin": "145.240", 
+   "children": [], 
+   "end": "148.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "und hier dem ungeborenen Leben Tribut zollen."
+   ]
+  }, 
+  {
+   "begin": "148.840", 
+   "children": [], 
+   "end": "153.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "153.960", 
+   "children": [], 
+   "end": "160.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die CDU/CSU-Fraktion erteile ich das Wort der Kollegin Elisabeth Winkelmeier-Becker."
+   ]
+  }
+ ]
+}

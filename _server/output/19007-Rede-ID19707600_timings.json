@@ -1,0 +1,814 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "13.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Lukasz Urban, "
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "children": [], 
+   "end": "17.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Dorit Krebs, "
+   ]
+  }, 
+  {
+   "begin": "17.880", 
+   "children": [], 
+   "end": "20.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sebastian Berlin, "
+   ]
+  }, 
+  {
+   "begin": "20.760", 
+   "children": [], 
+   "end": "23.640", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Angelika Kl\u00f6sters, "
+   ]
+  }, 
+  {
+   "begin": "23.640", 
+   "children": [], 
+   "end": "26.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Dalia Elyakim, "
+   ]
+  }, 
+  {
+   "begin": "26.320", 
+   "children": [], 
+   "end": "29.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Anna Bagratuni, "
+   ]
+  }, 
+  {
+   "begin": "29.200", 
+   "children": [], 
+   "end": "32.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Georgiy Bagratuni, "
+   ]
+  }, 
+  {
+   "begin": "32.040", 
+   "children": [], 
+   "end": "34.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Peter V\u00f6lker, "
+   ]
+  }, 
+  {
+   "begin": "34.120", 
+   "children": [], 
+   "end": "37.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Fabrizia Di Lorenzo, "
+   ]
+  }, 
+  {
+   "begin": "37.160", 
+   "children": [], 
+   "end": "38.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Klaus Jacob, "
+   ]
+  }, 
+  {
+   "begin": "38.520", 
+   "children": [], 
+   "end": "41.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Christoph Herrlich, "
+   ]
+  }, 
+  {
+   "begin": "41.320", 
+   "children": [], 
+   "end": "43.720", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Nada Cizm\u00e1r\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "43.720", 
+   "children": [], 
+   "end": "47.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "das sind die Namen der sechs Frauen und sechs M\u00e4nner, "
+   ]
+  }, 
+  {
+   "begin": "47.400", 
+   "children": [], 
+   "end": "48.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die vor rund einem Jahr, "
+   ]
+  }, 
+  {
+   "begin": "48.720", 
+   "children": [], 
+   "end": "51.880", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "am 19.\u00a0Dezember\u00a02016, "
+   ]
+  }, 
+  {
+   "begin": "51.880", 
+   "children": [], 
+   "end": "58.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "bei einem der schrecklichsten Terroranschl\u00e4ge in der Geschichte unseres Landes ihr Leben verloren."
+   ]
+  }, 
+  {
+   "begin": "58.840", 
+   "children": [], 
+   "end": "65.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Dutzende Menschen wurden bei diesem Anschlag zum Teil sehr schwer verletzt. "
+   ]
+  }, 
+  {
+   "begin": "65.040", 
+   "children": [], 
+   "end": "69.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Viele von ihnen und viele Angeh\u00f6rige k\u00e4mpfen noch heute darum, "
+   ]
+  }, 
+  {
+   "begin": "69.880", 
+   "children": [], 
+   "end": "73.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "einen Weg zur\u00fcck in ihr Leben zu finden. "
+   ]
+  }, 
+  {
+   "begin": "73.360", 
+   "children": [], 
+   "end": "75.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Den Familien der Toten, "
+   ]
+  }, 
+  {
+   "begin": "75.600", 
+   "children": [], 
+   "end": "79.760", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "den Hinterbliebenen und Verletzten des Anschlags m\u00f6chte ich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "79.760", 
+   "children": [], 
+   "end": "81.440", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und ich gehe davon aus, "
+   ]
+  }, 
+  {
+   "begin": "81.440", 
+   "children": [], 
+   "end": "84.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dies geschieht im Namen des gesamten Hauses\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "84.240", 
+   "children": [], 
+   "end": "87.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "unser Mitgef\u00fchl und unsere Anteilnahme aussprechen."
+   ]
+  }, 
+  {
+   "begin": "87.520", 
+   "children": [], 
+   "end": "96.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "96.120", 
+   "children": [], 
+   "end": "98.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "98.720", 
+   "children": [], 
+   "end": "101.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Zwischen allen Fraktionen besteht Konsens, "
+   ]
+  }, 
+  {
+   "begin": "101.600", 
+   "children": [], 
+   "end": "106.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass es auch gegen\u00fcber den Toten die Verpflichtung des Deutschen Bundestages ist, "
+   ]
+  }, 
+  {
+   "begin": "106.920", 
+   "children": [], 
+   "end": "112.520", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die Vorgeschichte des Anschlags umfassend und ohne jede falsche R\u00fccksicht aufzukl\u00e4ren. "
+   ]
+  }, 
+  {
+   "begin": "112.520", 
+   "children": [], 
+   "end": "117.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Unser Fraktionsvorsitzender Volker Kauder hat deshalb schon fr\u00fch, "
+   ]
+  }, 
+  {
+   "begin": "117.640", 
+   "children": [], 
+   "end": "120.520", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich im Januar\u00a02017, "
+   ]
+  }, 
+  {
+   "begin": "120.520", 
+   "children": [], 
+   "end": "124.040", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "die Bereitschaft der CDU/CSU erkl\u00e4rt, "
+   ]
+  }, 
+  {
+   "begin": "124.040", 
+   "children": [], 
+   "end": "128.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "einen Untersuchungsausschuss im Deutschen Bundestag einzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "128.000", 
+   "children": [], 
+   "end": "130.760", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Er w\u00e4re im vergangenen Fr\u00fchjahr auch eingesetzt worden, "
+   ]
+  }, 
+  {
+   "begin": "130.760", 
+   "children": [], 
+   "end": "136.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir damals nicht kurz vor dem Ende der Legislaturperiode gestanden h\u00e4tten."
+   ]
+  }, 
+  {
+   "begin": "136.120", 
+   "children": [], 
+   "end": "140.520", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Arbeit der Untersuchungsaussch\u00fcsse des Landtags von Nordrhein-Westfalen, "
+   ]
+  }, 
+  {
+   "begin": "140.520", 
+   "children": [], 
+   "end": "152.320", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "des Berliner Abgeordnetenhauses sowie der Taskforce des Parlamentarischen Kontrollgremiums und des Innenausschusses des Bundestages haben in den letzten Monaten deutlich gemacht, "
+   ]
+  }, 
+  {
+   "begin": "152.320", 
+   "children": [], 
+   "end": "155.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass ganz eklatante Fehler gemacht wurden. "
+   ]
+  }, 
+  {
+   "begin": "155.560", 
+   "children": [], 
+   "end": "158.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Es entstand das Bild eines Mannes, "
+   ]
+  }, 
+  {
+   "begin": "158.320", 
+   "children": [], 
+   "end": "164.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "der sich mit diversen Identit\u00e4ten nahezu ungehindert durch Deutschland bewegen konnte, "
+   ]
+  }, 
+  {
+   "begin": "164.200", 
+   "children": [], 
+   "end": "166.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dem 13\u00a0Straftaten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "166.440", 
+   "children": [], 
+   "end": "170.200", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "darunter auch Drogenhandel in einem ganz erheblichen Umfang\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.200", 
+   "children": [], 
+   "end": "171.400", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "zugeschrieben wurden, "
+   ]
+  }, 
+  {
+   "begin": "171.400", 
+   "children": [], 
+   "end": "173.520", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ohne dass es zu einer Inhaftierung kam, "
+   ]
+  }, 
+  {
+   "begin": "173.520", 
+   "children": [], 
+   "end": "174.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "eines Mannes, "
+   ]
+  }, 
+  {
+   "begin": "174.400", 
+   "children": [], 
+   "end": "177.400", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "der bereits radikalisiert nach Deutschland einreiste, "
+   ]
+  }, 
+  {
+   "begin": "177.400", 
+   "children": [], 
+   "end": "180.960", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "fr\u00fch als extrem gef\u00e4hrlich identifiziert wurde, "
+   ]
+  }, 
+  {
+   "begin": "180.960", 
+   "children": [], 
+   "end": "188.560", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "letztlich aber abtauchen und unbemerkt einen Anschlag vorbereiten und zum Attent\u00e4ter werden konnte."
+   ]
+  }, 
+  {
+   "begin": "188.560", 
+   "children": [], 
+   "end": "190.720", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "In anderen, "
+   ]
+  }, 
+  {
+   "begin": "190.720", 
+   "children": [], 
+   "end": "194.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "\u00e4hnlich gelagerten F\u00e4llen haben unsere Sicherheitsbeh\u00f6rden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "194.800", 
+   "children": [], 
+   "end": "198.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "und daf\u00fcr sind wir ihnen zu gro\u00dfem Dank verpflichtet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "198.080", 
+   "children": [], 
+   "end": "203.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "herausragende Arbeit geleistet und Terroranschl\u00e4ge verhindern k\u00f6nnen; "
+   ]
+  }, 
+  {
+   "begin": "203.680", 
+   "children": [], 
+   "end": "208.480", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "doch der Anschlag am Breitscheidplatz ist auch f\u00fcr unsere Sicherheitsbeh\u00f6rden eine Niederlage. "
+   ]
+  }, 
+  {
+   "begin": "208.480", 
+   "children": [], 
+   "end": "214.040", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Und angesichts der Vielzahl der beteiligten Beh\u00f6rden muss man sagen: "
+   ]
+  }, 
+  {
+   "begin": "214.040", 
+   "children": [], 
+   "end": "217.520", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Es ist eine Niederlage f\u00fcr unseren Staat, "
+   ]
+  }, 
+  {
+   "begin": "217.520", 
+   "children": [], 
+   "end": "222.160", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die auch ein Teilversagen unserer Sicherheitsarchitektur aufdeckt. "
+   ]
+  }, 
+  {
+   "begin": "222.160", 
+   "children": [], 
+   "end": "225.480", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "So etwas darf sich nicht wiederholen."
+   ]
+  }, 
+  {
+   "begin": "225.480", 
+   "children": [], 
+   "end": "230.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Mit der Aufkl\u00e4rung m\u00fcssen wir zugleich eine Antwort auf die Frage geben: "
+   ]
+  }, 
+  {
+   "begin": "230.440", 
+   "children": [], 
+   "end": "232.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Welche Lehren sind f\u00fcr Befugnisse, "
+   ]
+  }, 
+  {
+   "begin": "232.360", 
+   "children": [], 
+   "end": "235.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Organisation und Kooperation der Sicherheits- "
+   ]
+  }, 
+  {
+   "begin": "235.680", 
+   "children": [], 
+   "end": "241.640", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und Strafverfolgungsbeh\u00f6rden von Bund und L\u00e4ndern einerseits und der f\u00fcr den Vollzug des Asyl- "
+   ]
+  }, 
+  {
+   "begin": "241.640", 
+   "children": [], 
+   "end": "246.520", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "und Ausl\u00e4nderrechts zust\u00e4ndigen Beh\u00f6rden andererseits zu ziehen? "
+   ]
+  }, 
+  {
+   "begin": "246.520", 
+   "children": [], 
+   "end": "252.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Dabei entbindet uns die Einsetzung dieses Untersuchungsausschusses nicht von der Verpflichtung, "
+   ]
+  }, 
+  {
+   "begin": "252.560", 
+   "children": [], 
+   "end": "256.200", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "schon in den n\u00e4chsten Monaten die Aufgaben anzugehen, "
+   ]
+  }, 
+  {
+   "begin": "256.200", 
+   "children": [], 
+   "end": "260.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "die nach heutigem Erkenntnisstand offen zutage liegen."
+   ]
+  }, 
+  {
+   "begin": "260.120", 
+   "children": [], 
+   "end": "264.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Die Aufkl\u00e4rung des Anschlages ist nicht abgeschlossen. "
+   ]
+  }, 
+  {
+   "begin": "264.000", 
+   "children": [], 
+   "end": "266.560", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Doch sie steht auch nicht l\u00e4nger an ihrem Anfang. "
+   ]
+  }, 
+  {
+   "begin": "266.560", 
+   "children": [], 
+   "end": "272.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Erste exekutive und legislative Ma\u00dfnahmen haben wir bereits ergriffen. "
+   ]
+  }, 
+  {
+   "begin": "272.240", 
+   "children": [], 
+   "end": "280.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Unser Innenminister Thomas de\u00a0Maizi\u00e8re hat in einem weithin beachteten Beitrag zu Beginn des vergangenen Jahres Schlussfolgerungen gezogen. "
+   ]
+  }, 
+  {
+   "begin": "280.560", 
+   "children": [], 
+   "end": "288.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Ma\u00dfnahmen sind zwischen CDU/CSU und SPD in den Sondierungsgespr\u00e4chen vereinbart worden."
+   ]
+  }, 
+  {
+   "begin": "288.440", 
+   "children": [], 
+   "end": "291.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Unser Untersuchungsauftrag bleibt eher knapp. "
+   ]
+  }, 
+  {
+   "begin": "291.560", 
+   "children": [], 
+   "end": "295.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir verzichten auf eine Vielzahl von Detailfragen, "
+   ]
+  }, 
+  {
+   "begin": "295.000", 
+   "children": [], 
+   "end": "297.960", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "weil die Erfahrung mit Untersuchungsaussch\u00fcssen zeigt: "
+   ]
+  }, 
+  {
+   "begin": "297.960", 
+   "children": [], 
+   "end": "304.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Zu detaillierte Einzelfragen erweisen sich meist eher als Hemmschuh, "
+   ]
+  }, 
+  {
+   "begin": "304.240", 
+   "children": [], 
+   "end": "306.400", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "als dass sie die Aufkl\u00e4rung f\u00f6rdern."
+   ]
+  }, 
+  {
+   "begin": "306.400", 
+   "children": [], 
+   "end": "312.360", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Zw\u00f6lf Menschen haben durch die Terrortat am Breitscheidplatz ihr Leben verloren, "
+   ]
+  }, 
+  {
+   "begin": "312.360", 
+   "children": [], 
+   "end": "315.520", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Dutzende wurden teils lebensbedrohlich verletzt. "
+   ]
+  }, 
+  {
+   "begin": "315.520", 
+   "children": [], 
+   "end": "318.040", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Meine Fraktion ist entschlossen, "
+   ]
+  }, 
+  {
+   "begin": "318.040", 
+   "children": [], 
+   "end": "330.880", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "so weit wie m\u00f6glich an das Vorbild der beiden NSU-Untersuchungsaussch\u00fcsse anzukn\u00fcpfen und die Arbeit in diesem Untersuchungsausschuss in diesem Geist zu gestalten."
+   ]
+  }, 
+  {
+   "begin": "330.880", 
+   "children": [], 
+   "end": "337.160", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "337.160", 
+   "children": [], 
+   "end": "340.720", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Der Kollege Dr.\u00a0Fritz Felgentreu hat f\u00fcr die SPD-Fraktion das Wort."
+   ]
+  }
+ ]
+}

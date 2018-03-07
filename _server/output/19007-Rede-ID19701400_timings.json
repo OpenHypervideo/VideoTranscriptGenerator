@@ -1,0 +1,974 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "children": [], 
+   "end": "9.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "children": [], 
+   "end": "16.600", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Antisemitismus in jeder Form ist eine Schande, "
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "children": [], 
+   "end": "20.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "und Antisemitismus ist ein Angriff auf unsere j\u00fcdischen B\u00fcrger. "
+   ]
+  }, 
+  {
+   "begin": "20.360", 
+   "children": [], 
+   "end": "24.720", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein Angriff auf die Grundlagen unserer westlichen Zivilisation. "
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "children": [], 
+   "end": "29.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Diese Zivilisation steht auf einem j\u00fcdisch-christlichen Fundament. "
+   ]
+  }, 
+  {
+   "begin": "29.680", 
+   "children": [], 
+   "end": "32.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Der vorliegende Antrag betont richtigerweise, "
+   ]
+  }, 
+  {
+   "begin": "32.080", 
+   "children": [], 
+   "end": "36.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass Antisemitismus in allen politischen Lagern zu finden ist."
+   ]
+  }, 
+  {
+   "begin": "36.280", 
+   "children": [], 
+   "end": "39.920", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir in Deutschland haben aufgrund unserer Geschichte eine ganz besondere Verantwortung, "
+   ]
+  }, 
+  {
+   "begin": "39.920", 
+   "children": [], 
+   "end": "41.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und zu dieser bekennen wir uns ausdr\u00fccklich."
+   ]
+  }, 
+  {
+   "begin": "41.880", 
+   "children": [], 
+   "end": "48.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Zu unserer besonderen Verantwortung geh\u00f6rt es aber auch, "
+   ]
+  }, 
+  {
+   "begin": "48.000", 
+   "children": [], 
+   "end": "52.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "vor der neuen Qualit\u00e4t antisemitischer Angriffe in Westeuropa nicht die Augen zu verschlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "52.120", 
+   "children": [], 
+   "end": "57.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Hilfreich ist dabei der zweite Bericht des Unabh\u00e4ngigen Expertenkreises Antisemitismus. "
+   ]
+  }, 
+  {
+   "begin": "57.400", 
+   "children": [], 
+   "end": "66.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Im Auftrag des Bundestages hat dieser Kreis antisemitisch motivierte Straftaten untersucht und dazu Juden in Deutschland befragt. "
+   ]
+  }, 
+  {
+   "begin": "66.360", 
+   "children": [], 
+   "end": "67.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Ich zitiere:"
+   ]
+  }, 
+  {
+   "begin": "67.000", 
+   "children": [], 
+   "end": "69.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Gefragt \u201eWas war das f\u00fcr eine Person oder Gruppe, "
+   ]
+  }, 
+  {
+   "begin": "69.520", 
+   "children": [], 
+   "end": "71.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "von der die\u00a0\u2026 Tat ausging?\u201c, "
+   ]
+  }, 
+  {
+   "begin": "71.040", 
+   "children": [], 
+   "end": "75.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wird die Kategorie \u201eeine muslimische Person/Gruppe\u201c\u00a0\u2026 weitaus am h\u00e4ufigsten genannt, "
+   ]
+  }, 
+  {
+   "begin": "75.120", 
+   "children": [], 
+   "end": "77.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "gefolgt von \u201emir unbekannte Person\u201c, "
+   ]
+  }, 
+  {
+   "begin": "77.480", 
+   "children": [], 
+   "end": "83.760", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "erst dann folgen in gleicher Quantit\u00e4t linksextreme und rechtsextreme Personen/Gruppen."
+   ]
+  }, 
+  {
+   "begin": "83.760", 
+   "children": [], 
+   "end": "86.560", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Dass polizeiliche Statistiken dies nicht abbilden, "
+   ]
+  }, 
+  {
+   "begin": "86.560", 
+   "children": [], 
+   "end": "91.400", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "mag ein Beispiel aus Berlin vom 25.\u00a0Juli 2014 erkl\u00e4ren: "
+   ]
+  }, 
+  {
+   "begin": "91.400", 
+   "children": [], 
+   "end": "101.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Nationalsozialistische Parolen der schiitischen Hisbollah gegen Tr\u00e4ger von Israel-Fahnen am Rande des Al-Quds-Marsches wurden in der \u201ePMK-rechts\u201c, "
+   ]
+  }, 
+  {
+   "begin": "101.600", 
+   "children": [], 
+   "end": "102.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "also als rechtsextrem, "
+   ]
+  }, 
+  {
+   "begin": "102.800", 
+   "children": [], 
+   "end": "104.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "erfasst. "
+   ]
+  }, 
+  {
+   "begin": "104.040", 
+   "children": [], 
+   "end": "104.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "104.720", 
+   "children": [], 
+   "end": "106.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "machen wir uns ehrlich: "
+   ]
+  }, 
+  {
+   "begin": "106.040", 
+   "children": [], 
+   "end": "106.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Statistiken, "
+   ]
+  }, 
+  {
+   "begin": "106.480", 
+   "children": [], 
+   "end": "110.840", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die Straftaten islamistischer Terrormilizen als rechte Kriminalit\u00e4t erfassen, "
+   ]
+  }, 
+  {
+   "begin": "110.840", 
+   "children": [], 
+   "end": "112.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "sind unbrauchbar."
+   ]
+  }, 
+  {
+   "begin": "112.080", 
+   "children": [], 
+   "end": "115.720", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Sie verschleiern, "
+   ]
+  }, 
+  {
+   "begin": "115.720", 
+   "children": [], 
+   "end": "119.480", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "aber irgendwann holt die Realit\u00e4t einen ein."
+   ]
+  }, 
+  {
+   "begin": "119.480", 
+   "children": [], 
+   "end": "122.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "In Frankreich zum Beispiel ist die Realit\u00e4t schon eine andere: "
+   ]
+  }, 
+  {
+   "begin": "122.920", 
+   "children": [], 
+   "end": "130.440", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Seit dem Jahr 2006 sind insgesamt 40\u00a0000\u00a0Juden aus Frankreich allein nach Israel ausgewandert. "
+   ]
+  }, 
+  {
+   "begin": "130.440", 
+   "children": [], 
+   "end": "135.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind geflohen vor Terror und den tagt\u00e4glichen \u00dcbergriffen und Bedrohungen. "
+   ]
+  }, 
+  {
+   "begin": "135.080", 
+   "children": [], 
+   "end": "136.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Es sind Fl\u00fcchtlinge, "
+   ]
+  }, 
+  {
+   "begin": "136.360", 
+   "children": [], 
+   "end": "137.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die niemand spricht, "
+   ]
+  }, 
+  {
+   "begin": "137.520", 
+   "children": [], 
+   "end": "140.160", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "weil sie vor Muslimen fl\u00fcchten. "
+   ]
+  }, 
+  {
+   "begin": "140.160", 
+   "children": [], 
+   "end": "142.760", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Gegenwart in Frankreich. "
+   ]
+  }, 
+  {
+   "begin": "142.760", 
+   "children": [], 
+   "end": "144.160", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "144.160", 
+   "children": [], 
+   "end": "146.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "die AfD wird mit ganzer Kraft daf\u00fcr k\u00e4mpfen, "
+   ]
+  }, 
+  {
+   "begin": "146.280", 
+   "children": [], 
+   "end": "151.880", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass das nicht die Zukunft in Deutschland sein wird."
+   ]
+  }, 
+  {
+   "begin": "151.880", 
+   "children": [], 
+   "end": "154.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es sind nat\u00fcrlich nicht alle Muslime, "
+   ]
+  }, 
+  {
+   "begin": "154.880", 
+   "children": [], 
+   "end": "158.440", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "von denen dieser Terror gegen Juden und Andersgl\u00e4ubige ausgeht, "
+   ]
+  }, 
+  {
+   "begin": "158.440", 
+   "children": [], 
+   "end": "160.200", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "aber es sind bei weitem zu viele. "
+   ]
+  }, 
+  {
+   "begin": "160.200", 
+   "children": [], 
+   "end": "166.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wenn in Deutschland Israel-Fahnen verbrannt oder j\u00fcdische Sch\u00fcler von ihren Mitsch\u00fclern gemobbt werden, "
+   ]
+  }, 
+  {
+   "begin": "166.760", 
+   "children": [], 
+   "end": "168.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "wenn j\u00fcdische B\u00fcrger sich davor f\u00fcrchten m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "168.560", 
+   "children": [], 
+   "end": "170.520", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "\u00f6ffentlich die Kippa zu tragen, "
+   ]
+  }, 
+  {
+   "begin": "170.520", 
+   "children": [], 
+   "end": "173.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "oder Einrichtungen von der Polizei \u00fcberwacht werden m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "173.040", 
+   "children": [], 
+   "end": "174.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dann ist das nicht hinnehmbar."
+   ]
+  }, 
+  {
+   "begin": "174.400", 
+   "children": [], 
+   "end": "176.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Aber es geht ja auch anders. "
+   ]
+  }, 
+  {
+   "begin": "176.240", 
+   "children": [], 
+   "end": "178.040", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Ich war im letzten Mai in Ungarn, "
+   ]
+  }, 
+  {
+   "begin": "178.040", 
+   "children": [], 
+   "end": "179.800", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "wo ich ein j\u00fcdisches Zentrum besucht habe. "
+   ]
+  }, 
+  {
+   "begin": "179.800", 
+   "children": [], 
+   "end": "182.160", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das musste nicht von der Polizei gesch\u00fctzt werden. "
+   ]
+  }, 
+  {
+   "begin": "182.160", 
+   "children": [], 
+   "end": "183.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Die T\u00fcren standen offen, "
+   ]
+  }, 
+  {
+   "begin": "183.680", 
+   "children": [], 
+   "end": "185.560", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die Kinder spielten auf der Stra\u00dfe, "
+   ]
+  }, 
+  {
+   "begin": "185.560", 
+   "children": [], 
+   "end": "187.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die Jungs trugen Kippa. "
+   ]
+  }, 
+  {
+   "begin": "187.080", 
+   "children": [], 
+   "end": "188.720", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Viktor Orban will, "
+   ]
+  }, 
+  {
+   "begin": "188.720", 
+   "children": [], 
+   "end": "190.160", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass das so bleibt. "
+   ]
+  }, 
+  {
+   "begin": "190.160", 
+   "children": [], 
+   "end": "192.800", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das erkl\u00e4rt auch seine Haltung in der Fl\u00fcchtlingsfrage. "
+   ]
+  }, 
+  {
+   "begin": "192.800", 
+   "children": [], 
+   "end": "196.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Er hat eine Nulltoleranzpolitik gegen Antisemitismus angek\u00fcndigt. "
+   ]
+  }, 
+  {
+   "begin": "196.400", 
+   "children": [], 
+   "end": "199.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen erh\u00e4lt Ungarn auch die Unterst\u00fctzung von Israel."
+   ]
+  }, 
+  {
+   "begin": "199.560", 
+   "children": [], 
+   "end": "208.320", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Der Politikwissenschaftler Bassam Tibi war unter anderem am Center for Advanced Holocaust Studies in Washington t\u00e4tig. "
+   ]
+  }, 
+  {
+   "begin": "208.320", 
+   "children": [], 
+   "end": "219.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Er nannte in einem Beitrag f\u00fcr den \u201eCicero\u201c den heutigen islamischen Judenhass \u201edie st\u00e4rkste Spielart des totalit\u00e4ren Antisemitismus im 21.\u00a0Jahrhundert\u201c. "
+   ]
+  }, 
+  {
+   "begin": "219.520", 
+   "children": [], 
+   "end": "223.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Davon findet sich in dem vorliegenden Antrag leider nichts. "
+   ]
+  }, 
+  {
+   "begin": "223.360", 
+   "children": [], 
+   "end": "227.760", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Der Islam ist der Elefant im Raum. "
+   ]
+  }, 
+  {
+   "begin": "227.760", 
+   "children": [], 
+   "end": "229.640", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Wir sehen ihn aber. "
+   ]
+  }, 
+  {
+   "begin": "229.640", 
+   "children": [], 
+   "end": "231.680", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Sie nennen es Zuwanderung oder reden, "
+   ]
+  }, 
+  {
+   "begin": "231.680", 
+   "children": [], 
+   "end": "233.440", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wie heute Herr Kauder und auch Frau Griese, "
+   ]
+  }, 
+  {
+   "begin": "233.440", 
+   "children": [], 
+   "end": "237.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "von Menschen aus anderen Kulturkreisen wie Nordafrika und dem Nahen Osten. "
+   ]
+  }, 
+  {
+   "begin": "237.680", 
+   "children": [], 
+   "end": "238.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir sehen, "
+   ]
+  }, 
+  {
+   "begin": "238.080", 
+   "children": [], 
+   "end": "238.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "wie gesagt, "
+   ]
+  }, 
+  {
+   "begin": "238.160", 
+   "children": [], 
+   "end": "239.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "den Elefanten im Raum."
+   ]
+  }, 
+  {
+   "begin": "239.040", 
+   "children": [], 
+   "end": "243.720", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "In dem vorliegenden Antrag gibt es eine ganze Reihe von Punkten, "
+   ]
+  }, 
+  {
+   "begin": "243.720", 
+   "children": [], 
+   "end": "244.800", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die diese M\u00e4ngel aufwiegen. "
+   ]
+  }, 
+  {
+   "begin": "244.800", 
+   "children": [], 
+   "end": "248.160", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Insbesondere die Versch\u00e4rfung des Aufenthaltsrechts ist ein wichtiger Punkt. "
+   ]
+  }, 
+  {
+   "begin": "248.160", 
+   "children": [], 
+   "end": "249.200", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Es ist h\u00f6chste Zeit, "
+   ]
+  }, 
+  {
+   "begin": "249.200", 
+   "children": [], 
+   "end": "251.120", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass Hasspredigten gegen Juden, "
+   ]
+  }, 
+  {
+   "begin": "251.120", 
+   "children": [], 
+   "end": "258.240", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "aber auch gegen Christen und sogenannte Ungl\u00e4ubige einen besonders schwerwiegenden Ausweisungsgrund darstellen. "
+   ]
+  }, 
+  {
+   "begin": "258.240", 
+   "children": [], 
+   "end": "259.040", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Das ist gut, "
+   ]
+  }, 
+  {
+   "begin": "259.040", 
+   "children": [], 
+   "end": "260.960", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "und das ist richtig."
+   ]
+  }, 
+  {
+   "begin": "260.960", 
+   "children": [], 
+   "end": "262.560", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Der AfD geht es darum, "
+   ]
+  }, 
+  {
+   "begin": "262.560", 
+   "children": [], 
+   "end": "267.520", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "dass dann aber auch konsequent abgeschoben wird, "
+   ]
+  }, 
+  {
+   "begin": "267.520", 
+   "children": [], 
+   "end": "269.320", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "und zwar nicht nur Asylbewerber, "
+   ]
+  }, 
+  {
+   "begin": "269.320", 
+   "children": [], 
+   "end": "270.880", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "sondern zum Beispiel auch Imame, "
+   ]
+  }, 
+  {
+   "begin": "270.880", 
+   "children": [], 
+   "end": "273.720", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "die hier schon l\u00e4nger Hass predigen. "
+   ]
+  }, 
+  {
+   "begin": "273.720", 
+   "children": [], 
+   "end": "275.320", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem begr\u00fc\u00dfen wir sehr, "
+   ]
+  }, 
+  {
+   "begin": "275.320", 
+   "children": [], 
+   "end": "280.440", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "dass bei antisemitischen Straftaten die T\u00e4termotivation in Zukunft erfasst werden soll. "
+   ]
+  }, 
+  {
+   "begin": "280.440", 
+   "children": [], 
+   "end": "283.400", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Die Hisbollah geh\u00f6rt nicht in die PMK-rechts."
+   ]
+  }, 
+  {
+   "begin": "283.400", 
+   "children": [], 
+   "end": "287.800", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Am wichtigsten ist jedoch: "
+   ]
+  }, 
+  {
+   "begin": "287.800", 
+   "children": [], 
+   "end": "290.920", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "J\u00fcdisches Leben und j\u00fcdische Tradition geh\u00f6ren zu Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "290.920", 
+   "children": [], 
+   "end": "292.960", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "sie haben immer zu Deutschland geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "292.960", 
+   "children": [], 
+   "end": "295.440", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind ein wichtiger Teil unseres kulturellen Erbes. "
+   ]
+  }, 
+  {
+   "begin": "295.440", 
+   "children": [], 
+   "end": "297.680", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Das m\u00fcssen wir vor Angriffen sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "297.680", 
+   "children": [], 
+   "end": "300.160", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Und dazu gibt es keine zwei Meinungen."
+   ]
+  }, 
+  {
+   "begin": "300.160", 
+   "children": [], 
+   "end": "309.440", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "309.440", 
+   "children": [], 
+   "end": "313.960", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chster Redner hat das Wort Dr.\u00a0Stefan Ruppert von der FDP."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.480", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.480", 
+   "children": [], 
+   "end": "3.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "3.400", 
+   "children": [], 
+   "end": "15.040", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Es ist die erste Sitzung des Deutschen Bundestages, "
+   ]
+  }, 
+  {
+   "begin": "15.040", 
+   "children": [], 
+   "end": "18.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "in der wir uns mit politischen Inhalten befassen. "
+   ]
+  }, 
+  {
+   "begin": "18.360", 
+   "children": [], 
+   "end": "19.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Es ist bezeichnend, "
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "children": [], 
+   "end": "21.120", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass es au\u00dfenpolitische, "
+   ]
+  }, 
+  {
+   "begin": "21.120", 
+   "children": [], 
+   "end": "22.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "sicherheitspolitische Themen sind, "
+   ]
+  }, 
+  {
+   "begin": "22.280", 
+   "children": [], 
+   "end": "25.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die auf der Tagesordnung stehen. "
+   ]
+  }, 
+  {
+   "begin": "25.000", 
+   "children": [], 
+   "end": "26.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein Merkmal unserer Zeit, "
+   ]
+  }, 
+  {
+   "begin": "26.760", 
+   "children": [], 
+   "end": "27.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass die Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "27.840", 
+   "children": [], 
+   "end": "30.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik dichter an uns heranr\u00fcckt, "
+   ]
+  }, 
+  {
+   "begin": "30.720", 
+   "children": [], 
+   "end": "34.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "auch an jeden einzelnen Menschen in diesem Land. "
+   ]
+  }, 
+  {
+   "begin": "34.240", 
+   "children": [], 
+   "end": "42.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "So liegen heute und morgen insgesamt sieben Mandate mit dem Wunsch der Regierung nach Verl\u00e4ngerung bei uns auf dem Tisch."
+   ]
+  }, 
+  {
+   "begin": "42.520", 
+   "children": [], 
+   "end": "45.160", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man als Au\u00dfenpolitiker international unterwegs ist, "
+   ]
+  }, 
+  {
+   "begin": "45.160", 
+   "children": [], 
+   "end": "47.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "so wie zum Beispiel ein Kollege, "
+   ]
+  }, 
+  {
+   "begin": "47.040", 
+   "children": [], 
+   "end": "51.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "der in der vergangenen Woche auf der gro\u00dfen Sicherheitskonferenz in Halifax war, "
+   ]
+  }, 
+  {
+   "begin": "51.080", 
+   "children": [], 
+   "end": "51.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "merkt man: "
+   ]
+  }, 
+  {
+   "begin": "51.800", 
+   "children": [], 
+   "end": "54.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Frage \u201eBleibt Deutschland ein stabiler, "
+   ]
+  }, 
+  {
+   "begin": "54.280", 
+   "children": [], 
+   "end": "59.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "verl\u00e4sslicher Partner in der internationalen Zusammenarbeit?\u201c ist transatlantisch virulent. "
+   ]
+  }, 
+  {
+   "begin": "59.560", 
+   "children": [], 
+   "end": "62.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Es ist keine Frage so h\u00e4ufig an mich gestellt worden, "
+   ]
+  }, 
+  {
+   "begin": "62.360", 
+   "children": [], 
+   "end": "66.160", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "auch in meiner Eigenschaft als Koordinator f\u00fcr die transatlantische Zusammenarbeit, "
+   ]
+  }, 
+  {
+   "begin": "66.160", 
+   "children": [], 
+   "end": "67.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wie die: "
+   ]
+  }, 
+  {
+   "begin": "67.040", 
+   "children": [], 
+   "end": "71.640", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Bleibt Deutschland auf Kurs in den internationalen Verpflichtungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "71.640", 
+   "children": [], 
+   "end": "73.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe dann jeweils gesagt: "
+   ]
+  }, 
+  {
+   "begin": "73.000", 
+   "children": [], 
+   "end": "73.560", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ja. "
+   ]
+  }, 
+  {
+   "begin": "73.560", 
+   "children": [], 
+   "end": "74.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Und ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "74.880", 
+   "children": [], 
+   "end": "80.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass wir als Deutscher Bundestag in dieser Woche und in der kommenden Sitzungswoche die Kraft haben, "
+   ]
+  }, 
+  {
+   "begin": "80.280", 
+   "children": [], 
+   "end": "81.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dieses Signal zu senden: "
+   ]
+  }, 
+  {
+   "begin": "81.480", 
+   "children": [], 
+   "end": "87.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland ist und bleibt ein verl\u00e4sslicher Partner in der Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "87.400", 
+   "children": [], 
+   "end": "89.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik."
+   ]
+  }, 
+  {
+   "begin": "89.080", 
+   "children": [], 
+   "end": "89.640", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die Mandate, "
+   ]
+  }, 
+  {
+   "begin": "89.640", 
+   "children": [], 
+   "end": "91.040", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "die heute vorliegen, "
+   ]
+  }, 
+  {
+   "begin": "91.040", 
+   "children": [], 
+   "end": "93.560", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "sind allesamt Mandate, "
+   ]
+  }, 
+  {
+   "begin": "93.560", 
+   "children": [], 
+   "end": "97.880", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "die viele Partnerl\u00e4nder unmittelbar betreffen. "
+   ]
+  }, 
+  {
+   "begin": "97.880", 
+   "children": [], 
+   "end": "99.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Es ist Prinzip unserer Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "99.560", 
+   "children": [], 
+   "end": "100.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik, "
+   ]
+  }, 
+  {
+   "begin": "100.320", 
+   "children": [], 
+   "end": "103.600", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass wir als Deutschland nichts auf eigene Faust machen, "
+   ]
+  }, 
+  {
+   "begin": "103.600", 
+   "children": [], 
+   "end": "105.920", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "keine Alleing\u00e4nge unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "105.920", 
+   "children": [], 
+   "end": "107.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "sondern dass der vernetzte Ansatz, "
+   ]
+  }, 
+  {
+   "begin": "107.680", 
+   "children": [], 
+   "end": "108.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "zivil-milit\u00e4risch, "
+   ]
+  }, 
+  {
+   "begin": "108.640", 
+   "children": [], 
+   "end": "111.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "aber auch in der Breite unter den Nationen, "
+   ]
+  }, 
+  {
+   "begin": "111.280", 
+   "children": [], 
+   "end": "112.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "in der V\u00f6lkergemeinschaft, "
+   ]
+  }, 
+  {
+   "begin": "112.720", 
+   "children": [], 
+   "end": "115.160", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "ein ganz entscheidender ist."
+   ]
+  }, 
+  {
+   "begin": "115.160", 
+   "children": [], 
+   "end": "117.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland spielt eine wichtige Rolle in der V\u00f6lkergemeinschaft, "
+   ]
+  }, 
+  {
+   "begin": "117.920", 
+   "children": [], 
+   "end": "119.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "in den Vereinten Nationen. "
+   ]
+  }, 
+  {
+   "begin": "119.720", 
+   "children": [], 
+   "end": "130.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden im Juli\u00a02018 als Deutschland in eine Abstimmung gehen um einen nichtst\u00e4ndigen Sitz im UN-Sicherheitsrat f\u00fcr die Periode\u00a02019/20. "
+   ]
+  }, 
+  {
+   "begin": "130.480", 
+   "children": [], 
+   "end": "131.280", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "131.280", 
+   "children": [], 
+   "end": "139.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "auch im Blick auf die Bewerbung um einen deutschen Sitz in diesem wichtigsten sicherheitspolitischen Gremium der Welt ist es nicht ganz ohne Bedeutung, "
+   ]
+  }, 
+  {
+   "begin": "139.760", 
+   "children": [], 
+   "end": "146.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in internationalen Fragen als Deutschland stehen und dass wir die UN-mandatierten NATO- "
+   ]
+  }, 
+  {
+   "begin": "146.640", 
+   "children": [], 
+   "end": "150.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "und EU-gef\u00fchrten Eins\u00e4tze entsprechend sekundieren."
+   ]
+  }, 
+  {
+   "begin": "150.040", 
+   "children": [], 
+   "end": "155.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte zum Einsatz Sea Guardian einen Aspekt noch besonders beleuchten. "
+   ]
+  }, 
+  {
+   "begin": "155.160", 
+   "children": [], 
+   "end": "158.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Zun\u00e4chst einmal sage ich an den Kollegen Nolte gerichtet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "158.480", 
+   "children": [], 
+   "end": "162.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "ich darf das als ehemaliger Marineoffizier vielleicht sagen\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "162.360", 
+   "children": [], 
+   "end": "170.000", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr diese \u00c4u\u00dferung hier zu den Soldaten der Marine m\u00fcssen Sie sich in der PUO-Messe an Ihrem Standort entschuldigen. "
+   ]
+  }, 
+  {
+   "begin": "170.000", 
+   "children": [], 
+   "end": "173.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das ist meine feste \u00dcberzeugung."
+   ]
+  }, 
+  {
+   "begin": "173.560", 
+   "children": [], 
+   "end": "175.600", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Soldaten sind keine Schlepperhelfer, "
+   ]
+  }, 
+  {
+   "begin": "175.600", 
+   "children": [], 
+   "end": "177.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "sondern Lebensretter. "
+   ]
+  }, 
+  {
+   "begin": "177.520", 
+   "children": [], 
+   "end": "180.720", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin dem Kollegen Lindner dankbar daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "180.720", 
+   "children": [], 
+   "end": "184.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass er das auch deutlich gesagt hat."
+   ]
+  }, 
+  {
+   "begin": "184.800", 
+   "children": [], 
+   "end": "190.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Der Einsatz Sea Guardian ist auch ein hervorragendes Beispiel f\u00fcr die Zusammenarbeit zwischen NATO und EU in der Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "190.760", 
+   "children": [], 
+   "end": "192.280", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik. "
+   ]
+  }, 
+  {
+   "begin": "192.280", 
+   "children": [], 
+   "end": "192.920", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Gerade jetzt, "
+   ]
+  }, 
+  {
+   "begin": "192.920", 
+   "children": [], 
+   "end": "194.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wo wir die PESCO, "
+   ]
+  }, 
+  {
+   "begin": "194.000", 
+   "children": [], 
+   "end": "196.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die St\u00e4ndige Strukturierte Zusammenarbeit in der Au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "196.240", 
+   "children": [], 
+   "end": "197.040", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "und Sicherheitspolitik, "
+   ]
+  }, 
+  {
+   "begin": "197.040", 
+   "children": [], 
+   "end": "198.800", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "auf den Weg bringen, "
+   ]
+  }, 
+  {
+   "begin": "198.800", 
+   "children": [], 
+   "end": "199.840", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "ist es gut, "
+   ]
+  }, 
+  {
+   "begin": "199.840", 
+   "children": [], 
+   "end": "200.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "glaube ich, "
+   ]
+  }, 
+  {
+   "begin": "200.320", 
+   "children": [], 
+   "end": "204.320", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass wir die Zusammenarbeit bei diesen beiden Eins\u00e4tzen weiter st\u00e4rken. "
+   ]
+  }, 
+  {
+   "begin": "204.320", 
+   "children": [], 
+   "end": "208.400", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist der eine wie der andere f\u00fcr uns unverzichtbar. "
+   ]
+  }, 
+  {
+   "begin": "208.400", 
+   "children": [], 
+   "end": "211.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Die Soldatinnen und Soldaten an Bord des Einsatzgruppenversorgers \u201eFrankfurt am Main\u201c, "
+   ]
+  }, 
+  {
+   "begin": "211.680", 
+   "children": [], 
+   "end": "216.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "in den St\u00e4ben und in den AWACS-Flugzeugen leisten einen wichtigen Beitrag, "
+   ]
+  }, 
+  {
+   "begin": "216.840", 
+   "children": [], 
+   "end": "227.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "damit auch die EU-Mission EUNAVFOR MED Operation Sophia mit ihren lebensrettenden Ma\u00dfnahmen im Mittelmeer weiter erfolgreich sein kann. "
+   ]
+  }, 
+  {
+   "begin": "227.000", 
+   "children": [], 
+   "end": "231.480", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Es ist auch ein gutes Beispiel f\u00fcr die Zusammenarbeit zwischen EU und NATO, "
+   ]
+  }, 
+  {
+   "begin": "231.480", 
+   "children": [], 
+   "end": "233.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wie sie in Warschau vereinbart wurde, "
+   ]
+  }, 
+  {
+   "begin": "233.280", 
+   "children": [], 
+   "end": "238.200", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dass wir dieses Mandat entsprechend fortsetzen wollen."
+   ]
+  }, 
+  {
+   "begin": "238.200", 
+   "children": [], 
+   "end": "241.480", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die CDU/CSU-Bundestagsfraktion kann ich ank\u00fcndigen, "
+   ]
+  }, 
+  {
+   "begin": "241.480", 
+   "children": [], 
+   "end": "243.400", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass wir diesem Mandat zustimmen werden, "
+   ]
+  }, 
+  {
+   "begin": "243.400", 
+   "children": [], 
+   "end": "245.240", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "und ich m\u00f6chte zum Ausdruck bringen, "
+   ]
+  }, 
+  {
+   "begin": "245.240", 
+   "children": [], 
+   "end": "250.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere besten W\u00fcnsche die Soldatinnen und Soldaten in ihrem Einsatz begleiten."
+   ]
+  }, 
+  {
+   "begin": "250.360", 
+   "children": [], 
+   "end": "255.360", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "255.360", 
+   "children": [], 
+   "end": "259.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat das Wort die Kollegin Gabi Weber von der SPD-Fraktion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,634 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Damit rufe ich nun den Tagesordnungspunkt\u00a01 auf:"
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "children": [], 
+   "end": "15.160", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Er\u00f6ffnung der Sitzung durch den Alterspr\u00e4sidenten"
+   ]
+  }, 
+  {
+   "begin": "15.160", 
+   "children": [], 
+   "end": "26.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Ich er\u00f6ffne als Alterspr\u00e4sident die erste Sitzung der 19.\u00a0Wahlperiode und begr\u00fc\u00dfe zun\u00e4chst den Bundespr\u00e4sidenten Herrn Dr.\u00a0Frank-Walter Steinmeier."
+   ]
+  }, 
+  {
+   "begin": "26.320", 
+   "children": [], 
+   "end": "27.480", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir freuen uns, "
+   ]
+  }, 
+  {
+   "begin": "27.480", 
+   "children": [], 
+   "end": "43.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Herr Bundespr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "43.880", 
+   "children": [], 
+   "end": "48.640", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie unter uns sind und dieser Konstituierung beiwohnen."
+   ]
+  }, 
+  {
+   "begin": "48.640", 
+   "children": [], 
+   "end": "55.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Des Weiteren begr\u00fc\u00dfe ich herzlich die ehemalige Pr\u00e4sidentin des Deutschen Bundestages Frau Dr.\u00a0Rita \u00adS\u00fcssmuth"
+   ]
+  }, 
+  {
+   "begin": "55.160", 
+   "children": [], 
+   "end": "71.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "sowie die ehemaligen Pr\u00e4sidenten des Deutschen Bundestages Herrn Dr.\u00a0Wolfgang Thierse"
+   ]
+  }, 
+  {
+   "begin": "71.560", 
+   "children": [], 
+   "end": "84.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "und nat\u00fcrlich den hochgesch\u00e4tzten Kollegen Dr.\u00a0Norbert Lammert, "
+   ]
+  }, 
+  {
+   "begin": "84.760", 
+   "children": [], 
+   "end": "87.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "der bis heute dem Bundestag vorgesessen hat."
+   ]
+  }, 
+  {
+   "begin": "87.480", 
+   "children": [], 
+   "end": "128.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es ist mir ein besonderes Anliegen, "
+   ]
+  }, 
+  {
+   "begin": "128.720", 
+   "children": [], 
+   "end": "131.440", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Frau Inge Deutschkron zu begr\u00fc\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "131.440", 
+   "children": [], 
+   "end": "140.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die im Jahre 2013 aus Anlass des Holocaust-Gedenktages eine sehr bewegende Rede hier im Deutschen Bundestag gehalten hat."
+   ]
+  }, 
+  {
+   "begin": "140.920", 
+   "children": [], 
+   "end": "164.880", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Mein Gru\u00df gilt auch den anwesenden Botschaftern und Missionschefs sowie allen weiteren G\u00e4sten, "
+   ]
+  }, 
+  {
+   "begin": "164.880", 
+   "children": [], 
+   "end": "168.320", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die auf der Trib\u00fcne an dieser Sitzung teilnehmen."
+   ]
+  }, 
+  {
+   "begin": "168.320", 
+   "children": [], 
+   "end": "192.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem m\u00f6chte ich dem Kollegen Reinhold Sendker zu seinem heutigen 65.\u00a0Geburtstag gratulieren."
+   ]
+  }, 
+  {
+   "begin": "192.680", 
+   "children": [], 
+   "end": "201.640", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes habe ich gem\u00e4\u00df \u00a7\u00a01 Absatz\u00a03 der Gesch\u00e4ftsordnung die vorl\u00e4ufigen Schriftf\u00fchrerinnen und Schriftf\u00fchrer zu ernennen."
+   ]
+  }, 
+  {
+   "begin": "201.640", 
+   "children": [], 
+   "end": "210.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Nach Absprache mit den Fraktionen benenne ich als vorl\u00e4ufige Schriftf\u00fchrerinnen und Schriftf\u00fchrer die Damen und Herren Abgeordneten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "210.360", 
+   "children": [], 
+   "end": "212.680", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "ich verlese jetzt die Liste\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "212.680", 
+   "children": [], 
+   "end": "215.080", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Artur Auernhammer, "
+   ]
+  }, 
+  {
+   "begin": "215.080", 
+   "children": [], 
+   "end": "216.920", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Doris Barnett, "
+   ]
+  }, 
+  {
+   "begin": "216.920", 
+   "children": [], 
+   "end": "218.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Heike Baehrens, "
+   ]
+  }, 
+  {
+   "begin": "218.800", 
+   "children": [], 
+   "end": "221.280", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Karamba Diaby, "
+   ]
+  }, 
+  {
+   "begin": "221.280", 
+   "children": [], 
+   "end": "223.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Sabine Dittmar, "
+   ]
+  }, 
+  {
+   "begin": "223.120", 
+   "children": [], 
+   "end": "224.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Katharina Dr\u00f6ge, "
+   ]
+  }, 
+  {
+   "begin": "224.880", 
+   "children": [], 
+   "end": "227.360", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Fritz Felgentreu, "
+   ]
+  }, 
+  {
+   "begin": "227.360", 
+   "children": [], 
+   "end": "230.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Thomas Gebhart, "
+   ]
+  }, 
+  {
+   "begin": "230.160", 
+   "children": [], 
+   "end": "232.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Christian Haase, "
+   ]
+  }, 
+  {
+   "begin": "232.280", 
+   "children": [], 
+   "end": "237.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Mariana Harder-K\u00fchnel, "
+   ]
+  }, 
+  {
+   "begin": "237.720", 
+   "children": [], 
+   "end": "240.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Sebastian Hartmann, "
+   ]
+  }, 
+  {
+   "begin": "240.000", 
+   "children": [], 
+   "end": "241.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Mark Helfrich, "
+   ]
+  }, 
+  {
+   "begin": "241.440", 
+   "children": [], 
+   "end": "243.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Karsten Hilse, "
+   ]
+  }, 
+  {
+   "begin": "243.240", 
+   "children": [], 
+   "end": "246.120", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Thomas Hitschler, "
+   ]
+  }, 
+  {
+   "begin": "246.120", 
+   "children": [], 
+   "end": "247.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Dieter Janecek, "
+   ]
+  }, 
+  {
+   "begin": "247.840", 
+   "children": [], 
+   "end": "250.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Kerstin Kassner, "
+   ]
+  }, 
+  {
+   "begin": "250.760", 
+   "children": [], 
+   "end": "252.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ronja Kemmer, "
+   ]
+  }, 
+  {
+   "begin": "252.800", 
+   "children": [], 
+   "end": "254.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Jens Koeppen, "
+   ]
+  }, 
+  {
+   "begin": "254.800", 
+   "children": [], 
+   "end": "257.000", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Markus Koob, "
+   ]
+  }, 
+  {
+   "begin": "257.000", 
+   "children": [], 
+   "end": "259.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Katja Leikert, "
+   ]
+  }, 
+  {
+   "begin": "259.440", 
+   "children": [], 
+   "end": "261.560", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Alexander M\u00fcller, "
+   ]
+  }, 
+  {
+   "begin": "261.560", 
+   "children": [], 
+   "end": "263.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Bettina M\u00fcller, "
+   ]
+  }, 
+  {
+   "begin": "263.200", 
+   "children": [], 
+   "end": "266.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Norbert M\u00fcller, "
+   ]
+  }, 
+  {
+   "begin": "266.440", 
+   "children": [], 
+   "end": "268.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Beate M\u00fcller-Gemmeke, "
+   ]
+  }, 
+  {
+   "begin": "268.800", 
+   "children": [], 
+   "end": "270.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Volker M\u00fcnz, "
+   ]
+  }, 
+  {
+   "begin": "270.040", 
+   "children": [], 
+   "end": "272.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Alexander Neu, "
+   ]
+  }, 
+  {
+   "begin": "272.920", 
+   "children": [], 
+   "end": "274.720", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Ulli Nissen, "
+   ]
+  }, 
+  {
+   "begin": "274.720", 
+   "children": [], 
+   "end": "276.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Omid Nouripour, "
+   ]
+  }, 
+  {
+   "begin": "276.120", 
+   "children": [], 
+   "end": "278.800", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Friedrich Ostendorff, "
+   ]
+  }, 
+  {
+   "begin": "278.800", 
+   "children": [], 
+   "end": "281.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Tabea R\u00f6\u00dfner, "
+   ]
+  }, 
+  {
+   "begin": "281.800", 
+   "children": [], 
+   "end": "283.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Manuel Sarrazin, "
+   ]
+  }, 
+  {
+   "begin": "283.520", 
+   "children": [], 
+   "end": "285.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ulle Schauws, "
+   ]
+  }, 
+  {
+   "begin": "285.720", 
+   "children": [], 
+   "end": "288.640", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Wieland Schinnenburg, "
+   ]
+  }, 
+  {
+   "begin": "288.640", 
+   "children": [], 
+   "end": "290.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Benjamin Strasser, "
+   ]
+  }, 
+  {
+   "begin": "290.040", 
+   "children": [], 
+   "end": "294.200", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Katrin Werner, "
+   ]
+  }, 
+  {
+   "begin": "294.200", 
+   "children": [], 
+   "end": "295.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Nicole Westig, "
+   ]
+  }, 
+  {
+   "begin": "295.720", 
+   "children": [], 
+   "end": "298.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Kai Whittaker, "
+   ]
+  }, 
+  {
+   "begin": "298.120", 
+   "children": [], 
+   "end": "300.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wolfgang Wiehle, "
+   ]
+  }, 
+  {
+   "begin": "300.240", 
+   "children": [], 
+   "end": "302.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "G\u00fclistan Y\u00fcksel, "
+   ]
+  }, 
+  {
+   "begin": "302.760", 
+   "children": [], 
+   "end": "305.160", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Hubertus Zdebel, "
+   ]
+  }, 
+  {
+   "begin": "305.160", 
+   "children": [], 
+   "end": "307.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Stefan Zierke, "
+   ]
+  }, 
+  {
+   "begin": "307.640", 
+   "children": [], 
+   "end": "314.840", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Pia Zimmermann."
+   ]
+  }, 
+  {
+   "begin": "314.840", 
+   "children": [], 
+   "end": "347.760", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Die Abgeordneten Jens Koeppen und Doris Barnett bitte ich, "
+   ]
+  }, 
+  {
+   "begin": "347.760", 
+   "children": [], 
+   "end": "357.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "neben mir Platz zu nehmen."
+   ]
+  }
+ ]
+}

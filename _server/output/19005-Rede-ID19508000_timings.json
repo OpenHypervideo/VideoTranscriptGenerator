@@ -1,0 +1,774 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.480", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "children": [], 
+   "end": "13.360", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "children": [], 
+   "end": "19.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Anschlag auf dem Berliner Breitscheidplatz vor einem Jahr war ein Anschlag auf uns alle, "
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "children": [], 
+   "end": "21.160", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "auf die freie, "
+   ]
+  }, 
+  {
+   "begin": "21.160", 
+   "children": [], 
+   "end": "24.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "tolerante und offene Gesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "24.920", 
+   "children": [], 
+   "end": "27.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Es sind zw\u00f6lf Menschen ums Leben gekommen, "
+   ]
+  }, 
+  {
+   "begin": "27.560", 
+   "children": [], 
+   "end": "29.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und es gab viele Dutzend Verletzte, "
+   ]
+  }, 
+  {
+   "begin": "29.960", 
+   "children": [], 
+   "end": "31.200", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die bis heute leiden, "
+   ]
+  }, 
+  {
+   "begin": "31.200", 
+   "children": [], 
+   "end": "33.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "und viele trauernde Angeh\u00f6rige, "
+   ]
+  }, 
+  {
+   "begin": "33.480", 
+   "children": [], 
+   "end": "35.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "denen unsere Sympathie, "
+   ]
+  }, 
+  {
+   "begin": "35.800", 
+   "children": [], 
+   "end": "38.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "unser Respekt und unser Mitgef\u00fchl gelten. "
+   ]
+  }, 
+  {
+   "begin": "38.480", 
+   "children": [], 
+   "end": "38.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "38.920", 
+   "children": [], 
+   "end": "43.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "das sollten wir in diesem Hohen Haus deutlich zum Ausdruck bringen. "
+   ]
+  }, 
+  {
+   "begin": "43.160", 
+   "children": [], 
+   "end": "49.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "In den letzten Monaten ist viel \u00fcber das Fehlverhalten von Beh\u00f6rden gesprochen worden. "
+   ]
+  }, 
+  {
+   "begin": "49.200", 
+   "children": [], 
+   "end": "49.880", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Es ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "49.880", 
+   "children": [], 
+   "end": "54.360", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass der demokratische Rechtsstaat das konsequent aufarbeitet, "
+   ]
+  }, 
+  {
+   "begin": "54.360", 
+   "children": [], 
+   "end": "55.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "weil wir die Pflicht haben, "
+   ]
+  }, 
+  {
+   "begin": "55.480", 
+   "children": [], 
+   "end": "59.720", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "daraus zu lernen und die Dinge zu verbessern."
+   ]
+  }, 
+  {
+   "begin": "59.720", 
+   "children": [], 
+   "end": "60.680", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Aber es ist auch richtig, "
+   ]
+  }, 
+  {
+   "begin": "60.680", 
+   "children": [], 
+   "end": "62.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wenn uns entgegengehalten wird, "
+   ]
+  }, 
+  {
+   "begin": "62.600", 
+   "children": [], 
+   "end": "68.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass bislang viel zu wenig \u00fcber die Opfer gesprochen wurde. "
+   ]
+  }, 
+  {
+   "begin": "68.640", 
+   "children": [], 
+   "end": "77.720", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen in unserem Land eine Kultur der Begleitung der Opfer entwickeln und sie in den Mittelpunkt unserer Rechtspolitik stellen. "
+   ]
+  }, 
+  {
+   "begin": "77.720", 
+   "children": [], 
+   "end": "79.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es richtig, "
+   ]
+  }, 
+  {
+   "begin": "79.600", 
+   "children": [], 
+   "end": "84.200", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass wir hier weitere Verbesserungen auf den Weg bringen."
+   ]
+  }, 
+  {
+   "begin": "84.200", 
+   "children": [], 
+   "end": "84.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen nicht, "
+   ]
+  }, 
+  {
+   "begin": "84.880", 
+   "children": [], 
+   "end": "86.320", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "86.320", 
+   "children": [], 
+   "end": "90.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "ob und wann uns wieder ein Terroranschlag heimsuchen wird. "
+   ]
+  }, 
+  {
+   "begin": "90.080", 
+   "children": [], 
+   "end": "91.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir tun alles daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "91.280", 
+   "children": [], 
+   "end": "93.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "um dies zu verhindern; "
+   ]
+  }, 
+  {
+   "begin": "93.160", 
+   "children": [], 
+   "end": "96.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "aber eine Garantie kann leider niemand geben. "
+   ]
+  }, 
+  {
+   "begin": "96.080", 
+   "children": [], 
+   "end": "99.960", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen brauchen wir im Falle eines Anschlags ein System, "
+   ]
+  }, 
+  {
+   "begin": "99.960", 
+   "children": [], 
+   "end": "102.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "durch das Angeh\u00f6rige schnell, "
+   ]
+  }, 
+  {
+   "begin": "102.320", 
+   "children": [], 
+   "end": "106.440", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "unb\u00fcrokratisch und effizient Unterst\u00fctzung bekommen. "
+   ]
+  }, 
+  {
+   "begin": "106.440", 
+   "children": [], 
+   "end": "110.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen muss es eine zentrale Anlaufstelle geben, "
+   ]
+  }, 
+  {
+   "begin": "110.200", 
+   "children": [], 
+   "end": "112.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die sofort arbeitsf\u00e4hig ist. "
+   ]
+  }, 
+  {
+   "begin": "112.760", 
+   "children": [], 
+   "end": "114.880", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Zeit muss vorbei sein, "
+   ]
+  }, 
+  {
+   "begin": "114.880", 
+   "children": [], 
+   "end": "117.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "in der Angeh\u00f6rige bangend warten und nicht wissen, "
+   ]
+  }, 
+  {
+   "begin": "117.920", 
+   "children": [], 
+   "end": "119.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wen sie anrufen sollen; "
+   ]
+  }, 
+  {
+   "begin": "119.440", 
+   "children": [], 
+   "end": "122.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "vielmehr m\u00fcssen sie von der ersten Sekunde an begleitet werden. "
+   ]
+  }, 
+  {
+   "begin": "122.320", 
+   "children": [], 
+   "end": "130.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das sind wir den Angeh\u00f6rigen schuldig."
+   ]
+  }, 
+  {
+   "begin": "130.720", 
+   "children": [], 
+   "end": "135.480", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen auch \u00fcber die Entsch\u00e4digungszahlungen sprechen. "
+   ]
+  }, 
+  {
+   "begin": "135.480", 
+   "children": [], 
+   "end": "136.760", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Es ist klar, "
+   ]
+  }, 
+  {
+   "begin": "136.760", 
+   "children": [], 
+   "end": "141.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dass kein Geld der Welt den Schmerz heilen kann, "
+   ]
+  }, 
+  {
+   "begin": "141.480", 
+   "children": [], 
+   "end": "145.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und kein Euro bringt einen geliebten Menschen zur\u00fcck. "
+   ]
+  }, 
+  {
+   "begin": "145.800", 
+   "children": [], 
+   "end": "148.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Aber die Entsch\u00e4digung kann helfen, "
+   ]
+  }, 
+  {
+   "begin": "148.400", 
+   "children": [], 
+   "end": "152.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass die Angeh\u00f6rigen ins Leben zur\u00fcckkommen, "
+   ]
+  }, 
+  {
+   "begin": "152.880", 
+   "children": [], 
+   "end": "158.920", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass sie durch das Attentat nicht schlechter gestellt werden als vorher."
+   ]
+  }, 
+  {
+   "begin": "158.920", 
+   "children": [], 
+   "end": "161.520", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen m\u00fcssen wir deutlich zum Ausdruck bringen, "
+   ]
+  }, 
+  {
+   "begin": "161.520", 
+   "children": [], 
+   "end": "165.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass die bisherige Opferentsch\u00e4digung einfach unzureichend war, "
+   ]
+  }, 
+  {
+   "begin": "165.640", 
+   "children": [], 
+   "end": "167.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass der Staat hier nachbessern muss, "
+   ]
+  }, 
+  {
+   "begin": "167.800", 
+   "children": [], 
+   "end": "169.840", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "auch im Bereich der Verm\u00f6genssch\u00e4den. "
+   ]
+  }, 
+  {
+   "begin": "169.840", 
+   "children": [], 
+   "end": "172.880", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Es m\u00fcssen alle Sch\u00e4den erstattbar werden. "
+   ]
+  }, 
+  {
+   "begin": "172.880", 
+   "children": [], 
+   "end": "173.280", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Der Staat, "
+   ]
+  }, 
+  {
+   "begin": "173.280", 
+   "children": [], 
+   "end": "174.160", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "174.160", 
+   "children": [], 
+   "end": "175.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "darf hier nicht kleinlich sein, "
+   ]
+  }, 
+  {
+   "begin": "175.720", 
+   "children": [], 
+   "end": "186.440", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "sondern der Staat muss hier Gro\u00dfz\u00fcgigkeit walten lassen."
+   ]
+  }, 
+  {
+   "begin": "186.440", 
+   "children": [], 
+   "end": "187.000", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wichtig ist, "
+   ]
+  }, 
+  {
+   "begin": "187.000", 
+   "children": [], 
+   "end": "193.960", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass von diesem gemeinsam getragenen Antrag das Signal ausgesendet wird, "
+   ]
+  }, 
+  {
+   "begin": "193.960", 
+   "children": [], 
+   "end": "196.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass die Opfer nicht alleine sind, "
+   ]
+  }, 
+  {
+   "begin": "196.800", 
+   "children": [], 
+   "end": "208.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass der Staat sich ihrer annimmt und dass in den n\u00e4chsten Wochen und Monaten die Frage des Opferschutzes zu einem zentralen Element der Rechtspolitik wird. "
+   ]
+  }, 
+  {
+   "begin": "208.400", 
+   "children": [], 
+   "end": "210.000", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen dar\u00fcber sprechen, "
+   ]
+  }, 
+  {
+   "begin": "210.000", 
+   "children": [], 
+   "end": "212.720", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wie wir nicht nur den Terroropfern helfen, "
+   ]
+  }, 
+  {
+   "begin": "212.720", 
+   "children": [], 
+   "end": "217.200", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "sondern wie wir auch im Strafverfahren den Opfern der allt\u00e4glichen Gewalt helfen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "217.200", 
+   "children": [], 
+   "end": "221.200", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wie wir als Staat Unterst\u00fctzung leisten k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "221.200", 
+   "children": [], 
+   "end": "222.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "damit die Menschen das Gef\u00fchl haben, "
+   ]
+  }, 
+  {
+   "begin": "222.880", 
+   "children": [], 
+   "end": "223.800", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "der Staat steht an ihrer Seite."
+   ]
+  }, 
+  {
+   "begin": "223.800", 
+   "children": [], 
+   "end": "224.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Sicherheit und Freiheit bedingen auch den notwendigen Opferschutz. "
+   ]
+  }, 
+  {
+   "begin": "224.920", 
+   "children": [], 
+   "end": "225.640", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Da machen wir uns auf den Weg, "
+   ]
+  }, 
+  {
+   "begin": "225.640", 
+   "children": [], 
+   "end": "226.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "und ich lade jeden ein, "
+   ]
+  }, 
+  {
+   "begin": "226.400", 
+   "children": [], 
+   "end": "226.840", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "mitzuwirken."
+   ]
+  }, 
+  {
+   "begin": "226.840", 
+   "children": [], 
+   "end": "227.880", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "227.880", 
+   "children": [], 
+   "end": "228.320", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe die Aussprache."
+   ]
+  }, 
+  {
+   "begin": "228.320", 
+   "children": [], 
+   "end": "230.360", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir kommen zur Abstimmung \u00fcber den Antrag der Fraktionen CDU/CSU, "
+   ]
+  }, 
+  {
+   "begin": "230.360", 
+   "children": [], 
+   "end": "230.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "SPD, "
+   ]
+  }, 
+  {
+   "begin": "230.520", 
+   "children": [], 
+   "end": "233.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "FDP und B\u00fcndnis\u00a090/Die Gr\u00fcnen auf Drucksache\u00a019/234 mit dem Titel \u201eOpfer\u00adentsch\u00e4digung verbessern\u201c. "
+   ]
+  }, 
+  {
+   "begin": "233.760", 
+   "children": [], 
+   "end": "239.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr diesen Antrag?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "239.600", 
+   "children": [], 
+   "end": "242.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist der Antrag mit den Stimmen des ganzen Hauses angenommen."
+   ]
+  }
+ ]
+}

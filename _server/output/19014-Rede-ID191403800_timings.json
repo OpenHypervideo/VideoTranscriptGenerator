@@ -1,0 +1,924 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "children": [], 
+   "end": "10.320", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir beraten heute abschlie\u00dfend \u00fcber die diesj\u00e4hrige Verwendung des ERP-Sonderverm\u00f6gens, "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "18.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "ein F\u00f6rderinstrument, "
+   ]
+  }, 
+  {
+   "begin": "18.200", 
+   "children": [], 
+   "end": "21.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "das uns als Marshallplan noch in bester Erinnerung ist, "
+   ]
+  }, 
+  {
+   "begin": "21.520", 
+   "children": [], 
+   "end": "26.360", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "das aber im heillosen Durcheinander von F\u00f6rdert\u00f6pfen untergeht und gerade in Mittel- "
+   ]
+  }, 
+  {
+   "begin": "26.360", 
+   "children": [], 
+   "end": "29.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und Ostdeutschland kaum Wirkung entfaltet. "
+   ]
+  }, 
+  {
+   "begin": "29.240", 
+   "children": [], 
+   "end": "33.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sonst g\u00e4be es hier n\u00e4mlich schon lange die bl\u00fchenden Landschaften, "
+   ]
+  }, 
+  {
+   "begin": "33.800", 
+   "children": [], 
+   "end": "35.720", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die sie nach der Wende nie geworden sind. "
+   ]
+  }, 
+  {
+   "begin": "35.720", 
+   "children": [], 
+   "end": "37.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Es fragt sich, "
+   ]
+  }, 
+  {
+   "begin": "37.040", 
+   "children": [], 
+   "end": "42.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "ob die Gesamtstruktur der Wirtschaftsf\u00f6rderung \u00fcberhaupt noch zukunftsf\u00e4hig ist; "
+   ]
+  }, 
+  {
+   "begin": "42.880", 
+   "children": [], 
+   "end": "47.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "denn fette Hennen gibt es nur noch in der Politik. "
+   ]
+  }, 
+  {
+   "begin": "47.160", 
+   "children": [], 
+   "end": "52.560", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Der Mittelstand und das Handwerk magern immer mehr zum Suppenhuhn ab."
+   ]
+  }, 
+  {
+   "begin": "52.560", 
+   "children": [], 
+   "end": "58.440", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die F\u00f6rderpolitik der Gro\u00dfen Koalition ist in meinem Wahlkreis, "
+   ]
+  }, 
+  {
+   "begin": "58.440", 
+   "children": [], 
+   "end": "60.400", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "im \u00f6stlichen Mecklenburg und in Vorpommern, "
+   ]
+  }, 
+  {
+   "begin": "60.400", 
+   "children": [], 
+   "end": "61.960", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "schlicht unsichtbar. "
+   ]
+  }, 
+  {
+   "begin": "61.960", 
+   "children": [], 
+   "end": "63.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "In Wolgast verfallen die H\u00e4user, "
+   ]
+  }, 
+  {
+   "begin": "63.680", 
+   "children": [], 
+   "end": "66.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "in Pasewalk gibt es l\u00f6chrige Stra\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "66.160", 
+   "children": [], 
+   "end": "69.320", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "in Neubrandenburg lebt jeder Sechste von Hartz\u00a0IV, "
+   ]
+  }, 
+  {
+   "begin": "69.320", 
+   "children": [], 
+   "end": "73.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und Anklam ist nach wie vor eine Internetw\u00fcste. "
+   ]
+  }, 
+  {
+   "begin": "73.160", 
+   "children": [], 
+   "end": "74.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Was glauben Sie eigentlich, "
+   ]
+  }, 
+  {
+   "begin": "74.520", 
+   "children": [], 
+   "end": "78.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "warum uns die Unternehmer und die ganzen jungen Menschen verlassen? "
+   ]
+  }, 
+  {
+   "begin": "78.560", 
+   "children": [], 
+   "end": "84.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Mit diesem F\u00f6rderchaos werden Sie sie nicht halten und erst recht nicht zur\u00fcckholen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "84.880", 
+   "children": [], 
+   "end": "85.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "85.640", 
+   "children": [], 
+   "end": "86.080", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "ja, "
+   ]
+  }, 
+  {
+   "begin": "86.080", 
+   "children": [], 
+   "end": "89.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "ERP w\u00e4re ein wichtiges F\u00f6rderinstrument,"
+   ]
+  }, 
+  {
+   "begin": "89.760", 
+   "children": [], 
+   "end": "92.880", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "vor allem auch f\u00fcr die strukturschwachen Gebiete in Mittel- "
+   ]
+  }, 
+  {
+   "begin": "92.880", 
+   "children": [], 
+   "end": "94.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "und Ostdeutschland, "
+   ]
+  }, 
+  {
+   "begin": "94.320", 
+   "children": [], 
+   "end": "98.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und F\u00f6rderpolitik ist eine Kernaufgabe des Staates, "
+   ]
+  }, 
+  {
+   "begin": "98.080", 
+   "children": [], 
+   "end": "99.160", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und zwar dann, "
+   ]
+  }, 
+  {
+   "begin": "99.160", 
+   "children": [], 
+   "end": "101.840", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wenn der freie Markt nicht funktioniert. "
+   ]
+  }, 
+  {
+   "begin": "101.840", 
+   "children": [], 
+   "end": "105.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Dies tut er in weiten Teilen Deutschlands eben nicht. "
+   ]
+  }, 
+  {
+   "begin": "105.520", 
+   "children": [], 
+   "end": "110.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Um das weitere wirtschaftliche und demografische Ausbluten aufzuhalten, "
+   ]
+  }, 
+  {
+   "begin": "110.200", 
+   "children": [], 
+   "end": "112.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "brauchen wir aber eine gesamtheitliche, "
+   ]
+  }, 
+  {
+   "begin": "112.640", 
+   "children": [], 
+   "end": "117.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "kluge Standortpolitik sowie F\u00f6rderbauk\u00e4sten, "
+   ]
+  }, 
+  {
+   "begin": "117.120", 
+   "children": [], 
+   "end": "122.760", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "und zwar zugeschnitten auf die konkret notwendigen F\u00f6rderbed\u00fcrfnisse vor Ort. "
+   ]
+  }, 
+  {
+   "begin": "122.760", 
+   "children": [], 
+   "end": "127.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Absichtsbekundungen der hier schon l\u00e4nger Regierenden gibt es ja viele; "
+   ]
+  }, 
+  {
+   "begin": "127.800", 
+   "children": [], 
+   "end": "131.080", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "einzig der Umsetzungswille fehlt."
+   ]
+  }, 
+  {
+   "begin": "131.080", 
+   "children": [], 
+   "end": "136.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber vieles wurde in der letzten Legislaturperiode gesprochen. "
+   ]
+  }, 
+  {
+   "begin": "136.160", 
+   "children": [], 
+   "end": "141.440", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Aber \u00fcber Absichtserkl\u00e4rungen sind Sie leider nicht hinausgekommen. "
+   ]
+  }, 
+  {
+   "begin": "141.440", 
+   "children": [], 
+   "end": "142.680", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Sie gackern laut, "
+   ]
+  }, 
+  {
+   "begin": "142.680", 
+   "children": [], 
+   "end": "144.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "legen aber keine Eier. "
+   ]
+  }, 
+  {
+   "begin": "144.720", 
+   "children": [], 
+   "end": "149.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wer keine Eier hat, "
+   ]
+  }, 
+  {
+   "begin": "149.320", 
+   "children": [], 
+   "end": "150.480", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "sollte nicht regieren."
+   ]
+  }, 
+  {
+   "begin": "150.480", 
+   "children": [], 
+   "end": "154.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wie schon der Bundesrechnungshof in seinem Bericht an den Hauptausschuss kritisiert, "
+   ]
+  }, 
+  {
+   "begin": "154.600", 
+   "children": [], 
+   "end": "158.120", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "bleibt die ERP-F\u00f6rderung hinter ihren M\u00f6glichkeiten zur\u00fcck. "
+   ]
+  }, 
+  {
+   "begin": "158.120", 
+   "children": [], 
+   "end": "170.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Die 2007 vereinbarte F\u00f6rderzielgr\u00f6\u00dfe von heute inflationsbereinigten 345,4\u00a0Millionen Euro wird mit lediglich geplanten 287,4\u00a0Millionen Euro, "
+   ]
+  }, 
+  {
+   "begin": "170.720", 
+   "children": [], 
+   "end": "173.560", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "also 60\u00a0Millionen Euro weniger, "
+   ]
+  }, 
+  {
+   "begin": "173.560", 
+   "children": [], 
+   "end": "176.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "bei weitem nicht ausgesch\u00f6pft. "
+   ]
+  }, 
+  {
+   "begin": "176.280", 
+   "children": [], 
+   "end": "181.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Und was die Transparenz der neu zu gr\u00fcndenden KfW-Tochter angeht, "
+   ]
+  }, 
+  {
+   "begin": "181.400", 
+   "children": [], 
+   "end": "182.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "ist strittig, "
+   ]
+  }, 
+  {
+   "begin": "182.200", 
+   "children": [], 
+   "end": "192.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "ob es nur eine gesetzliche Pr\u00fcfberechtigung des Bundesrechnungshofes oder eine weiter gehende vertragliche Pr\u00fcfvereinbarung geben soll. "
+   ]
+  }, 
+  {
+   "begin": "192.680", 
+   "children": [], 
+   "end": "194.600", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Laut Staatssekret\u00e4r Beckmeyer\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "194.600", 
+   "children": [], 
+   "end": "195.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "er ist anwesend\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "195.720", 
+   "children": [], 
+   "end": "201.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "soll der Bundesrechnungshof dort \u201eauch mal die Lampe reinhalten\u201c d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "201.600", 
+   "children": [], 
+   "end": "209.200", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Dem Bundeswirtschaftsministerium ist zum Thema \u201ezukunftsorientierte Wirtschaftsf\u00f6rderung\u201c offensichtlich noch nicht einmal ein Licht aufgegangen. "
+   ]
+  }, 
+  {
+   "begin": "209.200", 
+   "children": [], 
+   "end": "215.560", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Sie laufen mit der Kerze durch die Gegend. "
+   ]
+  }, 
+  {
+   "begin": "215.560", 
+   "children": [], 
+   "end": "218.800", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Der deutsche Mittelstand ben\u00f6tigt aber Flutlicht."
+   ]
+  }, 
+  {
+   "begin": "218.800", 
+   "children": [], 
+   "end": "219.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage Sie: "
+   ]
+  }, 
+  {
+   "begin": "219.360", 
+   "children": [], 
+   "end": "220.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wie ist es denn zu erkl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "220.720", 
+   "children": [], 
+   "end": "228.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass die bereitgestellten F\u00f6rdermittel f\u00fcr Unternehmensgr\u00fcnder zu lediglich einem Drittel in Anspruch genommen wurden? "
+   ]
+  }, 
+  {
+   "begin": "228.080", 
+   "children": [], 
+   "end": "229.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage es Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "229.400", 
+   "children": [], 
+   "end": "236.840", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die Rahmenbedingungen f\u00fcr Neugr\u00fcndungen in Deutschland sind trotz ERP-F\u00f6rderung und anderer F\u00f6rderungen einfach schlecht. "
+   ]
+  }, 
+  {
+   "begin": "236.840", 
+   "children": [], 
+   "end": "246.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Auf mageren B\u00f6den vermag selbst der w\u00e4rmste Regen die beste Saat nicht aufgehen zu lassen."
+   ]
+  }, 
+  {
+   "begin": "246.880", 
+   "children": [], 
+   "end": "249.840", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen niedrige Steuern, "
+   ]
+  }, 
+  {
+   "begin": "249.840", 
+   "children": [], 
+   "end": "251.360", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "endlich schnelles Internet, "
+   ]
+  }, 
+  {
+   "begin": "251.360", 
+   "children": [], 
+   "end": "254.200", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "g\u00fcnstigen Strom und wenig B\u00fcrokratie. "
+   ]
+  }, 
+  {
+   "begin": "254.200", 
+   "children": [], 
+   "end": "257.760", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Besonders arme Regionen m\u00fcssen besonders gut behandelt werden. "
+   ]
+  }, 
+  {
+   "begin": "257.760", 
+   "children": [], 
+   "end": "259.720", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Da muss man sich die Frage stellen, "
+   ]
+  }, 
+  {
+   "begin": "259.720", 
+   "children": [], 
+   "end": "263.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "ob man nicht f\u00fcr abgrenzbare strukturarme Gebiete handels- "
+   ]
+  }, 
+  {
+   "begin": "263.640", 
+   "children": [], 
+   "end": "267.160", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "und unternehmensrechtliche Sonderregelungen zul\u00e4sst, "
+   ]
+  }, 
+  {
+   "begin": "267.160", 
+   "children": [], 
+   "end": "271.080", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "um so Standortnachteile auszugleichen. "
+   ]
+  }, 
+  {
+   "begin": "271.080", 
+   "children": [], 
+   "end": "282.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Das Nachdenken \u00fcber spezielle Steuerregelungen sowie \u00fcber die Abschaffung oder zumindest die drastische Reduzierung beh\u00f6rdlicher Genehmigungsverfahren in solchen Gebieten darf kein Tabu sein. "
+   ]
+  }, 
+  {
+   "begin": "282.560", 
+   "children": [], 
+   "end": "283.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie meinen, "
+   ]
+  }, 
+  {
+   "begin": "283.680", 
+   "children": [], 
+   "end": "288.520", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass rechtliche Sonderregelungen f\u00fcr einzelne Regionen in Deutschland nicht m\u00f6glich seien, "
+   ]
+  }, 
+  {
+   "begin": "288.520", 
+   "children": [], 
+   "end": "289.920", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "sage ich Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "289.920", 
+   "children": [], 
+   "end": "291.600", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind der Gesetzgeber. "
+   ]
+  }, 
+  {
+   "begin": "291.600", 
+   "children": [], 
+   "end": "293.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Machen wir es m\u00f6glich, "
+   ]
+  }, 
+  {
+   "begin": "293.200", 
+   "children": [], 
+   "end": "294.640", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr unser Land, "
+   ]
+  }, 
+  {
+   "begin": "294.640", 
+   "children": [], 
+   "end": "300.920", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr unsere Landsleute und f\u00fcr unseren deutschen Mittelstand."
+   ]
+  }, 
+  {
+   "begin": "300.920", 
+   "children": [], 
+   "end": "301.640", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "In der Hoffnung, "
+   ]
+  }, 
+  {
+   "begin": "301.640", 
+   "children": [], 
+   "end": "307.920", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass das ERP-Verm\u00f6gen endlich in ein ganzheitlich abgestimmtes F\u00f6rdersystem Eingang findet, "
+   ]
+  }, 
+  {
+   "begin": "307.920", 
+   "children": [], 
+   "end": "322.240", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "stimmen wir heute dem Entwurf eines ERP-Wirtschaftsplangesetzes noch zu; "
+   ]
+  }, 
+  {
+   "begin": "322.240", 
+   "children": [], 
+   "end": "326.080", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "denn wenig ist immer noch besser als nichts."
+   ]
+  }, 
+  {
+   "begin": "326.080", 
+   "children": [], 
+   "end": "327.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "327.080", 
+   "children": [], 
+   "end": "329.120", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Der n\u00e4chste Redner, "
+   ]
+  }, 
+  {
+   "begin": "329.120", 
+   "children": [], 
+   "end": "332.600", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "den ich aufrufen m\u00f6chte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "332.600", 
+   "children": [], 
+   "end": "336.640", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "es ist seine erste Rede im Deutschen Bundestag\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "336.640", 
+   "children": [], 
+   "end": "342.720", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "ist Thomas Kemmerich f\u00fcr die FDP-Fraktion.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "342.720", 
+   "children": [], 
+   "end": "354.200", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin noch immer etwas irritiert durch den Ausflug in die Welt der Eier."
+   ]
+  }, 
+  {
+   "begin": "354.200", 
+   "children": [], 
+   "end": "355.520", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Bitte sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "355.520", 
+   "children": [], 
+   "end": "357.000", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kemmerich."
+   ]
+  }
+ ]
+}

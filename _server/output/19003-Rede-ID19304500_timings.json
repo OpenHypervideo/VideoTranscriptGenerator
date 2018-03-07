@@ -1,0 +1,854 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "children": [], 
+   "end": "9.160", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "children": [], 
+   "end": "11.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "children": [], 
+   "end": "15.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Unser Bildungssystem ist chronisch unterfinanziert. "
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "children": [], 
+   "end": "16.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Genau das, "
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "children": [], 
+   "end": "18.000", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "18.000", 
+   "children": [], 
+   "end": "22.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "geh\u00f6rt zu den Alltagserfahrungen vieler Menschen. "
+   ]
+  }, 
+  {
+   "begin": "22.120", 
+   "children": [], 
+   "end": "23.080", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Das sorgt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.080", 
+   "children": [], 
+   "end": "23.640", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wie ich finde, "
+   ]
+  }, 
+  {
+   "begin": "23.640", 
+   "children": [], 
+   "end": "24.280", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "zu Recht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "24.280", 
+   "children": [], 
+   "end": "26.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcberall f\u00fcr Emp\u00f6rung."
+   ]
+  }, 
+  {
+   "begin": "26.160", 
+   "children": [], 
+   "end": "30.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin seit vielen Jahren Bildungspolitikerin in Sachsen-Anhalt und habe erlebt, "
+   ]
+  }, 
+  {
+   "begin": "30.920", 
+   "children": [], 
+   "end": "33.000", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "wie Jahr f\u00fcr Jahr eine wunderbare Idee, "
+   ]
+  }, 
+  {
+   "begin": "33.000", 
+   "children": [], 
+   "end": "35.640", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die einer inklusiven Schule, "
+   ]
+  }, 
+  {
+   "begin": "35.640", 
+   "children": [], 
+   "end": "37.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "schrittweise ruiniert worden ist, "
+   ]
+  }, 
+  {
+   "begin": "37.840", 
+   "children": [], 
+   "end": "46.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "weil eben engagierten P\u00e4dagoginnen und P\u00e4dagogen das Geld und das notwendige Personal entzogen wurden. "
+   ]
+  }, 
+  {
+   "begin": "46.200", 
+   "children": [], 
+   "end": "48.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir erlebten in der Tat mitunter Kitas, "
+   ]
+  }, 
+  {
+   "begin": "48.160", 
+   "children": [], 
+   "end": "51.440", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Schulen und Hochschulen in einem Zustand, "
+   ]
+  }, 
+  {
+   "begin": "51.440", 
+   "children": [], 
+   "end": "53.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass es den Hund jammert. "
+   ]
+  }, 
+  {
+   "begin": "53.640", 
+   "children": [], 
+   "end": "58.200", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "In Halle beispielsweise m\u00fcssen angehende Grundschullehrkr\u00e4fte ihr Fach in einem Haus studieren, "
+   ]
+  }, 
+  {
+   "begin": "58.200", 
+   "children": [], 
+   "end": "61.960", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "von dem ich Ihnen mit Sicherheit sagen kann, "
+   ]
+  }, 
+  {
+   "begin": "61.960", 
+   "children": [], 
+   "end": "68.400", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass es im n\u00e4chsten Jahr aus bautechnischen Gr\u00fcnden gesperrt wird."
+   ]
+  }, 
+  {
+   "begin": "68.400", 
+   "children": [], 
+   "end": "74.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Digitale Bildung scheitert allein am Mangel an Software und Hardware. "
+   ]
+  }, 
+  {
+   "begin": "74.960", 
+   "children": [], 
+   "end": "85.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Kreditanstalt f\u00fcr Wiederaufbau hat in der vorvergangenen Woche von einem Sanierungsbedarf von 34\u00a0Milliarden Euro gesprochen. "
+   ]
+  }, 
+  {
+   "begin": "85.480", 
+   "children": [], 
+   "end": "86.240", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich vermute, "
+   ]
+  }, 
+  {
+   "begin": "86.240", 
+   "children": [], 
+   "end": "90.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir gute Schule sehr viel weiter verstehen als nur die H\u00fclle drumherum, "
+   ]
+  }, 
+  {
+   "begin": "90.520", 
+   "children": [], 
+   "end": "97.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "landen wir mit Sicherheit bei einem notwendigen Finanzierungsbedarf von etwa 40 bis 50\u00a0Milliarden Euro: "
+   ]
+  }, 
+  {
+   "begin": "97.240", 
+   "children": [], 
+   "end": "99.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr eine gute und moderne Bildung in Kita, "
+   ]
+  }, 
+  {
+   "begin": "99.920", 
+   "children": [], 
+   "end": "101.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "in Schule und in Hochschule."
+   ]
+  }, 
+  {
+   "begin": "101.720", 
+   "children": [], 
+   "end": "103.720", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Was geh\u00f6rt zu den gro\u00dfen Barrieren? "
+   ]
+  }, 
+  {
+   "begin": "103.720", 
+   "children": [], 
+   "end": "104.200", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Vieles, "
+   ]
+  }, 
+  {
+   "begin": "104.200", 
+   "children": [], 
+   "end": "106.680", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren. "
+   ]
+  }, 
+  {
+   "begin": "106.680", 
+   "children": [], 
+   "end": "115.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Aber zu den gro\u00dfen Barrieren f\u00fcr eine vern\u00fcnftige gemeinsame Finanzierung geh\u00f6rt das Kooperationsverbot. "
+   ]
+  }, 
+  {
+   "begin": "115.200", 
+   "children": [], 
+   "end": "116.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Kein Mensch kann nachvollziehen, "
+   ]
+  }, 
+  {
+   "begin": "116.960", 
+   "children": [], 
+   "end": "119.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "weshalb es dem Bund nicht m\u00f6glich sein soll, "
+   ]
+  }, 
+  {
+   "begin": "119.480", 
+   "children": [], 
+   "end": "123.080", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "sich an guter Bildung finanziell zu beteiligen,"
+   ]
+  }, 
+  {
+   "begin": "123.080", 
+   "children": [], 
+   "end": "128.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "und weshalb wir in diesem Hause st\u00e4ndig Schleich- "
+   ]
+  }, 
+  {
+   "begin": "128.120", 
+   "children": [], 
+   "end": "130.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "und Umwege suchen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "130.280", 
+   "children": [], 
+   "end": "133.040", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "anstatt den direkten Weg zu gehen. "
+   ]
+  }, 
+  {
+   "begin": "133.040", 
+   "children": [], 
+   "end": "140.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Gerade wir in den neuen L\u00e4ndern haben positive Erfahrungen mit dem Ganztagsschulprogramm damals von Rot-Gr\u00fcn gemacht; "
+   ]
+  }, 
+  {
+   "begin": "140.280", 
+   "children": [], 
+   "end": "141.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "da war ja nicht alles schlecht, "
+   ]
+  }, 
+  {
+   "begin": "141.640", 
+   "children": [], 
+   "end": "143.160", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "keine Frage."
+   ]
+  }, 
+  {
+   "begin": "143.160", 
+   "children": [], 
+   "end": "146.160", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Diese Erfahrungen m\u00f6chten wir gerne weiterhin machen."
+   ]
+  }, 
+  {
+   "begin": "146.160", 
+   "children": [], 
+   "end": "146.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Ich vermute, "
+   ]
+  }, 
+  {
+   "begin": "146.680", 
+   "children": [], 
+   "end": "151.160", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "allein dieser ganzen Debatte um den Zustand unseres Bildungssystems verdanken wir es, "
+   ]
+  }, 
+  {
+   "begin": "151.160", 
+   "children": [], 
+   "end": "153.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass wahrscheinlich mindestens die H\u00e4lfte der Bev\u00f6lkerung wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "153.200", 
+   "children": [], 
+   "end": "155.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "was das Kooperationsverbot ist. "
+   ]
+  }, 
+  {
+   "begin": "155.480", 
+   "children": [], 
+   "end": "157.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Alle fragen sich, "
+   ]
+  }, 
+  {
+   "begin": "157.080", 
+   "children": [], 
+   "end": "163.360", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "warum wir im Bund zwar die Leistungsf\u00e4higkeit feststellen d\u00fcrfen, "
+   ]
+  }, 
+  {
+   "begin": "163.360", 
+   "children": [], 
+   "end": "168.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "aber uns an einer Verbesserung dieser Leistungsf\u00e4higkeit nicht beteiligen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "168.400", 
+   "children": [], 
+   "end": "169.480", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ehrlich gesagt, "
+   ]
+  }, 
+  {
+   "begin": "169.480", 
+   "children": [], 
+   "end": "173.160", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "das kann man nicht nur niemandem erkl\u00e4ren. "
+   ]
+  }, 
+  {
+   "begin": "173.160", 
+   "children": [], 
+   "end": "177.280", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ich mag es auch niemandem mehr erkl\u00e4ren."
+   ]
+  }, 
+  {
+   "begin": "177.280", 
+   "children": [], 
+   "end": "179.400", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen liegt unser Antrag vor, "
+   ]
+  }, 
+  {
+   "begin": "179.400", 
+   "children": [], 
+   "end": "180.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "weil wir finden: "
+   ]
+  }, 
+  {
+   "begin": "180.680", 
+   "children": [], 
+   "end": "183.600", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen gute Bildung und gute Schulen, "
+   ]
+  }, 
+  {
+   "begin": "183.600", 
+   "children": [], 
+   "end": "185.600", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "und zwar f\u00fcr alle Kinder, "
+   ]
+  }, 
+  {
+   "begin": "185.600", 
+   "children": [], 
+   "end": "188.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "gleich welcher kulturellen und sozialen Herkunft, "
+   ]
+  }, 
+  {
+   "begin": "188.520", 
+   "children": [], 
+   "end": "190.480", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "gleich welchen Geschlechts."
+   ]
+  }, 
+  {
+   "begin": "190.480", 
+   "children": [], 
+   "end": "196.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen inklusive Lernlandschaften statt einst\u00fcrzender Schulbauten. "
+   ]
+  }, 
+  {
+   "begin": "196.720", 
+   "children": [], 
+   "end": "205.600", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Digitale Bildung geht nun einmal weder ohne Ressourcen noch ohne gut ausgebildete P\u00e4\u00addagogen. "
+   ]
+  }, 
+  {
+   "begin": "205.600", 
+   "children": [], 
+   "end": "210.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb muss das Kooperationsverbot in diesem Bereich fallen. "
+   ]
+  }, 
+  {
+   "begin": "210.400", 
+   "children": [], 
+   "end": "213.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine Gemeinschaftsaufgabe \u201eBildung\u201c, "
+   ]
+  }, 
+  {
+   "begin": "213.600", 
+   "children": [], 
+   "end": "218.160", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "an der sich alle drei Ebenen beteiligen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "218.160", 
+   "children": [], 
+   "end": "220.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Gemessen daran, "
+   ]
+  }, 
+  {
+   "begin": "220.920", 
+   "children": [], 
+   "end": "227.680", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "mit welcher Vehemenz diese Forderung auch von anderen Parteien zumindest im Wahlkampf vertreten wurde\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "227.680", 
+   "children": [], 
+   "end": "228.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "von FDP, "
+   ]
+  }, 
+  {
+   "begin": "228.800", 
+   "children": [], 
+   "end": "230.400", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Gr\u00fcnen und SPD\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "230.400", 
+   "children": [], 
+   "end": "237.200", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcsste unser Anliegen eine Zustimmung von mindestens 369\u00a0Stimmen finden."
+   ]
+  }, 
+  {
+   "begin": "237.200", 
+   "children": [], 
+   "end": "241.720", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte auf ein Argument etwas genauer eingehen. "
+   ]
+  }, 
+  {
+   "begin": "241.720", 
+   "children": [], 
+   "end": "244.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Es wird immer gesagt, "
+   ]
+  }, 
+  {
+   "begin": "244.200", 
+   "children": [], 
+   "end": "248.080", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die L\u00e4nder und die Kommunen seien zust\u00e4ndig und h\u00e4tten eigenes Geld. "
+   ]
+  }, 
+  {
+   "begin": "248.080", 
+   "children": [], 
+   "end": "250.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Abgesehen davon, "
+   ]
+  }, 
+  {
+   "begin": "250.480", 
+   "children": [], 
+   "end": "251.880", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass ich es f\u00fcr eine Legende halte, "
+   ]
+  }, 
+  {
+   "begin": "251.880", 
+   "children": [], 
+   "end": "255.520", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass die Kommunen vern\u00fcnftig ausfinanziert sind, "
+   ]
+  }, 
+  {
+   "begin": "255.520", 
+   "children": [], 
+   "end": "258.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "haben die L\u00e4nder kein Geld und vor allem nicht die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "258.400", 
+   "children": [], 
+   "end": "262.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Steuergerechtigkeit herzustellen."
+   ]
+  }, 
+  {
+   "begin": "262.080", 
+   "children": [], 
+   "end": "264.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Uns geht es darum, "
+   ]
+  }, 
+  {
+   "begin": "264.200", 
+   "children": [], 
+   "end": "271.760", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "gemeinsam die notwendigen Ressourcen bereitzustellen und Bildung als Gemeinschaftsaufgabe im Grundgesetz zu verankern."
+   ]
+  }, 
+  {
+   "begin": "271.760", 
+   "children": [], 
+   "end": "276.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Im Moment bestehen kein Koalitionszwang und kein Sondierungszwang. "
+   ]
+  }, 
+  {
+   "begin": "276.360", 
+   "children": [], 
+   "end": "278.280", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt nur eine Mehrheit, "
+   ]
+  }, 
+  {
+   "begin": "278.280", 
+   "children": [], 
+   "end": "280.080", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "die sich im Grunde einig ist. "
+   ]
+  }, 
+  {
+   "begin": "280.080", 
+   "children": [], 
+   "end": "284.720", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich sehr auf die Zustimmung zu unserem Antrag."
+   ]
+  }, 
+  {
+   "begin": "284.720", 
+   "children": [], 
+   "end": "295.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "295.360", 
+   "children": [], 
+   "end": "303.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat Dr.\u00a0Stefan Kaufmann f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

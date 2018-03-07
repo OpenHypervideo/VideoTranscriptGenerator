@@ -1,0 +1,854 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.480", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "children": [], 
+   "end": "11.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "children": [], 
+   "end": "18.560", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "18.560", 
+   "children": [], 
+   "end": "25.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Immer wieder h\u00f6ren wir vonseiten der AfD-Fraktion, "
+   ]
+  }, 
+  {
+   "begin": "25.960", 
+   "children": [], 
+   "end": "28.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "sie sei l\u00f6sungsorientiert und konstruktiv. "
+   ]
+  }, 
+  {
+   "begin": "28.920", 
+   "children": [], 
+   "end": "34.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Noch am Dienstag hat die Fraktionsvorsitzende Weidel bei n-tv ebenjenes gesagt."
+   ]
+  }, 
+  {
+   "begin": "34.560", 
+   "children": [], 
+   "end": "35.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "35.120", 
+   "children": [], 
+   "end": "35.760", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "ehrlich gesagt, "
+   ]
+  }, 
+  {
+   "begin": "35.760", 
+   "children": [], 
+   "end": "36.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "nicht, "
+   ]
+  }, 
+  {
+   "begin": "36.160", 
+   "children": [], 
+   "end": "37.320", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie darauf kommen. "
+   ]
+  }, 
+  {
+   "begin": "37.320", 
+   "children": [], 
+   "end": "39.360", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Mein Eindruck ist ein g\u00e4nzlich anderer. "
+   ]
+  }, 
+  {
+   "begin": "39.360", 
+   "children": [], 
+   "end": "42.440", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Sie zeichnen hier ein Bild voller Pessimismus."
+   ]
+  }, 
+  {
+   "begin": "42.440", 
+   "children": [], 
+   "end": "47.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Dabei lassen Sie viele Vorteile f\u00fcr Verbraucher und Unternehmen vollkommen au\u00dfer Acht. "
+   ]
+  }, 
+  {
+   "begin": "47.360", 
+   "children": [], 
+   "end": "48.880", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht ehrlich. "
+   ]
+  }, 
+  {
+   "begin": "48.880", 
+   "children": [], 
+   "end": "51.120", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Schauen Sie sich die Statements der Verb\u00e4nde doch einmal an, "
+   ]
+  }, 
+  {
+   "begin": "51.120", 
+   "children": [], 
+   "end": "55.560", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel des Zentralverbandes des Deutschen Handwerks oder des Handwerksblattes. "
+   ]
+  }, 
+  {
+   "begin": "55.560", 
+   "children": [], 
+   "end": "56.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "So schrecklich, "
+   ]
+  }, 
+  {
+   "begin": "56.160", 
+   "children": [], 
+   "end": "57.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie das Bild zeichnen, "
+   ]
+  }, 
+  {
+   "begin": "57.840", 
+   "children": [], 
+   "end": "58.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "ist es in G\u00e4nze nicht. "
+   ]
+  }, 
+  {
+   "begin": "58.920", 
+   "children": [], 
+   "end": "62.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Mit den Regelungen ist das Handwerk gro\u00dfteils zufrieden. "
+   ]
+  }, 
+  {
+   "begin": "62.400", 
+   "children": [], 
+   "end": "65.760", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Was Sie betreiben, "
+   ]
+  }, 
+  {
+   "begin": "65.760", 
+   "children": [], 
+   "end": "69.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "ist schlichtweg Schwarzmalerei."
+   ]
+  }, 
+  {
+   "begin": "69.680", 
+   "children": [], 
+   "end": "70.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Verstehen Sie mich nicht falsch: "
+   ]
+  }, 
+  {
+   "begin": "70.760", 
+   "children": [], 
+   "end": "76.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Uns Freien Demokraten ist dieses Thema und sind auch die Belange der kleinen und mittelst\u00e4ndischen Unternehmen sehr wichtig. "
+   ]
+  }, 
+  {
+   "begin": "76.800", 
+   "children": [], 
+   "end": "80.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Wir stehen aber f\u00fcr ehrliche L\u00f6sungen in der parlamentarischen Arbeit."
+   ]
+  }, 
+  {
+   "begin": "80.200", 
+   "children": [], 
+   "end": "80.960", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4ren Sie, "
+   ]
+  }, 
+  {
+   "begin": "80.960", 
+   "children": [], 
+   "end": "81.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wie behauptet, "
+   ]
+  }, 
+  {
+   "begin": "81.680", 
+   "children": [], 
+   "end": "83.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "wirklich an einer L\u00f6sung interessiert, "
+   ]
+  }, 
+  {
+   "begin": "83.480", 
+   "children": [], 
+   "end": "85.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dann h\u00e4tten Sie diese ja fordern k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "85.160", 
+   "children": [], 
+   "end": "87.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das allerdings bleiben Sie uns hier schuldig. "
+   ]
+  }, 
+  {
+   "begin": "87.680", 
+   "children": [], 
+   "end": "90.640", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Mit einem Pr\u00fcfauftrag helfen Sie unserem Handwerk nicht weiter."
+   ]
+  }, 
+  {
+   "begin": "90.640", 
+   "children": [], 
+   "end": "93.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die Probleme m\u00fcssen hier im Parlament gel\u00f6st werden. "
+   ]
+  }, 
+  {
+   "begin": "93.200", 
+   "children": [], 
+   "end": "97.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Mit diesem Schnellschuss werden Sie dem Anspruch des Hohen Hauses nicht gerecht. "
+   ]
+  }, 
+  {
+   "begin": "97.040", 
+   "children": [], 
+   "end": "98.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wieso fordern Sie zum Beispiel nicht, "
+   ]
+  }, 
+  {
+   "begin": "98.200", 
+   "children": [], 
+   "end": "100.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "\u00a7\u00a0312 BGB anzupassen? "
+   ]
+  }, 
+  {
+   "begin": "100.760", 
+   "children": [], 
+   "end": "102.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wieso fordern Sie nicht, "
+   ]
+  }, 
+  {
+   "begin": "102.000", 
+   "children": [], 
+   "end": "108.040", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die Ausnahmen und Tatbest\u00e4nde des \u00a7\u00a0312g BGB genauer zu definieren?"
+   ]
+  }, 
+  {
+   "begin": "108.040", 
+   "children": [], 
+   "end": "109.080", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Sagen Sie doch wenigstens, "
+   ]
+  }, 
+  {
+   "begin": "109.080", 
+   "children": [], 
+   "end": "112.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass Verbraucher durch das Gesetz vor schwarzen Schafen gesch\u00fctzt werden. "
+   ]
+  }, 
+  {
+   "begin": "112.360", 
+   "children": [], 
+   "end": "113.440", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Sagen Sie wenigstens, "
+   ]
+  }, 
+  {
+   "begin": "113.440", 
+   "children": [], 
+   "end": "115.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass es zahlreiche Ausnahmen f\u00fcr die Betriebe gibt. "
+   ]
+  }, 
+  {
+   "begin": "115.920", 
+   "children": [], 
+   "end": "122.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Schauen Sie sich zum Beispiel einmal Artikel\u00a0246a \u00a7\u00a02 des Einf\u00fchrungsgesetzes zum B\u00fcrgerlichen Gesetzbuch an. "
+   ]
+  }, 
+  {
+   "begin": "122.040", 
+   "children": [], 
+   "end": "123.360", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Lesen hilft! "
+   ]
+  }, 
+  {
+   "begin": "123.360", 
+   "children": [], 
+   "end": "124.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Sagen Sie doch wenigstens, "
+   ]
+  }, 
+  {
+   "begin": "124.720", 
+   "children": [], 
+   "end": "130.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass durch dieses Gesetz die Widerrufsfrist bei mangelhafter Belehrung erstmals konkret begrenzt wurde; "
+   ]
+  }, 
+  {
+   "begin": "130.000", 
+   "children": [], 
+   "end": "131.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "denn das war vorher unbegrenzt."
+   ]
+  }, 
+  {
+   "begin": "131.520", 
+   "children": [], 
+   "end": "138.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Diese \u00c4nderungen werden von den Handwerksverb\u00e4nden gelobt. "
+   ]
+  }, 
+  {
+   "begin": "138.320", 
+   "children": [], 
+   "end": "139.360", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das zu erw\u00e4hnen, "
+   ]
+  }, 
+  {
+   "begin": "139.360", 
+   "children": [], 
+   "end": "141.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "haben Sie aber wohl leider vergessen."
+   ]
+  }, 
+  {
+   "begin": "141.240", 
+   "children": [], 
+   "end": "142.240", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe mir einmal erlaubt, "
+   ]
+  }, 
+  {
+   "begin": "142.240", 
+   "children": [], 
+   "end": "144.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "bei den Handwerkskammern anzurufen, "
+   ]
+  }, 
+  {
+   "begin": "144.720", 
+   "children": [], 
+   "end": "150.160", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Zentralverband des Deutschen Handwerks zu sprechen und mit den Verbraucherzentralen Kontakt aufzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "150.160", 
+   "children": [], 
+   "end": "151.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "151.320", 
+   "children": [], 
+   "end": "153.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "konstruktive Oppositionsarbeit w\u00e4re es gewesen, "
+   ]
+  }, 
+  {
+   "begin": "153.840", 
+   "children": [], 
+   "end": "157.520", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "L\u00f6sungen anzubieten und tats\u00e4chliche \u00c4nderungen anzustreben. "
+   ]
+  }, 
+  {
+   "begin": "157.520", 
+   "children": [], 
+   "end": "159.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen aber fehlen Forderungen, "
+   ]
+  }, 
+  {
+   "begin": "159.000", 
+   "children": [], 
+   "end": "160.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die \u00fcber einen Pr\u00fcfantrag hinausgehen. "
+   ]
+  }, 
+  {
+   "begin": "160.920", 
+   "children": [], 
+   "end": "162.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Der gestalterische Anspruch fehlt, "
+   ]
+  }, 
+  {
+   "begin": "162.240", 
+   "children": [], 
+   "end": "164.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "und genau das ist eben nicht konstruktiv."
+   ]
+  }, 
+  {
+   "begin": "164.880", 
+   "children": [], 
+   "end": "165.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wissen Sie: "
+   ]
+  }, 
+  {
+   "begin": "165.320", 
+   "children": [], 
+   "end": "173.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Ehrliches Interesse f\u00fcr die Probleme der B\u00fcrgerinnen und B\u00fcrger erfordert auch, "
+   ]
+  }, 
+  {
+   "begin": "173.960", 
+   "children": [], 
+   "end": "176.960", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "L\u00f6sungen zu erarbeiten und Vorschl\u00e4ge zu unterbreiten. "
+   ]
+  }, 
+  {
+   "begin": "176.960", 
+   "children": [], 
+   "end": "179.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "So k\u00f6nnten zum Beispiel Ihre Abgeordneten im Europ\u00e4ischen Parlament, "
+   ]
+  }, 
+  {
+   "begin": "179.920", 
+   "children": [], 
+   "end": "182.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "welches f\u00fcr die zugrunde liegende Richtlinie verantwortlich ist, "
+   ]
+  }, 
+  {
+   "begin": "182.760", 
+   "children": [], 
+   "end": "185.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "sich f\u00fcr eine entsprechende \u00c4nderung einsetzen. "
+   ]
+  }, 
+  {
+   "begin": "185.080", 
+   "children": [], 
+   "end": "186.520", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Davon habe ich nichts geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "186.520", 
+   "children": [], 
+   "end": "190.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Sie w\u00e4lzen stattdessen diese parlamentarische Aufgabe auf die Bundesregierung ab. "
+   ]
+  }, 
+  {
+   "begin": "190.080", 
+   "children": [], 
+   "end": "191.080", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Es ist nat\u00fcrlich immer leicht, "
+   ]
+  }, 
+  {
+   "begin": "191.080", 
+   "children": [], 
+   "end": "193.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Aufgaben auf andere abzuw\u00e4lzen. "
+   ]
+  }, 
+  {
+   "begin": "193.160", 
+   "children": [], 
+   "end": "197.200", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Nehmen Sie Ihre parlamentarischen Rechte und Pflichten doch bitte einmal selber wahr!"
+   ]
+  }, 
+  {
+   "begin": "197.200", 
+   "children": [], 
+   "end": "204.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie dem Handwerk wirklich helfen wollten, "
+   ]
+  }, 
+  {
+   "begin": "204.000", 
+   "children": [], 
+   "end": "204.920", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dann w\u00fcrden Sie aufh\u00f6ren, "
+   ]
+  }, 
+  {
+   "begin": "204.920", 
+   "children": [], 
+   "end": "207.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "das Handwerk gegen den Verbraucherschutz auszuspielen. "
+   ]
+  }, 
+  {
+   "begin": "207.480", 
+   "children": [], 
+   "end": "210.920", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freien Demokraten fordern eine Mittelstandsklausel auf Bundesebene. "
+   ]
+  }, 
+  {
+   "begin": "210.920", 
+   "children": [], 
+   "end": "215.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Die Istbesteuerung bei der Umsatzsteuer und die R\u00fccknahme der Vorf\u00e4lligkeit bei den Sozialversicherungsbeitr\u00e4gen, "
+   ]
+  }, 
+  {
+   "begin": "215.760", 
+   "children": [], 
+   "end": "217.680", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "das ist wahre Handwerkspolitik."
+   ]
+  }, 
+  {
+   "begin": "217.680", 
+   "children": [], 
+   "end": "222.720", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Hier zeigt sich wieder einmal, "
+   ]
+  }, 
+  {
+   "begin": "222.720", 
+   "children": [], 
+   "end": "225.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie Ihre Versprechen nicht halten. "
+   ]
+  }, 
+  {
+   "begin": "225.200", 
+   "children": [], 
+   "end": "226.400", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Sie benennen ein Problem, "
+   ]
+  }, 
+  {
+   "begin": "226.400", 
+   "children": [], 
+   "end": "229.640", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "bleiben uns aber einen eigenen L\u00f6sungsansatz schuldig. "
+   ]
+  }, 
+  {
+   "begin": "229.640", 
+   "children": [], 
+   "end": "232.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Das zeugt nicht nur von fehlender L\u00f6sungsbereitschaft; "
+   ]
+  }, 
+  {
+   "begin": "232.520", 
+   "children": [], 
+   "end": "233.640", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "es ist vor allem eines: "
+   ]
+  }, 
+  {
+   "begin": "233.640", 
+   "children": [], 
+   "end": "238.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Effekthascherei auf dem R\u00fccken der kleinen und mittelst\u00e4ndischen Unternehmen."
+   ]
+  }, 
+  {
+   "begin": "238.440", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin ist die Kollegin Amira Mohamed Ali, "
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "248.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Fraktion Die Linke."
+   ]
+  }
+ ]
+}

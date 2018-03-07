@@ -1,0 +1,804 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.000", 
+   "children": [], 
+   "end": "11.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "children": [], 
+   "end": "13.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Zuh\u00f6rerinnen und Zuh\u00f6rer! "
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "children": [], 
+   "end": "17.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich war 26\u00a0Jahre Sozialrichter und wei\u00df: "
+   ]
+  }, 
+  {
+   "begin": "17.200", 
+   "children": [], 
+   "end": "27.840", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Zur Demokratie geh\u00f6rt ein reger Austausch mit den B\u00fcrgerinnen und B\u00fcrgern dieses Landes wie auch mit au\u00dferparlamentarischen Initiativen und Organisationen. "
+   ]
+  }, 
+  {
+   "begin": "27.840", 
+   "children": [], 
+   "end": "29.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "So betrachtet ist vieles, "
+   ]
+  }, 
+  {
+   "begin": "29.680", 
+   "children": [], 
+   "end": "31.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "was als Lobbyismus gefasst wird, "
+   ]
+  }, 
+  {
+   "begin": "31.760", 
+   "children": [], 
+   "end": "33.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "nicht unbedingt schlecht. "
+   ]
+  }, 
+  {
+   "begin": "33.600", 
+   "children": [], 
+   "end": "37.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Auch ich rede sehr bewusst zum Beispiel mit Gewerkschaften, "
+   ]
+  }, 
+  {
+   "begin": "37.120", 
+   "children": [], 
+   "end": "42.560", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "um die Interessen von arbeitslosen und arbeitenden Menschen hinreichend zu ber\u00fccksichtigen."
+   ]
+  }, 
+  {
+   "begin": "42.560", 
+   "children": [], 
+   "end": "48.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Viele B\u00fcrgerinnen und B\u00fcrger in meinem Wahlkreis Bielefeld verstehen jedoch nicht mehr, "
+   ]
+  }, 
+  {
+   "begin": "48.840", 
+   "children": [], 
+   "end": "53.360", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wie Gesetze letztlich entstehen und wer wie Einfluss nimmt. "
+   ]
+  }, 
+  {
+   "begin": "53.360", 
+   "children": [], 
+   "end": "58.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das muss uns als Abgeordnete doch Sorgen machen."
+   ]
+  }, 
+  {
+   "begin": "58.080", 
+   "children": [], 
+   "end": "61.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Lobbyismus ist ein milliardenschweres Gesch\u00e4ft. "
+   ]
+  }, 
+  {
+   "begin": "61.000", 
+   "children": [], 
+   "end": "69.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Mindestens 40\u00a0Milliarden Dollar gaben die 30 im DAX gelisteten Konzerne 2017 allein in den USA f\u00fcr Lobbyarbeit aus\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "69.920", 
+   "children": [], 
+   "end": "73.160", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "so jedenfalls wurde es bei abgeordnetenwatch.de recherchiert. "
+   ]
+  }, 
+  {
+   "begin": "73.160", 
+   "children": [], 
+   "end": "74.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Woher stammen diese Zahlen? "
+   ]
+  }, 
+  {
+   "begin": "74.720", 
+   "children": [], 
+   "end": "78.920", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Sie stammen aus dem in den USA verpflichtenden Lobbyregister. "
+   ]
+  }, 
+  {
+   "begin": "78.920", 
+   "children": [], 
+   "end": "82.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Ein solches Lobbyregister gibt es hier in Deutschland nicht. "
+   ]
+  }, 
+  {
+   "begin": "82.160", 
+   "children": [], 
+   "end": "86.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wie viel Geld die DAX-Konzerne in Berlin in Lobbyt\u00e4tigkeit stecken, "
+   ]
+  }, 
+  {
+   "begin": "86.360", 
+   "children": [], 
+   "end": "88.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "ist nirgends aufgef\u00fchrt."
+   ]
+  }, 
+  {
+   "begin": "88.040", 
+   "children": [], 
+   "end": "90.440", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben ein Verbandsregister, "
+   ]
+  }, 
+  {
+   "begin": "90.440", 
+   "children": [], 
+   "end": "92.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "in dem nur rudiment\u00e4re Daten stehen. "
+   ]
+  }, 
+  {
+   "begin": "92.960", 
+   "children": [], 
+   "end": "99.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Daten zum Umfang der T\u00e4tigkeit und zur Einflussnahme auf die Politik lassen sich daraus nicht entnehmen. "
+   ]
+  }, 
+  {
+   "begin": "99.920", 
+   "children": [], 
+   "end": "106.520", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das ist im Sinne der Transparenz nicht l\u00e4nger hinnehmbar."
+   ]
+  }, 
+  {
+   "begin": "106.520", 
+   "children": [], 
+   "end": "108.640", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Genau deswegen haben wir uns entschlossen, "
+   ]
+  }, 
+  {
+   "begin": "108.640", 
+   "children": [], 
+   "end": "112.880", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "nicht die Bundesregierung zur Vorlage eines Gesetzentwurfes aufzufordern, "
+   ]
+  }, 
+  {
+   "begin": "112.880", 
+   "children": [], 
+   "end": "115.120", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "sondern selber einen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "115.120", 
+   "children": [], 
+   "end": "116.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dringend notwendigen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "116.600", 
+   "children": [], 
+   "end": "118.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Gesetzentwurf vorzulegen. "
+   ]
+  }, 
+  {
+   "begin": "118.320", 
+   "children": [], 
+   "end": "118.600", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Denn: "
+   ]
+  }, 
+  {
+   "begin": "118.600", 
+   "children": [], 
+   "end": "125.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man sich den immer weiter ausbreitenden Glaubw\u00fcrdigkeitsverlust der parlamentarischen Demokratie in diesem Land in Erinnerung ruft, "
+   ]
+  }, 
+  {
+   "begin": "125.280", 
+   "children": [], 
+   "end": "125.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "stellt man fest, "
+   ]
+  }, 
+  {
+   "begin": "125.920", 
+   "children": [], 
+   "end": "128.360", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass es notwendig ist, "
+   ]
+  }, 
+  {
+   "begin": "128.360", 
+   "children": [], 
+   "end": "130.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "ein Lobbyregistergesetz zu erlassen. "
+   ]
+  }, 
+  {
+   "begin": "130.560", 
+   "children": [], 
+   "end": "132.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das sollten wir hier beraten."
+   ]
+  }, 
+  {
+   "begin": "132.360", 
+   "children": [], 
+   "end": "138.960", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte zum Beleg f\u00fcr meine These auf das Ergebnis der Bundestagswahl\u00a02017 verweisen, "
+   ]
+  }, 
+  {
+   "begin": "138.960", 
+   "children": [], 
+   "end": "141.360", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr mich einen Vertrauensverlust dokumentiert."
+   ]
+  }, 
+  {
+   "begin": "141.360", 
+   "children": [], 
+   "end": "144.520", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Selbst die Deutsche Gesellschaft f\u00fcr Politikberatung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "144.520", 
+   "children": [], 
+   "end": "148.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "quasi eine Lobbyorganisation f\u00fcr den Lobbyismus\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "148.200", 
+   "children": [], 
+   "end": "151.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "fordert ein Lobbyregister. "
+   ]
+  }, 
+  {
+   "begin": "151.200", 
+   "children": [], 
+   "end": "153.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD verspricht seit Jahren, "
+   ]
+  }, 
+  {
+   "begin": "153.600", 
+   "children": [], 
+   "end": "154.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "ein Gesetz vorzulegen. "
+   ]
+  }, 
+  {
+   "begin": "154.920", 
+   "children": [], 
+   "end": "158.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "In den Jamaika-Verhandlungen hatte man sich auf ein Lobbyregister geeinigt. "
+   ]
+  }, 
+  {
+   "begin": "158.880", 
+   "children": [], 
+   "end": "160.240", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Es ist jetzt an der Zeit, "
+   ]
+  }, 
+  {
+   "begin": "160.240", 
+   "children": [], 
+   "end": "161.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "ein solches vorzulegen. "
+   ]
+  }, 
+  {
+   "begin": "161.960", 
+   "children": [], 
+   "end": "165.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Daran werden die Menschen Ihre Glaubw\u00fcrdigkeit messen."
+   ]
+  }, 
+  {
+   "begin": "165.640", 
+   "children": [], 
+   "end": "170.400", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Belege f\u00fcr die Notwendigkeit lassen sich schnell finden."
+   ]
+  }, 
+  {
+   "begin": "170.400", 
+   "children": [], 
+   "end": "171.360", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "171.360", 
+   "children": [], 
+   "end": "175.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "der Abgasskandal in der Automobilindustrie ist noch nicht lange her. "
+   ]
+  }, 
+  {
+   "begin": "175.360", 
+   "children": [], 
+   "end": "180.600", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Vergangenes Jahr wurde der Abschlussbericht des Untersuchungsausschusses hier im Bundestag vorgelegt. "
+   ]
+  }, 
+  {
+   "begin": "180.600", 
+   "children": [], 
+   "end": "185.880", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Linke hatten ein Sondervotum erstellt und Aufkl\u00e4rung gefordert. "
+   ]
+  }, 
+  {
+   "begin": "185.880", 
+   "children": [], 
+   "end": "186.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollten wissen, "
+   ]
+  }, 
+  {
+   "begin": "186.880", 
+   "children": [], 
+   "end": "192.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wie die unheilvolle Verstrickung von Politik und Konzerninteressen funktioniert."
+   ]
+  }, 
+  {
+   "begin": "192.640", 
+   "children": [], 
+   "end": "196.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Damals hatten sich die Parteien der Regierung auf eine Position geeinigt, "
+   ]
+  }, 
+  {
+   "begin": "196.000", 
+   "children": [], 
+   "end": "198.840", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die sie auf EU-Ebene vertreten sollten. "
+   ]
+  }, 
+  {
+   "begin": "198.840", 
+   "children": [], 
+   "end": "202.960", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Diese Position passte dem Verband der Automobilindustrie aber nicht. "
+   ]
+  }, 
+  {
+   "begin": "202.960", 
+   "children": [], 
+   "end": "208.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Daher kontaktierte dessen Vertreter politisch Verantwortliche per E-Mail und Telefon, "
+   ]
+  }, 
+  {
+   "begin": "208.880", 
+   "children": [], 
+   "end": "211.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "um die Position in ihrem Sinne zu ver\u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "211.800", 
+   "children": [], 
+   "end": "215.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Bei Herrn Dobrindt fanden sie ein ganz gro\u00dfes offenes Ohr. "
+   ]
+  }, 
+  {
+   "begin": "215.640", 
+   "children": [], 
+   "end": "220.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Schnell wurde die Position der Bundesregierung auf die Schnelle auf Linie des Verbandes gebracht, "
+   ]
+  }, 
+  {
+   "begin": "220.480", 
+   "children": [], 
+   "end": "224.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "freilich ohne dies mit den anderen Verantwortlichen im Kabinett abzustimmen. "
+   ]
+  }, 
+  {
+   "begin": "224.880", 
+   "children": [], 
+   "end": "228.760", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Zu solchen Freunden kann man der Automobilindustrie nur gratulieren."
+   ]
+  }, 
+  {
+   "begin": "228.760", 
+   "children": [], 
+   "end": "234.600", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Alle Vorurteile \u00fcber Gemauschel in der Politik werden hierdurch best\u00e4tigt. "
+   ]
+  }, 
+  {
+   "begin": "234.600", 
+   "children": [], 
+   "end": "239.040", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Nur Transparenz schafft mehr Vertrauen in die Demokratie. "
+   ]
+  }, 
+  {
+   "begin": "239.040", 
+   "children": [], 
+   "end": "241.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Unser Gesetzentwurf ist ein Beitrag hierzu."
+   ]
+  }, 
+  {
+   "begin": "241.000", 
+   "children": [], 
+   "end": "242.160", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "242.160", 
+   "children": [], 
+   "end": "242.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wir wissen: "
+   ]
+  }, 
+  {
+   "begin": "242.720", 
+   "children": [], 
+   "end": "244.120", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt Bedenken, "
+   ]
+  }, 
+  {
+   "begin": "244.120", 
+   "children": [], 
+   "end": "249.800", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass auch Grundrechte durch ein solches Gesetz ber\u00fchrt sind, "
+   ]
+  }, 
+  {
+   "begin": "249.800", 
+   "children": [], 
+   "end": "252.240", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wie zum Beispiel die Berufsfreiheit. "
+   ]
+  }, 
+  {
+   "begin": "252.240", 
+   "children": [], 
+   "end": "254.240", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Sollten sich diese auf Einzelheiten, "
+   ]
+  }, 
+  {
+   "begin": "254.240", 
+   "children": [], 
+   "end": "256.720", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "wie etwa die H\u00f6he von Bu\u00dfgeldern bei Verst\u00f6\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "256.720", 
+   "children": [], 
+   "end": "257.440", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "beziehen, "
+   ]
+  }, 
+  {
+   "begin": "257.440", 
+   "children": [], 
+   "end": "261.160", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "so lassen sich diese in der weiteren Debatte hoffentlich aufl\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "261.160", 
+   "children": [], 
+   "end": "263.440", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke ist hier gespr\u00e4chsbereit. "
+   ]
+  }, 
+  {
+   "begin": "263.440", 
+   "children": [], 
+   "end": "266.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Arbeiten Sie im Ausschuss an unserem Gesetzentwurf mit, "
+   ]
+  }, 
+  {
+   "begin": "266.440", 
+   "children": [], 
+   "end": "268.800", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "und stimmen Sie ihm dann schlussendlich zu."
+   ]
+  }, 
+  {
+   "begin": "268.800", 
+   "children": [], 
+   "end": "269.000", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "269.000", 
+   "children": [], 
+   "end": "279.960", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die CDU/CSU-Fraktion spricht der Kollege Patrick Schnieder."
+   ]
+  }
+ ]
+}

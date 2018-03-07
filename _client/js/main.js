@@ -1,17 +1,16 @@
 var isMouseOver = false,
 	selectedXMLFile = null,
-	xPath = null;
+	xPath = null,
+	mediaID = null;
 
 $(document).ready( function() {
 	
-	$.ajax('_server/ajaxServer.php?a=getXMLFiles')
+	$.getJSON('_server/input/xml/_index.json')
 		.done(function(data) {
-			if (data.files) {
-				for (var i=0; i<data.files.length; i++) {
-					var listItem = $('<li>'+ data.files[i] +'</li>');
+			for (var i=0; i<data.length; i++) {
+				var listItem = $('<li data-filename="'+ data[i].path +'">'+ data[i].title +'</li>');
 
-					$('#fileList').append(listItem);
-				}
+				$('#fileList').append(listItem);
 			}
 		})
 		.fail(function() {
@@ -21,10 +20,10 @@ $(document).ready( function() {
 	$('#fileList').on('click', 'li', function(evt) {
 		$('#fileList li').removeClass('active');
 		$(this).addClass('active');
-		selectedXMLFile = $(this).text();
+		selectedXMLFile = $(this).attr('data-filename');
 		updateForceAlignButton();
 
-		getXMLTableOfContents($(this).text());
+		getXMLTableOfContents($(this).attr('data-filename'));
 	});
 
 	$('#xmlContents').on('click', 'li', function(evt) {
@@ -35,9 +34,11 @@ $(document).ready( function() {
 		if (!isActive) {
 			$(this).addClass('active');
 			xPath = getXMLxPath($(this));
+			mediaID = $(this).attr('data-media-id');
 		} else {
 			$(this).removeClass('active');
 			xPath = null;
+			mediaID = null;
 		}
 				
 		updateForceAlignButton();
@@ -225,13 +226,15 @@ function forceAlignXML() {
 		console.log('Browser does not support native XMLHttpRequest.');
 		return;
 	}
-	try{
+	try {
 		var xhr = new XMLHttpRequest();  
 		xhr.previous_text = '';
 									 
-		xhr.onerror = function() { console.log('[XHR] Error.'); };
+		xhr.onerror = function() { 
+			staticFallback();
+		};
 		xhr.onreadystatechange = function() {
-			try{
+			try {
 				if (xhr.readyState == 4){
 					//console.log('[XHR] PHP Done');
 				} 
@@ -255,6 +258,7 @@ function forceAlignXML() {
 						
 						if (result.video && result.html) {
 							generatePreview(result.video, result.html);
+							//autoProcessNextItem();
 						}
 
 						if ((result.task != 'download') || (result.task == 'download' && result.progress == 100 && result.status == 'success')) {
@@ -284,7 +288,8 @@ function forceAlignXML() {
 				}  
 			}
 			catch (e){
-				console.log('[XHR STATECHANGE] Exception: ' + e);
+				//console.log('[XHR STATECHANGE] Exception: ' + e);
+				staticFallback();
 			}                     
 		};
 		xhr.open('GET', '_server/ajaxServer.php?a=forceAlign&xmlPath='+ selectedXMLFile +'&xPath='+ xPath, true);
@@ -292,6 +297,7 @@ function forceAlignXML() {
 	}
 	catch (e){
 		console.log('[XHR REQUEST] Exception: ' + e);
+		xhr.onerror();
 	}
 
 }
@@ -358,5 +364,90 @@ function scrollTimebasedElements() {
 		customhtmlContainer.stop().animate({scrollTop : newPos},400);
 	}
 
+}
+
+function staticFallback() {
+	$('#status')[0].innerHTML += '<div>Server not found. Enabling fallback to static version..</div>';
+	$('#status')[0].scrollTop = $('#status')[0].scrollHeight;
+
+	var videoSource = 'http://static.cdn.streamfarm.net/1000153copo/ondemand/145293313/'+ mediaID +'/'+ mediaID +'_h264_1920_1080_5000kb_baseline_de_5000.mp4';
+	
+	var wahlperiode = ('0' + '19').slice(-2),
+		sitzungsnr = ('00' + '1').slice(-3),
+		suffix = getFileSuffixFromXpath(xPath),
+		htmlSource = wahlperiode + sitzungsnr + suffix +'.html';
+
+	$.ajax({
+		method: 'GET',
+		dataType: 'html',
+		url: '_server/output/'+ htmlSource,
+	})
+	.done(function(html) {
+		$('#loadingProgress, #forceAlignProgress').width('100%').addClass('success');
+		$('.glyphicon#audioOK, .glyphicon#forceAlignOK').addClass('active');
+		
+		$('#status')[0].innerHTML += '<div class="success">Timings HTML file found (output/'+ htmlSource +'). Generating Preview...</div>';
+		$('#status')[0].scrollTop = $('#status')[0].scrollHeight;
+
+		generatePreview(videoSource, html);
+
+		$('#status')[0].innerHTML += '<div class="success">Process completed successfully.</div>';
+		$('#status')[0].scrollTop = $('#status')[0].scrollHeight;
+	})
+	.fail(function() {
+		$('#status')[0].innerHTML += '<div class="error">Timings HTML file not found (not yet processed).</div>';
+		$('#status')[0].scrollTop = $('#status')[0].scrollHeight;
+	});
+}
+
+function getFileSuffixFromXpath(xpathString) {
+	var fileSuffix = '';
+
+	if (xpathString.indexOf('//rede') != -1) {
+		fileSuffix = '-Rede-ID'+ xpathString.match(/\d+/)[0];
+	} else if (xpathString.indexOf('//tagesordnungspunkt') != -1) {
+		fileSuffix = '-'+ xpathString.match(/([A-Za-z]+\s[0-9]+)/)[0].replace(' ', '-');
+	} else if (xpathString.indexOf('//sitzungsbeginn') != -1) {
+		fileSuffix = '-Sitzungsbeginn';
+	}
+
+	//console.log(xpathString, fileSuffix);
+	return fileSuffix;
+}
+
+function autoProcessNextItem() {
+	// RUN THROUGH ALL NODES
+	window.setTimeout(function() {
+		$('.nav-tabs a[href="#inputContainer"]').click();
+		window.setTimeout(function() {
+
+			var nextListItem = $('li.active').nextAll('li[data-media-id]').eq(0);
+			if (nextListItem.length != 0) {
+				
+				var activeElementPosition = nextListItem.position();
+				var newPos = activeElementPosition.top + $('#xmlContents').scrollTop() - $('#xmlContents').height()/2;
+				$('#xmlContents').stop().animate({scrollTop : newPos},400);
+				
+				nextListItem.click();
+				window.setTimeout(function() {
+					$('#startProcessing').click();
+				}, 2000);
+			} else {
+				var nextTOPitem = $('li.active').parent('ul').next('li').next('ul').children('li[data-media-id]').eq(0);
+				if (nextTOPitem.length != 0) {
+					
+					var activeElementPosition = nextTOPitem.position();
+					var newPos = activeElementPosition.top + $('#xmlContents').scrollTop() - $('#xmlContents').height()/2;
+					$('#xmlContents').stop().animate({scrollTop : newPos},400);
+
+					nextTOPitem.click();
+					window.setTimeout(function() {
+						$('#startProcessing').click();
+					}, 2000);
+				}
+			}
+
+		}, 1000);
+	}, 3000);
 }
 

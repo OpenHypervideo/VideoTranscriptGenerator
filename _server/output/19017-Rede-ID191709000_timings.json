@@ -1,0 +1,1364 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.001", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "0.001", 
+   "children": [], 
+   "end": "2.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "children": [], 
+   "end": "11.240", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "\u201eEigenanteile in Pflegeheimen senken\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "children": [], 
+   "end": "20.040", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Menschen mit Pflegebedarf finanziell entlasten\u201c lautet die \u00dcberschrift des Antrags der Fraktion Die Linke."
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "children": [], 
+   "end": "21.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "21.320", 
+   "children": [], 
+   "end": "21.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "ein Land, "
+   ]
+  }, 
+  {
+   "begin": "21.800", 
+   "children": [], 
+   "end": "23.640", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "in dem wir gut und gerne leben: "
+   ]
+  }, 
+  {
+   "begin": "23.640", 
+   "children": [], 
+   "end": "25.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wir kennen diesen Spruch alle."
+   ]
+  }, 
+  {
+   "begin": "25.440", 
+   "children": [], 
+   "end": "25.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Die Menschen, "
+   ]
+  }, 
+  {
+   "begin": "25.880", 
+   "children": [], 
+   "end": "26.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "um die es hier geht, "
+   ]
+  }, 
+  {
+   "begin": "26.480", 
+   "children": [], 
+   "end": "28.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "leben gerne in diesem Land. "
+   ]
+  }, 
+  {
+   "begin": "28.480", 
+   "children": [], 
+   "end": "31.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Offensichtlich leben sie aber nicht gut in diesem Land, "
+   ]
+  }, 
+  {
+   "begin": "31.280", 
+   "children": [], 
+   "end": "34.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "zumindest einige oder relativ viele nicht. "
+   ]
+  }, 
+  {
+   "begin": "34.840", 
+   "children": [], 
+   "end": "36.640", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Es geht somit um Menschen, "
+   ]
+  }, 
+  {
+   "begin": "36.640", 
+   "children": [], 
+   "end": "39.160", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die besondere Hilfe im Alter ben\u00f6tigen. "
+   ]
+  }, 
+  {
+   "begin": "39.160", 
+   "children": [], 
+   "end": "42.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dabei handelt es sich um ehemalige Leistungstr\u00e4ger der Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "42.600", 
+   "children": [], 
+   "end": "43.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die das erwirtschaftet haben, "
+   ]
+  }, 
+  {
+   "begin": "43.840", 
+   "children": [], 
+   "end": "45.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "was wir heute hier genie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "45.280", 
+   "children": [], 
+   "end": "47.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Insofern ist es eine Schande, "
+   ]
+  }, 
+  {
+   "begin": "47.440", 
+   "children": [], 
+   "end": "53.040", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass wir \u00fcber so etwas \u00fcberhaupt reden m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "53.040", 
+   "children": [], 
+   "end": "55.560", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wir stimmen mit Ihnen \u00fcberein, "
+   ]
+  }, 
+  {
+   "begin": "55.560", 
+   "children": [], 
+   "end": "59.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass eine unw\u00fcrdige Behandlung im Alter nicht hinzunehmen ist. "
+   ]
+  }, 
+  {
+   "begin": "59.120", 
+   "children": [], 
+   "end": "61.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Insofern ist der Antrag der Linken ehrenhaft. "
+   ]
+  }, 
+  {
+   "begin": "61.800", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Vorschl\u00e4ge, "
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "64.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die Sie darin machen, "
+   ]
+  }, 
+  {
+   "begin": "64.400", 
+   "children": [], 
+   "end": "68.320", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "widersprechen aber allen betriebswirtschaftlichen Gesetzen."
+   ]
+  }, 
+  {
+   "begin": "68.320", 
+   "children": [], 
+   "end": "69.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Tatsache ist, "
+   ]
+  }, 
+  {
+   "begin": "69.440", 
+   "children": [], 
+   "end": "75.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Pflegeheim ein Privatunternehmen ist und somit gewinnorientiert arbeiten muss."
+   ]
+  }, 
+  {
+   "begin": "75.680", 
+   "children": [], 
+   "end": "76.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Der Geldgeber, "
+   ]
+  }, 
+  {
+   "begin": "76.480", 
+   "children": [], 
+   "end": "78.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "der ein Heim errichtet, "
+   ]
+  }, 
+  {
+   "begin": "78.000", 
+   "children": [], 
+   "end": "83.120", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "muss nat\u00fcrlich eine Verzinsung des eingesetzten Kapitals erreichen. "
+   ]
+  }, 
+  {
+   "begin": "83.120", 
+   "children": [], 
+   "end": "85.560", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ansonsten w\u00fcrde er dieses Heim nicht bauen. "
+   ]
+  }, 
+  {
+   "begin": "85.560", 
+   "children": [], 
+   "end": "87.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das haben Sie vermutlich \u00fcbersehen. "
+   ]
+  }, 
+  {
+   "begin": "87.640", 
+   "children": [], 
+   "end": "89.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Vorzuschreiben, "
+   ]
+  }, 
+  {
+   "begin": "89.600", 
+   "children": [], 
+   "end": "91.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass die Betreiber keine h\u00f6heren Kosten ansetzen d\u00fcrfen, "
+   ]
+  }, 
+  {
+   "begin": "91.680", 
+   "children": [], 
+   "end": "93.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "obwohl diese vorhanden sind, "
+   ]
+  }, 
+  {
+   "begin": "93.320", 
+   "children": [], 
+   "end": "93.640", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "93.640", 
+   "children": [], 
+   "end": "94.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "gelinde gesagt, "
+   ]
+  }, 
+  {
+   "begin": "94.400", 
+   "children": [], 
+   "end": "96.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "betriebswirtschaftlicher Unsinn."
+   ]
+  }, 
+  {
+   "begin": "96.960", 
+   "children": [], 
+   "end": "103.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die Kostensteigerung resultiert auch aus der Erh\u00f6hung der Nebenkosten, "
+   ]
+  }, 
+  {
+   "begin": "103.600", 
+   "children": [], 
+   "end": "106.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "verursacht durch den Staat, "
+   ]
+  }, 
+  {
+   "begin": "106.440", 
+   "children": [], 
+   "end": "112.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "der somit f\u00fcr die h\u00f6heren Belastungen auch verantwortlich ist."
+   ]
+  }, 
+  {
+   "begin": "112.440", 
+   "children": [], 
+   "end": "115.760", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Auf die nicht privaten Tr\u00e4ger gehen Sie im Antrag erst gar nicht ein. "
+   ]
+  }, 
+  {
+   "begin": "115.760", 
+   "children": [], 
+   "end": "119.280", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Man k\u00f6nnte zwar \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "119.280", 
+   "children": [], 
+   "end": "123.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "ob Pflegeheime nicht als Pflichtaufgabe ohne Gewinnerzielungsabsicht zu f\u00fchren sind."
+   ]
+  }, 
+  {
+   "begin": "123.320", 
+   "children": [], 
+   "end": "127.920", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00fcrde aber dem Wettbewerbsgedanken widersprechen."
+   ]
+  }, 
+  {
+   "begin": "127.920", 
+   "children": [], 
+   "end": "129.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Welche L\u00f6sungen gibt es denn, "
+   ]
+  }, 
+  {
+   "begin": "129.760", 
+   "children": [], 
+   "end": "131.960", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "um den Pflegebed\u00fcrftigen zu helfen? "
+   ]
+  }, 
+  {
+   "begin": "131.960", 
+   "children": [], 
+   "end": "132.440", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Die Forderung, "
+   ]
+  }, 
+  {
+   "begin": "132.440", 
+   "children": [], 
+   "end": "133.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "die Sie im Punkt\u00a03 aufmachen"
+   ]
+  }, 
+  {
+   "begin": "133.520", 
+   "children": [], 
+   "end": "134.920", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0h\u00f6ren Sie mir erst einmal zu; "
+   ]
+  }, 
+  {
+   "begin": "134.920", 
+   "children": [], 
+   "end": "136.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dann k\u00f6nnen Sie herummeckern\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "136.480", 
+   "children": [], 
+   "end": "142.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die \u00dcbernahme der krankenpflegerischen Leistungen im Pflegeheim durch die Krankenkasse und nicht durch die Pflegeversicherung, "
+   ]
+  }, 
+  {
+   "begin": "142.400", 
+   "children": [], 
+   "end": "144.080", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "ist richtig und nachvollziehbar, "
+   ]
+  }, 
+  {
+   "begin": "144.080", 
+   "children": [], 
+   "end": "147.760", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "auch bezogen auf die Milliarden\u00fcbersch\u00fcsse der Krankenkassen. "
+   ]
+  }, 
+  {
+   "begin": "147.760", 
+   "children": [], 
+   "end": "150.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6ren beispielsweise Wundbehandlungen, "
+   ]
+  }, 
+  {
+   "begin": "150.280", 
+   "children": [], 
+   "end": "150.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Blutentnahme, "
+   ]
+  }, 
+  {
+   "begin": "150.840", 
+   "children": [], 
+   "end": "151.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Blutdruckmessen, "
+   ]
+  }, 
+  {
+   "begin": "151.400", 
+   "children": [], 
+   "end": "152.560", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Insulin usw. "
+   ]
+  }, 
+  {
+   "begin": "152.560", 
+   "children": [], 
+   "end": "153.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "usf. "
+   ]
+  }, 
+  {
+   "begin": "153.720", 
+   "children": [], 
+   "end": "157.440", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die hier genannten medizinischen Leistungen, "
+   ]
+  }, 
+  {
+   "begin": "157.440", 
+   "children": [], 
+   "end": "159.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "die durch die Pflegekr\u00e4fte erbracht werden, "
+   ]
+  }, 
+  {
+   "begin": "159.560", 
+   "children": [], 
+   "end": "161.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "den Krankenkassen in Rechnung gestellt werden k\u00f6nnten, "
+   ]
+  }, 
+  {
+   "begin": "161.600", 
+   "children": [], 
+   "end": "163.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4re das eine gro\u00dfe Entlastung. "
+   ]
+  }, 
+  {
+   "begin": "163.560", 
+   "children": [], 
+   "end": "165.160", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00fcrde die Kosten senken."
+   ]
+  }, 
+  {
+   "begin": "165.160", 
+   "children": [], 
+   "end": "167.520", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus ist es nat\u00fcrlich auch nicht hinnehmbar, "
+   ]
+  }, 
+  {
+   "begin": "167.520", 
+   "children": [], 
+   "end": "168.640", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass diejenigen Pflegebed\u00fcrftigen, "
+   ]
+  }, 
+  {
+   "begin": "168.640", 
+   "children": [], 
+   "end": "170.080", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die auf Unterst\u00fctzung angewiesen sind, "
+   ]
+  }, 
+  {
+   "begin": "170.080", 
+   "children": [], 
+   "end": "171.640", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "weil zum Beispiel f\u00fcr einen Heimplatz, "
+   ]
+  }, 
+  {
+   "begin": "171.640", 
+   "children": [], 
+   "end": "173.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "der 3\u00a0000\u00a0Euro kostet, "
+   ]
+  }, 
+  {
+   "begin": "173.280", 
+   "children": [], 
+   "end": "174.440", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "die Rente nicht ausreicht, "
+   ]
+  }, 
+  {
+   "begin": "174.440", 
+   "children": [], 
+   "end": "179.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "von ihrer Rente nur den sogenannten Barbetrag\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "179.400", 
+   "children": [], 
+   "end": "181.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "gleich ein Taschengeld in H\u00f6he von 112\u00a0Euro\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "181.480", 
+   "children": [], 
+   "end": "183.920", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "selbst behalten d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "183.920", 
+   "children": [], 
+   "end": "184.640", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "184.640", 
+   "children": [], 
+   "end": "185.840", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "das ist eine Schande. "
+   ]
+  }, 
+  {
+   "begin": "185.840", 
+   "children": [], 
+   "end": "187.880", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "112\u00a0Euro!"
+   ]
+  }, 
+  {
+   "begin": "187.880", 
+   "children": [], 
+   "end": "191.880", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "112\u00a0Euro bekommen die Menschen, "
+   ]
+  }, 
+  {
+   "begin": "191.880", 
+   "children": [], 
+   "end": "194.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die dieses Land mit aufgebaut haben. "
+   ]
+  }, 
+  {
+   "begin": "194.280", 
+   "children": [], 
+   "end": "195.280", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben aber auch Bed\u00fcrfnisse. "
+   ]
+  }, 
+  {
+   "begin": "195.280", 
+   "children": [], 
+   "end": "195.920", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen zum Friseur; "
+   ]
+  }, 
+  {
+   "begin": "195.920", 
+   "children": [], 
+   "end": "197.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "sie m\u00fcssen etwas einkaufen; "
+   ]
+  }, 
+  {
+   "begin": "197.200", 
+   "children": [], 
+   "end": "198.960", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "sie haben auch Enkel und wollen mal ein Geschenk machen."
+   ]
+  }, 
+  {
+   "begin": "198.960", 
+   "children": [], 
+   "end": "200.000", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "112\u00a0Euro! "
+   ]
+  }, 
+  {
+   "begin": "200.000", 
+   "children": [], 
+   "end": "200.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcberlegen Sie sich das einmal. "
+   ]
+  }, 
+  {
+   "begin": "200.760", 
+   "children": [], 
+   "end": "201.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "201.240", 
+   "children": [], 
+   "end": "203.200", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "einige von Ihnen denken sich: "
+   ]
+  }, 
+  {
+   "begin": "203.200", 
+   "children": [], 
+   "end": "206.120", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme ohnehin nicht in diese Lage. "
+   ]
+  }, 
+  {
+   "begin": "206.120", 
+   "children": [], 
+   "end": "210.560", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Was interessieren mich diese 112\u00a0Euro?"
+   ]
+  }, 
+  {
+   "begin": "210.560", 
+   "children": [], 
+   "end": "218.360", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Das Schonverm\u00f6gen von 5\u00a0000\u00a0Euro ist bezogen auf die Lebensleistung dieser Personengruppe ebenfalls nicht akzeptabel."
+   ]
+  }, 
+  {
+   "begin": "218.360", 
+   "children": [], 
+   "end": "218.760", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ich wei\u00df nicht, "
+   ]
+  }, 
+  {
+   "begin": "218.760", 
+   "children": [], 
+   "end": "220.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "warum Sie sich immer aufregen. "
+   ]
+  }, 
+  {
+   "begin": "220.360", 
+   "children": [], 
+   "end": "222.160", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Ich trage doch blo\u00df Tatsachen vor."
+   ]
+  }, 
+  {
+   "begin": "222.160", 
+   "children": [], 
+   "end": "223.360", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Ein weiterer Punkt, "
+   ]
+  }, 
+  {
+   "begin": "223.360", 
+   "children": [], 
+   "end": "224.720", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "auf den Sie nicht eingehen, "
+   ]
+  }, 
+  {
+   "begin": "224.720", 
+   "children": [], 
+   "end": "228.240", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "sind die unterschiedlichen Pfleges\u00e4tze f\u00fcr die h\u00e4usliche Pflege. "
+   ]
+  }, 
+  {
+   "begin": "228.240", 
+   "children": [], 
+   "end": "233.240", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Die Pfleges\u00e4tze der ambulanten Pflegedienste sind fast doppelt so hoch wie die S\u00e4tze f\u00fcr die Pflege zu Hause, "
+   ]
+  }, 
+  {
+   "begin": "233.240", 
+   "children": [], 
+   "end": "235.280", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "also der nichtambulanten Pflege. "
+   ]
+  }, 
+  {
+   "begin": "235.280", 
+   "children": [], 
+   "end": "235.640", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "235.640", 
+   "children": [], 
+   "end": "237.320", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "der Unterschied ist gewaltig. "
+   ]
+  }, 
+  {
+   "begin": "237.320", 
+   "children": [], 
+   "end": "238.680", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet nat\u00fcrlich auch, "
+   ]
+  }, 
+  {
+   "begin": "238.680", 
+   "children": [], 
+   "end": "241.880", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "dass die Angeh\u00f6rigen wenig Interesse an Pflege zu Hause haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "241.880", 
+   "children": [], 
+   "end": "243.000", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "teilweise k\u00f6nnen sie es auch gar nicht\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "243.000", 
+   "children": [], 
+   "end": "244.320", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "weil sie durch die geringen Mittel, "
+   ]
+  }, 
+  {
+   "begin": "244.320", 
+   "children": [], 
+   "end": "245.840", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "die ihnen zur Verf\u00fcgung stehen, "
+   ]
+  }, 
+  {
+   "begin": "245.840", 
+   "children": [], 
+   "end": "246.960", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "benachteiligt sind."
+   ]
+  }, 
+  {
+   "begin": "246.960", 
+   "children": [], 
+   "end": "248.520", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Hier ist es geboten, "
+   ]
+  }, 
+  {
+   "begin": "248.520", 
+   "children": [], 
+   "end": "256.600", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "die Leistungss\u00e4tze in \u00a7\u00a037 Sozialgesetzbuch\u00a0XI an die in \u00a7\u00a036 Sozialgesetzbuch\u00a0XI anzupassen: "
+   ]
+  }, 
+  {
+   "begin": "256.600", 
+   "children": [], 
+   "end": "259.520", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "erstens aus Gr\u00fcnden der Gerechtigkeit gegen\u00fcber denjenigen, "
+   ]
+  }, 
+  {
+   "begin": "259.520", 
+   "children": [], 
+   "end": "260.080", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "die zu Hause pflegen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "260.080", 
+   "children": [], 
+   "end": "261.120", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "man denke an die anfallende Belastung\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "261.120", 
+   "children": [], 
+   "end": "262.960", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "und zweitens, "
+   ]
+  }, 
+  {
+   "begin": "262.960", 
+   "children": [], 
+   "end": "268.680", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "weil dadurch die gesamte Nachfrage nach Aufnahme in ein Pflegeheim verringert werden kann, "
+   ]
+  }, 
+  {
+   "begin": "268.680", 
+   "children": [], 
+   "end": "273.360", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "was zu einer Senkung der Angebotspreise der Pflegeeinrichtungen f\u00fchren k\u00f6nnte. "
+   ]
+  }, 
+  {
+   "begin": "273.360", 
+   "children": [], 
+   "end": "275.160", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Das scheinen Sie auch zu meinen, "
+   ]
+  }, 
+  {
+   "begin": "275.160", 
+   "children": [], 
+   "end": "277.760", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "haben es aber nicht explizit aufgef\u00fchrt; "
+   ]
+  }, 
+  {
+   "begin": "277.760", 
+   "children": [], 
+   "end": "279.640", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "zumindest habe ich Ihren Antrag so verstanden."
+   ]
+  }, 
+  {
+   "begin": "279.640", 
+   "children": [], 
+   "end": "280.880", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem bliebe ein Problem, "
+   ]
+  }, 
+  {
+   "begin": "280.880", 
+   "children": [], 
+   "end": "283.360", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "welches wir generell im Gesundheitswesen haben: "
+   ]
+  }, 
+  {
+   "begin": "283.360", 
+   "children": [], 
+   "end": "285.640", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Die Beitr\u00e4ge werden hoheitlich eingetrieben, "
+   ]
+  }, 
+  {
+   "begin": "285.640", 
+   "children": [], 
+   "end": "288.160", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "die Ausgaben aber werden durch Private get\u00e4tigt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "288.160", 
+   "children": [], 
+   "end": "291.320", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "mit einer nur eingeschr\u00e4nkten M\u00f6glichkeit der Kontrolle, "
+   ]
+  }, 
+  {
+   "begin": "291.320", 
+   "children": [], 
+   "end": "295.040", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "inwieweit die Kostenstruktur in den Pflegeheimen angemessen ist."
+   ]
+  }, 
+  {
+   "begin": "295.040", 
+   "children": [], 
+   "end": "295.800", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Fazit: "
+   ]
+  }, 
+  {
+   "begin": "295.800", 
+   "children": [], 
+   "end": "298.240", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag ist in der Sache richtig, "
+   ]
+  }, 
+  {
+   "begin": "298.240", 
+   "children": [], 
+   "end": "300.520", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "substanziell aber unzureichend. "
+   ]
+  }, 
+  {
+   "begin": "300.520", 
+   "children": [], 
+   "end": "302.080", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Das Problem zu hoher Eigenanteile muss aber angegangen werden, "
+   ]
+  }, 
+  {
+   "begin": "302.080", 
+   "children": [], 
+   "end": "303.200", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "weil es hier um Menschen geht, "
+   ]
+  }, 
+  {
+   "begin": "303.200", 
+   "children": [], 
+   "end": "304.360", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "die ein Recht darauf haben, "
+   ]
+  }, 
+  {
+   "begin": "304.360", 
+   "children": [], 
+   "end": "306.240", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "anst\u00e4ndig leben zu k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "306.240", 
+   "children": [], 
+   "end": "307.040", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Nicht zu vergessen, "
+   ]
+  }, 
+  {
+   "begin": "307.040", 
+   "children": [], 
+   "end": "308.440", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren: "
+   ]
+  }, 
+  {
+   "begin": "308.440", 
+   "children": [], 
+   "end": "311.400", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Es k\u00f6nnte jeden von uns auch einmal treffen. "
+   ]
+  }, 
+  {
+   "begin": "311.400", 
+   "children": [], 
+   "end": "314.120", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "Daran sollten wir ab und zu auch einmal denken."
+   ]
+  }, 
+  {
+   "begin": "314.120", 
+   "children": [], 
+   "end": "315.160", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Recht vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "315.160", 
+   "children": [], 
+   "end": "328.000", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat die Abgeordnete Nicole Westig f\u00fcr die FDP-Fraktion."
+   ]
+  }
+ ]
+}

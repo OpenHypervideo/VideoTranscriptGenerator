@@ -1,0 +1,884 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "children": [], 
+   "end": "17.080", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "17.080", 
+   "children": [], 
+   "end": "22.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Das ist jetzt eine schon weit fortgeschrittene Debatte mit einigen sehr merkw\u00fcrdigen Wortmeldungen. "
+   ]
+  }, 
+  {
+   "begin": "22.080", 
+   "children": [], 
+   "end": "23.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich will trotzdem versuchen, "
+   ]
+  }, 
+  {
+   "begin": "23.440", 
+   "children": [], 
+   "end": "25.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "zum Punkt zur\u00fcckzukommen."
+   ]
+  }, 
+  {
+   "begin": "25.760", 
+   "children": [], 
+   "end": "26.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Eine der wichtigsten Lehren, "
+   ]
+  }, 
+  {
+   "begin": "26.920", 
+   "children": [], 
+   "end": "28.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "die wir aus der Wirtschafts- "
+   ]
+  }, 
+  {
+   "begin": "28.160", 
+   "children": [], 
+   "end": "29.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "und Finanzkrise gezogen haben, "
+   ]
+  }, 
+  {
+   "begin": "29.800", 
+   "children": [], 
+   "end": "30.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ist doch, "
+   ]
+  }, 
+  {
+   "begin": "30.840", 
+   "children": [], 
+   "end": "35.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns im Finanzbereich auf europ\u00e4ischer Ebene besser koordinieren m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "35.160", 
+   "children": [], 
+   "end": "40.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "In der EU gibt es eine klare Entwicklung hin zu einem Abbau von notleidenden Krediten. "
+   ]
+  }, 
+  {
+   "begin": "40.680", 
+   "children": [], 
+   "end": "45.960", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Das zeigt der Fortschrittsbericht zur Entwicklung der Risiken in der europ\u00e4ischen Bankenbranche, "
+   ]
+  }, 
+  {
+   "begin": "45.960", 
+   "children": [], 
+   "end": "50.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "den die Europ\u00e4ische Kommission in diesem Monat vorgelegt hat. "
+   ]
+  }, 
+  {
+   "begin": "50.840", 
+   "children": [], 
+   "end": "54.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Seit 2014 ist die Zahl notleidender Kredite in der EU\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "54.280", 
+   "children": [], 
+   "end": "55.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "das sind die Kredite, "
+   ]
+  }, 
+  {
+   "begin": "55.040", 
+   "children": [], 
+   "end": "58.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "deren R\u00fcckzahlung seit mindestens 90\u00a0Tagen f\u00e4llig ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "58.120", 
+   "children": [], 
+   "end": "60.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "um ein Drittel gesunken. "
+   ]
+  }, 
+  {
+   "begin": "60.600", 
+   "children": [], 
+   "end": "62.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Das ist umso bedeutsamer, "
+   ]
+  }, 
+  {
+   "begin": "62.000", 
+   "children": [], 
+   "end": "70.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "weil faule Kredite noch immer eine der gr\u00f6\u00dften Risikoquellen im europ\u00e4ischen Bankensektor sind."
+   ]
+  }, 
+  {
+   "begin": "70.160", 
+   "children": [], 
+   "end": "75.880", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Auch die FDP d\u00fcrfte eigentlich das Risiko grenz\u00fcberschreitender Ausstrahlungseffekte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "75.880", 
+   "children": [], 
+   "end": "78.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "einige Redner haben es vorhin schon gesagt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "78.520", 
+   "children": [], 
+   "end": "80.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "im Bankensektor nicht leugnen. "
+   ]
+  }, 
+  {
+   "begin": "80.760", 
+   "children": [], 
+   "end": "84.280", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir Sozialdemokratinnen und Sozialdemokraten begr\u00fc\u00dfen ausdr\u00fccklich, "
+   ]
+  }, 
+  {
+   "begin": "84.280", 
+   "children": [], 
+   "end": "87.200", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die EU-Mitgliedstaaten koordinieren, "
+   ]
+  }, 
+  {
+   "begin": "87.200", 
+   "children": [], 
+   "end": "89.600", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "um die Bankenunion zu vollenden. "
+   ]
+  }, 
+  {
+   "begin": "89.600", 
+   "children": [], 
+   "end": "93.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Der Aktionsplan f\u00fcr den Abbau notleidender Kredite, "
+   ]
+  }, 
+  {
+   "begin": "93.720", 
+   "children": [], 
+   "end": "96.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "den der Rat im Juli vergangenen Jahres beschlossen hat, "
+   ]
+  }, 
+  {
+   "begin": "96.600", 
+   "children": [], 
+   "end": "99.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "ist ein Schritt auf dem Weg zur Vollendung der Bankenunion, "
+   ]
+  }, 
+  {
+   "begin": "99.720", 
+   "children": [], 
+   "end": "101.200", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und er ist richtig."
+   ]
+  }, 
+  {
+   "begin": "101.200", 
+   "children": [], 
+   "end": "108.560", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir Sozialdemokratinnen und Sozialdemokraten sind in dieser Frage nicht naiv. "
+   ]
+  }, 
+  {
+   "begin": "108.560", 
+   "children": [], 
+   "end": "111.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich zeigt der Fortschrittsbericht der Kommission auch, "
+   ]
+  }, 
+  {
+   "begin": "111.760", 
+   "children": [], 
+   "end": "117.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass der Abbau notleidender Kredite nicht in allen EU-Staaten gleich gut funktioniert. "
+   ]
+  }, 
+  {
+   "begin": "117.800", 
+   "children": [], 
+   "end": "119.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Gerade deshalb ist es ja so wichtig, "
+   ]
+  }, 
+  {
+   "begin": "119.600", 
+   "children": [], 
+   "end": "123.320", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Mitgliedstaaten auch in Zukunft in diesem Bereich koordinieren."
+   ]
+  }, 
+  {
+   "begin": "123.320", 
+   "children": [], 
+   "end": "125.360", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich gilt weiterhin, "
+   ]
+  }, 
+  {
+   "begin": "125.360", 
+   "children": [], 
+   "end": "130.520", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass die EU-Mitgliedstaaten und individuelle Banken daf\u00fcr Sorge tragen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "130.520", 
+   "children": [], 
+   "end": "134.440", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass der Anteil notleidender Kredite sinkt."
+   ]
+  }, 
+  {
+   "begin": "134.440", 
+   "children": [], 
+   "end": "139.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die FDP-Fraktion in dieser Aktuellen Stunde\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "139.240", 
+   "children": [], 
+   "end": "144.040", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "ich will an dieser Stelle einmal auf den Kollegen D\u00fcrr von der FDP-Fraktion verweisen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "144.040", 
+   "children": [], 
+   "end": "146.040", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und in einem Artikel der \u201eFAZ\u201c behauptet, "
+   ]
+  }, 
+  {
+   "begin": "146.040", 
+   "children": [], 
+   "end": "152.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass die Fraktion die gemeinsame Einlagensicherung im Interesse der Steuerzahler ablehnt, "
+   ]
+  }, 
+  {
+   "begin": "152.200", 
+   "children": [], 
+   "end": "153.240", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dann muss man sich schon fragen, "
+   ]
+  }, 
+  {
+   "begin": "153.240", 
+   "children": [], 
+   "end": "155.200", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wie das alles zusammenpasst."
+   ]
+  }, 
+  {
+   "begin": "155.200", 
+   "children": [], 
+   "end": "159.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Eine gemeinsame Einlagensicherung soll doch gerade nicht aus Steuergeldern finanziert werden, "
+   ]
+  }, 
+  {
+   "begin": "159.640", 
+   "children": [], 
+   "end": "161.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "161.040", 
+   "children": [], 
+   "end": "162.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "sondern durch Finanzinstitute. "
+   ]
+  }, 
+  {
+   "begin": "162.800", 
+   "children": [], 
+   "end": "166.360", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Die Steuerzahlerinnen und Steuerzahler w\u00fcrden nicht zur Kasse gebeten, "
+   ]
+  }, 
+  {
+   "begin": "166.360", 
+   "children": [], 
+   "end": "167.960", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "sondern gesch\u00fctzt. "
+   ]
+  }, 
+  {
+   "begin": "167.960", 
+   "children": [], 
+   "end": "169.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Sie sch\u00fcren nicht nur eine diffuse Angst davor, "
+   ]
+  }, 
+  {
+   "begin": "169.960", 
+   "children": [], 
+   "end": "174.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass die Schaffung einer europ\u00e4ischen Bankenunion automatisch eine Transfer- "
+   ]
+  }, 
+  {
+   "begin": "174.520", 
+   "children": [], 
+   "end": "177.040", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "und Schuldenunion bedeuten w\u00fcrde,"
+   ]
+  }, 
+  {
+   "begin": "177.040", 
+   "children": [], 
+   "end": "179.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "was auch immer Sie darunter verstehen; "
+   ]
+  }, 
+  {
+   "begin": "179.560", 
+   "children": [], 
+   "end": "182.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "denn bisher erl\u00e4utern Sie den Begriff ja nicht. "
+   ]
+  }, 
+  {
+   "begin": "182.880", 
+   "children": [], 
+   "end": "191.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Sie werfen vor allem auch eine Finanzierung durch Finanzinstitute und eine Finanzierung \u00fcber Steuergelder durcheinander. "
+   ]
+  }, 
+  {
+   "begin": "191.520", 
+   "children": [], 
+   "end": "192.520", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen tun das nicht nur Sie; "
+   ]
+  }, 
+  {
+   "begin": "192.520", 
+   "children": [], 
+   "end": "198.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die AfD wirft in dieser Frage alles durcheinander und scheint das ganze System nicht verstanden zu haben."
+   ]
+  }, 
+  {
+   "begin": "198.280", 
+   "children": [], 
+   "end": "198.960", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ja, "
+   ]
+  }, 
+  {
+   "begin": "198.960", 
+   "children": [], 
+   "end": "199.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "so ist das, "
+   ]
+  }, 
+  {
+   "begin": "199.560", 
+   "children": [], 
+   "end": "200.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Herr Gauland, "
+   ]
+  }, 
+  {
+   "begin": "200.840", 
+   "children": [], 
+   "end": "204.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die Sozialdemokraten haben das verstanden."
+   ]
+  }, 
+  {
+   "begin": "204.280", 
+   "children": [], 
+   "end": "208.000", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die B\u00fcrger in Deutschland soll der Eindruck entstehen, "
+   ]
+  }, 
+  {
+   "begin": "208.000", 
+   "children": [], 
+   "end": "208.920", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "208.920", 
+   "children": [], 
+   "end": "213.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass ihnen durch eine europ\u00e4ische Bankenunion etwas weggenommen w\u00fcrde. "
+   ]
+  }, 
+  {
+   "begin": "213.520", 
+   "children": [], 
+   "end": "216.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Genau das Gegenteil ist der Fall."
+   ]
+  }, 
+  {
+   "begin": "216.240", 
+   "children": [], 
+   "end": "221.720", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Die Europ\u00e4ische Zentralbank hat im Jahr\u00a02017 festgestellt, "
+   ]
+  }, 
+  {
+   "begin": "221.720", 
+   "children": [], 
+   "end": "226.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass das anvisierte Zielvolumen eines europ\u00e4ischen Einlagensicherungsfonds\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "226.240", 
+   "children": [], 
+   "end": "229.400", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "das sind 0,8\u00a0Prozent der gedeckten Einlagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "229.400", 
+   "children": [], 
+   "end": "231.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "in der letzten Finanzkrise ausgereicht h\u00e4tte, "
+   ]
+  }, 
+  {
+   "begin": "231.560", 
+   "children": [], 
+   "end": "235.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "um die Anspr\u00fcche der europ\u00e4ischen Anleger zu befriedigen. "
+   ]
+  }, 
+  {
+   "begin": "235.800", 
+   "children": [], 
+   "end": "237.560", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft doch: "
+   ]
+  }, 
+  {
+   "begin": "237.560", 
+   "children": [], 
+   "end": "247.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Nur durch ein europ\u00e4isches System bei der Einlagensicherung werden Steuerzahler bei einer Bankenrettung zuk\u00fcnftig nicht mehr zur Kasse gebeten."
+   ]
+  }, 
+  {
+   "begin": "247.280", 
+   "children": [], 
+   "end": "250.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "250.000", 
+   "children": [], 
+   "end": "254.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bankenbranche sich im Falle einer Krise selbst retten kann. "
+   ]
+  }, 
+  {
+   "begin": "254.040", 
+   "children": [], 
+   "end": "255.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Eine Situation, "
+   ]
+  }, 
+  {
+   "begin": "255.000", 
+   "children": [], 
+   "end": "258.520", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wie wir sie im Jahr\u00a02008 erlebt haben, "
+   ]
+  }, 
+  {
+   "begin": "258.520", 
+   "children": [], 
+   "end": "263.240", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "als Steuerzahlerinnen und Steuerzahler f\u00fcr die Rettung von Banken aufkommen mussten, "
+   ]
+  }, 
+  {
+   "begin": "263.240", 
+   "children": [], 
+   "end": "265.120", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "darf sich nie wiederholen. "
+   ]
+  }, 
+  {
+   "begin": "265.120", 
+   "children": [], 
+   "end": "268.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Sichere Banken bekommen wir nur durch eine europ\u00e4ische Anstrengung. "
+   ]
+  }, 
+  {
+   "begin": "268.440", 
+   "children": [], 
+   "end": "269.400", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Eine vern\u00fcnftige, "
+   ]
+  }, 
+  {
+   "begin": "269.400", 
+   "children": [], 
+   "end": "272.520", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "funktionierende Einlagensicherung ist Teil eines Pakets, "
+   ]
+  }, 
+  {
+   "begin": "272.520", 
+   "children": [], 
+   "end": "273.800", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "um das zu erreichen."
+   ]
+  }, 
+  {
+   "begin": "273.800", 
+   "children": [], 
+   "end": "273.920", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Gl\u00fcck auf!"
+   ]
+  }, 
+  {
+   "begin": "273.920", 
+   "children": [], 
+   "end": "274.040", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "274.040", 
+   "children": [], 
+   "end": "274.200", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege T\u00f6ns.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "274.200", 
+   "children": [], 
+   "end": "277.640", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Als letzten Redner in der Aktuellen Stunde rufe ich Herrn Dr.\u00a0Hermann-\u00adJosef Tebroke, "
+   ]
+  }, 
+  {
+   "begin": "277.640", 
+   "children": [], 
+   "end": "279.040", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU-Fraktion, "
+   ]
+  }, 
+  {
+   "begin": "279.040", 
+   "children": [], 
+   "end": "280.280", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "auf und weise darauf hin, "
+   ]
+  }, 
+  {
+   "begin": "280.280", 
+   "children": [], 
+   "end": "283.000", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich hierbei um seine erste Parlamentsrede handelt."
+   ]
+  }
+ ]
+}

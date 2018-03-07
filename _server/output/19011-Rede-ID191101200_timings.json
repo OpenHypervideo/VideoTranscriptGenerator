@@ -1,0 +1,564 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "children": [], 
+   "end": "11.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.120", 
+   "children": [], 
+   "end": "13.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in den letzten Monaten oft geh\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "children": [], 
+   "end": "17.400", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass es einen Konsens beim Familiennachzug gab. "
+   ]
+  }, 
+  {
+   "begin": "17.400", 
+   "children": [], 
+   "end": "22.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe der Fraktionsvorsitzenden von B\u00fcndnis\u00a090/Die Gr\u00fcnen aufmerksam zugeh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "22.440", 
+   "children": [], 
+   "end": "24.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sie sprach lange Zeit von einem Durchbruch, "
+   ]
+  }, 
+  {
+   "begin": "24.840", 
+   "children": [], 
+   "end": "29.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "von einem Konsens zwischen CSU und Gr\u00fcnen. "
+   ]
+  }, 
+  {
+   "begin": "29.080", 
+   "children": [], 
+   "end": "34.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber den Inhalt des Konsenses haben wir in diesem Haus relativ wenig erfahren d\u00fcrfen;"
+   ]
+  }, 
+  {
+   "begin": "34.800", 
+   "children": [], 
+   "end": "37.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "aber alle haben gesagt, "
+   ]
+  }, 
+  {
+   "begin": "37.440", 
+   "children": [], 
+   "end": "40.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "sie seien vor einem Durchbruch gewesen. "
+   ]
+  }, 
+  {
+   "begin": "40.480", 
+   "children": [], 
+   "end": "42.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "An diesen Durchbruch scheinen Sie sich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "42.080", 
+   "children": [], 
+   "end": "45.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "das legt Ihre heutige Positionierung nahe\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "45.240", 
+   "children": [], 
+   "end": "48.000", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "nicht mehr besonders gut zu erinnern."
+   ]
+  }, 
+  {
+   "begin": "48.000", 
+   "children": [], 
+   "end": "55.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wir Juristen sprechen von verstecktem Dissens, "
+   ]
+  }, 
+  {
+   "begin": "55.200", 
+   "children": [], 
+   "end": "58.400", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "es scheint mir aber eher ein offener Dissens zu sein,"
+   ]
+  }, 
+  {
+   "begin": "58.400", 
+   "children": [], 
+   "end": "62.160", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "den es zwischen Sozialdemokraten und Union in dieser Frage gibt."
+   ]
+  }, 
+  {
+   "begin": "62.160", 
+   "children": [], 
+   "end": "65.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben sich auf eine Zahl, "
+   ]
+  }, 
+  {
+   "begin": "65.360", 
+   "children": [], 
+   "end": "69.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "auf eine Obergrenze geeinigt. "
+   ]
+  }, 
+  {
+   "begin": "69.240", 
+   "children": [], 
+   "end": "70.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Nun stellt sich die Frage: "
+   ]
+  }, 
+  {
+   "begin": "70.920", 
+   "children": [], 
+   "end": "72.040", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Was passiert eigentlich, "
+   ]
+  }, 
+  {
+   "begin": "72.040", 
+   "children": [], 
+   "end": "76.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wenn in einem Land humanit\u00e4re Bedingungen herrschen, "
+   ]
+  }, 
+  {
+   "begin": "76.360", 
+   "children": [], 
+   "end": "80.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "angesichts derer es gerechtfertigt w\u00e4re, "
+   ]
+  }, 
+  {
+   "begin": "80.320", 
+   "children": [], 
+   "end": "86.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass in einem Monat 1\u00a0800 oder 2\u00a0000\u00a0Menschen nach Deutschland einreisen bzw. "
+   ]
+  }, 
+  {
+   "begin": "86.400", 
+   "children": [], 
+   "end": "88.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "nachziehen d\u00fcrfen, "
+   ]
+  }, 
+  {
+   "begin": "88.360", 
+   "children": [], 
+   "end": "91.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "aber im n\u00e4chsten Monat, "
+   ]
+  }, 
+  {
+   "begin": "91.000", 
+   "children": [], 
+   "end": "92.360", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "weil sich die Verh\u00e4ltnisse, "
+   ]
+  }, 
+  {
+   "begin": "92.360", 
+   "children": [], 
+   "end": "93.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "in Syrien etwa, "
+   ]
+  }, 
+  {
+   "begin": "93.760", 
+   "children": [], 
+   "end": "96.360", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "nach einem halben Jahr drastisch ge\u00e4ndert haben, "
+   ]
+  }, 
+  {
+   "begin": "96.360", 
+   "children": [], 
+   "end": "99.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht nur ganz wenige oder gar keine Menschen kommen d\u00fcrfen? "
+   ]
+  }, 
+  {
+   "begin": "99.760", 
+   "children": [], 
+   "end": "101.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Laut Ihrer Regelung macht es Sinn, "
+   ]
+  }, 
+  {
+   "begin": "101.520", 
+   "children": [], 
+   "end": "104.080", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "in einem Jahr Menschen nachzuholen, "
+   ]
+  }, 
+  {
+   "begin": "104.080", 
+   "children": [], 
+   "end": "115.040", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "die vielleicht gar kein Recht auf Nachzug haben und in einem anderen Monat lassen Sie Menschen in ihrem Umfeld ohne Ber\u00fccksichtigung der dortigen humanit\u00e4ren Verh\u00e4ltnisse. "
+   ]
+  }, 
+  {
+   "begin": "115.040", 
+   "children": [], 
+   "end": "120.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das ist keine logische Vorgehensweise."
+   ]
+  }, 
+  {
+   "begin": "120.680", 
+   "children": [], 
+   "end": "121.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die FDP\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "121.600", 
+   "children": [], 
+   "end": "123.800", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und hierin unterscheiden wir uns\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "123.800", 
+   "children": [], 
+   "end": "131.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "hat einen konkreten Vorschlag gemacht und nicht von einem zuk\u00fcnftigen Konsens zwischen CDU/CSU und Gr\u00fcnen oder CDU/CSU und SPD gesprochen. "
+   ]
+  }, 
+  {
+   "begin": "131.000", 
+   "children": [], 
+   "end": "132.360", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "132.360", 
+   "children": [], 
+   "end": "136.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass der Familiennachzug f\u00fcr die n\u00e4chste Zeit ausgesetzt bleibt, "
+   ]
+  }, 
+  {
+   "begin": "136.440", 
+   "children": [], 
+   "end": "139.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass es aber die M\u00f6glichkeit einer H\u00e4rtefallregelung gibt, "
+   ]
+  }, 
+  {
+   "begin": "139.560", 
+   "children": [], 
+   "end": "140.960", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die weiter geht als die, "
+   ]
+  }, 
+  {
+   "begin": "140.960", 
+   "children": [], 
+   "end": "145.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "die im Ausw\u00e4rtigen Amt unter einem Sozialdemokraten praktiziert wird, "
+   ]
+  }, 
+  {
+   "begin": "145.640", 
+   "children": [], 
+   "end": "147.160", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "und dass es die M\u00f6glichkeit gibt, "
+   ]
+  }, 
+  {
+   "begin": "147.160", 
+   "children": [], 
+   "end": "150.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "sich in Deutschland in den deutschen Arbeitsmarkt zu integrieren, "
+   ]
+  }, 
+  {
+   "begin": "150.640", 
+   "children": [], 
+   "end": "151.600", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "hier zu leben, "
+   ]
+  }, 
+  {
+   "begin": "151.600", 
+   "children": [], 
+   "end": "152.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "zu arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "152.560", 
+   "children": [], 
+   "end": "158.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die Sprache zu erlernen und dann auch seine Familie nachzuholen."
+   ]
+  }, 
+  {
+   "begin": "158.520", 
+   "children": [], 
+   "end": "165.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Das alles kann aber nur eine \u00dcbergangsl\u00f6sung bis zum Inkrafttreten eines Einwanderungsgesetzes sein. "
+   ]
+  }, 
+  {
+   "begin": "165.560", 
+   "children": [], 
+   "end": "167.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Ich k\u00e4mpfe seit 20\u00a0Jahren daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "167.880", 
+   "children": [], 
+   "end": "171.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass wir eine geordnete Einwanderung nach Deutschland bekommen. "
+   ]
+  }, 
+  {
+   "begin": "171.760", 
+   "children": [], 
+   "end": "176.440", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Kampf ist leider noch nicht von Erfolg gekr\u00f6nt worden. "
+   ]
+  }, 
+  {
+   "begin": "176.440", 
+   "children": [], 
+   "end": "181.840", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Leider ist eine geordnete Zuwanderung in Deutschland immer noch in weiter Ferne. "
+   ]
+  }, 
+  {
+   "begin": "181.840", 
+   "children": [], 
+   "end": "183.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ausgesprochen bedauerlich. "
+   ]
+  }, 
+  {
+   "begin": "183.960", 
+   "children": [], 
+   "end": "188.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freien Demokraten werden weiter f\u00fcr dieses Einwanderungsgesetz k\u00e4mpfen."
+   ]
+  }, 
+  {
+   "begin": "188.040", 
+   "children": [], 
+   "end": "188.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "188.880", 
+   "children": [], 
+   "end": "193.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt erteile ich das Wort dem Kollegen Stephan Mayer, "
+   ]
+  }, 
+  {
+   "begin": "193.400", 
+   "children": [], 
+   "end": "195.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU."
+   ]
+  }
+ ]
+}

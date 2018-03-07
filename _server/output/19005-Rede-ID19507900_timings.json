@@ -1,0 +1,694 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "children": [], 
+   "end": "9.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.120", 
+   "children": [], 
+   "end": "14.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Den Namen des Attent\u00e4ters vom Breitscheidplatz kennt mittlerweile fast jeder. "
+   ]
+  }, 
+  {
+   "begin": "14.080", 
+   "children": [], 
+   "end": "16.160", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber ihn wurde ohne Ende berichtet. "
+   ]
+  }, 
+  {
+   "begin": "16.160", 
+   "children": [], 
+   "end": "19.160", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die Opfer dagegen nahm kaum jemand in den Blick. "
+   ]
+  }, 
+  {
+   "begin": "19.160", 
+   "children": [], 
+   "end": "22.400", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die f\u00fcr mich bitterste Erfahrung nach dem Attentat lautet: "
+   ]
+  }, 
+  {
+   "begin": "22.400", 
+   "children": [], 
+   "end": "24.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "die meiste Aufmerksamkeit dem T\u00e4ter, "
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "children": [], 
+   "end": "27.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die wenigste Aufmerksamkeit den Opfern."
+   ]
+  }, 
+  {
+   "begin": "27.240", 
+   "children": [], 
+   "end": "30.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Das muss sich deutlich \u00e4ndern."
+   ]
+  }, 
+  {
+   "begin": "30.280", 
+   "children": [], 
+   "end": "40.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das Leben der Angeh\u00f6rigen und der \u00dcberlebenden vom Breitscheidplatz hat von einer Sekunde auf die andere eine furchtbare Wendung genommen. "
+   ]
+  }, 
+  {
+   "begin": "40.120", 
+   "children": [], 
+   "end": "43.440", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Umso betroffener und vor allem nachdenklicher muss es uns machen, "
+   ]
+  }, 
+  {
+   "begin": "43.440", 
+   "children": [], 
+   "end": "48.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wie alleingelassen sich die Verletzten und die Angeh\u00f6rigen der Opfer gef\u00fchlt haben."
+   ]
+  }, 
+  {
+   "begin": "48.480", 
+   "children": [], 
+   "end": "51.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Angeh\u00f6rige wurden viel zu lange im Unklaren dar\u00fcber gelassen, "
+   ]
+  }, 
+  {
+   "begin": "51.640", 
+   "children": [], 
+   "end": "52.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "ob ihre Kinder, "
+   ]
+  }, 
+  {
+   "begin": "52.680", 
+   "children": [], 
+   "end": "55.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Eltern oder Geschwister noch am Leben sind. "
+   ]
+  }, 
+  {
+   "begin": "55.080", 
+   "children": [], 
+   "end": "55.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es gab niemanden, "
+   ]
+  }, 
+  {
+   "begin": "55.840", 
+   "children": [], 
+   "end": "57.440", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "der dar\u00fcber Auskunft geben konnte. "
+   ]
+  }, 
+  {
+   "begin": "57.440", 
+   "children": [], 
+   "end": "59.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Hotlines waren nicht erreichbar, "
+   ]
+  }, 
+  {
+   "begin": "59.320", 
+   "children": [], 
+   "end": "61.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Opferlisten wurden chaotisch gef\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "61.280", 
+   "children": [], 
+   "end": "62.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Beh\u00f6rden waren \u00fcberfordert, "
+   ]
+  }, 
+  {
+   "begin": "62.920", 
+   "children": [], 
+   "end": "64.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "und manche Beamte waren unsensibel. "
+   ]
+  }, 
+  {
+   "begin": "64.640", 
+   "children": [], 
+   "end": "65.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Man hatte den Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "65.320", 
+   "children": [], 
+   "end": "70.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "insgesamt herrschten geradezu kafkaeske Zust\u00e4nde. "
+   ]
+  }, 
+  {
+   "begin": "70.120", 
+   "children": [], 
+   "end": "74.440", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Der Brief der Angeh\u00f6rigen an die Kanzlerin ist ein bedr\u00fcckendes Dokument, "
+   ]
+  }, 
+  {
+   "begin": "74.440", 
+   "children": [], 
+   "end": "77.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "aber es ist auch ein wichtiges Dokument."
+   ]
+  }, 
+  {
+   "begin": "77.360", 
+   "children": [], 
+   "end": "78.240", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "78.240", 
+   "children": [], 
+   "end": "80.000", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Terroropfer m\u00fcssen wissen, "
+   ]
+  }, 
+  {
+   "begin": "80.000", 
+   "children": [], 
+   "end": "81.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "an wen sie sich wenden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "81.560", 
+   "children": [], 
+   "end": "83.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Bislang wussten sie es nicht. "
+   ]
+  }, 
+  {
+   "begin": "83.280", 
+   "children": [], 
+   "end": "85.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Ge\u00e4ndert hat sich das erst im M\u00e4rz, "
+   ]
+  }, 
+  {
+   "begin": "85.680", 
+   "children": [], 
+   "end": "93.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "als die Bundesregierung Kurt Beck zum Beauftragten f\u00fcr die Opfer und Hinterbliebenen des Attentats vom Breitscheidplatz berufen hat. "
+   ]
+  }, 
+  {
+   "begin": "93.160", 
+   "children": [], 
+   "end": "97.960", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Seine Arbeit war und ist f\u00fcr die Betroffenen von unsch\u00e4tzbarem Wert. "
+   ]
+  }, 
+  {
+   "begin": "97.960", 
+   "children": [], 
+   "end": "101.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Er koordinierte Schadensersatzanspr\u00fcche, "
+   ]
+  }, 
+  {
+   "begin": "101.080", 
+   "children": [], 
+   "end": "107.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "vermittelte Kontakte zu Rentenversicherern und \u00fcberwachte die Verteilung aus dem Entsch\u00e4digungsfonds des Bundes."
+   ]
+  }, 
+  {
+   "begin": "107.240", 
+   "children": [], 
+   "end": "108.360", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Kurt Beck, "
+   ]
+  }, 
+  {
+   "begin": "108.360", 
+   "children": [], 
+   "end": "116.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "von dieser Stelle aus m\u00f6chte ich Ihnen ganz herzlich f\u00fcr Ihre T\u00e4tigkeit danken"
+   ]
+  }, 
+  {
+   "begin": "116.680", 
+   "children": [], 
+   "end": "119.560", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "und vor allem auch f\u00fcr die Einf\u00fchlsamkeit, "
+   ]
+  }, 
+  {
+   "begin": "119.560", 
+   "children": [], 
+   "end": "121.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "mit der Sie vorgegangen sind."
+   ]
+  }, 
+  {
+   "begin": "121.200", 
+   "children": [], 
+   "end": "123.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Kurt Beck hat uns gezeigt: "
+   ]
+  }, 
+  {
+   "begin": "123.000", 
+   "children": [], 
+   "end": "126.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine Opferanlaufstelle als feste Einrichtung. "
+   ]
+  }, 
+  {
+   "begin": "126.200", 
+   "children": [], 
+   "end": "128.720", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Deren Mitarbeiter m\u00fcssen sich bereithalten, "
+   ]
+  }, 
+  {
+   "begin": "128.720", 
+   "children": [], 
+   "end": "134.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "fortbilden und im Ernstfall sofort mit ihrer Arbeit beginnen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "134.720", 
+   "children": [], 
+   "end": "138.280", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Der vorliegende interfraktionelle Antrag fordert genau dies. "
+   ]
+  }, 
+  {
+   "begin": "138.280", 
+   "children": [], 
+   "end": "140.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Es muss in Zukunft jemanden geben, "
+   ]
+  }, 
+  {
+   "begin": "140.400", 
+   "children": [], 
+   "end": "143.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "der aktiv und verantwortlich auf die Betroffenen zugeht, "
+   ]
+  }, 
+  {
+   "begin": "143.560", 
+   "children": [], 
+   "end": "147.120", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "sie informiert und die entsprechenden Schritte koordiniert, "
+   ]
+  }, 
+  {
+   "begin": "147.120", 
+   "children": [], 
+   "end": "147.800", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "jemanden, "
+   ]
+  }, 
+  {
+   "begin": "147.800", 
+   "children": [], 
+   "end": "149.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "der ein offenes Ohr hat und zum H\u00f6rer greift, "
+   ]
+  }, 
+  {
+   "begin": "149.880", 
+   "children": [], 
+   "end": "151.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "wenn Probleme auftreten, "
+   ]
+  }, 
+  {
+   "begin": "151.240", 
+   "children": [], 
+   "end": "151.840", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "jemanden, "
+   ]
+  }, 
+  {
+   "begin": "151.840", 
+   "children": [], 
+   "end": "154.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "der vielleicht auch solche Hilfen erm\u00f6glicht, "
+   ]
+  }, 
+  {
+   "begin": "154.360", 
+   "children": [], 
+   "end": "156.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die es kein Gesetz gibt. "
+   ]
+  }, 
+  {
+   "begin": "156.560", 
+   "children": [], 
+   "end": "159.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Es darf auch keinen Unterschied machen, "
+   ]
+  }, 
+  {
+   "begin": "159.040", 
+   "children": [], 
+   "end": "161.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "welche Nationalit\u00e4t die Opfer haben."
+   ]
+  }, 
+  {
+   "begin": "161.720", 
+   "children": [], 
+   "end": "162.960", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Es ist gut, "
+   ]
+  }, 
+  {
+   "begin": "162.960", 
+   "children": [], 
+   "end": "166.840", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dass sich das Bundeskabinett heute mit dem Bericht von Kurt Beck befasst hat, "
+   ]
+  }, 
+  {
+   "begin": "166.840", 
+   "children": [], 
+   "end": "168.040", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "und es ist noch besser, "
+   ]
+  }, 
+  {
+   "begin": "168.040", 
+   "children": [], 
+   "end": "169.360", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich entschieden hat, "
+   ]
+  }, 
+  {
+   "begin": "169.360", 
+   "children": [], 
+   "end": "171.200", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "seine Forderungen umzusetzen."
+   ]
+  }, 
+  {
+   "begin": "171.200", 
+   "children": [], 
+   "end": "172.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "172.640", 
+   "children": [], 
+   "end": "175.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht muss man sich damit abfinden, "
+   ]
+  }, 
+  {
+   "begin": "175.040", 
+   "children": [], 
+   "end": "177.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass es trotz aller Bem\u00fchungen nicht immer gelingen kann, "
+   ]
+  }, 
+  {
+   "begin": "177.800", 
+   "children": [], 
+   "end": "179.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Terrorakte zu verhindern. "
+   ]
+  }, 
+  {
+   "begin": "179.600", 
+   "children": [], 
+   "end": "182.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Nicht abfinden m\u00fcssen wir uns aber damit, "
+   ]
+  }, 
+  {
+   "begin": "182.080", 
+   "children": [], 
+   "end": "185.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass die Opfer nicht schnell und unb\u00fcrokratisch versorgt werden. "
+   ]
+  }, 
+  {
+   "begin": "185.440", 
+   "children": [], 
+   "end": "186.760", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Das muss sich \u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "186.760", 
+   "children": [], 
+   "end": "194.440", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Aus diesem Grund bitte ich um Zustimmung f\u00fcr den vorliegenden Antrag."
+   ]
+  }, 
+  {
+   "begin": "194.440", 
+   "children": [], 
+   "end": "195.760", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen."
+   ]
+  }, 
+  {
+   "begin": "195.760", 
+   "children": [], 
+   "end": "204.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Der letzte Redner in der Debatte ist nun Dr.\u00a0Volker Ullrich von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

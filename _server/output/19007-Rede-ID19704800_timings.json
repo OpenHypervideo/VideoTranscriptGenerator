@@ -1,0 +1,864 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "children": [], 
+   "end": "11.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "children": [], 
+   "end": "13.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "F\u00e4llt Ihnen eigentlich auf,"
+   ]
+  }, 
+  {
+   "begin": "13.840", 
+   "children": [], 
+   "end": "19.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass trotz Boom die Armut nicht abnimmt, "
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "children": [], 
+   "end": "22.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "aber der Reichtum f\u00fcr wenige exorbitant steigt? "
+   ]
+  }, 
+  {
+   "begin": "22.440", 
+   "children": [], 
+   "end": "24.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ist das f\u00fcr Sie ein Problem, "
+   ]
+  }, 
+  {
+   "begin": "24.480", 
+   "children": [], 
+   "end": "27.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "oder akzeptieren Sie das einfach so?"
+   ]
+  }, 
+  {
+   "begin": "27.280", 
+   "children": [], 
+   "end": "27.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "27.920", 
+   "children": [], 
+   "end": "29.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen dar\u00fcber nachdenken, "
+   ]
+  }, 
+  {
+   "begin": "29.520", 
+   "children": [], 
+   "end": "33.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass die Verteilung in unserem Land tats\u00e4chlich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "33.680", 
+   "children": [], 
+   "end": "36.120", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "das sagen nicht nur wir, "
+   ]
+  }, 
+  {
+   "begin": "36.120", 
+   "children": [], 
+   "end": "37.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch alle Institute\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "37.240", 
+   "children": [], 
+   "end": "38.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "ein Ausma\u00df angenommen hat, "
+   ]
+  }, 
+  {
+   "begin": "38.840", 
+   "children": [], 
+   "end": "40.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "das nicht mehr in Ordnung ist, "
+   ]
+  }, 
+  {
+   "begin": "40.200", 
+   "children": [], 
+   "end": "42.800", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "weil es neben den ganzen moralischen Aspekten, "
+   ]
+  }, 
+  {
+   "begin": "42.800", 
+   "children": [], 
+   "end": "43.800", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die damit verbunden sind, "
+   ]
+  }, 
+  {
+   "begin": "43.800", 
+   "children": [], 
+   "end": "46.880", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die wirtschaftliche Entwicklung massiv behindert."
+   ]
+  }, 
+  {
+   "begin": "46.880", 
+   "children": [], 
+   "end": "47.560", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Woran liegt das? "
+   ]
+  }, 
+  {
+   "begin": "47.560", 
+   "children": [], 
+   "end": "50.200", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Es liegt zum einen daran, "
+   ]
+  }, 
+  {
+   "begin": "50.200", 
+   "children": [], 
+   "end": "52.320", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass die Verteilung des Volkseinkommens, "
+   ]
+  }, 
+  {
+   "begin": "52.320", 
+   "children": [], 
+   "end": "54.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "also das Verh\u00e4ltnis zwischen L\u00f6hnen und Profiten, "
+   ]
+  }, 
+  {
+   "begin": "54.880", 
+   "children": [], 
+   "end": "57.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "nicht mehr stimmt. "
+   ]
+  }, 
+  {
+   "begin": "57.640", 
+   "children": [], 
+   "end": "64.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Der Anteil der L\u00f6hne am Volkseinkommen lag im Jahr\u00a02000 bei 71,9\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "64.720", 
+   "children": [], 
+   "end": "68.200", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Inzwischen betr\u00e4gt er 68,5\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "68.200", 
+   "children": [], 
+   "end": "71.920", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Anteil der L\u00f6hne am gesamten erwirtschafteten Kuchen."
+   ]
+  }, 
+  {
+   "begin": "71.920", 
+   "children": [], 
+   "end": "76.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "H\u00e4tten die Arbeitnehmer noch die Lohnquote des Jahres\u00a02000, "
+   ]
+  }, 
+  {
+   "begin": "76.480", 
+   "children": [], 
+   "end": "84.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dann h\u00e4tten sie allein im Jahr\u00a02017\u00a0 82\u00a0Milliarden Euro mehr. "
+   ]
+  }, 
+  {
+   "begin": "84.160", 
+   "children": [], 
+   "end": "92.600", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "H\u00e4tten wir die Verteilung des Volkseinkommens aus dem Jahr\u00a02000 kumuliert seit dem Jahr\u00a02000, "
+   ]
+  }, 
+  {
+   "begin": "92.600", 
+   "children": [], 
+   "end": "95.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dann h\u00e4tten die Arbeitnehmerinnen und Arbeitnehmer, "
+   ]
+  }, 
+  {
+   "begin": "95.120", 
+   "children": [], 
+   "end": "96.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "also die normalen Menschen hierzulande, "
+   ]
+  }, 
+  {
+   "begin": "96.520", 
+   "children": [], 
+   "end": "99.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "1,4\u00a0Billionen Euro mehr in der Tasche."
+   ]
+  }, 
+  {
+   "begin": "99.440", 
+   "children": [], 
+   "end": "101.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die entscheidende Frage lautet: "
+   ]
+  }, 
+  {
+   "begin": "101.760", 
+   "children": [], 
+   "end": "103.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wohin geht das Geld, "
+   ]
+  }, 
+  {
+   "begin": "103.200", 
+   "children": [], 
+   "end": "104.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "und wo liegen die Ursachen? "
+   ]
+  }, 
+  {
+   "begin": "104.680", 
+   "children": [], 
+   "end": "108.720", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Ursachen f\u00fcr diese ungleiche Prim\u00e4rverteilung bzw. "
+   ]
+  }, 
+  {
+   "begin": "108.720", 
+   "children": [], 
+   "end": "111.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "diese falsche Entwicklung sind Niedriglohn, "
+   ]
+  }, 
+  {
+   "begin": "111.040", 
+   "children": [], 
+   "end": "113.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "befristete Besch\u00e4ftigung und Leiharbeit. "
+   ]
+  }, 
+  {
+   "begin": "113.920", 
+   "children": [], 
+   "end": "116.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Ulrike Herrmann hat es in der \u201etaz\u201c folgenderma\u00dfen formuliert\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "116.600", 
+   "children": [], 
+   "end": "117.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "117.560", 
+   "children": [], 
+   "end": "123.560", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die Agenda\u00a02010 hat nicht nur die Ungleichheit vor 2005 versch\u00e4rft\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "123.560", 
+   "children": [], 
+   "end": "128.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dieses politische Lohndumping sorgt jetzt daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "128.280", 
+   "children": [], 
+   "end": "132.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass sogar in der Hochkonjunktur die Ungleichheit nicht abnimmt, "
+   ]
+  }, 
+  {
+   "begin": "132.720", 
+   "children": [], 
+   "end": "135.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "sondern tendenziell weiter steigt."
+   ]
+  }, 
+  {
+   "begin": "135.000", 
+   "children": [], 
+   "end": "136.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Recht hat sie, "
+   ]
+  }, 
+  {
+   "begin": "136.040", 
+   "children": [], 
+   "end": "137.880", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "und das m\u00fcssen wir ver\u00e4ndern."
+   ]
+  }, 
+  {
+   "begin": "137.880", 
+   "children": [], 
+   "end": "143.560", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Eine M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "143.560", 
+   "children": [], 
+   "end": "145.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "der Ungleichheit entgegenzuwirken, "
+   ]
+  }, 
+  {
+   "begin": "145.320", 
+   "children": [], 
+   "end": "146.240", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "bietet die Steuerpolitik, "
+   ]
+  }, 
+  {
+   "begin": "146.240", 
+   "children": [], 
+   "end": "148.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr eine andere Sekund\u00e4rverteilung sorgen kann. "
+   ]
+  }, 
+  {
+   "begin": "148.400", 
+   "children": [], 
+   "end": "151.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Zusammenhang bietet sich sicherlich die Anhebung des Spitzensteuersatzes an. "
+   ]
+  }, 
+  {
+   "begin": "151.200", 
+   "children": [], 
+   "end": "153.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren von der CSU, "
+   ]
+  }, 
+  {
+   "begin": "153.120", 
+   "children": [], 
+   "end": "155.880", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "was halten Sie eigentlich von folgendem Satz: "
+   ]
+  }, 
+  {
+   "begin": "155.880", 
+   "children": [], 
+   "end": "162.480", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "\u201eArbeitsloses Einkommen arbeitsf\u00e4higer Personen wird nach Ma\u00dfgabe der Gesetze mit Sondersteuern belegt.\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "162.480", 
+   "children": [], 
+   "end": "165.320", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Wo sind denn die Kollegen von der CSU?"
+   ]
+  }, 
+  {
+   "begin": "165.320", 
+   "children": [], 
+   "end": "165.880", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Max, "
+   ]
+  }, 
+  {
+   "begin": "165.880", 
+   "children": [], 
+   "end": "168.200", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "findest du das in Ordnung? "
+   ]
+  }, 
+  {
+   "begin": "168.200", 
+   "children": [], 
+   "end": "171.640", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Du m\u00fcsstest das eigentlich in Ordnung finden; "
+   ]
+  }, 
+  {
+   "begin": "171.640", 
+   "children": [], 
+   "end": "175.680", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "denn dieser Satz steht in der bayerischen Verfassung."
+   ]
+  }, 
+  {
+   "begin": "175.680", 
+   "children": [], 
+   "end": "179.720", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir alle in Bayern lebten, "
+   ]
+  }, 
+  {
+   "begin": "179.720", 
+   "children": [], 
+   "end": "184.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssten wir durch Steuern f\u00fcr einen gewissen Ausgleich sorgen."
+   ]
+  }, 
+  {
+   "begin": "184.280", 
+   "children": [], 
+   "end": "192.600", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Nach Angaben der Bundesbank befindet sich der Gro\u00dfteil des Immobilienverm\u00f6gens in den H\u00e4nden der oberen 20\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "192.600", 
+   "children": [], 
+   "end": "200.440", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "In den sieben gr\u00f6\u00dften St\u00e4dten in Deutschland sind die Preise von Wohnimmobilien von 2007 bis 2016 um etwa 65\u00a0Prozent gestiegen. "
+   ]
+  }, 
+  {
+   "begin": "200.440", 
+   "children": [], 
+   "end": "201.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die Mietpreise folgen. "
+   ]
+  }, 
+  {
+   "begin": "201.880", 
+   "children": [], 
+   "end": "204.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Hier findet eine krasse Umverteilung statt, "
+   ]
+  }, 
+  {
+   "begin": "204.680", 
+   "children": [], 
+   "end": "207.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "aber von unten nach oben."
+   ]
+  }, 
+  {
+   "begin": "207.280", 
+   "children": [], 
+   "end": "210.680", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen bei der Verm\u00f6gensverteilung etwas tun. "
+   ]
+  }, 
+  {
+   "begin": "210.680", 
+   "children": [], 
+   "end": "213.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Der DGB stellt in seinem Verteilungsbericht fest\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "213.720", 
+   "children": [], 
+   "end": "214.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "214.480", 
+   "children": [], 
+   "end": "227.640", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "\u201eIn keinem gr\u00f6\u00dferen Industriestaat der OECD werden Verm\u00f6gen so stark geschont wie in Deutschland.\u201c Tats\u00e4chlich kommen in Deutschland nur 2,6\u00a0Prozent des Gesamtsteueraufkommens aus verm\u00f6gensbezogenen Steuern. "
+   ]
+  }, 
+  {
+   "begin": "227.640", 
+   "children": [], 
+   "end": "233.920", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "In den USA sind es 10,8\u00a0Prozent und in Frankreich 8,5\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "233.920", 
+   "children": [], 
+   "end": "236.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir h\u00e4tten hier also durchaus Spielraum."
+   ]
+  }, 
+  {
+   "begin": "236.800", 
+   "children": [], 
+   "end": "239.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Die Verteilung ist nicht nur ungerecht, "
+   ]
+  }, 
+  {
+   "begin": "239.560", 
+   "children": [], 
+   "end": "244.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "sondern behindert auch das Wirtschaftswachstum."
+   ]
+  }, 
+  {
+   "begin": "244.280", 
+   "children": [], 
+   "end": "248.280", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb schlagen wir Ihnen die l\u00e4ngst \u00fcberf\u00e4llige Einf\u00fchrung der Verm\u00f6gensteuer vor. "
+   ]
+  }, 
+  {
+   "begin": "248.280", 
+   "children": [], 
+   "end": "250.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Diese soll tats\u00e4chlich nur die Menschen betreffen, "
+   ]
+  }, 
+  {
+   "begin": "250.760", 
+   "children": [], 
+   "end": "254.680", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die ein Verm\u00f6gen von mehr als 1 Million Euro haben. "
+   ]
+  }, 
+  {
+   "begin": "254.680", 
+   "children": [], 
+   "end": "261.400", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Besteuert werden soll nur das oberhalb des Freibetrags von 1\u00a0Million Euro liegende Nettoverm\u00f6gen, "
+   ]
+  }, 
+  {
+   "begin": "261.400", 
+   "children": [], 
+   "end": "263.920", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "und zwar mit einem Steuersatz von 5\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "263.920", 
+   "children": [], 
+   "end": "265.160", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie das machen w\u00fcrden, "
+   ]
+  }, 
+  {
+   "begin": "265.160", 
+   "children": [], 
+   "end": "267.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4tten wir tats\u00e4chlich die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "267.600", 
+   "children": [], 
+   "end": "272.320", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "wieder eine einigerma\u00dfen vern\u00fcnftige Verm\u00f6gensverteilung hinzubekommen. "
+   ]
+  }, 
+  {
+   "begin": "272.320", 
+   "children": [], 
+   "end": "273.720", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnten dann wieder ruhig schlafen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "273.720", 
+   "children": [], 
+   "end": "274.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "auch der Max\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "274.560", 
+   "children": [], 
+   "end": "277.160", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "weil wir uns entsprechend der bayerischen Verfassung verhielten."
+   ]
+  }, 
+  {
+   "begin": "277.160", 
+   "children": [], 
+   "end": "284.560", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke f\u00fcrs Zuh\u00f6ren."
+   ]
+  }, 
+  {
+   "begin": "284.560", 
+   "children": [], 
+   "end": "291.000", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Abgeordnete Christian Freiherr von Stetten f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

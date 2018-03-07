@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.800", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "children": [], 
+   "end": "8.280", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "children": [], 
+   "end": "10.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Obwohl wir heute eine Aktuelle Stunde haben, "
+   ]
+  }, 
+  {
+   "begin": "10.960", 
+   "children": [], 
+   "end": "13.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "will ich die Gelegenheit nutzen, "
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "children": [], 
+   "end": "16.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "auf die Ereignisse in der Vergangenheit aufmerksam zu machen. "
+   ]
+  }, 
+  {
+   "begin": "16.000", 
+   "children": [], 
+   "end": "23.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Heute vor zehn Jahren war die sogenannte Finanzkrise in vollem Gange."
+   ]
+  }, 
+  {
+   "begin": "23.480", 
+   "children": [], 
+   "end": "27.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Monate zuvor ist die Subprime-Blase in den USA geplatzt, "
+   ]
+  }, 
+  {
+   "begin": "27.240", 
+   "children": [], 
+   "end": "30.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "in den folgenden Monaten sind Banken wie Bear Stearns, "
+   ]
+  }, 
+  {
+   "begin": "30.560", 
+   "children": [], 
+   "end": "31.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Lehman Brothers, "
+   ]
+  }, 
+  {
+   "begin": "31.800", 
+   "children": [], 
+   "end": "37.320", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Banken in Europa und auch die eine oder andere deutsche Landesbank ins Schleudern geraten."
+   ]
+  }, 
+  {
+   "begin": "37.320", 
+   "children": [], 
+   "end": "41.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Mit sehr viel \u00f6ffentlichem Geld hat man diesen Sektor stabilisiert, "
+   ]
+  }, 
+  {
+   "begin": "41.240", 
+   "children": [], 
+   "end": "45.080", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "damit wir Schlimmeres verhindern. "
+   ]
+  }, 
+  {
+   "begin": "45.080", 
+   "children": [], 
+   "end": "45.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das war auch n\u00f6tig, "
+   ]
+  }, 
+  {
+   "begin": "45.840", 
+   "children": [], 
+   "end": "49.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "denn irgendwann ging es auch um den Euro als Ganzes. "
+   ]
+  }, 
+  {
+   "begin": "49.520", 
+   "children": [], 
+   "end": "52.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Bankenunion ist eines der Instrumente, "
+   ]
+  }, 
+  {
+   "begin": "52.640", 
+   "children": [], 
+   "end": "53.360", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die wir in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "53.360", 
+   "children": [], 
+   "end": "54.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "in der Euro-Zone, "
+   ]
+  }, 
+  {
+   "begin": "54.200", 
+   "children": [], 
+   "end": "55.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "gegr\u00fcndet haben, "
+   ]
+  }, 
+  {
+   "begin": "55.120", 
+   "children": [], 
+   "end": "61.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "damit uns so etwas nie wieder passiert oder zumindest die Wahrscheinlichkeit drastisch reduziert wird."
+   ]
+  }, 
+  {
+   "begin": "61.360", 
+   "children": [], 
+   "end": "63.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Die ersten beiden S\u00e4ulen der Bankenunion\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "63.640", 
+   "children": [], 
+   "end": "67.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die einheitliche Bankenaufsicht und die einheitliche Bankenabwicklung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "67.520", 
+   "children": [], 
+   "end": "68.240", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "sind gegr\u00fcndet. "
+   ]
+  }, 
+  {
+   "begin": "68.240", 
+   "children": [], 
+   "end": "69.000", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Nun gilt es, "
+   ]
+  }, 
+  {
+   "begin": "69.000", 
+   "children": [], 
+   "end": "69.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "die dritte S\u00e4ule, "
+   ]
+  }, 
+  {
+   "begin": "69.680", 
+   "children": [], 
+   "end": "71.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die Einlagensicherung, "
+   ]
+  }, 
+  {
+   "begin": "71.280", 
+   "children": [], 
+   "end": "72.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "voranzubringen. "
+   ]
+  }, 
+  {
+   "begin": "72.520", 
+   "children": [], 
+   "end": "76.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die europ\u00e4ische Einlagensicherung ist eine, "
+   ]
+  }, 
+  {
+   "begin": "76.800", 
+   "children": [], 
+   "end": "77.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht die einzige Ma\u00dfnahme, "
+   ]
+  }, 
+  {
+   "begin": "77.960", 
+   "children": [], 
+   "end": "78.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die ergriffen werden muss, "
+   ]
+  }, 
+  {
+   "begin": "78.760", 
+   "children": [], 
+   "end": "84.160", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "um den Euro auch in schwierigen makro\u00f6konomischen Lagen stabilisieren zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "84.160", 
+   "children": [], 
+   "end": "87.520", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die EU-Kommission hat im November\u00a02015\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "87.520", 
+   "children": [], 
+   "end": "89.160", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "es ist angesprochen worden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "89.160", 
+   "children": [], 
+   "end": "94.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "einen Verordnungsvorschlag zur Errichtung einer europ\u00e4ischen Einlagensicherung vorgelegt. "
+   ]
+  }, 
+  {
+   "begin": "94.160", 
+   "children": [], 
+   "end": "99.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "In dieser war eine vollst\u00e4ndige Vergemeinschaftung der Einlagensicherung ab 2024 vorgesehen. "
+   ]
+  }, 
+  {
+   "begin": "99.400", 
+   "children": [], 
+   "end": "106.960", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Aus guten und berechtigten Gr\u00fcnden haben wir seinerzeit einen solchen Vorsto\u00df in einem gemeinsamen Entschlie\u00dfungsantrag mit der Union abgelehnt; "
+   ]
+  }, 
+  {
+   "begin": "106.960", 
+   "children": [], 
+   "end": "110.280", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "der Vorschlag der Kommission war viel zu weitgehend."
+   ]
+  }, 
+  {
+   "begin": "110.280", 
+   "children": [], 
+   "end": "116.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Zwischenzeitlich wurde ein Kompromissvorschlag von der zust\u00e4ndigen Berichterstatterin des Europ\u00e4ischen Parlaments vorgelegt. "
+   ]
+  }, 
+  {
+   "begin": "116.120", 
+   "children": [], 
+   "end": "121.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Vorschlag k\u00f6nnte einen Kompromissweg aufzeigen, "
+   ]
+  }, 
+  {
+   "begin": "121.600", 
+   "children": [], 
+   "end": "126.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "der den Interessen aller Mitgliedstaaten der Euro-Zone gerecht werden k\u00f6nnte."
+   ]
+  }, 
+  {
+   "begin": "126.400", 
+   "children": [], 
+   "end": "127.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "127.520", 
+   "children": [], 
+   "end": "132.040", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "eine europ\u00e4ische Einlagensicherung kann nur dann funktionieren, "
+   ]
+  }, 
+  {
+   "begin": "132.040", 
+   "children": [], 
+   "end": "134.160", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie auf grundsoliden F\u00fc\u00dfen steht. "
+   ]
+  }, 
+  {
+   "begin": "134.160", 
+   "children": [], 
+   "end": "135.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das setzt voraus\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "135.680", 
+   "children": [], 
+   "end": "137.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "das ist heute schon genannt worden\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "137.880", 
+   "children": [], 
+   "end": "140.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass die Altlasten aus faulen Krediten, "
+   ]
+  }, 
+  {
+   "begin": "140.080", 
+   "children": [], 
+   "end": "142.240", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "also die Non-performing Loans, "
+   ]
+  }, 
+  {
+   "begin": "142.240", 
+   "children": [], 
+   "end": "145.160", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "vorher signifikant und konsequent abgebaut werden m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "145.160", 
+   "children": [], 
+   "end": "150.280", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Noch immer gibt es davon viel zu viele in den Bilanzen diverser Banken der Euro-Zone. "
+   ]
+  }, 
+  {
+   "begin": "150.280", 
+   "children": [], 
+   "end": "154.880", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Ebenso m\u00fcssen Kredite an Staaten mit Eigenkapital unterlegt werden. "
+   ]
+  }, 
+  {
+   "begin": "154.880", 
+   "children": [], 
+   "end": "161.000", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Bei der Risikobemessung muss das jeweilige l\u00e4nderspezifische Risiko ber\u00fccksichtigt werden."
+   ]
+  }, 
+  {
+   "begin": "161.000", 
+   "children": [], 
+   "end": "166.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Letztlich muss man auch die besondere Rolle der Sparkassen, "
+   ]
+  }, 
+  {
+   "begin": "166.080", 
+   "children": [], 
+   "end": "167.520", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "der Genossenschaftsbanken, "
+   ]
+  }, 
+  {
+   "begin": "167.520", 
+   "children": [], 
+   "end": "168.440", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "der F\u00f6rderbanken, "
+   ]
+  }, 
+  {
+   "begin": "168.440", 
+   "children": [], 
+   "end": "171.040", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "der kleinen und mittleren Privatbanken ber\u00fccksichtigen. "
+   ]
+  }, 
+  {
+   "begin": "171.040", 
+   "children": [], 
+   "end": "177.080", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Schlie\u00dflich waren sie bei der Finanzkrise ab 2008 eine wichtige St\u00fctze f\u00fcr die Finanzstabilit\u00e4t in unserem Land. "
+   ]
+  }, 
+  {
+   "begin": "177.080", 
+   "children": [], 
+   "end": "180.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Sie d\u00fcrfen nicht \u00fcber Geb\u00fchr belastet werden. "
+   ]
+  }, 
+  {
+   "begin": "180.080", 
+   "children": [], 
+   "end": "183.960", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Darauf werden wir besonders achten."
+   ]
+  }, 
+  {
+   "begin": "183.960", 
+   "children": [], 
+   "end": "187.720", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ferner sind aus unserer Sicht weitere Ma\u00dfnahmen erforderlich, "
+   ]
+  }, 
+  {
+   "begin": "187.720", 
+   "children": [], 
+   "end": "191.480", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "um das Bankensystem in Deutschland und der Euro-Zone insgesamt zu stabilisieren. "
+   ]
+  }, 
+  {
+   "begin": "191.480", 
+   "children": [], 
+   "end": "192.600", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wir schlagen vor:"
+   ]
+  }, 
+  {
+   "begin": "192.600", 
+   "children": [], 
+   "end": "194.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Erstens: "
+   ]
+  }, 
+  {
+   "begin": "194.080", 
+   "children": [], 
+   "end": "196.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "die Einf\u00fchrung eines Trennbankensystems. "
+   ]
+  }, 
+  {
+   "begin": "196.400", 
+   "children": [], 
+   "end": "197.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "197.480", 
+   "children": [], 
+   "end": "198.160", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass Gesch\u00e4ftsbanken, "
+   ]
+  }, 
+  {
+   "begin": "198.160", 
+   "children": [], 
+   "end": "199.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "die Kundeneinlagen verwalten, "
+   ]
+  }, 
+  {
+   "begin": "199.960", 
+   "children": [], 
+   "end": "202.560", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "eben nicht im Investmentgesch\u00e4ft t\u00e4tig sein d\u00fcrfen."
+   ]
+  }, 
+  {
+   "begin": "202.560", 
+   "children": [], 
+   "end": "204.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens: "
+   ]
+  }, 
+  {
+   "begin": "204.080", 
+   "children": [], 
+   "end": "208.440", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die Einf\u00fchrung einer klaren und angemessenen Verschuldungsquote f\u00fcr Banken."
+   ]
+  }, 
+  {
+   "begin": "208.440", 
+   "children": [], 
+   "end": "209.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Drittens: "
+   ]
+  }, 
+  {
+   "begin": "209.600", 
+   "children": [], 
+   "end": "214.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Bei einer Schieflage einer Bank m\u00fcssen vorrangig die Anteilseigner und deren verm\u00f6gende Gl\u00e4ubiger haften. "
+   ]
+  }, 
+  {
+   "begin": "214.520", 
+   "children": [], 
+   "end": "218.440", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Das Bail-in-Prinzip muss konsequent angewendet werden."
+   ]
+  }, 
+  {
+   "begin": "218.440", 
+   "children": [], 
+   "end": "219.280", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Viertens: "
+   ]
+  }, 
+  {
+   "begin": "219.280", 
+   "children": [], 
+   "end": "221.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Der Eigenhandel von Banken muss eingeschr\u00e4nkt werden."
+   ]
+  }, 
+  {
+   "begin": "221.680", 
+   "children": [], 
+   "end": "222.360", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcnftens: "
+   ]
+  }, 
+  {
+   "begin": "222.360", 
+   "children": [], 
+   "end": "226.400", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Transparenz bei den Gesch\u00e4ftsbeziehungen zwischen Banken und Schattenbanken, "
+   ]
+  }, 
+  {
+   "begin": "226.400", 
+   "children": [], 
+   "end": "229.000", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die nicht der dichten Regulierung unterliegen wie Banken."
+   ]
+  }, 
+  {
+   "begin": "229.000", 
+   "children": [], 
+   "end": "230.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "230.360", 
+   "children": [], 
+   "end": "231.800", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "eine gemeinsame Einlagensicherung, "
+   ]
+  }, 
+  {
+   "begin": "231.800", 
+   "children": [], 
+   "end": "233.080", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "solide organisiert, "
+   ]
+  }, 
+  {
+   "begin": "233.080", 
+   "children": [], 
+   "end": "235.720", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "wird Banken und den Euro stabilisieren. "
+   ]
+  }, 
+  {
+   "begin": "235.720", 
+   "children": [], 
+   "end": "238.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Damit wird die Euro-Zone besser vor asymmetrischen Schocks, "
+   ]
+  }, 
+  {
+   "begin": "238.840", 
+   "children": [], 
+   "end": "240.160", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wie wir sie in der Finanz- "
+   ]
+  }, 
+  {
+   "begin": "240.160", 
+   "children": [], 
+   "end": "242.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "und Euro-Krise ab 2008 erlebt haben, "
+   ]
+  }, 
+  {
+   "begin": "242.360", 
+   "children": [], 
+   "end": "243.080", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "gesch\u00fctzt. "
+   ]
+  }, 
+  {
+   "begin": "243.080", 
+   "children": [], 
+   "end": "250.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Das ist gut f\u00fcr den europ\u00e4ischen wie f\u00fcr den deutschen Sparer und Steuerzahler gleicherma\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "250.080", 
+   "children": [], 
+   "end": "256.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Zu einem friedlichen Europa geh\u00f6rt auch ein wirtschaftlich stabiles Europa. "
+   ]
+  }, 
+  {
+   "begin": "256.240", 
+   "children": [], 
+   "end": "259.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Viele vergessen das nach \u00fcber 70\u00a0Jahren Kriegsende. "
+   ]
+  }, 
+  {
+   "begin": "259.760", 
+   "children": [], 
+   "end": "263.080", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Die Vollendung der Bankenunion wird Deutschland und Europa stabiler machen."
+   ]
+  }, 
+  {
+   "begin": "263.080", 
+   "children": [], 
+   "end": "263.880", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "263.880", 
+   "children": [], 
+   "end": "264.800", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "264.800", 
+   "children": [], 
+   "end": "269.440", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Hakverdi.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "269.440", 
+   "children": [], 
+   "end": "272.200", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes der Abgeordnete Stefan Keuter, "
+   ]
+  }, 
+  {
+   "begin": "272.200", 
+   "children": [], 
+   "end": "274.000", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "AfD."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "children": [], 
+   "end": "2.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "2.680", 
+   "children": [], 
+   "end": "15.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben jetzt eine Aktuelle Stunde zur Lage im Nahen und Mittleren Osten. "
+   ]
+  }, 
+  {
+   "begin": "15.480", 
+   "children": [], 
+   "end": "22.920", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man sich heute die Tageszeitungen und andere Medien anschaut, "
+   ]
+  }, 
+  {
+   "begin": "22.920", 
+   "children": [], 
+   "end": "24.120", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dann sieht man, "
+   ]
+  }, 
+  {
+   "begin": "24.120", 
+   "children": [], 
+   "end": "25.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass das Thema wirklich aktuell ist."
+   ]
+  }, 
+  {
+   "begin": "25.600", 
+   "children": [], 
+   "end": "28.640", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Berichte begleiten uns heute durch den Tag. "
+   ]
+  }, 
+  {
+   "begin": "28.640", 
+   "children": [], 
+   "end": "37.880", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Das sind einerseits die R\u00fcckkehr von Hariri in den Libanon und andererseits die Umarmung von Assad und Putin. "
+   ]
+  }, 
+  {
+   "begin": "37.880", 
+   "children": [], 
+   "end": "39.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "39.480", 
+   "children": [], 
+   "end": "40.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "einen aktuelleren Anlass gibt es nicht, "
+   ]
+  }, 
+  {
+   "begin": "40.480", 
+   "children": [], 
+   "end": "43.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "um sich mit dieser Thematik zu besch\u00e4ftigen. "
+   ]
+  }, 
+  {
+   "begin": "43.600", 
+   "children": [], 
+   "end": "48.960", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Auch der Deutsche Bundestag muss sich damit auseinandersetzen und sich mit den Fragen besch\u00e4ftigen, "
+   ]
+  }, 
+  {
+   "begin": "48.960", 
+   "children": [], 
+   "end": "55.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "wie die Interessen Deutschlands in der Welt am besten zu vertreten sind und was unsere gemeinsamen Ziele sind."
+   ]
+  }, 
+  {
+   "begin": "55.640", 
+   "children": [], 
+   "end": "60.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die USA sind seit l\u00e4ngerer Zeit schon auf dem R\u00fcckzug aus dieser Region. "
+   ]
+  }, 
+  {
+   "begin": "60.680", 
+   "children": [], 
+   "end": "65.720", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Und in dieses Vakuum ist der bereits von mir genannte Putin, "
+   ]
+  }, 
+  {
+   "begin": "65.720", 
+   "children": [], 
+   "end": "66.560", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "ist Russland, "
+   ]
+  }, 
+  {
+   "begin": "66.560", 
+   "children": [], 
+   "end": "70.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "zu dem ja manche Gruppierungen auch in diesem Hause durchaus Kontakt suchen, "
+   ]
+  }, 
+  {
+   "begin": "70.840", 
+   "children": [], 
+   "end": "71.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "gesto\u00dfen: "
+   ]
+  }, 
+  {
+   "begin": "71.840", 
+   "children": [], 
+   "end": "72.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "in den Iran, "
+   ]
+  }, 
+  {
+   "begin": "72.920", 
+   "children": [], 
+   "end": "74.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "nach Syrien, "
+   ]
+  }, 
+  {
+   "begin": "74.520", 
+   "children": [], 
+   "end": "75.840", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "nach \u00c4gypten und in den Libanon. "
+   ]
+  }, 
+  {
+   "begin": "75.840", 
+   "children": [], 
+   "end": "78.000", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Putin hat seine Einflusssph\u00e4re dorthin ausgedehnt. "
+   ]
+  }, 
+  {
+   "begin": "78.000", 
+   "children": [], 
+   "end": "80.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht ist ja das die Alternative f\u00fcr Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "80.400", 
+   "children": [], 
+   "end": "83.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass Russland dort n\u00e4mlich mehr Einfluss bekommt."
+   ]
+  }, 
+  {
+   "begin": "83.800", 
+   "children": [], 
+   "end": "90.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die Regionalm\u00e4chte sind in den letzten Jahren unkalkulierbarer geworden. "
+   ]
+  }, 
+  {
+   "begin": "90.680", 
+   "children": [], 
+   "end": "93.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Sie ziehen sich zur\u00fcck von den Leuten, "
+   ]
+  }, 
+  {
+   "begin": "93.440", 
+   "children": [], 
+   "end": "97.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "mit denen sie bisher in Kontakt waren. "
+   ]
+  }, 
+  {
+   "begin": "97.760", 
+   "children": [], 
+   "end": "103.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Sie instrumentalisieren bestimmte Gruppierungen in den betreffenden L\u00e4ndern f\u00fcr ihre Interessen. "
+   ]
+  }, 
+  {
+   "begin": "103.200", 
+   "children": [], 
+   "end": "106.200", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben es im Jemen erlebt, "
+   ]
+  }, 
+  {
+   "begin": "106.200", 
+   "children": [], 
+   "end": "108.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und der Libanon, "
+   ]
+  }, 
+  {
+   "begin": "108.600", 
+   "children": [], 
+   "end": "110.360", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "der bereits erw\u00e4hnt wurde, "
+   ]
+  }, 
+  {
+   "begin": "110.360", 
+   "children": [], 
+   "end": "111.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "ist daf\u00fcr ein aktuelles Beispiel."
+   ]
+  }, 
+  {
+   "begin": "111.760", 
+   "children": [], 
+   "end": "113.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Der Libanon war bisher ein Staat, "
+   ]
+  }, 
+  {
+   "begin": "113.600", 
+   "children": [], 
+   "end": "116.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "der sich im Hinblick auf den Konflikt in Syrien einigerma\u00dfen neutral verhalten hat. "
+   ]
+  }, 
+  {
+   "begin": "116.680", 
+   "children": [], 
+   "end": "117.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Er hat es geschafft, "
+   ]
+  }, 
+  {
+   "begin": "117.600", 
+   "children": [], 
+   "end": "120.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "zwischen den verschiedenen Konfessionen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "120.200", 
+   "children": [], 
+   "end": "121.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "also Sunniten, "
+   ]
+  }, 
+  {
+   "begin": "121.760", 
+   "children": [], 
+   "end": "122.360", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Schiiten und Christen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "122.360", 
+   "children": [], 
+   "end": "125.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "ein ausgewogenes System herzustellen. "
+   ]
+  }, 
+  {
+   "begin": "125.560", 
+   "children": [], 
+   "end": "128.960", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Aber der Libanon wird zurzeit f\u00fcr Machtspiele instrumentalisiert. "
+   ]
+  }, 
+  {
+   "begin": "128.960", 
+   "children": [], 
+   "end": "131.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wenn dieses Land kippt, "
+   ]
+  }, 
+  {
+   "begin": "131.640", 
+   "children": [], 
+   "end": "133.560", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wenn dieses Gleichgewicht nicht mehr besteht, "
+   ]
+  }, 
+  {
+   "begin": "133.560", 
+   "children": [], 
+   "end": "138.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dann entsteht dort ein neues und zus\u00e4tzliches Pulverfass. "
+   ]
+  }, 
+  {
+   "begin": "138.920", 
+   "children": [], 
+   "end": "142.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Davon k\u00f6nnen wir uns in Deutschland und in Europa nicht distanzieren, "
+   ]
+  }, 
+  {
+   "begin": "142.720", 
+   "children": [], 
+   "end": "143.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "indem wir sagen: "
+   ]
+  }, 
+  {
+   "begin": "143.560", 
+   "children": [], 
+   "end": "144.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das geht uns nichts an.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "144.640", 
+   "children": [], 
+   "end": "149.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich werden wir die Auswirkungen dieses Konfliktes auch hier sp\u00fcren."
+   ]
+  }, 
+  {
+   "begin": "149.440", 
+   "children": [], 
+   "end": "151.320", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Darum ist es dringend notwendig, "
+   ]
+  }, 
+  {
+   "begin": "151.320", 
+   "children": [], 
+   "end": "153.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns einbringen. "
+   ]
+  }, 
+  {
+   "begin": "153.960", 
+   "children": [], 
+   "end": "154.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Zu suggerieren, "
+   ]
+  }, 
+  {
+   "begin": "154.800", 
+   "children": [], 
+   "end": "157.400", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wie es in einem der Redebeitr\u00e4ge der Fall war, "
+   ]
+  }, 
+  {
+   "begin": "157.400", 
+   "children": [], 
+   "end": "162.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in der Welt nichts richten k\u00f6nnten und dass uns das, "
+   ]
+  }, 
+  {
+   "begin": "162.200", 
+   "children": [], 
+   "end": "165.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "was in der Welt passiert, "
+   ]
+  }, 
+  {
+   "begin": "165.760", 
+   "children": [], 
+   "end": "171.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "nicht tangiert nach dem Motto \u201eWenn es in der Nachbarschaft von Europa brennt, "
+   ]
+  }, 
+  {
+   "begin": "171.720", 
+   "children": [], 
+   "end": "173.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "werden wir das schon hinkriegen; "
+   ]
+  }, 
+  {
+   "begin": "173.400", 
+   "children": [], 
+   "end": "174.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "es wird sich auf uns nicht auswirken\u201c, "
+   ]
+  }, 
+  {
+   "begin": "174.760", 
+   "children": [], 
+   "end": "175.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "ist falsch. "
+   ]
+  }, 
+  {
+   "begin": "175.080", 
+   "children": [], 
+   "end": "177.160", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Ansatz, "
+   ]
+  }, 
+  {
+   "begin": "177.160", 
+   "children": [], 
+   "end": "181.440", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "der den Interessen Deutschlands in der Welt und in Europa nicht gerecht wird."
+   ]
+  }, 
+  {
+   "begin": "181.440", 
+   "children": [], 
+   "end": "188.440", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Darum ist es dringend notwendig, "
+   ]
+  }, 
+  {
+   "begin": "188.440", 
+   "children": [], 
+   "end": "193.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "im Libanon schnellstm\u00f6glich f\u00fcr Stabilit\u00e4t zu sorgen, "
+   ]
+  }, 
+  {
+   "begin": "193.080", 
+   "children": [], 
+   "end": "194.320", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "damit dieses Land nicht kippt. "
+   ]
+  }, 
+  {
+   "begin": "194.320", 
+   "children": [], 
+   "end": "197.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Man muss alle diplomatischen M\u00f6glichkeiten ausnutzen. "
+   ]
+  }, 
+  {
+   "begin": "197.520", 
+   "children": [], 
+   "end": "201.040", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Es wurden schon der Iran und Saudi-Arabien genannt. "
+   ]
+  }, 
+  {
+   "begin": "201.040", 
+   "children": [], 
+   "end": "203.720", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Da m\u00f6chte ich dem ersten Redner in dieser Debatte, "
+   ]
+  }, 
+  {
+   "begin": "203.720", 
+   "children": [], 
+   "end": "205.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Norbert R\u00f6ttgen, "
+   ]
+  }, 
+  {
+   "begin": "205.600", 
+   "children": [], 
+   "end": "206.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "ausdr\u00fccklich zustimmen, "
+   ]
+  }, 
+  {
+   "begin": "206.480", 
+   "children": [], 
+   "end": "211.080", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass wir mit allen im kritischen Dialog bleiben sollten. "
+   ]
+  }, 
+  {
+   "begin": "211.080", 
+   "children": [], 
+   "end": "216.520", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Aufgrund der einen oder anderen Formulierung in den verschiedenen Abkommen kann der Eindruck aufkommen, "
+   ]
+  }, 
+  {
+   "begin": "216.520", 
+   "children": [], 
+   "end": "217.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "217.000", 
+   "children": [], 
+   "end": "218.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "ich spitze es einmal zu\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "218.800", 
+   "children": [], 
+   "end": "222.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die eine Seite die \u201ebad guys\u201c und die andere Seite die \u201egood guys\u201c sind. "
+   ]
+  }, 
+  {
+   "begin": "222.160", 
+   "children": [], 
+   "end": "222.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "222.760", 
+   "children": [], 
+   "end": "223.120", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "so ist es nicht. "
+   ]
+  }, 
+  {
+   "begin": "223.120", 
+   "children": [], 
+   "end": "224.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Diese beiden Gruppierungen im Nahen Osten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "224.760", 
+   "children": [], 
+   "end": "226.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die T\u00fcrkei wurde noch gar nicht geredet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "226.600", 
+   "children": [], 
+   "end": "230.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "tragen eine gro\u00dfe Verantwortung f\u00fcr das Chaos, "
+   ]
+  }, 
+  {
+   "begin": "230.960", 
+   "children": [], 
+   "end": "233.360", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "das dort entstanden ist."
+   ]
+  }, 
+  {
+   "begin": "233.360", 
+   "children": [], 
+   "end": "237.800", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen schauen, "
+   ]
+  }, 
+  {
+   "begin": "237.800", 
+   "children": [], 
+   "end": "241.560", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in dieser Region B\u00fcndnispartner finden. "
+   ]
+  }, 
+  {
+   "begin": "241.560", 
+   "children": [], 
+   "end": "245.320", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Historisch gesehen kann ein Staat wie \u00c4gypten ein B\u00fcndnispartner sein. "
+   ]
+  }, 
+  {
+   "begin": "245.320", 
+   "children": [], 
+   "end": "246.720", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Land kann uns helfen, "
+   ]
+  }, 
+  {
+   "begin": "246.720", 
+   "children": [], 
+   "end": "250.120", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "zwischen den verschiedenen Gruppierungen zu vermitteln. "
+   ]
+  }, 
+  {
+   "begin": "250.120", 
+   "children": [], 
+   "end": "256.120", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Die Initiative von Macron und von Deutschland sollte dazu f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "256.120", 
+   "children": [], 
+   "end": "265.800", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "dass wir Europ\u00e4er in dieser Region mit einer Stimme sprechen und unsere Interessen gemeinsam vertreten."
+   ]
+  }, 
+  {
+   "begin": "265.800", 
+   "children": [], 
+   "end": "267.800", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Das ist mein letzter Appell: "
+   ]
+  }, 
+  {
+   "begin": "267.800", 
+   "children": [], 
+   "end": "272.120", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "In der Diskussion um diese Region nur zu sagen: "
+   ]
+  }, 
+  {
+   "begin": "272.120", 
+   "children": [], 
+   "end": "273.520", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDa ist etwas schiefgelaufen. "
+   ]
+  }, 
+  {
+   "begin": "273.520", 
+   "children": [], 
+   "end": "275.280", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen es nicht beeinflussen. "
+   ]
+  }, 
+  {
+   "begin": "275.280", 
+   "children": [], 
+   "end": "277.760", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Die Welt wird es dann schon von selber richten\u201c, "
+   ]
+  }, 
+  {
+   "begin": "277.760", 
+   "children": [], 
+   "end": "279.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "das ist das Fatale. "
+   ]
+  }, 
+  {
+   "begin": "279.000", 
+   "children": [], 
+   "end": "281.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen diese Region mit ihren Menschen, "
+   ]
+  }, 
+  {
+   "begin": "281.360", 
+   "children": [], 
+   "end": "284.880", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "die dort sind und die hierherkommen, "
+   ]
+  }, 
+  {
+   "begin": "284.880", 
+   "children": [], 
+   "end": "286.080", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "verstehen, "
+   ]
+  }, 
+  {
+   "begin": "286.080", 
+   "children": [], 
+   "end": "288.960", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "um mit ihnen gemeinsam nach L\u00f6sungen zu suchen und sie zu finden."
+   ]
+  }, 
+  {
+   "begin": "288.960", 
+   "children": [], 
+   "end": "297.600", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Besten Dank f\u00fcr die Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "297.600", 
+   "children": [], 
+   "end": "299.120", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "299.120", 
+   "children": [], 
+   "end": "299.480", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes: "
+   ]
+  }, 
+  {
+   "begin": "299.480", 
+   "children": [], 
+   "end": "300.960", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Niels Annen von der SPD."
+   ]
+  }
+ ]
+}

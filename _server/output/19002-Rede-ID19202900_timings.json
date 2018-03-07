@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.160", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "children": [], 
+   "end": "6.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "children": [], 
+   "end": "12.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeswehr ist seit ihrer Gr\u00fcndung 1955 eine Parlamentsarmee. "
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "children": [], 
+   "end": "13.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine Besonderheit; "
+   ]
+  }, 
+  {
+   "begin": "13.960", 
+   "children": [], 
+   "end": "19.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "nur wenige Staaten haben ihre Streitkr\u00e4fte so organisiert. "
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "children": [], 
+   "end": "22.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Diese Institution, "
+   ]
+  }, 
+  {
+   "begin": "22.200", 
+   "children": [], 
+   "end": "23.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "so wie wir das organisiert haben, "
+   ]
+  }, 
+  {
+   "begin": "23.600", 
+   "children": [], 
+   "end": "27.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "ist f\u00fcr unsere Demokratie besonders pr\u00e4gend."
+   ]
+  }, 
+  {
+   "begin": "27.560", 
+   "children": [], 
+   "end": "34.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Die Beziehung Parlament/Bundeswehr ist in diesem Hohen Hause sichtbar und sp\u00fcrbar, "
+   ]
+  }, 
+  {
+   "begin": "34.440", 
+   "children": [], 
+   "end": "37.280", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "auch heute mit den Soldatinnen und Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "37.280", 
+   "children": [], 
+   "end": "42.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "die beispielsweise auf den Zuschauertrib\u00fcnen unserer Debatte folgen, "
+   ]
+  }, 
+  {
+   "begin": "42.880", 
+   "children": [], 
+   "end": "48.040", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Wehrbeauftragten als Hilfsorgan des Deutschen Bundestages, "
+   ]
+  }, 
+  {
+   "begin": "48.040", 
+   "children": [], 
+   "end": "52.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "der auch bei diesen Debatten regelm\u00e4\u00dfig dabei ist, "
+   ]
+  }, 
+  {
+   "begin": "52.640", 
+   "children": [], 
+   "end": "54.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "mit den Beratern der Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "54.600", 
+   "children": [], 
+   "end": "58.680", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die hinter den Regierungsb\u00e4nken im Raum sitzen, "
+   ]
+  }, 
+  {
+   "begin": "58.680", 
+   "children": [], 
+   "end": "61.560", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und nat\u00fcrlich mit den unz\u00e4hligen Kolleginnen und Kollegen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "61.560", 
+   "children": [], 
+   "end": "62.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "noch vor allem Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "62.680", 
+   "children": [], 
+   "end": "65.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "aber das wird sich vermutlich auch \u00e4ndern\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "65.160", 
+   "children": [], 
+   "end": "68.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die selbst Angeh\u00f6rige der Bundeswehr waren oder sind, "
+   ]
+  }, 
+  {
+   "begin": "68.520", 
+   "children": [], 
+   "end": "74.120", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die als Reservisten aktiv sind und die deswegen eine besondere Affinit\u00e4t dazu haben. "
+   ]
+  }, 
+  {
+   "begin": "74.120", 
+   "children": [], 
+   "end": "75.760", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch die Kollegen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "75.760", 
+   "children": [], 
+   "end": "79.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "das darf ich vielleicht aus acht Jahren Erfahrung sagen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "79.280", 
+   "children": [], 
+   "end": "82.640", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die nicht selbst Angeh\u00f6rige der Bundeswehr waren, "
+   ]
+  }, 
+  {
+   "begin": "82.640", 
+   "children": [], 
+   "end": "89.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fchlen sich unseren Soldatinnen und Soldaten in diesem Land im Besonderen und \u00fcberaus verpflichtet."
+   ]
+  }, 
+  {
+   "begin": "89.960", 
+   "children": [], 
+   "end": "92.240", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Zu sagen, "
+   ]
+  }, 
+  {
+   "begin": "92.240", 
+   "children": [], 
+   "end": "95.280", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wir w\u00fcrden die Soldaten vergessen, "
+   ]
+  }, 
+  {
+   "begin": "95.280", 
+   "children": [], 
+   "end": "99.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "ist mindestens Unwissenheit oder kleingeistig, "
+   ]
+  }, 
+  {
+   "begin": "99.440", 
+   "children": [], 
+   "end": "101.640", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Kleinw\u00e4chter. "
+   ]
+  }, 
+  {
+   "begin": "101.640", 
+   "children": [], 
+   "end": "102.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann, "
+   ]
+  }, 
+  {
+   "begin": "102.120", 
+   "children": [], 
+   "end": "102.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "glaube ich, "
+   ]
+  }, 
+  {
+   "begin": "102.680", 
+   "children": [], 
+   "end": "104.720", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr viele hier in diesem Haus sagen: "
+   ]
+  }, 
+  {
+   "begin": "104.720", 
+   "children": [], 
+   "end": "107.640", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Parlament hat es sich noch nie einfach gemacht, "
+   ]
+  }, 
+  {
+   "begin": "107.640", 
+   "children": [], 
+   "end": "110.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Soldatinnen oder Soldaten in die Eins\u00e4tze zu schicken. "
+   ]
+  }, 
+  {
+   "begin": "110.840", 
+   "children": [], 
+   "end": "113.360", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden das auch in Zukunft nicht tun."
+   ]
+  }, 
+  {
+   "begin": "113.360", 
+   "children": [], 
+   "end": "120.640", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Viele politische Parteien und Fraktionen haben dabei ihre eigene Identit\u00e4t riskiert. "
+   ]
+  }, 
+  {
+   "begin": "120.640", 
+   "children": [], 
+   "end": "122.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Es ist eine Unversch\u00e4mtheit, "
+   ]
+  }, 
+  {
+   "begin": "122.920", 
+   "children": [], 
+   "end": "125.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "deswegen zu sagen, "
+   ]
+  }, 
+  {
+   "begin": "125.760", 
+   "children": [], 
+   "end": "128.680", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wir w\u00fcrden uns das hier zu leicht machen."
+   ]
+  }, 
+  {
+   "begin": "128.680", 
+   "children": [], 
+   "end": "133.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Um der wichtigen Aufgabe als Parlament f\u00fcr die Bundeswehr gerecht zu werden, "
+   ]
+  }, 
+  {
+   "begin": "133.240", 
+   "children": [], 
+   "end": "134.080", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "ist es wichtig, "
+   ]
+  }, 
+  {
+   "begin": "134.080", 
+   "children": [], 
+   "end": "139.600", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass wir die bald auslaufenden Mandate um drei Monate verl\u00e4ngern. "
+   ]
+  }, 
+  {
+   "begin": "139.600", 
+   "children": [], 
+   "end": "143.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland sendet damit ein klares Signal, "
+   ]
+  }, 
+  {
+   "begin": "143.000", 
+   "children": [], 
+   "end": "153.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dass unabh\u00e4ngig von Wahlen und Regierungsbildungsprozessen die internationalen Engagements zuverl\u00e4ssig und stabil erf\u00fcllt werden. "
+   ]
+  }, 
+  {
+   "begin": "153.000", 
+   "children": [], 
+   "end": "158.520", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Das ist unser Auftrag und unsere Verantwortung als Parlament in diesem Augenblick. "
+   ]
+  }, 
+  {
+   "begin": "158.520", 
+   "children": [], 
+   "end": "162.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Zu dieser Verantwortung geh\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "162.040", 
+   "children": [], 
+   "end": "166.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "stabile und verl\u00e4ssliche S\u00e4ule in unseren B\u00fcndnissen zu sein."
+   ]
+  }, 
+  {
+   "begin": "166.360", 
+   "children": [], 
+   "end": "172.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Beim Treffen der NATO-Verteidigungsminister Anfang des Monats wurden die Fortsetzung des Afghanistan-Einsatzes, "
+   ]
+  }, 
+  {
+   "begin": "172.440", 
+   "children": [], 
+   "end": "182.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die Aufstockung der eingesetzten Streitkr\u00e4fte sowie die Ausweitung der Ausbildung auf die mittleren und unteren Ebenen der afghanischen Sicherheitskr\u00e4fte beschlossen. "
+   ]
+  }, 
+  {
+   "begin": "182.920", 
+   "children": [], 
+   "end": "184.440", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem ist es sehr zu begr\u00fc\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "184.440", 
+   "children": [], 
+   "end": "189.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die USA nun ebenfalls auf den \u201econdition based\u201c-Ansatz verst\u00e4ndigt haben. "
+   ]
+  }, 
+  {
+   "begin": "189.920", 
+   "children": [], 
+   "end": "200.960", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen den Afghanen die Sicherheitsverantwortung erst nach Erf\u00fcllung der strategischen Ziele und nicht anhand festgelegter starrer Zeitlinien \u00fcberlassen. "
+   ]
+  }, 
+  {
+   "begin": "200.960", 
+   "children": [], 
+   "end": "202.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Es ist eindeutig: "
+   ]
+  }, 
+  {
+   "begin": "202.960", 
+   "children": [], 
+   "end": "205.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die Aufstockung ist zwingend erforderlich, "
+   ]
+  }, 
+  {
+   "begin": "205.680", 
+   "children": [], 
+   "end": "209.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "da die Sicherheitslage am Hindukusch immer prek\u00e4rer wird. "
+   ]
+  }, 
+  {
+   "begin": "209.360", 
+   "children": [], 
+   "end": "215.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Die Taliban und andere Aufst\u00e4ndische kontrollieren bereits einige Distrikte in Afghanistan. "
+   ]
+  }, 
+  {
+   "begin": "215.120", 
+   "children": [], 
+   "end": "215.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Kunduz, "
+   ]
+  }, 
+  {
+   "begin": "215.680", 
+   "children": [], 
+   "end": "219.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "aber auch andere St\u00e4dte im Norden geraten immer wieder unter Druck. "
+   ]
+  }, 
+  {
+   "begin": "219.400", 
+   "children": [], 
+   "end": "220.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Dazu kommt, "
+   ]
+  }, 
+  {
+   "begin": "220.080", 
+   "children": [], 
+   "end": "231.160", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass sich der \u201eIslamische Staat\u201c ebenfalls ausbreiten konnte oder zumindest zu einer Bedrohung f\u00fcr die schiitischen Minderheiten im Land geworden ist."
+   ]
+  }, 
+  {
+   "begin": "231.160", 
+   "children": [], 
+   "end": "235.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Die Sicherheitsvorkehrungen f\u00fcr die Eins\u00e4tze von Beratern haben sich ebenfalls derart versch\u00e4rft, "
+   ]
+  }, 
+  {
+   "begin": "235.920", 
+   "children": [], 
+   "end": "241.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass l\u00e4ngst nicht mehr alle Beratungseins\u00e4tze durchgef\u00fchrt werden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "241.080", 
+   "children": [], 
+   "end": "243.760", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wie wir die Aufstockung im Rahmen der NATO genau aufteilen, "
+   ]
+  }, 
+  {
+   "begin": "243.760", 
+   "children": [], 
+   "end": "244.800", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "ist noch nicht klar. "
+   ]
+  }, 
+  {
+   "begin": "244.800", 
+   "children": [], 
+   "end": "247.000", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Was jedoch klar sein d\u00fcrfte: "
+   ]
+  }, 
+  {
+   "begin": "247.000", 
+   "children": [], 
+   "end": "252.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland darf sich als zweitgr\u00f6\u00dfter Truppensteller und als Rahmennation, "
+   ]
+  }, 
+  {
+   "begin": "252.080", 
+   "children": [], 
+   "end": "256.360", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "als Partner von 18 weiteren Partnern nicht wegducken. "
+   ]
+  }, 
+  {
+   "begin": "256.360", 
+   "children": [], 
+   "end": "259.400", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es keine leere Parole bleiben soll, "
+   ]
+  }, 
+  {
+   "begin": "259.400", 
+   "children": [], 
+   "end": "265.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland gemeinsam mit Europa mehr Verantwortung in der Welt \u00fcbernimmt, "
+   ]
+  }, 
+  {
+   "begin": "265.120", 
+   "children": [], 
+   "end": "271.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "muss das gerade auch f\u00fcr Afghanistan gelten."
+   ]
+  }, 
+  {
+   "begin": "271.000", 
+   "children": [], 
+   "end": "275.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem ist es f\u00fcr die Sicherheit unserer Bundeswehr ebenfalls wichtig, "
+   ]
+  }, 
+  {
+   "begin": "275.080", 
+   "children": [], 
+   "end": "275.880", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass wir aufstocken. "
+   ]
+  }, 
+  {
+   "begin": "275.880", 
+   "children": [], 
+   "end": "278.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Gerade in Kunduz ist es sehr fraglich, "
+   ]
+  }, 
+  {
+   "begin": "278.520", 
+   "children": [], 
+   "end": "287.360", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "ob wir mit 50\u00a0Soldatinnen und Soldaten gleichzeitig die Schutzkomponente und den Ausbildungsauftrag aufrechterhalten k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "287.360", 
+   "children": [], 
+   "end": "289.920", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "289.920", 
+   "children": [], 
+   "end": "292.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wir haben in Afghanistan f\u00fcr die Menschen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "292.000", 
+   "children": [], 
+   "end": "294.160", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die Ministerin hat das vorhin ausgef\u00fchrt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "294.160", 
+   "children": [], 
+   "end": "295.680", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "viel erreicht. "
+   ]
+  }, 
+  {
+   "begin": "295.680", 
+   "children": [], 
+   "end": "298.400", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Afghanistan ist noch nicht so weit, "
+   ]
+  }, 
+  {
+   "begin": "298.400", 
+   "children": [], 
+   "end": "299.920", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "um es allein zu lassen. "
+   ]
+  }, 
+  {
+   "begin": "299.920", 
+   "children": [], 
+   "end": "302.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen dieser Verantwortung gerecht werden. "
+   ]
+  }, 
+  {
+   "begin": "302.000", 
+   "children": [], 
+   "end": "306.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne hoffe ich auf die Beratungen in den n\u00e4chsten Wochen."
+   ]
+  }, 
+  {
+   "begin": "306.520", 
+   "children": [], 
+   "end": "309.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }
+ ]
+}

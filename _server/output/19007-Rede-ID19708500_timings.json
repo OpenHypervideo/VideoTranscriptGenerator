@@ -1,0 +1,534 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "children": [], 
+   "end": "3.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "3.880", 
+   "children": [], 
+   "end": "16.280", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Im letzten Jahr hat das ZDF eine Sendung gebracht, "
+   ]
+  }, 
+  {
+   "begin": "16.280", 
+   "children": [], 
+   "end": "19.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "die mich total schockiert hat, "
+   ]
+  }, 
+  {
+   "begin": "19.680", 
+   "children": [], 
+   "end": "39.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "und zwar \u00fcber den Lebendtiertransport durch die L\u00e4nder Europas auf dem Weg in die T\u00fcrkei und nach \u00c4gypten. "
+   ]
+  }, 
+  {
+   "begin": "39.480", 
+   "children": [], 
+   "end": "41.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Dass das Thema schon so alt ist, "
+   ]
+  }, 
+  {
+   "begin": "41.600", 
+   "children": [], 
+   "end": "43.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "habe ich nicht gewusst. "
+   ]
+  }, 
+  {
+   "begin": "43.120", 
+   "children": [], 
+   "end": "46.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Aber diese Reportagen gibt es schon seit 1990. "
+   ]
+  }, 
+  {
+   "begin": "46.680", 
+   "children": [], 
+   "end": "53.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Damals wurden speziell die au\u00dfereurop\u00e4ischen Tiertransporte in den Blick genommen."
+   ]
+  }, 
+  {
+   "begin": "53.520", 
+   "children": [], 
+   "end": "61.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Dabei ist sp\u00e4testens seit dem Urteil des Europ\u00e4ischen Gerichtshofes aus 2015 klar: "
+   ]
+  }, 
+  {
+   "begin": "61.120", 
+   "children": [], 
+   "end": "65.440", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Die EU und ihre Mitgliedstaaten sind verpflichtet, "
+   ]
+  }, 
+  {
+   "begin": "65.440", 
+   "children": [], 
+   "end": "73.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die Einhaltung der europ\u00e4ischen Standards und Regeln zum Schutz von Tieren beim Transport bis zum endg\u00fcltigen Zielort sicherzustellen, "
+   ]
+  }, 
+  {
+   "begin": "73.760", 
+   "children": [], 
+   "end": "74.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "auch dann, "
+   ]
+  }, 
+  {
+   "begin": "74.760", 
+   "children": [], 
+   "end": "78.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "wenn sich der Zielort au\u00dferhalb der EU befindet."
+   ]
+  }, 
+  {
+   "begin": "78.280", 
+   "children": [], 
+   "end": "79.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Insbesondere im Sommer, "
+   ]
+  }, 
+  {
+   "begin": "79.560", 
+   "children": [], 
+   "end": "86.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "also kurz vor dem islamischen Opferfest, "
+   ]
+  }, 
+  {
+   "begin": "86.840", 
+   "children": [], 
+   "end": "96.080", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "stehen die Tiere auf den Lastwagen oft sehr lang bei einer st\u00e4ndigen Hitze von \u00fcber 40\u00a0Grad an den EU-Au\u00dfengrenzen. "
+   ]
+  }, 
+  {
+   "begin": "96.080", 
+   "children": [], 
+   "end": "96.480", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Rast- "
+   ]
+  }, 
+  {
+   "begin": "96.480", 
+   "children": [], 
+   "end": "97.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "und Futterpl\u00e4tze, "
+   ]
+  }, 
+  {
+   "begin": "97.720", 
+   "children": [], 
+   "end": "99.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die angefahren werden k\u00f6nnten, "
+   ]
+  }, 
+  {
+   "begin": "99.960", 
+   "children": [], 
+   "end": "101.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "gibt es kaum. "
+   ]
+  }, 
+  {
+   "begin": "101.120", 
+   "children": [], 
+   "end": "105.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Viele Tiere stehen das nicht durch und verenden. "
+   ]
+  }, 
+  {
+   "begin": "105.160", 
+   "children": [], 
+   "end": "108.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Irgendwann platzt einem da als Zuschauer der Kragen. "
+   ]
+  }, 
+  {
+   "begin": "108.240", 
+   "children": [], 
+   "end": "114.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Tiertransporte unter diesen Bedingungen m\u00fcssen gestoppt werden."
+   ]
+  }, 
+  {
+   "begin": "114.320", 
+   "children": [], 
+   "end": "124.080", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Noch viel qualvoller ist es f\u00fcr Tiere an einigen Verladestationen au\u00dferhalb Europas. "
+   ]
+  }, 
+  {
+   "begin": "124.080", 
+   "children": [], 
+   "end": "125.960", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Die Reportage zeigt unter anderem, "
+   ]
+  }, 
+  {
+   "begin": "125.960", 
+   "children": [], 
+   "end": "126.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wie Rinder, "
+   ]
+  }, 
+  {
+   "begin": "126.440", 
+   "children": [], 
+   "end": "128.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "an einem Bein h\u00e4ngend, "
+   ]
+  }, 
+  {
+   "begin": "128.320", 
+   "children": [], 
+   "end": "131.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "von Schiffen aufs Festland bef\u00f6rdert werden. "
+   ]
+  }, 
+  {
+   "begin": "131.920", 
+   "children": [], 
+   "end": "135.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Durch ihr eigenes Gewicht brechen sich die Tiere ihre Beine. "
+   ]
+  }, 
+  {
+   "begin": "135.240", 
+   "children": [], 
+   "end": "138.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Trotz gebrochener Knochen werden sie weitergetrieben. "
+   ]
+  }, 
+  {
+   "begin": "138.800", 
+   "children": [], 
+   "end": "142.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das wurde auch schon 1990 gezeigt. "
+   ]
+  }, 
+  {
+   "begin": "142.840", 
+   "children": [], 
+   "end": "145.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Tiere unn\u00f6tig leiden m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "145.760", 
+   "children": [], 
+   "end": "149.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "sind auch gegen diese Transporte Ma\u00dfnahmen zu ergreifen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "149.840", 
+   "children": [], 
+   "end": "153.040", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "bis hin zur Versagung von Transportgenehmigungen."
+   ]
+  }, 
+  {
+   "begin": "153.040", 
+   "children": [], 
+   "end": "162.080", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig sehen wir Freien Demokraten unsere landwirtschaftlichen Betriebe, "
+   ]
+  }, 
+  {
+   "begin": "162.080", 
+   "children": [], 
+   "end": "166.000", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die ihre Tiere umsorgen und auch sachgerecht transportieren. "
+   ]
+  }, 
+  {
+   "begin": "166.000", 
+   "children": [], 
+   "end": "171.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Den wenigen schwarzen Schafen unter den Transporteuren m\u00fcssen wir das Handwerk legen. "
+   ]
+  }, 
+  {
+   "begin": "171.560", 
+   "children": [], 
+   "end": "174.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Sie beschmutzen eine ganze Branche."
+   ]
+  }, 
+  {
+   "begin": "174.000", 
+   "children": [], 
+   "end": "189.840", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Tiertransporte sind selbstverst\u00e4ndlich auch in der Zukunft allein schon aus Gr\u00fcnden der Zucht und der Spezialisierung der Betriebe unerl\u00e4sslich. "
+   ]
+  }, 
+  {
+   "begin": "189.840", 
+   "children": [], 
+   "end": "200.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Die gr\u00fcnen Forderungen nach einem generellen Tiertransportverbot oder starren Vorgaben sind weltfremd und praxisuntauglich."
+   ]
+  }, 
+  {
+   "begin": "200.520", 
+   "children": [], 
+   "end": "204.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das gr\u00fcne Weltbild passt einfach nicht zur Realit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "204.960", 
+   "children": [], 
+   "end": "207.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Ganz bezeichnend ist auch, "
+   ]
+  }, 
+  {
+   "begin": "207.800", 
+   "children": [], 
+   "end": "217.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass dieses Thema von uns Freien Demokraten auf die Tagesordnung gebracht wurde und kurze Zeit sp\u00e4ter pl\u00f6tzlich ein Antrag von den Gr\u00fcnen hinzukam."
+   ]
+  }, 
+  {
+   "begin": "217.400", 
+   "children": [], 
+   "end": "218.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das zeigt: "
+   ]
+  }, 
+  {
+   "begin": "218.000", 
+   "children": [], 
+   "end": "226.080", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Bei den wirklichen Problemen packen wir L\u00f6sungen an; "
+   ]
+  }, 
+  {
+   "begin": "226.080", 
+   "children": [], 
+   "end": "230.680", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dazu brauchen wir keine Dauermoralisierer aus der gr\u00fcnen Ecke."
+   ]
+  }, 
+  {
+   "begin": "230.680", 
+   "children": [], 
+   "end": "234.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "234.840", 
+   "children": [], 
+   "end": "242.480", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie uns dringend n\u00f6tige Verbesserungen beim Tiertransport angehen und unw\u00fcrdige Tiertransporte stoppen."
+   ]
+  }, 
+  {
+   "begin": "242.480", 
+   "children": [], 
+   "end": "242.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte Sie darum, "
+   ]
+  }, 
+  {
+   "begin": "242.600", 
+   "children": [], 
+   "end": "245.400", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "der \u00dcberweisung unseres Antrages an den Ausschuss zuzustimmen."
+   ]
+  }, 
+  {
+   "begin": "245.400", 
+   "children": [], 
+   "end": "246.440", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "246.440", 
+   "children": [], 
+   "end": "256.000", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die CDU/CSU-Fraktion hat der Kollege Alois Gerig das Wort."
+   ]
+  }
+ ]
+}

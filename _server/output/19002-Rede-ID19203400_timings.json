@@ -1,0 +1,804 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "0.080", 
+   "children": [], 
+   "end": "4.280", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "children": [], 
+   "end": "5.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "children": [], 
+   "end": "8.080", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Frau Strack-Zimmermann, "
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "children": [], 
+   "end": "9.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "nach dieser Inszenierung, "
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "children": [], 
+   "end": "10.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "diesem Schmierentheater, "
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "children": [], 
+   "end": "13.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "das uns die FDP am Sonntagabend geboten hat,"
+   ]
+  }, 
+  {
+   "begin": "13.160", 
+   "children": [], 
+   "end": "14.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "bin ich doch beruhigt, "
+   ]
+  }, 
+  {
+   "begin": "14.400", 
+   "children": [], 
+   "end": "17.040", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass zumindest eines bei Ihnen noch funktioniert, "
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "children": [], 
+   "end": "20.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und zwar die alten Feindbilder und Reflexe."
+   ]
+  }, 
+  {
+   "begin": "20.000", 
+   "children": [], 
+   "end": "27.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Kommunalpolitikerinnen und Kommunalpolitiker begr\u00fcnden zumindest inhaltlich, "
+   ]
+  }, 
+  {
+   "begin": "27.640", 
+   "children": [], 
+   "end": "32.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "warum sie in der einen oder anderen Frage mit anderen zusammenarbeiten oder auch nicht. "
+   ]
+  }, 
+  {
+   "begin": "32.560", 
+   "children": [], 
+   "end": "33.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das ist mehr, "
+   ]
+  }, 
+  {
+   "begin": "33.440", 
+   "children": [], 
+   "end": "35.440", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "als Christian Lindner bisher geliefert hat. "
+   ]
+  }, 
+  {
+   "begin": "35.440", 
+   "children": [], 
+   "end": "37.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Von daher sollten Sie sich sch\u00e4men, "
+   ]
+  }, 
+  {
+   "begin": "37.360", 
+   "children": [], 
+   "end": "38.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie Leute, "
+   ]
+  }, 
+  {
+   "begin": "38.200", 
+   "children": [], 
+   "end": "40.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die nicht anwesend sind und sich hier nicht wehren k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "40.760", 
+   "children": [], 
+   "end": "42.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "so angreifen."
+   ]
+  }, 
+  {
+   "begin": "42.320", 
+   "children": [], 
+   "end": "45.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Aber zur\u00fcck zum Thema; "
+   ]
+  }, 
+  {
+   "begin": "45.640", 
+   "children": [], 
+   "end": "47.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "denn eigentlich reden wir \u00fcber ein ernstes Thema. "
+   ]
+  }, 
+  {
+   "begin": "47.520", 
+   "children": [], 
+   "end": "51.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "In Darfur herrscht seit 14\u00a0Jahren ein blutiger B\u00fcrgerkrieg, "
+   ]
+  }, 
+  {
+   "begin": "51.640", 
+   "children": [], 
+   "end": "55.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "ein Konflikt zwischen der Zentralregierung und verschiedenen Milizen, "
+   ]
+  }, 
+  {
+   "begin": "55.760", 
+   "children": [], 
+   "end": "56.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und niemand wei\u00df genau, "
+   ]
+  }, 
+  {
+   "begin": "56.760", 
+   "children": [], 
+   "end": "59.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "wie viele Menschen dabei zu Tode gekommen sind. "
+   ]
+  }, 
+  {
+   "begin": "59.840", 
+   "children": [], 
+   "end": "65.520", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Konflikt wird r\u00fccksichtslos auf dem R\u00fccken der Zivilbev\u00f6lkerung ausgetragen. "
+   ]
+  }, 
+  {
+   "begin": "65.520", 
+   "children": [], 
+   "end": "67.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Er wurde dadurch ausgel\u00f6st, "
+   ]
+  }, 
+  {
+   "begin": "67.160", 
+   "children": [], 
+   "end": "74.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass es immer wieder zu Konflikten zwischen sesshaften Bauern und nomadisch lebenden Viehhirten gekommen ist, "
+   ]
+  }, 
+  {
+   "begin": "74.720", 
+   "children": [], 
+   "end": "78.120", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die sich durch knappe Wasserressourcen und schlechte B\u00f6den noch versch\u00e4rft haben. "
+   ]
+  }, 
+  {
+   "begin": "78.120", 
+   "children": [], 
+   "end": "80.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt also Ressourcenkonflikte, "
+   ]
+  }, 
+  {
+   "begin": "80.280", 
+   "children": [], 
+   "end": "83.160", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und es gibt Konflikte um die Landnutzung. "
+   ]
+  }, 
+  {
+   "begin": "83.160", 
+   "children": [], 
+   "end": "87.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Diese werden ethnisch aufgeladen und durch den Klimawandel versch\u00e4rft. "
+   ]
+  }, 
+  {
+   "begin": "87.800", 
+   "children": [], 
+   "end": "93.920", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die autorit\u00e4re Regierung in Khartum nutzt sie brutal f\u00fcr den eigenen Machterhalt."
+   ]
+  }, 
+  {
+   "begin": "93.920", 
+   "children": [], 
+   "end": "101.960", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Der UN-Sicherheitsrat hat mit der Resolution\u00a02363 eine Neuausrichtung der Mission vorgenommen. "
+   ]
+  }, 
+  {
+   "begin": "101.960", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Der milit\u00e4rische Anteil soll reduziert werden. "
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "107.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung liefert die Begr\u00fcndung, "
+   ]
+  }, 
+  {
+   "begin": "107.440", 
+   "children": [], 
+   "end": "112.280", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass es eine insgesamt positive Entwicklung der Sicherheitslage gegeben habe. "
+   ]
+  }, 
+  {
+   "begin": "112.280", 
+   "children": [], 
+   "end": "113.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Sie gibt aber gleichzeitig zu, "
+   ]
+  }, 
+  {
+   "begin": "113.720", 
+   "children": [], 
+   "end": "118.800", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Menschenrechtslage auch 2017 nicht verbessert habe. "
+   ]
+  }, 
+  {
+   "begin": "118.800", 
+   "children": [], 
+   "end": "119.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "119.640", 
+   "children": [], 
+   "end": "121.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "einerseits verbessert sich die Sicherheitslage, "
+   ]
+  }, 
+  {
+   "begin": "121.880", 
+   "children": [], 
+   "end": "125.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "andererseits n\u00fctzt das der Zivilbev\u00f6lkerung wenig bis gar nichts, "
+   ]
+  }, 
+  {
+   "begin": "125.920", 
+   "children": [], 
+   "end": "128.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "weil die Menschenrechtslage desastr\u00f6s bleibt. "
+   ]
+  }, 
+  {
+   "begin": "128.600", 
+   "children": [], 
+   "end": "132.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Diesen Widerspruch m\u00fcssen Sie uns noch einmal erkl\u00e4ren. "
+   ]
+  }, 
+  {
+   "begin": "132.040", 
+   "children": [], 
+   "end": "134.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Wirkung von UNAMID so zweifelhaft ist, "
+   ]
+  }, 
+  {
+   "begin": "134.840", 
+   "children": [], 
+   "end": "136.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "warum wird das Mandat dann Jahr f\u00fcr Jahr verl\u00e4ngert?"
+   ]
+  }, 
+  {
+   "begin": "136.920", 
+   "children": [], 
+   "end": "140.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe diese Mission einmal \u201eMission impossible\u201c genannt, "
+   ]
+  }, 
+  {
+   "begin": "140.760", 
+   "children": [], 
+   "end": "144.920", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "aber inzwischen m\u00fcsste man sie vielleicht auch \u201eMission incredible\u201c nennen. "
+   ]
+  }, 
+  {
+   "begin": "144.920", 
+   "children": [], 
+   "end": "148.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Denn die Bundesregierung macht etwas Neues, "
+   ]
+  }, 
+  {
+   "begin": "148.160", 
+   "children": [], 
+   "end": "149.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "was vollkommen irrsinnig ist: "
+   ]
+  }, 
+  {
+   "begin": "149.920", 
+   "children": [], 
+   "end": "153.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Sie verkn\u00fcpft dieses Mandat mit der Fl\u00fcchtlingsabwehr. "
+   ]
+  }, 
+  {
+   "begin": "153.040", 
+   "children": [], 
+   "end": "156.480", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "In der Mandatsbegr\u00fcndung schreibt die Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "156.480", 
+   "children": [], 
+   "end": "163.040", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass dem Sudan zunehmend Bedeutung als Schl\u00fcsseltransitland f\u00fcr Fl\u00fcchtlinge und Migranten zukomme. "
+   ]
+  }, 
+  {
+   "begin": "163.040", 
+   "children": [], 
+   "end": "167.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt daher ja auch jede Menge Projekte der GIZ, "
+   ]
+  }, 
+  {
+   "begin": "167.840", 
+   "children": [], 
+   "end": "171.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "EU-Projekte in gro\u00dfer Menge und Entwicklungshilfegelder, "
+   ]
+  }, 
+  {
+   "begin": "171.760", 
+   "children": [], 
+   "end": "178.080", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "mit denen unter Begriffen wie \u201eGrenzmanagement\u201c oder \u201eKhartum-Prozess\u201c nichts anderes getan werden soll, "
+   ]
+  }, 
+  {
+   "begin": "178.080", 
+   "children": [], 
+   "end": "179.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "als Fl\u00fcchtlinge daran zu hindern, "
+   ]
+  }, 
+  {
+   "begin": "179.520", 
+   "children": [], 
+   "end": "182.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "den Sudan zu verlassen."
+   ]
+  }, 
+  {
+   "begin": "182.200", 
+   "children": [], 
+   "end": "183.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ich will nur einmal festhalten: "
+   ]
+  }, 
+  {
+   "begin": "183.440", 
+   "children": [], 
+   "end": "189.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Diese Bundesregierung kooperiert mit dem sudanesischen Regime und mit Diktator al-Baschir, "
+   ]
+  }, 
+  {
+   "begin": "189.880", 
+   "children": [], 
+   "end": "191.840", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "um Menschen daran zu hindern, "
+   ]
+  }, 
+  {
+   "begin": "191.840", 
+   "children": [], 
+   "end": "193.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "ein Land zu verlassen, "
+   ]
+  }, 
+  {
+   "begin": "193.480", 
+   "children": [], 
+   "end": "198.320", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "in dem viele Hunger leiden und in dem es t\u00e4glich brutale Menschenrechtsverletzungen gibt. "
+   ]
+  }, 
+  {
+   "begin": "198.320", 
+   "children": [], 
+   "end": "200.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Es ist leider nicht nur im Sudan so, "
+   ]
+  }, 
+  {
+   "begin": "200.560", 
+   "children": [], 
+   "end": "202.000", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch in Eritrea, "
+   ]
+  }, 
+  {
+   "begin": "202.000", 
+   "children": [], 
+   "end": "202.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "in \u00c4thiopien, "
+   ]
+  }, 
+  {
+   "begin": "202.960", 
+   "children": [], 
+   "end": "204.920", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "im S\u00fcdsudan oder in Libyen, "
+   ]
+  }, 
+  {
+   "begin": "204.920", 
+   "children": [], 
+   "end": "211.560", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bundesregierung und die EU alle europ\u00e4ischen und humanistischen Werte \u00fcber Bord werfen, "
+   ]
+  }, 
+  {
+   "begin": "211.560", 
+   "children": [], 
+   "end": "212.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wenn es darum geht, "
+   ]
+  }, 
+  {
+   "begin": "212.560", 
+   "children": [], 
+   "end": "217.520", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Menschen die Flucht vor haltlosen Zust\u00e4nden zu verwehren. "
+   ]
+  }, 
+  {
+   "begin": "217.520", 
+   "children": [], 
+   "end": "219.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren von der Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "219.680", 
+   "children": [], 
+   "end": "226.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Sie verwechseln st\u00e4ndig die Bek\u00e4mpfung der Fluchtursachen mit der Bek\u00e4mpfung der Fl\u00fcchtlinge. "
+   ]
+  }, 
+  {
+   "begin": "226.200", 
+   "children": [], 
+   "end": "228.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Das lassen wir Ihnen nicht durchgehen."
+   ]
+  }, 
+  {
+   "begin": "228.840", 
+   "children": [], 
+   "end": "230.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Ich fordere Sie deshalb auf: "
+   ]
+  }, 
+  {
+   "begin": "230.680", 
+   "children": [], 
+   "end": "231.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Setzen Sie die Mittel, "
+   ]
+  }, 
+  {
+   "begin": "231.600", 
+   "children": [], 
+   "end": "239.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die in diesen Milit\u00e4reinsatz und in diese unmenschliche Fl\u00fcchtlingsabwehr flie\u00dfen sollen, "
+   ]
+  }, 
+  {
+   "begin": "239.440", 
+   "children": [], 
+   "end": "243.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "lieber f\u00fcr humanit\u00e4re Hilfe und zivile Friedensprojekte ein, "
+   ]
+  }, 
+  {
+   "begin": "243.600", 
+   "children": [], 
+   "end": "247.200", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "und sorgen Sie mit einer wirksamen Klimaschutzpolitik daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "247.200", 
+   "children": [], 
+   "end": "251.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass die Menschen in Darfur und anderswo wieder eine Lebensperspektive bekommen. "
+   ]
+  }, 
+  {
+   "begin": "251.960", 
+   "children": [], 
+   "end": "254.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re mal eine echte Friedensmission."
+   ]
+  }, 
+  {
+   "begin": "254.480", 
+   "children": [], 
+   "end": "268.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Uwe Kekeritz vom B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

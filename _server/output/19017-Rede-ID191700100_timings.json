@@ -1,0 +1,1304 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "children": [], 
+   "end": "1.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "1.440", 
+   "children": [], 
+   "end": "2.880", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Herren und Damen! "
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "children": [], 
+   "end": "10.880", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sehr herzlich begr\u00fc\u00dfen m\u00f6chte ich die Vertreterinnen und Vertreter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "children": [], 
+   "end": "11.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "vor allen Dingen die Vertreterinnen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "children": [], 
+   "end": "14.000", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "der Frauenverb\u00e4nde auf der Besucherinnen- "
+   ]
+  }, 
+  {
+   "begin": "14.000", 
+   "children": [], 
+   "end": "15.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und Besuchertrib\u00fcne. "
+   ]
+  }, 
+  {
+   "begin": "15.280", 
+   "children": [], 
+   "end": "16.160", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "16.160", 
+   "children": [], 
+   "end": "17.560", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie heute hier sind, "
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "children": [], 
+   "end": "20.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und vielen Dank f\u00fcr Ihr gro\u00dfes Engagement!"
+   ]
+  }, 
+  {
+   "begin": "20.360", 
+   "children": [], 
+   "end": "27.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Der Internationale Frauentag wurde 1911 zum ersten Mal in Deutschland gefeiert. "
+   ]
+  }, 
+  {
+   "begin": "27.600", 
+   "children": [], 
+   "end": "32.400", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Die Frauen hatten damals ein klares Ziel: "
+   ]
+  }, 
+  {
+   "begin": "32.400", 
+   "children": [], 
+   "end": "34.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "das Wahlrecht f\u00fcr Frauen. "
+   ]
+  }, 
+  {
+   "begin": "34.120", 
+   "children": [], 
+   "end": "38.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "1918 war es dann endlich so weit: "
+   ]
+  }, 
+  {
+   "begin": "38.560", 
+   "children": [], 
+   "end": "42.120", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Frauen haben sich das Wahlrecht erk\u00e4mpft. "
+   ]
+  }, 
+  {
+   "begin": "42.120", 
+   "children": [], 
+   "end": "46.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Das war ein gro\u00dfer Erfolg und Meilenstein f\u00fcr die Frauenbewegung. "
+   ]
+  }, 
+  {
+   "begin": "46.920", 
+   "children": [], 
+   "end": "52.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Erfolg war Teil eines gro\u00dfen demokratischen Prozesses. "
+   ]
+  }, 
+  {
+   "begin": "52.160", 
+   "children": [], 
+   "end": "55.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "1918 ist viel passiert: "
+   ]
+  }, 
+  {
+   "begin": "55.760", 
+   "children": [], 
+   "end": "58.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Die Grundrechte wurden verankert, "
+   ]
+  }, 
+  {
+   "begin": "58.920", 
+   "children": [], 
+   "end": "62.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die Gewerkschaften erhielten Organisationsfreiheit, "
+   ]
+  }, 
+  {
+   "begin": "62.800", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "und der Achtstundentag wurde eingef\u00fchrt."
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "76.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr uns ist der Internationale Frauentag\u00a02018 wegen des 100-j\u00e4hrigen Jubil\u00e4ums des Wahlrechtes f\u00fcr Frauen ein besonderer Frauentag. "
+   ]
+  }, 
+  {
+   "begin": "76.760", 
+   "children": [], 
+   "end": "78.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir feiern diese 100\u00a0Jahre, "
+   ]
+  }, 
+  {
+   "begin": "78.680", 
+   "children": [], 
+   "end": "84.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "in denen Frauen genauso w\u00e4hlen und gew\u00e4hlt werden k\u00f6nnen wie M\u00e4nner. "
+   ]
+  }, 
+  {
+   "begin": "84.800", 
+   "children": [], 
+   "end": "86.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen das, "
+   ]
+  }, 
+  {
+   "begin": "86.120", 
+   "children": [], 
+   "end": "89.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "aber wir sehen in diesem Hohen Hause: "
+   ]
+  }, 
+  {
+   "begin": "89.480", 
+   "children": [], 
+   "end": "96.120", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Der Frauenanteil im Deutschen Bundestag ist in dieser Legislaturperiode von knapp 37\u00a0Prozent auf etwa 30\u00a0Prozent gefallen. "
+   ]
+  }, 
+  {
+   "begin": "96.120", 
+   "children": [], 
+   "end": "98.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein deutlicher R\u00fcckschritt. "
+   ]
+  }, 
+  {
+   "begin": "98.720", 
+   "children": [], 
+   "end": "100.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Was sagt uns das? "
+   ]
+  }, 
+  {
+   "begin": "100.280", 
+   "children": [], 
+   "end": "103.720", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt in der Gleichstellungspolitik leider nicht nur eine Richtung. "
+   ]
+  }, 
+  {
+   "begin": "103.720", 
+   "children": [], 
+   "end": "104.680", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Als ich eine junge Frau war, "
+   ]
+  }, 
+  {
+   "begin": "104.680", 
+   "children": [], 
+   "end": "105.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dachte ich, "
+   ]
+  }, 
+  {
+   "begin": "105.200", 
+   "children": [], 
+   "end": "106.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "es g\u00e4be sie. "
+   ]
+  }, 
+  {
+   "begin": "106.000", 
+   "children": [], 
+   "end": "106.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ich dachte, "
+   ]
+  }, 
+  {
+   "begin": "106.400", 
+   "children": [], 
+   "end": "108.800", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "in der Gleichstellungspolitik geht es immer in eine Richtung, "
+   ]
+  }, 
+  {
+   "begin": "108.800", 
+   "children": [], 
+   "end": "111.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "es geht mal schneller und mal langsamer, "
+   ]
+  }, 
+  {
+   "begin": "111.600", 
+   "children": [], 
+   "end": "113.320", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "aber immer voran. "
+   ]
+  }, 
+  {
+   "begin": "113.320", 
+   "children": [], 
+   "end": "115.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht der Fall."
+   ]
+  }, 
+  {
+   "begin": "115.120", 
+   "children": [], 
+   "end": "117.800", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wir sehen das am Frauenanteil hier, "
+   ]
+  }, 
+  {
+   "begin": "117.800", 
+   "children": [], 
+   "end": "120.560", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "aber wir sehen das auch insgesamt am politischen Klima. "
+   ]
+  }, 
+  {
+   "begin": "120.560", 
+   "children": [], 
+   "end": "121.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt politische Kr\u00e4fte, "
+   ]
+  }, 
+  {
+   "begin": "121.400", 
+   "children": [], 
+   "end": "126.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die Gleichstellung als Irrweg bezeichnen und sie am liebsten zur\u00fcckdrehen w\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "126.840", 
+   "children": [], 
+   "end": "132.560", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Gleiche Rechte und gleiche Chancen von Frauen und M\u00e4nnern sind noch immer nicht selbstverst\u00e4ndlich. "
+   ]
+  }, 
+  {
+   "begin": "132.560", 
+   "children": [], 
+   "end": "132.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Dort, "
+   ]
+  }, 
+  {
+   "begin": "132.960", 
+   "children": [], 
+   "end": "134.240", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wo wir sie haben, "
+   ]
+  }, 
+  {
+   "begin": "134.240", 
+   "children": [], 
+   "end": "136.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "sind sie eine Errungenschaft, "
+   ]
+  }, 
+  {
+   "begin": "136.160", 
+   "children": [], 
+   "end": "142.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die wir immer wieder verteidigen m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "142.480", 
+   "children": [], 
+   "end": "144.680", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Eines muss man ganz klar sagen: "
+   ]
+  }, 
+  {
+   "begin": "144.680", 
+   "children": [], 
+   "end": "146.440", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Frauenrechte sind Menschenrechte. "
+   ]
+  }, 
+  {
+   "begin": "146.440", 
+   "children": [], 
+   "end": "147.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "In den Staaten, "
+   ]
+  }, 
+  {
+   "begin": "147.520", 
+   "children": [], 
+   "end": "149.760", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "in denen die Frauenrechte unter Druck geraten, "
+   ]
+  }, 
+  {
+   "begin": "149.760", 
+   "children": [], 
+   "end": "150.080", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "sieht man, "
+   ]
+  }, 
+  {
+   "begin": "150.080", 
+   "children": [], 
+   "end": "153.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass dort immer auch die anderen Menschenrechte unter Druck geraten: "
+   ]
+  }, 
+  {
+   "begin": "153.920", 
+   "children": [], 
+   "end": "154.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "die freie Presse, "
+   ]
+  }, 
+  {
+   "begin": "154.800", 
+   "children": [], 
+   "end": "156.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die unabh\u00e4ngige Justiz, "
+   ]
+  }, 
+  {
+   "begin": "156.680", 
+   "children": [], 
+   "end": "157.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die kritische Kultur. "
+   ]
+  }, 
+  {
+   "begin": "157.680", 
+   "children": [], 
+   "end": "161.800", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist der Kampf f\u00fcr Frauenrechte immer auch ein Kampf f\u00fcr die Demokratie als solche."
+   ]
+  }, 
+  {
+   "begin": "161.800", 
+   "children": [], 
+   "end": "165.280", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Nach 100\u00a0Jahren knapp 30\u00a0Prozent Frauen in diesem Hohen Hause! "
+   ]
+  }, 
+  {
+   "begin": "165.280", 
+   "children": [], 
+   "end": "165.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Das zeigt: "
+   ]
+  }, 
+  {
+   "begin": "165.960", 
+   "children": [], 
+   "end": "167.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Die Rechte sind das eine, "
+   ]
+  }, 
+  {
+   "begin": "167.080", 
+   "children": [], 
+   "end": "172.680", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "aber die Verwirklichung ist das andere. "
+   ]
+  }, 
+  {
+   "begin": "172.680", 
+   "children": [], 
+   "end": "176.760", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Daran \u00e4ndert sich auch nichts, "
+   ]
+  }, 
+  {
+   "begin": "176.760", 
+   "children": [], 
+   "end": "187.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wenn der sehr gesch\u00e4tzte Herr Fraktionsvorsitzende Kauder f\u00fcr eine Debatte seinen Platz f\u00fcr eine Frau ausnahmsweise einmal r\u00e4umt. "
+   ]
+  }, 
+  {
+   "begin": "187.520", 
+   "children": [], 
+   "end": "193.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Es m\u00fcssten noch viel mehr M\u00e4nner ihre Pl\u00e4tze mal f\u00fcr Frauen r\u00e4umen."
+   ]
+  }, 
+  {
+   "begin": "193.960", 
+   "children": [], 
+   "end": "200.600", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Frauen trotz gleicher formaler Rechte noch immer nicht die gleiche Teilhabe erfahren, "
+   ]
+  }, 
+  {
+   "begin": "200.600", 
+   "children": [], 
+   "end": "201.920", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dann hei\u00dft es oft: "
+   ]
+  }, 
+  {
+   "begin": "201.920", 
+   "children": [], 
+   "end": "203.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Selber schuld! "
+   ]
+  }, 
+  {
+   "begin": "203.360", 
+   "children": [], 
+   "end": "205.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ihr habt halt schlecht verhandelt. "
+   ]
+  }, 
+  {
+   "begin": "205.040", 
+   "children": [], 
+   "end": "207.240", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Eure Stimme ist zu leise, "
+   ]
+  }, 
+  {
+   "begin": "207.240", 
+   "children": [], 
+   "end": "208.040", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "zu schrill. "
+   ]
+  }, 
+  {
+   "begin": "208.040", 
+   "children": [], 
+   "end": "209.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Ihr habt die falschen Klamotten an. "
+   ]
+  }, 
+  {
+   "begin": "209.680", 
+   "children": [], 
+   "end": "210.920", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Ihr seid zu zaghaft, "
+   ]
+  }, 
+  {
+   "begin": "210.920", 
+   "children": [], 
+   "end": "211.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "zu freundlich, "
+   ]
+  }, 
+  {
+   "begin": "211.680", 
+   "children": [], 
+   "end": "212.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "zu h\u00f6flich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "212.560", 
+   "children": [], 
+   "end": "215.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "was auch immer. "
+   ]
+  }, 
+  {
+   "begin": "215.000", 
+   "children": [], 
+   "end": "216.160", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Oder es hei\u00dft: "
+   ]
+  }, 
+  {
+   "begin": "216.160", 
+   "children": [], 
+   "end": "221.880", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Frauen wollen eigentlich gar nicht das gleiche Ziel erreichen wie M\u00e4nner."
+   ]
+  }, 
+  {
+   "begin": "221.880", 
+   "children": [], 
+   "end": "222.800", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "All das ist falsch. "
+   ]
+  }, 
+  {
+   "begin": "222.800", 
+   "children": [], 
+   "end": "224.920", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Dass Gleichstellung noch immer nicht erreicht ist, "
+   ]
+  }, 
+  {
+   "begin": "224.920", 
+   "children": [], 
+   "end": "226.480", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "liegt nicht an den Frauen selbst, "
+   ]
+  }, 
+  {
+   "begin": "226.480", 
+   "children": [], 
+   "end": "230.360", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "sondern an bestehenden Machtverh\u00e4ltnissen und an bestehenden Strukturen, "
+   ]
+  }, 
+  {
+   "begin": "230.360", 
+   "children": [], 
+   "end": "232.280", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "die Frauen selbst dann benachteiligen, "
+   ]
+  }, 
+  {
+   "begin": "232.280", 
+   "children": [], 
+   "end": "234.720", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie formal die gleichen Rechte haben. "
+   ]
+  }, 
+  {
+   "begin": "234.720", 
+   "children": [], 
+   "end": "237.240", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen gibt es noch immer sehr viel zu tun, "
+   ]
+  }, 
+  {
+   "begin": "237.240", 
+   "children": [], 
+   "end": "241.120", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir echte gleiche Chancen wollen."
+   ]
+  }, 
+  {
+   "begin": "241.120", 
+   "children": [], 
+   "end": "242.000", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Wir tun das; "
+   ]
+  }, 
+  {
+   "begin": "242.000", 
+   "children": [], 
+   "end": "245.240", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "es sind kleine und gro\u00dfe Schritte. "
+   ]
+  }, 
+  {
+   "begin": "245.240", 
+   "children": [], 
+   "end": "249.400", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem kommenden Koalitionsvertrag werden es hoffentlich gro\u00dfe Schritte sein. "
+   ]
+  }, 
+  {
+   "begin": "249.400", 
+   "children": [], 
+   "end": "252.120", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Ich greife einige wenige Beispiele heraus:"
+   ]
+  }, 
+  {
+   "begin": "252.120", 
+   "children": [], 
+   "end": "256.440", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr mich ist die Aufwertung von sozialen und Pflegeberufen ganz wichtig; "
+   ]
+  }, 
+  {
+   "begin": "256.440", 
+   "children": [], 
+   "end": "259.520", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "denn dort betr\u00e4gt der Frauenanteil noch immer 80\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "259.520", 
+   "children": [], 
+   "end": "261.480", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es kein Zufall, "
+   ]
+  }, 
+  {
+   "begin": "261.480", 
+   "children": [], 
+   "end": "263.720", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "dass dort die Bezahlung so viel schlechter ist. "
+   ]
+  }, 
+  {
+   "begin": "263.720", 
+   "children": [], 
+   "end": "265.800", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Das hat schon etwas mit dem Geschlecht zu tun. "
+   ]
+  }, 
+  {
+   "begin": "265.800", 
+   "children": [], 
+   "end": "266.560", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Warum? "
+   ]
+  }, 
+  {
+   "begin": "266.560", 
+   "children": [], 
+   "end": "268.400", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Es war historisch gewachsen, "
+   ]
+  }, 
+  {
+   "begin": "268.400", 
+   "children": [], 
+   "end": "272.800", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "dass sich oft unverheiratete Frauen in den Kl\u00f6stern um die Alten, "
+   ]
+  }, 
+  {
+   "begin": "272.800", 
+   "children": [], 
+   "end": "277.040", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "die Menschen mit Behinderungen und die Kinder gek\u00fcmmert haben. "
+   ]
+  }, 
+  {
+   "begin": "277.040", 
+   "children": [], 
+   "end": "279.280", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Das hat zwar etwas mit dem Geschlecht zu tun, "
+   ]
+  }, 
+  {
+   "begin": "279.280", 
+   "children": [], 
+   "end": "281.800", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "aber das ist eben kein unver\u00e4nderlicher Zustand. "
+   ]
+  }, 
+  {
+   "begin": "281.800", 
+   "children": [], 
+   "end": "283.040", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Das m\u00fcssen wir \u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "283.040", 
+   "children": [], 
+   "end": "283.440", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es wichtig, "
+   ]
+  }, 
+  {
+   "begin": "283.440", 
+   "children": [], 
+   "end": "284.880", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das in diesem Koalitionsvertrag tun."
+   ]
+  }, 
+  {
+   "begin": "284.880", 
+   "children": [], 
+   "end": "296.280", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Als zweites und als drittes Beispiel will ich das R\u00fcckkehrrecht von Teilzeit auf Vollzeit und nat\u00fcrlich den Kampf gegen sexuelle \u00dcbergriffe und sexuelle Gewalt nennen."
+   ]
+  }, 
+  {
+   "begin": "296.280", 
+   "children": [], 
+   "end": "300.280", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Es gab ein ganz breites B\u00fcndnis von Organisationen, "
+   ]
+  }, 
+  {
+   "begin": "300.280", 
+   "children": [], 
+   "end": "301.560", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "die daf\u00fcr gesorgt haben, "
+   ]
+  }, 
+  {
+   "begin": "301.560", 
+   "children": [], 
+   "end": "305.480", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "dass der Internationale Frauentag in Deutschland gefeiert wird. "
+   ]
+  }, 
+  {
+   "begin": "305.480", 
+   "children": [], 
+   "end": "308.880", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Dass die SPD dabei ganz vorne war, "
+   ]
+  }, 
+  {
+   "begin": "308.880", 
+   "children": [], 
+   "end": "311.960", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "ist f\u00fcr mich pers\u00f6nlich eine sch\u00f6ne Tatsache."
+   ]
+  }, 
+  {
+   "begin": "311.960", 
+   "children": [], 
+   "end": "315.920", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Gleichstellung ist heute noch nicht selbstverst\u00e4ndlich und noch lange nicht erreicht, "
+   ]
+  }, 
+  {
+   "begin": "315.920", 
+   "children": [], 
+   "end": "317.640", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr Gleichstellung m\u00fcssen wir k\u00e4mpfen; "
+   ]
+  }, 
+  {
+   "begin": "317.640", 
+   "children": [], 
+   "end": "318.880", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "denn wer Macht hat, "
+   ]
+  }, 
+  {
+   "begin": "318.880", 
+   "children": [], 
+   "end": "320.480", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "gibt sie selten freiwillig ab, "
+   ]
+  }, 
+  {
+   "begin": "320.480", 
+   "children": [], 
+   "end": "322.160", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "so wie einen Platz in der ersten Reihe. "
+   ]
+  }, 
+  {
+   "begin": "322.160", 
+   "children": [], 
+   "end": "324.000", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Freundlichkeit und Flei\u00df reichen nicht aus. "
+   ]
+  }, 
+  {
+   "begin": "324.000", 
+   "children": [], 
+   "end": "325.320", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Hartn\u00e4ckigkeit, "
+   ]
+  }, 
+  {
+   "begin": "325.320", 
+   "children": [], 
+   "end": "327.200", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Durchsetzungskraft, "
+   ]
+  }, 
+  {
+   "begin": "327.200", 
+   "children": [], 
+   "end": "329.040", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "die Bereitschaft zum Konflikt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "329.040", 
+   "children": [], 
+   "end": "331.240", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "das ist mindestens ebenso n\u00f6tig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "331.240", 
+   "children": [], 
+   "end": "333.680", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "und vor allen Dingen viel Solidarit\u00e4t"
+   ]
+  }, 
+  {
+   "begin": "333.680", 
+   "children": [], 
+   "end": "335.000", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "der Frauen untereinander, "
+   ]
+  }, 
+  {
+   "begin": "335.000", 
+   "children": [], 
+   "end": "336.800", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "aber auch der emanzipierten M\u00e4nner, "
+   ]
+  }, 
+  {
+   "begin": "336.800", 
+   "children": [], 
+   "end": "337.520", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "die verstanden haben, "
+   ]
+  }, 
+  {
+   "begin": "337.520", 
+   "children": [], 
+   "end": "341.800", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "dass Gleichberechtigung von Frauen und M\u00e4nnern am Ende auch ihnen nutzt. "
+   ]
+  }, 
+  {
+   "begin": "341.800", 
+   "children": [], 
+   "end": "342.360", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Ich hoffe, "
+   ]
+  }, 
+  {
+   "begin": "342.360", 
+   "children": [], 
+   "end": "351.840", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "wir sind uns in diesem Schluss einig."
+   ]
+  }, 
+  {
+   "begin": "351.840", 
+   "children": [], 
+   "end": "353.080", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen ganz herzlich."
+   ]
+  }, 
+  {
+   "begin": "353.080", 
+   "children": [], 
+   "end": "354.080", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat die Kollegin Nadine Sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "354.080", 
+   "children": [], 
+   "end": "356.120", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU, "
+   ]
+  }, 
+  {
+   "begin": "356.120", 
+   "children": [], 
+   "end": "357.000", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "das Wort."
+   ]
+  }
+ ]
+}

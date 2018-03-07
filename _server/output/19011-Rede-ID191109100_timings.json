@@ -1,0 +1,1624 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.520", 
+   "children": [], 
+   "end": "8.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "children": [], 
+   "end": "11.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "children": [], 
+   "end": "14.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Beitr\u00e4ge nach Leistungsf\u00e4higkeit, "
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "children": [], 
+   "end": "15.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Leistungen nach Bedarf: "
+   ]
+  }, 
+  {
+   "begin": "15.560", 
+   "children": [], 
+   "end": "20.080", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Grundsatz der Finanzarchitektur in der gesetzlichen Krankenkasse. "
+   ]
+  }, 
+  {
+   "begin": "20.080", 
+   "children": [], 
+   "end": "27.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Anders als in der Rentenkasse richtet sich die Leistung der gesetzlichen Krankenkasse nicht nach der H\u00f6he der eingezahlten Beitr\u00e4ge, "
+   ]
+  }, 
+  {
+   "begin": "27.560", 
+   "children": [], 
+   "end": "31.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "sondern prinzipiell nach den Ma\u00dfst\u00e4ben des Sozialgesetzbuches: "
+   ]
+  }, 
+  {
+   "begin": "31.440", 
+   "children": [], 
+   "end": "32.240", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "notwendig, "
+   ]
+  }, 
+  {
+   "begin": "32.240", 
+   "children": [], 
+   "end": "33.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "zweckm\u00e4\u00dfig, "
+   ]
+  }, 
+  {
+   "begin": "33.080", 
+   "children": [], 
+   "end": "33.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "ausreichend, "
+   ]
+  }, 
+  {
+   "begin": "33.800", 
+   "children": [], 
+   "end": "34.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wirtschaftlich. "
+   ]
+  }, 
+  {
+   "begin": "34.920", 
+   "children": [], 
+   "end": "38.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Darauf hat der Versicherte ein einklagbares Recht, "
+   ]
+  }, 
+  {
+   "begin": "38.320", 
+   "children": [], 
+   "end": "43.040", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und die H\u00f6he der Beitr\u00e4ge folgt der Leistungskraft der Versicherten."
+   ]
+  }, 
+  {
+   "begin": "43.040", 
+   "children": [], 
+   "end": "48.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das unterscheidet die gesetzliche Krankenkasse prinzipiell von der privaten Krankenversicherung, "
+   ]
+  }, 
+  {
+   "begin": "48.440", 
+   "children": [], 
+   "end": "52.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die ihre Pr\u00e4mien versicherungsmathematisch kalkulieren muss. "
+   ]
+  }, 
+  {
+   "begin": "52.280", 
+   "children": [], 
+   "end": "58.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Damit es in der gesetzlichen Krankenkasse dennoch in einem gewissen Rahmen beim \u00c4quivalenzprinzip der Versicherung bleibt, "
+   ]
+  }, 
+  {
+   "begin": "58.360", 
+   "children": [], 
+   "end": "61.600", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "gibt es eine Beitragsbemessungsgrenze; "
+   ]
+  }, 
+  {
+   "begin": "61.600", 
+   "children": [], 
+   "end": "64.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "denn wenn Steuern in die gesetzliche Krankenkasse flie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "64.440", 
+   "children": [], 
+   "end": "69.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dann explizit und offen aus Haushaltsmitteln und nicht als steuer\u00e4hnliche Belastung, "
+   ]
+  }, 
+  {
+   "begin": "69.520", 
+   "children": [], 
+   "end": "73.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die man zu kaschierten Versicherungsbeitr\u00e4gen umlackiert."
+   ]
+  }, 
+  {
+   "begin": "73.040", 
+   "children": [], 
+   "end": "80.920", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "2015 haben wir von der Linken einen in der Semantik \u00e4hnlich lautenden Antrag vorgelegt bekommen,"
+   ]
+  }, 
+  {
+   "begin": "80.920", 
+   "children": [], 
+   "end": "89.000", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "mit dem sich der Ausschuss f\u00fcr Gesundheit im Januar\u00a02016 in einer \u00f6ffentlichen Anh\u00f6rung ausf\u00fchrlich befasst hat. "
+   ]
+  }, 
+  {
+   "begin": "89.000", 
+   "children": [], 
+   "end": "93.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Im damaligen Antrag wie im heutigen Antrag werben Sie daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "93.240", 
+   "children": [], 
+   "end": "97.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "alle Einkommensarten zur Finanzierung der gesetzlichen Kranken- "
+   ]
+  }, 
+  {
+   "begin": "97.280", 
+   "children": [], 
+   "end": "99.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung heranzuziehen, "
+   ]
+  }, 
+  {
+   "begin": "99.760", 
+   "children": [], 
+   "end": "103.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "die Beitragsbemessungsgrenze aufzuheben und eine, "
+   ]
+  }, 
+  {
+   "begin": "103.160", 
+   "children": [], 
+   "end": "104.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie es nennen, "
+   ]
+  }, 
+  {
+   "begin": "104.560", 
+   "children": [], 
+   "end": "107.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "solidarische Gesundheitsversicherung einzuf\u00fchren."
+   ]
+  }, 
+  {
+   "begin": "107.720", 
+   "children": [], 
+   "end": "110.960", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "K\u00f6nnen Sie uns bitte einmal erkl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "110.960", 
+   "children": [], 
+   "end": "112.840", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "warum Sie dann die Tatsache, "
+   ]
+  }, 
+  {
+   "begin": "112.840", 
+   "children": [], 
+   "end": "117.960", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass gerade unterschiedliche Einkommensarten zur Finanzierung der gesetzlichen Kranken- "
+   ]
+  }, 
+  {
+   "begin": "117.960", 
+   "children": [], 
+   "end": "120.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung herangezogen werden, "
+   ]
+  }, 
+  {
+   "begin": "120.240", 
+   "children": [], 
+   "end": "124.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "mit dem polemischen Kampfbegriff \u201eDoppelverbeitragung\u201c belegen? "
+   ]
+  }, 
+  {
+   "begin": "124.200", 
+   "children": [], 
+   "end": "126.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Hier widersprechen Sie sich doch selbst."
+   ]
+  }, 
+  {
+   "begin": "126.760", 
+   "children": [], 
+   "end": "127.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ja, "
+   ]
+  }, 
+  {
+   "begin": "127.680", 
+   "children": [], 
+   "end": "128.320", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "nat\u00fcrlich, "
+   ]
+  }, 
+  {
+   "begin": "128.320", 
+   "children": [], 
+   "end": "131.160", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Sie belegen alle Einkommensarten, "
+   ]
+  }, 
+  {
+   "begin": "131.160", 
+   "children": [], 
+   "end": "133.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "aber diese Einkommensart nehmen Sie aus."
+   ]
+  }, 
+  {
+   "begin": "133.600", 
+   "children": [], 
+   "end": "136.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich erinnere an die vorhin erw\u00e4hnte Anh\u00f6rung und an das, "
+   ]
+  }, 
+  {
+   "begin": "136.600", 
+   "children": [], 
+   "end": "143.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "was der Sachverst\u00e4ndige Professor Dr.\u00a0Klaus Jacobs vom Wissenschaftlichen Institut der AOK dort ausgef\u00fchrt hat:"
+   ]
+  }, 
+  {
+   "begin": "143.000", 
+   "children": [], 
+   "end": "148.360", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Zum Zeitpunkt der Verbeitragung ist die \u00f6konomische Leistungsf\u00e4higkeit relevant. "
+   ]
+  }, 
+  {
+   "begin": "148.360", 
+   "children": [], 
+   "end": "149.560", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es kommt nicht darauf an, "
+   ]
+  }, 
+  {
+   "begin": "149.560", 
+   "children": [], 
+   "end": "151.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "woher die im Einzelfall kommt.\u00a0... "
+   ]
+  }, 
+  {
+   "begin": "151.720", 
+   "children": [], 
+   "end": "155.960", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "deswegen kann ich den Begriff der Doppelverbeitragung nicht akzeptieren. "
+   ]
+  }, 
+  {
+   "begin": "155.960", 
+   "children": [], 
+   "end": "160.440", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Diese Figur passt nicht in das System der solidarischen Finanzierung. "
+   ]
+  }, 
+  {
+   "begin": "160.440", 
+   "children": [], 
+   "end": "162.280", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie kommt aus einem anderen Kontext. "
+   ]
+  }, 
+  {
+   "begin": "162.280", 
+   "children": [], 
+   "end": "164.240", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "W\u00fcrden wir sie in die gesetzliche Kranken- "
+   ]
+  }, 
+  {
+   "begin": "164.240", 
+   "children": [], 
+   "end": "166.520", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung \u00fcbernehmen,\u00a0... "
+   ]
+  }, 
+  {
+   "begin": "166.520", 
+   "children": [], 
+   "end": "171.240", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssten wir den Gro\u00dfteil der gesetzlichen Renten beitragsfrei stellen. "
+   ]
+  }, 
+  {
+   "begin": "171.240", 
+   "children": [], 
+   "end": "177.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Das h\u00e4tte eklatante Konsequenzen f\u00fcr die Finanzlage der gesetzlichen Krankenversicherung."
+   ]
+  }, 
+  {
+   "begin": "177.160", 
+   "children": [], 
+   "end": "183.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Dimension dieser Konsequenzen ist in der vergangenen Legislaturperiode deutlich geworden; "
+   ]
+  }, 
+  {
+   "begin": "183.240", 
+   "children": [], 
+   "end": "189.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "denn der Sachverst\u00e4ndige Dr.\u00a0Reinhold Thiede von der Deutschen Rentenversicherung Bund hat sie uns vor Augen gef\u00fchrt."
+   ]
+  }, 
+  {
+   "begin": "189.400", 
+   "children": [], 
+   "end": "189.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "189.880", 
+   "children": [], 
+   "end": "191.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "gestatten Sie eine Zwischenfrage?"
+   ]
+  }, 
+  {
+   "begin": "191.800", 
+   "children": [], 
+   "end": "193.960", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Bitte."
+   ]
+  }, 
+  {
+   "begin": "193.960", 
+   "children": [], 
+   "end": "195.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "195.680", 
+   "children": [], 
+   "end": "196.600", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "196.600", 
+   "children": [], 
+   "end": "197.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "197.000", 
+   "children": [], 
+   "end": "198.200", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Henke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "198.200", 
+   "children": [], 
+   "end": "199.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben ja eben eine Frage gestellt. "
+   ]
+  }, 
+  {
+   "begin": "199.920", 
+   "children": [], 
+   "end": "201.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Ich will Ihnen darauf gerne antworten."
+   ]
+  }, 
+  {
+   "begin": "201.840", 
+   "children": [], 
+   "end": "203.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Es ist nicht so, "
+   ]
+  }, 
+  {
+   "begin": "203.240", 
+   "children": [], 
+   "end": "206.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass heute alle Einkommen verbeitragt werden. "
+   ]
+  }, 
+  {
+   "begin": "206.480", 
+   "children": [], 
+   "end": "210.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wer eine Versicherung f\u00fcr sich zu Hause privat abgeschlossen hat, "
+   ]
+  }, 
+  {
+   "begin": "210.880", 
+   "children": [], 
+   "end": "213.080", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "beispielsweise einen privaten Riester-Vertrag, "
+   ]
+  }, 
+  {
+   "begin": "213.080", 
+   "children": [], 
+   "end": "215.640", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "der zahlt f\u00fcr seine Altersvorsorge nichts. "
+   ]
+  }, 
+  {
+   "begin": "215.640", 
+   "children": [], 
+   "end": "216.640", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wer ein Sparbuch, "
+   ]
+  }, 
+  {
+   "begin": "216.640", 
+   "children": [], 
+   "end": "217.520", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wer Wertpapiere, "
+   ]
+  }, 
+  {
+   "begin": "217.520", 
+   "children": [], 
+   "end": "219.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "wer Aktien oder Fonds besitzt, "
+   ]
+  }, 
+  {
+   "begin": "219.680", 
+   "children": [], 
+   "end": "221.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "zahlt daf\u00fcr nichts in die Krankenversicherung."
+   ]
+  }, 
+  {
+   "begin": "221.840", 
+   "children": [], 
+   "end": "224.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wer in Immobilien investiert und Mieteinnahmen hat, "
+   ]
+  }, 
+  {
+   "begin": "224.760", 
+   "children": [], 
+   "end": "227.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "zahlt daf\u00fcr nichts in die Krankenversicherung. "
+   ]
+  }, 
+  {
+   "begin": "227.200", 
+   "children": [], 
+   "end": "229.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wer privat krankenversichert ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "229.680", 
+   "children": [], 
+   "end": "230.840", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die gr\u00f6\u00dfte Ungerechtigkeit\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "230.840", 
+   "children": [], 
+   "end": "233.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "der zahlt auch nichts f\u00fcr die Betriebsrente ein."
+   ]
+  }, 
+  {
+   "begin": "233.400", 
+   "children": [], 
+   "end": "234.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Wer nicht vorgesorgt hat, "
+   ]
+  }, 
+  {
+   "begin": "234.960", 
+   "children": [], 
+   "end": "235.800", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "zahlt auch nichts."
+   ]
+  }, 
+  {
+   "begin": "235.800", 
+   "children": [], 
+   "end": "236.120", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Also, "
+   ]
+  }, 
+  {
+   "begin": "236.120", 
+   "children": [], 
+   "end": "237.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "ich muss feststellen: "
+   ]
+  }, 
+  {
+   "begin": "237.360", 
+   "children": [], 
+   "end": "238.560", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Gegenw\u00e4rtig ist das, "
+   ]
+  }, 
+  {
+   "begin": "238.560", 
+   "children": [], 
+   "end": "239.560", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "was Sie gesagt haben, "
+   ]
+  }, 
+  {
+   "begin": "239.560", 
+   "children": [], 
+   "end": "240.880", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "komplett falsch. "
+   ]
+  }, 
+  {
+   "begin": "240.880", 
+   "children": [], 
+   "end": "242.240", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir sagen extra\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "242.240", 
+   "children": [], 
+   "end": "244.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "das steht auch in unserem Antrag, "
+   ]
+  }, 
+  {
+   "begin": "244.760", 
+   "children": [], 
+   "end": "245.400", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "245.400", 
+   "children": [], 
+   "end": "245.880", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "245.880", 
+   "children": [], 
+   "end": "248.600", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "dass Krankenversicherungsbeitr\u00e4ge gezahlt werden, "
+   ]
+  }, 
+  {
+   "begin": "248.600", 
+   "children": [], 
+   "end": "251.040", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "aber bitte in der Ansparphase. "
+   ]
+  }, 
+  {
+   "begin": "251.040", 
+   "children": [], 
+   "end": "252.480", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Einmal ist genug. "
+   ]
+  }, 
+  {
+   "begin": "252.480", 
+   "children": [], 
+   "end": "254.320", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen den Menschen nicht erkl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "254.320", 
+   "children": [], 
+   "end": "259.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "dass sie von ihrem eigenen Ersparten dann auch noch doppelt oder, "
+   ]
+  }, 
+  {
+   "begin": "259.360", 
+   "children": [], 
+   "end": "260.720", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "wenn es aus Nettoeinkommen ist, "
+   ]
+  }, 
+  {
+   "begin": "260.720", 
+   "children": [], 
+   "end": "263.880", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "sogar dreifach Krankenversicherungsbeitr\u00e4ge zahlen sollen. "
+   ]
+  }, 
+  {
+   "begin": "263.880", 
+   "children": [], 
+   "end": "268.760", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist n\u00e4mlich der Gedanke der Vorsorge und der betrieblichen Altersvorsorge perdu."
+   ]
+  }, 
+  {
+   "begin": "268.760", 
+   "children": [], 
+   "end": "269.840", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Da m\u00f6chte ich gerne wissen, "
+   ]
+  }, 
+  {
+   "begin": "269.840", 
+   "children": [], 
+   "end": "272.840", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie das den Betroffenen oben auf der Besuchertrib\u00fcne erkl\u00e4ren."
+   ]
+  }, 
+  {
+   "begin": "272.840", 
+   "children": [], 
+   "end": "274.720", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "274.720", 
+   "children": [], 
+   "end": "278.840", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Frage, "
+   ]
+  }, 
+  {
+   "begin": "278.840", 
+   "children": [], 
+   "end": "280.320", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "lieber Herr Kollege. "
+   ]
+  }, 
+  {
+   "begin": "280.320", 
+   "children": [], 
+   "end": "284.120", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Ich beziehe mich einmal auf Ihren Antrag und zitiere daraus. "
+   ]
+  }, 
+  {
+   "begin": "284.120", 
+   "children": [], 
+   "end": "285.600", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Sie schreiben:"
+   ]
+  }, 
+  {
+   "begin": "285.600", 
+   "children": [], 
+   "end": "291.920", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Die Doppelverbeitragung ist auch in finanzieller Hinsicht keineswegs alternativlos. "
+   ]
+  }, 
+  {
+   "begin": "291.920", 
+   "children": [], 
+   "end": "295.720", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Eventuelle Einnahmeverluste durch die Aufhebung des"
+   ]
+  }, 
+  {
+   "begin": "295.720", 
+   "children": [], 
+   "end": "296.560", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0wie Sie es nennen\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "296.560", 
+   "children": [], 
+   "end": "303.600", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "ungerechten doppelten Beitrags f\u00fcr Bezieherinnen und Bezieher von Betriebsrenten w\u00e4ren leicht auszugleichen, "
+   ]
+  }, 
+  {
+   "begin": "303.600", 
+   "children": [], 
+   "end": "307.520", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "wenn alle Einkommensarten zur Finanzierung der gesetzlichen Kranken- "
+   ]
+  }, 
+  {
+   "begin": "307.520", 
+   "children": [], 
+   "end": "309.920", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung herangezogen w\u00fcrden, "
+   ]
+  }, 
+  {
+   "begin": "309.920", 
+   "children": [], 
+   "end": "316.000", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "die Beitragsbemessungsgrenze aufgehoben und eine solidarische Gesundheitsversicherung eingef\u00fchrt werden w\u00fcrde."
+   ]
+  }, 
+  {
+   "begin": "316.000", 
+   "children": [], 
+   "end": "320.360", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Aber wenn doch alle Einkommensarten zur Finanzierung der gesetzlichen Kranken- "
+   ]
+  }, 
+  {
+   "begin": "320.360", 
+   "children": [], 
+   "end": "322.800", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung heranzuziehen sind: "
+   ]
+  }, 
+  {
+   "begin": "322.800", 
+   "children": [], 
+   "end": "325.160", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Woher kommt denn dann die Logik, "
+   ]
+  }, 
+  {
+   "begin": "325.160", 
+   "children": [], 
+   "end": "330.000", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "ausgerechnet diese Einkommensart von der Verbeitragung auszunehmen? "
+   ]
+  }, 
+  {
+   "begin": "330.000", 
+   "children": [], 
+   "end": "332.800", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Da machen Sie einen populistischen Widerspruch, "
+   ]
+  }, 
+  {
+   "begin": "332.800", 
+   "children": [], 
+   "end": "335.040", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Sie nichts anderes erreichen wollen, "
+   ]
+  }, 
+  {
+   "begin": "335.040", 
+   "children": [], 
+   "end": "340.800", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "als den Unmut der Betroffenen auf Ihre M\u00fchlen zu lenken."
+   ]
+  }, 
+  {
+   "begin": "340.800", 
+   "children": [], 
+   "end": "341.880", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Zweck, "
+   ]
+  }, 
+  {
+   "begin": "341.880", 
+   "children": [], 
+   "end": "344.280", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "weswegen Sie das so formulieren."
+   ]
+  }, 
+  {
+   "begin": "344.280", 
+   "children": [], 
+   "end": "348.520", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Das ist konsequent inkonsequent und v\u00f6llig widerspr\u00fcchlich."
+   ]
+  }, 
+  {
+   "begin": "348.520", 
+   "children": [], 
+   "end": "350.040", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Wegen der Dimension, "
+   ]
+  }, 
+  {
+   "begin": "350.040", 
+   "children": [], 
+   "end": "353.600", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "die das au\u00dferdem f\u00fcr die gesetzliche Rentenkasse h\u00e4tte, "
+   ]
+  }, 
+  {
+   "begin": "353.600", 
+   "children": [], 
+   "end": "355.920", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "will ich noch einmal daran erinnern: "
+   ]
+  }, 
+  {
+   "begin": "355.920", 
+   "children": [], 
+   "end": "357.920", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Wir hatten in 2014\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "357.920", 
+   "children": [], 
+   "end": "361.960", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "so Reinhold Thiede in der Anh\u00f6rung vor dem Gesundheitsausschuss\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "361.960", 
+   "children": [], 
+   "end": "368.920", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Krankenversicherung der Rentner Ausgaben der gesetzlichen Rentenversicherung in H\u00f6he von etwa 16\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "368.920", 
+   "children": [], 
+   "end": "372.840", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Das ist allerdings nur der Beitragsanteil der gesetzlichen Rentenversicherung. "
+   ]
+  }, 
+  {
+   "begin": "372.840", 
+   "children": [], 
+   "end": "377.400", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Den gleichen Anteil plus den Zusatzbeitrag tragen die Rentner. "
+   ]
+  }, 
+  {
+   "begin": "377.400", 
+   "children": [], 
+   "end": "383.560", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Es geht also insgesamt um eine Gr\u00f6\u00dfenordnung von 30 bis 40\u00a0Milliarden Euro."
+   ]
+  }, 
+  {
+   "begin": "383.560", 
+   "children": [], 
+   "end": "387.200", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Es war das Rentenanpassungsgesetz aus dem Jahr\u00a01982, "
+   ]
+  }, 
+  {
+   "begin": "387.200", 
+   "children": [], 
+   "end": "393.880", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "durch das erstmals der Rente vergleichbare Einnahmen zur Beitragszahlung in der GKV herangezogen wurden. "
+   ]
+  }, 
+  {
+   "begin": "393.880", 
+   "children": [], 
+   "end": "399.240", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "2003 wurden die Beitragspflichten pr\u00e4zisiert und ausgeweitet. "
+   ]
+  }, 
+  {
+   "begin": "399.240", 
+   "children": [], 
+   "end": "402.520", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "Seitdem gibt es dar\u00fcber eine juristische Auseinandersetzung."
+   ]
+  }, 
+  {
+   "begin": "402.520", 
+   "children": [], 
+   "end": "405.280", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings muss man auch darauf hinweisen, "
+   ]
+  }, 
+  {
+   "begin": "405.280", 
+   "children": [], 
+   "end": "410.880", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "dass das Bundesverfassungsgericht in dieser juristischen Auseinandersetzung klargestellt hat, "
+   ]
+  }, 
+  {
+   "begin": "410.880", 
+   "children": [], 
+   "end": "414.160", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "dass der Gesetzgeber von Verfassungs wegen berechtigt ist, "
+   ]
+  }, 
+  {
+   "begin": "414.160", 
+   "children": [], 
+   "end": "425.440", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "j\u00fcngere Krankenversicherte von der Finanzierung des h\u00f6heren Aufwands f\u00fcr die Rentner zu entlasten und die Rentner entsprechend ihrem Einkommen verst\u00e4rkt zur Finanzierung heranzuziehen."
+   ]
+  }, 
+  {
+   "begin": "425.440", 
+   "children": [], 
+   "end": "430.320", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Das ist vom Bundesverfassungsgericht durchdekliniert."
+   ]
+  }, 
+  {
+   "begin": "430.320", 
+   "children": [], 
+   "end": "433.440", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich haben wir vieles unternommen. "
+   ]
+  }, 
+  {
+   "begin": "433.440", 
+   "children": [], 
+   "end": "436.720", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben die Attraktivit\u00e4t der Altersvorsorge gesteigert, "
+   ]
+  }, 
+  {
+   "begin": "436.720", 
+   "children": [], 
+   "end": "448.400", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "indem wir das Recht auf Entgeltumwandlung bis zu 4\u00a0Prozent der Beitragsbemessungsgrenze der gesetzlichen Rentenversicherung zur Finanzierung einer Altersvorsorge beitragsfrei lassen."
+   ]
+  }, 
+  {
+   "begin": "448.400", 
+   "children": [], 
+   "end": "453.960", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben durch das Betriebsrentenst\u00e4rkungsgesetz diese Regelung ab 2019 f\u00fcr neue Vertr\u00e4ge bzw. "
+   ]
+  }, 
+  {
+   "begin": "453.960", 
+   "children": [], 
+   "end": "457.960", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "2022 f\u00fcr bestehende Vertr\u00e4ge noch einmal gest\u00e4rkt, "
+   ]
+  }, 
+  {
+   "begin": "457.960", 
+   "children": [], 
+   "end": "467.480", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "sodass Arbeitgeber die dadurch eingesparten Sozialversicherungsbeitr\u00e4ge in pauschalierter Form von 15\u00a0Prozent in die betriebliche Altersvorsorge zahlen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "467.480", 
+   "children": [], 
+   "end": "469.080", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus haben wir\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "469.080", 
+   "children": [], 
+   "end": "470.560", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "davon war schon die Rede\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "470.560", 
+   "children": [], 
+   "end": "476.240", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "durch das Gesetz GKV-Beitr\u00e4ge auf betriebliche Riester-Renten in der Auszahlungsphase abgeschafft. "
+   ]
+  }, 
+  {
+   "begin": "476.240", 
+   "children": [], 
+   "end": "481.080", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden damit wie private Riester-Renten behandelt und von Beitr\u00e4gen verschont."
+   ]
+  }, 
+  {
+   "begin": "481.080", 
+   "children": [], 
+   "end": "484.800", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "Sicherlich kann man \u00fcber weitere Reformen nachdenken. "
+   ]
+  }, 
+  {
+   "begin": "484.800", 
+   "children": [], 
+   "end": "489.400", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "Dann muss man aber auch einen ehrlichen Blick auf die finanziellen Konsequenzen werfen. "
+   ]
+  }, 
+  {
+   "begin": "489.400", 
+   "children": [], 
+   "end": "491.800", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "Je nach Umfang der Vorschl\u00e4ge, "
+   ]
+  }, 
+  {
+   "begin": "491.800", 
+   "children": [], 
+   "end": "493.680", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "die realisiert werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "493.680", 
+   "children": [], 
+   "end": "503.120", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "handelt es sich dann um eine Minderung der Finanzkraft der gesetzlichen Krankenkassen zwischen 2,6\u00a0Milliarden Euro und \u00fcber 5\u00a0Milliarden Euro."
+   ]
+  }, 
+  {
+   "begin": "503.120", 
+   "children": [], 
+   "end": "505.560", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "Ohne Kompensation hie\u00dfe das, "
+   ]
+  }, 
+  {
+   "begin": "505.560", 
+   "children": [], 
+   "end": "514.240", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "dass es zu einer Erh\u00f6hung des Beitrags f\u00fcr die gesamte Solidargemeinschaft und damit auch zu einer Mehrbelastung von Geringverdienern kommt"
+   ]
+  }, 
+  {
+   "begin": "514.240", 
+   "children": [], 
+   "end": "518.600", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "oder zu einer Einschr\u00e4nkung der Leistungen in der gesetzlichen Krankenkasse."
+   ]
+  }, 
+  {
+   "begin": "518.600", 
+   "children": [], 
+   "end": "521.880", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen bitte ich Sie herzlich um Verst\u00e4ndnis, "
+   ]
+  }, 
+  {
+   "begin": "521.880", 
+   "children": [], 
+   "end": "525.520", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "dass wir auf der Grundlage Ihres widerspr\u00fcchlichen, "
+   ]
+  }, 
+  {
+   "begin": "525.520", 
+   "children": [], 
+   "end": "528.240", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "inkonsistenten und inkonsequenten Antrags, "
+   ]
+  }, 
+  {
+   "begin": "528.240", 
+   "children": [], 
+   "end": "532.960", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "der rein populistisch motiviert ist, "
+   ]
+  }, 
+  {
+   "begin": "532.960", 
+   "children": [], 
+   "end": "536.280", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "weder das eine noch das andere \u00fcbers Knie brechen werden."
+   ]
+  }, 
+  {
+   "begin": "536.280", 
+   "children": [], 
+   "end": "540.120", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "Ich bedanke mich f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "540.120", 
+   "children": [], 
+   "end": "547.000", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die SPD-Fraktion spricht jetzt die Kollegin Sabine Dittmar."
+   ]
+  }
+ ]
+}

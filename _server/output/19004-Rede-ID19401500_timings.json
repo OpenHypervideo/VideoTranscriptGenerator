@@ -1,0 +1,564 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.160", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "children": [], 
+   "end": "10.080", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.080", 
+   "children": [], 
+   "end": "14.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Kollege Neu, "
+   ]
+  }, 
+  {
+   "begin": "14.440", 
+   "children": [], 
+   "end": "16.000", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist auch, "
+   ]
+  }, 
+  {
+   "begin": "16.000", 
+   "children": [], 
+   "end": "20.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass \u00fcber weite Teile Ihrer Rede Ihre eigene Fraktion nicht geklatscht hat, "
+   ]
+  }, 
+  {
+   "begin": "20.560", 
+   "children": [], 
+   "end": "21.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "aber die AfD."
+   ]
+  }, 
+  {
+   "begin": "21.920", 
+   "children": [], 
+   "end": "35.440", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht sollten Sie \u00fcber Ihre Argumente noch einmal nachdenken."
+   ]
+  }, 
+  {
+   "begin": "35.440", 
+   "children": [], 
+   "end": "36.880", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage das, "
+   ]
+  }, 
+  {
+   "begin": "36.880", 
+   "children": [], 
+   "end": "40.560", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "weil ich Herrn Link an einer Stelle widersprechen m\u00f6chte. "
+   ]
+  }, 
+  {
+   "begin": "40.560", 
+   "children": [], 
+   "end": "45.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin n\u00e4mlich nicht der Auffassung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "45.240", 
+   "children": [], 
+   "end": "46.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "das ist der Grund, "
+   ]
+  }, 
+  {
+   "begin": "46.760", 
+   "children": [], 
+   "end": "51.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "warum wir dieses Mandat von Anfang an abgelehnt haben\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "51.520", 
+   "children": [], 
+   "end": "54.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass es f\u00fcr dieses Mandat eine v\u00f6lkerrechtliche Grundlage gibt. "
+   ]
+  }, 
+  {
+   "begin": "54.880", 
+   "children": [], 
+   "end": "57.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt kein Mandat der Vereinten Nationen,"
+   ]
+  }, 
+  {
+   "begin": "57.760", 
+   "children": [], 
+   "end": "60.680", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "das die Bundesrepublik Deutschland erm\u00e4chtigen w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "60.680", 
+   "children": [], 
+   "end": "63.400", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "diesen Weg einzuschlagen."
+   ]
+  }, 
+  {
+   "begin": "63.400", 
+   "children": [], 
+   "end": "65.960", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin der Auffassung, "
+   ]
+  }, 
+  {
+   "begin": "65.960", 
+   "children": [], 
+   "end": "70.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das V\u00f6lkerrecht hochhalten m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "70.360", 
+   "children": [], 
+   "end": "76.760", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Sie sollten deshalb mit diesem Umstand nachdenklich und kritisch umgehen."
+   ]
+  }, 
+  {
+   "begin": "76.760", 
+   "children": [], 
+   "end": "78.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Der Grundgedanke ist doch der: "
+   ]
+  }, 
+  {
+   "begin": "78.720", 
+   "children": [], 
+   "end": "82.920", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Angesichts einer Situation wie in Syrien, "
+   ]
+  }, 
+  {
+   "begin": "82.920", 
+   "children": [], 
+   "end": "86.840", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "unter Teilhabe von gro\u00dfen M\u00e4chten, "
+   ]
+  }, 
+  {
+   "begin": "86.840", 
+   "children": [], 
+   "end": "89.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die ein Vetorecht im Sicherheitsrat haben, "
+   ]
+  }, 
+  {
+   "begin": "89.720", 
+   "children": [], 
+   "end": "91.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "liegt die Versuchung immer nahe, "
+   ]
+  }, 
+  {
+   "begin": "91.800", 
+   "children": [], 
+   "end": "93.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "zu sagen: "
+   ]
+  }, 
+  {
+   "begin": "93.120", 
+   "children": [], 
+   "end": "98.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Man kann doch nicht zuschauen angesichts des Leides der Zivilbev\u00f6lkerung. "
+   ]
+  }, 
+  {
+   "begin": "98.160", 
+   "children": [], 
+   "end": "102.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Dass die Menschen in Syrien die Opfer dieses Krieges sind, "
+   ]
+  }, 
+  {
+   "begin": "102.040", 
+   "children": [], 
+   "end": "104.240", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "das kommt in dieser Debatte manchmal ein bisschen zu kurz."
+   ]
+  }, 
+  {
+   "begin": "104.240", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wir sagen oft\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "108.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "das haben wir hier oft erlebt\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "108.200", 
+   "children": [], 
+   "end": "113.640", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass wir schnell helfen wollen. "
+   ]
+  }, 
+  {
+   "begin": "113.640", 
+   "children": [], 
+   "end": "116.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt stellt sich aber heraus, "
+   ]
+  }, 
+  {
+   "begin": "116.000", 
+   "children": [], 
+   "end": "121.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass die Frage nach der v\u00f6lkerrechtlichen Begr\u00fcndung gar keine nur rechtliche, "
+   ]
+  }, 
+  {
+   "begin": "121.920", 
+   "children": [], 
+   "end": "123.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "nur abstrakte, "
+   ]
+  }, 
+  {
+   "begin": "123.600", 
+   "children": [], 
+   "end": "126.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "nur moralische Frage ist, "
+   ]
+  }, 
+  {
+   "begin": "126.000", 
+   "children": [], 
+   "end": "128.840", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch eine h\u00f6chst praktische Frage. "
+   ]
+  }, 
+  {
+   "begin": "128.840", 
+   "children": [], 
+   "end": "130.640", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt stellt man fest: "
+   ]
+  }, 
+  {
+   "begin": "130.640", 
+   "children": [], 
+   "end": "135.920", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem milit\u00e4rischen Sieg \u00fcber Daesh ist nichts gewonnen; "
+   ]
+  }, 
+  {
+   "begin": "135.920", 
+   "children": [], 
+   "end": "138.480", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "es bedarf einer politischen L\u00f6sung. "
+   ]
+  }, 
+  {
+   "begin": "138.480", 
+   "children": [], 
+   "end": "142.400", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Und nach wem wird jetzt zur Findung einer politischen L\u00f6sung gerufen? "
+   ]
+  }, 
+  {
+   "begin": "142.400", 
+   "children": [], 
+   "end": "145.040", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Nach den Vereinten Nationen."
+   ]
+  }, 
+  {
+   "begin": "145.040", 
+   "children": [], 
+   "end": "146.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen sage ich: "
+   ]
+  }, 
+  {
+   "begin": "146.120", 
+   "children": [], 
+   "end": "154.280", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Die vermeintliche Abk\u00fcrzung hat sich in der Vergangenheit leider viel zu h\u00e4ufig als Umweg herausgestellt, "
+   ]
+  }, 
+  {
+   "begin": "154.280", 
+   "children": [], 
+   "end": "159.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "durch den die Beendigung solcher Konflikte eher verz\u00f6gert wurde."
+   ]
+  }, 
+  {
+   "begin": "159.920", 
+   "children": [], 
+   "end": "161.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Grund, "
+   ]
+  }, 
+  {
+   "begin": "161.520", 
+   "children": [], 
+   "end": "163.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "warum wir sagen: "
+   ]
+  }, 
+  {
+   "begin": "163.360", 
+   "children": [], 
+   "end": "167.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Diese Form des Milit\u00e4reinsatzes ohne ein solches Mandat geht nicht.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "167.600", 
+   "children": [], 
+   "end": "169.280", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen pl\u00e4dieren wir daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "169.280", 
+   "children": [], 
+   "end": "173.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "k\u00fcnftig genau darauf zu achten und nachdr\u00fccklich daf\u00fcr Sorge zu tragen, "
+   ]
+  }, 
+  {
+   "begin": "173.640", 
+   "children": [], 
+   "end": "175.000", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass die Institution, "
+   ]
+  }, 
+  {
+   "begin": "175.000", 
+   "children": [], 
+   "end": "179.280", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die am Ende als Einzige in der Lage ist und die F\u00e4higkeiten hat, "
+   ]
+  }, 
+  {
+   "begin": "179.280", 
+   "children": [], 
+   "end": "180.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "solche Konflikte zu l\u00f6sen, "
+   ]
+  }, 
+  {
+   "begin": "180.960", 
+   "children": [], 
+   "end": "187.600", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "auch bei der Frage nach dem Einsatz milit\u00e4rischer Mittel ein entscheidendes Wort mitzureden hat. "
+   ]
+  }, 
+  {
+   "begin": "187.600", 
+   "children": [], 
+   "end": "202.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das verstehe ich unter der Bindung des Einsatzes der Bundeswehr an das Grundgesetz und an das V\u00f6lkerrecht."
+   ]
+  }, 
+  {
+   "begin": "202.760", 
+   "children": [], 
+   "end": "206.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Letzter Redner zu diesem Tagesordnungspunkt ist der Kollege Florian Hahn, "
+   ]
+  }, 
+  {
+   "begin": "206.360", 
+   "children": [], 
+   "end": "208.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

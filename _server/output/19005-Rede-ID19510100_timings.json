@@ -1,0 +1,954 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "children": [], 
+   "end": "10.800", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.800", 
+   "children": [], 
+   "end": "15.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und liebe Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "15.320", 
+   "children": [], 
+   "end": "20.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Vor 50\u00a0Jahren ist in Kapstadt das erste Herz verpflanzt worden. "
+   ]
+  }, 
+  {
+   "begin": "20.960", 
+   "children": [], 
+   "end": "25.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Professor Barnard hat es einem Gem\u00fcseh\u00e4ndler eingepflanzt. "
+   ]
+  }, 
+  {
+   "begin": "25.480", 
+   "children": [], 
+   "end": "27.000", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Der hat noch 18\u00a0Tage gelebt, "
+   ]
+  }, 
+  {
+   "begin": "27.000", 
+   "children": [], 
+   "end": "29.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dann ist er gestorben."
+   ]
+  }, 
+  {
+   "begin": "29.080", 
+   "children": [], 
+   "end": "29.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Europa, "
+   ]
+  }, 
+  {
+   "begin": "29.920", 
+   "children": [], 
+   "end": "32.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "meint man geradezu, "
+   ]
+  }, 
+  {
+   "begin": "32.520", 
+   "children": [], 
+   "end": "36.280", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "braucht auch ein neues Herz, "
+   ]
+  }, 
+  {
+   "begin": "36.280", 
+   "children": [], 
+   "end": "36.960", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "sprich: "
+   ]
+  }, 
+  {
+   "begin": "36.960", 
+   "children": [], 
+   "end": "39.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "eine Verbesserung der jetzigen Situation. "
+   ]
+  }, 
+  {
+   "begin": "39.920", 
+   "children": [], 
+   "end": "43.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Eine Herzensangelegenheit m\u00fcsste uns Europa wieder werden, "
+   ]
+  }, 
+  {
+   "begin": "43.800", 
+   "children": [], 
+   "end": "48.080", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "so habe ich mir beim Durchlesen Ihres Antrages gedacht, "
+   ]
+  }, 
+  {
+   "begin": "48.080", 
+   "children": [], 
+   "end": "55.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "lieber Herr Toncar und liebe Kolleginnen und Kollegen von der FDP, "
+   ]
+  }, 
+  {
+   "begin": "55.360", 
+   "children": [], 
+   "end": "70.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "in dem Sie die Vorstellungen von Jean-Claude Juncker zerlegt haben und in au\u00dferordentlich kritischer Weise auf Junckers sogenanntes Nikolaus-Paket eingegangen sind. "
+   ]
+  }, 
+  {
+   "begin": "70.280", 
+   "children": [], 
+   "end": "74.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ihm ging ja schon ein Bericht zur Lage Europas voraus. "
+   ]
+  }, 
+  {
+   "begin": "74.600", 
+   "children": [], 
+   "end": "78.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Auch der Bericht der f\u00fcnf Pr\u00e4sidenten geht in diese Richtung. "
+   ]
+  }, 
+  {
+   "begin": "78.520", 
+   "children": [], 
+   "end": "79.120", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Es geht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "79.120", 
+   "children": [], 
+   "end": "82.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "das haben wir in der Diskussion schon geh\u00f6rt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "82.640", 
+   "children": [], 
+   "end": "89.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "um eine Machtverschiebung weg von den Nationalstaaten hin zu den europ\u00e4ischen Institutionen. "
+   ]
+  }, 
+  {
+   "begin": "89.400", 
+   "children": [], 
+   "end": "92.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das sehen wir nat\u00fcrlich mit gro\u00dfer Skepsis."
+   ]
+  }, 
+  {
+   "begin": "92.680", 
+   "children": [], 
+   "end": "94.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4hnlich wie Sie, "
+   ]
+  }, 
+  {
+   "begin": "94.240", 
+   "children": [], 
+   "end": "96.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "lieber Herr Toncar, "
+   ]
+  }, 
+  {
+   "begin": "96.040", 
+   "children": [], 
+   "end": "100.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "meine Kolleginnen und Kollegen von der FDP, "
+   ]
+  }, 
+  {
+   "begin": "100.800", 
+   "children": [], 
+   "end": "101.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "sehen wir es kritisch, "
+   ]
+  }, 
+  {
+   "begin": "101.840", 
+   "children": [], 
+   "end": "104.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wenn gemeinschaftlich finanziert werden soll, "
+   ]
+  }, 
+  {
+   "begin": "104.560", 
+   "children": [], 
+   "end": "107.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die Schulden in Europa gemeinschaftlich getragen werden sollen. "
+   ]
+  }, 
+  {
+   "begin": "107.960", 
+   "children": [], 
+   "end": "111.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Euro-Bonds lehnen wir selbstverst\u00e4ndlich ab. "
+   ]
+  }, 
+  {
+   "begin": "111.120", 
+   "children": [], 
+   "end": "115.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Kein Land in Europa soll f\u00fcr die Schulden der anderen aufkommen. "
+   ]
+  }, 
+  {
+   "begin": "115.520", 
+   "children": [], 
+   "end": "117.080", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Dennoch bem\u00e4ngele ich, "
+   ]
+  }, 
+  {
+   "begin": "117.080", 
+   "children": [], 
+   "end": "122.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass mit den Vorstellungen von Juncker in der Weise umgegangen wird, "
+   ]
+  }, 
+  {
+   "begin": "122.440", 
+   "children": [], 
+   "end": "126.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass geradezu alles abgelehnt wird mit der Ausnahme, "
+   ]
+  }, 
+  {
+   "begin": "126.040", 
+   "children": [], 
+   "end": "128.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass man die Europ\u00e4ische Investitionsbank st\u00e4rken m\u00f6chte. "
+   ]
+  }, 
+  {
+   "begin": "128.960", 
+   "children": [], 
+   "end": "130.720", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Dass dort ein Kollege von Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "130.720", 
+   "children": [], 
+   "end": "133.480", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "der ehemalige FDP-Bundestagsabgeordnete Werner Hoyer, "
+   ]
+  }, 
+  {
+   "begin": "133.480", 
+   "children": [], 
+   "end": "134.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Pr\u00e4sident ist, "
+   ]
+  }, 
+  {
+   "begin": "134.200", 
+   "children": [], 
+   "end": "135.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "mag ja Zufall sein, "
+   ]
+  }, 
+  {
+   "begin": "135.400", 
+   "children": [], 
+   "end": "137.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "aber dennoch f\u00e4llt es auf. "
+   ]
+  }, 
+  {
+   "begin": "137.560", 
+   "children": [], 
+   "end": "138.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich meine, "
+   ]
+  }, 
+  {
+   "begin": "138.640", 
+   "children": [], 
+   "end": "144.720", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass das dem Anliegen von Juncker und der Europ\u00e4ischen Kommission nicht gerecht wird."
+   ]
+  }, 
+  {
+   "begin": "144.720", 
+   "children": [], 
+   "end": "145.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "145.440", 
+   "children": [], 
+   "end": "146.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "es geht darum, "
+   ]
+  }, 
+  {
+   "begin": "146.640", 
+   "children": [], 
+   "end": "149.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Europa in der Welt stark zu machen bzw. "
+   ]
+  }, 
+  {
+   "begin": "149.840", 
+   "children": [], 
+   "end": "150.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr zu sorgen, "
+   ]
+  }, 
+  {
+   "begin": "150.520", 
+   "children": [], 
+   "end": "152.000", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass es stark bleibt. "
+   ]
+  }, 
+  {
+   "begin": "152.000", 
+   "children": [], 
+   "end": "152.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie wissen, "
+   ]
+  }, 
+  {
+   "begin": "152.520", 
+   "children": [], 
+   "end": "153.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass wir\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "153.880", 
+   "children": [], 
+   "end": "156.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "der Kollege Brinkhaus hat dar\u00fcber gesprochen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "156.400", 
+   "children": [], 
+   "end": "161.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "diese unglaubliche Erfolgsgeschichte vor jetzt 60\u00a0Jahren mit den R\u00f6mischen Vertr\u00e4gen begr\u00fcndet haben. "
+   ]
+  }, 
+  {
+   "begin": "161.120", 
+   "children": [], 
+   "end": "162.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Es waren damals sechs L\u00e4nder, "
+   ]
+  }, 
+  {
+   "begin": "162.160", 
+   "children": [], 
+   "end": "163.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "163.120", 
+   "children": [], 
+   "end": "163.800", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Frankreich, "
+   ]
+  }, 
+  {
+   "begin": "163.800", 
+   "children": [], 
+   "end": "164.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Italien und die Benelux-Staaten. "
+   ]
+  }, 
+  {
+   "begin": "164.520", 
+   "children": [], 
+   "end": "166.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Heute sind es 28\u00a0L\u00e4nder. "
+   ]
+  }, 
+  {
+   "begin": "166.920", 
+   "children": [], 
+   "end": "170.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Damals waren es 170\u00a0Millionen Menschen, "
+   ]
+  }, 
+  {
+   "begin": "170.680", 
+   "children": [], 
+   "end": "174.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "heute sind es 512\u00a0Millionen. "
+   ]
+  }, 
+  {
+   "begin": "174.360", 
+   "children": [], 
+   "end": "180.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Die relativ wenigen Menschen haben damals etwa 14\u00a0Prozent der Weltbev\u00f6lkerung repr\u00e4sentiert; "
+   ]
+  }, 
+  {
+   "begin": "180.400", 
+   "children": [], 
+   "end": "185.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die vielen Menschen heute repr\u00e4sentieren 7\u00a0Prozent der Weltbev\u00f6lkerung. "
+   ]
+  }, 
+  {
+   "begin": "185.000", 
+   "children": [], 
+   "end": "185.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "185.680", 
+   "children": [], 
+   "end": "187.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass der relative Einfluss, "
+   ]
+  }, 
+  {
+   "begin": "187.480", 
+   "children": [], 
+   "end": "190.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "die Wichtigkeit Europas abgenommen hat, "
+   ]
+  }, 
+  {
+   "begin": "190.280", 
+   "children": [], 
+   "end": "191.640", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "und zwar dramatisch. "
+   ]
+  }, 
+  {
+   "begin": "191.640", 
+   "children": [], 
+   "end": "194.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir es nicht schaffen, "
+   ]
+  }, 
+  {
+   "begin": "194.080", 
+   "children": [], 
+   "end": "199.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Europa wieder als eine Herzensangelegenheit f\u00fcr uns zu betrachten und entsprechende Ma\u00dfnahmen zu implementieren, "
+   ]
+  }, 
+  {
+   "begin": "199.520", 
+   "children": [], 
+   "end": "200.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dann werden wir, "
+   ]
+  }, 
+  {
+   "begin": "200.240", 
+   "children": [], 
+   "end": "200.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "glaube ich, "
+   ]
+  }, 
+  {
+   "begin": "200.920", 
+   "children": [], 
+   "end": "202.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "noch manches Wunder erleben. "
+   ]
+  }, 
+  {
+   "begin": "202.600", 
+   "children": [], 
+   "end": "204.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt auch, "
+   ]
+  }, 
+  {
+   "begin": "204.000", 
+   "children": [], 
+   "end": "208.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass Europa wieder f\u00fcr Berechenbarkeit stehen muss. "
+   ]
+  }, 
+  {
+   "begin": "208.000", 
+   "children": [], 
+   "end": "210.720", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Konservative Tugenden wie Verl\u00e4sslichkeit, "
+   ]
+  }, 
+  {
+   "begin": "210.720", 
+   "children": [], 
+   "end": "211.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Stabilit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "211.560", 
+   "children": [], 
+   "end": "220.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Berechenbarkeit m\u00fcssen wir in der Tat auch von Deutschland aus wieder zum Durchbruch verhelfen. "
+   ]
+  }, 
+  {
+   "begin": "220.200", 
+   "children": [], 
+   "end": "221.880", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt auch, "
+   ]
+  }, 
+  {
+   "begin": "221.880", 
+   "children": [], 
+   "end": "222.920", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass der Zustand, "
+   ]
+  }, 
+  {
+   "begin": "222.920", 
+   "children": [], 
+   "end": "224.280", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "ohne Regierung zu sein, "
+   ]
+  }, 
+  {
+   "begin": "224.280", 
+   "children": [], 
+   "end": "225.680", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "nicht lange tragbar ist."
+   ]
+  }, 
+  {
+   "begin": "225.680", 
+   "children": [], 
+   "end": "226.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Das ist, "
+   ]
+  }, 
+  {
+   "begin": "226.480", 
+   "children": [], 
+   "end": "227.080", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "glaube ich, "
+   ]
+  }, 
+  {
+   "begin": "227.080", 
+   "children": [], 
+   "end": "228.480", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "auch eine Aufgabe, "
+   ]
+  }, 
+  {
+   "begin": "228.480", 
+   "children": [], 
+   "end": "230.200", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "die wir heute sehen m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "230.200", 
+   "children": [], 
+   "end": "231.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "231.600", 
+   "children": [], 
+   "end": "236.680", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "vor wenigen Jahren hat der damalige Bundespr\u00e4sident Roman Herzog davon gesprochen, "
+   ]
+  }, 
+  {
+   "begin": "236.680", 
+   "children": [], 
+   "end": "239.240", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Ruck durch Deutschland gehen m\u00fcsse. "
+   ]
+  }, 
+  {
+   "begin": "239.240", 
+   "children": [], 
+   "end": "239.840", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Ich meine, "
+   ]
+  }, 
+  {
+   "begin": "239.840", 
+   "children": [], 
+   "end": "242.400", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dass auch ein Ruck durch Europa gehen muss, "
+   ]
+  }, 
+  {
+   "begin": "242.400", 
+   "children": [], 
+   "end": "247.440", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "mit dem wir diese Faszination Europa wieder mit neuem Leben erf\u00fcllen. "
+   ]
+  }, 
+  {
+   "begin": "247.440", 
+   "children": [], 
+   "end": "249.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Herr Kollege \u00adToncar, "
+   ]
+  }, 
+  {
+   "begin": "249.240", 
+   "children": [], 
+   "end": "253.120", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben das hier eloquent ausgef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "253.120", 
+   "children": [], 
+   "end": "257.920", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Antrag ist aber kein besonderes Herzstimulans f\u00fcr Europa,"
+   ]
+  }, 
+  {
+   "begin": "257.920", 
+   "children": [], 
+   "end": "264.600", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "und die Vorschl\u00e4ge von Jean-Claude Juncker sind auch kein Herzinfarkt f\u00fcr Europa. "
+   ]
+  }, 
+  {
+   "begin": "264.600", 
+   "children": [], 
+   "end": "270.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden uns in den Diskussionen in den n\u00e4chsten Wochen und Monaten damit befassen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "270.360", 
+   "children": [], 
+   "end": "275.320", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "auf welchem Weg wir Europa wieder beseelen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "275.320", 
+   "children": [], 
+   "end": "282.480", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "damit es ein Herzensanliegen f\u00fcr uns alle wird."
+   ]
+  }, 
+  {
+   "begin": "282.480", 
+   "children": [], 
+   "end": "285.000", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Vielen herzlichen Dank."
+   ]
+  }
+ ]
+}

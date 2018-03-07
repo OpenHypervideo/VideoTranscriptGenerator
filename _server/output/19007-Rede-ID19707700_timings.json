@@ -1,0 +1,774 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.480", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "2.480", 
+   "children": [], 
+   "end": "8.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.120", 
+   "children": [], 
+   "end": "13.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der 11.\u00a0September 2001, "
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "children": [], 
+   "end": "27.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "die Anschl\u00e4ge von Madrid und London und das Attentat auf eine Gruppe deutscher Touristen auf Djerba in Tunesien im April\u00a02002 haben sicherheitspolitisch ein neues Zeitalter eingeleitet. "
+   ]
+  }, 
+  {
+   "begin": "27.280", 
+   "children": [], 
+   "end": "33.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Seitdem stehen alle westlichen Demokratien im Fokus des islamistischen Terrorismus."
+   ]
+  }, 
+  {
+   "begin": "33.400", 
+   "children": [], 
+   "end": "35.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Eine Zeit lang konnte es so scheinen, "
+   ]
+  }, 
+  {
+   "begin": "35.800", 
+   "children": [], 
+   "end": "38.840", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "als ob wir in Deutschland von einem Anschlag verschont bleiben w\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "38.840", 
+   "children": [], 
+   "end": "40.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Aber die Gefahr schwebte \u00fcber uns, "
+   ]
+  }, 
+  {
+   "begin": "40.920", 
+   "children": [], 
+   "end": "46.640", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend die Sicherheitsbeh\u00f6rden ihre Schutzvorkehrungen \u00fcberall systematisch verst\u00e4rkten. "
+   ]
+  }, 
+  {
+   "begin": "46.640", 
+   "children": [], 
+   "end": "47.600", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "So kam es\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "47.600", 
+   "children": [], 
+   "end": "49.440", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "all diesen Ma\u00dfnahmen zum Trotz\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "49.440", 
+   "children": [], 
+   "end": "53.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "seit dem Herbst\u00a02015 zu einer Serie von Anschl\u00e4gen in Europa, "
+   ]
+  }, 
+  {
+   "begin": "53.680", 
+   "children": [], 
+   "end": "57.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die 2016 auch uns erreichte."
+   ]
+  }, 
+  {
+   "begin": "57.240", 
+   "children": [], 
+   "end": "63.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Am 19.\u00a0Dezember 2016 traf auch uns der Terror hier in Berlin mit ungeheurer Brutalit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "63.840", 
+   "children": [], 
+   "end": "64.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Zw\u00f6lf Menschen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "64.960", 
+   "children": [], 
+   "end": "67.720", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Harbarth hat eben an sie erinnert\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "67.720", 
+   "children": [], 
+   "end": "70.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Einheimische und G\u00e4ste dieser gro\u00dfartigen Stadt, "
+   ]
+  }, 
+  {
+   "begin": "70.320", 
+   "children": [], 
+   "end": "71.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "sind ermordet worden. "
+   ]
+  }, 
+  {
+   "begin": "71.960", 
+   "children": [], 
+   "end": "73.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "60\u00a0Menschen wurden verletzt, "
+   ]
+  }, 
+  {
+   "begin": "73.440", 
+   "children": [], 
+   "end": "74.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Hunderte traumatisiert. "
+   ]
+  }, 
+  {
+   "begin": "74.960", 
+   "children": [], 
+   "end": "80.840", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr viele liegt seitdem ein Schatten \u00fcber der Freude an winterlichen Weihnachtsm\u00e4rkten."
+   ]
+  }, 
+  {
+   "begin": "80.840", 
+   "children": [], 
+   "end": "81.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das Krisenmanagement, "
+   ]
+  }, 
+  {
+   "begin": "81.880", 
+   "children": [], 
+   "end": "87.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "aber auch Ermittlungsfehler und Irrt\u00fcmer nach dem Anschlag sowie der Umgang mit Opfern und Angeh\u00f6rigen haben gezeigt: "
+   ]
+  }, 
+  {
+   "begin": "87.520", 
+   "children": [], 
+   "end": "90.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wir waren l\u00e4ngst nicht so gut auf den schlimmsten Fall vorbereitet, "
+   ]
+  }, 
+  {
+   "begin": "90.640", 
+   "children": [], 
+   "end": "92.600", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wie es notwendig gewesen w\u00e4re. "
+   ]
+  }, 
+  {
+   "begin": "92.600", 
+   "children": [], 
+   "end": "99.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Der Regierende B\u00fcrgermeister von Berlin hat im Dezember bei einer Gedenkveranstaltung im Abgeordnetenhaus dazu angemessene Worte gefunden."
+   ]
+  }, 
+  {
+   "begin": "99.520", 
+   "children": [], 
+   "end": "107.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "St\u00fcck f\u00fcr St\u00fcck mussten wir eine erschreckende Chronik von Fehlern und Vers\u00e4umnissen der Sicherheitsbeh\u00f6rden in den Monaten vor dem Anschlag zur Kenntnis nehmen. "
+   ]
+  }, 
+  {
+   "begin": "107.560", 
+   "children": [], 
+   "end": "109.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "In den Medien wird sogar spekuliert, "
+   ]
+  }, 
+  {
+   "begin": "109.520", 
+   "children": [], 
+   "end": "114.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "ob es sich dabei um ungl\u00fcckliche Zuf\u00e4lle oder um die Vertuschung geheimdienstlicher Aktivit\u00e4ten handelt."
+   ]
+  }, 
+  {
+   "begin": "114.760", 
+   "children": [], 
+   "end": "116.160", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Warum halten wir jetzt, "
+   ]
+  }, 
+  {
+   "begin": "116.160", 
+   "children": [], 
+   "end": "117.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber ein Jahr sp\u00e4ter, "
+   ]
+  }, 
+  {
+   "begin": "117.440", 
+   "children": [], 
+   "end": "120.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "einen Untersuchungsausschuss im Bundestag f\u00fcr erforderlich? "
+   ]
+  }, 
+  {
+   "begin": "120.440", 
+   "children": [], 
+   "end": "127.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Am Tag nach dem Anschlag versprachen die Bundeskanzlerin und der Innenminister eine r\u00fcckhaltlose Aufkl\u00e4rung des Falles. "
+   ]
+  }, 
+  {
+   "begin": "127.160", 
+   "children": [], 
+   "end": "129.160", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Aber noch immer bleiben viele Fragen offen. "
+   ]
+  }, 
+  {
+   "begin": "129.160", 
+   "children": [], 
+   "end": "133.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Bisher sind wahrscheinlich noch nicht einmal alle relevanten Vorg\u00e4nge bekannt. "
+   ]
+  }, 
+  {
+   "begin": "133.160", 
+   "children": [], 
+   "end": "136.880", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Welche \u00dcberlegungen der Sicherheitsorgane haben zu welchen Entscheidungen gef\u00fchrt? "
+   ]
+  }, 
+  {
+   "begin": "136.880", 
+   "children": [], 
+   "end": "139.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wer war daf\u00fcr verantwortlich? "
+   ]
+  }, 
+  {
+   "begin": "139.120", 
+   "children": [], 
+   "end": "140.960", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Es gab Fehler bei Landesbeh\u00f6rden, "
+   ]
+  }, 
+  {
+   "begin": "140.960", 
+   "children": [], 
+   "end": "143.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "aber offenbar auch zu wenig Austausch, "
+   ]
+  }, 
+  {
+   "begin": "143.000", 
+   "children": [], 
+   "end": "147.480", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "zu wenig Zusammenarbeit zwischen den Sicherheitsbeh\u00f6rden von Bund und L\u00e4ndern."
+   ]
+  }, 
+  {
+   "begin": "147.480", 
+   "children": [], 
+   "end": "153.360", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Ein Untersuchungsausschuss dieses Hauses zum Anschlag vom Breitscheidplatz muss der Frage nachgehen, "
+   ]
+  }, 
+  {
+   "begin": "153.360", 
+   "children": [], 
+   "end": "160.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "ob es sich dabei um eine Kette von individuellen Fehlern handelt oder um M\u00e4ngel in der Sicherheitsarchitektur der Republik. "
+   ]
+  }, 
+  {
+   "begin": "160.080", 
+   "children": [], 
+   "end": "164.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das ist unsere ureigene Aufgabe."
+   ]
+  }, 
+  {
+   "begin": "164.000", 
+   "children": [], 
+   "end": "171.480", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Im Landtag von Nordrhein-Westfalen und im Berliner Abgeordnetenhaus gehen bereits zwei Untersuchungsaussch\u00fcsse diesen und verwandten Fragen nach. "
+   ]
+  }, 
+  {
+   "begin": "171.480", 
+   "children": [], 
+   "end": "173.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Erste Berichte liegen vor. "
+   ]
+  }, 
+  {
+   "begin": "173.640", 
+   "children": [], 
+   "end": "175.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Deren Erkenntnisse wollen wir ber\u00fccksichtigen. "
+   ]
+  }, 
+  {
+   "begin": "175.960", 
+   "children": [], 
+   "end": "181.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden eng mit den Kollegen in D\u00fcsseldorf und in der Niederkirchnerstra\u00dfe zusammenarbeiten."
+   ]
+  }, 
+  {
+   "begin": "181.880", 
+   "children": [], 
+   "end": "187.720", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Im Mittelpunkt m\u00fcssen f\u00fcr uns hier im Bundestag kritische Fragen zum Zusammenwirken von Bund und L\u00e4ndern stehen. "
+   ]
+  }, 
+  {
+   "begin": "187.720", 
+   "children": [], 
+   "end": "193.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Eine besondere Rolle spielt dabei das 2004 eingerichtete Gemeinsame Terrorismusabwehrzentrum. "
+   ]
+  }, 
+  {
+   "begin": "193.800", 
+   "children": [], 
+   "end": "200.960", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Haben dort ein substanzieller Informationsaustausch und eine wirksame Gef\u00e4hrdungsanalyse stattgefunden? "
+   ]
+  }, 
+  {
+   "begin": "200.960", 
+   "children": [], 
+   "end": "204.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ergab sich daraus die Anweisung zu konsequentem Handeln? "
+   ]
+  }, 
+  {
+   "begin": "204.160", 
+   "children": [], 
+   "end": "205.160", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wenn nicht: "
+   ]
+  }, 
+  {
+   "begin": "205.160", 
+   "children": [], 
+   "end": "206.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Warum nicht? "
+   ]
+  }, 
+  {
+   "begin": "206.680", 
+   "children": [], 
+   "end": "210.200", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Welche Rolle spielten Bundesbeh\u00f6rden beim Vorgehen gegen den T\u00e4ter, "
+   ]
+  }, 
+  {
+   "begin": "210.200", 
+   "children": [], 
+   "end": "212.080", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere der Generalbundesanwalt, "
+   ]
+  }, 
+  {
+   "begin": "212.080", 
+   "children": [], 
+   "end": "214.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "das Bundesamt f\u00fcr Verfassungsschutz und der BND? "
+   ]
+  }, 
+  {
+   "begin": "214.280", 
+   "children": [], 
+   "end": "219.560", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Welche Rolle spielten sie bei der Kooperation mit ausl\u00e4ndischen Geheimdiensten in Nordafrika und dar\u00fcber hinaus? "
+   ]
+  }, 
+  {
+   "begin": "219.560", 
+   "children": [], 
+   "end": "222.360", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "War Amri ein Einzelt\u00e4ter oder Teil eines Netzwerks? "
+   ]
+  }, 
+  {
+   "begin": "222.360", 
+   "children": [], 
+   "end": "223.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Er war als Gef\u00e4hrder eingestuft. "
+   ]
+  }, 
+  {
+   "begin": "223.840", 
+   "children": [], 
+   "end": "225.480", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Sein Telefon wurde abgeh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "225.480", 
+   "children": [], 
+   "end": "228.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Hat man ihn dennoch unbehelligt durchs Land reisen lassen, "
+   ]
+  }, 
+  {
+   "begin": "228.120", 
+   "children": [], 
+   "end": "232.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "weil man sich von ihm Informationen \u00fcber die Strukturen und Drahtzieher im Hintergrund versprach?"
+   ]
+  }, 
+  {
+   "begin": "232.280", 
+   "children": [], 
+   "end": "234.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die Terrorgefahr, "
+   ]
+  }, 
+  {
+   "begin": "234.240", 
+   "children": [], 
+   "end": "234.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "234.960", 
+   "children": [], 
+   "end": "237.200", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "wird ein Teil unseres Lebens bleiben. "
+   ]
+  }, 
+  {
+   "begin": "237.200", 
+   "children": [], 
+   "end": "239.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Es ist eine der wichtigsten Aufgaben des Staates, "
+   ]
+  }, 
+  {
+   "begin": "239.240", 
+   "children": [], 
+   "end": "242.240", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die Bev\u00f6lkerung so wirksam wie m\u00f6glich davor zu sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "242.240", 
+   "children": [], 
+   "end": "245.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Unser Untersuchungsausschuss wird dann einen echten Beitrag dazu leisten, "
+   ]
+  }, 
+  {
+   "begin": "245.720", 
+   "children": [], 
+   "end": "247.440", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir L\u00fccken und Schwachstellen finden, "
+   ]
+  }, 
+  {
+   "begin": "247.440", 
+   "children": [], 
+   "end": "249.720", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "durch die der M\u00f6rder vom Breitscheidplatz schl\u00fcpfen konnte. "
+   ]
+  }, 
+  {
+   "begin": "249.720", 
+   "children": [], 
+   "end": "252.240", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "So schaffen wir die Grundlage daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "252.240", 
+   "children": [], 
+   "end": "254.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass Parlament und Regierung f\u00fcr mehr Sicherheit sorgen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "254.840", 
+   "children": [], 
+   "end": "256.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "256.280", 
+   "children": [], 
+   "end": "259.880", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "ich setze dabei auf konzen\u00adtrierte und konstruktive Zusammenarbeit. "
+   ]
+  }, 
+  {
+   "begin": "259.880", 
+   "children": [], 
+   "end": "261.800", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD-Fraktion ist dazu bereit."
+   ]
+  }, 
+  {
+   "begin": "261.800", 
+   "children": [], 
+   "end": "262.480", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "262.480", 
+   "children": [], 
+   "end": "271.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die AfD-Fraktion hat die Abgeordnete Beatrix von Storch das Wort."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1234 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "children": [], 
+   "end": "10.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Zuh\u00f6rerinnen und Zuh\u00f6rer! "
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "15.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Menschen mit Pflegebedarf, "
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "children": [], 
+   "end": "16.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "die im Heim leben, "
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "children": [], 
+   "end": "19.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen finanziell entlastet werden. "
+   ]
+  }, 
+  {
+   "begin": "19.440", 
+   "children": [], 
+   "end": "22.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Das wissen wir aus vielen B\u00fcrgergespr\u00e4chen. "
+   ]
+  }, 
+  {
+   "begin": "22.280", 
+   "children": [], 
+   "end": "24.160", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df es auch aus vielen Mails, "
+   ]
+  }, 
+  {
+   "begin": "24.160", 
+   "children": [], 
+   "end": "25.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die ich bekomme."
+   ]
+  }, 
+  {
+   "begin": "25.800", 
+   "children": [], 
+   "end": "30.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Es sind vor allem die Erh\u00f6hungsank\u00fcndigungen, "
+   ]
+  }, 
+  {
+   "begin": "30.240", 
+   "children": [], 
+   "end": "32.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "die Entsetzen ausl\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "32.800", 
+   "children": [], 
+   "end": "40.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Denn die Heime m\u00fcssen die tats\u00e4chlichen Kostensteigerungen kalkulieren und dann den Pflegebed\u00fcrftigen mitteilen, "
+   ]
+  }, 
+  {
+   "begin": "40.120", 
+   "children": [], 
+   "end": "43.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "bevor \u00fcberhaupt die Pflegesatzverhandlungen beginnen. "
+   ]
+  }, 
+  {
+   "begin": "43.080", 
+   "children": [], 
+   "end": "46.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Da kommen tats\u00e4chlich h\u00e4ufig sehr hohe Summen zustande. "
+   ]
+  }, 
+  {
+   "begin": "46.480", 
+   "children": [], 
+   "end": "52.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Eine B\u00fcrgerin hat mir im Dezember diese Kalkulation vorgelegt. "
+   ]
+  }, 
+  {
+   "begin": "52.440", 
+   "children": [], 
+   "end": "57.320", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Sie hat eine Erh\u00f6hungsank\u00fcndigung von 565\u00a0Euro bekommen. "
+   ]
+  }, 
+  {
+   "begin": "57.320", 
+   "children": [], 
+   "end": "62.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Nach den Pflegesatzverhandlungen waren es dann monatlich 234\u00a0Euro, "
+   ]
+  }, 
+  {
+   "begin": "62.480", 
+   "children": [], 
+   "end": "64.560", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die zus\u00e4tzlich bezahlt werden m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "64.560", 
+   "children": [], 
+   "end": "65.960", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Auch das ist viel Geld, "
+   ]
+  }, 
+  {
+   "begin": "65.960", 
+   "children": [], 
+   "end": "68.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wenn vorher der Pflegesatz\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "68.640", 
+   "children": [], 
+   "end": "69.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "sprich: "
+   ]
+  }, 
+  {
+   "begin": "69.600", 
+   "children": [], 
+   "end": "71.000", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "der Anteil, "
+   ]
+  }, 
+  {
+   "begin": "71.000", 
+   "children": [], 
+   "end": "74.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "der von den Pflegebed\u00fcrftigen selbst gezahlt werden muss\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "74.800", 
+   "children": [], 
+   "end": "77.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "schon bei 2\u00a0500\u00a0Euro lag."
+   ]
+  }, 
+  {
+   "begin": "77.000", 
+   "children": [], 
+   "end": "80.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die Betroffenen sind vielfach tats\u00e4chlich verzweifelt. "
+   ]
+  }, 
+  {
+   "begin": "80.760", 
+   "children": [], 
+   "end": "82.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Noch dramatischer ist es dann, "
+   ]
+  }, 
+  {
+   "begin": "82.520", 
+   "children": [], 
+   "end": "94.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wenn der Ehepartner noch zu Hause lebt und zus\u00e4tzlich die Kosten der eigenen Haushaltsf\u00fchrung oder gar selber noch Pflegebedarf hat und zu Hause versorgt werden muss. "
+   ]
+  }, 
+  {
+   "begin": "94.600", 
+   "children": [], 
+   "end": "97.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Insofern ist ein Handlungsbedarf gegeben."
+   ]
+  }, 
+  {
+   "begin": "97.440", 
+   "children": [], 
+   "end": "100.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein bisschen verwirrend, "
+   ]
+  }, 
+  {
+   "begin": "100.040", 
+   "children": [], 
+   "end": "107.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "wenn in der \u00f6ffentlichen Debatte immer von einem durchschnittlichen Eigenanteil in H\u00f6he von 580\u00a0Euro die Rede ist. "
+   ]
+  }, 
+  {
+   "begin": "107.400", 
+   "children": [], 
+   "end": "115.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Das h\u00e4ngt mit dem nun geltenden einrichtungseinheitlichen Eigenanteil zusammen, "
+   ]
+  }, 
+  {
+   "begin": "115.040", 
+   "children": [], 
+   "end": "118.960", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "der sich ausschlie\u00dflich auf die Pflegekosten bezieht. "
+   ]
+  }, 
+  {
+   "begin": "118.960", 
+   "children": [], 
+   "end": "119.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Der Pflegesatz, "
+   ]
+  }, 
+  {
+   "begin": "119.840", 
+   "children": [], 
+   "end": "122.720", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "der von den Pflegebed\u00fcrftigen zu zahlen ist, "
+   ]
+  }, 
+  {
+   "begin": "122.720", 
+   "children": [], 
+   "end": "126.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "beinhaltet diesen Anteil an den Pflegekosten, "
+   ]
+  }, 
+  {
+   "begin": "126.240", 
+   "children": [], 
+   "end": "129.440", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "die durch den Zuschuss der Pflegeversicherung verringert werden. "
+   ]
+  }, 
+  {
+   "begin": "129.440", 
+   "children": [], 
+   "end": "135.960", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Hinzu kommen der Beitrag f\u00fcr Unterkunft und Verpflegung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "135.960", 
+   "children": [], 
+   "end": "140.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dieser erh\u00f6ht sich entsprechend der normalen Kostenentwicklung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "140.040", 
+   "children": [], 
+   "end": "142.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "und der Investitionskostenanteil. "
+   ]
+  }, 
+  {
+   "begin": "142.920", 
+   "children": [], 
+   "end": "145.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Bei Letzterem besteht ein riesiges Problem; "
+   ]
+  }, 
+  {
+   "begin": "145.880", 
+   "children": [], 
+   "end": "152.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "denn der Investitionskostenanteil ist regional sehr unterschiedlich hoch. "
+   ]
+  }, 
+  {
+   "begin": "152.640", 
+   "children": [], 
+   "end": "155.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Er ver\u00e4ndert sich unter Umst\u00e4nden dramatisch. "
+   ]
+  }, 
+  {
+   "begin": "155.600", 
+   "children": [], 
+   "end": "158.240", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Dabei k\u00f6nnen solche F\u00e4lle vorkommen, "
+   ]
+  }, 
+  {
+   "begin": "158.240", 
+   "children": [], 
+   "end": "159.360", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie sie gerade skizziert haben, "
+   ]
+  }, 
+  {
+   "begin": "159.360", 
+   "children": [], 
+   "end": "160.440", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Frau Zimmermann. "
+   ]
+  }, 
+  {
+   "begin": "160.440", 
+   "children": [], 
+   "end": "163.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings sind 700\u00a0Euro v\u00f6llig unrealistisch; "
+   ]
+  }, 
+  {
+   "begin": "163.480", 
+   "children": [], 
+   "end": "164.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "das kann nicht stimmen. "
+   ]
+  }, 
+  {
+   "begin": "164.560", 
+   "children": [], 
+   "end": "170.040", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wahrscheinlich meinen die Journalisten damit eine Erh\u00f6hungsank\u00fcndigung. "
+   ]
+  }, 
+  {
+   "begin": "170.040", 
+   "children": [], 
+   "end": "170.360", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wenn nicht, "
+   ]
+  }, 
+  {
+   "begin": "170.360", 
+   "children": [], 
+   "end": "171.280", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcsste das belegt werden. "
+   ]
+  }, 
+  {
+   "begin": "171.280", 
+   "children": [], 
+   "end": "173.960", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Aber so etwas kann in der Wirklichkeit eigentlich nicht passieren."
+   ]
+  }, 
+  {
+   "begin": "173.960", 
+   "children": [], 
+   "end": "178.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Beim Investitionskostensatz kann es solche Spr\u00fcnge geben, "
+   ]
+  }, 
+  {
+   "begin": "178.480", 
+   "children": [], 
+   "end": "179.120", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "aber nur, "
+   ]
+  }, 
+  {
+   "begin": "179.120", 
+   "children": [], 
+   "end": "182.200", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wenn man in eine Pflegeeinrichtung eingezogen ist, "
+   ]
+  }, 
+  {
+   "begin": "182.200", 
+   "children": [], 
+   "end": "187.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die komplett heruntergewirtschaftet ist und deshalb keinen oder nur einen sehr geringen Investitionskostensatz hat. "
+   ]
+  }, 
+  {
+   "begin": "187.600", 
+   "children": [], 
+   "end": "190.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wenn diese Einrichtung komplett saniert oder neu gebaut wird, "
+   ]
+  }, 
+  {
+   "begin": "190.280", 
+   "children": [], 
+   "end": "195.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dann gibt es auf einmal einen finanziellen Sprung. "
+   ]
+  }, 
+  {
+   "begin": "195.200", 
+   "children": [], 
+   "end": "197.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Dieser entsteht unter anderem auch dadurch, "
+   ]
+  }, 
+  {
+   "begin": "197.640", 
+   "children": [], 
+   "end": "201.200", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass die \u00f6ffentliche Pflegeheimf\u00f6rderung in den meisten Bundesl\u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "201.200", 
+   "children": [], 
+   "end": "202.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wie zum Beispiel in Baden-W\u00fcrttemberg, "
+   ]
+  }, 
+  {
+   "begin": "202.920", 
+   "children": [], 
+   "end": "204.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "weggefallen ist. "
+   ]
+  }, 
+  {
+   "begin": "204.040", 
+   "children": [], 
+   "end": "209.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Das f\u00fchrt nat\u00fcrlich zu erheblichen Steigerungen bei den Investitionskostens\u00e4tzen. "
+   ]
+  }, 
+  {
+   "begin": "209.080", 
+   "children": [], 
+   "end": "212.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Diese werden uns in Zukunft noch mehr Probleme machen; "
+   ]
+  }, 
+  {
+   "begin": "212.880", 
+   "children": [], 
+   "end": "214.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dar\u00fcber werden wir diskutieren m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "214.680", 
+   "children": [], 
+   "end": "216.000", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Es ist daher gut, "
+   ]
+  }, 
+  {
+   "begin": "216.000", 
+   "children": [], 
+   "end": "220.320", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in \u00a7\u00a018c des Zweiten Pflegest\u00e4rkungsgesetzes vereinbart haben, "
+   ]
+  }, 
+  {
+   "begin": "220.320", 
+   "children": [], 
+   "end": "233.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass das wissenschaftliche Begleitgremium sowohl die Einf\u00fchrung der Pflegestufen als auch die Wirkung des einrichtungseinheitlichen Eigenanteils evaluieren wird. "
+   ]
+  }, 
+  {
+   "begin": "233.800", 
+   "children": [], 
+   "end": "235.640", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen in der Debatte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "235.640", 
+   "children": [], 
+   "end": "237.080", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "auch \u00fcber Ihren Antrag\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "237.080", 
+   "children": [], 
+   "end": "238.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht einmal \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "238.640", 
+   "children": [], 
+   "end": "243.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "ob 2020 nicht zu sp\u00e4t ist und ob wir das ein bisschen fr\u00fcher machen sollten."
+   ]
+  }, 
+  {
+   "begin": "243.800", 
+   "children": [], 
+   "end": "244.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Frau Zimmermann, "
+   ]
+  }, 
+  {
+   "begin": "244.400", 
+   "children": [], 
+   "end": "250.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "nun komme ich auf den Antrag Ihrer Fraktion zu sprechen. "
+   ]
+  }, 
+  {
+   "begin": "250.200", 
+   "children": [], 
+   "end": "254.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Antrag enth\u00e4lt ein paar Irrungen und Wirrungen. "
+   ]
+  }, 
+  {
+   "begin": "254.240", 
+   "children": [], 
+   "end": "256.640", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Ich will nur einen Satz aufgreifen, "
+   ]
+  }, 
+  {
+   "begin": "256.640", 
+   "children": [], 
+   "end": "258.880", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "der mich wirklich in Rage gebracht hat. "
+   ]
+  }, 
+  {
+   "begin": "258.880", 
+   "children": [], 
+   "end": "261.040", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Sie schreiben tats\u00e4chlich:"
+   ]
+  }, 
+  {
+   "begin": "261.040", 
+   "children": [], 
+   "end": "266.760", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Es fehlen durchgreifende politische Initiativen aller bisherigen Bundesregierungen, "
+   ]
+  }, 
+  {
+   "begin": "266.760", 
+   "children": [], 
+   "end": "272.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "um zumindest die unsozialen Folgen der Pflegeversicherung zu mildern."
+   ]
+  }, 
+  {
+   "begin": "272.040", 
+   "children": [], 
+   "end": "279.240", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Da haben Sie echt in die Mottenkiste Ihrer fr\u00fcheren Antr\u00e4ge gegriffen und haben offensichtlich nicht mehr realisiert, "
+   ]
+  }, 
+  {
+   "begin": "279.240", 
+   "children": [], 
+   "end": "285.720", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "was wir alles in der letzten Legislaturperiode gemacht haben."
+   ]
+  }, 
+  {
+   "begin": "285.720", 
+   "children": [], 
+   "end": "292.440", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Mit drei Gesetzen zur St\u00e4rkung der Pflege haben wir ganz wichtige Weichenstellungen vorgenommen. "
+   ]
+  }, 
+  {
+   "begin": "292.440", 
+   "children": [], 
+   "end": "298.840", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben insbesondere die ambulante Versorgung enorm gest\u00e4rkt und f\u00fcr hohe Leistungen gesorgt, "
+   ]
+  }, 
+  {
+   "begin": "298.840", 
+   "children": [], 
+   "end": "309.400", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "um eine qualitativ hochwertige Pflege zu Hause zu erm\u00f6glichen und gleichzeitig die finanziellen Belastungen f\u00fcr die Pflegebed\u00fcrftigen abzumildern. "
+   ]
+  }, 
+  {
+   "begin": "309.400", 
+   "children": [], 
+   "end": "311.600", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wer zu Hause gepflegt wird, "
+   ]
+  }, 
+  {
+   "begin": "311.600", 
+   "children": [], 
+   "end": "314.560", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "hat am Anfang fast keine eigenen Kosten, "
+   ]
+  }, 
+  {
+   "begin": "314.560", 
+   "children": [], 
+   "end": "318.280", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "weil fast alles von der Krankenversicherung und der Pflegeversicherung getragen wird. "
+   ]
+  }, 
+  {
+   "begin": "318.280", 
+   "children": [], 
+   "end": "323.560", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Erst bei stark zunehmendem Pflegebedarf kommt ein Eigenanteil hinzu. "
+   ]
+  }, 
+  {
+   "begin": "323.560", 
+   "children": [], 
+   "end": "331.400", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Aber im Bereich der ambulanten Versorgung ist dieser Eigenanteil verantwortbar und zu tragen. "
+   ]
+  }, 
+  {
+   "begin": "331.400", 
+   "children": [], 
+   "end": "333.600", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Genau das sind Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "333.600", 
+   "children": [], 
+   "end": "341.680", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "um im Grunde einen Pflegeheimaufenthalt m\u00f6glichst zu vermeiden und die Versorgung zu Hause zu gew\u00e4hrleisten. "
+   ]
+  }, 
+  {
+   "begin": "341.680", 
+   "children": [], 
+   "end": "347.880", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Damit haben wir einen wesentlichen Beitrag zur Entlastung der Pflegebed\u00fcrftigen geleistet."
+   ]
+  }, 
+  {
+   "begin": "347.880", 
+   "children": [], 
+   "end": "349.720", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Es ist trotzdem richtig: "
+   ]
+  }, 
+  {
+   "begin": "349.720", 
+   "children": [], 
+   "end": "354.760", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen \u00fcber die Bezahlbarkeit der Pflege im Heim diskutieren; "
+   ]
+  }, 
+  {
+   "begin": "354.760", 
+   "children": [], 
+   "end": "355.680", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "denn es geht nicht, "
+   ]
+  }, 
+  {
+   "begin": "355.680", 
+   "children": [], 
+   "end": "360.040", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "dass jede Qualit\u00e4tssteigerung und jede Tarifsteigerung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "360.040", 
+   "children": [], 
+   "end": "366.360", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "wir wollen ja eine bessere Verg\u00fctung f\u00fcr die Pflegekr\u00e4fte und vor allem bessere Personalschl\u00fcssel\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "366.360", 
+   "children": [], 
+   "end": "368.960", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "finanziell zulasten der Pflegebed\u00fcrftigen gehen. "
+   ]
+  }, 
+  {
+   "begin": "368.960", 
+   "children": [], 
+   "end": "371.360", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Aber das alles verursacht nat\u00fcrlich Kosten. "
+   ]
+  }, 
+  {
+   "begin": "371.360", 
+   "children": [], 
+   "end": "375.520", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Das m\u00fcssen Sie auch einmal zur Kenntnis nehmen, "
+   ]
+  }, 
+  {
+   "begin": "375.520", 
+   "children": [], 
+   "end": "376.440", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Frau Zimmermann. "
+   ]
+  }, 
+  {
+   "begin": "376.440", 
+   "children": [], 
+   "end": "378.600", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Die hierdurch verursachten Kosten m\u00fcssen gedeckt werden. "
+   ]
+  }, 
+  {
+   "begin": "378.600", 
+   "children": [], 
+   "end": "382.240", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber m\u00fcssen wir sicherlich weiter diskutieren. "
+   ]
+  }, 
+  {
+   "begin": "382.240", 
+   "children": [], 
+   "end": "386.320", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Aber Herr Irlstorfer hat bereits zu Recht erw\u00e4hnt: "
+   ]
+  }, 
+  {
+   "begin": "386.320", 
+   "children": [], 
+   "end": "390.800", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben bei der Schaffung der 8\u00a0000 neuen Stellen daf\u00fcr gesorgt, "
+   ]
+  }, 
+  {
+   "begin": "390.800", 
+   "children": [], 
+   "end": "398.360", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "dass die Krankenversicherung die Leistungen der medizinischen Behandlungspflege \u00fcbernimmt."
+   ]
+  }, 
+  {
+   "begin": "398.360", 
+   "children": [], 
+   "end": "404.880", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Damit heilen wir einen Strickfehler der Pflegeversicherung wenigstens in einem ersten kleinen Schritt. "
+   ]
+  }, 
+  {
+   "begin": "404.880", 
+   "children": [], 
+   "end": "407.560", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Ich halte das f\u00fcr einen ganz wichtigen Beitrag."
+   ]
+  }, 
+  {
+   "begin": "407.560", 
+   "children": [], 
+   "end": "415.200", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich noch kurz etwas zu der in Ihrem Antrag geforderten Pflegevollversicherung sagen. "
+   ]
+  }, 
+  {
+   "begin": "415.200", 
+   "children": [], 
+   "end": "417.240", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber k\u00f6nnen wir durchaus diskutieren. "
+   ]
+  }, 
+  {
+   "begin": "417.240", 
+   "children": [], 
+   "end": "422.320", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Ein Konzept daf\u00fcr haben aber auch Sie bisher nicht vorliegen."
+   ]
+  }, 
+  {
+   "begin": "422.320", 
+   "children": [], 
+   "end": "428.480", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Sie d\u00fcrfen an dieser Stelle vor allem keine Augenwischerei betreiben. "
+   ]
+  }, 
+  {
+   "begin": "428.480", 
+   "children": [], 
+   "end": "441.800", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Denn auch eine Pflegevollversicherung w\u00fcrde nur die Pflegekosten abfedern und noch keine L\u00f6sung f\u00fcr die steigenden Kosten bei Unterkunft und Verpflegung und die unter Umst\u00e4nden exorbitant steigenden Investitionskosten darstellen. "
+   ]
+  }, 
+  {
+   "begin": "441.800", 
+   "children": [], 
+   "end": "447.480", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Insofern werden wir auch dort noch sehr viel weiter nachdenken m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "447.480", 
+   "children": [], 
+   "end": "448.760", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Schluss. "
+   ]
+  }, 
+  {
+   "begin": "448.760", 
+   "children": [], 
+   "end": "452.360", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Pflege darf nicht arm machen, "
+   ]
+  }, 
+  {
+   "begin": "452.360", 
+   "children": [], 
+   "end": "457.000", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "und zwar weder die Pflegebed\u00fcrftigen noch die Angeh\u00f6rigen noch diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "457.000", 
+   "children": [], 
+   "end": "458.920", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "die in der Pflege arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "458.920", 
+   "children": [], 
+   "end": "461.480", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Das werden wir als SPD im Blick behalten, "
+   ]
+  }, 
+  {
+   "begin": "461.480", 
+   "children": [], 
+   "end": "463.320", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir weiter daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "463.320", 
+   "children": [], 
+   "end": "466.360", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "dass die Rahmenbedingungen in der Pflege verbessert werden."
+   ]
+  }, 
+  {
+   "begin": "466.360", 
+   "children": [], 
+   "end": "469.480", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne freue ich mich auf die anstehenden Diskussionen."
+   ]
+  }, 
+  {
+   "begin": "469.480", 
+   "children": [], 
+   "end": "478.000", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Abgeordnete Detlev Spangenberg f\u00fcr die AfD-Fraktion."
+   ]
+  }
+ ]
+}

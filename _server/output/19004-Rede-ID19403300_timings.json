@@ -1,0 +1,704 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "2.080", 
+   "children": [], 
+   "end": "4.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Abgeordnete! "
+   ]
+  }, 
+  {
+   "begin": "4.520", 
+   "children": [], 
+   "end": "28.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Heute entscheiden wir \u00fcber die Fortsetzung der Beteiligung bewaffneter deutscher Streitkr\u00e4fte an der Multidimensionalen Integrierten Stabilisierungsmission der Vereinten Nationen in Mali oder, "
+   ]
+  }, 
+  {
+   "begin": "28.840", 
+   "children": [], 
+   "end": "29.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "kurz, "
+   ]
+  }, 
+  {
+   "begin": "29.280", 
+   "children": [], 
+   "end": "30.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "so wie wir alle es kennen, "
+   ]
+  }, 
+  {
+   "begin": "30.520", 
+   "children": [], 
+   "end": "31.880", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "MINUSMA. "
+   ]
+  }, 
+  {
+   "begin": "31.880", 
+   "children": [], 
+   "end": "35.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man der Bundesregierung glauben mag, "
+   ]
+  }, 
+  {
+   "begin": "35.320", 
+   "children": [], 
+   "end": "38.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "so soll der deutsche Einsatz Mali stabilisieren. "
+   ]
+  }, 
+  {
+   "begin": "38.560", 
+   "children": [], 
+   "end": "40.600", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Er soll die Bev\u00f6lkerung sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "40.600", 
+   "children": [], 
+   "end": "43.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Der lokale Sicherheitssektor soll ausgebaut, "
+   ]
+  }, 
+  {
+   "begin": "43.760", 
+   "children": [], 
+   "end": "44.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "ja, "
+   ]
+  }, 
+  {
+   "begin": "44.160", 
+   "children": [], 
+   "end": "46.080", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "er soll gest\u00e4rkt werden. "
+   ]
+  }, 
+  {
+   "begin": "46.080", 
+   "children": [], 
+   "end": "48.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Man will die territoriale Einheit Malis sichern. "
+   ]
+  }, 
+  {
+   "begin": "48.400", 
+   "children": [], 
+   "end": "53.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Fl\u00fcchtlingsstr\u00f6me in Richtung Deutschland will man verhindern oder will man gar stoppen. "
+   ]
+  }, 
+  {
+   "begin": "53.240", 
+   "children": [], 
+   "end": "54.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wie Sie sehen: "
+   ]
+  }, 
+  {
+   "begin": "54.040", 
+   "children": [], 
+   "end": "57.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Man will hier alles."
+   ]
+  }, 
+  {
+   "begin": "57.680", 
+   "children": [], 
+   "end": "60.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "All das h\u00f6rt sich sch\u00f6n an, "
+   ]
+  }, 
+  {
+   "begin": "60.680", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "kann aber nicht dar\u00fcber hinwegt\u00e4uschen, "
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "69.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass man diese Ziele mit dem Einsatz an Truppe und Material nicht erreichen kann, "
+   ]
+  }, 
+  {
+   "begin": "69.640", 
+   "children": [], 
+   "end": "73.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "zumal von vollkommen falschen Voraussetzungen ausgegangen wird, "
+   ]
+  }, 
+  {
+   "begin": "73.520", 
+   "children": [], 
+   "end": "74.760", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "da zum Beispiel Mali, "
+   ]
+  }, 
+  {
+   "begin": "74.760", 
+   "children": [], 
+   "end": "75.520", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wenn \u00fcberhaupt, "
+   ]
+  }, 
+  {
+   "begin": "75.520", 
+   "children": [], 
+   "end": "82.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "nur ein Transitland f\u00fcr Fl\u00fcchtlinge und kein klassisches Ursprungsland ist."
+   ]
+  }, 
+  {
+   "begin": "82.120", 
+   "children": [], 
+   "end": "82.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Viel schlimmer noch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "82.720", 
+   "children": [], 
+   "end": "86.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wir haben es hier vorhin von meinem Kollegen und Kameraden Springer geh\u00f6rt\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "86.880", 
+   "children": [], 
+   "end": "87.960", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben nichts, "
+   ]
+  }, 
+  {
+   "begin": "87.960", 
+   "children": [], 
+   "end": "96.520", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "aber auch gar nichts aus der deutschen Geschichte in Bezug auf den Afghanistan-Einsatz gelernt. "
+   ]
+  }, 
+  {
+   "begin": "96.520", 
+   "children": [], 
+   "end": "99.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Dieselben Fehler werden nun auch in Mali begangen. "
+   ]
+  }, 
+  {
+   "begin": "99.400", 
+   "children": [], 
+   "end": "102.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Man begibt sich in ein Abenteuer, "
+   ]
+  }, 
+  {
+   "begin": "102.640", 
+   "children": [], 
+   "end": "107.280", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "das aus heutiger Sicht schon zum Scheitern verurteilt ist."
+   ]
+  }, 
+  {
+   "begin": "107.280", 
+   "children": [], 
+   "end": "119.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "In voreiligem Gehorsam vertritt man franz\u00f6sische Interessen in Mali, "
+   ]
+  }, 
+  {
+   "begin": "119.320", 
+   "children": [], 
+   "end": "121.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "im Westen von Afrika, "
+   ]
+  }, 
+  {
+   "begin": "121.120", 
+   "children": [], 
+   "end": "125.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "wo doch deutsche Interessen klar im Vordergrund stehen sollen."
+   ]
+  }, 
+  {
+   "begin": "125.600", 
+   "children": [], 
+   "end": "134.160", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die Bedrohungslage f\u00fcr unsere Soldaten im Einsatzgebiet, "
+   ]
+  }, 
+  {
+   "begin": "134.160", 
+   "children": [], 
+   "end": "135.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "so steht es geschrieben, "
+   ]
+  }, 
+  {
+   "begin": "135.600", 
+   "children": [], 
+   "end": "136.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "ist erheblich. "
+   ]
+  }, 
+  {
+   "begin": "136.680", 
+   "children": [], 
+   "end": "138.160", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Oder sollte ich lieber sagen: "
+   ]
+  }, 
+  {
+   "begin": "138.160", 
+   "children": [], 
+   "end": "140.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "\u201eSie ist vermutlich t\u00f6dlich\u201c? "
+   ]
+  }, 
+  {
+   "begin": "140.280", 
+   "children": [], 
+   "end": "142.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber wird auch die bunte Berichterstattung \u00e0 la Hollywood, "
+   ]
+  }, 
+  {
+   "begin": "142.840", 
+   "children": [], 
+   "end": "144.120", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die hier auf den Weg gebracht wurde, "
+   ]
+  }, 
+  {
+   "begin": "144.120", 
+   "children": [], 
+   "end": "147.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "nicht hinwegt\u00e4uschen."
+   ]
+  }, 
+  {
+   "begin": "147.520", 
+   "children": [], 
+   "end": "160.160", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Mali mit einer Fl\u00e4che dreimal so gro\u00df wie Deutschland kann mit einer Mandatsobergrenze von 1\u00a0000 Soldaten und aktuell 968 Kameraden im Einsatz nicht befriedet, "
+   ]
+  }, 
+  {
+   "begin": "160.160", 
+   "children": [], 
+   "end": "164.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "stabilisiert und auch nicht gesichert werden."
+   ]
+  }, 
+  {
+   "begin": "164.320", 
+   "children": [], 
+   "end": "169.320", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Man muss sich den Realit\u00e4ten stellen und erkennen, "
+   ]
+  }, 
+  {
+   "begin": "169.320", 
+   "children": [], 
+   "end": "171.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass man all das nicht leisten kann, "
+   ]
+  }, 
+  {
+   "begin": "171.040", 
+   "children": [], 
+   "end": "174.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "was man sich hier zur Aufgabe gemacht hat. "
+   ]
+  }, 
+  {
+   "begin": "174.480", 
+   "children": [], 
+   "end": "177.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Die AfD-Fraktion wird diesen Einsatz ablehnen. "
+   ]
+  }, 
+  {
+   "begin": "177.040", 
+   "children": [], 
+   "end": "178.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Es fehlt eine klare Strategie, "
+   ]
+  }, 
+  {
+   "begin": "178.840", 
+   "children": [], 
+   "end": "180.480", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "der Kr\u00e4fteansatz ist verfehlt, "
+   ]
+  }, 
+  {
+   "begin": "180.480", 
+   "children": [], 
+   "end": "181.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "und deutsche Interessen, "
+   ]
+  }, 
+  {
+   "begin": "181.640", 
+   "children": [], 
+   "end": "183.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wenn \u00fcberhaupt vorhanden, "
+   ]
+  }, 
+  {
+   "begin": "183.360", 
+   "children": [], 
+   "end": "188.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "kann man hier mit der Lupe suchen."
+   ]
+  }, 
+  {
+   "begin": "188.920", 
+   "children": [], 
+   "end": "192.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin und alle Anwesenden im Plenum, "
+   ]
+  }, 
+  {
+   "begin": "192.320", 
+   "children": [], 
+   "end": "195.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "sind wir doch heute einfach alle so mutig, "
+   ]
+  }, 
+  {
+   "begin": "195.480", 
+   "children": [], 
+   "end": "197.160", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "wie unsere Soldaten tapfer sind, "
+   ]
+  }, 
+  {
+   "begin": "197.160", 
+   "children": [], 
+   "end": "199.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "jeden Tag aufs Neue! "
+   ]
+  }, 
+  {
+   "begin": "199.120", 
+   "children": [], 
+   "end": "200.560", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns den Mut aufbringen, "
+   ]
+  }, 
+  {
+   "begin": "200.560", 
+   "children": [], 
+   "end": "202.680", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "diesen Einsatz abzulehnen, "
+   ]
+  }, 
+  {
+   "begin": "202.680", 
+   "children": [], 
+   "end": "206.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "auf dass unsere Soldaten wieder mit Stolz auf uns, "
+   ]
+  }, 
+  {
+   "begin": "206.000", 
+   "children": [], 
+   "end": "207.200", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die politischen Vertreter, "
+   ]
+  }, 
+  {
+   "begin": "207.200", 
+   "children": [], 
+   "end": "208.280", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "blicken k\u00f6nnen! "
+   ]
+  }, 
+  {
+   "begin": "208.280", 
+   "children": [], 
+   "end": "209.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind es unseren Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "209.800", 
+   "children": [], 
+   "end": "210.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "ihren Familien, "
+   ]
+  }, 
+  {
+   "begin": "210.560", 
+   "children": [], 
+   "end": "210.920", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ja, "
+   ]
+  }, 
+  {
+   "begin": "210.920", 
+   "children": [], 
+   "end": "213.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "aber auch unserem Volk in G\u00e4nze schuldig. "
+   ]
+  }, 
+  {
+   "begin": "213.240", 
+   "children": [], 
+   "end": "214.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Lehnen Sie mit uns diesen Einsatz ab!"
+   ]
+  }, 
+  {
+   "begin": "214.960", 
+   "children": [], 
+   "end": "215.840", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "215.840", 
+   "children": [], 
+   "end": "216.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "216.480", 
+   "children": [], 
+   "end": "228.640", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner f\u00fcr die FDP-Fraktion: "
+   ]
+  }, 
+  {
+   "begin": "228.640", 
+   "children": [], 
+   "end": "229.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Pascal Kober."
+   ]
+  }
+ ]
+}

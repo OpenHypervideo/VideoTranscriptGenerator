@@ -1,0 +1,874 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "11.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "children": [], 
+   "end": "13.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "children": [], 
+   "end": "17.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Immer deutlicher zeigte sich im Verlauf dieses Jahres, "
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "children": [], 
+   "end": "22.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass die AfD in den Bundestag einziehen w\u00fcrde und dass sie auch den Alterspr\u00e4sidenten stellen w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "22.960", 
+   "children": [], 
+   "end": "30.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "weil sie neben vielen jungen Abgeordneten eben auch den \u00e4ltesten Abgeordneten mit an Bord hatte."
+   ]
+  }, 
+  {
+   "begin": "30.640", 
+   "children": [], 
+   "end": "32.240", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Als dies deutlich wurde, "
+   ]
+  }, 
+  {
+   "begin": "32.240", 
+   "children": [], 
+   "end": "36.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "\u00e4nderten Sie hier im alten Bundestag ganz schnell die Gesch\u00e4ftsordnung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "36.960", 
+   "children": [], 
+   "end": "38.720", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "knapp vor der Wahl, "
+   ]
+  }, 
+  {
+   "begin": "38.720", 
+   "children": [], 
+   "end": "41.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "zwei Wochen vor Ende Sitzungsperiode. "
+   ]
+  }, 
+  {
+   "begin": "41.160", 
+   "children": [], 
+   "end": "41.960", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "41.960", 
+   "children": [], 
+   "end": "43.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "das war ein so durchsichtiges Man\u00f6ver; "
+   ]
+  }, 
+  {
+   "begin": "43.720", 
+   "children": [], 
+   "end": "45.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "das lassen wir Ihnen hier nicht durchgehen!"
+   ]
+  }, 
+  {
+   "begin": "45.480", 
+   "children": [], 
+   "end": "45.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Eine List, "
+   ]
+  }, 
+  {
+   "begin": "45.960", 
+   "children": [], 
+   "end": "49.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "mit der Sie die AfD ausgrenzen wollten! "
+   ]
+  }, 
+  {
+   "begin": "49.720", 
+   "children": [], 
+   "end": "52.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das kann so nicht weitergehen!"
+   ]
+  }, 
+  {
+   "begin": "52.760", 
+   "children": [], 
+   "end": "59.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die AfD hatte gerade den 13.\u00a0Wahlsieg in Folge erzielt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "59.840", 
+   "children": [], 
+   "end": "61.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "eine Triumphserie bei Landtagswahlen, "
+   ]
+  }, 
+  {
+   "begin": "61.600", 
+   "children": [], 
+   "end": "65.600", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die so zuvor keine Partei nach ihrer Gr\u00fcndung erzielt hatte."
+   ]
+  }, 
+  {
+   "begin": "65.600", 
+   "children": [], 
+   "end": "71.200", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Der alte Bundestag aber \u00e4nderte die Gesch\u00e4ftsordnung pl\u00f6tzlich so, "
+   ]
+  }, 
+  {
+   "begin": "71.200", 
+   "children": [], 
+   "end": "73.040", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass nicht mehr der \u00e4lteste Abgeordnete, "
+   ]
+  }, 
+  {
+   "begin": "73.040", 
+   "children": [], 
+   "end": "77.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "sondern der mit der l\u00e4ngsten Dienstzeit die erste Sitzung als Alterspr\u00e4sident er\u00f6ffnen sollte. "
+   ]
+  }, 
+  {
+   "begin": "77.520", 
+   "children": [], 
+   "end": "80.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Und das w\u00fcrde dann nicht mehr ein AfD-Abgeordneter sein. "
+   ]
+  }, 
+  {
+   "begin": "80.880", 
+   "children": [], 
+   "end": "82.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Sie begr\u00fcndeten dies damit, "
+   ]
+  }, 
+  {
+   "begin": "82.760", 
+   "children": [], 
+   "end": "88.560", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass nur der dienst\u00e4lteste Abgeordnete eine korrekte Sitzungsleitung sicherstellen k\u00f6nne. "
+   ]
+  }, 
+  {
+   "begin": "88.560", 
+   "children": [], 
+   "end": "89.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das war das Argument. "
+   ]
+  }, 
+  {
+   "begin": "89.880", 
+   "children": [], 
+   "end": "90.040", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Aber, "
+   ]
+  }, 
+  {
+   "begin": "90.040", 
+   "children": [], 
+   "end": "90.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "90.920", 
+   "children": [], 
+   "end": "94.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "seit 1848 ist in Deutschland Tradition, "
+   ]
+  }, 
+  {
+   "begin": "94.440", 
+   "children": [], 
+   "end": "99.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dass die konstituierende Sitzung nat\u00fcrlich vom \u00e4ltesten Mitglied der Versammlung er\u00f6ffnet wird."
+   ]
+  }, 
+  {
+   "begin": "99.160", 
+   "children": [], 
+   "end": "110.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das war eine Tradition von der Frankfurter Paulskirche bis Gustav Stresemann, "
+   ]
+  }, 
+  {
+   "begin": "110.840", 
+   "children": [], 
+   "end": "112.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "von Adenauer \u00fcber Brandt bis Kohl, "
+   ]
+  }, 
+  {
+   "begin": "112.800", 
+   "children": [], 
+   "end": "116.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "ja bis zu der ersten Regierung Merkel. "
+   ]
+  }, 
+  {
+   "begin": "116.000", 
+   "children": [], 
+   "end": "116.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Alle Reichstage, "
+   ]
+  }, 
+  {
+   "begin": "116.920", 
+   "children": [], 
+   "end": "121.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "alle Bundestage konnten dem Argument \u201eDienstalter\u201c nichts abgewinnen. "
+   ]
+  }, 
+  {
+   "begin": "121.280", 
+   "children": [], 
+   "end": "122.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ja auch klar. "
+   ]
+  }, 
+  {
+   "begin": "122.080", 
+   "children": [], 
+   "end": "127.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "In 150\u00a0Jahren Parlamentsgeschichte blieb die Regel des Alterspr\u00e4sidenten unangetastet."
+   ]
+  }, 
+  {
+   "begin": "127.360", 
+   "children": [], 
+   "end": "128.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Unangetastet? "
+   ]
+  }, 
+  {
+   "begin": "128.240", 
+   "children": [], 
+   "end": "130.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Es gab eine Ausnahme: "
+   ]
+  }, 
+  {
+   "begin": "130.120", 
+   "children": [], 
+   "end": "143.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "1933 hat Hermann G\u00f6ring die Regel gebrochen, "
+   ]
+  }, 
+  {
+   "begin": "143.400", 
+   "children": [], 
+   "end": "147.120", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "weil er politische Gegner ausgrenzen wollte, "
+   ]
+  }, 
+  {
+   "begin": "147.120", 
+   "children": [], 
+   "end": "148.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "damals Clara Zetkin."
+   ]
+  }, 
+  {
+   "begin": "148.880", 
+   "children": [], 
+   "end": "151.520", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wollen Sie sich auf solch schiefe Bahn begeben? "
+   ]
+  }, 
+  {
+   "begin": "151.520", 
+   "children": [], 
+   "end": "155.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Kommen Sie zur\u00fcck auf die Linie der gro\u00dfen deutschen Demokraten! "
+   ]
+  }, 
+  {
+   "begin": "155.040", 
+   "children": [], 
+   "end": "157.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Dazu fordere ich Sie hier auf."
+   ]
+  }, 
+  {
+   "begin": "157.120", 
+   "children": [], 
+   "end": "163.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Denn stets er\u00f6ffnete der Parlamentarier, "
+   ]
+  }, 
+  {
+   "begin": "163.920", 
+   "children": [], 
+   "end": "174.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "der aufgrund von Lebenserfahrung und Altersweisheit Versammlungen besonders umsichtig er\u00f6ffnen konnte. "
+   ]
+  }, 
+  {
+   "begin": "174.200", 
+   "children": [], 
+   "end": "177.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Das waren die Idee und die Tradition \u00fcber 150\u00a0Jahre. "
+   ]
+  }, 
+  {
+   "begin": "177.480", 
+   "children": [], 
+   "end": "181.720", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Denn zur blo\u00dfen Er\u00f6ffnung ist ja kein geballtes Gesch\u00e4ftsordnungswissen vonn\u00f6ten. "
+   ]
+  }, 
+  {
+   "begin": "181.720", 
+   "children": [], 
+   "end": "186.080", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Es wird sofort ein Versammlungspr\u00e4sident gew\u00e4hlt, "
+   ]
+  }, 
+  {
+   "begin": "186.080", 
+   "children": [], 
+   "end": "187.720", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "der versiert in der Sache ist. "
+   ]
+  }, 
+  {
+   "begin": "187.720", 
+   "children": [], 
+   "end": "189.600", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Auch deshalb ist Ihr Argument, "
+   ]
+  }, 
+  {
+   "begin": "189.600", 
+   "children": [], 
+   "end": "192.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "der Dienst\u00e4lteste m\u00fcsse aus fachlichen Gr\u00fcnden er\u00f6ffnen, "
+   ]
+  }, 
+  {
+   "begin": "192.120", 
+   "children": [], 
+   "end": "193.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "schlichtweg unsinnig, "
+   ]
+  }, 
+  {
+   "begin": "193.200", 
+   "children": [], 
+   "end": "197.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "197.840", 
+   "children": [], 
+   "end": "200.200", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Selbst die Presse, "
+   ]
+  }, 
+  {
+   "begin": "200.200", 
+   "children": [], 
+   "end": "202.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die uns ja nicht durchg\u00e4ngig gewogen ist, "
+   ]
+  }, 
+  {
+   "begin": "202.280", 
+   "children": [], 
+   "end": "203.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "warnte, "
+   ]
+  }, 
+  {
+   "begin": "203.160", 
+   "children": [], 
+   "end": "205.720", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass dieses Man\u00f6ver gegen die AfD durchsichtig sei, "
+   ]
+  }, 
+  {
+   "begin": "205.720", 
+   "children": [], 
+   "end": "207.640", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "und sprach von Lex AfD. "
+   ]
+  }, 
+  {
+   "begin": "207.640", 
+   "children": [], 
+   "end": "210.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Der \u201eTagesspiegel\u201c sprach von \u201eTrickserei\u201c. "
+   ]
+  }, 
+  {
+   "begin": "210.280", 
+   "children": [], 
+   "end": "212.680", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "\u201eFocus\u201c res\u00fcmierte:"
+   ]
+  }, 
+  {
+   "begin": "212.680", 
+   "children": [], 
+   "end": "217.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Die Entscheidung wirft kein gutes Licht auf die parlamentarische Kultur in Deutschland."
+   ]
+  }, 
+  {
+   "begin": "217.240", 
+   "children": [], 
+   "end": "219.640", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Recht hat er, "
+   ]
+  }, 
+  {
+   "begin": "219.640", 
+   "children": [], 
+   "end": "226.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren!"
+   ]
+  }, 
+  {
+   "begin": "226.720", 
+   "children": [], 
+   "end": "227.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wie gro\u00df, "
+   ]
+  }, 
+  {
+   "begin": "227.520", 
+   "children": [], 
+   "end": "227.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "frage ich Sie, "
+   ]
+  }, 
+  {
+   "begin": "227.960", 
+   "children": [], 
+   "end": "230.680", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "muss die Angst vor der AfD und ihren W\u00e4hlern sein, "
+   ]
+  }, 
+  {
+   "begin": "230.680", 
+   "children": [], 
+   "end": "233.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie zu solchen Mitteln greifen?"
+   ]
+  }, 
+  {
+   "begin": "233.040", 
+   "children": [], 
+   "end": "234.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen fordere ich Sie auf: "
+   ]
+  }, 
+  {
+   "begin": "234.600", 
+   "children": [], 
+   "end": "235.600", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Kehren Sie um! "
+   ]
+  }, 
+  {
+   "begin": "235.600", 
+   "children": [], 
+   "end": "239.600", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Vertrauen Sie wie wir den bew\u00e4hrten Traditionen des deutschen Parlamentarismus! "
+   ]
+  }, 
+  {
+   "begin": "239.600", 
+   "children": [], 
+   "end": "241.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Stimmen Sie unserem Antrag zu!"
+   ]
+  }, 
+  {
+   "begin": "241.760", 
+   "children": [], 
+   "end": "251.440", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "251.440", 
+   "children": [], 
+   "end": "252.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "nehmen Sie zur Kenntnis: "
+   ]
+  }, 
+  {
+   "begin": "252.640", 
+   "children": [], 
+   "end": "254.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Der alte Bundestag, "
+   ]
+  }, 
+  {
+   "begin": "254.600", 
+   "children": [], 
+   "end": "262.880", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "in dem Sie alles untereinander regeln und die Konkurrenz wegdr\u00fccken konnten wie hier bei der Frage des Alterspr\u00e4sidenten, "
+   ]
+  }, 
+  {
+   "begin": "262.880", 
+   "children": [], 
+   "end": "264.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "wurde abgew\u00e4hlt. "
+   ]
+  }, 
+  {
+   "begin": "264.440", 
+   "children": [], 
+   "end": "265.280", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Das Volk hat entschieden. "
+   ]
+  }, 
+  {
+   "begin": "265.280", 
+   "children": [], 
+   "end": "271.160", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Nun beginnt eine neue Epoche."
+   ]
+  }, 
+  {
+   "begin": "271.160", 
+   "children": [], 
+   "end": "274.680", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Von dieser Stunde an werden hier Themen neu verhandelt, "
+   ]
+  }, 
+  {
+   "begin": "274.680", 
+   "children": [], 
+   "end": "277.320", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur Ihre Man\u00f6ver und Tricks bei der Gesch\u00e4ftsordnung, "
+   ]
+  }, 
+  {
+   "begin": "277.320", 
+   "children": [], 
+   "end": "278.920", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "sondern k\u00fcnftig auch Euro, "
+   ]
+  }, 
+  {
+   "begin": "278.920", 
+   "children": [], 
+   "end": "280.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "gigantische Schulden\u00fcbernahmen, "
+   ]
+  }, 
+  {
+   "begin": "280.440", 
+   "children": [], 
+   "end": "281.800", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "riesige Einwanderungszahlen, "
+   ]
+  }, 
+  {
+   "begin": "281.800", 
+   "children": [], 
+   "end": "286.600", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "offene Grenzen und immer brutalere Kriminalit\u00e4t auf unseren Stra\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "286.600", 
+   "children": [], 
+   "end": "304.080", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "304.080", 
+   "children": [], 
+   "end": "307.000", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat jetzt der Kollege Jan Korte von der Fraktion Die Linke."
+   ]
+  }
+ ]
+}

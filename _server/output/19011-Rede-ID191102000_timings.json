@@ -1,0 +1,794 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.040", 
+   "children": [], 
+   "end": "11.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine lieben Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "11.520", 
+   "children": [], 
+   "end": "13.720", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag der AfD hat mich doch etwas verbl\u00fcfft. "
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "children": [], 
+   "end": "19.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Da fordert ausgerechnet eine Partei ein Bekenntnis zur freiheitlich-demokratischen Grundordnung, "
+   ]
+  }, 
+  {
+   "begin": "19.680", 
+   "children": [], 
+   "end": "24.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "die selbst das demokratische Grundverst\u00e4ndnis so manches Mal vermissen l\u00e4sst."
+   ]
+  }, 
+  {
+   "begin": "24.960", 
+   "children": [], 
+   "end": "33.000", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Werte wie die gleiche W\u00fcrde aller Menschen und die Gleichheit vor dem Gesetz werden von der AfD regelm\u00e4\u00dfig konterkariert; "
+   ]
+  }, 
+  {
+   "begin": "33.000", 
+   "children": [], 
+   "end": "35.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Beispiele sind hier schon genannt worden."
+   ]
+  }, 
+  {
+   "begin": "35.200", 
+   "children": [], 
+   "end": "37.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Auch scheint der AfD unbekannt zu sein, "
+   ]
+  }, 
+  {
+   "begin": "37.440", 
+   "children": [], 
+   "end": "43.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass die Klausel schon 2012 vom Verwaltungsgericht Dresden f\u00fcr rechtswidrig erkl\u00e4rt wurde."
+   ]
+  }, 
+  {
+   "begin": "43.080", 
+   "children": [], 
+   "end": "47.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Der Pirnaer Verein AKuBiZ hatte sich damals geweigert, "
+   ]
+  }, 
+  {
+   "begin": "47.680", 
+   "children": [], 
+   "end": "49.040", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "die Klausel zu unterzeichnen, "
+   ]
+  }, 
+  {
+   "begin": "49.040", 
+   "children": [], 
+   "end": "51.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "geklagt und recht bekommen. "
+   ]
+  }, 
+  {
+   "begin": "51.680", 
+   "children": [], 
+   "end": "55.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Juristische Einw\u00e4nde gab es auch vom Verwaltungsrechtler Ulrich Battis, "
+   ]
+  }, 
+  {
+   "begin": "55.400", 
+   "children": [], 
+   "end": "61.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und auch ein Gutachten des Wissenschaftlichen Dienstes des Bundestages bescheinigte der Klausel rechtliche M\u00e4ngel."
+   ]
+  }, 
+  {
+   "begin": "61.760", 
+   "children": [], 
+   "end": "66.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die staatlich gef\u00f6rderten Tr\u00e4ger sind zumeist langj\u00e4hrige und kompetente Ansprechpartner."
+   ]
+  }, 
+  {
+   "begin": "66.920", 
+   "children": [], 
+   "end": "70.040", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es sind zivilgesellschaftliche Initiativen, "
+   ]
+  }, 
+  {
+   "begin": "70.040", 
+   "children": [], 
+   "end": "75.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die sich oft in schwierigen Regionen unseres Landes f\u00fcr die Demokratie engagieren."
+   ]
+  }, 
+  {
+   "begin": "75.200", 
+   "children": [], 
+   "end": "77.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Sie verdienen unseren Respekt, "
+   ]
+  }, 
+  {
+   "begin": "77.840", 
+   "children": [], 
+   "end": "80.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "unser Vertrauen und unsere Unterst\u00fctzung."
+   ]
+  }, 
+  {
+   "begin": "80.560", 
+   "children": [], 
+   "end": "86.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wegen der Klausel hatten damals viele Tr\u00e4ger auf F\u00f6rdermittel verzichtet. "
+   ]
+  }, 
+  {
+   "begin": "86.800", 
+   "children": [], 
+   "end": "89.680", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben sie nicht unterzeichnet, "
+   ]
+  }, 
+  {
+   "begin": "89.680", 
+   "children": [], 
+   "end": "93.000", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "weil sie sie als diffamierend empfanden. "
+   ]
+  }, 
+  {
+   "begin": "93.000", 
+   "children": [], 
+   "end": "95.280", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Einige Beispiele m\u00f6chte ich Ihnen nennen."
+   ]
+  }, 
+  {
+   "begin": "95.280", 
+   "children": [], 
+   "end": "98.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Initiativen aus Sachsen waren damals doppelt gestraft, "
+   ]
+  }, 
+  {
+   "begin": "98.320", 
+   "children": [], 
+   "end": "103.080", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "weil das Landesprogramm in Sachsen verlangte, "
+   ]
+  }, 
+  {
+   "begin": "103.080", 
+   "children": [], 
+   "end": "108.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass nicht nur die Partner unterzeichnen, "
+   ]
+  }, 
+  {
+   "begin": "108.720", 
+   "children": [], 
+   "end": "115.960", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "sondern sich auch alle anderen Beteiligten mit einer Unterschrift zum Grundgesetz bekennen m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "115.960", 
+   "children": [], 
+   "end": "119.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Das f\u00fchrte zu folgender v\u00f6llig absurden Szene: "
+   ]
+  }, 
+  {
+   "begin": "119.520", 
+   "children": [], 
+   "end": "126.800", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "2012 lud die Gesellschaft f\u00fcr Christlich-J\u00fcdische Zusammenarbeit zwei tschechische Redner zu einer Diskussion nach Dresden ein. "
+   ]
+  }, 
+  {
+   "begin": "126.800", 
+   "children": [], 
+   "end": "129.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Der eine war ein Kind von Holocaust-\u00dcberlebenden, "
+   ]
+  }, 
+  {
+   "begin": "129.400", 
+   "children": [], 
+   "end": "135.600", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Vorsitzender der F\u00f6deration der j\u00fcdischen Gemeinden in der Tschechischen Republik und Vizepr\u00e4sident des J\u00fcdischen Weltkongresses, "
+   ]
+  }, 
+  {
+   "begin": "135.600", 
+   "children": [], 
+   "end": "139.680", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "der andere der Stellvertretende Dekan der Karls-Universit\u00e4t Prag. "
+   ]
+  }, 
+  {
+   "begin": "139.680", 
+   "children": [], 
+   "end": "143.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die tschechischen Redner sollten sich zum deutschen Grundgesetz bekennen. "
+   ]
+  }, 
+  {
+   "begin": "143.800", 
+   "children": [], 
+   "end": "147.440", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die Bitte des Projekttr\u00e4gers an das s\u00e4chsische Innenministerium, "
+   ]
+  }, 
+  {
+   "begin": "147.440", 
+   "children": [], 
+   "end": "149.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "von der Unterschrift abzulassen, "
+   ]
+  }, 
+  {
+   "begin": "149.600", 
+   "children": [], 
+   "end": "150.760", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "wurde ausgeschlagen. "
+   ]
+  }, 
+  {
+   "begin": "150.760", 
+   "children": [], 
+   "end": "154.320", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Daraufhin verzichtete der Verein auf die F\u00f6rdermittel."
+   ]
+  }, 
+  {
+   "begin": "154.320", 
+   "children": [], 
+   "end": "154.960", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Frau Lazar, "
+   ]
+  }, 
+  {
+   "begin": "154.960", 
+   "children": [], 
+   "end": "157.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "gestatten Sie eine Zwischenfrage von der AfD?"
+   ]
+  }, 
+  {
+   "begin": "157.560", 
+   "children": [], 
+   "end": "158.160", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "158.160", 
+   "children": [], 
+   "end": "161.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "von der AfD nicht."
+   ]
+  }, 
+  {
+   "begin": "161.440", 
+   "children": [], 
+   "end": "162.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die Stadt Riesa, "
+   ]
+  }, 
+  {
+   "begin": "162.640", 
+   "children": [], 
+   "end": "164.720", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "ebenfalls in Sachsen, "
+   ]
+  }, 
+  {
+   "begin": "164.720", 
+   "children": [], 
+   "end": "167.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "erhielt einen Zuwendungsbescheid. "
+   ]
+  }, 
+  {
+   "begin": "167.760", 
+   "children": [], 
+   "end": "171.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Die Stadt sollte sich jetzt schriftlich zur Verfassung bekennen. "
+   ]
+  }, 
+  {
+   "begin": "171.640", 
+   "children": [], 
+   "end": "175.920", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Der Finanzb\u00fcrgermeister unterschrieb mit ungutem Gef\u00fchl und fragte, "
+   ]
+  }, 
+  {
+   "begin": "175.920", 
+   "children": [], 
+   "end": "182.200", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "ob er jetzt auch f\u00fcr die Grundgesetztreue der damaligen NPD-Stadtr\u00e4te unterzeichnen solle. "
+   ]
+  }, 
+  {
+   "begin": "182.200", 
+   "children": [], 
+   "end": "183.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Er fragte die Rechtsaufsicht in Mei\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "183.920", 
+   "children": [], 
+   "end": "185.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Der Amtsleiter wusste auch nicht so recht, "
+   ]
+  }, 
+  {
+   "begin": "185.640", 
+   "children": [], 
+   "end": "188.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "was er von dem Fall zu halten habe."
+   ]
+  }, 
+  {
+   "begin": "188.560", 
+   "children": [], 
+   "end": "193.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Das soziokulturelle Zentrum \u201eDie VILLA\u201c in Leipzig lehnte die Unterzeichnung der Klausel ab mit der Begr\u00fcndung: "
+   ]
+  }, 
+  {
+   "begin": "193.560", 
+   "children": [], 
+   "end": "196.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Seit 21\u00a0Jahren arbeiten wir wunderbar mit den Beh\u00f6rden zusammen. "
+   ]
+  }, 
+  {
+   "begin": "196.960", 
+   "children": [], 
+   "end": "201.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Warum m\u00fcssen wir unsere Verfassungstreue mit einer Unterschrift best\u00e4tigen?"
+   ]
+  }, 
+  {
+   "begin": "201.040", 
+   "children": [], 
+   "end": "206.040", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "In Bayern wollte das F\u00fcrther B\u00fcndnis gegen Rechtsextremismus die Klausel nicht unterzeichnen."
+   ]
+  }, 
+  {
+   "begin": "206.040", 
+   "children": [], 
+   "end": "212.520", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Dadurch entfielen Projekte wie \u201eSpurensuche in F\u00fcrth\u201c und eine Bildungsreise mit Jugendlichen nach Auschwitz."
+   ]
+  }, 
+  {
+   "begin": "212.520", 
+   "children": [], 
+   "end": "214.360", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "All diese Beispiele zeigen: "
+   ]
+  }, 
+  {
+   "begin": "214.360", 
+   "children": [], 
+   "end": "216.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Diese Klausel braucht niemand."
+   ]
+  }, 
+  {
+   "begin": "216.680", 
+   "children": [], 
+   "end": "221.000", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Sie behindert b\u00fcrgerschaftliches Engagement in unserem Land. "
+   ]
+  }, 
+  {
+   "begin": "221.000", 
+   "children": [], 
+   "end": "223.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Demokratie lebt von Menschen, "
+   ]
+  }, 
+  {
+   "begin": "223.960", 
+   "children": [], 
+   "end": "227.120", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die sich f\u00fcr die Werte des Grundgesetzes engagieren"
+   ]
+  }, 
+  {
+   "begin": "227.120", 
+   "children": [], 
+   "end": "231.200", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und alle Formen gruppenbezogener Menschenfeindlichkeit klar zur\u00fcckweisen. "
+   ]
+  }, 
+  {
+   "begin": "231.200", 
+   "children": [], 
+   "end": "235.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Insofern geh\u00f6rt die AfD nicht zu den K\u00e4mpfern f\u00fcr unsere Demokratie."
+   ]
+  }, 
+  {
+   "begin": "235.280", 
+   "children": [], 
+   "end": "237.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wer wirklich Demokratie st\u00e4rken will, "
+   ]
+  }, 
+  {
+   "begin": "237.560", 
+   "children": [], 
+   "end": "238.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "steht an der Seite derer, "
+   ]
+  }, 
+  {
+   "begin": "238.840", 
+   "children": [], 
+   "end": "241.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "die sich mit Projekten mutig gegen Rassismus, "
+   ]
+  }, 
+  {
+   "begin": "241.880", 
+   "children": [], 
+   "end": "245.040", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Antisemitismus und Diskriminierung engagieren. "
+   ]
+  }, 
+  {
+   "begin": "245.040", 
+   "children": [], 
+   "end": "248.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6ren eine solide und verl\u00e4ssliche Finanzierung"
+   ]
+  }, 
+  {
+   "begin": "248.760", 
+   "children": [], 
+   "end": "252.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und eine gute Zusammenarbeit von Staat und Zivilgesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "252.240", 
+   "children": [], 
+   "end": "256.880", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "und zwar auf Augenh\u00f6he und ohne Generalverdacht."
+   ]
+  }, 
+  {
+   "begin": "256.880", 
+   "children": [], 
+   "end": "260.760", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Demokratie ist keine Selbstverst\u00e4ndlichkeit. "
+   ]
+  }, 
+  {
+   "begin": "260.760", 
+   "children": [], 
+   "end": "264.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen sie kontinuierlich weiterentwickeln und uns stets um sie bem\u00fchen."
+   ]
+  }, 
+  {
+   "begin": "264.680", 
+   "children": [], 
+   "end": "265.920", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Als Ostdeutsche, "
+   ]
+  }, 
+  {
+   "begin": "265.920", 
+   "children": [], 
+   "end": "272.080", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die 1989 bei der friedlichen Revolution mit dabei war und f\u00fcr Demokratie auf die Stra\u00dfe gegangen ist, "
+   ]
+  }, 
+  {
+   "begin": "272.080", 
+   "children": [], 
+   "end": "274.840", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "wei\u00df ich die Demokratie zu sch\u00e4tzen."
+   ]
+  }, 
+  {
+   "begin": "274.840", 
+   "children": [], 
+   "end": "276.240", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Eine Misstrauenskultur, "
+   ]
+  }, 
+  {
+   "begin": "276.240", 
+   "children": [], 
+   "end": "281.440", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "wie sie von Ihnen in Ihrem Antrag vorgeschlagen wird, "
+   ]
+  }, 
+  {
+   "begin": "281.440", 
+   "children": [], 
+   "end": "291.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "brauchen wir jedenfalls nicht."
+   ]
+  }, 
+  {
+   "begin": "291.440", 
+   "children": [], 
+   "end": "294.800", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chste Rednerin rufe ich Dr.\u00a0Frauke Petry auf, "
+   ]
+  }, 
+  {
+   "begin": "294.800", 
+   "children": [], 
+   "end": "295.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die keiner Fraktion angeh\u00f6rt."
+   ]
+  }
+ ]
+}
