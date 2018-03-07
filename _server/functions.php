@@ -62,6 +62,10 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 
 		$xPathElements = $xmlData->xpath($xPathSelector);
 
+		$wahlperiode = sprintf('%02d',(int) $xmlData->xpath('//kopfdaten//wahlperiode')[0]);
+		$sitzungsnummer = sprintf('%03d',(int) $xmlData->xpath('//kopfdaten//sitzungsnr')[0]);
+		$outputFilePath = $conf['output'].$wahlperiode.$sitzungsnummer;
+
 		$rID = 0;
 
 		if (!empty($xPathElements)) {
@@ -83,14 +87,16 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 				$sID = 0;
 
 				if ($xPathElement->getName() == 'tagesordnungspunkt') {
-					$fileNameSuffix = '-'.strtolower( mb_ereg_replace("([^\w\d\-_~,;\[\]\(\).])", '-', $xPathElement['top-id']) );
+					$fileNameSuffix = '-'.mb_ereg_replace("([^\w\d\-_~,;\[\]\(\).])", '-', $xPathElement['top-id']);
 				} elseif ($xPathElement->getName() == 'rede') {
-					$fileNameSuffix = '-rede-'.strtolower( mb_ereg_replace("([^\w\d\-_~,;\[\]\(\).])", '-', $xPathElement['id']) );
+					$fileNameSuffix = '-Rede-'.mb_ereg_replace("([^\w\d\-_~,;\[\]\(\).])", '-', $xPathElement['id']);
 				} else {
 					$fileNameSuffix = '';
 				}
 
 				$fileNameSuffix = mb_ereg_replace("([\.]{2,})", '', $fileNameSuffix);
+
+				$outputFilePath .= $fileNameSuffix;
 
 				// Use xpath directly on $xmlData ($xPathElement still contains refs for all p nodes)
 				foreach ($xmlData->xpath($xPathSelector.'//p') as $paragraph) {
@@ -132,15 +138,17 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 
 			}
 
+			/*
 			$xmlFilePathArray = preg_split("/\\//", $XMLFilePath);
 			$xmlFileName = array_pop($xmlFilePathArray);
 			$xmlFileNameArray = preg_split("/\./", $xmlFileName);
 
 			$optimisedXMLFileName = $xmlFileNameArray[0].$fileNameSuffix.'_optimised.xml';
+			*/
 
-			file_put_contents(dirname(__FILE__).'/output/'.$optimisedXMLFileName, $xmlData->asXML());
+			file_put_contents($outputFilePath.'_optimised.xml', $xmlData->asXML());
 
-			$response = array(  'message' => 'Optimised XML file saved to: /output/'.$optimisedXMLFileName, 
+			$response = array(  'message' => 'Optimised XML file saved to: '.$outputFilePath.'_optimised.xml', 
 								'task' => 'optimise',
 								'status' => '',
 								'progress' => 100);
@@ -167,7 +175,6 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 										'progress' => 0);
 					echo json_encode($response);
 					
-
 					getAudioFile($audioFilePath);
 				} else {
 					$response = array(  'message' => 'Audio file found ('.$conf['inputAudio'].$audioFileName.'). No download necessary.', 
@@ -175,10 +182,9 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 										'status' => 'success',
 										'progress' => 100);
 					echo json_encode($response);
-					
 				}
 
-				if (!file_exists($conf['output'].$xmlFileNameArray[0].$fileNameSuffix.'_timings.json')) {
+				if (!file_exists($outputFilePath.'_timings.json')) {
 					$response = array(  'message' => 'JSON timings file not yet generated. Starting forced alignment.', 
 										'task' => 'forcealign',
 										'status' => '',
@@ -186,9 +192,10 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 					echo json_encode($response);
 					
 
-					forceAlignAudio($conf['inputAudio'].$audioFileName, $conf['output'].$optimisedXMLFileName, $conf['output'].$xmlFileNameArray[0].$fileNameSuffix.'_timings.json');
+					forceAlignAudio($conf['inputAudio'].$audioFileName, $outputFilePath.'_optimised.xml', $outputFilePath.'_timings.json');
+
 				} else {
-					$response = array(  'message' => 'JSON timings file found ('.$conf['output'].$xmlFileNameArray[0].$fileNameSuffix.'_timings.json). Force Align not necessary.', 
+					$response = array(  'message' => 'JSON timings file found ('.$outputFilePath.'_timings.json). Force Align not necessary.', 
 										'task' => 'forcealign',
 										'status' => 'success',
 										'progress' => 100);
@@ -196,11 +203,11 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 					
 				}
 
-				$xmlDataWithTimings = getXMLWithTimings($conf['output'].$xmlFileNameArray[0].$fileNameSuffix.'_timings.json', $xmlData->asXML());
+				$xmlDataWithTimings = getXMLWithTimings($outputFilePath.'_timings.json', $xmlData->asXML());
 
-				file_put_contents($conf['output'].$xmlFileNameArray[0].$fileNameSuffix.'_timings.xml', $xmlDataWithTimings);
+				file_put_contents($outputFilePath.'_timings.xml', $xmlDataWithTimings);
 
-				$response = array(  'message' => 'XML with timings saved to: '.$conf['output'].$xmlFileNameArray[0].$fileNameSuffix.'_timings.xml', 
+				$response = array(  'message' => 'XML with timings saved to: '.$outputFilePath.'_timings.xml', 
 									'task' => '',
 									'status' => '',
 									'progress' => 0);
@@ -211,9 +218,9 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 				$selectedXMLPart = $simpleXMLWithTimings->xpath($xPathSelector);
 				$htmlString = getHTMLfromXML($selectedXMLPart[0]->asXML());
 
-				file_put_contents($conf['output'].$xmlFileNameArray[0].$fileNameSuffix.'.html', $htmlString);
+				file_put_contents($outputFilePath.'.html', $htmlString);
 
-				$response = array(  'message' => 'HTML with timings saved to: '.$conf['output'].$xmlFileNameArray[0].$fileNameSuffix.'.html', 
+				$response = array(  'message' => 'HTML with timings saved to: '.$outputFilePath.'.html', 
 									'task' => '',
 									'status' => '',
 									'progress' => 0);
@@ -231,7 +238,7 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 									'html' => $htmlString );
 				echo json_encode($response);
 
-				unlink($conf['output'].$optimisedXMLFileName);
+				unlink($outputFilePath.'_optimised.xml');
 
 				sleep(1);
 				

@@ -20,16 +20,33 @@ if (!is_writable('input/xml/')) {
 
 // Loop through all xml files and get media IDs
 
-$fileArray = array_values(array_diff(scandir('input/xml/'), array('.', '..', '.DS_Store')));
+$fileIndex = array();
+$fileArray = array_values(array_diff(scandir('input/xml/'), array('.', '..', '.DS_Store', '_index.json')));
 
 foreach ($fileArray as $fileName) {
 	
 	echo '<br>'.$fileName.'<br>';
 
+	$xmlData = simplexml_load_file('input/xml/'.$fileName);
+
+	$datum = (string) $xmlData->xpath('//kopfdaten//datum')[0]['date'];
+	$wahlperiode = (int) $xmlData->xpath('//kopfdaten//wahlperiode')[0];
+	$sitzungsnummer = (int) $xmlData->xpath('//kopfdaten//sitzungsnr')[0];
+
+	$fileInfo = new stdClass();
+	$fileInfo->title = 'Wahlperiode '.$wahlperiode.', '.$sitzungsnummer.'. Sitzung: '.$datum;
+	$fileInfo->period = $wahlperiode;
+	$fileInfo->meeting = $sitzungsnummer;
+	$fileInfo->path = 'input/xml/'.$fileName;
+
+	array_push($fileIndex, $fileInfo);
+
 	// CAREFUL: This potentially send thousands of requests to the Bundestag Mediathek
 	getMediaIDs(dirname(__FILE__).'/input/xml/'.$fileName);
 
 }
+
+file_put_contents('input/xml/_index.json', json_encode($fileIndex));
 
 //getMediaIDs(dirname(__FILE__).'/input/xml/19018-data.xml');
 
