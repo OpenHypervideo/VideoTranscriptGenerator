@@ -26,5 +26,5 @@ pids
 *.mp3
 
 #output folder
-_server/output/
+#_server/output/
 
