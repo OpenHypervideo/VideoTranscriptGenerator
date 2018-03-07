@@ -1,14 +1,16 @@
 var isMouseOver = false,
 	selectedXMLFile = null,
 	xPath = null,
-	mediaID = null;
+	mediaID = null,
+	periodID = null,
+	meetingID = null;
 
 $(document).ready( function() {
 	
 	$.getJSON('_server/input/xml/_index.json')
 		.done(function(data) {
 			for (var i=0; i<data.length; i++) {
-				var listItem = $('<li data-filename="'+ data[i].path +'">'+ data[i].title +'</li>');
+				var listItem = $('<li data-filename="'+ data[i].path +'" data-period-id="'+ data[i].period +'" data-meeting-id="'+ data[i].meeting +'">'+ data[i].title +'</li>');
 
 				$('#fileList').append(listItem);
 			}
@@ -21,6 +23,8 @@ $(document).ready( function() {
 		$('#fileList li').removeClass('active');
 		$(this).addClass('active');
 		selectedXMLFile = $(this).attr('data-filename');
+		periodID = $(this).attr('data-period-id');
+		meetingID = $(this).attr('data-meeting-id');
 		updateForceAlignButton();
 
 		getXMLTableOfContents($(this).attr('data-filename'));
@@ -372,8 +376,8 @@ function staticFallback() {
 
 	var videoSource = 'http://static.cdn.streamfarm.net/1000153copo/ondemand/145293313/'+ mediaID +'/'+ mediaID +'_h264_1920_1080_5000kb_baseline_de_5000.mp4';
 	
-	var wahlperiode = ('0' + '19').slice(-2),
-		sitzungsnr = ('00' + '1').slice(-3),
+		wahlperiode = ('0' + periodID).slice(-2),
+		sitzungsnr = ('00' + meetingID).slice(-3),
 		suffix = getFileSuffixFromXpath(xPath),
 		htmlSource = wahlperiode + sitzungsnr + suffix +'.html';
 
