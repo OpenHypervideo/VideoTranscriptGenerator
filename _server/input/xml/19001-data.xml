@@ -12,7 +12,7 @@
     </kopfdaten>
     <inhaltsverzeichnis>
       <ivz-titel>Inhalt:</ivz-titel>
-      <ivz-eintrag media-id="7164725">
+      <ivz-eintrag media-id="7164715">
         <ivz-eintrag-inhalt><redner id="11002190"><name><vorname>Alterspräsident Dr. Hermann</vorname><nachname>Otto Solms</nachname><rolle><rolle_lang>Alterspräsident</rolle_lang><rolle_kurz>Alterspräsident</rolle_kurz></rolle></name></redner>Alterspräsident Dr. Hermann Otto Solms</ivz-eintrag-inhalt>
         <xref div="A" pnr="1" ref-type="rede" rid="ID19100100">
           <a href="S1" typ="druckseitennummer"><seite>1</seite> <seitenbereich>A</seitenbereich></a>
@@ -24,9 +24,15 @@
           <ivz-eintrag-inhalt>Eröffnung der Sitzung durch den Alterspräsidenten Drucksache 19/2 </ivz-eintrag-inhalt>
           <a href="S1" typ="druckseitennummer"><seite>1</seite> <seitenbereich>C</seitenbereich></a>
         </ivz-eintrag>
+        <ivz-eintrag media-id="7164718">
+          <ivz-eintrag-inhalt><redner id="11002190"><name><vorname>Alterspräsident Dr. Hermann</vorname><nachname>Otto Solms</nachname><rolle><rolle_lang>Alterspräsident</rolle_lang><rolle_kurz>Alterspräsident</rolle_kurz></rolle></name></redner>Alterspräsident Dr. Hermann Otto Solms</ivz-eintrag-inhalt>
+          <xref div="C" pnr="1" ref-type="rede" rid="ID191002001">
+            <a href="S1" typ="druckseitennummer"><seite>1</seite> <seitenbereich>C</seitenbereich></a>
+          </xref>
+        </ivz-eintrag>
         <ivz-eintrag media-id="7164725">
           <ivz-eintrag-inhalt><redner id="11002190"><name><vorname>Alterspräsident Dr. Hermann</vorname><nachname>Otto Solms</nachname><rolle><rolle_lang>Alterspräsident</rolle_lang><rolle_kurz>Alterspräsident</rolle_kurz></rolle></name></redner>Alterspräsident Dr. Hermann Otto Solms</ivz-eintrag-inhalt>
-          <xref div="C" pnr="1" ref-type="rede" rid="ID19100200">
+          <xref div="C" pnr="1" ref-type="rede" rid="ID191002002">
             <a href="S1" typ="druckseitennummer"><seite>1</seite> <seitenbereich>C</seitenbereich></a>
           </xref>
         </ivz-eintrag>
@@ -241,10 +247,7 @@
   <sitzungsverlauf>
     <sitzungsbeginn sitzung-start-uhrzeit="11:00">
       <a id="S1" name="S1" typ="druckseitennummer"/>
-
-    </sitzungsbeginn>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 1">
-      <rede id="ID19100100" media-id="7164725">
+      <rede id="ID19100100" media-id="7164715">
         <p klasse="redner">
 
         <redner id="11002190"><name><vorname>Alterspräsident Dr. Hermann</vorname><nachname>Otto Solms</nachname><rolle><rolle_lang>Alterspräsident</rolle_lang><rolle_kurz>Alterspräsident</rolle_kurz></rolle></name></redner>
@@ -259,96 +262,101 @@
         <p klasse="J">Wir verfahren nunmehr entsprechend § 1 Absatz 2 der bisherigen Geschäftsordnung. Herr Dr. Wolfgang Schäuble ist das Mitglied, das dem Deutschen Bundestag am längsten angehört. Er hat jedoch auf das Amt des Alterspräsidenten verzichtet. Damit rückt das am zweitlängsten dem Bundestag angehörende Mitglied nach. Ich war von 1980 bis 2013, also 33 Jahre, Mitglied des Deutschen Bundestages. Ist jemand unter Ihnen, der dem Bundestag länger angehört? –</p>
         <kommentar>(Heiterkeit)</kommentar>
         <p klasse="O">Das scheint offenkundig nicht der Fall zu sein. Dann trifft es also tatsächlich zu, dass die Rolle des Alterspräsidenten auf mich zukommt. Es ist mir eine Ehre und Freude zugleich, den Vorsitz bis zur Amtsübernahme durch den neugewählten Präsidenten des Deutschen Bundestages zu übernehmen.</p>
+      </rede>
+    </sitzungsbeginn>
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 1">
+      <rede id="ID191002001" media-id="7164718">
+        <p klasse="redner">
+        <redner id="11002190"><name><vorname>Alterspräsident Dr. Hermann</vorname><nachname>Otto Solms</nachname><rolle><rolle_lang>Alterspräsident</rolle_lang><rolle_kurz>Alterspräsident</rolle_kurz></rolle></name></redner></p>
         <p klasse="T">Damit rufe ich nun den Tagesordnungspunkt 1 auf:</p>
         <p klasse="T_NaS">Eröffnung der Sitzung durch den Alterspräsidenten</p>
         <p klasse="T_Drs">Drucksache 19/2</p>
+        <p klasse="J_1">Ich eröffne als Alterspräsident die erste Sitzung der 19. Wahlperiode und begrüße zunächst den Bundespräsidenten Herrn Dr. Frank-Walter Steinmeier.</p>
+        <kommentar>(Beifall)</kommentar>
+        <p klasse="O">Wir freuen uns, Herr Bundespräsident, dass Sie unter uns sind und dieser Konstituierung beiwohnen.</p>
+        <p klasse="J">Des Weiteren begrüße ich herzlich die ehemalige Präsidentin des Deutschen Bundestages Frau Dr. Rita ­Süssmuth</p>
+        <kommentar>(Beifall)</kommentar>
+        <p klasse="O">sowie die ehemaligen Präsidenten des Deutschen Bundestages Herrn Dr. Wolfgang Thierse</p>
+        <kommentar>(Beifall)</kommentar>
+        <p klasse="O">und natürlich den hochgeschätzten Kollegen Dr. Norbert Lammert, der bis heute dem Bundestag vorgesessen hat.</p>
+        <kommentar>(Anhaltender Beifall)</kommentar>
+        <p klasse="J">Es ist mir ein besonderes Anliegen, Frau Inge Deutschkron zu begrüßen, die im Jahre 2013 aus Anlass des Holocaust-Gedenktages eine sehr bewegende Rede hier im Deutschen Bundestag gehalten hat.</p>
+        <kommentar>(Beifall)</kommentar>
+        <p klasse="J">Mein Gruß gilt auch den anwesenden Botschaftern und Missionschefs sowie allen weiteren Gästen, die auf der Tribüne an dieser Sitzung teilnehmen.</p>
+        <kommentar>(Beifall)</kommentar>
+        <p klasse="J">Außerdem möchte ich dem Kollegen Reinhold Sendker zu seinem heutigen 65. Geburtstag gratulieren.</p>
+        <kommentar>(Beifall)<a id="S2" name="S2" typ="druckseitennummer"/></kommentar>
+        <p klasse="J">Als Nächstes habe ich gemäß § 1 Absatz 3 der Geschäftsordnung die vorläufigen Schriftführerinnen und Schriftführer zu ernennen.</p>
+        <p klasse="J">Nach Absprache mit den Fraktionen benenne ich als vorläufige Schriftführerinnen und Schriftführer die Damen und Herren Abgeordneten – ich verlese jetzt die Liste –: Artur Auernhammer, Doris Barnett, Heike Baehrens, Dr. Karamba Diaby, Sabine Dittmar, Katharina Dröge, Dr. Fritz Felgentreu, Dr. Thomas Gebhart, Christian Haase, Mariana Harder-Kühnel, Sebastian Hartmann, Mark Helfrich, Karsten Hilse, Thomas Hitschler, Dieter Janecek, Kerstin Kassner, Ronja Kemmer, Jens Koeppen, Markus Koob, Dr. Katja Leikert, Alexander Müller, Bettina Müller, Norbert Müller, Beate Müller-Gemmeke, Volker Münz, Dr. Alexander Neu, Ulli Nissen, Omid Nouripour, Friedrich Ostendorff, Tabea Rößner, Manuel Sarrazin, Ulle Schauws, Dr. Wieland Schinnenburg, Benjamin Strasser, Katrin Werner, Nicole Westig, Kai Whittaker, Wolfgang Wiehle, Gülistan Yüksel, Hubertus Zdebel, Stefan Zierke, Pia Zimmermann.</p>
+        <p klasse="J">Die Abgeordneten Jens Koeppen und Doris Barnett bitte ich, neben mir Platz zu nehmen.</p>
       </rede>
-      <rede id="ID19100200" media-id="7164725">
+      <rede id="ID191002002" media-id="7164725">
         <p klasse="redner">
-
         <redner id="11002190"><name><vorname>Alterspräsident Dr. Hermann</vorname><nachname>Otto Solms</nachname><rolle><rolle_lang>Alterspräsident</rolle_lang><rolle_kurz>Alterspräsident</rolle_kurz></rolle></name></redner></p>
+        <p klasse="J">Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Bitte haben Sie Verständnis, dass ich meinen Ausführungen eine sehr persönliche Erklärung vorausschicken möchte.</p>
+        <p klasse="J">Ich freue mich ganz außerordentlich, dass gerade ich als Mitglied der Fraktion der Freien Demokraten die Sitzungsperiode des 19. Deutschen Bundestages eröffnen darf. Nach vier schwierigen Jahren in der außerparlamentarischen Opposition haben wir das Vertrauen der Wählerinnen und Wähler zurückgewonnen. Jetzt können wir der liberalen Stimme im Deutschen Bundestag wieder Gehör verschaffen, und das war unsere zentrale Aufgabe und unser Ziel. Vielen Dank für Ihr Verständnis.</p>
+        <p klasse="J">Meine Damen und Herren, vorweg möchte ich allen Kolleginnen und Kollegen zu ihrer Wiederwahl bzw. Neuwahl in den Deutschen Bundestag herzlich gratulieren. Abgeordneter des Deutschen Bundestages zu sein, ist eine große Ehre, aber eine noch viel größere Verpflichtung; dieser müssen wir alle in den nächsten Jahren gerecht werden.</p>
+        <p klasse="J">Der Deutsche Bundestag ist das einzige direkt vom Volk legitimierte Staatsorgan. Er steht damit im Mittelpunkt unserer staatlichen Ordnung, auf den sich alle anderen Organe beziehen.</p>
+        <p klasse="J">Der Deutsche Bundestag ist darüber hinaus eines der einflussreichsten demokratischen Parlamente der Welt. Das wird schon dadurch deutlich, dass sich der Bundestag seine Regierung wählt, diese beauftragt, kontrolliert und gegebenenfalls wieder ersetzen kann. Die Regierung ist also immer auf das Vertrauen des Bundestages angewiesen.</p>
+        <p klasse="J">Der Bundestag wählt seine Regierung, nicht die Regierung ihren Bundestag. Das wird in der öffentlichen Übertragung häufig nicht eindeutig dargestellt. Die in der Verfassung vorgesehene Richtlinienkompetenz des Bundeskanzlers bzw. der Bundeskanzlerin bezieht sich nur auf das Handeln der Regierung und nicht auf die Entscheidungsfindung im Deutschen Bundestag, auch wenn das in den Medien häufig anders dargestellt wird.</p>
+        <kommentar>(Beifall bei Abgeordneten der AfD und der FDP)</kommentar>
+        <p klasse="J">Der Bundestag bestimmt die politischen Zielsetzungen und die grundsätzlichen Lösungswege. Die Regierung führt sie aus.</p>
+        <p klasse="J">An zwei Beispielen möchte ich deutlich machen, wie weit die Entscheidungsbefugnisse des Bundestages reichen. Zu Beginn der 90er-Jahre verklagte die FDP-Bundestagsfraktion die eigene Regierung vor dem Bundesverfassungsgericht wegen der Zulässigkeit der Out-of-Area-Einsätze der Bundeswehr. Als damaliger Fraktionsvorsitzender habe ich die Klage vor dem Bundesverfassungsgericht vertreten, genauso wie der bis heute unvergessene Kollege Peter Struck, der die gleichzeitige Klage der damaligen Oppositionsfraktion SPD vertreten hat.</p>
+        <p klasse="J">Aufgrund des Urteils des Bundesverfassungsgerichts bedürfen seither alle Auslandseinsätze der Bundeswehr der Zustimmung des Parlamentes. Deswegen sprechen wir ja heute von einer Parlamentsarmee. Das ist der Zusammenhang: eine Verantwortung, die in anderen Ländern unbekannt ist und häufig auf Verwunderung stößt, sich aber bei uns nach meiner Meinung bewährt hat.</p>
+        <kommentar>(Beifall bei Abgeordneten im ganzen Hause)</kommentar>
+        <p klasse="O">Diese Regelung, die Staat und Soldatinnen und Soldaten vor leichtfertigen Entscheidungen schützt, sollte bei einer Einbettung der Bundeswehr in europäische Verteidigungsstrukturen grundsätzlich beibehalten werden.</p>
+        <kommentar>(Beifall bei Abgeordneten der FDP und der LINKEN)</kommentar>
+        <p klasse="J">Auch im Rahmen der Euro-Stabilisierung haben wir ein Höchstmaß an parlamentarischer Kontrolle erreicht und im September 2011 Rechtsgeschichte geschrieben. Damals ist es zum ersten Mal gelungen, einen flächendeckenden Parlamentsvorbehalt gegenüber den Vorrechten der Regierung bei der Außenvertretung des Staates zu installieren. Dieser gilt bei allen die Haushaltsverantwortung des Bundestages betreffenden Entscheidungen der Bundesregierung zur Euro-Stabilisierung.</p>
+        <p klasse="J">Wir haben dieses Königsrecht des Parlaments, nämlich das Haushaltsrecht, in Gesetze gegossen, welche dieses Recht garantieren. Das Recht des Parlamentes, über die Einnahmen und Ausgaben des Staates zu bestimmen, darf auch in Zukunft nicht eingeschränkt werden. In dieser Auffassung hat uns damals das Bundesverfassungsgericht bestärkt. Ich zitiere:</p>
+        <p klasse="Z">Für die Einhaltung des Demokratiegebots kommt es vielmehr entscheidend darauf an, dass der Deutsche Bundestag der Ort bleibt, an dem eigenverantwortlich über Einnahmen und Ausgaben entschieden wird, auch im Hinblick auf internationale und europäische Verbindlichkeiten.</p>
+        <p klasse="O">Ende des Zitats.<a id="S3" name="S3" typ="druckseitennummer"/></p>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, das Wahlergebnis vom 24. September hat die Kräfteverhältnisse im 19. Deutschen Bundestag stärker verändert, als gemeinhin erwartet wurde, und zugleich auch die politischen Rollen neu verteilt. Diese Entscheidung der Wähler haben wir zu akzeptieren.</p>
+        <kommentar>(Beifall bei der AfD sowie bei Abgeordneten der FDP)</kommentar>
+        <p klasse="O">Das Parlament muss ein Spiegelbild der Meinungsvielfalt in der Bevölkerung sein. Ich warne davor, Sonderregelungen zu schaffen, auszugrenzen oder gar zu stigmatisieren.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der SPD, der AfD und der FDP sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Wir alle haben das gleiche Mandat, gleiche Rechte, aber auch gleiche Pflichten.</p>
+        <kommentar>(Beifall im ganzen Hause)</kommentar>
+        <p klasse="O">Es ist klug, sich im politischen Wettbewerb auf inhaltliche Auseinandersetzungen zu konzentrieren. Dabei gilt: Jeder, der hier das Wort ergreift, übernimmt persönlich die Verantwortung für das Gesagte. Durch die Wahl sind wir jetzt die Repräsentanten des Volkes, und der Wille des Volkes, von dem alle Staatsgewalt ausgeht, ist Maßstab unseres Handelns.</p>
+        <p klasse="J">Selbstverständlich fühlen wir uns alle auch verantwortlich gegenüber unseren Parteien, die uns als Kandidaten nominiert haben. Das Grundgesetz bestimmt, dass die Parteien bei der politischen Willensbildung mitwirken. Ohne Parteien ist dies auch gar nicht zu organisieren. Wer Demokratie bejaht, muss auch demokratische Parteien bejahen. Es ist zu bedauern, wie wenig die Mitgliedschaft in einer Partei oder die Unterstützung demokratischer Parteien in der Öffentlichkeit gewürdigt werden. Wir dürfen die ehrenamtliche und unentgeltliche Arbeit Zehntausender Politiker gerade auf kommunaler und regionaler Ebene nicht vergessen, ohne die die demokratische Willensbildung überhaupt nicht möglich wäre.</p>
+        <kommentar>(Beifall im ganzen Hause)</kommentar>
+        <p klasse="O">Deshalb danke ich heute besonders allen, die bei der Bundestagswahl, bei Landtags- oder Kommunalwahlen kandidiert, aber kein Mandat erhalten haben. Sie haben mit ihrem Engagement einen besonderen Beitrag für die lebendige Demokratie geleistet.</p>
+        <kommentar>(Beifall im ganzen Hause)</kommentar>
+        <p klasse="J">Parteien stellen das politische Personal, die Kandidaten für politische Ämter, und nehmen zusätzlich Einfluss auf die Rekrutierung und Besetzung von leitenden Positionen in Verwaltung und Gerichten. Das ist viel Macht, die große Verantwortung mit sich bringt und ein hohes Maß an Selbstkontrolle und Selbstdisziplin einfordert. Wichtig ist dabei – das sollten wir nie vergessen –: Die Verantwortung gegenüber dem jeweiligen Parteivotum muss zurückstehen hinter der Verantwortung gegenüber den Wählern und der Gesellschaft.</p>
+        <kommentar>(Beifall bei der AfD und der FDP sowie bei Abgeordneten der CDU/CSU, der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Ich erinnere an Artikel 38 unseres Grundgesetzes. Darin heißt es in Absatz 1 Satz 2: Die Abgeordneten des Deutschen Bundestages „sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen“. Es bleibt dabei: Es gibt kein imperatives Mandat.</p>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, heute wird unsere Demokratie erneut herausgefordert. Die gefühlte Distanz zwischen Bürgern und Politik steigt. Entscheidungen, die in parlamentarischen und rechtsstaatlichen Verfahren getroffen werden, stoßen mitunter auf Unverständnis oder gar auf Protest.</p>
+        <p klasse="J">Die Bürger erwarten politische Führung und Reformfähigkeit; aber sie wollen auch demokratische Verständigung, Moderation und Ausgleich. Immer mehr Bürger organisieren ihre Interessen und Initiativen außerhalb der klassischen parteipolitischen Strukturen. Zugleich ziehen sich leider zu viele Menschen ganz aus der politischen Öffentlichkeit zurück.</p>
+        <p klasse="J">In den sozialen Medien werden Rassismus, Antisemitismus, Sexismus, Misstrauen, Ressentiments und populistische Hetze kultiviert. Wir dürfen unsere Mitbürgerinnen und Mitbürger nicht diesen Stimmen und Stimmungen überlassen.</p>
+        <kommentar>(Beifall im ganzen Hause)</kommentar>
+        <p klasse="O">Es ist vielmehr unsere Pflicht, das Vertrauen in die wehrhafte, engagierte und lernende Demokratie zu stärken – durch unser Reden und durch unser Handeln.</p>
+        <kommentar>(Beifall bei Abgeordneten der CDU/CSU, der AfD und der FDP)</kommentar>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, wir können stolz sein auf unsere lebendige Demokratie. In ihr geht es nicht nur darum, dass am Ende Mehrheiten entscheiden, sondern auch darum, dass Minderheiten genauso ihre Rechte wahrnehmen können und dass die Menschen erkennen, dass im Deutschen Bundestag alle Überzeugungen zur Sprache gebracht werden können, und zwar von allen Bürgern, egal woher sie auch kommen, woran sie glauben, welchen Geschlechts sie auch sind oder welchen Bildungsgrad sie besitzen.</p>
+        <kommentar>(Beifall bei der AfD und der FDP sowie bei Abgeordneten der CDU/CSU, der SPD und der LINKEN und der Abg. Kerstin Andreae [BÜNDNIS 90/DIE GRÜNEN])</kommentar>
+        <p klasse="O">Dabei ist es die vornehmste Aufgabe des Parlaments, die Freiheits- und Grundrechte aller Bürger zu wahren und zu sichern, damit die Bürger im Rahmen dieser Gesetze ihr Leben möglichst frei gestalten können und ihre Privatsphäre geschützt wird.</p>
+        <kommentar>(Beifall bei Abgeordneten im ganzen Hause)</kommentar>
+        <p klasse="J">Unsere gemeinsame Aufgabe muss es sein, dafür zu sorgen, die gesellschaftlichen Debatten unserer Zeit wieder dahin zurückzuholen, wo sie hingehören, nämlich hierhin, in den Deutschen Bundestag.</p>
+        <kommentar>(Beifall bei Abgeordneten im ganzen Hause)<a id="S4" name="S4" typ="druckseitennummer"/></kommentar>
+        <p klasse="O">Genau hier ist der Platz der Auseinandersetzung der verschiedenen politischen Ausrichtungen und Überzeugungen. Hier im Deutschen Bundestag sind die Parteien in dem Maße vertreten, wie sie in freier Wahl bestimmt worden sind. Deshalb kommen hier die unterschiedlichen politischen Strömungen zur Geltung, und zwar in dem Verhältnis, wie sie von den Wählern Unterstützung erhalten haben. Das Zerrbild von der Politik, wie es beispielsweise in den sozialen Medien oder in manchen Fernseh-Talkshows dargeboten wird, gibt diese faire Repräsentation nicht wieder.</p>
+        <kommentar>(Beifall bei Abgeordneten der AfD und der FDP)</kommentar>
+        <p klasse="O">Bei letzteren werden häufig Vertreter auffälliger Positionen eingeladen, weil dies eine höhere Einschaltquote verspricht.</p>
+        <p klasse="J">Was bedeutet das für uns? Wir müssen den Menschen auf Augenhöhe begegnen und ihnen Orientierung geben. Wir brauchen eine lebendige, lebensnahe Debattenkultur. Wir müssen dabei eine Sprache sprechen, die verstanden wird. Wir müssen die unterschiedlichen Positionen klar und deutlich herausarbeiten, damit sich die Wähler bei ihrer Wahlentscheidung daran orientieren können. Es muss für uns der lateinische Grundsatz gelten: „Suaviter in modo, f ortiter in re“. – Also: Maßvoll im Ton, bestimmt in der Sache.</p>
+        <p klasse="J">Wie auch Bundespräsident Frank-Walter Steinmeier bei seiner Rede zur deutschen Einheit sagte: Kontroversen, ja; aber aus Differenzen darf keine Unversöhnlichkeit entstehen. – Ich kann ihm nur zustimmen. Wir brauchen weniger ideologische Grabenkämpfe und mehr problemorientierte Lösungen.</p>
+        <kommentar>(Beifall bei Abgeordneten der CDU/CSU, der SPD, der AfD und der FDP)</kommentar>
+        <p klasse="J">Liebe Kolleginnen und Kollegen, zum Schluss möchte ich noch auf die aktuelle Größe des Bundestages zu sprechen kommen. Sie verspüren alle selbst, dass der Bundestag mit 709 Mitgliedern eine unerwartet hohe Anzahl an Abgeordneten erreicht hat. Die Größe dieses aufgeblähten Parlaments trägt eher dazu bei, dass die Arbeitsfähigkeit des Bundestages genauso wie sein Ansehen bei den Bürgern leidet – auch wegen der dadurch gestiegenen Kosten.</p>
+        <kommentar>(Beifall bei Abgeordneten der AfD)</kommentar>
+        <p klasse="O">Wie der bisherige Bundestagspräsident Norbert Lammert rege auch ich an, dass sich der Bundestag rasch mit einer Reform des Wahlrechts befasst.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der AfD und der FDP sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Im Interesse der Funktionsfähigkeit des Parlaments darf es dabei keine taktischen Machtspiele geben.</p>
+        <kommentar>(Beifall bei der AfD sowie bei Abgeordneten der CDU/CSU und der FDP)</kommentar>
+        <p klasse="O">Meiner Meinung nach war das alte Wahlrecht im Wesentlichen von allen politischen Kräften akzeptiert. Wenn es keine schnelle Einigung gibt, sollte der Bundestag dieses wieder in Kraft setzen, notfalls mit verfassungsändernder Mehrheit.</p>
+        <kommentar>(Beifall bei Abgeordneten der AfD und der FDP)</kommentar>
+        <p klasse="J">Für die neue Legislaturperiode wünsche ich uns allen das notwendige Verantwortungsgefühl für faire und sachgerechte Auseinandersetzungen mit Klarheit und Augenmaß. Lassen Sie uns den Bürgerinnen und Bürgern beweisen, dass unsere Demokratie hohe Integrationskraft besitzt, dass wir nicht sprachlos gegenüber Hetze und Parolen sind, dass wir Provokationen Argumente entgegensetzen und dass wir ernsthaft Lösungen für die Probleme der Zukunft finden.</p>
+        <kommentar>(Beifall bei der CDU/CSU, der AfD und der FDP sowie bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
+        <p klasse="O">Ich freue mich auf eine gute Zusammenarbeit.</p>
+        <p klasse="J">Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
+        <kommentar>(Beifall im ganzen Hause)</kommentar>
+        <p klasse="T">Jetzt rufe ich den Tagesordnungspunkt 2 auf:</p>
       </rede>
-      <p klasse="J_1">Ich eröffne als Alterspräsident die erste Sitzung der 19. Wahlperiode und begrüße zunächst den Bundespräsidenten Herrn Dr. Frank-Walter Steinmeier.</p>
-      <kommentar>(Beifall)</kommentar>
-      <p klasse="O">Wir freuen uns, Herr Bundespräsident, dass Sie unter uns sind und dieser Konstituierung beiwohnen.</p>
-      <p klasse="J">Des Weiteren begrüße ich herzlich die ehemalige Präsidentin des Deutschen Bundestages Frau Dr. Rita ­Süssmuth</p>
-      <kommentar>(Beifall)</kommentar>
-      <p klasse="O">sowie die ehemaligen Präsidenten des Deutschen Bundestages Herrn Dr. Wolfgang Thierse</p>
-      <kommentar>(Beifall)</kommentar>
-      <p klasse="O">und natürlich den hochgeschätzten Kollegen Dr. Norbert Lammert, der bis heute dem Bundestag vorgesessen hat.</p>
-      <kommentar>(Anhaltender Beifall)</kommentar>
-      <p klasse="J">Es ist mir ein besonderes Anliegen, Frau Inge Deutschkron zu begrüßen, die im Jahre 2013 aus Anlass des Holocaust-Gedenktages eine sehr bewegende Rede hier im Deutschen Bundestag gehalten hat.</p>
-      <kommentar>(Beifall)</kommentar>
-      <p klasse="J">Mein Gruß gilt auch den anwesenden Botschaftern und Missionschefs sowie allen weiteren Gästen, die auf der Tribüne an dieser Sitzung teilnehmen.</p>
-      <kommentar>(Beifall)</kommentar>
-      <p klasse="J">Außerdem möchte ich dem Kollegen Reinhold Sendker zu seinem heutigen 65. Geburtstag gratulieren.</p>
-      <kommentar>(Beifall)<a id="S2" name="S2" typ="druckseitennummer"/></kommentar>
-      <p klasse="J">Als Nächstes habe ich gemäß § 1 Absatz 3 der Geschäftsordnung die vorläufigen Schriftführerinnen und Schriftführer zu ernennen.</p>
-      <p klasse="J">Nach Absprache mit den Fraktionen benenne ich als vorläufige Schriftführerinnen und Schriftführer die Damen und Herren Abgeordneten – ich verlese jetzt die Liste –: Artur Auernhammer, Doris Barnett, Heike Baehrens, Dr. Karamba Diaby, Sabine Dittmar, Katharina Dröge, Dr. Fritz Felgentreu, Dr. Thomas Gebhart, Christian Haase, Mariana Harder-Kühnel, Sebastian Hartmann, Mark Helfrich, Karsten Hilse, Thomas Hitschler, Dieter Janecek, Kerstin Kassner, Ronja Kemmer, Jens Koeppen, Markus Koob, Dr. Katja Leikert, Alexander Müller, Bettina Müller, Norbert Müller, Beate Müller-Gemmeke, Volker Münz, Dr. Alexander Neu, Ulli Nissen, Omid Nouripour, Friedrich Ostendorff, Tabea Rößner, Manuel Sarrazin, Ulle Schauws, Dr. Wieland Schinnenburg, Benjamin Strasser, Katrin Werner, Nicole Westig, Kai Whittaker, Wolfgang Wiehle, Gülistan Yüksel, Hubertus Zdebel, Stefan Zierke, Pia Zimmermann.</p>
-      <p klasse="J">Die Abgeordneten Jens Koeppen und Doris Barnett bitte ich, neben mir Platz zu nehmen.</p>
-      <p klasse="J">Liebe Kolleginnen und Kollegen! Meine sehr verehrten Damen und Herren! Bitte haben Sie Verständnis, dass ich meinen Ausführungen eine sehr persönliche Erklärung vorausschicken möchte.</p>
-      <p klasse="J">Ich freue mich ganz außerordentlich, dass gerade ich als Mitglied der Fraktion der Freien Demokraten die Sitzungsperiode des 19. Deutschen Bundestages eröffnen darf. Nach vier schwierigen Jahren in der außerparlamentarischen Opposition haben wir das Vertrauen der Wählerinnen und Wähler zurückgewonnen. Jetzt können wir der liberalen Stimme im Deutschen Bundestag wieder Gehör verschaffen, und das war unsere zentrale Aufgabe und unser Ziel. Vielen Dank für Ihr Verständnis.</p>
-      <p klasse="J">Meine Damen und Herren, vorweg möchte ich allen Kolleginnen und Kollegen zu ihrer Wiederwahl bzw. Neuwahl in den Deutschen Bundestag herzlich gratulieren. Abgeordneter des Deutschen Bundestages zu sein, ist eine große Ehre, aber eine noch viel größere Verpflichtung; dieser müssen wir alle in den nächsten Jahren gerecht werden.</p>
-      <p klasse="J">Der Deutsche Bundestag ist das einzige direkt vom Volk legitimierte Staatsorgan. Er steht damit im Mittelpunkt unserer staatlichen Ordnung, auf den sich alle anderen Organe beziehen.</p>
-      <p klasse="J">Der Deutsche Bundestag ist darüber hinaus eines der einflussreichsten demokratischen Parlamente der Welt. Das wird schon dadurch deutlich, dass sich der Bundestag seine Regierung wählt, diese beauftragt, kontrolliert und gegebenenfalls wieder ersetzen kann. Die Regierung ist also immer auf das Vertrauen des Bundestages angewiesen.</p>
-      <p klasse="J">Der Bundestag wählt seine Regierung, nicht die Regierung ihren Bundestag. Das wird in der öffentlichen Übertragung häufig nicht eindeutig dargestellt. Die in der Verfassung vorgesehene Richtlinienkompetenz des Bundeskanzlers bzw. der Bundeskanzlerin bezieht sich nur auf das Handeln der Regierung und nicht auf die Entscheidungsfindung im Deutschen Bundestag, auch wenn das in den Medien häufig anders dargestellt wird.</p>
-      <kommentar>(Beifall bei Abgeordneten der AfD und der FDP)</kommentar>
-      <p klasse="J">Der Bundestag bestimmt die politischen Zielsetzungen und die grundsätzlichen Lösungswege. Die Regierung führt sie aus.</p>
-      <p klasse="J">An zwei Beispielen möchte ich deutlich machen, wie weit die Entscheidungsbefugnisse des Bundestages reichen. Zu Beginn der 90er-Jahre verklagte die FDP-Bundestagsfraktion die eigene Regierung vor dem Bundesverfassungsgericht wegen der Zulässigkeit der Out-of-Area-Einsätze der Bundeswehr. Als damaliger Fraktionsvorsitzender habe ich die Klage vor dem Bundesverfassungsgericht vertreten, genauso wie der bis heute unvergessene Kollege Peter Struck, der die gleichzeitige Klage der damaligen Oppositionsfraktion SPD vertreten hat.</p>
-      <p klasse="J">Aufgrund des Urteils des Bundesverfassungsgerichts bedürfen seither alle Auslandseinsätze der Bundeswehr der Zustimmung des Parlamentes. Deswegen sprechen wir ja heute von einer Parlamentsarmee. Das ist der Zusammenhang: eine Verantwortung, die in anderen Ländern unbekannt ist und häufig auf Verwunderung stößt, sich aber bei uns nach meiner Meinung bewährt hat.</p>
-      <kommentar>(Beifall bei Abgeordneten im ganzen Hause)</kommentar>
-      <p klasse="O">Diese Regelung, die Staat und Soldatinnen und Soldaten vor leichtfertigen Entscheidungen schützt, sollte bei einer Einbettung der Bundeswehr in europäische Verteidigungsstrukturen grundsätzlich beibehalten werden.</p>
-      <kommentar>(Beifall bei Abgeordneten der FDP und der LINKEN)</kommentar>
-      <p klasse="J">Auch im Rahmen der Euro-Stabilisierung haben wir ein Höchstmaß an parlamentarischer Kontrolle erreicht und im September 2011 Rechtsgeschichte geschrieben. Damals ist es zum ersten Mal gelungen, einen flächendeckenden Parlamentsvorbehalt gegenüber den Vorrechten der Regierung bei der Außenvertretung des Staates zu installieren. Dieser gilt bei allen die Haushaltsverantwortung des Bundestages betreffenden Entscheidungen der Bundesregierung zur Euro-Stabilisierung.</p>
-      <p klasse="J">Wir haben dieses Königsrecht des Parlaments, nämlich das Haushaltsrecht, in Gesetze gegossen, welche dieses Recht garantieren. Das Recht des Parlamentes, über die Einnahmen und Ausgaben des Staates zu bestimmen, darf auch in Zukunft nicht eingeschränkt werden. In dieser Auffassung hat uns damals das Bundesverfassungsgericht bestärkt. Ich zitiere:</p>
-      <p klasse="Z">Für die Einhaltung des Demokratiegebots kommt es vielmehr entscheidend darauf an, dass der Deutsche Bundestag der Ort bleibt, an dem eigenverantwortlich über Einnahmen und Ausgaben entschieden wird, auch im Hinblick auf internationale und europäische Verbindlichkeiten.</p>
-      <p klasse="O">Ende des Zitats.<a id="S3" name="S3" typ="druckseitennummer"/></p>
-      <p klasse="J">Liebe Kolleginnen und Kollegen, das Wahlergebnis vom 24. September hat die Kräfteverhältnisse im 19. Deutschen Bundestag stärker verändert, als gemeinhin erwartet wurde, und zugleich auch die politischen Rollen neu verteilt. Diese Entscheidung der Wähler haben wir zu akzeptieren.</p>
-      <kommentar>(Beifall bei der AfD sowie bei Abgeordneten der FDP)</kommentar>
-      <p klasse="O">Das Parlament muss ein Spiegelbild der Meinungsvielfalt in der Bevölkerung sein. Ich warne davor, Sonderregelungen zu schaffen, auszugrenzen oder gar zu stigmatisieren.</p>
-      <kommentar>(Beifall bei der CDU/CSU, der SPD, der AfD und der FDP sowie bei Abgeordneten des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
-      <p klasse="O">Wir alle haben das gleiche Mandat, gleiche Rechte, aber auch gleiche Pflichten.</p>
-      <kommentar>(Beifall im ganzen Hause)</kommentar>
-      <p klasse="O">Es ist klug, sich im politischen Wettbewerb auf inhaltliche Auseinandersetzungen zu konzentrieren. Dabei gilt: Jeder, der hier das Wort ergreift, übernimmt persönlich die Verantwortung für das Gesagte. Durch die Wahl sind wir jetzt die Repräsentanten des Volkes, und der Wille des Volkes, von dem alle Staatsgewalt ausgeht, ist Maßstab unseres Handelns.</p>
-      <p klasse="J">Selbstverständlich fühlen wir uns alle auch verantwortlich gegenüber unseren Parteien, die uns als Kandidaten nominiert haben. Das Grundgesetz bestimmt, dass die Parteien bei der politischen Willensbildung mitwirken. Ohne Parteien ist dies auch gar nicht zu organisieren. Wer Demokratie bejaht, muss auch demokratische Parteien bejahen. Es ist zu bedauern, wie wenig die Mitgliedschaft in einer Partei oder die Unterstützung demokratischer Parteien in der Öffentlichkeit gewürdigt werden. Wir dürfen die ehrenamtliche und unentgeltliche Arbeit Zehntausender Politiker gerade auf kommunaler und regionaler Ebene nicht vergessen, ohne die die demokratische Willensbildung überhaupt nicht möglich wäre.</p>
-      <kommentar>(Beifall im ganzen Hause)</kommentar>
-      <p klasse="O">Deshalb danke ich heute besonders allen, die bei der Bundestagswahl, bei Landtags- oder Kommunalwahlen kandidiert, aber kein Mandat erhalten haben. Sie haben mit ihrem Engagement einen besonderen Beitrag für die lebendige Demokratie geleistet.</p>
-      <kommentar>(Beifall im ganzen Hause)</kommentar>
-      <p klasse="J">Parteien stellen das politische Personal, die Kandidaten für politische Ämter, und nehmen zusätzlich Einfluss auf die Rekrutierung und Besetzung von leitenden Positionen in Verwaltung und Gerichten. Das ist viel Macht, die große Verantwortung mit sich bringt und ein hohes Maß an Selbstkontrolle und Selbstdisziplin einfordert. Wichtig ist dabei – das sollten wir nie vergessen –: Die Verantwortung gegenüber dem jeweiligen Parteivotum muss zurückstehen hinter der Verantwortung gegenüber den Wählern und der Gesellschaft.</p>
-      <kommentar>(Beifall bei der AfD und der FDP sowie bei Abgeordneten der CDU/CSU, der SPD und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
-      <p klasse="O">Ich erinnere an Artikel 38 unseres Grundgesetzes. Darin heißt es in Absatz 1 Satz 2: Die Abgeordneten des Deutschen Bundestages „sind Vertreter des ganzen Volkes, an Aufträge und Weisungen nicht gebunden und nur ihrem Gewissen unterworfen“. Es bleibt dabei: Es gibt kein imperatives Mandat.</p>
-      <p klasse="J">Liebe Kolleginnen und Kollegen, heute wird unsere Demokratie erneut herausgefordert. Die gefühlte Distanz zwischen Bürgern und Politik steigt. Entscheidungen, die in parlamentarischen und rechtsstaatlichen Verfahren getroffen werden, stoßen mitunter auf Unverständnis oder gar auf Protest.</p>
-      <p klasse="J">Die Bürger erwarten politische Führung und Reformfähigkeit; aber sie wollen auch demokratische Verständigung, Moderation und Ausgleich. Immer mehr Bürger organisieren ihre Interessen und Initiativen außerhalb der klassischen parteipolitischen Strukturen. Zugleich ziehen sich leider zu viele Menschen ganz aus der politischen Öffentlichkeit zurück.</p>
-      <p klasse="J">In den sozialen Medien werden Rassismus, Antisemitismus, Sexismus, Misstrauen, Ressentiments und populistische Hetze kultiviert. Wir dürfen unsere Mitbürgerinnen und Mitbürger nicht diesen Stimmen und Stimmungen überlassen.</p>
-      <kommentar>(Beifall im ganzen Hause)</kommentar>
-      <p klasse="O">Es ist vielmehr unsere Pflicht, das Vertrauen in die wehrhafte, engagierte und lernende Demokratie zu stärken – durch unser Reden und durch unser Handeln.</p>
-      <kommentar>(Beifall bei Abgeordneten der CDU/CSU, der AfD und der FDP)</kommentar>
-      <p klasse="J">Liebe Kolleginnen und Kollegen, wir können stolz sein auf unsere lebendige Demokratie. In ihr geht es nicht nur darum, dass am Ende Mehrheiten entscheiden, sondern auch darum, dass Minderheiten genauso ihre Rechte wahrnehmen können und dass die Menschen erkennen, dass im Deutschen Bundestag alle Überzeugungen zur Sprache gebracht werden können, und zwar von allen Bürgern, egal woher sie auch kommen, woran sie glauben, welchen Geschlechts sie auch sind oder welchen Bildungsgrad sie besitzen.</p>
-      <kommentar>(Beifall bei der AfD und der FDP sowie bei Abgeordneten der CDU/CSU, der SPD und der LINKEN und der Abg. Kerstin Andreae [BÜNDNIS 90/DIE GRÜNEN])</kommentar>
-      <p klasse="O">Dabei ist es die vornehmste Aufgabe des Parlaments, die Freiheits- und Grundrechte aller Bürger zu wahren und zu sichern, damit die Bürger im Rahmen dieser Gesetze ihr Leben möglichst frei gestalten können und ihre Privatsphäre geschützt wird.</p>
-      <kommentar>(Beifall bei Abgeordneten im ganzen Hause)</kommentar>
-      <p klasse="J">Unsere gemeinsame Aufgabe muss es sein, dafür zu sorgen, die gesellschaftlichen Debatten unserer Zeit wieder dahin zurückzuholen, wo sie hingehören, nämlich hierhin, in den Deutschen Bundestag.</p>
-      <kommentar>(Beifall bei Abgeordneten im ganzen Hause)<a id="S4" name="S4" typ="druckseitennummer"/></kommentar>
-      <p klasse="O">Genau hier ist der Platz der Auseinandersetzung der verschiedenen politischen Ausrichtungen und Überzeugungen. Hier im Deutschen Bundestag sind die Parteien in dem Maße vertreten, wie sie in freier Wahl bestimmt worden sind. Deshalb kommen hier die unterschiedlichen politischen Strömungen zur Geltung, und zwar in dem Verhältnis, wie sie von den Wählern Unterstützung erhalten haben. Das Zerrbild von der Politik, wie es beispielsweise in den sozialen Medien oder in manchen Fernseh-Talkshows dargeboten wird, gibt diese faire Repräsentation nicht wieder.</p>
-      <kommentar>(Beifall bei Abgeordneten der AfD und der FDP)</kommentar>
-      <p klasse="O">Bei letzteren werden häufig Vertreter auffälliger Positionen eingeladen, weil dies eine höhere Einschaltquote verspricht.</p>
-      <p klasse="J">Was bedeutet das für uns? Wir müssen den Menschen auf Augenhöhe begegnen und ihnen Orientierung geben. Wir brauchen eine lebendige, lebensnahe Debattenkultur. Wir müssen dabei eine Sprache sprechen, die verstanden wird. Wir müssen die unterschiedlichen Positionen klar und deutlich herausarbeiten, damit sich die Wähler bei ihrer Wahlentscheidung daran orientieren können. Es muss für uns der lateinische Grundsatz gelten: „Suaviter in modo, f ortiter in re“. – Also: Maßvoll im Ton, bestimmt in der Sache.</p>
-      <p klasse="J">Wie auch Bundespräsident Frank-Walter Steinmeier bei seiner Rede zur deutschen Einheit sagte: Kontroversen, ja; aber aus Differenzen darf keine Unversöhnlichkeit entstehen. – Ich kann ihm nur zustimmen. Wir brauchen weniger ideologische Grabenkämpfe und mehr problemorientierte Lösungen.</p>
-      <kommentar>(Beifall bei Abgeordneten der CDU/CSU, der SPD, der AfD und der FDP)</kommentar>
-      <p klasse="J">Liebe Kolleginnen und Kollegen, zum Schluss möchte ich noch auf die aktuelle Größe des Bundestages zu sprechen kommen. Sie verspüren alle selbst, dass der Bundestag mit 709 Mitgliedern eine unerwartet hohe Anzahl an Abgeordneten erreicht hat. Die Größe dieses aufgeblähten Parlaments trägt eher dazu bei, dass die Arbeitsfähigkeit des Bundestages genauso wie sein Ansehen bei den Bürgern leidet – auch wegen der dadurch gestiegenen Kosten.</p>
-      <kommentar>(Beifall bei Abgeordneten der AfD)</kommentar>
-      <p klasse="O">Wie der bisherige Bundestagspräsident Norbert Lammert rege auch ich an, dass sich der Bundestag rasch mit einer Reform des Wahlrechts befasst.</p>
-      <kommentar>(Beifall bei der CDU/CSU, der AfD und der FDP sowie bei Abgeordneten der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
-      <p klasse="O">Im Interesse der Funktionsfähigkeit des Parlaments darf es dabei keine taktischen Machtspiele geben.</p>
-      <kommentar>(Beifall bei der AfD sowie bei Abgeordneten der CDU/CSU und der FDP)</kommentar>
-      <p klasse="O">Meiner Meinung nach war das alte Wahlrecht im Wesentlichen von allen politischen Kräften akzeptiert. Wenn es keine schnelle Einigung gibt, sollte der Bundestag dieses wieder in Kraft setzen, notfalls mit verfassungsändernder Mehrheit.</p>
-      <kommentar>(Beifall bei Abgeordneten der AfD und der FDP)</kommentar>
-      <p klasse="J">Für die neue Legislaturperiode wünsche ich uns allen das notwendige Verantwortungsgefühl für faire und sachgerechte Auseinandersetzungen mit Klarheit und Augenmaß. Lassen Sie uns den Bürgerinnen und Bürgern beweisen, dass unsere Demokratie hohe Integrationskraft besitzt, dass wir nicht sprachlos gegenüber Hetze und Parolen sind, dass wir Provokationen Argumente entgegensetzen und dass wir ernsthaft Lösungen für die Probleme der Zukunft finden.</p>
-      <kommentar>(Beifall bei der CDU/CSU, der AfD und der FDP sowie bei Abgeordneten der SPD, der LINKEN und des BÜNDNISSES 90/DIE GRÜNEN)</kommentar>
-      <p klasse="O">Ich freue mich auf eine gute Zusammenarbeit.</p>
-      <p klasse="J">Ich danke Ihnen für Ihre Aufmerksamkeit.</p>
-      <kommentar>(Beifall im ganzen Hause)</kommentar>
-      <p klasse="T">Jetzt rufe ich den Tagesordnungspunkt 2 auf:</p>
     </tagesordnungspunkt>
     <tagesordnungspunkt top-id="Tagesordnungspunkt 2">
       <p klasse="T_NaS">Beschlussfassung über die</p>
@@ -578,22 +586,22 @@
         <p klasse="J">Meine Damen und Herren, ich finde, wir sollten uns im Deutschen Bundestag sehr zeitnah wieder mit der Frage der Änderungen bei Transparenz und Parlamentsrechten befassen, nachdem alle Fraktionen ihre Vorstellungen eingebracht haben, damit wir es dann hoffentlich sehr schnell zu einem Ergebnis führen.</p>
         <p klasse="J">Danke.</p>
         <kommentar>(Beifall beim BÜNDNIS 90/DIE GRÜNEN sowie bei Abgeordneten der CDU/CSU und der FDP – Dr. Dietmar Bartsch [DIE LINKE]: Ihr seid noch nicht an der Regierung! Noch nicht!)</kommentar>
-        <name>Alterspräsident Dr. Hermann Otto Solms:</name>
-        <p klasse="J_1">Wir kommen nun zur Abstimmung.</p>
-        <p klasse="J">Änderungsantrag der Fraktion der SPD auf Drucksache 19/8 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht“ – Fragestunde und Befragung der Bundesregierung. Die Fraktion der SPD wünscht Abstimmung in der Sache. Die Fraktionen der CDU/CSU, des Bündnisses 90/Die Grünen und der FDP wünschen Überweisung an den Ältestenrat.</p>
-        <p klasse="J">Wir stimmen nach ständiger Übung zuerst über den Antrag auf Ausschussüberweisung ab. Ich frage deshalb: Wer stimmt für den Antrag der drei genannten Fraktionen auf Überweisung in den Ältestenrat? – Gegenstimmen? – Enthaltungen? – Damit ist der Antrag mit den Stimmen der Fraktionen der CDU/CSU, der FDP und des Bündnisses 90/Die Grünen gegen die Stimmen der SPD, der AfD und der Linken angenommen.</p>
-        <kommentar>(Martin Schulz [SPD]: Jamaika steht!)</kommentar>
-        <p klasse="O">Damit stimmen wir heute über den Antrag auf Drucksache 19/8 nicht in der Sache ab.</p>
-        <p klasse="J">Änderungsantrag der Fraktion der AfD auf Drucksache 19/4 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht (Alterspräsident)“. Die Fraktion der AfD wünscht, über ihren Antrag in der Sache abzustimmen. Die Fraktionen CDU/CSU, Bündnis 90/Die Grünen und FDP wünschen Überweisung an den Ältestenrat.</p>
-        <p klasse="J">Wir stimmen nach ständiger Übung zuerst über den Antrag auf Überweisung ab. Wer stimmt dem Antrag auf Überweisung zu? – Gegenstimmen? – Enthaltungen? – Der Antrag ist angenommen mit den Stimmen der CDU/CSU-Fraktion, FDP-Fraktion, der Linken und Grünen bei Gegenstimmen bei AfD und SPD und bei Enthaltung der Fraktionslosen.</p>
-        <p klasse="J">Änderungsantrag der Fraktion der AfD auf Drucksache 19/5 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht (Minderheitenrechte)“. Die Fraktionen der CDU/CSU, des Bündnisses 90/Die Grünen und der FDP wünschen Überweisung an den Ältestenrat. Die Fraktion der AfD wünscht Überweisung an den Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung.</p>
-        <p klasse="J">Ich lasse zuerst abstimmen über den Antrag der Fraktion der AfD auf Überweisung an den Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung. Wer stimmt für diesen Überweisungsvorschlag? – Wer stimmt dagegen? – Enthaltungen? – Der Überweisungsvorschlag ist mit den Stimmen aller Fraktionen gegen die Stimmen der Fraktion der AfD bei Enthaltung der Fraktionslosen abgelehnt worden.</p>
-        <p klasse="J">Ich lasse nun abstimmen über den Überweisungsvorschlag der Fraktionen der CDU/CSU, der FDP und des Bündnisses 90/Die Grünen. Wer stimmt für diesen Überweisungsvorschlag? – Gegenstimmen? – Enthaltungen? – Der Überweisungsvorschlag ist angenommen mit den Stimmen der CDU/CSU, der FDP, des Bündnisses 90/Die Grünen und der Fraktion Die Linke bei Gegenstimmen der SPD-Fraktion und Enthaltung der AfD – sowie der beiden fraktionslosen Abgeordneten; die sehe ich immer nicht.</p>
-        <p klasse="J">Änderungsantrag der Fraktion Die Linke auf Drucksache 19/6 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht (Einsetzung der vom Grundgesetz vorgeschriebenen Ausschüsse in der konstituierenden Sitzung)“. Die Fraktion Die Linke wünscht Abstimmung in der Sache. Die Fraktionen CDU/CSU, FDP und Bündnis 90/Die Grünen wünschen Überweisung an den Ältestenrat.</p>
-        <p klasse="J">Auch hier stimmen wir nach ständiger Übung zuerst über den Antrag auf Ausschussüberweisung ab. Ich frage deshalb: Wer stimmt für die beantragte Überweisung? – Gegenstimmen? – Enthaltungen? – Die Überweisung ist angenommen mit den Stimmen der Fraktionen CDU/CSU, FDP und Bündnis 90/Die Grünen bei Gegenstimmen von SPD, AfD und der Fraktion Die Linke und – jetzt sehe ich sie – bei Enthaltung der zwei fraktionslosen Abgeordneten.<a id="S12" name="S12" typ="druckseitennummer"/></p>
-        <p klasse="J">Änderungsantrag der Fraktion Die Linke auf Drucksache 19/7 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht (Fragestunde und Befragung der Bundesregierung)“. Die Fraktion Die Linke wünscht Abstimmung in der Sache. Die Fraktionen CDU/CSU, FDP und Bündnis 90/Die Grünen wünschen Überweisung an den Ältestenrat. Wer stimmt für diesen Überweisungsvorschlag? – Gegenstimmen? – Enthaltungen? – Dann ist der Antrag angenommen mit den Stimmen von CDU/CSU, FDP und Bündnis 90/Die Grünen gegen die Stimmen der anderen Fraktionen, keine Enthaltungen.</p>
-        <p klasse="J">Antrag der Fraktion der CDU/CSU auf Drucksache 19/1 zur Weitergeltung von Geschäftsordnungsrecht. Wer stimmt für diesen Antrag? – Gegenstimmen? – Enthaltungen? – Dann ist der Antrag mit den Stimmen aller Fraktionen gegen die Stimmen der AfD bei Enthaltung der zwei fraktionslosen Abgeordneten angenommen.</p>
       </rede>
+      <name>Alterspräsident Dr. Hermann Otto Solms:</name>
+      <p klasse="J_1">Wir kommen nun zur Abstimmung.</p>
+      <p klasse="J">Änderungsantrag der Fraktion der SPD auf Drucksache 19/8 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht“ – Fragestunde und Befragung der Bundesregierung. Die Fraktion der SPD wünscht Abstimmung in der Sache. Die Fraktionen der CDU/CSU, des Bündnisses 90/Die Grünen und der FDP wünschen Überweisung an den Ältestenrat.</p>
+      <p klasse="J">Wir stimmen nach ständiger Übung zuerst über den Antrag auf Ausschussüberweisung ab. Ich frage deshalb: Wer stimmt für den Antrag der drei genannten Fraktionen auf Überweisung in den Ältestenrat? – Gegenstimmen? – Enthaltungen? – Damit ist der Antrag mit den Stimmen der Fraktionen der CDU/CSU, der FDP und des Bündnisses 90/Die Grünen gegen die Stimmen der SPD, der AfD und der Linken angenommen.</p>
+      <kommentar>(Martin Schulz [SPD]: Jamaika steht!)</kommentar>
+      <p klasse="O">Damit stimmen wir heute über den Antrag auf Drucksache 19/8 nicht in der Sache ab.</p>
+      <p klasse="J">Änderungsantrag der Fraktion der AfD auf Drucksache 19/4 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht (Alterspräsident)“. Die Fraktion der AfD wünscht, über ihren Antrag in der Sache abzustimmen. Die Fraktionen CDU/CSU, Bündnis 90/Die Grünen und FDP wünschen Überweisung an den Ältestenrat.</p>
+      <p klasse="J">Wir stimmen nach ständiger Übung zuerst über den Antrag auf Überweisung ab. Wer stimmt dem Antrag auf Überweisung zu? – Gegenstimmen? – Enthaltungen? – Der Antrag ist angenommen mit den Stimmen der CDU/CSU-Fraktion, FDP-Fraktion, der Linken und Grünen bei Gegenstimmen bei AfD und SPD und bei Enthaltung der Fraktionslosen.</p>
+      <p klasse="J">Änderungsantrag der Fraktion der AfD auf Drucksache 19/5 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht (Minderheitenrechte)“. Die Fraktionen der CDU/CSU, des Bündnisses 90/Die Grünen und der FDP wünschen Überweisung an den Ältestenrat. Die Fraktion der AfD wünscht Überweisung an den Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung.</p>
+      <p klasse="J">Ich lasse zuerst abstimmen über den Antrag der Fraktion der AfD auf Überweisung an den Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung. Wer stimmt für diesen Überweisungsvorschlag? – Wer stimmt dagegen? – Enthaltungen? – Der Überweisungsvorschlag ist mit den Stimmen aller Fraktionen gegen die Stimmen der Fraktion der AfD bei Enthaltung der Fraktionslosen abgelehnt worden.</p>
+      <p klasse="J">Ich lasse nun abstimmen über den Überweisungsvorschlag der Fraktionen der CDU/CSU, der FDP und des Bündnisses 90/Die Grünen. Wer stimmt für diesen Überweisungsvorschlag? – Gegenstimmen? – Enthaltungen? – Der Überweisungsvorschlag ist angenommen mit den Stimmen der CDU/CSU, der FDP, des Bündnisses 90/Die Grünen und der Fraktion Die Linke bei Gegenstimmen der SPD-Fraktion und Enthaltung der AfD – sowie der beiden fraktionslosen Abgeordneten; die sehe ich immer nicht.</p>
+      <p klasse="J">Änderungsantrag der Fraktion Die Linke auf Drucksache 19/6 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht (Einsetzung der vom Grundgesetz vorgeschriebenen Ausschüsse in der konstituierenden Sitzung)“. Die Fraktion Die Linke wünscht Abstimmung in der Sache. Die Fraktionen CDU/CSU, FDP und Bündnis 90/Die Grünen wünschen Überweisung an den Ältestenrat.</p>
+      <p klasse="J">Auch hier stimmen wir nach ständiger Übung zuerst über den Antrag auf Ausschussüberweisung ab. Ich frage deshalb: Wer stimmt für die beantragte Überweisung? – Gegenstimmen? – Enthaltungen? – Die Überweisung ist angenommen mit den Stimmen der Fraktionen CDU/CSU, FDP und Bündnis 90/Die Grünen bei Gegenstimmen von SPD, AfD und der Fraktion Die Linke und – jetzt sehe ich sie – bei Enthaltung der zwei fraktionslosen Abgeordneten.<a id="S12" name="S12" typ="druckseitennummer"/></p>
+      <p klasse="J">Änderungsantrag der Fraktion Die Linke auf Drucksache 19/7 mit dem Titel „Weitergeltung von Geschäftsordnungsrecht (Fragestunde und Befragung der Bundesregierung)“. Die Fraktion Die Linke wünscht Abstimmung in der Sache. Die Fraktionen CDU/CSU, FDP und Bündnis 90/Die Grünen wünschen Überweisung an den Ältestenrat. Wer stimmt für diesen Überweisungsvorschlag? – Gegenstimmen? – Enthaltungen? – Dann ist der Antrag angenommen mit den Stimmen von CDU/CSU, FDP und Bündnis 90/Die Grünen gegen die Stimmen der anderen Fraktionen, keine Enthaltungen.</p>
+      <p klasse="J">Antrag der Fraktion der CDU/CSU auf Drucksache 19/1 zur Weitergeltung von Geschäftsordnungsrecht. Wer stimmt für diesen Antrag? – Gegenstimmen? – Enthaltungen? – Dann ist der Antrag mit den Stimmen aller Fraktionen gegen die Stimmen der AfD bei Enthaltung der zwei fraktionslosen Abgeordneten angenommen.</p>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 3 auf:</p>
     </tagesordnungspunkt>
     <tagesordnungspunkt top-id="Tagesordnungspunkt 3">
