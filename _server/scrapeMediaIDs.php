@@ -89,9 +89,15 @@ function getMediaIDs($XMLFilePath) {
 							$mediaID = getMediaIDfromRSS($wahlperiode, $sitzungsnummer, $top, $vorname, $nachname, $titel);
 
 							// Doublecheck via TOC if no media ID could be found
+							sleep(1);
+							
 							if (!$mediaID) {
 								$xrefItems = $xmlData->xpath('//ivz-eintrag//xref');
+								
 								foreach ($xrefItems as $xrefItem) {
+									
+									//echo (string) $xrefItem['rid'].':';
+									//echo (string) $rede['id'].'<br>';
 									if ((string) $xrefItem['rid'] == (string) $rede['id']) {
 
 										$correctTOP = $xrefItem->xpath('ancestor::ivz-block/ivz-block-titel');
