@@ -10,14 +10,14 @@ Implemented for the **[abgeordnetenwatch.de](https://abgeordnetenwatch.de) goes 
 
 ### Demo
 
-If you're just looking for a demo of already processed speeches, check out:
+If you're just looking for a demo of already processed speeches, check out:  
 **[https://openhypervideo.github.io/VideoTranscriptGenerator/](https://openhypervideo.github.io/VideoTranscriptGenerator/)**
 
 -------------
 
 ### Data
 
-The timings for already processed speeches are published at:
+The timings for already processed speeches are published at:  
 **[_server/output/](_server/output/)**
 
 -------------
