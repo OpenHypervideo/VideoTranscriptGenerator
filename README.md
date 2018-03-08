@@ -1,17 +1,17 @@
 ## Video-Transcript Generator for Plenary Protocols of the German Bundestag
 
+### Demo
+
+If you're just looking for a demo of already processed speeches, check out:  
+**[https://openhypervideo.github.io/VideoTranscriptGenerator/](https://openhypervideo.github.io/VideoTranscriptGenerator/)**
+
+-------------
+
 ![Application Screenshot](_client/img/screenshot.png?raw=true)
 
 Generates time-based transcripts from parliamentary protocols published via the Bundestag Open Data service ([https://www.bundestag.de/service/opendata](https://www.bundestag.de/service/opendata)).
 
 Implemented for the **[abgeordnetenwatch.de](https://abgeordnetenwatch.de) goes Video** project as part of [demokratie.io](https://demokratie.io/gewinnerprojekte/).
-
--------------
-
-### Demo
-
-If you're just looking for a demo of already processed speeches, check out:  
-**[https://openhypervideo.github.io/VideoTranscriptGenerator/](https://openhypervideo.github.io/VideoTranscriptGenerator/)**
 
 -------------
 
