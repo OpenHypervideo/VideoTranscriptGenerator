@@ -4,27 +4,31 @@
 
 Generates time-based transcripts from parliamentary protocols published via the Bundestag Open Data service ([https://www.bundestag.de/service/opendata](https://www.bundestag.de/service/opendata)).
 
-Implemented for the **[https://abgeordnetenwatch.de](abgeordnetenwatch.de) goes Video** project as part of [https://demokratie.io/gewinnerprojekte/](demokratie.io).
+Implemented for the **[abgeordnetenwatch.de](https://abgeordnetenwatch.de) goes Video** project as part of [demokratie.io](https://demokratie.io/gewinnerprojekte/).
 
 -------------
 
 ### Demo
 
 If you're just looking for a demo of already processed speeches, check out:
-
-[**https://openhypervideo.github.io/VideoTranscriptGenerator/**](https://openhypervideo.github.io/VideoTranscriptGenerator/)
+**[https://openhypervideo.github.io/VideoTranscriptGenerator/](https://openhypervideo.github.io/VideoTranscriptGenerator/)**
 
 -------------
 
-### Prerequisites
+### Data
 
-* **PHP**
-* [**Aeneas**](https://www.readbeyond.it/aeneas/) ("automagically synchronize audio and text")
-    * Aeneas Dependencies: **Python** (2.7.x preferred), **FFmpeg**, and **eSpeak**
+The timings for already processed speeches are published at:
+**[_server/output/](_server/output/)**
 
 -------------
 
 ### Usage
+
+#### Prerequisites
+
+* **PHP**
+* [**Aeneas**](https://www.readbeyond.it/aeneas/) ("automagically synchronize audio and text")
+    * Aeneas Dependencies: **Python** (2.7.x preferred), **FFmpeg**, and **eSpeak**
 
 #### Step 1: Install Aeneas
 
@@ -37,6 +41,7 @@ For Mac OS, there is an all-in-one installer, which takes care of the dependenci
 XML input files are located at [_server/input/xml/](_server/input/xml/). Some example files are already included. To add new files, download the file from  [https://www.bundestag.de/service/opendata](https://www.bundestag.de/service/opendata) and place it into the same directory.
 
 #### Step 3: Scrape Media IDs (only if new XML files were added)
+
 Use [_server/scrapeMediaIDs.php](_server/scrapeMediaIDs.php) to scrape Media IDs for all speeches in all XML files inside [_server/input/xml/](_server/input/xml/).
 
 **Careful:** This potentially sends thousands of requests to Bundestag servers!
