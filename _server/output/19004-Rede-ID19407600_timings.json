@@ -1053,7 +1053,7 @@
   {
    "begin": "249.200", 
    "children": [], 
-   "end": "250.360", 
+   "end": "251.760", 
    "id": "s000106", 
    "language": "deu", 
    "lines": [
@@ -1061,9 +1061,9 @@
    ]
   }, 
   {
-   "begin": "250.360", 
+   "begin": "251.760", 
    "children": [], 
-   "end": "251.600", 
+   "end": "255.200", 
    "id": "s000107", 
    "language": "deu", 
    "lines": [
@@ -1071,9 +1071,9 @@
    ]
   }, 
   {
-   "begin": "251.600", 
+   "begin": "255.200", 
    "children": [], 
-   "end": "253.840", 
+   "end": "258.160", 
    "id": "s000108", 
    "language": "deu", 
    "lines": [
@@ -1081,9 +1081,9 @@
    ]
   }, 
   {
-   "begin": "253.840", 
+   "begin": "258.160", 
    "children": [], 
-   "end": "256.280", 
+   "end": "260.520", 
    "id": "s000109", 
    "language": "deu", 
    "lines": [
@@ -1091,9 +1091,9 @@
    ]
   }, 
   {
-   "begin": "256.280", 
+   "begin": "260.520", 
    "children": [], 
-   "end": "256.920", 
+   "end": "261.360", 
    "id": "s000110", 
    "language": "deu", 
    "lines": [
@@ -1101,9 +1101,9 @@
    ]
   }, 
   {
-   "begin": "256.920", 
+   "begin": "261.360", 
    "children": [], 
-   "end": "257.800", 
+   "end": "262.040", 
    "id": "s000111", 
    "language": "deu", 
    "lines": [
@@ -1111,9 +1111,9 @@
    ]
   }, 
   {
-   "begin": "257.800", 
+   "begin": "262.040", 
    "children": [], 
-   "end": "258.160", 
+   "end": "262.720", 
    "id": "s000112", 
    "language": "deu", 
    "lines": [
@@ -1121,9 +1121,9 @@
    ]
   }, 
   {
-   "begin": "258.160", 
+   "begin": "262.720", 
    "children": [], 
-   "end": "258.680", 
+   "end": "265.240", 
    "id": "s000113", 
    "language": "deu", 
    "lines": [
@@ -1131,9 +1131,9 @@
    ]
   }, 
   {
-   "begin": "258.680", 
+   "begin": "265.240", 
    "children": [], 
-   "end": "259.720", 
+   "end": "269.040", 
    "id": "s000114", 
    "language": "deu", 
    "lines": [
@@ -1141,9 +1141,9 @@
    ]
   }, 
   {
-   "begin": "259.720", 
+   "begin": "269.040", 
    "children": [], 
-   "end": "261.200", 
+   "end": "270.960", 
    "id": "s000115", 
    "language": "deu", 
    "lines": [
@@ -1151,53 +1151,13 @@
    ]
   }, 
   {
-   "begin": "261.200", 
+   "begin": "270.960", 
    "children": [], 
-   "end": "261.800", 
+   "end": "272.000", 
    "id": "s000116", 
    "language": "deu", 
    "lines": [
     "Ich schlie\u00dfe damit die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "261.800", 
-   "children": [], 
-   "end": "268.080", 
-   "id": "s000117", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird die \u00dcberweisung des Gesetzentwurfs auf Drucksache\u00a019/204 an den Hauptausschuss vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "268.080", 
-   "children": [], 
-   "end": "270.440", 
-   "id": "s000118", 
-   "language": "deu", 
-   "lines": [
-    "Gibt es dazu anderweitige Vorschl\u00e4ge?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "270.440", 
-   "children": [], 
-   "end": "271.120", 
-   "id": "s000119", 
-   "language": "deu", 
-   "lines": [
-    "Das erkenne ich nicht. "
-   ]
-  }, 
-  {
-   "begin": "271.120", 
-   "children": [], 
-   "end": "272.000", 
-   "id": "s000120", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

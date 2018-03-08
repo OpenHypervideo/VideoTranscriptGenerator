@@ -205,6 +205,7 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 
 				$xmlDataWithTimings = getXMLWithTimings($outputFilePath.'_timings.json', $xmlData->asXML());
 
+				/*
 				file_put_contents($outputFilePath.'_timings.xml', $xmlDataWithTimings);
 
 				$response = array(  'message' => 'XML with timings saved to: '.$outputFilePath.'_timings.xml', 
@@ -212,6 +213,7 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 									'status' => '',
 									'progress' => 0);
 				echo json_encode($response);
+				*/
 				
 
 				$simpleXMLWithTimings = new SimpleXMLElement($xmlDataWithTimings);

@@ -1113,7 +1113,7 @@
   {
    "begin": "306.400", 
    "children": [], 
-   "end": "310.920", 
+   "end": "311.640", 
    "id": "s000112", 
    "language": "deu", 
    "lines": [
@@ -1121,43 +1121,13 @@
    ]
   }, 
   {
-   "begin": "310.920", 
+   "begin": "311.640", 
    "children": [], 
-   "end": "311.480", 
+   "end": "315.000", 
    "id": "s000113", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "311.480", 
-   "children": [], 
-   "end": "311.600", 
-   "id": "s000114", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "311.600", 
-   "children": [], 
-   "end": "312.480", 
-   "id": "s000115", 
-   "language": "deu", 
-   "lines": [
-    "Herr Kollege Dr.\u00a0Steffel. "
-   ]
-  }, 
-  {
-   "begin": "312.480", 
-   "children": [], 
-   "end": "315.000", 
-   "id": "s000116", 
-   "language": "deu", 
-   "lines": [
-    "Mit Ihren Worten hat die Aktuelle Stunde ihr Ende gefunden."
    ]
   }
  ]

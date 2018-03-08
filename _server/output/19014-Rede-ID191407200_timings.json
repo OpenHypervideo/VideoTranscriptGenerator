@@ -1113,7 +1113,7 @@
   {
    "begin": "340.640", 
    "children": [], 
-   "end": "344.960", 
+   "end": "350.320", 
    "id": "s000112", 
    "language": "deu", 
    "lines": [
@@ -1121,9 +1121,9 @@
    ]
   }, 
   {
-   "begin": "344.960", 
+   "begin": "350.320", 
    "children": [], 
-   "end": "346.320", 
+   "end": "353.120", 
    "id": "s000113", 
    "language": "deu", 
    "lines": [
@@ -1131,9 +1131,9 @@
    ]
   }, 
   {
-   "begin": "346.320", 
+   "begin": "353.120", 
    "children": [], 
-   "end": "346.321", 
+   "end": "353.121", 
    "id": "s000114", 
    "language": "deu", 
    "lines": [
@@ -1141,9 +1141,9 @@
    ]
   }, 
   {
-   "begin": "346.321", 
+   "begin": "353.121", 
    "children": [], 
-   "end": "346.800", 
+   "end": "354.320", 
    "id": "s000115", 
    "language": "deu", 
    "lines": [
@@ -1151,9 +1151,9 @@
    ]
   }, 
   {
-   "begin": "346.800", 
+   "begin": "354.320", 
    "children": [], 
-   "end": "348.640", 
+   "end": "357.440", 
    "id": "s000116", 
    "language": "deu", 
    "lines": [
@@ -1161,9 +1161,9 @@
    ]
   }, 
   {
-   "begin": "348.640", 
+   "begin": "357.440", 
    "children": [], 
-   "end": "351.040", 
+   "end": "361.680", 
    "id": "s000117", 
    "language": "deu", 
    "lines": [
@@ -1171,103 +1171,13 @@
    ]
   }, 
   {
-   "begin": "351.040", 
+   "begin": "361.680", 
    "children": [], 
-   "end": "352.600", 
+   "end": "372.000", 
    "id": "s000118", 
    "language": "deu", 
    "lines": [
     "Ich bedanke mich f\u00fcr die Aufmerksamkeit."
-   ]
-  }, 
-  {
-   "begin": "352.600", 
-   "children": [], 
-   "end": "353.400", 
-   "id": "s000119", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "353.400", 
-   "children": [], 
-   "end": "353.760", 
-   "id": "s000120", 
-   "language": "deu", 
-   "lines": [
-    "Herr Kollege.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "353.760", 
-   "children": [], 
-   "end": "354.160", 
-   "id": "s000121", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "354.160", 
-   "children": [], 
-   "end": "360.680", 
-   "id": "s000122", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/835 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "360.680", 
-   "children": [], 
-   "end": "361.680", 
-   "id": "s000123", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "361.680", 
-   "children": [], 
-   "end": "362.720", 
-   "id": "s000124", 
-   "language": "deu", 
-   "lines": [
-    "Ich sehe keinen Widerspruch. "
-   ]
-  }, 
-  {
-   "begin": "362.720", 
-   "children": [], 
-   "end": "363.320", 
-   "id": "s000125", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist das so beschlossen."
-   ]
-  }, 
-  {
-   "begin": "363.320", 
-   "children": [], 
-   "end": "369.960", 
-   "id": "s000126", 
-   "language": "deu", 
-   "lines": [
-    "Wir kommen jetzt zu einer ganzen Reihe von Abstimmungen ohne Aussprache. "
-   ]
-  }, 
-  {
-   "begin": "369.960", 
-   "children": [], 
-   "end": "372.000", 
-   "id": "s000127", 
-   "language": "deu", 
-   "lines": [
-    "Deshalb bitte ich um Ihre Aufmerksamkeit."
    ]
   }
  ]

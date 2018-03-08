@@ -993,7 +993,7 @@
   {
    "begin": "266.080", 
    "children": [], 
-   "end": "268.400", 
+   "end": "269.920", 
    "id": "s000100", 
    "language": "deu", 
    "lines": [
@@ -1001,9 +1001,9 @@
    ]
   }, 
   {
-   "begin": "268.400", 
+   "begin": "269.920", 
    "children": [], 
-   "end": "271.280", 
+   "end": "275.280", 
    "id": "s000101", 
    "language": "deu", 
    "lines": [
@@ -1011,9 +1011,9 @@
    ]
   }, 
   {
-   "begin": "271.280", 
+   "begin": "275.280", 
    "children": [], 
-   "end": "272.600", 
+   "end": "277.400", 
    "id": "s000102", 
    "language": "deu", 
    "lines": [
@@ -1021,9 +1021,9 @@
    ]
   }, 
   {
-   "begin": "272.600", 
+   "begin": "277.400", 
    "children": [], 
-   "end": "273.680", 
+   "end": "279.160", 
    "id": "s000103", 
    "language": "deu", 
    "lines": [
@@ -1031,9 +1031,9 @@
    ]
   }, 
   {
-   "begin": "273.680", 
+   "begin": "279.160", 
    "children": [], 
-   "end": "275.120", 
+   "end": "285.760", 
    "id": "s000104", 
    "language": "deu", 
    "lines": [
@@ -1041,63 +1041,13 @@
    ]
   }, 
   {
-   "begin": "275.120", 
+   "begin": "285.760", 
    "children": [], 
-   "end": "276.520", 
+   "end": "286.960", 
    "id": "s000105", 
    "language": "deu", 
    "lines": [
     "Herzlichen Dank."
-   ]
-  }, 
-  {
-   "begin": "276.520", 
-   "children": [], 
-   "end": "277.440", 
-   "id": "s000106", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "277.440", 
-   "children": [], 
-   "end": "285.120", 
-   "id": "s000107", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlagen auf den Drucksachen\u00a019/932 und 19/931 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "285.120", 
-   "children": [], 
-   "end": "285.160", 
-   "id": "s000108", 
-   "language": "deu", 
-   "lines": [
-    "Ich nehme an, "
-   ]
-  }, 
-  {
-   "begin": "285.160", 
-   "children": [], 
-   "end": "285.920", 
-   "id": "s000109", 
-   "language": "deu", 
-   "lines": [
-    "Sie sind damit einverstanden.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "285.920", 
-   "children": [], 
-   "end": "286.960", 
-   "id": "s000110", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist so beschlossen."
    ]
   }
  ]

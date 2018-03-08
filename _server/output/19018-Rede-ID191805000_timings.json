@@ -1003,7 +1003,7 @@
   {
    "begin": "266.280", 
    "children": [], 
-   "end": "267.680", 
+   "end": "268.480", 
    "id": "s000101", 
    "language": "deu", 
    "lines": [
@@ -1011,9 +1011,9 @@
    ]
   }, 
   {
-   "begin": "267.680", 
+   "begin": "268.480", 
    "children": [], 
-   "end": "269.240", 
+   "end": "276.760", 
    "id": "s000102", 
    "language": "deu", 
    "lines": [
@@ -1021,9 +1021,9 @@
    ]
   }, 
   {
-   "begin": "269.240", 
+   "begin": "276.760", 
    "children": [], 
-   "end": "270.520", 
+   "end": "281.080", 
    "id": "s000103", 
    "language": "deu", 
    "lines": [
@@ -1031,93 +1031,13 @@
    ]
   }, 
   {
-   "begin": "270.520", 
+   "begin": "281.080", 
    "children": [], 
-   "end": "270.960", 
+   "end": "282.000", 
    "id": "s000104", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "270.960", 
-   "children": [], 
-   "end": "271.320", 
-   "id": "s000105", 
-   "language": "deu", 
-   "lines": [
-    "Franz Beckenbauer h\u00e4tte jetzt gesagt: "
-   ]
-  }, 
-  {
-   "begin": "271.320", 
-   "children": [], 
-   "end": "271.440", 
-   "id": "s000106", 
-   "language": "deu", 
-   "lines": [
-    "Schaun mer mal.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "271.440", 
-   "children": [], 
-   "end": "271.600", 
-   "id": "s000107", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "271.600", 
-   "children": [], 
-   "end": "271.880", 
-   "id": "s000108", 
-   "language": "deu", 
-   "lines": [
-    "Thomas Heilmann.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "271.880", 
-   "children": [], 
-   "end": "276.000", 
-   "id": "s000109", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "276.000", 
-   "children": [], 
-   "end": "280.320", 
-   "id": "s000110", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/591 an den Ausschuss f\u00fcr Arbeit und Soziales vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "280.320", 
-   "children": [], 
-   "end": "281.040", 
-   "id": "s000111", 
-   "language": "deu", 
-   "lines": [
-    "Sie sind damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "281.040", 
-   "children": [], 
-   "end": "282.000", 
-   "id": "s000112", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

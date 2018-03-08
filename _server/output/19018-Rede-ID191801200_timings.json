@@ -3,7 +3,7 @@
   {
    "begin": "0.000", 
    "children": [], 
-   "end": "1.040", 
+   "end": "3.400", 
    "id": "s000001", 
    "language": "deu", 
    "lines": [
@@ -11,9 +11,9 @@
    ]
   }, 
   {
-   "begin": "1.040", 
+   "begin": "3.400", 
    "children": [], 
-   "end": "2.960", 
+   "end": "5.360", 
    "id": "s000002", 
    "language": "deu", 
    "lines": [
@@ -21,9 +21,9 @@
    ]
   }, 
   {
-   "begin": "2.960", 
+   "begin": "5.360", 
    "children": [], 
-   "end": "3.440", 
+   "end": "6.200", 
    "id": "s000003", 
    "language": "deu", 
    "lines": [
@@ -31,9 +31,9 @@
    ]
   }, 
   {
-   "begin": "3.440", 
+   "begin": "6.200", 
    "children": [], 
-   "end": "5.720", 
+   "end": "9.880", 
    "id": "s000004", 
    "language": "deu", 
    "lines": [
@@ -41,9 +41,9 @@
    ]
   }, 
   {
-   "begin": "5.720", 
+   "begin": "9.880", 
    "children": [], 
-   "end": "7.640", 
+   "end": "17.560", 
    "id": "s000005", 
    "language": "deu", 
    "lines": [
@@ -51,9 +51,9 @@
    ]
   }, 
   {
-   "begin": "7.640", 
+   "begin": "17.560", 
    "children": [], 
-   "end": "10.120", 
+   "end": "23.400", 
    "id": "s000006", 
    "language": "deu", 
    "lines": [
@@ -61,9 +61,9 @@
    ]
   }, 
   {
-   "begin": "10.120", 
+   "begin": "23.400", 
    "children": [], 
-   "end": "12.040", 
+   "end": "26.800", 
    "id": "s000007", 
    "language": "deu", 
    "lines": [
@@ -71,63 +71,13 @@
    ]
   }, 
   {
-   "begin": "12.040", 
+   "begin": "26.800", 
    "children": [], 
-   "end": "15.400", 
+   "end": "35.000", 
    "id": "s000008", 
    "language": "deu", 
    "lines": [
     "Das wollte ich hier noch einmal darstellen."
-   ]
-  }, 
-  {
-   "begin": "15.400", 
-   "children": [], 
-   "end": "18.760", 
-   "id": "s000009", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "18.760", 
-   "children": [], 
-   "end": "28.280", 
-   "id": "s000010", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird die \u00dcberweisung der Vorlagen auf den Drucksachen\u00a019/956 und 19/976 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "28.280", 
-   "children": [], 
-   "end": "30.360", 
-   "id": "s000011", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "30.360", 
-   "children": [], 
-   "end": "33.920", 
-   "id": "s000012", 
-   "language": "deu", 
-   "lines": [
-    "Das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "33.920", 
-   "children": [], 
-   "end": "35.000", 
-   "id": "s000013", 
-   "language": "deu", 
-   "lines": [
-    "Dann sind die \u00dcberweisungen so beschlossen."
    ]
   }
  ]

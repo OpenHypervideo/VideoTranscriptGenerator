@@ -1333,7 +1333,7 @@
   {
    "begin": "469.640", 
    "children": [], 
-   "end": "470.960", 
+   "end": "471.480", 
    "id": "s000134", 
    "language": "deu", 
    "lines": [
@@ -1341,9 +1341,9 @@
    ]
   }, 
   {
-   "begin": "470.960", 
+   "begin": "471.480", 
    "children": [], 
-   "end": "471.280", 
+   "end": "473.280", 
    "id": "s000135", 
    "language": "deu", 
    "lines": [
@@ -1351,9 +1351,9 @@
    ]
   }, 
   {
-   "begin": "471.280", 
+   "begin": "473.280", 
    "children": [], 
-   "end": "471.680", 
+   "end": "473.560", 
    "id": "s000136", 
    "language": "deu", 
    "lines": [
@@ -1361,9 +1361,9 @@
    ]
   }, 
   {
-   "begin": "471.680", 
+   "begin": "473.560", 
    "children": [], 
-   "end": "473.280", 
+   "end": "477.200", 
    "id": "s000137", 
    "language": "deu", 
    "lines": [
@@ -1371,9 +1371,9 @@
    ]
   }, 
   {
-   "begin": "473.280", 
+   "begin": "477.200", 
    "children": [], 
-   "end": "474.000", 
+   "end": "481.400", 
    "id": "s000138", 
    "language": "deu", 
    "lines": [
@@ -1381,123 +1381,13 @@
    ]
   }, 
   {
-   "begin": "474.000", 
+   "begin": "481.400", 
    "children": [], 
-   "end": "474.640", 
+   "end": "487.000", 
    "id": "s000139", 
    "language": "deu", 
    "lines": [
     "Ich danke Ihnen f\u00fcr Ihre Aufmerksamkeit."
-   ]
-  }, 
-  {
-   "begin": "474.640", 
-   "children": [], 
-   "end": "475.280", 
-   "id": "s000140", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "475.280", 
-   "children": [], 
-   "end": "476.120", 
-   "id": "s000141", 
-   "language": "deu", 
-   "lines": [
-    "Herr Kollege Henke.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "476.120", 
-   "children": [], 
-   "end": "477.040", 
-   "id": "s000142", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "477.040", 
-   "children": [], 
-   "end": "480.000", 
-   "id": "s000143", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/585 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen, "
-   ]
-  }, 
-  {
-   "begin": "480.000", 
-   "children": [], 
-   "end": "481.000", 
-   "id": "s000144", 
-   "language": "deu", 
-   "lines": [
-    "wobei die Federf\u00fchrung beim Ausschuss f\u00fcr Familie, "
-   ]
-  }, 
-  {
-   "begin": "481.000", 
-   "children": [], 
-   "end": "481.400", 
-   "id": "s000145", 
-   "language": "deu", 
-   "lines": [
-    "Senioren, "
-   ]
-  }, 
-  {
-   "begin": "481.400", 
-   "children": [], 
-   "end": "482.400", 
-   "id": "s000146", 
-   "language": "deu", 
-   "lines": [
-    "Frauen und Jugend liegen soll. "
-   ]
-  }, 
-  {
-   "begin": "482.400", 
-   "children": [], 
-   "end": "484.440", 
-   "id": "s000147", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "484.440", 
-   "children": [], 
-   "end": "484.760", 
-   "id": "s000148", 
-   "language": "deu", 
-   "lines": [
-    "Ich sehe, "
-   ]
-  }, 
-  {
-   "begin": "484.760", 
-   "children": [], 
-   "end": "485.520", 
-   "id": "s000149", 
-   "language": "deu", 
-   "lines": [
-    "das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "485.520", 
-   "children": [], 
-   "end": "487.000", 
-   "id": "s000150", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

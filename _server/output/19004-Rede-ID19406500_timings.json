@@ -1283,7 +1283,7 @@
   {
    "begin": "344.560", 
    "children": [], 
-   "end": "346.560", 
+   "end": "349.600", 
    "id": "s000129", 
    "language": "deu", 
    "lines": [
@@ -1291,9 +1291,9 @@
    ]
   }, 
   {
-   "begin": "346.560", 
+   "begin": "349.600", 
    "children": [], 
-   "end": "347.560", 
+   "end": "354.280", 
    "id": "s000130", 
    "language": "deu", 
    "lines": [
@@ -1301,73 +1301,13 @@
    ]
   }, 
   {
-   "begin": "347.560", 
+   "begin": "354.280", 
    "children": [], 
-   "end": "348.640", 
+   "end": "365.000", 
    "id": "s000131", 
    "language": "deu", 
    "lines": [
     "und das ist auch gut so."
-   ]
-  }, 
-  {
-   "begin": "348.640", 
-   "children": [], 
-   "end": "349.720", 
-   "id": "s000132", 
-   "language": "deu", 
-   "lines": [
-    "Herzlichen Dank.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "349.720", 
-   "children": [], 
-   "end": "351.720", 
-   "id": "s000133", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe damit die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "351.720", 
-   "children": [], 
-   "end": "356.840", 
-   "id": "s000134", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Gesetzentw\u00fcrfe auf den Drucksachen\u00a019/81 und 19/218 an den Hauptausschuss vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "356.840", 
-   "children": [], 
-   "end": "361.320", 
-   "id": "s000135", 
-   "language": "deu", 
-   "lines": [
-    "Gibt es dazu anderweitige Vorschl\u00e4ge?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "361.320", 
-   "children": [], 
-   "end": "362.600", 
-   "id": "s000136", 
-   "language": "deu", 
-   "lines": [
-    "Das sehe ich nicht. "
-   ]
-  }, 
-  {
-   "begin": "362.600", 
-   "children": [], 
-   "end": "365.000", 
-   "id": "s000137", 
-   "language": "deu", 
-   "lines": [
-    "Dann sind die \u00dcberweisungen so beschlossen."
    ]
   }
  ]

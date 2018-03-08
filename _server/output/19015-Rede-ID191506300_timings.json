@@ -893,7 +893,7 @@
   {
    "begin": "249.040", 
    "children": [], 
-   "end": "252.040", 
+   "end": "253.240", 
    "id": "s000090", 
    "language": "deu", 
    "lines": [
@@ -901,9 +901,9 @@
    ]
   }, 
   {
-   "begin": "252.040", 
+   "begin": "253.240", 
    "children": [], 
-   "end": "252.200", 
+   "end": "255.040", 
    "id": "s000091", 
    "language": "deu", 
    "lines": [
@@ -911,9 +911,9 @@
    ]
   }, 
   {
-   "begin": "252.200", 
+   "begin": "255.040", 
    "children": [], 
-   "end": "256.000", 
+   "end": "263.520", 
    "id": "s000092", 
    "language": "deu", 
    "lines": [
@@ -921,9 +921,9 @@
    ]
   }, 
   {
-   "begin": "256.000", 
+   "begin": "263.520", 
    "children": [], 
-   "end": "257.160", 
+   "end": "267.640", 
    "id": "s000093", 
    "language": "deu", 
    "lines": [
@@ -931,113 +931,13 @@
    ]
   }, 
   {
-   "begin": "257.160", 
+   "begin": "267.640", 
    "children": [], 
-   "end": "257.840", 
+   "end": "273.000", 
    "id": "s000094", 
    "language": "deu", 
    "lines": [
     "Danke sch\u00f6n."
-   ]
-  }, 
-  {
-   "begin": "257.840", 
-   "children": [], 
-   "end": "258.080", 
-   "id": "s000095", 
-   "language": "deu", 
-   "lines": [
-    "Herzlichen Dank, "
-   ]
-  }, 
-  {
-   "begin": "258.080", 
-   "children": [], 
-   "end": "258.560", 
-   "id": "s000096", 
-   "language": "deu", 
-   "lines": [
-    "Herr Professor Sensburg.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "258.560", 
-   "children": [], 
-   "end": "259.120", 
-   "id": "s000097", 
-   "language": "deu", 
-   "lines": [
-    "Damit ist die Aktuelle Stunde beendet."
-   ]
-  }, 
-  {
-   "begin": "259.120", 
-   "children": [], 
-   "end": "260.400", 
-   "id": "s000098", 
-   "language": "deu", 
-   "lines": [
-    "Wir sind am Schluss unserer heutigen Tagesordnung."
-   ]
-  }, 
-  {
-   "begin": "260.400", 
-   "children": [], 
-   "end": "264.680", 
-   "id": "s000099", 
-   "language": "deu", 
-   "lines": [
-    "Ich w\u00fcnsche Ihnen allen ein frohes Wochenende zur Erholung und zum Gewinnen neuer Einsichten."
-   ]
-  }, 
-  {
-   "begin": "264.680", 
-   "children": [], 
-   "end": "266.600", 
-   "id": "s000100", 
-   "language": "deu", 
-   "lines": [
-    "Ich berufe die n\u00e4chste Sitzung des Deutschen Bundestages auf Mittwoch, "
-   ]
-  }, 
-  {
-   "begin": "266.600", 
-   "children": [], 
-   "end": "270.160", 
-   "id": "s000101", 
-   "language": "deu", 
-   "lines": [
-    "den 28.\u00a0Februar\u00a02018, "
-   ]
-  }, 
-  {
-   "begin": "270.160", 
-   "children": [], 
-   "end": "271.960", 
-   "id": "s000102", 
-   "language": "deu", 
-   "lines": [
-    "13\u00a0Uhr, "
-   ]
-  }, 
-  {
-   "begin": "271.960", 
-   "children": [], 
-   "end": "272.000", 
-   "id": "s000103", 
-   "language": "deu", 
-   "lines": [
-    "ein."
-   ]
-  }, 
-  {
-   "begin": "272.000", 
-   "children": [], 
-   "end": "273.000", 
-   "id": "s000104", 
-   "language": "deu", 
-   "lines": [
-    "Die Sitzung ist geschlossen."
    ]
   }
  ]

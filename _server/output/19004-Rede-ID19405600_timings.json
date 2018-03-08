@@ -573,7 +573,7 @@
   {
    "begin": "204.360", 
    "children": [], 
-   "end": "205.120", 
+   "end": "205.920", 
    "id": "s000058", 
    "language": "deu", 
    "lines": [
@@ -581,9 +581,9 @@
    ]
   }, 
   {
-   "begin": "205.120", 
+   "begin": "205.920", 
    "children": [], 
-   "end": "205.920", 
+   "end": "211.240", 
    "id": "s000059", 
    "language": "deu", 
    "lines": [
@@ -591,9 +591,9 @@
    ]
   }, 
   {
-   "begin": "205.920", 
+   "begin": "211.240", 
    "children": [], 
-   "end": "207.520", 
+   "end": "213.600", 
    "id": "s000060", 
    "language": "deu", 
    "lines": [
@@ -601,9 +601,9 @@
    ]
   }, 
   {
-   "begin": "207.520", 
+   "begin": "213.600", 
    "children": [], 
-   "end": "207.960", 
+   "end": "216.120", 
    "id": "s000061", 
    "language": "deu", 
    "lines": [
@@ -611,9 +611,9 @@
    ]
   }, 
   {
-   "begin": "207.960", 
+   "begin": "216.120", 
    "children": [], 
-   "end": "211.000", 
+   "end": "225.960", 
    "id": "s000062", 
    "language": "deu", 
    "lines": [
@@ -621,63 +621,13 @@
    ]
   }, 
   {
-   "begin": "211.000", 
+   "begin": "225.960", 
    "children": [], 
-   "end": "211.240", 
+   "end": "226.960", 
    "id": "s000063", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "211.240", 
-   "children": [], 
-   "end": "211.960", 
-   "id": "s000064", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "211.960", 
-   "children": [], 
-   "end": "217.720", 
-   "id": "s000065", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlagen auf den Drucksachen\u00a019/164 und 19/196 an den Hauptausschuss vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "217.720", 
-   "children": [], 
-   "end": "219.600", 
-   "id": "s000066", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "219.600", 
-   "children": [], 
-   "end": "221.960", 
-   "id": "s000067", 
-   "language": "deu", 
-   "lines": [
-    "Ich h\u00f6re keinen Widerspruch. "
-   ]
-  }, 
-  {
-   "begin": "221.960", 
-   "children": [], 
-   "end": "226.960", 
-   "id": "s000068", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

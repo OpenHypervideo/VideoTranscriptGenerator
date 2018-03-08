@@ -1013,7 +1013,7 @@
   {
    "begin": "330.760", 
    "children": [], 
-   "end": "332.960", 
+   "end": "339.000", 
    "id": "s000102", 
    "language": "deu", 
    "lines": [
@@ -1021,23 +1021,13 @@
    ]
   }, 
   {
-   "begin": "332.960", 
+   "begin": "339.000", 
    "children": [], 
-   "end": "337.960", 
+   "end": "339.960", 
    "id": "s000103", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "337.960", 
-   "children": [], 
-   "end": "339.960", 
-   "id": "s000104", 
-   "language": "deu", 
-   "lines": [
-    "Die Aktuelle Stunde ist beendet."
    ]
   }
  ]

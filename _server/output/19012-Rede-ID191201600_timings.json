@@ -923,7 +923,7 @@
   {
    "begin": "269.720", 
    "children": [], 
-   "end": "270.280", 
+   "end": "271.200", 
    "id": "s000093", 
    "language": "deu", 
    "lines": [
@@ -931,9 +931,9 @@
    ]
   }, 
   {
-   "begin": "270.280", 
+   "begin": "271.200", 
    "children": [], 
-   "end": "270.320", 
+   "end": "272.440", 
    "id": "s000094", 
    "language": "deu", 
    "lines": [
@@ -941,9 +941,9 @@
    ]
   }, 
   {
-   "begin": "270.320", 
+   "begin": "272.440", 
    "children": [], 
-   "end": "274.320", 
+   "end": "280.240", 
    "id": "s000095", 
    "language": "deu", 
    "lines": [
@@ -951,9 +951,9 @@
    ]
   }, 
   {
-   "begin": "274.320", 
+   "begin": "280.240", 
    "children": [], 
-   "end": "278.680", 
+   "end": "283.520", 
    "id": "s000096", 
    "language": "deu", 
    "lines": [
@@ -961,9 +961,9 @@
    ]
   }, 
   {
-   "begin": "278.680", 
+   "begin": "283.520", 
    "children": [], 
-   "end": "282.240", 
+   "end": "288.520", 
    "id": "s000097", 
    "language": "deu", 
    "lines": [
@@ -971,63 +971,13 @@
    ]
   }, 
   {
-   "begin": "282.240", 
+   "begin": "288.520", 
    "children": [], 
-   "end": "283.480", 
+   "end": "302.000", 
    "id": "s000098", 
    "language": "deu", 
    "lines": [
     "Herzlichen Dank f\u00fcr Ihre Aufmerksamkeit."
-   ]
-  }, 
-  {
-   "begin": "283.480", 
-   "children": [], 
-   "end": "284.840", 
-   "id": "s000099", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "284.840", 
-   "children": [], 
-   "end": "299.600", 
-   "id": "s000100", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung des Gesetzentwurfs auf der Drucksache\u00a019/86 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "299.600", 
-   "children": [], 
-   "end": "300.960", 
-   "id": "s000101", 
-   "language": "deu", 
-   "lines": [
-    "Gibt es dazu anderweitige Vorschl\u00e4ge?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "300.960", 
-   "children": [], 
-   "end": "301.240", 
-   "id": "s000102", 
-   "language": "deu", 
-   "lines": [
-    "Das ist nicht der Fall. "
-   ]
-  }, 
-  {
-   "begin": "301.240", 
-   "children": [], 
-   "end": "302.000", 
-   "id": "s000103", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

@@ -883,7 +883,7 @@
   {
    "begin": "289.480", 
    "children": [], 
-   "end": "295.640", 
+   "end": "296.200", 
    "id": "s000089", 
    "language": "deu", 
    "lines": [
@@ -891,9 +891,9 @@
    ]
   }, 
   {
-   "begin": "295.640", 
+   "begin": "296.200", 
    "children": [], 
-   "end": "295.880", 
+   "end": "297.360", 
    "id": "s000090", 
    "language": "deu", 
    "lines": [
@@ -901,9 +901,9 @@
    ]
   }, 
   {
-   "begin": "295.880", 
+   "begin": "297.360", 
    "children": [], 
-   "end": "296.040", 
+   "end": "299.200", 
    "id": "s000091", 
    "language": "deu", 
    "lines": [
@@ -911,9 +911,9 @@
    ]
   }, 
   {
-   "begin": "296.040", 
+   "begin": "299.200", 
    "children": [], 
-   "end": "298.960", 
+   "end": "304.720", 
    "id": "s000092", 
    "language": "deu", 
    "lines": [
@@ -921,9 +921,9 @@
    ]
   }, 
   {
-   "begin": "298.960", 
+   "begin": "304.720", 
    "children": [], 
-   "end": "301.320", 
+   "end": "306.840", 
    "id": "s000093", 
    "language": "deu", 
    "lines": [
@@ -931,9 +931,9 @@
    ]
   }, 
   {
-   "begin": "301.320", 
+   "begin": "306.840", 
    "children": [], 
-   "end": "303.920", 
+   "end": "310.520", 
    "id": "s000094", 
    "language": "deu", 
    "lines": [
@@ -941,9 +941,9 @@
    ]
   }, 
   {
-   "begin": "303.920", 
+   "begin": "310.520", 
    "children": [], 
-   "end": "305.320", 
+   "end": "315.600", 
    "id": "s000095", 
    "language": "deu", 
    "lines": [
@@ -951,9 +951,9 @@
    ]
   }, 
   {
-   "begin": "305.320", 
+   "begin": "315.600", 
    "children": [], 
-   "end": "305.840", 
+   "end": "315.920", 
    "id": "s000096", 
    "language": "deu", 
    "lines": [
@@ -961,143 +961,13 @@
    ]
   }, 
   {
-   "begin": "305.840", 
+   "begin": "315.920", 
    "children": [], 
-   "end": "306.880", 
+   "end": "318.960", 
    "id": "s000097", 
    "language": "deu", 
    "lines": [
     "dass Sie mir die Minute noch gegeben haben."
-   ]
-  }, 
-  {
-   "begin": "306.880", 
-   "children": [], 
-   "end": "307.640", 
-   "id": "s000098", 
-   "language": "deu", 
-   "lines": [
-    "Alles klar, "
-   ]
-  }, 
-  {
-   "begin": "307.640", 
-   "children": [], 
-   "end": "308.200", 
-   "id": "s000099", 
-   "language": "deu", 
-   "lines": [
-    "Frau Genossin. "
-   ]
-  }, 
-  {
-   "begin": "308.200", 
-   "children": [], 
-   "end": "308.280", 
-   "id": "s000100", 
-   "language": "deu", 
-   "lines": [
-    "Vielen herzlichen Dank, "
-   ]
-  }, 
-  {
-   "begin": "308.280", 
-   "children": [], 
-   "end": "308.281", 
-   "id": "s000101", 
-   "language": "deu", 
-   "lines": [
-    "liebe Gabriele Hiller-Ohm.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "308.281", 
-   "children": [], 
-   "end": "309.040", 
-   "id": "s000102", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "309.040", 
-   "children": [], 
-   "end": "315.920", 
-   "id": "s000103", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/578 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "315.920", 
-   "children": [], 
-   "end": "316.560", 
-   "id": "s000104", 
-   "language": "deu", 
-   "lines": [
-    "Die fast schon rhetorische Frage: "
-   ]
-  }, 
-  {
-   "begin": "316.560", 
-   "children": [], 
-   "end": "317.120", 
-   "id": "s000105", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "317.120", 
-   "children": [], 
-   "end": "317.320", 
-   "id": "s000106", 
-   "language": "deu", 
-   "lines": [
-    "Ja, "
-   ]
-  }, 
-  {
-   "begin": "317.320", 
-   "children": [], 
-   "end": "317.720", 
-   "id": "s000107", 
-   "language": "deu", 
-   "lines": [
-    "das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "317.720", 
-   "children": [], 
-   "end": "317.840", 
-   "id": "s000108", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "317.840", 
-   "children": [], 
-   "end": "318.040", 
-   "id": "s000109", 
-   "language": "deu", 
-   "lines": [
-    "Jetzt bitte ich, "
-   ]
-  }, 
-  {
-   "begin": "318.040", 
-   "children": [], 
-   "end": "318.960", 
-   "id": "s000110", 
-   "language": "deu", 
-   "lines": [
-    "m\u00f6gliche Sitzplatzwechsel schnell vorzunehmen."
    ]
   }
  ]

@@ -1113,7 +1113,7 @@
   {
    "begin": "290.480", 
    "children": [], 
-   "end": "291.520", 
+   "end": "292.520", 
    "id": "s000112", 
    "language": "deu", 
    "lines": [
@@ -1121,43 +1121,13 @@
    ]
   }, 
   {
-   "begin": "291.520", 
+   "begin": "292.520", 
    "children": [], 
-   "end": "292.240", 
+   "end": "297.000", 
    "id": "s000113", 
    "language": "deu", 
    "lines": [
     "Herzlichen Dank."
-   ]
-  }, 
-  {
-   "begin": "292.240", 
-   "children": [], 
-   "end": "292.720", 
-   "id": "s000114", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "292.720", 
-   "children": [], 
-   "end": "295.400", 
-   "id": "s000115", 
-   "language": "deu", 
-   "lines": [
-    "Herr Kollege Kiesewetter.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "295.400", 
-   "children": [], 
-   "end": "297.000", 
-   "id": "s000116", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe damit die Aussprache."
    ]
   }
  ]

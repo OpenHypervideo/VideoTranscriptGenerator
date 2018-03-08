@@ -643,7 +643,7 @@
   {
    "begin": "221.200", 
    "children": [], 
-   "end": "222.880", 
+   "end": "223.000", 
    "id": "s000065", 
    "language": "deu", 
    "lines": [
@@ -651,9 +651,9 @@
    ]
   }, 
   {
-   "begin": "222.880", 
+   "begin": "223.000", 
    "children": [], 
-   "end": "223.800", 
+   "end": "225.160", 
    "id": "s000066", 
    "language": "deu", 
    "lines": [
@@ -661,9 +661,9 @@
    ]
   }, 
   {
-   "begin": "223.800", 
+   "begin": "225.160", 
    "children": [], 
-   "end": "224.920", 
+   "end": "229.520", 
    "id": "s000067", 
    "language": "deu", 
    "lines": [
@@ -671,9 +671,9 @@
    ]
   }, 
   {
-   "begin": "224.920", 
+   "begin": "229.520", 
    "children": [], 
-   "end": "225.640", 
+   "end": "230.600", 
    "id": "s000068", 
    "language": "deu", 
    "lines": [
@@ -681,9 +681,9 @@
    ]
   }, 
   {
-   "begin": "225.640", 
+   "begin": "230.600", 
    "children": [], 
-   "end": "226.400", 
+   "end": "231.720", 
    "id": "s000069", 
    "language": "deu", 
    "lines": [
@@ -691,9 +691,9 @@
    ]
   }, 
   {
-   "begin": "226.400", 
+   "begin": "231.720", 
    "children": [], 
-   "end": "226.840", 
+   "end": "233.880", 
    "id": "s000070", 
    "language": "deu", 
    "lines": [
@@ -701,73 +701,13 @@
    ]
   }, 
   {
-   "begin": "226.840", 
+   "begin": "233.880", 
    "children": [], 
-   "end": "227.880", 
+   "end": "242.000", 
    "id": "s000071", 
    "language": "deu", 
    "lines": [
     "Herzlichen Dank."
-   ]
-  }, 
-  {
-   "begin": "227.880", 
-   "children": [], 
-   "end": "228.320", 
-   "id": "s000072", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "228.320", 
-   "children": [], 
-   "end": "230.360", 
-   "id": "s000073", 
-   "language": "deu", 
-   "lines": [
-    "Wir kommen zur Abstimmung \u00fcber den Antrag der Fraktionen CDU/CSU, "
-   ]
-  }, 
-  {
-   "begin": "230.360", 
-   "children": [], 
-   "end": "230.520", 
-   "id": "s000074", 
-   "language": "deu", 
-   "lines": [
-    "SPD, "
-   ]
-  }, 
-  {
-   "begin": "230.520", 
-   "children": [], 
-   "end": "233.760", 
-   "id": "s000075", 
-   "language": "deu", 
-   "lines": [
-    "FDP und B\u00fcndnis\u00a090/Die Gr\u00fcnen auf Drucksache\u00a019/234 mit dem Titel \u201eOpfer\u00adentsch\u00e4digung verbessern\u201c. "
-   ]
-  }, 
-  {
-   "begin": "233.760", 
-   "children": [], 
-   "end": "239.600", 
-   "id": "s000076", 
-   "language": "deu", 
-   "lines": [
-    "Wer stimmt f\u00fcr diesen Antrag?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "239.600", 
-   "children": [], 
-   "end": "242.000", 
-   "id": "s000077", 
-   "language": "deu", 
-   "lines": [
-    "Damit ist der Antrag mit den Stimmen des ganzen Hauses angenommen."
    ]
   }
  ]

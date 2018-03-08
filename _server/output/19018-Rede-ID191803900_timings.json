@@ -1663,7 +1663,7 @@
   {
    "begin": "461.680", 
    "children": [], 
-   "end": "468.160", 
+   "end": "468.200", 
    "id": "s000167", 
    "language": "deu", 
    "lines": [
@@ -1671,9 +1671,9 @@
    ]
   }, 
   {
-   "begin": "468.160", 
+   "begin": "468.200", 
    "children": [], 
-   "end": "469.720", 
+   "end": "472.000", 
    "id": "s000168", 
    "language": "deu", 
    "lines": [
@@ -1681,9 +1681,9 @@
    ]
   }, 
   {
-   "begin": "469.720", 
+   "begin": "472.000", 
    "children": [], 
-   "end": "471.440", 
+   "end": "473.440", 
    "id": "s000169", 
    "language": "deu", 
    "lines": [
@@ -1691,9 +1691,9 @@
    ]
   }, 
   {
-   "begin": "471.440", 
+   "begin": "473.440", 
    "children": [], 
-   "end": "472.600", 
+   "end": "475.360", 
    "id": "s000170", 
    "language": "deu", 
    "lines": [
@@ -1701,9 +1701,9 @@
    ]
   }, 
   {
-   "begin": "472.600", 
+   "begin": "475.360", 
    "children": [], 
-   "end": "473.440", 
+   "end": "476.160", 
    "id": "s000171", 
    "language": "deu", 
    "lines": [
@@ -1711,9 +1711,9 @@
    ]
   }, 
   {
-   "begin": "473.440", 
+   "begin": "476.160", 
    "children": [], 
-   "end": "475.120", 
+   "end": "478.880", 
    "id": "s000172", 
    "language": "deu", 
    "lines": [
@@ -1721,9 +1721,9 @@
    ]
   }, 
   {
-   "begin": "475.120", 
+   "begin": "478.880", 
    "children": [], 
-   "end": "478.200", 
+   "end": "482.480", 
    "id": "s000173", 
    "language": "deu", 
    "lines": [
@@ -1731,9 +1731,9 @@
    ]
   }, 
   {
-   "begin": "478.200", 
+   "begin": "482.480", 
    "children": [], 
-   "end": "479.920", 
+   "end": "484.320", 
    "id": "s000174", 
    "language": "deu", 
    "lines": [
@@ -1741,9 +1741,9 @@
    ]
   }, 
   {
-   "begin": "479.920", 
+   "begin": "484.320", 
    "children": [], 
-   "end": "481.440", 
+   "end": "486.400", 
    "id": "s000175", 
    "language": "deu", 
    "lines": [
@@ -1751,9 +1751,9 @@
    ]
   }, 
   {
-   "begin": "481.440", 
+   "begin": "486.400", 
    "children": [], 
-   "end": "482.640", 
+   "end": "489.280", 
    "id": "s000176", 
    "language": "deu", 
    "lines": [
@@ -1761,9 +1761,9 @@
    ]
   }, 
   {
-   "begin": "482.640", 
+   "begin": "489.280", 
    "children": [], 
-   "end": "483.520", 
+   "end": "491.640", 
    "id": "s000177", 
    "language": "deu", 
    "lines": [
@@ -1771,9 +1771,9 @@
    ]
   }, 
   {
-   "begin": "483.520", 
+   "begin": "491.640", 
    "children": [], 
-   "end": "484.080", 
+   "end": "495.960", 
    "id": "s000178", 
    "language": "deu", 
    "lines": [
@@ -1781,9 +1781,9 @@
    ]
   }, 
   {
-   "begin": "484.080", 
+   "begin": "495.960", 
    "children": [], 
-   "end": "486.640", 
+   "end": "498.600", 
    "id": "s000179", 
    "language": "deu", 
    "lines": [
@@ -1791,9 +1791,9 @@
    ]
   }, 
   {
-   "begin": "486.640", 
+   "begin": "498.600", 
    "children": [], 
-   "end": "487.800", 
+   "end": "500.240", 
    "id": "s000180", 
    "language": "deu", 
    "lines": [
@@ -1801,9 +1801,9 @@
    ]
   }, 
   {
-   "begin": "487.800", 
+   "begin": "500.240", 
    "children": [], 
-   "end": "489.280", 
+   "end": "502.360", 
    "id": "s000181", 
    "language": "deu", 
    "lines": [
@@ -1811,9 +1811,9 @@
    ]
   }, 
   {
-   "begin": "489.280", 
+   "begin": "502.360", 
    "children": [], 
-   "end": "489.440", 
+   "end": "504.040", 
    "id": "s000182", 
    "language": "deu", 
    "lines": [
@@ -1821,123 +1821,13 @@
    ]
   }, 
   {
-   "begin": "489.440", 
+   "begin": "504.040", 
    "children": [], 
-   "end": "490.640", 
+   "end": "513.000", 
    "id": "s000183", 
    "language": "deu", 
    "lines": [
     "Auch das sollten wir an diesem Tage einmal sagen."
-   ]
-  }, 
-  {
-   "begin": "490.640", 
-   "children": [], 
-   "end": "491.520", 
-   "id": "s000184", 
-   "language": "deu", 
-   "lines": [
-    "Herr Kollege Hahn, "
-   ]
-  }, 
-  {
-   "begin": "491.520", 
-   "children": [], 
-   "end": "492.800", 
-   "id": "s000185", 
-   "language": "deu", 
-   "lines": [
-    "herzlichen Dank f\u00fcr Ihre Ausf\u00fchrungen.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "492.800", 
-   "children": [], 
-   "end": "494.120", 
-   "id": "s000186", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "494.120", 
-   "children": [], 
-   "end": "500.320", 
-   "id": "s000187", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlagen auf den Drucksachen\u00a019/475 und 19/979 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "500.320", 
-   "children": [], 
-   "end": "502.920", 
-   "id": "s000188", 
-   "language": "deu", 
-   "lines": [
-    "Die Vorlage auf Drucksache\u00a019/475\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "502.920", 
-   "children": [], 
-   "end": "504.000", 
-   "id": "s000189", 
-   "language": "deu", 
-   "lines": [
-    "Tagesordnungspunkt\u00a016\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "504.000", 
-   "children": [], 
-   "end": "506.600", 
-   "id": "s000190", 
-   "language": "deu", 
-   "lines": [
-    "soll federf\u00fchrend an den Verteidigungsausschuss \u00fcberwiesen werden. "
-   ]
-  }, 
-  {
-   "begin": "506.600", 
-   "children": [], 
-   "end": "508.920", 
-   "id": "s000191", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "508.920", 
-   "children": [], 
-   "end": "509.520", 
-   "id": "s000192", 
-   "language": "deu", 
-   "lines": [
-    "Ich sehe, "
-   ]
-  }, 
-  {
-   "begin": "509.520", 
-   "children": [], 
-   "end": "510.720", 
-   "id": "s000193", 
-   "language": "deu", 
-   "lines": [
-    "das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "510.720", 
-   "children": [], 
-   "end": "513.000", 
-   "id": "s000194", 
-   "language": "deu", 
-   "lines": [
-    "Dann sind die \u00dcberweisungen so beschlossen."
    ]
   }
  ]

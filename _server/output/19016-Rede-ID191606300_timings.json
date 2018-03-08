@@ -1013,7 +1013,7 @@
   {
    "begin": "294.400", 
    "children": [], 
-   "end": "296.560", 
+   "end": "297.400", 
    "id": "s000102", 
    "language": "deu", 
    "lines": [
@@ -1021,9 +1021,9 @@
    ]
   }, 
   {
-   "begin": "296.560", 
+   "begin": "297.400", 
    "children": [], 
-   "end": "299.960", 
+   "end": "303.360", 
    "id": "s000103", 
    "language": "deu", 
    "lines": [
@@ -1031,9 +1031,9 @@
    ]
   }, 
   {
-   "begin": "299.960", 
+   "begin": "303.360", 
    "children": [], 
-   "end": "300.600", 
+   "end": "305.600", 
    "id": "s000104", 
    "language": "deu", 
    "lines": [
@@ -1041,9 +1041,9 @@
    ]
   }, 
   {
-   "begin": "300.600", 
+   "begin": "305.600", 
    "children": [], 
-   "end": "302.920", 
+   "end": "309.440", 
    "id": "s000105", 
    "language": "deu", 
    "lines": [
@@ -1051,9 +1051,9 @@
    ]
   }, 
   {
-   "begin": "302.920", 
+   "begin": "309.440", 
    "children": [], 
-   "end": "306.320", 
+   "end": "313.480", 
    "id": "s000106", 
    "language": "deu", 
    "lines": [
@@ -1061,9 +1061,9 @@
    ]
   }, 
   {
-   "begin": "306.320", 
+   "begin": "313.480", 
    "children": [], 
-   "end": "307.920", 
+   "end": "316.080", 
    "id": "s000107", 
    "language": "deu", 
    "lines": [
@@ -1071,9 +1071,9 @@
    ]
   }, 
   {
-   "begin": "307.920", 
+   "begin": "316.080", 
    "children": [], 
-   "end": "309.440", 
+   "end": "322.760", 
    "id": "s000108", 
    "language": "deu", 
    "lines": [
@@ -1081,113 +1081,13 @@
    ]
   }, 
   {
-   "begin": "309.440", 
+   "begin": "322.760", 
    "children": [], 
-   "end": "310.520", 
+   "end": "325.960", 
    "id": "s000109", 
    "language": "deu", 
    "lines": [
     "aber im Prinzip null Erkenntnisgewinn."
-   ]
-  }, 
-  {
-   "begin": "310.520", 
-   "children": [], 
-   "end": "312.240", 
-   "id": "s000110", 
-   "language": "deu", 
-   "lines": [
-    "Die Aktuelle Stunde ist beendet."
-   ]
-  }, 
-  {
-   "begin": "312.240", 
-   "children": [], 
-   "end": "313.480", 
-   "id": "s000111", 
-   "language": "deu", 
-   "lines": [
-    "Liebe Kolleginnen und Kollegen, "
-   ]
-  }, 
-  {
-   "begin": "313.480", 
-   "children": [], 
-   "end": "316.200", 
-   "id": "s000112", 
-   "language": "deu", 
-   "lines": [
-    "wir sind damit am Schluss unserer heutigen Tagesordnung."
-   ]
-  }, 
-  {
-   "begin": "316.200", 
-   "children": [], 
-   "end": "319.600", 
-   "id": "s000113", 
-   "language": "deu", 
-   "lines": [
-    "Ich berufe die n\u00e4chste Sitzung des Deutschen Bundestages auf morgen, "
-   ]
-  }, 
-  {
-   "begin": "319.600", 
-   "children": [], 
-   "end": "320.800", 
-   "id": "s000114", 
-   "language": "deu", 
-   "lines": [
-    "Donnerstag, "
-   ]
-  }, 
-  {
-   "begin": "320.800", 
-   "children": [], 
-   "end": "324.240", 
-   "id": "s000115", 
-   "language": "deu", 
-   "lines": [
-    "den 1.\u00a0M\u00e4rz 2018, "
-   ]
-  }, 
-  {
-   "begin": "324.240", 
-   "children": [], 
-   "end": "324.241", 
-   "id": "s000116", 
-   "language": "deu", 
-   "lines": [
-    "9\u00a0Uhr, "
-   ]
-  }, 
-  {
-   "begin": "324.241", 
-   "children": [], 
-   "end": "324.440", 
-   "id": "s000117", 
-   "language": "deu", 
-   "lines": [
-    "ein."
-   ]
-  }, 
-  {
-   "begin": "324.440", 
-   "children": [], 
-   "end": "325.600", 
-   "id": "s000118", 
-   "language": "deu", 
-   "lines": [
-    "Bis dahin w\u00fcnsche ich Ihnen alles Gute. "
-   ]
-  }, 
-  {
-   "begin": "325.600", 
-   "children": [], 
-   "end": "325.960", 
-   "id": "s000119", 
-   "language": "deu", 
-   "lines": [
-    "Die Sitzung ist geschlossen."
    ]
   }
  ]

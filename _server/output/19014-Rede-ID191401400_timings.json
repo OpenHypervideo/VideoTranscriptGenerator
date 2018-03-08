@@ -1353,7 +1353,7 @@
   {
    "begin": "412.560", 
    "children": [], 
-   "end": "414.600", 
+   "end": "414.840", 
    "id": "s000136", 
    "language": "deu", 
    "lines": [
@@ -1361,9 +1361,9 @@
    ]
   }, 
   {
-   "begin": "414.600", 
+   "begin": "414.840", 
    "children": [], 
-   "end": "416.200", 
+   "end": "417.320", 
    "id": "s000137", 
    "language": "deu", 
    "lines": [
@@ -1371,9 +1371,9 @@
    ]
   }, 
   {
-   "begin": "416.200", 
+   "begin": "417.320", 
    "children": [], 
-   "end": "417.320", 
+   "end": "420.040", 
    "id": "s000138", 
    "language": "deu", 
    "lines": [
@@ -1381,9 +1381,9 @@
    ]
   }, 
   {
-   "begin": "417.320", 
+   "begin": "420.040", 
    "children": [], 
-   "end": "417.960", 
+   "end": "422.520", 
    "id": "s000139", 
    "language": "deu", 
    "lines": [
@@ -1391,9 +1391,9 @@
    ]
   }, 
   {
-   "begin": "417.960", 
+   "begin": "422.520", 
    "children": [], 
-   "end": "420.080", 
+   "end": "425.800", 
    "id": "s000140", 
    "language": "deu", 
    "lines": [
@@ -1401,9 +1401,9 @@
    ]
   }, 
   {
-   "begin": "420.080", 
+   "begin": "425.800", 
    "children": [], 
-   "end": "422.240", 
+   "end": "431.520", 
    "id": "s000141", 
    "language": "deu", 
    "lines": [
@@ -1411,9 +1411,9 @@
    ]
   }, 
   {
-   "begin": "422.240", 
+   "begin": "431.520", 
    "children": [], 
-   "end": "422.560", 
+   "end": "434.080", 
    "id": "s000142", 
    "language": "deu", 
    "lines": [
@@ -1421,9 +1421,9 @@
    ]
   }, 
   {
-   "begin": "422.560", 
+   "begin": "434.080", 
    "children": [], 
-   "end": "422.561", 
+   "end": "434.800", 
    "id": "s000143", 
    "language": "deu", 
    "lines": [
@@ -1431,9 +1431,9 @@
    ]
   }, 
   {
-   "begin": "422.561", 
+   "begin": "434.800", 
    "children": [], 
-   "end": "422.562", 
+   "end": "435.240", 
    "id": "s000144", 
    "language": "deu", 
    "lines": [
@@ -1441,9 +1441,9 @@
    ]
   }, 
   {
-   "begin": "422.562", 
+   "begin": "435.240", 
    "children": [], 
-   "end": "423.520", 
+   "end": "437.240", 
    "id": "s000145", 
    "language": "deu", 
    "lines": [
@@ -1451,9 +1451,9 @@
    ]
   }, 
   {
-   "begin": "423.520", 
+   "begin": "437.240", 
    "children": [], 
-   "end": "424.400", 
+   "end": "439.040", 
    "id": "s000146", 
    "language": "deu", 
    "lines": [
@@ -1461,9 +1461,9 @@
    ]
   }, 
   {
-   "begin": "424.400", 
+   "begin": "439.040", 
    "children": [], 
-   "end": "426.960", 
+   "end": "443.240", 
    "id": "s000147", 
    "language": "deu", 
    "lines": [
@@ -1471,9 +1471,9 @@
    ]
   }, 
   {
-   "begin": "426.960", 
+   "begin": "443.240", 
    "children": [], 
-   "end": "428.360", 
+   "end": "453.640", 
    "id": "s000148", 
    "language": "deu", 
    "lines": [
@@ -1481,133 +1481,13 @@
    ]
   }, 
   {
-   "begin": "428.360", 
+   "begin": "453.640", 
    "children": [], 
-   "end": "428.840", 
+   "end": "456.000", 
    "id": "s000149", 
    "language": "deu", 
    "lines": [
     "Herzlichen Dank."
-   ]
-  }, 
-  {
-   "begin": "428.840", 
-   "children": [], 
-   "end": "429.520", 
-   "id": "s000150", 
-   "language": "deu", 
-   "lines": [
-    "Herr Kollege Rehberg, "
-   ]
-  }, 
-  {
-   "begin": "429.520", 
-   "children": [], 
-   "end": "430.080", 
-   "id": "s000151", 
-   "language": "deu", 
-   "lines": [
-    "herzlichen Dank.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "430.080", 
-   "children": [], 
-   "end": "431.080", 
-   "id": "s000152", 
-   "language": "deu", 
-   "lines": [
-    "Nach Ihren Worten schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "431.080", 
-   "children": [], 
-   "end": "432.320", 
-   "id": "s000153", 
-   "language": "deu", 
-   "lines": [
-    "Bevor wir zur Abstimmung kommen, "
-   ]
-  }, 
-  {
-   "begin": "432.320", 
-   "children": [], 
-   "end": "433.960", 
-   "id": "s000154", 
-   "language": "deu", 
-   "lines": [
-    "w\u00fcnsche ich allen Kolleginnen und Kollegen weiterhin einen gesunden und erfolgreichen Tag."
-   ]
-  }, 
-  {
-   "begin": "433.960", 
-   "children": [], 
-   "end": "439.400", 
-   "id": "s000155", 
-   "language": "deu", 
-   "lines": [
-    "Wir kommen zur Abstimmung \u00fcber den Entschlie\u00dfungsantrag der Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen auf Drucksache\u00a019/854. "
-   ]
-  }, 
-  {
-   "begin": "439.400", 
-   "children": [], 
-   "end": "441.680", 
-   "id": "s000156", 
-   "language": "deu", 
-   "lines": [
-    "Wer f\u00fcr diesen Entschlie\u00dfungsantrag stimmt, "
-   ]
-  }, 
-  {
-   "begin": "441.680", 
-   "children": [], 
-   "end": "443.280", 
-   "id": "s000157", 
-   "language": "deu", 
-   "lines": [
-    "den bitte ich um das Handzeichen.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "443.280", 
-   "children": [], 
-   "end": "444.480", 
-   "id": "s000158", 
-   "language": "deu", 
-   "lines": [
-    "Wer stimmt dagegen?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "444.480", 
-   "children": [], 
-   "end": "445.560", 
-   "id": "s000159", 
-   "language": "deu", 
-   "lines": [
-    "Wer enth\u00e4lt sich?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "445.560", 
-   "children": [], 
-   "end": "447.520", 
-   "id": "s000160", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist der Entschlie\u00dfungsantrag mit den Stimmen von SPD, "
-   ]
-  }, 
-  {
-   "begin": "447.520", 
-   "children": [], 
-   "end": "456.000", 
-   "id": "s000161", 
-   "language": "deu", 
-   "lines": [
-    "CDU/CSU und AfD gegen die Stimmen von B\u00fcndnis\u00a090/Die Gr\u00fcnen und Freien Demokraten bei Enthaltung der Fraktion der Linken abgelehnt."
    ]
   }
  ]

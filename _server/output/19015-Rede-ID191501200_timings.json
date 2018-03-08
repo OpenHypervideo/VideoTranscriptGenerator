@@ -983,7 +983,7 @@
   {
    "begin": "315.800", 
    "children": [], 
-   "end": "317.720", 
+   "end": "318.520", 
    "id": "s000099", 
    "language": "deu", 
    "lines": [
@@ -991,9 +991,9 @@
    ]
   }, 
   {
-   "begin": "317.720", 
+   "begin": "318.520", 
    "children": [], 
-   "end": "319.680", 
+   "end": "325.160", 
    "id": "s000100", 
    "language": "deu", 
    "lines": [
@@ -1001,9 +1001,9 @@
    ]
   }, 
   {
-   "begin": "319.680", 
+   "begin": "325.160", 
    "children": [], 
-   "end": "320.760", 
+   "end": "327.720", 
    "id": "s000101", 
    "language": "deu", 
    "lines": [
@@ -1011,9 +1011,9 @@
    ]
   }, 
   {
-   "begin": "320.760", 
+   "begin": "327.720", 
    "children": [], 
-   "end": "321.280", 
+   "end": "329.680", 
    "id": "s000102", 
    "language": "deu", 
    "lines": [
@@ -1021,9 +1021,9 @@
    ]
   }, 
   {
-   "begin": "321.280", 
+   "begin": "329.680", 
    "children": [], 
-   "end": "326.520", 
+   "end": "352.880", 
    "id": "s000103", 
    "language": "deu", 
    "lines": [
@@ -1031,113 +1031,13 @@
    ]
   }, 
   {
-   "begin": "326.520", 
+   "begin": "352.880", 
    "children": [], 
-   "end": "328.320", 
+   "end": "355.960", 
    "id": "s000104", 
    "language": "deu", 
    "lines": [
     "Ich freue mich darauf und freue mich auf die Zusammenarbeit."
-   ]
-  }, 
-  {
-   "begin": "328.320", 
-   "children": [], 
-   "end": "328.360", 
-   "id": "s000105", 
-   "language": "deu", 
-   "lines": [
-    "Danke sehr.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "328.360", 
-   "children": [], 
-   "end": "329.440", 
-   "id": "s000106", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "329.440", 
-   "children": [], 
-   "end": "338.480", 
-   "id": "s000107", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird die \u00dcberweisung der Vorlage auf der Drucksache\u00a019/400 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "338.480", 
-   "children": [], 
-   "end": "340.000", 
-   "id": "s000108", 
-   "language": "deu", 
-   "lines": [
-    "Sie sind damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "340.000", 
-   "children": [], 
-   "end": "340.480", 
-   "id": "s000109", 
-   "language": "deu", 
-   "lines": [
-    "Das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "340.480", 
-   "children": [], 
-   "end": "343.400", 
-   "id": "s000110", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
-   ]
-  }, 
-  {
-   "begin": "343.400", 
-   "children": [], 
-   "end": "346.360", 
-   "id": "s000111", 
-   "language": "deu", 
-   "lines": [
-    "Auch der Kollege Kie\u00dfling hat gerade seine erste Rede gehalten. "
-   ]
-  }, 
-  {
-   "begin": "346.360", 
-   "children": [], 
-   "end": "347.520", 
-   "id": "s000112", 
-   "language": "deu", 
-   "lines": [
-    "Dazu begl\u00fcckw\u00fcnsche ich Sie besonders."
-   ]
-  }, 
-  {
-   "begin": "347.520", 
-   "children": [], 
-   "end": "353.960", 
-   "id": "s000113", 
-   "language": "deu", 
-   "lines": [
-    "Es wurde mir vorher nicht mitgeteilt, "
-   ]
-  }, 
-  {
-   "begin": "353.960", 
-   "children": [], 
-   "end": "355.960", 
-   "id": "s000114", 
-   "language": "deu", 
-   "lines": [
-    "sonst h\u00e4tte ich Sie gleich ganz anders behandelt."
    ]
   }
  ]

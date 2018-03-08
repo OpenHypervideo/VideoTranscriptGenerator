@@ -843,7 +843,7 @@
   {
    "begin": "287.040", 
    "children": [], 
-   "end": "288.800", 
+   "end": "290.600", 
    "id": "s000085", 
    "language": "deu", 
    "lines": [
@@ -851,9 +851,9 @@
    ]
   }, 
   {
-   "begin": "288.800", 
+   "begin": "290.600", 
    "children": [], 
-   "end": "290.320", 
+   "end": "305.840", 
    "id": "s000086", 
    "language": "deu", 
    "lines": [
@@ -861,9 +861,9 @@
    ]
   }, 
   {
-   "begin": "290.320", 
+   "begin": "305.840", 
    "children": [], 
-   "end": "291.240", 
+   "end": "306.480", 
    "id": "s000087", 
    "language": "deu", 
    "lines": [
@@ -871,83 +871,13 @@
    ]
   }, 
   {
-   "begin": "291.240", 
+   "begin": "306.480", 
    "children": [], 
-   "end": "291.960", 
+   "end": "307.960", 
    "id": "s000088", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "291.960", 
-   "children": [], 
-   "end": "292.320", 
-   "id": "s000089", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "292.320", 
-   "children": [], 
-   "end": "293.280", 
-   "id": "s000090", 
-   "language": "deu", 
-   "lines": [
-    "Kollege Uli Gr\u00f6tsch.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "293.280", 
-   "children": [], 
-   "end": "293.640", 
-   "id": "s000091", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Debatte."
-   ]
-  }, 
-  {
-   "begin": "293.640", 
-   "children": [], 
-   "end": "303.240", 
-   "id": "s000092", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/41 an den Hauptausschuss vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "303.240", 
-   "children": [], 
-   "end": "306.120", 
-   "id": "s000093", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "306.120", 
-   "children": [], 
-   "end": "307.200", 
-   "id": "s000094", 
-   "language": "deu", 
-   "lines": [
-    "Sie sind damit einverstanden. "
-   ]
-  }, 
-  {
-   "begin": "307.200", 
-   "children": [], 
-   "end": "307.960", 
-   "id": "s000095", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

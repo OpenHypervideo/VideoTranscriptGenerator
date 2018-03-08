@@ -353,7 +353,7 @@
   {
    "begin": "156.720", 
    "children": [], 
-   "end": "162.520", 
+   "end": "163.040", 
    "id": "s000036", 
    "language": "deu", 
    "lines": [
@@ -361,9 +361,9 @@
    ]
   }, 
   {
-   "begin": "162.520", 
+   "begin": "163.040", 
    "children": [], 
-   "end": "165.760", 
+   "end": "169.720", 
    "id": "s000037", 
    "language": "deu", 
    "lines": [
@@ -371,9 +371,9 @@
    ]
   }, 
   {
-   "begin": "165.760", 
+   "begin": "169.720", 
    "children": [], 
-   "end": "166.960", 
+   "end": "171.800", 
    "id": "s000038", 
    "language": "deu", 
    "lines": [
@@ -381,9 +381,9 @@
    ]
   }, 
   {
-   "begin": "166.960", 
+   "begin": "171.800", 
    "children": [], 
-   "end": "171.800", 
+   "end": "176.200", 
    "id": "s000039", 
    "language": "deu", 
    "lines": [
@@ -391,9 +391,9 @@
    ]
   }, 
   {
-   "begin": "171.800", 
+   "begin": "176.200", 
    "children": [], 
-   "end": "173.120", 
+   "end": "179.320", 
    "id": "s000040", 
    "language": "deu", 
    "lines": [
@@ -401,9 +401,9 @@
    ]
   }, 
   {
-   "begin": "173.120", 
+   "begin": "179.320", 
    "children": [], 
-   "end": "174.400", 
+   "end": "181.840", 
    "id": "s000041", 
    "language": "deu", 
    "lines": [
@@ -411,9 +411,9 @@
    ]
   }, 
   {
-   "begin": "174.400", 
+   "begin": "181.840", 
    "children": [], 
-   "end": "177.320", 
+   "end": "191.400", 
    "id": "s000042", 
    "language": "deu", 
    "lines": [
@@ -421,9 +421,9 @@
    ]
   }, 
   {
-   "begin": "177.320", 
+   "begin": "191.400", 
    "children": [], 
-   "end": "177.920", 
+   "end": "192.160", 
    "id": "s000043", 
    "language": "deu", 
    "lines": [
@@ -431,63 +431,13 @@
    ]
   }, 
   {
-   "begin": "177.920", 
+   "begin": "192.160", 
    "children": [], 
-   "end": "178.200", 
+   "end": "193.000", 
    "id": "s000044", 
    "language": "deu", 
    "lines": [
     "Ich danke Ihnen."
-   ]
-  }, 
-  {
-   "begin": "178.200", 
-   "children": [], 
-   "end": "180.120", 
-   "id": "s000045", 
-   "language": "deu", 
-   "lines": [
-    "Damit sind wir am Ende dieses Tagesordnungspunktes. "
-   ]
-  }, 
-  {
-   "begin": "180.120", 
-   "children": [], 
-   "end": "181.520", 
-   "id": "s000046", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "181.520", 
-   "children": [], 
-   "end": "189.400", 
-   "id": "s000047", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/94 an den Finanzausschuss vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "189.400", 
-   "children": [], 
-   "end": "191.480", 
-   "id": "s000048", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "191.480", 
-   "children": [], 
-   "end": "193.000", 
-   "id": "s000049", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist das so beschlossen."
    ]
   }
  ]

@@ -283,7 +283,7 @@
   {
    "begin": "132.160", 
    "children": [], 
-   "end": "140.800", 
+   "end": "147.200", 
    "id": "s000029", 
    "language": "deu", 
    "lines": [
@@ -291,9 +291,9 @@
    ]
   }, 
   {
-   "begin": "140.800", 
+   "begin": "147.200", 
    "children": [], 
-   "end": "142.840", 
+   "end": "152.320", 
    "id": "s000030", 
    "language": "deu", 
    "lines": [
@@ -301,9 +301,9 @@
    ]
   }, 
   {
-   "begin": "142.840", 
+   "begin": "152.320", 
    "children": [], 
-   "end": "146.720", 
+   "end": "161.320", 
    "id": "s000031", 
    "language": "deu", 
    "lines": [
@@ -311,9 +311,9 @@
    ]
   }, 
   {
-   "begin": "146.720", 
+   "begin": "161.320", 
    "children": [], 
-   "end": "148.920", 
+   "end": "165.640", 
    "id": "s000032", 
    "language": "deu", 
    "lines": [
@@ -321,9 +321,9 @@
    ]
   }, 
   {
-   "begin": "148.920", 
+   "begin": "165.640", 
    "children": [], 
-   "end": "152.200", 
+   "end": "171.160", 
    "id": "s000033", 
    "language": "deu", 
    "lines": [
@@ -331,9 +331,9 @@
    ]
   }, 
   {
-   "begin": "152.200", 
+   "begin": "171.160", 
    "children": [], 
-   "end": "154.920", 
+   "end": "177.000", 
    "id": "s000034", 
    "language": "deu", 
    "lines": [
@@ -341,9 +341,9 @@
    ]
   }, 
   {
-   "begin": "154.920", 
+   "begin": "177.000", 
    "children": [], 
-   "end": "158.240", 
+   "end": "183.600", 
    "id": "s000035", 
    "language": "deu", 
    "lines": [
@@ -351,9 +351,9 @@
    ]
   }, 
   {
-   "begin": "158.240", 
+   "begin": "183.600", 
    "children": [], 
-   "end": "161.960", 
+   "end": "188.640", 
    "id": "s000036", 
    "language": "deu", 
    "lines": [
@@ -361,9 +361,9 @@
    ]
   }, 
   {
-   "begin": "161.960", 
+   "begin": "188.640", 
    "children": [], 
-   "end": "162.840", 
+   "end": "192.120", 
    "id": "s000037", 
    "language": "deu", 
    "lines": [
@@ -371,9 +371,9 @@
    ]
   }, 
   {
-   "begin": "162.840", 
+   "begin": "192.120", 
    "children": [], 
-   "end": "165.600", 
+   "end": "195.600", 
    "id": "s000038", 
    "language": "deu", 
    "lines": [
@@ -381,9 +381,9 @@
    ]
   }, 
   {
-   "begin": "165.600", 
+   "begin": "195.600", 
    "children": [], 
-   "end": "168.360", 
+   "end": "201.080", 
    "id": "s000039", 
    "language": "deu", 
    "lines": [
@@ -391,9 +391,9 @@
    ]
   }, 
   {
-   "begin": "168.360", 
+   "begin": "201.080", 
    "children": [], 
-   "end": "170.440", 
+   "end": "205.840", 
    "id": "s000040", 
    "language": "deu", 
    "lines": [
@@ -401,9 +401,9 @@
    ]
   }, 
   {
-   "begin": "170.440", 
+   "begin": "205.840", 
    "children": [], 
-   "end": "173.760", 
+   "end": "214.760", 
    "id": "s000041", 
    "language": "deu", 
    "lines": [
@@ -411,9 +411,9 @@
    ]
   }, 
   {
-   "begin": "173.760", 
+   "begin": "214.760", 
    "children": [], 
-   "end": "179.720", 
+   "end": "225.000", 
    "id": "s000042", 
    "language": "deu", 
    "lines": [
@@ -421,403 +421,13 @@
    ]
   }, 
   {
-   "begin": "179.720", 
+   "begin": "225.000", 
    "children": [], 
-   "end": "181.080", 
+   "end": "231.960", 
    "id": "s000043", 
    "language": "deu", 
    "lines": [
     "Herzlichen Dank f\u00fcr Ihre Aufmerksamkeit."
-   ]
-  }, 
-  {
-   "begin": "181.080", 
-   "children": [], 
-   "end": "181.160", 
-   "id": "s000044", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "181.160", 
-   "children": [], 
-   "end": "181.240", 
-   "id": "s000045", 
-   "language": "deu", 
-   "lines": [
-    "Dr.\u00a0Nick.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "181.240", 
-   "children": [], 
-   "end": "181.920", 
-   "id": "s000046", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Debatte."
-   ]
-  }, 
-  {
-   "begin": "181.920", 
-   "children": [], 
-   "end": "191.160", 
-   "id": "s000047", 
-   "language": "deu", 
-   "lines": [
-    "Wir kommen zur Abstimmung \u00fcber die Beschlussempfehlung des Hauptausschusses zum Antrag der Bundesregierung zur Fortsetzung der Beteiligung bewaffneter deutscher Streitkr\u00e4fte an der Multidimensionalen Integrierten Stabilisierungsmission der Vereinten Nationen in Mali, "
-   ]
-  }, 
-  {
-   "begin": "191.160", 
-   "children": [], 
-   "end": "191.640", 
-   "id": "s000048", 
-   "language": "deu", 
-   "lines": [
-    "MINUSMA. "
-   ]
-  }, 
-  {
-   "begin": "191.640", 
-   "children": [], 
-   "end": "193.440", 
-   "id": "s000049", 
-   "language": "deu", 
-   "lines": [
-    "Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Drucksache\u00a019/177, "
-   ]
-  }, 
-  {
-   "begin": "193.440", 
-   "children": [], 
-   "end": "198.960", 
-   "id": "s000050", 
-   "language": "deu", 
-   "lines": [
-    "den Antrag der Bundesregierung auf Drucksache\u00a019/24 (neu) anzunehmen. "
-   ]
-  }, 
-  {
-   "begin": "198.960", 
-   "children": [], 
-   "end": "201.240", 
-   "id": "s000051", 
-   "language": "deu", 
-   "lines": [
-    "Auch hier\u00fcber stimmen wir namentlich ab. "
-   ]
-  }, 
-  {
-   "begin": "201.240", 
-   "children": [], 
-   "end": "202.440", 
-   "id": "s000052", 
-   "language": "deu", 
-   "lines": [
-    "Ich bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, "
-   ]
-  }, 
-  {
-   "begin": "202.440", 
-   "children": [], 
-   "end": "203.960", 
-   "id": "s000053", 
-   "language": "deu", 
-   "lines": [
-    "ihre Pl\u00e4tze einzunehmen und mir ein k\u00f6rpersprachliches Zeichen zu geben.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "203.960", 
-   "children": [], 
-   "end": "204.160", 
-   "id": "s000054", 
-   "language": "deu", 
-   "lines": [
-    "Jetzt gibt es eine kleine Strafzahlung: "
-   ]
-  }, 
-  {
-   "begin": "204.160", 
-   "children": [], 
-   "end": "205.240", 
-   "id": "s000055", 
-   "language": "deu", 
-   "lines": [
-    "Hinten fehlt zum vierten Mal jemand.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "205.240", 
-   "children": [], 
-   "end": "205.320", 
-   "id": "s000056", 
-   "language": "deu", 
-   "lines": [
-    "Ich glaube, "
-   ]
-  }, 
-  {
-   "begin": "205.320", 
-   "children": [], 
-   "end": "205.840", 
-   "id": "s000057", 
-   "language": "deu", 
-   "lines": [
-    "wir k\u00f6nnen jetzt beginnen. "
-   ]
-  }, 
-  {
-   "begin": "205.840", 
-   "children": [], 
-   "end": "207.000", 
-   "id": "s000058", 
-   "language": "deu", 
-   "lines": [
-    "Dann er\u00f6ffne ich die Abstimmung."
-   ]
-  }, 
-  {
-   "begin": "207.000", 
-   "children": [], 
-   "end": "207.840", 
-   "id": "s000059", 
-   "language": "deu", 
-   "lines": [
-    "Gibt es noch Kolleginnen und Kollegen, "
-   ]
-  }, 
-  {
-   "begin": "207.840", 
-   "children": [], 
-   "end": "209.000", 
-   "id": "s000060", 
-   "language": "deu", 
-   "lines": [
-    "die ihre Stimme noch nicht abgegeben haben?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "209.000", 
-   "children": [], 
-   "end": "210.320", 
-   "id": "s000061", 
-   "language": "deu", 
-   "lines": [
-    "Ich sehe keine rennenden Menschen mehr. "
-   ]
-  }, 
-  {
-   "begin": "210.320", 
-   "children": [], 
-   "end": "211.400", 
-   "id": "s000062", 
-   "language": "deu", 
-   "lines": [
-    "Dann schlie\u00dfe ich jetzt die Abstimmung."
-   ]
-  }, 
-  {
-   "begin": "211.400", 
-   "children": [], 
-   "end": "212.880", 
-   "id": "s000063", 
-   "language": "deu", 
-   "lines": [
-    "Ich darf die Kollegen und Kolleginnen bitten, "
-   ]
-  }, 
-  {
-   "begin": "212.880", 
-   "children": [], 
-   "end": "213.560", 
-   "id": "s000064", 
-   "language": "deu", 
-   "lines": [
-    "Platz zu nehmen, "
-   ]
-  }, 
-  {
-   "begin": "213.560", 
-   "children": [], 
-   "end": "214.720", 
-   "id": "s000065", 
-   "language": "deu", 
-   "lines": [
-    "weil wir noch in einem Abstimmungsvorgang sind. "
-   ]
-  }, 
-  {
-   "begin": "214.720", 
-   "children": [], 
-   "end": "215.800", 
-   "id": "s000066", 
-   "language": "deu", 
-   "lines": [
-    "Herr Hahn und andere: "
-   ]
-  }, 
-  {
-   "begin": "215.800", 
-   "children": [], 
-   "end": "216.160", 
-   "id": "s000067", 
-   "language": "deu", 
-   "lines": [
-    "Sch\u00f6n, "
-   ]
-  }, 
-  {
-   "begin": "216.160", 
-   "children": [], 
-   "end": "217.520", 
-   "id": "s000068", 
-   "language": "deu", 
-   "lines": [
-    "dass Sie sich gut unterhalten. "
-   ]
-  }, 
-  {
-   "begin": "217.520", 
-   "children": [], 
-   "end": "218.040", 
-   "id": "s000069", 
-   "language": "deu", 
-   "lines": [
-    "Ich bitte auch die Kollegen der AfD, "
-   ]
-  }, 
-  {
-   "begin": "218.040", 
-   "children": [], 
-   "end": "218.880", 
-   "id": "s000070", 
-   "language": "deu", 
-   "lines": [
-    "Platz zu nehmen, "
-   ]
-  }, 
-  {
-   "begin": "218.880", 
-   "children": [], 
-   "end": "220.280", 
-   "id": "s000071", 
-   "language": "deu", 
-   "lines": [
-    "weil wir noch eine Abstimmung haben.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "220.280", 
-   "children": [], 
-   "end": "220.360", 
-   "id": "s000072", 
-   "language": "deu", 
-   "lines": [
-    "Danke sch\u00f6n."
-   ]
-  }, 
-  {
-   "begin": "220.360", 
-   "children": [], 
-   "end": "224.560", 
-   "id": "s000073", 
-   "language": "deu", 
-   "lines": [
-    "Wir kommen zur Abstimmung \u00fcber den Entschlie\u00dfungsantrag der Fraktion Die Linke auf Drucksache\u00a019/225. "
-   ]
-  }, 
-  {
-   "begin": "224.560", 
-   "children": [], 
-   "end": "224.880", 
-   "id": "s000074", 
-   "language": "deu", 
-   "lines": [
-    "Wer stimmt f\u00fcr diesen Entschlie\u00dfungsantrag?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "224.880", 
-   "children": [], 
-   "end": "225.480", 
-   "id": "s000075", 
-   "language": "deu", 
-   "lines": [
-    "Wer stimmt dagegen?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "225.480", 
-   "children": [], 
-   "end": "226.280", 
-   "id": "s000076", 
-   "language": "deu", 
-   "lines": [
-    "Wer enth\u00e4lt sich?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "226.280", 
-   "children": [], 
-   "end": "228.240", 
-   "id": "s000077", 
-   "language": "deu", 
-   "lines": [
-    "Der Entschlie\u00dfungsantrag ist abgelehnt. "
-   ]
-  }, 
-  {
-   "begin": "228.240", 
-   "children": [], 
-   "end": "230.000", 
-   "id": "s000078", 
-   "language": "deu", 
-   "lines": [
-    "Zugestimmt hat Die Linke, "
-   ]
-  }, 
-  {
-   "begin": "230.000", 
-   "children": [], 
-   "end": "231.240", 
-   "id": "s000079", 
-   "language": "deu", 
-   "lines": [
-    "abgelehnt haben ihn die FDP, "
-   ]
-  }, 
-  {
-   "begin": "231.240", 
-   "children": [], 
-   "end": "231.241", 
-   "id": "s000080", 
-   "language": "deu", 
-   "lines": [
-    "die CDU/CSU, "
-   ]
-  }, 
-  {
-   "begin": "231.241", 
-   "children": [], 
-   "end": "231.280", 
-   "id": "s000081", 
-   "language": "deu", 
-   "lines": [
-    "B\u00fcndnis\u00a090/Die Gr\u00fcnen und die SPD, "
-   ]
-  }, 
-  {
-   "begin": "231.280", 
-   "children": [], 
-   "end": "231.960", 
-   "id": "s000082", 
-   "language": "deu", 
-   "lines": [
-    "enthalten hat sich die AfD."
    ]
   }
  ]

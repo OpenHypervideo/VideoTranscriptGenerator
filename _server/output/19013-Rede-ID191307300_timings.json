@@ -933,7 +933,7 @@
   {
    "begin": "247.800", 
    "children": [], 
-   "end": "250.320", 
+   "end": "250.880", 
    "id": "s000094", 
    "language": "deu", 
    "lines": [
@@ -941,9 +941,9 @@
    ]
   }, 
   {
-   "begin": "250.320", 
+   "begin": "250.880", 
    "children": [], 
-   "end": "251.080", 
+   "end": "253.800", 
    "id": "s000095", 
    "language": "deu", 
    "lines": [
@@ -951,9 +951,9 @@
    ]
   }, 
   {
-   "begin": "251.080", 
+   "begin": "253.800", 
    "children": [], 
-   "end": "252.800", 
+   "end": "255.200", 
    "id": "s000096", 
    "language": "deu", 
    "lines": [
@@ -961,9 +961,9 @@
    ]
   }, 
   {
-   "begin": "252.800", 
+   "begin": "255.200", 
    "children": [], 
-   "end": "254.800", 
+   "end": "257.200", 
    "id": "s000097", 
    "language": "deu", 
    "lines": [
@@ -971,9 +971,9 @@
    ]
   }, 
   {
-   "begin": "254.800", 
+   "begin": "257.200", 
    "children": [], 
-   "end": "255.560", 
+   "end": "258.240", 
    "id": "s000098", 
    "language": "deu", 
    "lines": [
@@ -981,9 +981,9 @@
    ]
   }, 
   {
-   "begin": "255.560", 
+   "begin": "258.240", 
    "children": [], 
-   "end": "256.480", 
+   "end": "259.760", 
    "id": "s000099", 
    "language": "deu", 
    "lines": [
@@ -991,9 +991,9 @@
    ]
   }, 
   {
-   "begin": "256.480", 
+   "begin": "259.760", 
    "children": [], 
-   "end": "257.160", 
+   "end": "260.600", 
    "id": "s000100", 
    "language": "deu", 
    "lines": [
@@ -1001,9 +1001,9 @@
    ]
   }, 
   {
-   "begin": "257.160", 
+   "begin": "260.600", 
    "children": [], 
-   "end": "259.200", 
+   "end": "262.440", 
    "id": "s000101", 
    "language": "deu", 
    "lines": [
@@ -1011,9 +1011,9 @@
    ]
   }, 
   {
-   "begin": "259.200", 
+   "begin": "262.440", 
    "children": [], 
-   "end": "260.840", 
+   "end": "266.280", 
    "id": "s000102", 
    "language": "deu", 
    "lines": [
@@ -1021,9 +1021,9 @@
    ]
   }, 
   {
-   "begin": "260.840", 
+   "begin": "266.280", 
    "children": [], 
-   "end": "262.040", 
+   "end": "268.880", 
    "id": "s000103", 
    "language": "deu", 
    "lines": [
@@ -1031,9 +1031,9 @@
    ]
   }, 
   {
-   "begin": "262.040", 
+   "begin": "268.880", 
    "children": [], 
-   "end": "262.480", 
+   "end": "269.680", 
    "id": "s000104", 
    "language": "deu", 
    "lines": [
@@ -1041,9 +1041,9 @@
    ]
   }, 
   {
-   "begin": "262.480", 
+   "begin": "269.680", 
    "children": [], 
-   "end": "265.760", 
+   "end": "272.520", 
    "id": "s000105", 
    "language": "deu", 
    "lines": [
@@ -1051,9 +1051,9 @@
    ]
   }, 
   {
-   "begin": "265.760", 
+   "begin": "272.520", 
    "children": [], 
-   "end": "267.760", 
+   "end": "275.800", 
    "id": "s000106", 
    "language": "deu", 
    "lines": [
@@ -1061,9 +1061,9 @@
    ]
   }, 
   {
-   "begin": "267.760", 
+   "begin": "275.800", 
    "children": [], 
-   "end": "269.320", 
+   "end": "277.920", 
    "id": "s000107", 
    "language": "deu", 
    "lines": [
@@ -1071,9 +1071,9 @@
    ]
   }, 
   {
-   "begin": "269.320", 
+   "begin": "277.920", 
    "children": [], 
-   "end": "273.120", 
+   "end": "284.480", 
    "id": "s000108", 
    "language": "deu", 
    "lines": [
@@ -1081,9 +1081,9 @@
    ]
   }, 
   {
-   "begin": "273.120", 
+   "begin": "284.480", 
    "children": [], 
-   "end": "273.960", 
+   "end": "285.200", 
    "id": "s000109", 
    "language": "deu", 
    "lines": [
@@ -1091,9 +1091,9 @@
    ]
   }, 
   {
-   "begin": "273.960", 
+   "begin": "285.200", 
    "children": [], 
-   "end": "276.960", 
+   "end": "288.360", 
    "id": "s000110", 
    "language": "deu", 
    "lines": [
@@ -1101,9 +1101,9 @@
    ]
   }, 
   {
-   "begin": "276.960", 
+   "begin": "288.360", 
    "children": [], 
-   "end": "278.840", 
+   "end": "289.320", 
    "id": "s000111", 
    "language": "deu", 
    "lines": [
@@ -1111,9 +1111,9 @@
    ]
   }, 
   {
-   "begin": "278.840", 
+   "begin": "289.320", 
    "children": [], 
-   "end": "280.880", 
+   "end": "290.800", 
    "id": "s000112", 
    "language": "deu", 
    "lines": [
@@ -1121,9 +1121,9 @@
    ]
   }, 
   {
-   "begin": "280.880", 
+   "begin": "290.800", 
    "children": [], 
-   "end": "281.120", 
+   "end": "291.160", 
    "id": "s000113", 
    "language": "deu", 
    "lines": [
@@ -1131,9 +1131,9 @@
    ]
   }, 
   {
-   "begin": "281.120", 
+   "begin": "291.160", 
    "children": [], 
-   "end": "281.440", 
+   "end": "292.320", 
    "id": "s000114", 
    "language": "deu", 
    "lines": [
@@ -1141,9 +1141,9 @@
    ]
   }, 
   {
-   "begin": "281.440", 
+   "begin": "292.320", 
    "children": [], 
-   "end": "283.560", 
+   "end": "295.000", 
    "id": "s000115", 
    "language": "deu", 
    "lines": [
@@ -1151,9 +1151,9 @@
    ]
   }, 
   {
-   "begin": "283.560", 
+   "begin": "295.000", 
    "children": [], 
-   "end": "285.200", 
+   "end": "297.560", 
    "id": "s000116", 
    "language": "deu", 
    "lines": [
@@ -1161,9 +1161,9 @@
    ]
   }, 
   {
-   "begin": "285.200", 
+   "begin": "297.560", 
    "children": [], 
-   "end": "288.680", 
+   "end": "302.280", 
    "id": "s000117", 
    "language": "deu", 
    "lines": [
@@ -1171,9 +1171,9 @@
    ]
   }, 
   {
-   "begin": "288.680", 
+   "begin": "302.280", 
    "children": [], 
-   "end": "289.320", 
+   "end": "302.960", 
    "id": "s000118", 
    "language": "deu", 
    "lines": [
@@ -1181,9 +1181,9 @@
    ]
   }, 
   {
-   "begin": "289.320", 
+   "begin": "302.960", 
    "children": [], 
-   "end": "292.720", 
+   "end": "309.160", 
    "id": "s000119", 
    "language": "deu", 
    "lines": [
@@ -1191,143 +1191,13 @@
    ]
   }, 
   {
-   "begin": "292.720", 
+   "begin": "309.160", 
    "children": [], 
-   "end": "293.440", 
+   "end": "312.000", 
    "id": "s000120", 
    "language": "deu", 
    "lines": [
     "Herzlichen Dank."
-   ]
-  }, 
-  {
-   "begin": "293.440", 
-   "children": [], 
-   "end": "294.200", 
-   "id": "s000121", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "294.200", 
-   "children": [], 
-   "end": "294.920", 
-   "id": "s000122", 
-   "language": "deu", 
-   "lines": [
-    "Kollege Amthor.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "294.920", 
-   "children": [], 
-   "end": "296.320", 
-   "id": "s000123", 
-   "language": "deu", 
-   "lines": [
-    "Damit ist die Aktuelle Stunde beendet."
-   ]
-  }, 
-  {
-   "begin": "296.320", 
-   "children": [], 
-   "end": "299.080", 
-   "id": "s000124", 
-   "language": "deu", 
-   "lines": [
-    "Wir sind am Schluss der heutigen Tagesordnung."
-   ]
-  }, 
-  {
-   "begin": "299.080", 
-   "children": [], 
-   "end": "302.160", 
-   "id": "s000125", 
-   "language": "deu", 
-   "lines": [
-    "Ich berufe die n\u00e4chste Sitzung des Deutschen Bundestages auf morgen, "
-   ]
-  }, 
-  {
-   "begin": "302.160", 
-   "children": [], 
-   "end": "302.640", 
-   "id": "s000126", 
-   "language": "deu", 
-   "lines": [
-    "Donnerstag, "
-   ]
-  }, 
-  {
-   "begin": "302.640", 
-   "children": [], 
-   "end": "304.720", 
-   "id": "s000127", 
-   "language": "deu", 
-   "lines": [
-    "den 22.\u00a0Februar 2018, "
-   ]
-  }, 
-  {
-   "begin": "304.720", 
-   "children": [], 
-   "end": "305.040", 
-   "id": "s000128", 
-   "language": "deu", 
-   "lines": [
-    "9\u00a0Uhr, "
-   ]
-  }, 
-  {
-   "begin": "305.040", 
-   "children": [], 
-   "end": "305.640", 
-   "id": "s000129", 
-   "language": "deu", 
-   "lines": [
-    "ein."
-   ]
-  }, 
-  {
-   "begin": "305.640", 
-   "children": [], 
-   "end": "306.520", 
-   "id": "s000130", 
-   "language": "deu", 
-   "lines": [
-    "Die Sitzung ist geschlossen. "
-   ]
-  }, 
-  {
-   "begin": "306.520", 
-   "children": [], 
-   "end": "308.280", 
-   "id": "s000131", 
-   "language": "deu", 
-   "lines": [
-    "Ich w\u00fcnsche Ihnen noch einen sch\u00f6nen Tag."
-   ]
-  }, 
-  {
-   "begin": "308.280", 
-   "children": [], 
-   "end": "308.840", 
-   "id": "s000132", 
-   "language": "deu", 
-   "lines": [
-    "(Schluss: "
-   ]
-  }, 
-  {
-   "begin": "308.840", 
-   "children": [], 
-   "end": "312.000", 
-   "id": "s000133", 
-   "language": "deu", 
-   "lines": [
-    "16.46\u00a0Uhr)"
    ]
   }
  ]

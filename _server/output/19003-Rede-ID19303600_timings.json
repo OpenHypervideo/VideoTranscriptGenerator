@@ -1393,7 +1393,7 @@
   {
    "begin": "353.760", 
    "children": [], 
-   "end": "357.160", 
+   "end": "358.600", 
    "id": "s000140", 
    "language": "deu", 
    "lines": [
@@ -1401,9 +1401,9 @@
    ]
   }, 
   {
-   "begin": "357.160", 
+   "begin": "358.600", 
    "children": [], 
-   "end": "359.160", 
+   "end": "363.800", 
    "id": "s000141", 
    "language": "deu", 
    "lines": [
@@ -1411,43 +1411,13 @@
    ]
   }, 
   {
-   "begin": "359.160", 
+   "begin": "363.800", 
    "children": [], 
-   "end": "360.120", 
+   "end": "366.960", 
    "id": "s000142", 
    "language": "deu", 
    "lines": [
     "Vielen Dank f\u00fcrs Zuh\u00f6ren."
-   ]
-  }, 
-  {
-   "begin": "360.120", 
-   "children": [], 
-   "end": "361.440", 
-   "id": "s000143", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "361.440", 
-   "children": [], 
-   "end": "362.960", 
-   "id": "s000144", 
-   "language": "deu", 
-   "lines": [
-    "Frau Kollegin Kolbe.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "362.960", 
-   "children": [], 
-   "end": "366.960", 
-   "id": "s000145", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe damit die Aussprache."
    ]
   }
  ]

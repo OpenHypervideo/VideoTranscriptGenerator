@@ -943,7 +943,7 @@
   {
    "begin": "268.520", 
    "children": [], 
-   "end": "269.760", 
+   "end": "273.920", 
    "id": "s000095", 
    "language": "deu", 
    "lines": [
@@ -951,63 +951,13 @@
    ]
   }, 
   {
-   "begin": "269.760", 
+   "begin": "273.920", 
    "children": [], 
-   "end": "271.560", 
+   "end": "279.960", 
    "id": "s000096", 
    "language": "deu", 
    "lines": [
     "Deshalb ist die \u00dcberweisung in den Ausschuss ganz richtig."
-   ]
-  }, 
-  {
-   "begin": "271.560", 
-   "children": [], 
-   "end": "272.240", 
-   "id": "s000097", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "272.240", 
-   "children": [], 
-   "end": "278.600", 
-   "id": "s000098", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlagen auf den Drucksachen\u00a019/15 und 19/836 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "278.600", 
-   "children": [], 
-   "end": "279.120", 
-   "id": "s000099", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "279.120", 
-   "children": [], 
-   "end": "279.480", 
-   "id": "s000100", 
-   "language": "deu", 
-   "lines": [
-    "Das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "279.480", 
-   "children": [], 
-   "end": "279.960", 
-   "id": "s000101", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung beschlossen."
    ]
   }
  ]

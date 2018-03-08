@@ -973,7 +973,7 @@
   {
    "begin": "211.120", 
    "children": [], 
-   "end": "212.040", 
+   "end": "212.320", 
    "id": "s000098", 
    "language": "deu", 
    "lines": [
@@ -981,9 +981,9 @@
    ]
   }, 
   {
-   "begin": "212.040", 
+   "begin": "212.320", 
    "children": [], 
-   "end": "216.200", 
+   "end": "218.560", 
    "id": "s000099", 
    "language": "deu", 
    "lines": [
@@ -991,9 +991,9 @@
    ]
   }, 
   {
-   "begin": "216.200", 
+   "begin": "218.560", 
    "children": [], 
-   "end": "218.920", 
+   "end": "224.160", 
    "id": "s000100", 
    "language": "deu", 
    "lines": [
@@ -1001,9 +1001,9 @@
    ]
   }, 
   {
-   "begin": "218.920", 
+   "begin": "224.160", 
    "children": [], 
-   "end": "219.920", 
+   "end": "225.880", 
    "id": "s000101", 
    "language": "deu", 
    "lines": [
@@ -1011,9 +1011,9 @@
    ]
   }, 
   {
-   "begin": "219.920", 
+   "begin": "225.880", 
    "children": [], 
-   "end": "221.720", 
+   "end": "230.600", 
    "id": "s000102", 
    "language": "deu", 
    "lines": [
@@ -1021,9 +1021,9 @@
    ]
   }, 
   {
-   "begin": "221.720", 
+   "begin": "230.600", 
    "children": [], 
-   "end": "224.120", 
+   "end": "234.400", 
    "id": "s000103", 
    "language": "deu", 
    "lines": [
@@ -1031,9 +1031,9 @@
    ]
   }, 
   {
-   "begin": "224.120", 
+   "begin": "234.400", 
    "children": [], 
-   "end": "225.160", 
+   "end": "236.520", 
    "id": "s000104", 
    "language": "deu", 
    "lines": [
@@ -1041,9 +1041,9 @@
    ]
   }, 
   {
-   "begin": "225.160", 
+   "begin": "236.520", 
    "children": [], 
-   "end": "226.400", 
+   "end": "239.000", 
    "id": "s000105", 
    "language": "deu", 
    "lines": [
@@ -1051,9 +1051,9 @@
    ]
   }, 
   {
-   "begin": "226.400", 
+   "begin": "239.000", 
    "children": [], 
-   "end": "228.320", 
+   "end": "240.840", 
    "id": "s000106", 
    "language": "deu", 
    "lines": [
@@ -1061,9 +1061,9 @@
    ]
   }, 
   {
-   "begin": "228.320", 
+   "begin": "240.840", 
    "children": [], 
-   "end": "229.240", 
+   "end": "242.680", 
    "id": "s000107", 
    "language": "deu", 
    "lines": [
@@ -1071,9 +1071,9 @@
    ]
   }, 
   {
-   "begin": "229.240", 
+   "begin": "242.680", 
    "children": [], 
-   "end": "230.440", 
+   "end": "246.120", 
    "id": "s000108", 
    "language": "deu", 
    "lines": [
@@ -1081,9 +1081,9 @@
    ]
   }, 
   {
-   "begin": "230.440", 
+   "begin": "246.120", 
    "children": [], 
-   "end": "231.360", 
+   "end": "256.200", 
    "id": "s000109", 
    "language": "deu", 
    "lines": [
@@ -1091,9 +1091,9 @@
    ]
   }, 
   {
-   "begin": "231.360", 
+   "begin": "256.200", 
    "children": [], 
-   "end": "232.920", 
+   "end": "257.280", 
    "id": "s000110", 
    "language": "deu", 
    "lines": [
@@ -1101,143 +1101,13 @@
    ]
   }, 
   {
-   "begin": "232.920", 
+   "begin": "257.280", 
    "children": [], 
-   "end": "233.240", 
+   "end": "259.000", 
    "id": "s000111", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "233.240", 
-   "children": [], 
-   "end": "233.800", 
-   "id": "s000112", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "233.800", 
-   "children": [], 
-   "end": "238.880", 
-   "id": "s000113", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird die \u00dcberweisung der Vorlage auf Drucksache\u00a019/508 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "238.880", 
-   "children": [], 
-   "end": "239.640", 
-   "id": "s000114", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "239.640", 
-   "children": [], 
-   "end": "240.320", 
-   "id": "s000115", 
-   "language": "deu", 
-   "lines": [
-    "Das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "240.320", 
-   "children": [], 
-   "end": "241.800", 
-   "id": "s000116", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
-   ]
-  }, 
-  {
-   "begin": "241.800", 
-   "children": [], 
-   "end": "242.560", 
-   "id": "s000117", 
-   "language": "deu", 
-   "lines": [
-    "Liebe Kolleginnen und Kollegen, "
-   ]
-  }, 
-  {
-   "begin": "242.560", 
-   "children": [], 
-   "end": "244.600", 
-   "id": "s000118", 
-   "language": "deu", 
-   "lines": [
-    "wir sind damit am Schluss unserer heutigen Tagesordnung."
-   ]
-  }, 
-  {
-   "begin": "244.600", 
-   "children": [], 
-   "end": "247.160", 
-   "id": "s000119", 
-   "language": "deu", 
-   "lines": [
-    "Ich berufe die n\u00e4chste Sitzung des Deutschen Bundestages auf morgen, "
-   ]
-  }, 
-  {
-   "begin": "247.160", 
-   "children": [], 
-   "end": "256.440", 
-   "id": "s000120", 
-   "language": "deu", 
-   "lines": [
-    "Freitag, "
-   ]
-  }, 
-  {
-   "begin": "256.440", 
-   "children": [], 
-   "end": "258.600", 
-   "id": "s000121", 
-   "language": "deu", 
-   "lines": [
-    "den 2.\u00a0M\u00e4rz 2018, "
-   ]
-  }, 
-  {
-   "begin": "258.600", 
-   "children": [], 
-   "end": "258.601", 
-   "id": "s000122", 
-   "language": "deu", 
-   "lines": [
-    "9\u00a0Uhr, "
-   ]
-  }, 
-  {
-   "begin": "258.601", 
-   "children": [], 
-   "end": "258.720", 
-   "id": "s000123", 
-   "language": "deu", 
-   "lines": [
-    "ein."
-   ]
-  }, 
-  {
-   "begin": "258.720", 
-   "children": [], 
-   "end": "259.000", 
-   "id": "s000124", 
-   "language": "deu", 
-   "lines": [
-    "Die Sitzung ist geschlossen."
    ]
   }
  ]

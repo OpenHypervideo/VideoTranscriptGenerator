@@ -593,7 +593,7 @@
   {
    "begin": "177.800", 
    "children": [], 
-   "end": "178.960", 
+   "end": "180.120", 
    "id": "s000060", 
    "language": "deu", 
    "lines": [
@@ -601,9 +601,9 @@
    ]
   }, 
   {
-   "begin": "178.960", 
+   "begin": "180.120", 
    "children": [], 
-   "end": "180.040", 
+   "end": "181.240", 
    "id": "s000061", 
    "language": "deu", 
    "lines": [
@@ -611,9 +611,9 @@
    ]
   }, 
   {
-   "begin": "180.040", 
+   "begin": "181.240", 
    "children": [], 
-   "end": "181.040", 
+   "end": "181.960", 
    "id": "s000062", 
    "language": "deu", 
    "lines": [
@@ -621,9 +621,9 @@
    ]
   }, 
   {
-   "begin": "181.040", 
+   "begin": "181.960", 
    "children": [], 
-   "end": "181.760", 
+   "end": "183.560", 
    "id": "s000063", 
    "language": "deu", 
    "lines": [
@@ -631,9 +631,9 @@
    ]
   }, 
   {
-   "begin": "181.760", 
+   "begin": "183.560", 
    "children": [], 
-   "end": "184.200", 
+   "end": "188.120", 
    "id": "s000064", 
    "language": "deu", 
    "lines": [
@@ -641,9 +641,9 @@
    ]
   }, 
   {
-   "begin": "184.200", 
+   "begin": "188.120", 
    "children": [], 
-   "end": "185.360", 
+   "end": "190.600", 
    "id": "s000065", 
    "language": "deu", 
    "lines": [
@@ -651,9 +651,9 @@
    ]
   }, 
   {
-   "begin": "185.360", 
+   "begin": "190.600", 
    "children": [], 
-   "end": "186.240", 
+   "end": "195.720", 
    "id": "s000066", 
    "language": "deu", 
    "lines": [
@@ -661,9 +661,9 @@
    ]
   }, 
   {
-   "begin": "186.240", 
+   "begin": "195.720", 
    "children": [], 
-   "end": "187.000", 
+   "end": "197.040", 
    "id": "s000067", 
    "language": "deu", 
    "lines": [
@@ -671,9 +671,9 @@
    ]
   }, 
   {
-   "begin": "187.000", 
+   "begin": "197.040", 
    "children": [], 
-   "end": "188.080", 
+   "end": "199.040", 
    "id": "s000068", 
    "language": "deu", 
    "lines": [
@@ -681,9 +681,9 @@
    ]
   }, 
   {
-   "begin": "188.080", 
+   "begin": "199.040", 
    "children": [], 
-   "end": "188.320", 
+   "end": "199.680", 
    "id": "s000069", 
    "language": "deu", 
    "lines": [
@@ -691,9 +691,9 @@
    ]
   }, 
   {
-   "begin": "188.320", 
+   "begin": "199.680", 
    "children": [], 
-   "end": "189.600", 
+   "end": "203.240", 
    "id": "s000070", 
    "language": "deu", 
    "lines": [
@@ -701,9 +701,9 @@
    ]
   }, 
   {
-   "begin": "189.600", 
+   "begin": "203.240", 
    "children": [], 
-   "end": "191.520", 
+   "end": "208.760", 
    "id": "s000071", 
    "language": "deu", 
    "lines": [
@@ -711,9 +711,9 @@
    ]
   }, 
   {
-   "begin": "191.520", 
+   "begin": "208.760", 
    "children": [], 
-   "end": "191.760", 
+   "end": "209.200", 
    "id": "s000072", 
    "language": "deu", 
    "lines": [
@@ -721,153 +721,13 @@
    ]
   }, 
   {
-   "begin": "191.760", 
+   "begin": "209.200", 
    "children": [], 
-   "end": "191.800", 
+   "end": "210.000", 
    "id": "s000073", 
    "language": "deu", 
    "lines": [
     "Gl\u00fcck auf!"
-   ]
-  }, 
-  {
-   "begin": "191.800", 
-   "children": [], 
-   "end": "192.240", 
-   "id": "s000074", 
-   "language": "deu", 
-   "lines": [
-    "Herzlichen Dank, "
-   ]
-  }, 
-  {
-   "begin": "192.240", 
-   "children": [], 
-   "end": "193.240", 
-   "id": "s000075", 
-   "language": "deu", 
-   "lines": [
-    "Herr Kollege T\u00f6ns.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "193.240", 
-   "children": [], 
-   "end": "196.160", 
-   "id": "s000076", 
-   "language": "deu", 
-   "lines": [
-    "Ich sehe einige Belustigungen \u00fcber die Erscheinungsform des Pr\u00e4sidiums: "
-   ]
-  }, 
-  {
-   "begin": "196.160", 
-   "children": [], 
-   "end": "196.680", 
-   "id": "s000077", 
-   "language": "deu", 
-   "lines": [
-    "F\u00fcr den Sonnenschein, "
-   ]
-  }, 
-  {
-   "begin": "196.680", 
-   "children": [], 
-   "end": "197.640", 
-   "id": "s000078", 
-   "language": "deu", 
-   "lines": [
-    "der uns hier gerade bestrahlt, "
-   ]
-  }, 
-  {
-   "begin": "197.640", 
-   "children": [], 
-   "end": "197.840", 
-   "id": "s000079", 
-   "language": "deu", 
-   "lines": [
-    "sind wir nicht zust\u00e4ndig\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "197.840", 
-   "children": [], 
-   "end": "197.880", 
-   "id": "s000080", 
-   "language": "deu", 
-   "lines": [
-    "noch nicht."
-   ]
-  }, 
-  {
-   "begin": "197.880", 
-   "children": [], 
-   "end": "199.040", 
-   "id": "s000081", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "199.040", 
-   "children": [], 
-   "end": "199.520", 
-   "id": "s000082", 
-   "language": "deu", 
-   "lines": [
-    "Liebe Kolleginnen und Kollegen, "
-   ]
-  }, 
-  {
-   "begin": "199.520", 
-   "children": [], 
-   "end": "205.680", 
-   "id": "s000083", 
-   "language": "deu", 
-   "lines": [
-    "interfraktionell wird \u00dcberweisung der Vorlage auf den Drucksachen\u00a019/958 und 19/97 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "205.680", 
-   "children": [], 
-   "end": "207.600", 
-   "id": "s000084", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "207.600", 
-   "children": [], 
-   "end": "207.840", 
-   "id": "s000085", 
-   "language": "deu", 
-   "lines": [
-    "Ich sehe, "
-   ]
-  }, 
-  {
-   "begin": "207.840", 
-   "children": [], 
-   "end": "208.760", 
-   "id": "s000086", 
-   "language": "deu", 
-   "lines": [
-    "das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "208.760", 
-   "children": [], 
-   "end": "210.000", 
-   "id": "s000087", 
-   "language": "deu", 
-   "lines": [
-    "Dann sind die \u00dcberweisungen so beschlossen."
    ]
   }
  ]

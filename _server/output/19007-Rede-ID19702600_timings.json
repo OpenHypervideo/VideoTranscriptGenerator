@@ -963,7 +963,7 @@
   {
    "begin": "237.880", 
    "children": [], 
-   "end": "239.760", 
+   "end": "240.680", 
    "id": "s000097", 
    "language": "deu", 
    "lines": [
@@ -971,9 +971,9 @@
    ]
   }, 
   {
-   "begin": "239.760", 
+   "begin": "240.680", 
    "children": [], 
-   "end": "240.680", 
+   "end": "244.800", 
    "id": "s000098", 
    "language": "deu", 
    "lines": [
@@ -981,9 +981,9 @@
    ]
   }, 
   {
-   "begin": "240.680", 
+   "begin": "244.800", 
    "children": [], 
-   "end": "241.280", 
+   "end": "245.520", 
    "id": "s000099", 
    "language": "deu", 
    "lines": [
@@ -991,9 +991,9 @@
    ]
   }, 
   {
-   "begin": "241.280", 
+   "begin": "245.520", 
    "children": [], 
-   "end": "242.040", 
+   "end": "246.400", 
    "id": "s000100", 
    "language": "deu", 
    "lines": [
@@ -1001,9 +1001,9 @@
    ]
   }, 
   {
-   "begin": "242.040", 
+   "begin": "246.400", 
    "children": [], 
-   "end": "243.840", 
+   "end": "248.720", 
    "id": "s000101", 
    "language": "deu", 
    "lines": [
@@ -1011,9 +1011,9 @@
    ]
   }, 
   {
-   "begin": "243.840", 
+   "begin": "248.720", 
    "children": [], 
-   "end": "247.000", 
+   "end": "253.200", 
    "id": "s000102", 
    "language": "deu", 
    "lines": [
@@ -1021,9 +1021,9 @@
    ]
   }, 
   {
-   "begin": "247.000", 
+   "begin": "253.200", 
    "children": [], 
-   "end": "248.320", 
+   "end": "256.400", 
    "id": "s000103", 
    "language": "deu", 
    "lines": [
@@ -1031,9 +1031,9 @@
    ]
   }, 
   {
-   "begin": "248.320", 
+   "begin": "256.400", 
    "children": [], 
-   "end": "249.520", 
+   "end": "257.760", 
    "id": "s000104", 
    "language": "deu", 
    "lines": [
@@ -1041,9 +1041,9 @@
    ]
   }, 
   {
-   "begin": "249.520", 
+   "begin": "257.760", 
    "children": [], 
-   "end": "250.520", 
+   "end": "259.480", 
    "id": "s000105", 
    "language": "deu", 
    "lines": [
@@ -1051,9 +1051,9 @@
    ]
   }, 
   {
-   "begin": "250.520", 
+   "begin": "259.480", 
    "children": [], 
-   "end": "251.440", 
+   "end": "265.080", 
    "id": "s000106", 
    "language": "deu", 
    "lines": [
@@ -1061,113 +1061,13 @@
    ]
   }, 
   {
-   "begin": "251.440", 
+   "begin": "265.080", 
    "children": [], 
-   "end": "251.441", 
+   "end": "265.960", 
    "id": "s000107", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "251.441", 
-   "children": [], 
-   "end": "252.320", 
-   "id": "s000108", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "252.320", 
-   "children": [], 
-   "end": "253.480", 
-   "id": "s000109", 
-   "language": "deu", 
-   "lines": [
-    "Dr.\u00a0Castellucci.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "253.480", 
-   "children": [], 
-   "end": "254.360", 
-   "id": "s000110", 
-   "language": "deu", 
-   "lines": [
-    "Einen sch\u00f6nen Nachmittag, "
-   ]
-  }, 
-  {
-   "begin": "254.360", 
-   "children": [], 
-   "end": "256.040", 
-   "id": "s000111", 
-   "language": "deu", 
-   "lines": [
-    "liebe Kolleginnen und Kollegen!"
-   ]
-  }, 
-  {
-   "begin": "256.040", 
-   "children": [], 
-   "end": "256.680", 
-   "id": "s000112", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe diese Aussprache."
-   ]
-  }, 
-  {
-   "begin": "256.680", 
-   "children": [], 
-   "end": "263.000", 
-   "id": "s000113", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird die \u00dcberweisung des Gesetzentwurfes auf Drucksache\u00a019/182 an den Innenausschuss vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "263.000", 
-   "children": [], 
-   "end": "264.480", 
-   "id": "s000114", 
-   "language": "deu", 
-   "lines": [
-    "Gibt es andere Vorschl\u00e4ge?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "264.480", 
-   "children": [], 
-   "end": "264.520", 
-   "id": "s000115", 
-   "language": "deu", 
-   "lines": [
-    "Nein, "
-   ]
-  }, 
-  {
-   "begin": "264.520", 
-   "children": [], 
-   "end": "265.000", 
-   "id": "s000116", 
-   "language": "deu", 
-   "lines": [
-    "die gibt es nicht. "
-   ]
-  }, 
-  {
-   "begin": "265.000", 
-   "children": [], 
-   "end": "265.960", 
-   "id": "s000117", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

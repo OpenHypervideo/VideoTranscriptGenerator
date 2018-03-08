@@ -1123,7 +1123,7 @@
   {
    "begin": "264.080", 
    "children": [], 
-   "end": "267.280", 
+   "end": "268.280", 
    "id": "s000113", 
    "language": "deu", 
    "lines": [
@@ -1131,9 +1131,9 @@
    ]
   }, 
   {
-   "begin": "267.280", 
+   "begin": "268.280", 
    "children": [], 
-   "end": "267.800", 
+   "end": "270.040", 
    "id": "s000114", 
    "language": "deu", 
    "lines": [
@@ -1141,9 +1141,9 @@
    ]
   }, 
   {
-   "begin": "267.800", 
+   "begin": "270.040", 
    "children": [], 
-   "end": "268.080", 
+   "end": "271.640", 
    "id": "s000115", 
    "language": "deu", 
    "lines": [
@@ -1151,9 +1151,9 @@
    ]
   }, 
   {
-   "begin": "268.080", 
+   "begin": "271.640", 
    "children": [], 
-   "end": "269.080", 
+   "end": "277.640", 
    "id": "s000116", 
    "language": "deu", 
    "lines": [
@@ -1161,73 +1161,13 @@
    ]
   }, 
   {
-   "begin": "269.080", 
+   "begin": "277.640", 
    "children": [], 
-   "end": "269.760", 
+   "end": "279.000", 
    "id": "s000117", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "269.760", 
-   "children": [], 
-   "end": "270.120", 
-   "id": "s000118", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "270.120", 
-   "children": [], 
-   "end": "270.960", 
-   "id": "s000119", 
-   "language": "deu", 
-   "lines": [
-    "Frau Kollegin Schimke.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "270.960", 
-   "children": [], 
-   "end": "271.560", 
-   "id": "s000120", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "271.560", 
-   "children": [], 
-   "end": "276.440", 
-   "id": "s000121", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/96 an den Hauptausschuss vorgeschlagen.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "276.440", 
-   "children": [], 
-   "end": "278.200", 
-   "id": "s000122", 
-   "language": "deu", 
-   "lines": [
-    "Sie sind damit einverstanden. "
-   ]
-  }, 
-  {
-   "begin": "278.200", 
-   "children": [], 
-   "end": "279.000", 
-   "id": "s000123", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

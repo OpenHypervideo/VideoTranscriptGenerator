@@ -1233,7 +1233,7 @@
   {
    "begin": "329.000", 
    "children": [], 
-   "end": "332.720", 
+   "end": "335.240", 
    "id": "s000124", 
    "language": "deu", 
    "lines": [
@@ -1241,9 +1241,9 @@
    ]
   }, 
   {
-   "begin": "332.720", 
+   "begin": "335.240", 
    "children": [], 
-   "end": "335.280", 
+   "end": "343.080", 
    "id": "s000125", 
    "language": "deu", 
    "lines": [
@@ -1251,33 +1251,13 @@
    ]
   }, 
   {
-   "begin": "335.280", 
+   "begin": "343.080", 
    "children": [], 
-   "end": "335.920", 
+   "end": "345.000", 
    "id": "s000126", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "335.920", 
-   "children": [], 
-   "end": "337.120", 
-   "id": "s000127", 
-   "language": "deu", 
-   "lines": [
-    "Danke sehr.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "337.120", 
-   "children": [], 
-   "end": "345.000", 
-   "id": "s000128", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
    ]
   }
  ]

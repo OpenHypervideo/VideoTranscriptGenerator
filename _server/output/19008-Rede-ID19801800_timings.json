@@ -963,7 +963,7 @@
   {
    "begin": "224.600", 
    "children": [], 
-   "end": "226.280", 
+   "end": "227.080", 
    "id": "s000097", 
    "language": "deu", 
    "lines": [
@@ -971,9 +971,9 @@
    ]
   }, 
   {
-   "begin": "226.280", 
+   "begin": "227.080", 
    "children": [], 
-   "end": "227.960", 
+   "end": "231.240", 
    "id": "s000098", 
    "language": "deu", 
    "lines": [
@@ -981,9 +981,9 @@
    ]
   }, 
   {
-   "begin": "227.960", 
+   "begin": "231.240", 
    "children": [], 
-   "end": "229.880", 
+   "end": "233.240", 
    "id": "s000099", 
    "language": "deu", 
    "lines": [
@@ -991,9 +991,9 @@
    ]
   }, 
   {
-   "begin": "229.880", 
+   "begin": "233.240", 
    "children": [], 
-   "end": "230.360", 
+   "end": "233.960", 
    "id": "s000100", 
    "language": "deu", 
    "lines": [
@@ -1001,9 +1001,9 @@
    ]
   }, 
   {
-   "begin": "230.360", 
+   "begin": "233.960", 
    "children": [], 
-   "end": "231.600", 
+   "end": "235.320", 
    "id": "s000101", 
    "language": "deu", 
    "lines": [
@@ -1011,9 +1011,9 @@
    ]
   }, 
   {
-   "begin": "231.600", 
+   "begin": "235.320", 
    "children": [], 
-   "end": "235.680", 
+   "end": "241.600", 
    "id": "s000102", 
    "language": "deu", 
    "lines": [
@@ -1021,9 +1021,9 @@
    ]
   }, 
   {
-   "begin": "235.680", 
+   "begin": "241.600", 
    "children": [], 
-   "end": "238.640", 
+   "end": "250.760", 
    "id": "s000103", 
    "language": "deu", 
    "lines": [
@@ -1031,9 +1031,9 @@
    ]
   }, 
   {
-   "begin": "238.640", 
+   "begin": "250.760", 
    "children": [], 
-   "end": "241.960", 
+   "end": "256.000", 
    "id": "s000104", 
    "language": "deu", 
    "lines": [
@@ -1041,83 +1041,13 @@
    ]
   }, 
   {
-   "begin": "241.960", 
+   "begin": "256.000", 
    "children": [], 
-   "end": "243.280", 
+   "end": "257.000", 
    "id": "s000105", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "243.280", 
-   "children": [], 
-   "end": "244.640", 
-   "id": "s000106", 
-   "language": "deu", 
-   "lines": [
-    "Damit schlie\u00dfe ich die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "244.640", 
-   "children": [], 
-   "end": "249.840", 
-   "id": "s000107", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird die \u00dcberweisung der Vorlage auf Drucksache\u00a019/471 an den Ausschuss f\u00fcr Familie, "
-   ]
-  }, 
-  {
-   "begin": "249.840", 
-   "children": [], 
-   "end": "250.280", 
-   "id": "s000108", 
-   "language": "deu", 
-   "lines": [
-    "Senioren, "
-   ]
-  }, 
-  {
-   "begin": "250.280", 
-   "children": [], 
-   "end": "252.120", 
-   "id": "s000109", 
-   "language": "deu", 
-   "lines": [
-    "Frauen und Jugend vorgeschlagen. "
-   ]
-  }, 
-  {
-   "begin": "252.120", 
-   "children": [], 
-   "end": "253.520", 
-   "id": "s000110", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "253.520", 
-   "children": [], 
-   "end": "254.920", 
-   "id": "s000111", 
-   "language": "deu", 
-   "lines": [
-    "Das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "254.920", 
-   "children": [], 
-   "end": "257.000", 
-   "id": "s000112", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

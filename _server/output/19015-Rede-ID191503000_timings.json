@@ -683,7 +683,7 @@
   {
    "begin": "233.720", 
    "children": [], 
-   "end": "238.000", 
+   "end": "241.880", 
    "id": "s000069", 
    "language": "deu", 
    "lines": [
@@ -691,9 +691,9 @@
    ]
   }, 
   {
-   "begin": "238.000", 
+   "begin": "241.880", 
    "children": [], 
-   "end": "239.080", 
+   "end": "242.640", 
    "id": "s000070", 
    "language": "deu", 
    "lines": [
@@ -701,9 +701,9 @@
    ]
   }, 
   {
-   "begin": "239.080", 
+   "begin": "242.640", 
    "children": [], 
-   "end": "239.920", 
+   "end": "245.720", 
    "id": "s000071", 
    "language": "deu", 
    "lines": [
@@ -711,9 +711,9 @@
    ]
   }, 
   {
-   "begin": "239.920", 
+   "begin": "245.720", 
    "children": [], 
-   "end": "242.640", 
+   "end": "251.360", 
    "id": "s000072", 
    "language": "deu", 
    "lines": [
@@ -721,9 +721,9 @@
    ]
   }, 
   {
-   "begin": "242.640", 
+   "begin": "251.360", 
    "children": [], 
-   "end": "243.040", 
+   "end": "252.160", 
    "id": "s000073", 
    "language": "deu", 
    "lines": [
@@ -731,9 +731,9 @@
    ]
   }, 
   {
-   "begin": "243.040", 
+   "begin": "252.160", 
    "children": [], 
-   "end": "243.760", 
+   "end": "254.760", 
    "id": "s000074", 
    "language": "deu", 
    "lines": [
@@ -741,73 +741,13 @@
    ]
   }, 
   {
-   "begin": "243.760", 
+   "begin": "254.760", 
    "children": [], 
-   "end": "243.880", 
+   "end": "261.000", 
    "id": "s000075", 
    "language": "deu", 
    "lines": [
     "Vielen Dank."
-   ]
-  }, 
-  {
-   "begin": "243.880", 
-   "children": [], 
-   "end": "246.880", 
-   "id": "s000076", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe die Aussprache zu diesem Tagesordnungspunkt."
-   ]
-  }, 
-  {
-   "begin": "246.880", 
-   "children": [], 
-   "end": "253.760", 
-   "id": "s000077", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird die \u00dcberweisung der Vorlage auf der Drucksache\u00a019/822 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen, "
-   ]
-  }, 
-  {
-   "begin": "253.760", 
-   "children": [], 
-   "end": "259.280", 
-   "id": "s000078", 
-   "language": "deu", 
-   "lines": [
-    "wobei die Federf\u00fchrung beim Ausschuss f\u00fcr die Angelegenheiten der Europ\u00e4ischen Union liegen soll. "
-   ]
-  }, 
-  {
-   "begin": "259.280", 
-   "children": [], 
-   "end": "259.840", 
-   "id": "s000079", 
-   "language": "deu", 
-   "lines": [
-    "Sind Sie damit einverstanden?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "259.840", 
-   "children": [], 
-   "end": "260.160", 
-   "id": "s000080", 
-   "language": "deu", 
-   "lines": [
-    "Das ist der Fall. "
-   ]
-  }, 
-  {
-   "begin": "260.160", 
-   "children": [], 
-   "end": "261.000", 
-   "id": "s000081", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

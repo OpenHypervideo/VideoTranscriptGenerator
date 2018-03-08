@@ -1953,7 +1953,7 @@
   {
    "begin": "389.480", 
    "children": [], 
-   "end": "391.200", 
+   "end": "391.720", 
    "id": "s000196", 
    "language": "deu", 
    "lines": [
@@ -1961,9 +1961,9 @@
    ]
   }, 
   {
-   "begin": "391.200", 
+   "begin": "391.720", 
    "children": [], 
-   "end": "391.720", 
+   "end": "394.000", 
    "id": "s000197", 
    "language": "deu", 
    "lines": [
@@ -1971,9 +1971,9 @@
    ]
   }, 
   {
-   "begin": "391.720", 
+   "begin": "394.000", 
    "children": [], 
-   "end": "392.440", 
+   "end": "396.320", 
    "id": "s000198", 
    "language": "deu", 
    "lines": [
@@ -1981,9 +1981,9 @@
    ]
   }, 
   {
-   "begin": "392.440", 
+   "begin": "396.320", 
    "children": [], 
-   "end": "393.600", 
+   "end": "399.480", 
    "id": "s000199", 
    "language": "deu", 
    "lines": [
@@ -1991,9 +1991,9 @@
    ]
   }, 
   {
-   "begin": "393.600", 
+   "begin": "399.480", 
    "children": [], 
-   "end": "393.800", 
+   "end": "401.520", 
    "id": "s000200", 
    "language": "deu", 
    "lines": [
@@ -2001,9 +2001,9 @@
    ]
   }, 
   {
-   "begin": "393.800", 
+   "begin": "401.520", 
    "children": [], 
-   "end": "394.400", 
+   "end": "407.560", 
    "id": "s000201", 
    "language": "deu", 
    "lines": [
@@ -2011,163 +2011,13 @@
    ]
   }, 
   {
-   "begin": "394.400", 
+   "begin": "407.560", 
    "children": [], 
-   "end": "394.480", 
+   "end": "411.960", 
    "id": "s000202", 
    "language": "deu", 
    "lines": [
     "Herzlichen Dank."
-   ]
-  }, 
-  {
-   "begin": "394.480", 
-   "children": [], 
-   "end": "394.640", 
-   "id": "s000203", 
-   "language": "deu", 
-   "lines": [
-    "Vielen Dank, "
-   ]
-  }, 
-  {
-   "begin": "394.640", 
-   "children": [], 
-   "end": "395.000", 
-   "id": "s000204", 
-   "language": "deu", 
-   "lines": [
-    "Philipp Amthor.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "395.000", 
-   "children": [], 
-   "end": "395.840", 
-   "id": "s000205", 
-   "language": "deu", 
-   "lines": [
-    "In Bayern gibt es auch noch das Dirndl, "
-   ]
-  }, 
-  {
-   "begin": "395.840", 
-   "children": [], 
-   "end": "397.320", 
-   "id": "s000206", 
-   "language": "deu", 
-   "lines": [
-    "die Lederhos\u2019n und noch viel mehr. "
-   ]
-  }, 
-  {
-   "begin": "397.320", 
-   "children": [], 
-   "end": "397.840", 
-   "id": "s000207", 
-   "language": "deu", 
-   "lines": [
-    "Sie sind herzlich eingeladen, "
-   ]
-  }, 
-  {
-   "begin": "397.840", 
-   "children": [], 
-   "end": "398.560", 
-   "id": "s000208", 
-   "language": "deu", 
-   "lines": [
-    "einmal nach Bayern zu kommen."
-   ]
-  }, 
-  {
-   "begin": "398.560", 
-   "children": [], 
-   "end": "399.760", 
-   "id": "s000209", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe damit die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "399.760", 
-   "children": [], 
-   "end": "400.760", 
-   "id": "s000210", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage\u00a0\u2013\u00a0\u2013"
-   ]
-  }, 
-  {
-   "begin": "400.760", 
-   "children": [], 
-   "end": "401.120", 
-   "id": "s000211", 
-   "language": "deu", 
-   "lines": [
-    "\u2013\u00a0Wollen Sie nicht h\u00f6ren, "
-   ]
-  }, 
-  {
-   "begin": "401.120", 
-   "children": [], 
-   "end": "402.360", 
-   "id": "s000212", 
-   "language": "deu", 
-   "lines": [
-    "was damit passiert?\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "402.360", 
-   "children": [], 
-   "end": "402.361", 
-   "id": "s000213", 
-   "language": "deu", 
-   "lines": [
-    "Gut."
-   ]
-  }, 
-  {
-   "begin": "402.361", 
-   "children": [], 
-   "end": "407.840", 
-   "id": "s000214", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/829 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen, "
-   ]
-  }, 
-  {
-   "begin": "407.840", 
-   "children": [], 
-   "end": "408.680", 
-   "id": "s000215", 
-   "language": "deu", 
-   "lines": [
-    "wobei die Federf\u00fchrung beim Innenausschuss liegen soll.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "408.680", 
-   "children": [], 
-   "end": "410.040", 
-   "id": "s000216", 
-   "language": "deu", 
-   "lines": [
-    "Sie sind damit einverstanden. "
-   ]
-  }, 
-  {
-   "begin": "410.040", 
-   "children": [], 
-   "end": "411.960", 
-   "id": "s000217", 
-   "language": "deu", 
-   "lines": [
-    "Dann ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]

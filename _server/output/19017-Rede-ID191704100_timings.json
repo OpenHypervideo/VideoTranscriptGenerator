@@ -713,7 +713,7 @@
   {
    "begin": "253.080", 
    "children": [], 
-   "end": "263.760", 
+   "end": "265.000", 
    "id": "s000072", 
    "language": "deu", 
    "lines": [
@@ -721,9 +721,9 @@
    ]
   }, 
   {
-   "begin": "263.760", 
+   "begin": "265.000", 
    "children": [], 
-   "end": "265.400", 
+   "end": "266.640", 
    "id": "s000073", 
    "language": "deu", 
    "lines": [
@@ -731,9 +731,9 @@
    ]
   }, 
   {
-   "begin": "265.400", 
+   "begin": "266.640", 
    "children": [], 
-   "end": "266.280", 
+   "end": "268.360", 
    "id": "s000074", 
    "language": "deu", 
    "lines": [
@@ -741,9 +741,9 @@
    ]
   }, 
   {
-   "begin": "266.280", 
+   "begin": "268.360", 
    "children": [], 
-   "end": "266.640", 
+   "end": "269.440", 
    "id": "s000075", 
    "language": "deu", 
    "lines": [
@@ -751,9 +751,9 @@
    ]
   }, 
   {
-   "begin": "266.640", 
+   "begin": "269.440", 
    "children": [], 
-   "end": "267.440", 
+   "end": "271.000", 
    "id": "s000076", 
    "language": "deu", 
    "lines": [
@@ -761,9 +761,9 @@
    ]
   }, 
   {
-   "begin": "267.440", 
+   "begin": "271.000", 
    "children": [], 
-   "end": "268.400", 
+   "end": "272.920", 
    "id": "s000077", 
    "language": "deu", 
    "lines": [
@@ -771,73 +771,13 @@
    ]
   }, 
   {
-   "begin": "268.400", 
+   "begin": "272.920", 
    "children": [], 
-   "end": "269.600", 
+   "end": "277.960", 
    "id": "s000078", 
    "language": "deu", 
    "lines": [
     "und wir tun das mit den richtigen Ma\u00dfnahmen."
-   ]
-  }, 
-  {
-   "begin": "269.600", 
-   "children": [], 
-   "end": "271.040", 
-   "id": "s000079", 
-   "language": "deu", 
-   "lines": [
-    "Damit ist die Debatte beendet. "
-   ]
-  }, 
-  {
-   "begin": "271.040", 
-   "children": [], 
-   "end": "271.280", 
-   "id": "s000080", 
-   "language": "deu", 
-   "lines": [
-    "Ich schlie\u00dfe die Aussprache."
-   ]
-  }, 
-  {
-   "begin": "271.280", 
-   "children": [], 
-   "end": "274.760", 
-   "id": "s000081", 
-   "language": "deu", 
-   "lines": [
-    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/959 an die Aussch\u00fcsse vorgeschlagen, "
-   ]
-  }, 
-  {
-   "begin": "274.760", 
-   "children": [], 
-   "end": "275.240", 
-   "id": "s000082", 
-   "language": "deu", 
-   "lines": [
-    "die in der Tagesordnung aufgef\u00fchrt sind.\u00a0\u2013 "
-   ]
-  }, 
-  {
-   "begin": "275.240", 
-   "children": [], 
-   "end": "276.480", 
-   "id": "s000083", 
-   "language": "deu", 
-   "lines": [
-    "Da Sie damit einverstanden sind, "
-   ]
-  }, 
-  {
-   "begin": "276.480", 
-   "children": [], 
-   "end": "277.960", 
-   "id": "s000084", 
-   "language": "deu", 
-   "lines": [
-    "ist die \u00dcberweisung so beschlossen."
    ]
   }
  ]
