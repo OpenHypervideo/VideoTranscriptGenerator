@@ -60,7 +60,7 @@ The generated JSON, XML and HTML files are saved inside `_server/output/`.
 ### Known Issues
 
 - Functionality is currently limited to the 19th electoral period (previous periods are published in a different format)
-- Media IDs can only be scraped for single speeches. Agenda items (Tagesordnungspunkte) and entire meetings (Sitzungen) also exist as media files, but are currently not retrieved automatically. In order to get transcripts for single agenda items, look up the Media ID via the [Bundestag Mediathek](https://www.bundestag.de/mediathek) (-> Download -> MP3 -> first 7 digits of the filename) and manually add an attribute `media-id` to the XML node (example: `<tagesordnungspunkt top-id="Tagesordnungspunkt 1" media-id="1234567">`). We hope to automate this process in future developments.
 - The forced alignment algorithm needs some configuration tweaks to better deal with the first few sentences and non-speech periods.
+- Entire agenda items often include additional text, which is not reflected in the protocols. Agenda items are in some cases also discussed in conjunction with others ("in Verbindung mit"). The Media ID scraper can as of now not deal with these inconsistencies. This only affects entire agenda items though.
 - In the XML format, there is currently no differentiation between actual speeches (for which a media file exists) and other speaker contributions, for example during electoral proceedings (eg. "Wahl des Bundestagspräsidenten") or discussion formats (eg. "Befragung der Bundesregierung", "Fragestunde"). Thus, there is sometimes no or a wrong Media ID assigned to the `<rede>` nodes. Right now they are thus ignored and not processed.
 - Make sure the `_server/input/audio` and `_server/output` directories exist and are writable
