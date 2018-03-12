@@ -114,7 +114,7 @@ button.btn.btn-default:not([disabled]):hover {
 #xmlContents li[data-media-id] {
 	color: #555;
 	pointer-events: all;
-	list-style: circle;
+	list-style: inherit;
 }
 
 #fileList li:hover, #xmlContents li:hover, #xmlContents li ul:hover {

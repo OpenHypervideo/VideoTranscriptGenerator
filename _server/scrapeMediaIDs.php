@@ -20,6 +20,7 @@ if (!is_writable('input/xml/')) {
 
 // Loop through all xml files and get media IDs
 
+
 $fileIndex = array();
 $fileArray = array_values(array_diff(scandir('input/xml/'), array('.', '..', '.DS_Store', '_index.json')));
 
@@ -48,7 +49,8 @@ foreach ($fileArray as $fileName) {
 
 file_put_contents('input/xml/_index.json', json_encode($fileIndex));
 
-//getMediaIDs(dirname(__FILE__).'/input/xml/19018-data.xml');
+
+//getMediaIDs(dirname(__FILE__).'/input/xml/19002-data.xml');
 
 /**
  * @param $XMLFilePath
@@ -60,11 +62,81 @@ function getMediaIDs($XMLFilePath) {
 		
 		$xmlData = simplexml_load_file($XMLFilePath);
 
+		$wahlperiode = $xmlData->xpath('//kopfdaten//wahlperiode')[0];
+		$sitzungsnummer = $xmlData->xpath('//kopfdaten//sitzungsnr')[0];
+
 		$alleTOPs = $xmlData->xpath('//tagesordnungspunkt');
 
 		if (!empty($alleTOPs)) {
 			
 			foreach ($alleTOPs as $tagesordnungspunkt) {
+
+				$top = $tagesordnungspunkt['top-id'];
+
+				if (!isset($tagesordnungspunkt['media-id'])) {
+					
+					$topMediaID = getMediaIDfromMediathek($wahlperiode, $sitzungsnummer, $top);
+
+					// TODO: Counter-check multi-level TOPs ("in Verbindung mit")
+					/*
+					if (!$topMediaID) {
+						$blockTitelItems = $xmlData->xpath('//ivz-block//ivz-titel');
+						
+						foreach ($blockTitelItems as $blockTitelItem) {
+							
+							//echo (string) $blockTitelItem[0].':';
+							//echo (string) $top.'<br>';
+							if ((string) $blockTitelItem[0] == (string) $top) {
+
+								$correctTOP = $xrefItem->xpath('ancestor::ivz-block/ivz-block-titel');
+								$correctTOPString = str_replace(':', '', $correctTOP[0]);
+
+								if ($correctTOPString != (string) $top) {
+									echo 'Incorrent TOP ('.$top.'). Correct TOP: '.$correctTOPString.'<br>';
+
+									$topMediaID = getMediaIDfromMediathek($wahlperiode, $sitzungsnummer, $correctTOPString);
+								}
+								break;
+							}
+						}
+					}
+					*/
+
+					if (!$topMediaID) {
+						echo 'Error: Media ID not found.<br><br>';
+					}
+
+					if ($topMediaID && strlen($topMediaID) > 3) {
+								
+						$tagesordnungspunkt['media-id'] = $topMediaID;
+						
+						$tocBlockItems = $xmlData->xpath('//ivz-block');
+
+						foreach ($tocBlockItems as $tocBlockItem) {
+							
+							if (isset($tocBlockItem->{'ivz-block-titel'})) {
+
+								$cleanBlockTitel = (string) $tocBlockItem->{'ivz-block-titel'};
+								$cleanBlockTitel = rtrim($cleanBlockTitel, ':');
+								$cleanBlockTitel = preg_replace('/(Zusatztagesordnungspunkt)/', 'Zusatzpunkt', $cleanBlockTitel);
+
+								//echo $cleanBlockTitel.'<br>';
+								//echo (string) $top.'<br><br>';
+
+								if ($cleanBlockTitel == (string) $top) {
+									
+									$tocBlockItem['media-id'] = $topMediaID;
+
+									break;
+								}
+
+							}
+
+						}
+
+					}
+
+				}
 
 				$topString = (string) $tagesordnungspunkt->xpath('p[@klasse="T_NaS"]')[0];
 
@@ -91,9 +163,11 @@ function getMediaIDs($XMLFilePath) {
 
 						//print_r($rede->xpath('p//redner//vorname'));
 						
+						/*
 						$wahlperiode = $xmlData->xpath('//kopfdaten//wahlperiode')[0];
 						$sitzungsnummer = $xmlData->xpath('//kopfdaten//sitzungsnr')[0];
 						$top = $tagesordnungspunkt['top-id'];
+						*/
 						$vorname = $rede->xpath('p//redner//vorname')[0];
 						$nachname = $rede->xpath('p//redner//nachname')[0];
 						$titel = '';
@@ -221,27 +295,7 @@ function getMediaIDfromRSS($wahlperiode, $sitzungsnummer, $top, $vorname, $nachn
 	}
 	// Fix Ende
 
-	$topParts = explode(' ', $top);
-	$topType = $topParts[0];
-	$topID = $topParts[1];
-
-	if (preg_match('/-/', $topID)) {
-		$topIDArray = explode('-', $topID);
-		$topIDStart = (int) $topIDArray[0];
-		$topIDEnd = (int) $topIDArray[1];
-
-		$count = $topIDStart;
-		$topID = $topIDArray[0];
-		for($i=$topIDStart+1; $i<$topIDEnd; $i++) {
-			$topID .= ','.$i;
-		}
-	}
-
-	if ($topType == 'Zusatzpunkt') {
-		$searchString = 'TOP: ZP '.$topID;
-	} else {
-		$searchString = 'TOP: '.$topID;
-	}
+	$searchString = 'TOP: '.getTopShortID($top);
 
 	//echo 'Search for: '.$searchString.'<br>';
 
@@ -293,6 +347,81 @@ function getMediaIDfromRSS($wahlperiode, $sitzungsnummer, $top, $vorname, $nachn
 
 	return null;
 	
+}
+
+/**
+ * @param $wahlperiode
+ * @param $sitzungsnummer
+ * @param $top
+ * @return string
+ */
+function getMediaIDfromMediathek($wahlperiode, $sitzungsnummer, $top) {
+
+	sleep(1);
+
+	$top = getTopShortID($top);
+
+	$paramWahlperiode = ($wahlperiode ? '536678#'.$wahlperiode : '');
+	$paramSitzungsnummer = ($sitzungsnummer ? '536680#'.$sitzungsnummer : '');
+	$paramTOP = ($top ? '536682#"'.$top.'"' : '');
+
+	$mediathekURL = 'http://www.bundestag.de/ajax/filterlist/de/mediathek/-/536668/h_4c75e2c3fa5c32bcc9f292c5630b9c40?limit=24&mediaCategory='.urlencode('442350#Plenarsitzungen').'&noFilterSet=false&wahlperiode='.urlencode($paramWahlperiode).'&sitzung='.urlencode($paramSitzungsnummer).'&visibleAgendaItemNumber='.urlencode($paramTOP);
+
+	echo $mediathekURL.'<br>';
+
+	$mediathekResult = file_get_contents($mediathekURL);
+	
+	$dom = new DOMDocument('1.0', 'UTF-8');
+	
+	// set error level
+	$internalErrors = libxml_use_internal_errors(true);
+
+	$dom->loadHTML($mediathekResult);
+
+	// restore error level
+	libxml_use_internal_errors($internalErrors);
+
+	$xpath = new DOMXpath($dom);
+	$result = $xpath->query('//div[@class="bt-slide col-xs-4"]//a');
+	if ($result->length == 1) {
+		/*
+		echo '<pre>';
+		print_r($result->item(0)->getAttribute('data-videoid'));
+		echo '</pre>';
+		*/
+		return (string) $result->item(0)->getAttribute('data-videoid');
+	} else {
+		return null;
+	}
+	
+}
+
+/**
+ * @param $top
+ * @return string
+ */
+function getTopShortID($top) {
+	$topParts = explode(' ', $top);
+	$topType = $topParts[0];
+	$topID = $topParts[1];
+
+	if (preg_match('/-/', $topID)) {
+		$topIDArray = explode('-', $topID);
+		$topIDStart = (int) $topIDArray[0];
+		$topIDEnd = (int) $topIDArray[1];
+
+		$count = $topIDStart;
+		$topID = $topIDArray[0];
+		for($i=$topIDStart+1; $i<$topIDEnd; $i++) {
+			$topID .= ','.$i;
+		}
+	}
+
+	if ($topType == 'Zusatzpunkt') {
+		return 'ZP '.$topID;
+	} else {
+		return ''.$topID;
+	}
 }
 
 /*

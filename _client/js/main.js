@@ -25,6 +25,8 @@ $(document).ready( function() {
 		selectedXMLFile = $(this).attr('data-filename');
 		periodID = $(this).attr('data-period-id');
 		meetingID = $(this).attr('data-meeting-id');
+		xPath = null;
+		mediaID = null;
 		updateForceAlignButton();
 
 		getXMLTableOfContents($(this).attr('data-filename'));
@@ -119,7 +121,14 @@ function getXMLTableOfContents(xmlFilePath) {
 					
 					openingEnd = true;
 
-					inhaltList.append('<li data-type="'+ getItemCategory($(this)) +'">'+ getCleanTOP($(this).children('ivz-block-titel').html(), ($(this).children('xref').length != 0)) +'</li>');
+					var blockItem = $('<li data-type="'+ getItemCategory($(this)) +'">'+ getCleanTOP($(this).children('ivz-block-titel').html(), ($(this).children('xref').length != 0)) +'</li>');
+					
+					if ($(this).attr('media-id')) {
+						blockItem.attr('data-media-id', $(this).attr('media-id'));
+					}
+
+					inhaltList.append(blockItem);
+
 					var levelTwo = $('<ul></ul>');
 
 					$(this).children('ivz-eintrag').each(function() {
@@ -216,7 +225,7 @@ function getCleanTOP(TOPString, isSpeech) {
 }
 
 function updateForceAlignButton() {
-	if (selectedXMLFile) {
+	if (selectedXMLFile && xPath) {
 		$('#startProcessing').prop('disabled', false);
 	} else {
 		$('#startProcessing').prop('disabled', true);

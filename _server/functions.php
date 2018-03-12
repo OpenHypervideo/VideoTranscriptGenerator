@@ -3,6 +3,7 @@
 error_reporting(E_ALL ^ E_NOTICE ^ E_WARNING);
 
 set_time_limit(0);
+ini_set('memory_limit', '500M');
 date_default_timezone_set('CET');
 ob_implicit_flush(true);
 ob_end_flush();
@@ -101,7 +102,7 @@ function forceAlignXMLData($XMLFilePath, $xPathSelector) {
 				// Use xpath directly on $xmlData ($xPathElement still contains refs for all p nodes)
 				foreach ($xmlData->xpath($xPathSelector.'//p') as $paragraph) {
 
-					if ($paragraph['klasse'] == 'T_NaS' ||
+					if (//$paragraph['klasse'] == 'T_NaS' ||
 						$paragraph['klasse'] == 'T_fett' ||
 						$paragraph['klasse'] == 'J' ||
 						$paragraph['klasse'] == 'J_1' ||
