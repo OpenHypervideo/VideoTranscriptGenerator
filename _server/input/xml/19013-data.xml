@@ -12,7 +12,7 @@
     </kopfdaten>
     <inhaltsverzeichnis>
       <ivz-titel>Inhalt:</ivz-titel>
-      <ivz-block>
+      <ivz-block media-id="7202650">
         <ivz-block-titel>Tagesordnungspunkt 1:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Befragung der Bundesregierung: Verordnung zur Änderung der Schweinepest-Verordnung und der Verordnung über die Jagdzeiten </ivz-eintrag-inhalt>
@@ -387,7 +387,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7202672">
         <ivz-block-titel>Tagesordnungspunkt 2:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Fragestunde Drucksache 19/776 </ivz-eintrag-inhalt>
@@ -715,7 +715,7 @@
           <a href="S1039" typ="druckseitennummer"><seite>1039</seite> <seitenbereich>C</seitenbereich></a>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7202701">
         <ivz-block-titel>Zusatztagesordnungspunkt 1:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Aktuelle Stunde auf Verlangen der Fraktion der AfD: Demonstrationsrechte von Frauen stärken </ivz-eintrag-inhalt>
@@ -1626,7 +1626,7 @@
       <p klasse="J_1">Guten Tag, liebe Kolleginnen und Kollegen! Bitte nehmen Sie Platz. Die Sitzung ist eröffnet.</p>
       <p klasse="J">Ich rufe den Tagesordnungspunkt 1 auf:</p>
     </sitzungsbeginn>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 1">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 1" media-id="7202650">
       <p klasse="T_fett">Befr agung der Bundesregierung</p>
       <p klasse="J">Die Bundesregierung hat als Thema der heutigen Kabinettssitzung mitgeteilt: Verordnung zur Änderung der Schweinepest-Verordnung und der Verordnung über die Jagdzeiten.</p>
       <p klasse="J">Das Wort für den einleitenden fünfminütigen Bericht hat der Bundesminister für Ernährung und Landwirtschaft, Herr Christian Schmidt. – Bitte sehr, Herr Minister.</p>
@@ -2032,7 +2032,7 @@
       </rede>
       <p klasse="T">Ich beende die Befragung und rufe den Tagesordnung spunkt 2 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 2">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 2" media-id="7202672">
       <p klasse="T_fett">Fragestunde</p>
       <p klasse="T_Drs">Drucksache 19/776</p>
       <p klasse="J">Die mündlichen Fragen auf Drucksache 19/776 werden in der üblichen Reihenfolge aufgerufen.</p>
@@ -2536,7 +2536,7 @@
       <p klasse="J_1">Danke, Frau Staatsministerin. – Wir sind damit am Ende der Fragestunde. Die übrigen Fragen werden entsprechend unseren Regeln schriftlich beantwortet.</p>
       <p klasse="T">Ich rufe den Zusatzpunkt 1 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Zusatzpunkt 1">
+    <tagesordnungspunkt top-id="Zusatzpunkt 1" media-id="7202701">
       <p klasse="T_fett">Aktuelle Stunde<a id="S1040" name="S1040" typ="druckseitennummer"/></p>
       <p klasse="T_NaS">auf Verlangen der Fraktion der AfD</p>
       <p klasse="T_fett">Demonstrationsrechte von Frauen stärken</p>

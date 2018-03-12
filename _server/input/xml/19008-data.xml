@@ -115,14 +115,14 @@
           <a href="S640" typ="druckseitennummer"><seite>640</seite> <seitenbereich>A</seitenbereich></a>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7193010">
         <ivz-block-titel>Zusatztagesordnungspunkt 7:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Erste Beratung des von den Abgeordneten Ulla Jelpke, Dr. André Hahn, Gökay Akbulut, weiteren Abgeordneten und der Fraktion DIE LINKE eingebrachten Entwurfs eines Gesetzes zur Änderung des Aufenthaltsgesetzes – Familiennachzug zu subsidiär Schutzberechtigten Drucksache 19/241 </ivz-eintrag-inhalt>
           <a href="S641" typ="druckseitennummer"><seite>641</seite> <seitenbereich>A</seitenbereich></a>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7193011">
         <ivz-block-titel>Tagesordnungspunkt 19:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Antrag der Abgeordneten Roman Reusch, Dr. Gottfried Curio, Stephan Brandner, weiterer Abgeordneter und der Fraktion der AfD: Obligatorische Altersfeststellung unbegleiteter minderjähriger Flüchtlinge Drucksache 19/471 </ivz-eintrag-inhalt>
@@ -272,7 +272,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7193049">
         <ivz-block-titel>Tagesordnungspunkt 21:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Antrag der Abgeordneten Heike Hänsel, ­Michel Brandt, Christine Buchholz, weiterer Abgeordneter und der Fraktion DIE LINKE: Zwei-Prozent-Rüstungsziel der NATO ablehnen Drucksache 19/445 </ivz-eintrag-inhalt>
@@ -357,7 +357,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7193234">
         <ivz-block-titel>Tagesordnungspunkt 14:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>a) Antrag der Fraktion BÜNDNIS 90/DIE GRÜNEN: Sofortprogramm für mehr Personal in der Altenpflege  Drucksache 19/446</ivz-eintrag-inhalt>
@@ -479,7 +479,7 @@
       <p klasse="J">Es ist interfraktionell vereinbart worden, den Gesetzentwurf auf der Drucksache 19/182 – Entwurf eines Gesetzes zur Änderung des Aufenthaltsgesetzes – dem Hauptausschuss anstelle des Innenausschusses zu überweisen.</p>
       <p klasse="T">Jetzt rufe ich die Zusatzpunkte 4 bis 6 auf:</p>
     </sitzungsbeginn>
-    <tagesordnungspunkt top-id="Zusatzpunkt 4-7">
+    <tagesordnungspunkt top-id="Zusatzpunkt 4-7" media-id="7192991">
       <p klasse="T_ZP_NaS">ZP 4 Erste Beratung des von der Fraktion CDU/CSU eingebrachten Entwurfs eines Gesetzes zur Verlängerung der Aussetzung des Familiennachzugs zu subsidiär Schutzberechtigten</p>
       <p klasse="T_Drs">Drucksache 19/439</p>
       <p klasse="T_Ueberweisung">Überweisungsvorschlag:  Hauptausschuss (f)  Innenausschuss (f)   Federführung strittig</p>
@@ -823,7 +823,7 @@
       <p klasse="J">Dann lasse ich über die Überweisungsvorschläge der Fraktionen der CDU/CSU und der FDP abstimmen, also jeweils Überweisung an den Hauptausschuss. Wer stimmt für diese Überweisungsvorschläge? – Wer stimmt dagegen? – Wer enthält sich? – Damit sind die Überweisungsvorschläge mit den Stimmen von CDU/CSU, SPD, AfD und FDP gegen die Stimmen von Bündnis 90/Die Grünen und der Linken angenommen. Beide Vorlagen werden an den Hauptausschuss überwiesen.</p>
       <p klasse="J">Abweichend von der Tagesordnung soll die Vorlage auf Drucksache 19/454 ausschließlich an den Hauptausschuss überwiesen werden. Sind Sie damit einverstanden? – Das ist der Fall. Dann ist die Überweisung so beschlossen.</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Zusatzpunkt 7">
+    <tagesordnungspunkt top-id="Zusatzpunkt 7" media-id="7193010">
       <p klasse="J">Damit rufe ich Zusatzpunkt 7 auf:</p>
       <p klasse="T_NaS">Erste Beratung des von den Abgeordneten Ulla Jelpke, Dr. André Hahn, Gökay Akbulut, weiteren Abgeordneten und der Fraktion DIE LINKE eingebrachten Entwurfs eines Gesetzes zur Änderung des Aufenthaltsgesetzes – Familiennachzug zu subsidiär Schutzberechtigten</p>
       <p klasse="T_Drs">Drucksache 19/241</p>
@@ -831,7 +831,7 @@
       <p klasse="J">Eine Aussprache ist nicht vorgesehen. Wir kommen daher gleich zur Überweisung. Abweichend von der Tagesordnung soll die Vorlage auf Drucksache 19/241 ausschließlich an den Hauptausschuss überwiesen werden. Gibt es dazu andere Vorschläge? – Das ist nicht der Fall. Dann ist die Überweisung so beschlossen.</p>
       <p klasse="T">Damit rufe ich Tagesordnungspunkt 19 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 19">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 19" media-id="7193011">
       <p klasse="T_NaS">Beratung des Antrags der Abgeordneten Roman Reusch, Dr. Gottfried Curio, Stephan Brandner, weiterer Abgeordneter und der Fraktion der AfD</p>
       <p klasse="T_fett">Obligatorische Altersfeststellung unbegleiteter minderjähriger Flüchtlinge</p>
       <p klasse="T_Drs">Drucksache 19/471</p>
@@ -1452,7 +1452,7 @@
       <p klasse="J">Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 19/434, 19/105 und 19/462 an den Ausschuss für Arbeit und Soziales vorgeschlagen. Sind Sie damit einverstanden? – Das ist der Fall. Dann ist die Überweisung beschlossen.</p>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 21 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 21">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 21" media-id="7193049">
       <p klasse="T_NaS">Beratung des Antrags der Abgeordneten Heike Hänsel, Michel Brandt, Christine Buchholz, weiterer Abgeordneter und der Fraktion DIE LINKE</p>
       <p klasse="T_fett">Zwei-Prozent-Rüstungsziel der NATO ablehnen</p>
       <p klasse="T_Drs">Drucksache 19/445</p>
@@ -1783,7 +1783,7 @@
       </rede>
       <p klasse="T">Ich rufe die Tagesordnungspunkte 14 a und 14 b auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 14">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 14" media-id="7193234">
       <p klasse="T_NaS">a) Beratung des Antrags der Fraktion BÜNDNIS 90/DIE GRÜNEN</p>
       <p klasse="T_fett">Sofortprogramm für mehr Personal in der Altenpflege</p>
       <p klasse="T_Drs">Drucksache 19/446</p>

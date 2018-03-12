@@ -16,7 +16,7 @@
         <ivz-eintrag-inhalt>Begrüßung der Delegation der Assemblée nationale mit dem Präsidenten, Herrn François de Rugy </ivz-eintrag-inhalt>
         <a href="S685" typ="druckseitennummer"><seite>685</seite> <seitenbereich>B</seitenbereich></a>
       </ivz-eintrag>
-      <ivz-block>
+      <ivz-block media-id="7193784">
         <ivz-block-titel>Tagesordnungspunkt 1:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Vereinbarte Debatte: 55 Jahre Élysée-Vertrag </ivz-eintrag-inhalt>
@@ -143,7 +143,7 @@
       <p klasse="J_1">Guten Morgen, liebe Kolleginnen und Kollegen! Bitte nehmen Sie Platz.</p>
 
     </sitzungsbeginn>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 1">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 1" media-id="7193784">
       <rede id="ID19900100" media-id="7193980">
         <p klasse="redner">
 

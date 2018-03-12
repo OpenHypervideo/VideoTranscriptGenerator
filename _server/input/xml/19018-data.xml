@@ -20,7 +20,7 @@
         <ivz-eintrag-inhalt>Berufung von mitwirkungsberechtigten Mitgliedern des Europäischen Parlaments </ivz-eintrag-inhalt>
         <a href="S1513" typ="druckseitennummer"><seite>1513</seite> <seitenbereich>B</seitenbereich></a>
       </ivz-eintrag>
-      <ivz-block>
+      <ivz-block media-id="7206173">
         <ivz-block-titel>Tagesordnungspunkt 13:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>a) Antrag der Fraktionen der CDU/CSU und SPD: Den INF-Vertrag als Grundpfeiler atomarer Sicherheitsarchitektur und Kernelement europäischer Sicherheit erhalten  Drucksache 19/956</ivz-eintrag-inhalt>
@@ -103,7 +103,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7206194">
         <ivz-block-titel>Tagesordnungspunkt 14:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Erste Beratung des von den Abgeordneten Stephan Brandner, Peter Boehringer, Marcus Bühl, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Dreiundsechzigsten Gesetzes zur Änderung des Grundgesetzes (Gesetz zur Festschreibung der deutschen Sprache als Landessprache) Drucksache 19/951 </ivz-eintrag-inhalt>
@@ -352,7 +352,7 @@
           <a href="S1557" typ="druckseitennummer"><seite>1557</seite> <seitenbereich>D</seitenbereich></a>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7206275">
         <ivz-block-titel>Tagesordnungspunkt 17:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Antrag der Abgeordneten Beate Müller-Gemmeke, Anja Hajduk, Sven Lehmann, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN: Neue Perspektiven für langzeitarbeitslose Menschen durch einen Sozialen Arbeitsmarkt ermöglichen Drucksache 19/591 </ivz-eintrag-inhalt>
@@ -429,7 +429,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7206294">
         <ivz-block-titel>Zusatztagesordnungspunkt 6:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Aktuelle Stunde auf Verlangen der Fraktion der AfD: Diesel: Motor der deutschen Industrie/Fahrverbote wegen Luftreinhaltungs </ivz-eintrag-inhalt>
@@ -566,7 +566,7 @@
       <p klasse="J">Gemäß § 93b Absatz 8 unserer Geschäftsordnung sind auf Vorschlag der Fraktionen deutsche Mitglieder des Europäischen Parlaments zu berufen, die an den Sitzungen des Ausschusses für die Angelegenheiten der Europäischen Union teilnehmen können. Anzahl und Verteilung sind jedoch nicht vorgeschrieben, sondern müssen nach Wahlen zum Europaparlament oder zum Deutschen Bundestag neu festgelegt werden. Die Fraktionen haben sich auf insgesamt 16 mitwirkungsberechtigte Mitglieder des Europäischen Parlaments verständigt. Davon entfallen auf die CDU/CSU sieben Mitglieder, auf die SPD fünf, auf Bündnis 90/Die Grünen zwei sowie auf die FDP und Die Linke jeweils ein Mitglied. Sind Sie damit einverstanden? – Ich sehe keinen Widerspruch. Dann ist auch das so beschlossen.</p>
       <p klasse="T">Dann rufe ich die Tagesordnungspunkte 13 a und 13 b auf:</p>
     </sitzungsbeginn>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 13">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 13" media-id="7206173">
       <p klasse="T_NaS">a) Beratung des Antrags der Fraktionen der CDU/CSU und SPD</p>
       <p klasse="T_fett">Den INF-Vertrag als Grundpfeiler atomarer Sicherheitsarchitektur und Kernelement europäischer Sicherheit erhalten</p>
       <p klasse="T_Drs">Drucksache 19/956</p>
@@ -811,7 +811,7 @@
       <p klasse="J">Interfraktionell wird die Überweisung der Vorlagen auf den Drucksachen 19/956 und 19/976 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Sind Sie damit einverstanden? – Das ist der Fall. Dann sind die Überweisungen so beschlossen.</p>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 14 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 14">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 14" media-id="7206194">
       <p klasse="T_NaS">Erste Beratung des von den Abgeordneten Stephan Brandner, Peter Boehringer, Marcus Bühl, weiteren Abgeordneten und der Fraktion der AfD eingebrachten Entwurfs eines Dreiundsechzigsten Gesetzes zur Änderung des Grundgesetzes (Gesetz zur Festschreibung der deutschen Sprache als Landessprache)</p>
       <p klasse="T_Drs">Drucksache 19/951</p>
       <p klasse="T_Ueberweisung">Überweisungsvorschlag:  Innenausschuss  Ausschuss für Bildung, Forschung und Technikfolgenabschätzung  Ausschuss für Kultur und Medien<a id="S1522" name="S1522" typ="druckseitennummer"/></p>
@@ -2047,7 +2047,7 @@
       <p klasse="J">Interfraktionell wird Überweisung der Vorlagen auf den Drucksachen 19/475 und 19/979 an die in der Tagesordnung aufgeführten Ausschüsse vorgeschlagen. Die Vorlage auf Drucksache 19/475 – Tagesordnungspunkt 16 – soll federführend an den Verteidigungsausschuss überwiesen werden. Sind Sie damit einverstanden? – Ich sehe, das ist der Fall. Dann sind die Überweisungen so beschlossen.</p>
       <p klasse="T">Ich rufe nunmehr den Tagesordnungspunkt 17 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 17">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 17" media-id="7206275">
       <a id="S1559" name="S1559" typ="druckseitennummer"/>
       <p klasse="T_NaS">Beratung des Antrags der Abgeordneten Beate Müller-Gemmeke, Anja Hajduk, Sven Lehmann, weiterer Abgeordneter und der Fraktion BÜNDNIS 90/DIE GRÜNEN</p>
       <p klasse="T_fett">Neue Perspektiven für langzeitarbeitslose Menschen durch einen Sozialen Arbeitsmarkt ermöglichen</p>
@@ -2381,7 +2381,7 @@
       <p klasse="J">Interfraktionell wird Überweisung der Vorlage auf Drucksache 19/591 an den Ausschuss für Arbeit und Soziales vorgeschlagen. Sie sind damit einverstanden? – Dann ist die Überweisung so beschlossen.</p>
       <p klasse="T">Ich rufe jetzt den Zusatzpunkt 6 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Zusatzpunkt 6">
+    <tagesordnungspunkt top-id="Zusatzpunkt 6" media-id="7206294">
       <p klasse="T_fett">Aktuelle Stunde</p>
       <p klasse="T_NaS">auf Verlangen der Fraktion der AfD</p>
       <p klasse="T_fett">Diesel: Motor der deutschen Industrie/Fahrverbote wegen Luftreinhaltungsvorgaben</p>

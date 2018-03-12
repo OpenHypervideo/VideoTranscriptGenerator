@@ -18,7 +18,7 @@
           <a href="S1" typ="druckseitennummer"><seite>1</seite> <seitenbereich>A</seitenbereich></a>
         </xref>
       </ivz-eintrag>
-      <ivz-block>
+      <ivz-block media-id="7164716">
         <ivz-block-titel>Tagesordnungspunkt 1:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Eröffnung der Sitzung durch den Alterspräsidenten Drucksache 19/2 </ivz-eintrag-inhalt>
@@ -37,7 +37,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7164723">
         <ivz-block-titel>Tagesordnungspunkt 2:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Beschlussfassung über die </ivz-eintrag-inhalt>
@@ -95,7 +95,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7164748">
         <ivz-block-titel>Tagesordnungspunkt 3:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Wahl des Präsidenten verbunden mit Namensaufruf und Feststellung der Beschlussfähigkeit </ivz-eintrag-inhalt>
@@ -126,7 +126,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7164752">
         <ivz-block-titel>Tagesordnungspunkt 4:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Amtsübernahme durch den Präsidenten mit Ansprache </ivz-eintrag-inhalt>
@@ -139,14 +139,14 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7164753">
         <ivz-block-titel>Tagesordnungspunkt 5:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Festlegung der Zahl der Stellvertreterinnen und Stellvertreter des Präsidenten Drucksache 19/3 </ivz-eintrag-inhalt>
           <a href="S16" typ="druckseitennummer"><seite>16</seite> <seitenbereich>B</seitenbereich></a>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7164983">
         <ivz-block-titel>Tagesordnungspunkt 6:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Wahl der Stellvertreterinnen und Stellvertreter des Präsidenten </ivz-eintrag-inhalt>
@@ -264,7 +264,7 @@
         <p klasse="O">Das scheint offenkundig nicht der Fall zu sein. Dann trifft es also tatsächlich zu, dass die Rolle des Alterspräsidenten auf mich zukommt. Es ist mir eine Ehre und Freude zugleich, den Vorsitz bis zur Amtsübernahme durch den neugewählten Präsidenten des Deutschen Bundestages zu übernehmen.</p>
       </rede>
     </sitzungsbeginn>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 1">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 1" media-id="7164716">
       <rede id="ID191002001" media-id="7164718">
         <p klasse="redner">
         <redner id="11002190"><name><vorname>Alterspräsident Dr. Hermann</vorname><nachname>Otto Solms</nachname><rolle><rolle_lang>Alterspräsident</rolle_lang><rolle_kurz>Alterspräsident</rolle_kurz></rolle></name></redner></p>
@@ -358,7 +358,7 @@
         <p klasse="T">Jetzt rufe ich den Tagesordnungspunkt 2 auf:</p>
       </rede>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 2">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 2" media-id="7164723">
       <p klasse="T_NaS">Beschlussfassung über die</p>
       <p klasse="T_NaS">– Geschäftsordnung des Deutschen Bundestages</p>
       <p klasse="T_NaS">– Gemeinsame Geschäftsordnung des Bundestages und des Bundesrates für den Ausschuss nach Artikel 77 des Grundgesetzes (Vermittlungsausschuss)</p>
@@ -604,7 +604,7 @@
       <p klasse="J">Antrag der Fraktion der CDU/CSU auf Drucksache 19/1 zur Weitergeltung von Geschäftsordnungsrecht. Wer stimmt für diesen Antrag? – Gegenstimmen? – Enthaltungen? – Dann ist der Antrag mit den Stimmen aller Fraktionen gegen die Stimmen der AfD bei Enthaltung der zwei fraktionslosen Abgeordneten angenommen.</p>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 3 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 3">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 3" media-id="7164748">
       <p klasse="T_NaS">Wahl des Präsidenten  verbunden mit Namensaufruf  und Feststellung der Beschlussfähigkeit</p>
       <p klasse="J">Es entspricht der parlamentarischen Tradition, dass die stärkste Fraktion einen Kandidaten vorschlägt. Ich darf also den Herrn Abgeordneten Volker Kauder um einen Vorschlag bitten.</p>
       <rede id="ID19100900">
@@ -650,7 +650,7 @@
         <p klasse="T">Tagesordnungspunkt 4:</p>
       </rede>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 4">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 4" media-id="7164752">
       <p klasse="T_NaS">Amtsübernahme durch den Präsidenten  mit Ansprache</p>
       <rede id="ID19101300" media-id="7164754">
         <p klasse="redner">
@@ -720,13 +720,13 @@
         <kommentar>(Beifall im ganzen Hause)</kommentar>
       </rede>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 5">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 5" media-id="7164753">
       <p klasse="J">Ich rufe den Tagesordnungspunkt 5 auf:</p>
       <p klasse="T_NaS">Festlegung der Zahl der Stellvertreterinnen und Stellvertreter des Präsidenten</p>
       <p klasse="T_Drs">Drucksache 19/3</p>
       <p klasse="J">Es liegt hierzu ein Antrag der Fraktionen CDU/CSU, SPD, AfD, FDP, Die Linke und Bündnis 90/Die Grünen vor. Wer stimmt für den Antrag auf Drucksache 19/3? – Gegenstimmen? – Enthaltungen? – Bei zwei Enthaltungen ist der Antrag einstimmig angenommen. Damit ist die Zahl der Stellvertreterinnen und Stellvertreter des Präsidenten auf sechs festgelegt.</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 6">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 6" media-id="7164983">
       <p klasse="J">Damit rufe ich den Tagesordnungspunkt 6 auf:</p>
       <p klasse="T_NaS">Wahl der Stellvertreterinnen und Stellvertreter des Präsidenten</p>
       <p klasse="J">Die Wahl erfolgt nach unserer Geschäftsordnung geheim. Es ist interfraktionell vereinbart worden, die Wahl der sechs Stellvertreterinnen und Stellvertreter des Präsidenten mit Wahlausweis und einer Stimmkarte, auf der die Namen aller vorgeschlagenen Kandidatinnen und Kandidaten aufgeführt sind, durchzuführen. – Ich sehe keinen Widerspruch. Damit sind Sie einverstanden. Dann verfahren wir so.</p>

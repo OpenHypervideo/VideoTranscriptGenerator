@@ -1,0 +1,114 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe den Tagesordnungspunkt\u00a05 auf:"
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "children": [], 
+   "end": "11.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Es liegt hierzu ein Antrag der Fraktionen CDU/CSU, "
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "children": [], 
+   "end": "12.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "SPD, "
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "children": [], 
+   "end": "13.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "AfD, "
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "children": [], 
+   "end": "14.840", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "FDP, "
+   ]
+  }, 
+  {
+   "begin": "14.840", 
+   "children": [], 
+   "end": "19.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke und B\u00fcndnis\u00a090/Die Gr\u00fcnen vor. "
+   ]
+  }, 
+  {
+   "begin": "19.560", 
+   "children": [], 
+   "end": "21.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr den Antrag auf Drucksache\u00a019/3?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "25.200", 
+   "children": [], 
+   "end": "26.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Gegenstimmen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "26.680", 
+   "children": [], 
+   "end": "27.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "29.400", 
+   "children": [], 
+   "end": "33.920", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Bei zwei Enthaltungen ist der Antrag einstimmig angenommen. "
+   ]
+  }, 
+  {
+   "begin": "33.920", 
+   "children": [], 
+   "end": "45.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist die Zahl der Stellvertreterinnen und Stellvertreter des Pr\u00e4sidenten auf sechs festgelegt."
+   ]
+  }
+ ]
+}

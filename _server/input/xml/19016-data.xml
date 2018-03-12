@@ -16,7 +16,7 @@
         <ivz-eintrag-inhalt>Präsident Dr. Wolfgang Schäuble </ivz-eintrag-inhalt>
         <a href="S1313" typ="druckseitennummer"><seite>1313</seite> <seitenbereich>A</seitenbereich></a>
       </ivz-eintrag>
-      <ivz-block>
+      <ivz-block media-id="7205004">
         <ivz-block-titel>Tagesordnungspunkt 1:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Befragung der Bundesregierung: Verordnung über den Lärmschutz bei öffentlichen Fernsehdarbietungen im Freien über die Fußball-­Weltmeisterschaft 2018 </ivz-eintrag-inhalt>
@@ -325,7 +325,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7205030">
         <ivz-block-titel>Tagesordnungspunkt 2:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Fragestunde Drucksache 19/886 </ivz-eintrag-inhalt>
@@ -807,7 +807,7 @@
           <a href="S1346" typ="druckseitennummer"><seite>1346</seite> <seitenbereich>A</seitenbereich></a>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7205066">
         <ivz-block-titel>Zusatztagesordnungspunkt 1:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Aktuelle Stunde auf Verlangen der Fraktion DIE LINKE: Erneute Steigerungen bei Rüstungsexporten </ivz-eintrag-inhalt>
@@ -1611,7 +1611,7 @@
       <p klasse="J">Der Abgeordnete Thomas Seitz hat form- und fristgerecht Einspruch gemäß § 39 der Geschäftsordnung gegen den ihm in der 15. Sitzung am Freitag, dem 23. Februar 2018, erteilten Ordnungsruf eingelegt. Dem Einspruch ist abgeholfen worden. Der Vorgang ist damit erledigt.</p>
       <p klasse="T">Ich rufe den Ta gesordnungspunkt 1 auf:</p>
     </sitzungsbeginn>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 1">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 1" media-id="7205004">
       <p klasse="T_fett">Befragung der Bundesregierung</p>
       <p klasse="J">Interfraktionell ist vereinbart, eine Regierungsbefragung durchzuführen, auch wenn in dieser Woche keine Kabinettssitzung stattgefunden hat. Die Bundesregierung hat daher ein weiteres Thema der letzten Kabinettssitzung am 21. Februar 2018 mitgeteilt, und zwar: Verordnung über den Lärmschutz bei öffentlichen Fernsehdarbietungen im Freien über die Fußball-Weltmeisterschaft 2018.</p>
       <p klasse="J">Das Wort für den einleitenden fünfminütigen Bericht hat die Bundesministerin für Umwelt, Naturschutz, Bau und Reaktorsicherheit, Frau Dr. Barbara Hendricks. – Bitte sehr.</p>
@@ -1951,7 +1951,7 @@
       </rede>
       <p klasse="T">Ich rufe den Tagesord nungspunkt 2 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 2">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 2" media-id="7205030">
       <p klasse="T_fett">Fragestunde</p>
       <p klasse="T_Drs">Drucksache 19/886</p>
       <p klasse="J">Die mündlichen Fragen auf der Drucksache 19/886 werden in der üblichen Reihenfolge aufgerufen.</p>
@@ -2683,7 +2683,7 @@
       <p klasse="J_1">Danke, Herr Staatssekretär. – Wir sind damit am Ende Ihres Geschäftsbereiches, und wir sind auch am Ende der Fragestunde. Alle anderen Fragen werden natürlich, wie üblich, schriftlich beantwortet.</p>
       <p klasse="T">Ich rufe den Zu satzpunkt 1 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Zusatzpunkt 1">
+    <tagesordnungspunkt top-id="Zusatzpunkt 1" media-id="7205066">
       <p klasse="T_fett">Aktuelle Stunde</p>
       <p klasse="T_NaS">auf Verlangen der Fraktion DIE LINKE</p>
       <p klasse="T_fett">Erneute Steigerungen bei Rüstungsexporten<a id="S1347" name="S1347" typ="druckseitennummer"/></p>

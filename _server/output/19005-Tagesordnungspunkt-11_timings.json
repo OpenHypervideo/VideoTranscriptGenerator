@@ -1,0 +1,9124 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Fragestunde"
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "children": [], 
+   "end": "1.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe darauf schon hingewiesen, "
+   ]
+  }, 
+  {
+   "begin": "1.960", 
+   "children": [], 
+   "end": "2.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "will das aber wiederholen: "
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "children": [], 
+   "end": "5.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fragestunde sind\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "children": [], 
+   "end": "12.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "das ist in dieser atypischen Sitzungswoche die einzige Fragestunde\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "children": [], 
+   "end": "14.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "nur 45\u00a0Minuten vorgesehen, "
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "children": [], 
+   "end": "19.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "von denen wir jetzt schon zehn Minuten verbraucht haben."
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "children": [], 
+   "end": "22.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ich will eine kurze Erl\u00e4uterung zur Redezeit geben. "
+   ]
+  }, 
+  {
+   "begin": "22.440", 
+   "children": [], 
+   "end": "25.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "In Fragestunden hat sich bew\u00e4hrt, "
+   ]
+  }, 
+  {
+   "begin": "25.320", 
+   "children": [], 
+   "end": "34.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die erste Antwort zwei Minuten zur Verf\u00fcgung zu stellen und f\u00fcr die folgenden Fragen und Antworten jeweils eine Minute. "
+   ]
+  }, 
+  {
+   "begin": "34.360", 
+   "children": [], 
+   "end": "35.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "35.680", 
+   "children": [], 
+   "end": "38.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die vorhin noch nicht anwesend waren, "
+   ]
+  }, 
+  {
+   "begin": "38.200", 
+   "children": [], 
+   "end": "41.480", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "beschreibe ich noch einmal die Signalgebung. "
+   ]
+  }, 
+  {
+   "begin": "41.480", 
+   "children": [], 
+   "end": "45.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die Signalisierung der ablaufenden Redezeit erfolgt optisch. "
+   ]
+  }, 
+  {
+   "begin": "45.600", 
+   "children": [], 
+   "end": "56.320", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Uhren oberhalb der Hammelsprungt\u00fcren sowie rechts und links von mir zeigen jeweils die verbleibende Restredezeit in Sekunden an. "
+   ]
+  }, 
+  {
+   "begin": "56.320", 
+   "children": [], 
+   "end": "58.160", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Zus\u00e4tzlich gibt es ein Lichtsignal, "
+   ]
+  }, 
+  {
+   "begin": "58.160", 
+   "children": [], 
+   "end": "60.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "das zun\u00e4chst gr\u00fcn leuchtet. "
+   ]
+  }, 
+  {
+   "begin": "60.600", 
+   "children": [], 
+   "end": "64.720", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die letzten 30\u00a0Sekunden werden durch gelbes Licht angezeigt. "
+   ]
+  }, 
+  {
+   "begin": "64.720", 
+   "children": [], 
+   "end": "68.320", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Nach Ablauf der Redezeit beginnt es, "
+   ]
+  }, 
+  {
+   "begin": "68.320", 
+   "children": [], 
+   "end": "70.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "rot zu blinken, "
+   ]
+  }, 
+  {
+   "begin": "70.400", 
+   "children": [], 
+   "end": "73.200", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "und dann ist die Redezeit auch zu Ende. "
+   ]
+  }, 
+  {
+   "begin": "73.200", 
+   "children": [], 
+   "end": "75.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Da kommt dann auch nicht mehr viel, "
+   ]
+  }, 
+  {
+   "begin": "75.200", 
+   "children": [], 
+   "end": "77.040", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "sonst schaffen wir es nicht."
+   ]
+  }, 
+  {
+   "begin": "77.040", 
+   "children": [], 
+   "end": "81.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Fragestunde verl\u00e4uft in der \u00fcblichen Reihenfolge."
+   ]
+  }, 
+  {
+   "begin": "81.800", 
+   "children": [], 
+   "end": "91.920", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Wir kommen zum Gesch\u00e4ftsbereich der Bundeskanzlerin und des Bundeskanzleramtes."
+   ]
+  }, 
+  {
+   "begin": "91.920", 
+   "children": [], 
+   "end": "96.240", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Die Frage\u00a01 der Kollegin Da\u011fdelen wird schriftlich beantwortet."
+   ]
+  }, 
+  {
+   "begin": "96.240", 
+   "children": [], 
+   "end": "108.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wir kommen zur Frage\u00a02 des Kollegen Hahn von der Fraktion Die Linke:"
+   ]
+  }, 
+  {
+   "begin": "108.400", 
+   "children": [], 
+   "end": "115.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Zur Beantwortung steht der Staatssekret\u00e4r im Bundeskanzleramt, "
+   ]
+  }, 
+  {
+   "begin": "115.960", 
+   "children": [], 
+   "end": "118.240", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Klaus-Dieter Fritsche, "
+   ]
+  }, 
+  {
+   "begin": "118.240", 
+   "children": [], 
+   "end": "121.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "zur Verf\u00fcgung."
+   ]
+  }, 
+  {
+   "begin": "121.120", 
+   "children": [], 
+   "end": "123.120", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "123.120", 
+   "children": [], 
+   "end": "125.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "125.200", 
+   "children": [], 
+   "end": "132.120", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter, "
+   ]
+  }, 
+  {
+   "begin": "132.120", 
+   "children": [], 
+   "end": "136.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Frage beantworte ich wie folgt:"
+   ]
+  }, 
+  {
+   "begin": "136.280", 
+   "children": [], 
+   "end": "149.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Der zitierte Bericht des Unabh\u00e4ngigen Gremiums soll nach \u00a7\u00a016 Absatz\u00a06 des Bundesnachrichtendienstgesetzes das Parlamentarische Kontrollgremium \u00fcber die T\u00e4tigkeit des Unabh\u00e4ngigen Gremiums unterrichten. "
+   ]
+  }, 
+  {
+   "begin": "149.400", 
+   "children": [], 
+   "end": "158.440", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Diese Unterrichtung erfolgt aufgrund der besonderen Sensibilit\u00e4t dieses nachrichtendienstlichen Arbeitsspektrums mit der Verschlusssacheneinstufung Geheim. "
+   ]
+  }, 
+  {
+   "begin": "158.440", 
+   "children": [], 
+   "end": "162.960", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung ist nicht Ersteller dieses Geheim eingestuften Berichts. "
+   ]
+  }, 
+  {
+   "begin": "162.960", 
+   "children": [], 
+   "end": "173.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung \u00e4u\u00dfert sich daher au\u00dferhalb der gesetzlich vorgesehenen Er\u00f6rterung des Berichts im Parlamentarischen Kontrollgremium grunds\u00e4tzlich nicht zu Aspekten des Berichts bzw. "
+   ]
+  }, 
+  {
+   "begin": "173.880", 
+   "children": [], 
+   "end": "175.200", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "darf Fragen zu dem Bericht, "
+   ]
+  }, 
+  {
+   "begin": "175.200", 
+   "children": [], 
+   "end": "177.400", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "sofern durch die \u00c4u\u00dferungen bzw. "
+   ]
+  }, 
+  {
+   "begin": "177.400", 
+   "children": [], 
+   "end": "182.120", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Antworten R\u00fcckschl\u00fcsse auf Einzelheiten und Inhalte des Berichts gezogen werden k\u00f6nnten, "
+   ]
+  }, 
+  {
+   "begin": "182.120", 
+   "children": [], 
+   "end": "184.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "nicht \u00f6ffentlich beantworten. "
+   ]
+  }, 
+  {
+   "begin": "184.960", 
+   "children": [], 
+   "end": "193.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Der Bundesregierung wurde der Bericht vom Sekretariat des Parlamentarischen Kontrollgremiums am 1.\u00a0Dezember 2017 \u00fcbersandt. "
+   ]
+  }, 
+  {
+   "begin": "193.800", 
+   "children": [], 
+   "end": "198.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen kann die Bundesregierung grunds\u00e4tzlich nicht \u00fcber die Gr\u00fcnde, "
+   ]
+  }, 
+  {
+   "begin": "198.400", 
+   "children": [], 
+   "end": "201.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die andere Gremien zu ihren Schlussfolgerungen veranlasst haben, "
+   ]
+  }, 
+  {
+   "begin": "201.640", 
+   "children": [], 
+   "end": "202.560", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "spekulieren."
+   ]
+  }, 
+  {
+   "begin": "202.560", 
+   "children": [], 
+   "end": "207.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "209.360", 
+   "children": [], 
+   "end": "210.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Hahn."
+   ]
+  }, 
+  {
+   "begin": "210.120", 
+   "children": [], 
+   "end": "210.560", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "210.560", 
+   "children": [], 
+   "end": "211.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "211.040", 
+   "children": [], 
+   "end": "213.400", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ich nehme Bezug auf Medienberichte, "
+   ]
+  }, 
+  {
+   "begin": "213.400", 
+   "children": [], 
+   "end": "215.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r. "
+   ]
+  }, 
+  {
+   "begin": "215.280", 
+   "children": [], 
+   "end": "217.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Der Bericht ist leider Geheim eingestuft, "
+   ]
+  }, 
+  {
+   "begin": "217.040", 
+   "children": [], 
+   "end": "219.040", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "sodass ich daraus nicht zitieren kann. "
+   ]
+  }, 
+  {
+   "begin": "219.040", 
+   "children": [], 
+   "end": "221.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Aber es geht um sehr schwerwiegende Vorw\u00fcrfe. "
+   ]
+  }, 
+  {
+   "begin": "221.720", 
+   "children": [], 
+   "end": "226.880", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wenn vom Unabh\u00e4ngigen Gremium de facto die Arbeit unm\u00f6glich gemacht wird, "
+   ]
+  }, 
+  {
+   "begin": "226.880", 
+   "children": [], 
+   "end": "229.000", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "wenn also die Einsch\u00e4tzung getroffen wird, "
+   ]
+  }, 
+  {
+   "begin": "229.000", 
+   "children": [], 
+   "end": "235.320", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "man kann seinen gesetzlichen Auftrag nicht erf\u00fcllen und den BND nicht wirkungsvoll kontrollieren, "
+   ]
+  }, 
+  {
+   "begin": "235.320", 
+   "children": [], 
+   "end": "237.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dann stellt sich nat\u00fcrlich die Frage: "
+   ]
+  }, 
+  {
+   "begin": "237.400", 
+   "children": [], 
+   "end": "242.160", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Welche rechtlichen M\u00f6glichkeiten hat denn das Unabh\u00e4ngige Gremium \u00fcberhaupt, "
+   ]
+  }, 
+  {
+   "begin": "242.160", 
+   "children": [], 
+   "end": "247.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "seinen von diesem Parlament beschlossenen Auftrag auch durchzusetzen? "
+   ]
+  }, 
+  {
+   "begin": "247.160", 
+   "children": [], 
+   "end": "248.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Was k\u00f6nnen die Mitglieder tun, "
+   ]
+  }, 
+  {
+   "begin": "248.800", 
+   "children": [], 
+   "end": "256.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "damit die Bundesregierung und der Bundesnachrichtendienst ihnen die notwendige Einsicht in Unterlagen und Akten erm\u00f6glichen?"
+   ]
+  }, 
+  {
+   "begin": "256.560", 
+   "children": [], 
+   "end": "257.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r."
+   ]
+  }, 
+  {
+   "begin": "257.560", 
+   "children": [], 
+   "end": "258.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "258.240", 
+   "children": [], 
+   "end": "259.920", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "259.920", 
+   "children": [], 
+   "end": "261.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter, "
+   ]
+  }, 
+  {
+   "begin": "261.000", 
+   "children": [], 
+   "end": "262.160", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "es ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "262.160", 
+   "children": [], 
+   "end": "263.040", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass dies in den Medien zitiert wurde. "
+   ]
+  }, 
+  {
+   "begin": "263.040", 
+   "children": [], 
+   "end": "264.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich bedauere zun\u00e4chst einmal ausdr\u00fccklich, "
+   ]
+  }, 
+  {
+   "begin": "264.680", 
+   "children": [], 
+   "end": "267.120", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass Geheim eingestufte Berichte, "
+   ]
+  }, 
+  {
+   "begin": "267.120", 
+   "children": [], 
+   "end": "269.360", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "bevor sie der Bundesregierung vorliegen, "
+   ]
+  }, 
+  {
+   "begin": "269.360", 
+   "children": [], 
+   "end": "271.440", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "in den Medien zur Verf\u00fcgung stehen. "
+   ]
+  }, 
+  {
+   "begin": "271.440", 
+   "children": [], 
+   "end": "281.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Das kann die im beiderseitigen Interesse gedeihliche Zusammenarbeit mit dem Parlamentarischen Kontrollgremium und der Bundesregierung allerdings nur belasten."
+   ]
+  }, 
+  {
+   "begin": "281.160", 
+   "children": [], 
+   "end": "282.840", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Zu Ihrer zweiten Frage\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "282.840", 
+   "children": [], 
+   "end": "285.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "ohne auf die geheimen Inhalte einzugehen\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "285.600", 
+   "children": [], 
+   "end": "288.200", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich ist es Aufgabe des Unabh\u00e4ngigen Gremiums\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "288.200", 
+   "children": [], 
+   "end": "289.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "das hat der Gesetzgeber so bestimmt\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "289.960", 
+   "children": [], 
+   "end": "293.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "halbj\u00e4hrlich einen Bericht an das Parlamentarische Kontrollgremium abzugeben. "
+   ]
+  }, 
+  {
+   "begin": "293.960", 
+   "children": [], 
+   "end": "296.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Dort wird dann \u00fcber die Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "296.440", 
+   "children": [], 
+   "end": "298.800", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "die notwendig sein sollten, "
+   ]
+  }, 
+  {
+   "begin": "298.800", 
+   "children": [], 
+   "end": "301.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "berichtet und entschieden."
+   ]
+  }, 
+  {
+   "begin": "301.200", 
+   "children": [], 
+   "end": "302.000", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Danke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "302.000", 
+   "children": [], 
+   "end": "303.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Hahn."
+   ]
+  }, 
+  {
+   "begin": "303.360", 
+   "children": [], 
+   "end": "306.560", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Die Frage nach den rechtlichen M\u00f6glichkeiten des Unabh\u00e4ngigen Gremiums, "
+   ]
+  }, 
+  {
+   "begin": "306.560", 
+   "children": [], 
+   "end": "308.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "seinen Anspruch durchzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "308.640", 
+   "children": [], 
+   "end": "310.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "ist nicht beantwortet worden. "
+   ]
+  }, 
+  {
+   "begin": "310.760", 
+   "children": [], 
+   "end": "313.080", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Dann m\u00f6chte ich gern noch wissen: "
+   ]
+  }, 
+  {
+   "begin": "313.080", 
+   "children": [], 
+   "end": "314.080", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wer hat entschieden, "
+   ]
+  }, 
+  {
+   "begin": "314.080", 
+   "children": [], 
+   "end": "321.480", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "dem Unabh\u00e4ngigen Gremium Einsicht in Unterlagen zur Kontrolle des Bundesnachrichtendienstes zu verwehren?"
+   ]
+  }, 
+  {
+   "begin": "321.480", 
+   "children": [], 
+   "end": "322.680", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r."
+   ]
+  }, 
+  {
+   "begin": "322.680", 
+   "children": [], 
+   "end": "323.600", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter, "
+   ]
+  }, 
+  {
+   "begin": "323.600", 
+   "children": [], 
+   "end": "325.600", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "auch das ist eine Diskussion, "
+   ]
+  }, 
+  {
+   "begin": "325.600", 
+   "children": [], 
+   "end": "332.560", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "die aufgrund der Einstufung nach der VSA in dem Geheim tagenden Parlamentarischen Kontrollgremium zu f\u00fchren ist. "
+   ]
+  }, 
+  {
+   "begin": "332.560", 
+   "children": [], 
+   "end": "333.520", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Ich bedaure, "
+   ]
+  }, 
+  {
+   "begin": "333.520", 
+   "children": [], 
+   "end": "334.520", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie diese Frage stellen, "
+   ]
+  }, 
+  {
+   "begin": "334.520", 
+   "children": [], 
+   "end": "339.280", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "da Sie doch Mitglied dieses Gremiums sind und die Usancen insoweit kennen."
+   ]
+  }, 
+  {
+   "begin": "339.280", 
+   "children": [], 
+   "end": "340.400", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Danke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "340.400", 
+   "children": [], 
+   "end": "344.280", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Fragen gibt es zur Frage\u00a02 nicht."
+   ]
+  }, 
+  {
+   "begin": "344.280", 
+   "children": [], 
+   "end": "346.880", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Doch?"
+   ]
+  }, 
+  {
+   "begin": "346.880", 
+   "children": [], 
+   "end": "348.800", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Herr von Notz, "
+   ]
+  }, 
+  {
+   "begin": "348.800", 
+   "children": [], 
+   "end": "351.440", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "wie soll ich das sehen?"
+   ]
+  }, 
+  {
+   "begin": "351.440", 
+   "children": [], 
+   "end": "354.960", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Wie auch immer. "
+   ]
+  }, 
+  {
+   "begin": "354.960", 
+   "children": [], 
+   "end": "361.000", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben jedenfalls eine Frage. "
+   ]
+  }, 
+  {
+   "begin": "361.000", 
+   "children": [], 
+   "end": "362.040", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Bitte sehr."
+   ]
+  }, 
+  {
+   "begin": "362.040", 
+   "children": [], 
+   "end": "364.040", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "364.040", 
+   "children": [], 
+   "end": "365.080", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "365.080", 
+   "children": [], 
+   "end": "366.560", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r, "
+   ]
+  }, 
+  {
+   "begin": "366.560", 
+   "children": [], 
+   "end": "369.720", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "empfinden Sie, "
+   ]
+  }, 
+  {
+   "begin": "369.720", 
+   "children": [], 
+   "end": "374.920", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "ohne dass wir hier jetzt \u00fcber geheime Dinge \u00f6ffentlich reden m\u00fcssten, "
+   ]
+  }, 
+  {
+   "begin": "374.920", 
+   "children": [], 
+   "end": "380.840", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "es nicht als maximale Peinlichkeit f\u00fcr die Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "380.840", 
+   "children": [], 
+   "end": "383.000", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "aber auch f\u00fcr die Gro\u00dfe Koalition, "
+   ]
+  }, 
+  {
+   "begin": "383.000", 
+   "children": [], 
+   "end": "392.040", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "dass Ihnen jetzt nach den ganzen Geschichten um Snowden und dem Bruch mit der G\u00a010-Kommission dieses Gremium, "
+   ]
+  }, 
+  {
+   "begin": "392.040", 
+   "children": [], 
+   "end": "393.760", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "das Sie neu geschaffen haben, "
+   ]
+  }, 
+  {
+   "begin": "393.760", 
+   "children": [], 
+   "end": "395.480", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "sagt: "
+   ]
+  }, 
+  {
+   "begin": "395.480", 
+   "children": [], 
+   "end": "398.880", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDer BND ist nicht kontrollierbar\u201c? "
+   ]
+  }, 
+  {
+   "begin": "398.880", 
+   "children": [], 
+   "end": "401.000", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Ist das nicht einfach objektiv politisch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "401.000", 
+   "children": [], 
+   "end": "403.640", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "dar\u00fcber werden wir hier wohl reden d\u00fcrfen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "403.640", 
+   "children": [], 
+   "end": "405.360", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "eine maximale Peinlichkeit?"
+   ]
+  }, 
+  {
+   "begin": "405.360", 
+   "children": [], 
+   "end": "407.120", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r."
+   ]
+  }, 
+  {
+   "begin": "407.120", 
+   "children": [], 
+   "end": "408.880", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter von Notz, "
+   ]
+  }, 
+  {
+   "begin": "408.880", 
+   "children": [], 
+   "end": "412.080", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Sie zitieren ebenfalls aus Zeitungsberichten,"
+   ]
+  }, 
+  {
+   "begin": "412.080", 
+   "children": [], 
+   "end": "414.280", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "ohne sagen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "414.280", 
+   "children": [], 
+   "end": "414.760", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "ob das, "
+   ]
+  }, 
+  {
+   "begin": "414.760", 
+   "children": [], 
+   "end": "417.040", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "was da in den Zeitungen wiedergegeben worden ist, "
+   ]
+  }, 
+  {
+   "begin": "417.040", 
+   "children": [], 
+   "end": "418.520", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "den Tatsachen entspricht. "
+   ]
+  }, 
+  {
+   "begin": "418.520", 
+   "children": [], 
+   "end": "424.720", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Zu dem Geheim eingestuften Bericht ist die Diskussion mit dem Parlamentarischen Kontrollgremium zu suchen."
+   ]
+  }, 
+  {
+   "begin": "424.720", 
+   "children": [], 
+   "end": "427.080", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Bundesregierung kann ich, "
+   ]
+  }, 
+  {
+   "begin": "427.080", 
+   "children": [], 
+   "end": "428.400", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "ohne Geheimnisse zu verraten, "
+   ]
+  }, 
+  {
+   "begin": "428.400", 
+   "children": [], 
+   "end": "428.800", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "sagen, "
+   ]
+  }, 
+  {
+   "begin": "428.800", 
+   "children": [], 
+   "end": "432.640", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "dass wir mit dem Unabh\u00e4ngigen Gremium konstruktiv zusammengearbeitet haben, "
+   ]
+  }, 
+  {
+   "begin": "432.640", 
+   "children": [], 
+   "end": "436.360", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "dass wir eine offene Zusammenarbeit mit dem Unabh\u00e4ngigen Gremium hatten, "
+   ]
+  }, 
+  {
+   "begin": "436.360", 
+   "children": [], 
+   "end": "440.360", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "dass wir k\u00fcnftig diese Zusammenarbeit offen weiterf\u00fchren werden. "
+   ]
+  }, 
+  {
+   "begin": "440.360", 
+   "children": [], 
+   "end": "443.560", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem kann ich f\u00fcr die Bundesregierung sagen: "
+   ]
+  }, 
+  {
+   "begin": "443.560", 
+   "children": [], 
+   "end": "444.160", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "444.160", 
+   "children": [], 
+   "end": "447.000", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "was der Gesetzgeber mit der Schaffung dieses Gremiums gewollt hat, "
+   ]
+  }, 
+  {
+   "begin": "447.000", 
+   "children": [], 
+   "end": "450.240", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "ist erfolgreich auf den Weg gebracht worden. "
+   ]
+  }, 
+  {
+   "begin": "450.240", 
+   "children": [], 
+   "end": "452.120", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Das sieht man aus dem ersten Bericht."
+   ]
+  }, 
+  {
+   "begin": "452.120", 
+   "children": [], 
+   "end": "453.400", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "453.400", 
+   "children": [], 
+   "end": "457.160", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "Mir liegen jetzt keine weiteren Fragen mehr vor."
+   ]
+  }, 
+  {
+   "begin": "457.160", 
+   "children": [], 
+   "end": "461.040", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe die Frage\u00a03 des Kollegen Dr.\u00a0Andr\u00e9 Hahn auf:"
+   ]
+  }, 
+  {
+   "begin": "461.040", 
+   "children": [], 
+   "end": "462.880", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r Fritsche."
+   ]
+  }, 
+  {
+   "begin": "462.880", 
+   "children": [], 
+   "end": "463.480", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "Danke, "
+   ]
+  }, 
+  {
+   "begin": "463.480", 
+   "children": [], 
+   "end": "464.280", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "464.280", 
+   "children": [], 
+   "end": "465.840", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter, "
+   ]
+  }, 
+  {
+   "begin": "465.840", 
+   "children": [], 
+   "end": "467.280", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Frage beantworte ich wie folgt: "
+   ]
+  }, 
+  {
+   "begin": "467.280", 
+   "children": [], 
+   "end": "469.440", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung kann nicht erkennen, "
+   ]
+  }, 
+  {
+   "begin": "469.440", 
+   "children": [], 
+   "end": "476.640", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "dass die Unterst\u00fctzung des Unabh\u00e4ngigen Gremiums zur Aus\u00fcbung von dessen Kontrollfunktion in irgendeiner Weise unzureichend war."
+   ]
+  }, 
+  {
+   "begin": "480.760", 
+   "children": [], 
+   "end": "481.920", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Hahn."
+   ]
+  }, 
+  {
+   "begin": "481.920", 
+   "children": [], 
+   "end": "482.720", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "482.720", 
+   "children": [], 
+   "end": "484.640", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "484.640", 
+   "children": [], 
+   "end": "486.080", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r, "
+   ]
+  }, 
+  {
+   "begin": "486.080", 
+   "children": [], 
+   "end": "489.720", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "ich habe eine ganz einfache Frage: "
+   ]
+  }, 
+  {
+   "begin": "489.720", 
+   "children": [], 
+   "end": "494.040", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "Haben Sie dem Unabh\u00e4ngigen Gremium alle Unterlagen vorgelegt, "
+   ]
+  }, 
+  {
+   "begin": "494.040", 
+   "children": [], 
+   "end": "496.720", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "die es angefordert hat und die es einsehen wollte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "496.720", 
+   "children": [], 
+   "end": "497.800", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "ja oder nein?\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "497.800", 
+   "children": [], 
+   "end": "500.720", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "und wie werden Sie k\u00fcnftig mit diesem Gremium verfahren?"
+   ]
+  }, 
+  {
+   "begin": "500.720", 
+   "children": [], 
+   "end": "505.720", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "Auch hier geht es um Inhalte aus einem geheimen Bericht. "
+   ]
+  }, 
+  {
+   "begin": "505.720", 
+   "children": [], 
+   "end": "507.720", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann so viel f\u00fcr die Bundesregierung sagen: "
+   ]
+  }, 
+  {
+   "begin": "507.720", 
+   "children": [], 
+   "end": "509.640", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "Innerhalb des Rechtsrahmens, "
+   ]
+  }, 
+  {
+   "begin": "509.640", 
+   "children": [], 
+   "end": "510.760", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "der gesetzt worden ist, "
+   ]
+  }, 
+  {
+   "begin": "510.760", 
+   "children": [], 
+   "end": "517.200", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "und innerhalb der Rechtsprechung des Bundesverfassungsgerichts haben wir das Gremium umfassend informiert."
+   ]
+  }, 
+  {
+   "begin": "517.200", 
+   "children": [], 
+   "end": "518.280", 
+   "id": "s000163", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Hahn."
+   ]
+  }, 
+  {
+   "begin": "518.280", 
+   "children": [], 
+   "end": "519.400", 
+   "id": "s000164", 
+   "language": "deu", 
+   "lines": [
+    "Es tut mir leid, "
+   ]
+  }, 
+  {
+   "begin": "519.400", 
+   "children": [], 
+   "end": "521.080", 
+   "id": "s000165", 
+   "language": "deu", 
+   "lines": [
+    "ich muss hartn\u00e4ckig bleiben. "
+   ]
+  }, 
+  {
+   "begin": "521.080", 
+   "children": [], 
+   "end": "522.960", 
+   "id": "s000166", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe nicht nach dem Bericht gefragt. "
+   ]
+  }, 
+  {
+   "begin": "522.960", 
+   "children": [], 
+   "end": "523.840", 
+   "id": "s000167", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe gefragt, "
+   ]
+  }, 
+  {
+   "begin": "523.840", 
+   "children": [], 
+   "end": "530.280", 
+   "id": "s000168", 
+   "language": "deu", 
+   "lines": [
+    "ob die Bundesregierung dem Unabh\u00e4ngigen Gremium die angeforderten Unterlagen vollst\u00e4ndig vorgelegt hat. "
+   ]
+  }, 
+  {
+   "begin": "530.280", 
+   "children": [], 
+   "end": "533.080", 
+   "id": "s000169", 
+   "language": "deu", 
+   "lines": [
+    "Diese Frage kann man mit Ja oder Nein beantworten."
+   ]
+  }, 
+  {
+   "begin": "533.080", 
+   "children": [], 
+   "end": "535.200", 
+   "id": "s000170", 
+   "language": "deu", 
+   "lines": [
+    "Dann war das ein Missverst\u00e4ndnis. "
+   ]
+  }, 
+  {
+   "begin": "535.200", 
+   "children": [], 
+   "end": "537.280", 
+   "id": "s000171", 
+   "language": "deu", 
+   "lines": [
+    "Diese Frage kann ich ebenso beantworten, "
+   ]
+  }, 
+  {
+   "begin": "537.280", 
+   "children": [], 
+   "end": "541.040", 
+   "id": "s000172", 
+   "language": "deu", 
+   "lines": [
+    "wie ich gerade Ihre erste Frage missverst\u00e4ndlicherweise beantwortet habe."
+   ]
+  }, 
+  {
+   "begin": "541.040", 
+   "children": [], 
+   "end": "549.400", 
+   "id": "s000173", 
+   "language": "deu", 
+   "lines": [
+    "Dann hat der Kollege von Notz eine Zusatzfrage."
+   ]
+  }, 
+  {
+   "begin": "549.400", 
+   "children": [], 
+   "end": "551.840", 
+   "id": "s000174", 
+   "language": "deu", 
+   "lines": [
+    "Herr Fritsche, "
+   ]
+  }, 
+  {
+   "begin": "551.840", 
+   "children": [], 
+   "end": "559.960", 
+   "id": "s000175", 
+   "language": "deu", 
+   "lines": [
+    "ich will noch einmal bez\u00fcglich dieses Themas zum Ausdruck bringen, "
+   ]
+  }, 
+  {
+   "begin": "559.960", 
+   "children": [], 
+   "end": "561.480", 
+   "id": "s000176", 
+   "language": "deu", 
+   "lines": [
+    "dass es richtig ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "561.480", 
+   "children": [], 
+   "end": "565.320", 
+   "id": "s000177", 
+   "language": "deu", 
+   "lines": [
+    "auch ich pers\u00f6nlich finde es richtig und teile die Grundhaltung\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "565.320", 
+   "children": [], 
+   "end": "573.360", 
+   "id": "s000178", 
+   "language": "deu", 
+   "lines": [
+    "dass bestimmte Dinge hier geheim sind und auch geheim bleiben m\u00fcssen und nicht f\u00fcr die \u00d6ffentlichkeit bestimmt sind. "
+   ]
+  }, 
+  {
+   "begin": "573.360", 
+   "children": [], 
+   "end": "575.320", 
+   "id": "s000179", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem will ich Ihnen sagen: "
+   ]
+  }, 
+  {
+   "begin": "575.320", 
+   "children": [], 
+   "end": "577.720", 
+   "id": "s000180", 
+   "language": "deu", 
+   "lines": [
+    "Das Gremium hier ist der Deutsche Bundestag, "
+   ]
+  }, 
+  {
+   "begin": "577.720", 
+   "children": [], 
+   "end": "581.480", 
+   "id": "s000181", 
+   "language": "deu", 
+   "lines": [
+    "und am Ende des Tages tragen wir alle daf\u00fcr Verantwortung, "
+   ]
+  }, 
+  {
+   "begin": "581.480", 
+   "children": [], 
+   "end": "587.760", 
+   "id": "s000182", 
+   "language": "deu", 
+   "lines": [
+    "dass die Geheimdienste ordentlich parlamentarisch kontrolliert werden. "
+   ]
+  }, 
+  {
+   "begin": "587.760", 
+   "children": [], 
+   "end": "589.920", 
+   "id": "s000183", 
+   "language": "deu", 
+   "lines": [
+    "Wir beauftragen, "
+   ]
+  }, 
+  {
+   "begin": "589.920", 
+   "children": [], 
+   "end": "591.920", 
+   "id": "s000184", 
+   "language": "deu", 
+   "lines": [
+    "damit es nicht jeder Einzelne hier machen muss, "
+   ]
+  }, 
+  {
+   "begin": "591.920", 
+   "children": [], 
+   "end": "592.320", 
+   "id": "s000185", 
+   "language": "deu", 
+   "lines": [
+    "andere damit, "
+   ]
+  }, 
+  {
+   "begin": "592.320", 
+   "children": [], 
+   "end": "593.440", 
+   "id": "s000186", 
+   "language": "deu", 
+   "lines": [
+    "sodass es einen Kreis gibt, "
+   ]
+  }, 
+  {
+   "begin": "593.440", 
+   "children": [], 
+   "end": "595.520", 
+   "id": "s000187", 
+   "language": "deu", 
+   "lines": [
+    "der das vertrauensvoll tun kann. "
+   ]
+  }, 
+  {
+   "begin": "595.520", 
+   "children": [], 
+   "end": "600.040", 
+   "id": "s000188", 
+   "language": "deu", 
+   "lines": [
+    "Wir lagern also diese T\u00e4tigkeit an das Parlamentarische Kontrollgremium, "
+   ]
+  }, 
+  {
+   "begin": "600.040", 
+   "children": [], 
+   "end": "603.720", 
+   "id": "s000189", 
+   "language": "deu", 
+   "lines": [
+    "an die G\u00a010-Kommission und an das Unabh\u00e4ngige Gremium aus. "
+   ]
+  }, 
+  {
+   "begin": "603.720", 
+   "children": [], 
+   "end": "604.280", 
+   "id": "s000190", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "604.280", 
+   "children": [], 
+   "end": "606.040", 
+   "id": "s000191", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein Alarmsignal, "
+   ]
+  }, 
+  {
+   "begin": "606.040", 
+   "children": [], 
+   "end": "611.960", 
+   "id": "s000192", 
+   "language": "deu", 
+   "lines": [
+    "wenn nach den ganzen Skandalen der letzten Jahre jetzt ein neugeschaffenes Gremium wiederholt sagt: "
+   ]
+  }, 
+  {
+   "begin": "611.960", 
+   "children": [], 
+   "end": "614.320", 
+   "id": "s000193", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen den BND nicht kontrollieren."
+   ]
+  }, 
+  {
+   "begin": "614.320", 
+   "children": [], 
+   "end": "615.560", 
+   "id": "s000194", 
+   "language": "deu", 
+   "lines": [
+    "Da reicht es nicht, "
+   ]
+  }, 
+  {
+   "begin": "615.560", 
+   "children": [], 
+   "end": "616.400", 
+   "id": "s000195", 
+   "language": "deu", 
+   "lines": [
+    "Herr Fritsche, "
+   ]
+  }, 
+  {
+   "begin": "616.400", 
+   "children": [], 
+   "end": "618.000", 
+   "id": "s000196", 
+   "language": "deu", 
+   "lines": [
+    "bei aller Zuneigung, "
+   ]
+  }, 
+  {
+   "begin": "618.000", 
+   "children": [], 
+   "end": "619.600", 
+   "id": "s000197", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie einfach sagen: "
+   ]
+  }, 
+  {
+   "begin": "619.600", 
+   "children": [], 
+   "end": "621.120", 
+   "id": "s000198", 
+   "language": "deu", 
+   "lines": [
+    "Das ist alles so wahnsinnig\u00a0\u2013\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "621.120", 
+   "children": [], 
+   "end": "621.440", 
+   "id": "s000199", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ja, "
+   ]
+  }, 
+  {
+   "begin": "621.440", 
+   "children": [], 
+   "end": "621.800", 
+   "id": "s000200", 
+   "language": "deu", 
+   "lines": [
+    "ja, "
+   ]
+  }, 
+  {
+   "begin": "621.800", 
+   "children": [], 
+   "end": "623.400", 
+   "id": "s000201", 
+   "language": "deu", 
+   "lines": [
+    "seid doch mal nicht so."
+   ]
+  }, 
+  {
+   "begin": "623.400", 
+   "children": [], 
+   "end": "624.360", 
+   "id": "s000202", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr. "
+   ]
+  }, 
+  {
+   "begin": "624.360", 
+   "children": [], 
+   "end": "627.640", 
+   "id": "s000203", 
+   "language": "deu", 
+   "lines": [
+    "Die Zuneigung \u00fcberschreitet Ihre Redezeit.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "627.640", 
+   "children": [], 
+   "end": "629.120", 
+   "id": "s000204", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r."
+   ]
+  }, 
+  {
+   "begin": "629.120", 
+   "children": [], 
+   "end": "629.800", 
+   "id": "s000205", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "629.800", 
+   "children": [], 
+   "end": "630.600", 
+   "id": "s000206", 
+   "language": "deu", 
+   "lines": [
+    "das tut er doch, "
+   ]
+  }, 
+  {
+   "begin": "630.600", 
+   "children": [], 
+   "end": "633.240", 
+   "id": "s000207", 
+   "language": "deu", 
+   "lines": [
+    "sobald Sie ihn lassen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "633.240", 
+   "children": [], 
+   "end": "636.680", 
+   "id": "s000208", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r."
+   ]
+  }, 
+  {
+   "begin": "636.680", 
+   "children": [], 
+   "end": "639.760", 
+   "id": "s000209", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter, "
+   ]
+  }, 
+  {
+   "begin": "639.760", 
+   "children": [], 
+   "end": "643.400", 
+   "id": "s000210", 
+   "language": "deu", 
+   "lines": [
+    "selbstverst\u00e4ndlich muss dieser Bundestag \u00fcber die Ergebnisse, "
+   ]
+  }, 
+  {
+   "begin": "643.400", 
+   "children": [], 
+   "end": "646.760", 
+   "id": "s000211", 
+   "language": "deu", 
+   "lines": [
+    "die dem Parlamentarischen Kontrollgremium berichtet werden, "
+   ]
+  }, 
+  {
+   "begin": "646.760", 
+   "children": [], 
+   "end": "649.400", 
+   "id": "s000212", 
+   "language": "deu", 
+   "lines": [
+    "und auch \u00fcber Folgerungen, "
+   ]
+  }, 
+  {
+   "begin": "649.400", 
+   "children": [], 
+   "end": "650.400", 
+   "id": "s000213", 
+   "language": "deu", 
+   "lines": [
+    "die daraus gezogen werden, "
+   ]
+  }, 
+  {
+   "begin": "650.400", 
+   "children": [], 
+   "end": "651.400", 
+   "id": "s000214", 
+   "language": "deu", 
+   "lines": [
+    "diskutieren k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "651.400", 
+   "children": [], 
+   "end": "655.760", 
+   "id": "s000215", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen gibt es alle zwei Jahre einen offenen Bericht des Parlamentarischen Kontrollgremiums, "
+   ]
+  }, 
+  {
+   "begin": "655.760", 
+   "children": [], 
+   "end": "658.120", 
+   "id": "s000216", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber den der Bundestag berichtet, "
+   ]
+  }, 
+  {
+   "begin": "658.120", 
+   "children": [], 
+   "end": "660.760", 
+   "id": "s000217", 
+   "language": "deu", 
+   "lines": [
+    "und Vorschl\u00e4ge des Parlamentarischen Kontrollgremiums, "
+   ]
+  }, 
+  {
+   "begin": "660.760", 
+   "children": [], 
+   "end": "662.760", 
+   "id": "s000218", 
+   "language": "deu", 
+   "lines": [
+    "ob aus verschiedenen Berichten \u2013 "
+   ]
+  }, 
+  {
+   "begin": "662.760", 
+   "children": [], 
+   "end": "664.920", 
+   "id": "s000219", 
+   "language": "deu", 
+   "lines": [
+    "da meine ich nicht nur das Unabh\u00e4ngige Gremium \u2013 "
+   ]
+  }, 
+  {
+   "begin": "664.920", 
+   "children": [], 
+   "end": "666.520", 
+   "id": "s000220", 
+   "language": "deu", 
+   "lines": [
+    "Schlussfolgerungen zu ziehen sind, "
+   ]
+  }, 
+  {
+   "begin": "666.520", 
+   "children": [], 
+   "end": "667.880", 
+   "id": "s000221", 
+   "language": "deu", 
+   "lines": [
+    "die den Gesetzgeber fordern."
+   ]
+  }, 
+  {
+   "begin": "667.880", 
+   "children": [], 
+   "end": "668.680", 
+   "id": "s000222", 
+   "language": "deu", 
+   "lines": [
+    "Danke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "668.680", 
+   "children": [], 
+   "end": "670.760", 
+   "id": "s000223", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat der Kollege Lenkert, "
+   ]
+  }, 
+  {
+   "begin": "670.760", 
+   "children": [], 
+   "end": "672.360", 
+   "id": "s000224", 
+   "language": "deu", 
+   "lines": [
+    "Fraktion Die Linke, "
+   ]
+  }, 
+  {
+   "begin": "672.360", 
+   "children": [], 
+   "end": "673.480", 
+   "id": "s000225", 
+   "language": "deu", 
+   "lines": [
+    "eine Zusatzfrage."
+   ]
+  }, 
+  {
+   "begin": "677.240", 
+   "children": [], 
+   "end": "679.160", 
+   "id": "s000226", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Staatssekret\u00e4r Fritsche, "
+   ]
+  }, 
+  {
+   "begin": "679.160", 
+   "children": [], 
+   "end": "682.040", 
+   "id": "s000227", 
+   "language": "deu", 
+   "lines": [
+    "mein Kollege Andr\u00e9 Hahn fragte Sie ganz eindeutig, "
+   ]
+  }, 
+  {
+   "begin": "682.040", 
+   "children": [], 
+   "end": "684.360", 
+   "id": "s000228", 
+   "language": "deu", 
+   "lines": [
+    "ob Sie alle Unterlagen \u00fcbergeben haben. "
+   ]
+  }, 
+  {
+   "begin": "684.360", 
+   "children": [], 
+   "end": "685.200", 
+   "id": "s000229", 
+   "language": "deu", 
+   "lines": [
+    "Er wollte nicht wissen, "
+   ]
+  }, 
+  {
+   "begin": "685.200", 
+   "children": [], 
+   "end": "685.880", 
+   "id": "s000230", 
+   "language": "deu", 
+   "lines": [
+    "ob Sie wissen, "
+   ]
+  }, 
+  {
+   "begin": "685.880", 
+   "children": [], 
+   "end": "688.480", 
+   "id": "s000231", 
+   "language": "deu", 
+   "lines": [
+    "dass alle Unterlagen vorhanden sind und \u00fcbergeben werden k\u00f6nnten, "
+   ]
+  }, 
+  {
+   "begin": "688.480", 
+   "children": [], 
+   "end": "690.240", 
+   "id": "s000232", 
+   "language": "deu", 
+   "lines": [
+    "sondern ob Sie es \u00fcbergeben haben."
+   ]
+  }, 
+  {
+   "begin": "690.240", 
+   "children": [], 
+   "end": "693.280", 
+   "id": "s000233", 
+   "language": "deu", 
+   "lines": [
+    "Ich stelle jetzt die Frage noch einmal, "
+   ]
+  }, 
+  {
+   "begin": "693.280", 
+   "children": [], 
+   "end": "693.760", 
+   "id": "s000234", 
+   "language": "deu", 
+   "lines": [
+    "aber anders: "
+   ]
+  }, 
+  {
+   "begin": "693.760", 
+   "children": [], 
+   "end": "695.560", 
+   "id": "s000235", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r Fritsche, "
+   ]
+  }, 
+  {
+   "begin": "695.560", 
+   "children": [], 
+   "end": "700.400", 
+   "id": "s000236", 
+   "language": "deu", 
+   "lines": [
+    "haben Sie irgendwelche Unterlagen dem Kontrollgremium nicht zur Verf\u00fcgung gestellt?"
+   ]
+  }, 
+  {
+   "begin": "700.400", 
+   "children": [], 
+   "end": "702.440", 
+   "id": "s000237", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatssekret\u00e4r."
+   ]
+  }, 
+  {
+   "begin": "702.440", 
+   "children": [], 
+   "end": "703.360", 
+   "id": "s000238", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter, "
+   ]
+  }, 
+  {
+   "begin": "703.360", 
+   "children": [], 
+   "end": "705.440", 
+   "id": "s000239", 
+   "language": "deu", 
+   "lines": [
+    "ich kann das noch einmal wiederholen: "
+   ]
+  }, 
+  {
+   "begin": "705.440", 
+   "children": [], 
+   "end": "714.400", 
+   "id": "s000240", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in dem vorgegebenen Rechtsrahmen und unter Ber\u00fccksichtigung der Rechtsprechung des Bundesverfassungsgerichts alle Unterlagen, "
+   ]
+  }, 
+  {
+   "begin": "714.400", 
+   "children": [], 
+   "end": "716.120", 
+   "id": "s000241", 
+   "language": "deu", 
+   "lines": [
+    "zu denen wir verpflichtet sind, "
+   ]
+  }, 
+  {
+   "begin": "716.120", 
+   "children": [], 
+   "end": "717.000", 
+   "id": "s000242", 
+   "language": "deu", 
+   "lines": [
+    "sie vorzulegen, "
+   ]
+  }, 
+  {
+   "begin": "717.000", 
+   "children": [], 
+   "end": "717.800", 
+   "id": "s000243", 
+   "language": "deu", 
+   "lines": [
+    "vorgelegt."
+   ]
+  }, 
+  {
+   "begin": "717.800", 
+   "children": [], 
+   "end": "720.120", 
+   "id": "s000244", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "720.120", 
+   "children": [], 
+   "end": "723.840", 
+   "id": "s000245", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt sehe ich keine weiteren Zusatzfragen zu Frage\u00a03."
+   ]
+  }, 
+  {
+   "begin": "723.840", 
+   "children": [], 
+   "end": "727.240", 
+   "id": "s000246", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe den Gesch\u00e4ftsbereich des Ausw\u00e4rtigen Amtes auf. "
+   ]
+  }, 
+  {
+   "begin": "727.240", 
+   "children": [], 
+   "end": "732.800", 
+   "id": "s000247", 
+   "language": "deu", 
+   "lines": [
+    "Zur Beantwortung ist der Staatsminister Roth anwesend."
+   ]
+  }, 
+  {
+   "begin": "732.800", 
+   "children": [], 
+   "end": "738.080", 
+   "id": "s000248", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe die Frage\u00a04 des Abgeordneten Kamann von der AfD auf:"
+   ]
+  }, 
+  {
+   "begin": "738.080", 
+   "children": [], 
+   "end": "739.960", 
+   "id": "s000249", 
+   "language": "deu", 
+   "lines": [
+    "Ist er anwesend?"
+   ]
+  }, 
+  {
+   "begin": "739.960", 
+   "children": [], 
+   "end": "743.600", 
+   "id": "s000250", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Weil wenn Sie nicht anwesend sind\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "743.600", 
+   "children": [], 
+   "end": "744.480", 
+   "id": "s000251", 
+   "language": "deu", 
+   "lines": [
+    "so sind die Regeln\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "744.480", 
+   "children": [], 
+   "end": "747.000", 
+   "id": "s000252", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrde die Frage schriftlich beantwortet. "
+   ]
+  }, 
+  {
+   "begin": "747.000", 
+   "children": [], 
+   "end": "749.440", 
+   "id": "s000253", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen bitte ich den Fragesteller, "
+   ]
+  }, 
+  {
+   "begin": "749.440", 
+   "children": [], 
+   "end": "750.840", 
+   "id": "s000254", 
+   "language": "deu", 
+   "lines": [
+    "sich immer zu erkennen zu geben. "
+   ]
+  }, 
+  {
+   "begin": "750.840", 
+   "children": [], 
+   "end": "752.080", 
+   "id": "s000255", 
+   "language": "deu", 
+   "lines": [
+    "Notfalls kann man aufstehen, "
+   ]
+  }, 
+  {
+   "begin": "752.080", 
+   "children": [], 
+   "end": "753.000", 
+   "id": "s000256", 
+   "language": "deu", 
+   "lines": [
+    "um zu zeigen, "
+   ]
+  }, 
+  {
+   "begin": "753.000", 
+   "children": [], 
+   "end": "754.360", 
+   "id": "s000257", 
+   "language": "deu", 
+   "lines": [
+    "dass man anwesend ist."
+   ]
+  }, 
+  {
+   "begin": "754.360", 
+   "children": [], 
+   "end": "755.560", 
+   "id": "s000258", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister."
+   ]
+  }, 
+  {
+   "begin": "755.560", 
+   "children": [], 
+   "end": "756.560", 
+   "id": "s000259", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "756.560", 
+   "children": [], 
+   "end": "757.880", 
+   "id": "s000260", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "757.880", 
+   "children": [], 
+   "end": "759.800", 
+   "id": "s000261", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter Kamann, "
+   ]
+  }, 
+  {
+   "begin": "759.800", 
+   "children": [], 
+   "end": "761.080", 
+   "id": "s000262", 
+   "language": "deu", 
+   "lines": [
+    "die Frage, "
+   ]
+  }, 
+  {
+   "begin": "761.080", 
+   "children": [], 
+   "end": "762.240", 
+   "id": "s000263", 
+   "language": "deu", 
+   "lines": [
+    "die Sie aufgeworfen haben, "
+   ]
+  }, 
+  {
+   "begin": "762.240", 
+   "children": [], 
+   "end": "765.400", 
+   "id": "s000264", 
+   "language": "deu", 
+   "lines": [
+    "hat uns in den vergangenen Tagen sehr bewegt. "
+   ]
+  }, 
+  {
+   "begin": "765.400", 
+   "children": [], 
+   "end": "767.920", 
+   "id": "s000265", 
+   "language": "deu", 
+   "lines": [
+    "Ich nehme Ihre Frage zum Anlass, "
+   ]
+  }, 
+  {
+   "begin": "767.920", 
+   "children": [], 
+   "end": "771.240", 
+   "id": "s000266", 
+   "language": "deu", 
+   "lines": [
+    "vier Bemerkungen im Rahmen meiner Antwort zu machen."
+   ]
+  }, 
+  {
+   "begin": "771.240", 
+   "children": [], 
+   "end": "772.280", 
+   "id": "s000267", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "772.280", 
+   "children": [], 
+   "end": "775.000", 
+   "id": "s000268", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung hat sehr deutlich gemacht, "
+   ]
+  }, 
+  {
+   "begin": "775.000", 
+   "children": [], 
+   "end": "779.400", 
+   "id": "s000269", 
+   "language": "deu", 
+   "lines": [
+    "dass wir mit der Entscheidung des amerikanischen Pr\u00e4sidenten Donald Trump, "
+   ]
+  }, 
+  {
+   "begin": "779.400", 
+   "children": [], 
+   "end": "782.920", 
+   "id": "s000270", 
+   "language": "deu", 
+   "lines": [
+    "Jerusalem als Hauptstadt Israels einseitig anzuerkennen, "
+   ]
+  }, 
+  {
+   "begin": "782.920", 
+   "children": [], 
+   "end": "785.760", 
+   "id": "s000271", 
+   "language": "deu", 
+   "lines": [
+    "nicht einverstanden sind. "
+   ]
+  }, 
+  {
+   "begin": "785.760", 
+   "children": [], 
+   "end": "791.200", 
+   "id": "s000272", 
+   "language": "deu", 
+   "lines": [
+    "Ostjerusalem ist nach wie vor Teil der besetzten pal\u00e4stinensischen Gebiete. "
+   ]
+  }, 
+  {
+   "begin": "791.200", 
+   "children": [], 
+   "end": "798.600", 
+   "id": "s000273", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden keine \u00c4nderung der vor 1967 bestehenden Grenzen anerkennen, "
+   ]
+  }, 
+  {
+   "begin": "798.600", 
+   "children": [], 
+   "end": "801.160", 
+   "id": "s000274", 
+   "language": "deu", 
+   "lines": [
+    "die nicht zwischen den beiden Seiten, "
+   ]
+  }, 
+  {
+   "begin": "801.160", 
+   "children": [], 
+   "end": "803.040", 
+   "id": "s000275", 
+   "language": "deu", 
+   "lines": [
+    "also Israel und den Pal\u00e4stinensern, "
+   ]
+  }, 
+  {
+   "begin": "803.040", 
+   "children": [], 
+   "end": "804.320", 
+   "id": "s000276", 
+   "language": "deu", 
+   "lines": [
+    "vereinbart wurde. "
+   ]
+  }, 
+  {
+   "begin": "804.320", 
+   "children": [], 
+   "end": "810.960", 
+   "id": "s000277", 
+   "language": "deu", 
+   "lines": [
+    "Gleiches gilt nat\u00fcrlich f\u00fcr den Status Jerusalems als Hauptstadt Israels und Pal\u00e4stinas."
+   ]
+  }, 
+  {
+   "begin": "810.960", 
+   "children": [], 
+   "end": "812.720", 
+   "id": "s000278", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "812.720", 
+   "children": [], 
+   "end": "816.560", 
+   "id": "s000279", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben diese Haltung nicht nur als Bundesrepublik Deutschland\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "816.560", 
+   "children": [], 
+   "end": "817.280", 
+   "id": "s000280", 
+   "language": "deu", 
+   "lines": [
+    "die Bundeskanzlerin, "
+   ]
+  }, 
+  {
+   "begin": "817.280", 
+   "children": [], 
+   "end": "818.040", 
+   "id": "s000281", 
+   "language": "deu", 
+   "lines": [
+    "der Au\u00dfenminister, "
+   ]
+  }, 
+  {
+   "begin": "818.040", 
+   "children": [], 
+   "end": "820.440", 
+   "id": "s000282", 
+   "language": "deu", 
+   "lines": [
+    "viele andere Vertreterinnen und Vertreter der Bundesregierung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "820.440", 
+   "children": [], 
+   "end": "821.360", 
+   "id": "s000283", 
+   "language": "deu", 
+   "lines": [
+    "zum Ausdruck gebracht, "
+   ]
+  }, 
+  {
+   "begin": "821.360", 
+   "children": [], 
+   "end": "827.560", 
+   "id": "s000284", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir hatten am Montag auch ein Gespr\u00e4ch mit dem israelischen Premierminister in Br\u00fcssel, "
+   ]
+  }, 
+  {
+   "begin": "827.560", 
+   "children": [], 
+   "end": "830.640", 
+   "id": "s000285", 
+   "language": "deu", 
+   "lines": [
+    "in dem die gesamte Europ\u00e4ische Union\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "830.640", 
+   "children": [], 
+   "end": "834.080", 
+   "id": "s000286", 
+   "language": "deu", 
+   "lines": [
+    "vertreten durch die Ministerinnen und Minister sowie die Hohe Beauftragte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "834.080", 
+   "children": [], 
+   "end": "836.520", 
+   "id": "s000287", 
+   "language": "deu", 
+   "lines": [
+    "ihren Standpunkt deutlich gemacht hat. "
+   ]
+  }, 
+  {
+   "begin": "836.520", 
+   "children": [], 
+   "end": "837.320", 
+   "id": "s000288", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "837.320", 
+   "children": [], 
+   "end": "842.360", 
+   "id": "s000289", 
+   "language": "deu", 
+   "lines": [
+    "weder Deutschland noch die Europ\u00e4ische Union sind mit dieser Entscheidung einverstanden."
+   ]
+  }, 
+  {
+   "begin": "842.360", 
+   "children": [], 
+   "end": "851.480", 
+   "id": "s000290", 
+   "language": "deu", 
+   "lines": [
+    "Drittens haben wir weiterhin an die zentrale Rolle der Vereinigten Staaten zur Befriedung in der Region appelliert. "
+   ]
+  }, 
+  {
+   "begin": "851.480", 
+   "children": [], 
+   "end": "856.640", 
+   "id": "s000291", 
+   "language": "deu", 
+   "lines": [
+    "Es liegt eine gemeinsame Erkl\u00e4rung von Frankreich, "
+   ]
+  }, 
+  {
+   "begin": "856.640", 
+   "children": [], 
+   "end": "857.240", 
+   "id": "s000292", 
+   "language": "deu", 
+   "lines": [
+    "Gro\u00dfbritannien, "
+   ]
+  }, 
+  {
+   "begin": "857.240", 
+   "children": [], 
+   "end": "858.000", 
+   "id": "s000293", 
+   "language": "deu", 
+   "lines": [
+    "Italien, "
+   ]
+  }, 
+  {
+   "begin": "858.000", 
+   "children": [], 
+   "end": "862.400", 
+   "id": "s000294", 
+   "language": "deu", 
+   "lines": [
+    "Schweden und Deutschland im Rahmen des Sicherheitsrates vor, "
+   ]
+  }, 
+  {
+   "begin": "862.400", 
+   "children": [], 
+   "end": "866.800", 
+   "id": "s000295", 
+   "language": "deu", 
+   "lines": [
+    "in der wir noch einmal die Vereinigten Staaten eindringlich aufgefordert haben, "
+   ]
+  }, 
+  {
+   "begin": "866.800", 
+   "children": [], 
+   "end": "871.600", 
+   "id": "s000296", 
+   "language": "deu", 
+   "lines": [
+    "einen konstruktiven Beitrag zur Konfliktl\u00f6sung in der Region zu leisten. "
+   ]
+  }, 
+  {
+   "begin": "871.600", 
+   "children": [], 
+   "end": "874.800", 
+   "id": "s000297", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcberhaupt sind wir der Auffassung, "
+   ]
+  }, 
+  {
+   "begin": "874.800", 
+   "children": [], 
+   "end": "876.200", 
+   "id": "s000298", 
+   "language": "deu", 
+   "lines": [
+    "dass die Europ\u00e4ische Union\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "876.200", 
+   "children": [], 
+   "end": "878.000", 
+   "id": "s000299", 
+   "language": "deu", 
+   "lines": [
+    "wie uns das am Montag auch gelungen ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "878.000", 
+   "children": [], 
+   "end": "880.840", 
+   "id": "s000300", 
+   "language": "deu", 
+   "lines": [
+    "in dieser Frage mit einer Stimme sprechen muss."
+   ]
+  }, 
+  {
+   "begin": "880.840", 
+   "children": [], 
+   "end": "882.960", 
+   "id": "s000301", 
+   "language": "deu", 
+   "lines": [
+    "Ein letzter Punkt. "
+   ]
+  }, 
+  {
+   "begin": "882.960", 
+   "children": [], 
+   "end": "887.040", 
+   "id": "s000302", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt insbesondere in Deutschland Trittbrettfahrer, "
+   ]
+  }, 
+  {
+   "begin": "887.040", 
+   "children": [], 
+   "end": "889.600", 
+   "id": "s000303", 
+   "language": "deu", 
+   "lines": [
+    "die diese Entscheidung dazu missbrauchen, "
+   ]
+  }, 
+  {
+   "begin": "889.600", 
+   "children": [], 
+   "end": "895.080", 
+   "id": "s000304", 
+   "language": "deu", 
+   "lines": [
+    "Antisemitismus und antiisraelischen Ressentiments Raum zu geben. "
+   ]
+  }, 
+  {
+   "begin": "895.080", 
+   "children": [], 
+   "end": "900.920", 
+   "id": "s000305", 
+   "language": "deu", 
+   "lines": [
+    "Das ist f\u00fcr uns v\u00f6llig inakzeptabel und muss mit der Sch\u00e4rfe des Gesetzes geahndet werden."
+   ]
+  }, 
+  {
+   "begin": "900.920", 
+   "children": [], 
+   "end": "911.640", 
+   "id": "s000306", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr ist in Deutschland und in der Europ\u00e4ischen Union kein Platz."
+   ]
+  }, 
+  {
+   "begin": "911.640", 
+   "children": [], 
+   "end": "912.280", 
+   "id": "s000307", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "912.280", 
+   "children": [], 
+   "end": "915.840", 
+   "id": "s000308", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Kamann zu einer Zusatzfrage."
+   ]
+  }, 
+  {
+   "begin": "915.840", 
+   "children": [], 
+   "end": "920.600", 
+   "id": "s000309", 
+   "language": "deu", 
+   "lines": [
+    "Bezogen auf Ihre vierte Antwort m\u00f6chte ich gerne zus\u00e4tzlich die Frage stellen: "
+   ]
+  }, 
+  {
+   "begin": "920.600", 
+   "children": [], 
+   "end": "922.720", 
+   "id": "s000310", 
+   "language": "deu", 
+   "lines": [
+    "Welche Ma\u00dfnahmen plant die Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "922.720", 
+   "children": [], 
+   "end": "923.200", 
+   "id": "s000311", 
+   "language": "deu", 
+   "lines": [
+    "um einen Schaden, "
+   ]
+  }, 
+  {
+   "begin": "923.200", 
+   "children": [], 
+   "end": "925.760", 
+   "id": "s000312", 
+   "language": "deu", 
+   "lines": [
+    "der aus einem Konflikt zwischen mit uns befreundeten Staaten, "
+   ]
+  }, 
+  {
+   "begin": "925.760", 
+   "children": [], 
+   "end": "928.440", 
+   "id": "s000313", 
+   "language": "deu", 
+   "lines": [
+    "wie zum Beispiel Israel oder den USA, "
+   ]
+  }, 
+  {
+   "begin": "928.440", 
+   "children": [], 
+   "end": "929.640", 
+   "id": "s000314", 
+   "language": "deu", 
+   "lines": [
+    "resultiert, "
+   ]
+  }, 
+  {
+   "begin": "929.640", 
+   "children": [], 
+   "end": "931.840", 
+   "id": "s000315", 
+   "language": "deu", 
+   "lines": [
+    "wie zum Beispiel eine Flaggenverbrennung, "
+   ]
+  }, 
+  {
+   "begin": "931.840", 
+   "children": [], 
+   "end": "934.440", 
+   "id": "s000316", 
+   "language": "deu", 
+   "lines": [
+    "auf deutschem Boden zu verhindern?"
+   ]
+  }, 
+  {
+   "begin": "934.440", 
+   "children": [], 
+   "end": "941.760", 
+   "id": "s000317", 
+   "language": "deu", 
+   "lines": [
+    "Indem die Bundesrepublik und die Bundesregierung und im \u00dcbrigen auch viele Kolleginnen und Kollegen des Deutschen Bundestages deutlich machen, "
+   ]
+  }, 
+  {
+   "begin": "941.760", 
+   "children": [], 
+   "end": "946.920", 
+   "id": "s000318", 
+   "language": "deu", 
+   "lines": [
+    "dass das weder mit unseren Grundwerten noch mit dem Grundgesetz vereinbar ist, "
+   ]
+  }, 
+  {
+   "begin": "946.920", 
+   "children": [], 
+   "end": "954.680", 
+   "id": "s000319", 
+   "language": "deu", 
+   "lines": [
+    "dass das strafrechtlich zu ahnden ist und dass das auf den geschlossenen Widerstand nicht nur von Politik, "
+   ]
+  }, 
+  {
+   "begin": "954.680", 
+   "children": [], 
+   "end": "957.240", 
+   "id": "s000320", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch von der deutschen Gesellschaft st\u00f6\u00dft. "
+   ]
+  }, 
+  {
+   "begin": "957.240", 
+   "children": [], 
+   "end": "963.960", 
+   "id": "s000321", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen war das auch Thema verschiedener Gespr\u00e4che mit Vertreterinnen und Vertretern Israels, "
+   ]
+  }, 
+  {
+   "begin": "963.960", 
+   "children": [], 
+   "end": "965.960", 
+   "id": "s000322", 
+   "language": "deu", 
+   "lines": [
+    "aber auch anderer befreundeter Staaten, "
+   ]
+  }, 
+  {
+   "begin": "965.960", 
+   "children": [], 
+   "end": "966.920", 
+   "id": "s000323", 
+   "language": "deu", 
+   "lines": [
+    "um deutlich zu machen, "
+   ]
+  }, 
+  {
+   "begin": "966.920", 
+   "children": [], 
+   "end": "971.880", 
+   "id": "s000324", 
+   "language": "deu", 
+   "lines": [
+    "dass wir dies nicht dulden und dass wir alle M\u00f6glichkeiten pr\u00fcfen, "
+   ]
+  }, 
+  {
+   "begin": "971.880", 
+   "children": [], 
+   "end": "976.400", 
+   "id": "s000325", 
+   "language": "deu", 
+   "lines": [
+    "um solchen Aktivit\u00e4ten zuk\u00fcnftig keinen Vorschub zu leisten."
+   ]
+  }, 
+  {
+   "begin": "976.400", 
+   "children": [], 
+   "end": "978.320", 
+   "id": "s000326", 
+   "language": "deu", 
+   "lines": [
+    "Noch eine Frage?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "978.320", 
+   "children": [], 
+   "end": "979.760", 
+   "id": "s000327", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr. "
+   ]
+  }, 
+  {
+   "begin": "979.760", 
+   "children": [], 
+   "end": "982.160", 
+   "id": "s000328", 
+   "language": "deu", 
+   "lines": [
+    "Gibt es sonstige Zusatzfragen zu der Frage\u00a04?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "982.160", 
+   "children": [], 
+   "end": "984.640", 
+   "id": "s000329", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht der Fall."
+   ]
+  }, 
+  {
+   "begin": "984.640", 
+   "children": [], 
+   "end": "990.240", 
+   "id": "s000330", 
+   "language": "deu", 
+   "lines": [
+    "Dann rufe ich die Frage\u00a05 des Kollegen Dr.\u00a0Neu, "
+   ]
+  }, 
+  {
+   "begin": "990.240", 
+   "children": [], 
+   "end": "992.360", 
+   "id": "s000331", 
+   "language": "deu", 
+   "lines": [
+    "Fraktion Die Linke, "
+   ]
+  }, 
+  {
+   "begin": "992.360", 
+   "children": [], 
+   "end": "995.080", 
+   "id": "s000332", 
+   "language": "deu", 
+   "lines": [
+    "auf:"
+   ]
+  }, 
+  {
+   "begin": "995.080", 
+   "children": [], 
+   "end": "996.640", 
+   "id": "s000333", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister."
+   ]
+  }, 
+  {
+   "begin": "996.640", 
+   "children": [], 
+   "end": "998.400", 
+   "id": "s000334", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "998.400", 
+   "children": [], 
+   "end": "1000.200", 
+   "id": "s000335", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Neu, "
+   ]
+  }, 
+  {
+   "begin": "1000.200", 
+   "children": [], 
+   "end": "1002.520", 
+   "id": "s000336", 
+   "language": "deu", 
+   "lines": [
+    "wir sind schon seit Jahren, "
+   ]
+  }, 
+  {
+   "begin": "1002.520", 
+   "children": [], 
+   "end": "1003.920", 
+   "id": "s000337", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere mit Frankreich, "
+   ]
+  }, 
+  {
+   "begin": "1003.920", 
+   "children": [], 
+   "end": "1005.960", 
+   "id": "s000338", 
+   "language": "deu", 
+   "lines": [
+    "Italien und Spanien, "
+   ]
+  }, 
+  {
+   "begin": "1005.960", 
+   "children": [], 
+   "end": "1007.680", 
+   "id": "s000339", 
+   "language": "deu", 
+   "lines": [
+    "dem Ziel verpflichtet, "
+   ]
+  }, 
+  {
+   "begin": "1007.680", 
+   "children": [], 
+   "end": "1009.120", 
+   "id": "s000340", 
+   "language": "deu", 
+   "lines": [
+    "die Sicherheits- "
+   ]
+  }, 
+  {
+   "begin": "1009.120", 
+   "children": [], 
+   "end": "1012.600", 
+   "id": "s000341", 
+   "language": "deu", 
+   "lines": [
+    "und Verteidigungspolitik in der Europ\u00e4ischen Union enger, "
+   ]
+  }, 
+  {
+   "begin": "1012.600", 
+   "children": [], 
+   "end": "1015.000", 
+   "id": "s000342", 
+   "language": "deu", 
+   "lines": [
+    "verbindlicher und verl\u00e4sslicher abzustimmen. "
+   ]
+  }, 
+  {
+   "begin": "1015.000", 
+   "children": [], 
+   "end": "1028.080", 
+   "id": "s000343", 
+   "language": "deu", 
+   "lines": [
+    "25\u00a0Mitgliedstaaten der Europ\u00e4ischen Union haben sich daran beteiligt und die St\u00e4ndige Strukturierte Zusammenarbeit auf den Weg gebracht. "
+   ]
+  }, 
+  {
+   "begin": "1028.080", 
+   "children": [], 
+   "end": "1031.880", 
+   "id": "s000344", 
+   "language": "deu", 
+   "lines": [
+    "Die technokratische Abk\u00fcrzung daf\u00fcr nennt sich PESCO. "
+   ]
+  }, 
+  {
+   "begin": "1031.880", 
+   "children": [], 
+   "end": "1036.560", 
+   "id": "s000345", 
+   "language": "deu", 
+   "lines": [
+    "Dies ist f\u00fcr uns ein wichtiger Meilenstein auf dem Weg dahin, "
+   ]
+  }, 
+  {
+   "begin": "1036.560", 
+   "children": [], 
+   "end": "1038.600", 
+   "id": "s000346", 
+   "language": "deu", 
+   "lines": [
+    "dass die Europ\u00e4ische Union in au\u00dfen- "
+   ]
+  }, 
+  {
+   "begin": "1038.600", 
+   "children": [], 
+   "end": "1039.120", 
+   "id": "s000347", 
+   "language": "deu", 
+   "lines": [
+    "und sicherheits-, "
+   ]
+  }, 
+  {
+   "begin": "1039.120", 
+   "children": [], 
+   "end": "1044.760", 
+   "id": "s000348", 
+   "language": "deu", 
+   "lines": [
+    "aber auch verteidigungspolitischen Fragen mit einer Stimme spricht und enger zusammenarbeitet. "
+   ]
+  }, 
+  {
+   "begin": "1044.760", 
+   "children": [], 
+   "end": "1050.040", 
+   "id": "s000349", 
+   "language": "deu", 
+   "lines": [
+    "Das Ganze ist angelegt im Anspruch der EU-Globalstrategie, "
+   ]
+  }, 
+  {
+   "begin": "1050.040", 
+   "children": [], 
+   "end": "1054.040", 
+   "id": "s000350", 
+   "language": "deu", 
+   "lines": [
+    "die wir hier im Deutschen Bundestag ja schon mehrfach diskutiert haben."
+   ]
+  }, 
+  {
+   "begin": "1054.040", 
+   "children": [], 
+   "end": "1059.400", 
+   "id": "s000351", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen auch auf die Krisen in unserer Nachbarschaft eigenst\u00e4ndiger reagieren. "
+   ]
+  }, 
+  {
+   "begin": "1059.400", 
+   "children": [], 
+   "end": "1061.400", 
+   "id": "s000352", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen immer mit einbeziehen, "
+   ]
+  }, 
+  {
+   "begin": "1061.400", 
+   "children": [], 
+   "end": "1066.920", 
+   "id": "s000353", 
+   "language": "deu", 
+   "lines": [
+    "dass nicht alle Mitgliedstaaten der Europ\u00e4ischen Union auch NATO-Mitgliedstaaten sind. "
+   ]
+  }, 
+  {
+   "begin": "1066.920", 
+   "children": [], 
+   "end": "1071.080", 
+   "id": "s000354", 
+   "language": "deu", 
+   "lines": [
+    "Es versteht sich f\u00fcr uns deshalb von selbst, "
+   ]
+  }, 
+  {
+   "begin": "1071.080", 
+   "children": [], 
+   "end": "1074.920", 
+   "id": "s000355", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das europ\u00e4ische Engagement eng mit der NATO abstimmen."
+   ]
+  }, 
+  {
+   "begin": "1074.920", 
+   "children": [], 
+   "end": "1086.200", 
+   "id": "s000356", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus pr\u00e4judiziert die Beschlussfassung der Bundesregierung im Rat \u00fcberhaupt keine k\u00fcnftigen Entscheidungen des Bundestages \u00fcber den Bundeshaushalt, "
+   ]
+  }, 
+  {
+   "begin": "1086.200", 
+   "children": [], 
+   "end": "1092.440", 
+   "id": "s000357", 
+   "language": "deu", 
+   "lines": [
+    "und die haushaltspolitischen Kompetenzen des Bundestages werden auch \u00fcberhaupt nicht eingeschr\u00e4nkt. "
+   ]
+  }, 
+  {
+   "begin": "1092.440", 
+   "children": [], 
+   "end": "1097.080", 
+   "id": "s000358", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben auch in einer Protokollerkl\u00e4rung noch einmal deutlich gemacht, "
+   ]
+  }, 
+  {
+   "begin": "1097.080", 
+   "children": [], 
+   "end": "1104.320", 
+   "id": "s000359", 
+   "language": "deu", 
+   "lines": [
+    "dass nationales Haushaltsrecht anwendbar bleibt und unber\u00fchrt ist von einer Zustimmung zu PESCO."
+   ]
+  }, 
+  {
+   "begin": "1104.320", 
+   "children": [], 
+   "end": "1106.040", 
+   "id": "s000360", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1106.040", 
+   "children": [], 
+   "end": "1106.960", 
+   "id": "s000361", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Neu."
+   ]
+  }, 
+  {
+   "begin": "1106.960", 
+   "children": [], 
+   "end": "1109.440", 
+   "id": "s000362", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe noch eine Nachfrage.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1109.440", 
+   "children": [], 
+   "end": "1112.120", 
+   "id": "s000363", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben ja im Rahmen der Diskussion \u00fcber PESCO zugesagt, "
+   ]
+  }, 
+  {
+   "begin": "1112.120", 
+   "children": [], 
+   "end": "1116.480", 
+   "id": "s000364", 
+   "language": "deu", 
+   "lines": [
+    "dass Entscheidungsverfahren innerhalb von PESCO durch das sogenannte Fast Track beschleunigt werden sollen. "
+   ]
+  }, 
+  {
+   "begin": "1116.480", 
+   "children": [], 
+   "end": "1119.320", 
+   "id": "s000365", 
+   "language": "deu", 
+   "lines": [
+    "Was hei\u00dft das nun f\u00fcr den Deutschen Bundestag, "
+   ]
+  }, 
+  {
+   "begin": "1119.320", 
+   "children": [], 
+   "end": "1122.240", 
+   "id": "s000366", 
+   "language": "deu", 
+   "lines": [
+    "auch mit Blick auf die Entsendung von Truppen im Rahmen der EU? "
+   ]
+  }, 
+  {
+   "begin": "1122.240", 
+   "children": [], 
+   "end": "1124.000", 
+   "id": "s000367", 
+   "language": "deu", 
+   "lines": [
+    "Bedeutet das eine Schleifung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1124.000", 
+   "children": [], 
+   "end": "1125.600", 
+   "id": "s000368", 
+   "language": "deu", 
+   "lines": [
+    "was ja schon mehrfach versucht worden ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1125.600", 
+   "children": [], 
+   "end": "1128.080", 
+   "id": "s000369", 
+   "language": "deu", 
+   "lines": [
+    "des Parlamentsbeteiligungsgesetzes?"
+   ]
+  }, 
+  {
+   "begin": "1128.080", 
+   "children": [], 
+   "end": "1130.080", 
+   "id": "s000370", 
+   "language": "deu", 
+   "lines": [
+    "Mitnichten. "
+   ]
+  }, 
+  {
+   "begin": "1130.080", 
+   "children": [], 
+   "end": "1134.320", 
+   "id": "s000371", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung ist weiterhin dem Grundsatz verpflichtet, "
+   ]
+  }, 
+  {
+   "begin": "1134.320", 
+   "children": [], 
+   "end": "1145.480", 
+   "id": "s000372", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich bei der Bundeswehr um eine Parlamentsarmee handelt und dass die zentralen Entscheidungen letztinstanzlich der Bundestag und nicht die Bundesregierung zu treffen hat. "
+   ]
+  }, 
+  {
+   "begin": "1145.480", 
+   "children": [], 
+   "end": "1148.120", 
+   "id": "s000373", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Grundsatz bleibt von der Entscheidung, "
+   ]
+  }, 
+  {
+   "begin": "1148.120", 
+   "children": [], 
+   "end": "1150.280", 
+   "id": "s000374", 
+   "language": "deu", 
+   "lines": [
+    "im Rahmen von PESCO in sicherheits- "
+   ]
+  }, 
+  {
+   "begin": "1150.280", 
+   "children": [], 
+   "end": "1153.640", 
+   "id": "s000375", 
+   "language": "deu", 
+   "lines": [
+    "und verteidigungspolitischen Fragen enger zusammenzuarbeiten, "
+   ]
+  }, 
+  {
+   "begin": "1153.640", 
+   "children": [], 
+   "end": "1154.920", 
+   "id": "s000376", 
+   "language": "deu", 
+   "lines": [
+    "v\u00f6llig unber\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "1154.920", 
+   "children": [], 
+   "end": "1157.360", 
+   "id": "s000377", 
+   "language": "deu", 
+   "lines": [
+    "Das Gleiche gilt auch f\u00fcr die finanzielle Dimension: "
+   ]
+  }, 
+  {
+   "begin": "1157.360", 
+   "children": [], 
+   "end": "1159.320", 
+   "id": "s000378", 
+   "language": "deu", 
+   "lines": [
+    "Hier gibt es keine Pr\u00e4judizierung, "
+   ]
+  }, 
+  {
+   "begin": "1159.320", 
+   "children": [], 
+   "end": "1162.200", 
+   "id": "s000379", 
+   "language": "deu", 
+   "lines": [
+    "wie ich das in meiner Antwort eingangs auch schon zum Ausdruck gebracht habe."
+   ]
+  }, 
+  {
+   "begin": "1162.200", 
+   "children": [], 
+   "end": "1162.920", 
+   "id": "s000380", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1162.920", 
+   "children": [], 
+   "end": "1164.160", 
+   "id": "s000381", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Neu, "
+   ]
+  }, 
+  {
+   "begin": "1164.160", 
+   "children": [], 
+   "end": "1164.960", 
+   "id": "s000382", 
+   "language": "deu", 
+   "lines": [
+    "bitte sehr."
+   ]
+  }, 
+  {
+   "begin": "1164.960", 
+   "children": [], 
+   "end": "1167.520", 
+   "id": "s000383", 
+   "language": "deu", 
+   "lines": [
+    "Ich h\u00e4tte noch eine weitere Verst\u00e4ndnisfrage. "
+   ]
+  }, 
+  {
+   "begin": "1167.520", 
+   "children": [], 
+   "end": "1170.400", 
+   "id": "s000384", 
+   "language": "deu", 
+   "lines": [
+    "Es wird ja mit Blick auf PESCO immer wieder mit dem Argument geworben, "
+   ]
+  }, 
+  {
+   "begin": "1170.400", 
+   "children": [], 
+   "end": "1173.920", 
+   "id": "s000385", 
+   "language": "deu", 
+   "lines": [
+    "dass multinationale Beschaffungsprojekte letztendlich g\u00fcnstiger seien, "
+   ]
+  }, 
+  {
+   "begin": "1173.920", 
+   "children": [], 
+   "end": "1177.920", 
+   "id": "s000386", 
+   "language": "deu", 
+   "lines": [
+    "also eine Entlastung der jeweiligen nationalen Milit\u00e4rhaushalte bedeuten w\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "1177.920", 
+   "children": [], 
+   "end": "1179.120", 
+   "id": "s000387", 
+   "language": "deu", 
+   "lines": [
+    "Die bisherigen Erfahrungen mit multinationalen Projekten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1179.120", 
+   "children": [], 
+   "end": "1180.560", 
+   "id": "s000388", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Airbus A400M, "
+   ]
+  }, 
+  {
+   "begin": "1180.560", 
+   "children": [], 
+   "end": "1181.280", 
+   "id": "s000389", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Eurofighter, "
+   ]
+  }, 
+  {
+   "begin": "1181.280", 
+   "children": [], 
+   "end": "1183.200", 
+   "id": "s000390", 
+   "language": "deu", 
+   "lines": [
+    "der fast das Zweieinhalbfache von dem kostet, "
+   ]
+  }, 
+  {
+   "begin": "1183.200", 
+   "children": [], 
+   "end": "1187.480", 
+   "id": "s000391", 
+   "language": "deu", 
+   "lines": [
+    "was 1998 veranschlagt wurde\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1187.480", 
+   "children": [], 
+   "end": "1189.760", 
+   "id": "s000392", 
+   "language": "deu", 
+   "lines": [
+    "sind allerdings nicht unbedingt ein Beweis daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "1189.760", 
+   "children": [], 
+   "end": "1195.240", 
+   "id": "s000393", 
+   "language": "deu", 
+   "lines": [
+    "dass PESCO eine Verg\u00fcnstigung f\u00fcr die Milit\u00e4rhaushalte mit sich bringen w\u00fcrde. "
+   ]
+  }, 
+  {
+   "begin": "1195.240", 
+   "children": [], 
+   "end": "1199.120", 
+   "id": "s000394", 
+   "language": "deu", 
+   "lines": [
+    "Zugleich wird die Benchmark von 2\u00a0Prozent auch bei PESCO anvisiert. "
+   ]
+  }, 
+  {
+   "begin": "1199.120", 
+   "children": [], 
+   "end": "1200.640", 
+   "id": "s000395", 
+   "language": "deu", 
+   "lines": [
+    "Sehen Sie da keinen Widerspruch?"
+   ]
+  }, 
+  {
+   "begin": "1200.640", 
+   "children": [], 
+   "end": "1201.840", 
+   "id": "s000396", 
+   "language": "deu", 
+   "lines": [
+    "Mitnichten. "
+   ]
+  }, 
+  {
+   "begin": "1201.840", 
+   "children": [], 
+   "end": "1202.560", 
+   "id": "s000397", 
+   "language": "deu", 
+   "lines": [
+    "Wir sollten auch, "
+   ]
+  }, 
+  {
+   "begin": "1202.560", 
+   "children": [], 
+   "end": "1203.320", 
+   "id": "s000398", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Neu, "
+   ]
+  }, 
+  {
+   "begin": "1203.320", 
+   "children": [], 
+   "end": "1205.280", 
+   "id": "s000399", 
+   "language": "deu", 
+   "lines": [
+    "aus den Fehlern der Vergangenheit lernen. "
+   ]
+  }, 
+  {
+   "begin": "1205.280", 
+   "children": [], 
+   "end": "1208.480", 
+   "id": "s000400", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich das an einem einzigen Beispiel illustrieren, "
+   ]
+  }, 
+  {
+   "begin": "1208.480", 
+   "children": [], 
+   "end": "1210.080", 
+   "id": "s000401", 
+   "language": "deu", 
+   "lines": [
+    "an dem auch deutlich wird, "
+   ]
+  }, 
+  {
+   "begin": "1210.080", 
+   "children": [], 
+   "end": "1213.840", 
+   "id": "s000402", 
+   "language": "deu", 
+   "lines": [
+    "wohin der Weg im Rahmen von PESCO gehen sollte. "
+   ]
+  }, 
+  {
+   "begin": "1213.840", 
+   "children": [], 
+   "end": "1217.880", 
+   "id": "s000403", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben beispielsweise seitens der Bundesregierung den Vorschlag unterbreitet, "
+   ]
+  }, 
+  {
+   "begin": "1217.880", 
+   "children": [], 
+   "end": "1219.320", 
+   "id": "s000404", 
+   "language": "deu", 
+   "lines": [
+    "dass die Staaten, "
+   ]
+  }, 
+  {
+   "begin": "1219.320", 
+   "children": [], 
+   "end": "1221.280", 
+   "id": "s000405", 
+   "language": "deu", 
+   "lines": [
+    "die im Rahmen von PESCO zusammenarbeiten, "
+   ]
+  }, 
+  {
+   "begin": "1221.280", 
+   "children": [], 
+   "end": "1226.800", 
+   "id": "s000406", 
+   "language": "deu", 
+   "lines": [
+    "ein medizinisches Koordinierungszentrum mit einheitlicher Ausbildung und Ausstattung schaffen. "
+   ]
+  }, 
+  {
+   "begin": "1226.800", 
+   "children": [], 
+   "end": "1232.360", 
+   "id": "s000407", 
+   "language": "deu", 
+   "lines": [
+    "Damit lie\u00dfe sich das medizinische Personal bei den Eins\u00e4tzen flexibler einsetzen. "
+   ]
+  }, 
+  {
+   "begin": "1232.360", 
+   "children": [], 
+   "end": "1233.360", 
+   "id": "s000408", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnten Geld sparen, "
+   ]
+  }, 
+  {
+   "begin": "1233.360", 
+   "children": [], 
+   "end": "1237.080", 
+   "id": "s000409", 
+   "language": "deu", 
+   "lines": [
+    "und wir k\u00f6nnten die Kompetenzen der Mitgliedstaaten enger aufeinander abstimmen."
+   ]
+  }, 
+  {
+   "begin": "1237.080", 
+   "children": [], 
+   "end": "1238.040", 
+   "id": "s000410", 
+   "language": "deu", 
+   "lines": [
+    "Danke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1238.040", 
+   "children": [], 
+   "end": "1249.640", 
+   "id": "s000411", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat der Kollege Pfl\u00fcger von der Fraktion Die Linke eine Zusatzfrage."
+   ]
+  }, 
+  {
+   "begin": "1249.640", 
+   "children": [], 
+   "end": "1254.240", 
+   "id": "s000412", 
+   "language": "deu", 
+   "lines": [
+    "Die gesch\u00e4ftsf\u00fchrende Bundesregierung hat gleichzeitig mit der Initiierung von PESCO, "
+   ]
+  }, 
+  {
+   "begin": "1254.240", 
+   "children": [], 
+   "end": "1256.520", 
+   "id": "s000413", 
+   "language": "deu", 
+   "lines": [
+    "der St\u00e4ndigen Strukturierten Zusammenarbeit, "
+   ]
+  }, 
+  {
+   "begin": "1256.520", 
+   "children": [], 
+   "end": "1264.640", 
+   "id": "s000414", 
+   "language": "deu", 
+   "lines": [
+    "mit den anderen EU-Staaten einen konkreten Implementierungsplan und eine Projektliste vereinbart. "
+   ]
+  }, 
+  {
+   "begin": "1264.640", 
+   "children": [], 
+   "end": "1267.400", 
+   "id": "s000415", 
+   "language": "deu", 
+   "lines": [
+    "Insofern verwundert mich Ihre Aussage etwas, "
+   ]
+  }, 
+  {
+   "begin": "1267.400", 
+   "children": [], 
+   "end": "1273.840", 
+   "id": "s000416", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie zu den konkreten Kosten im Moment nichts sagen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "1273.840", 
+   "children": [], 
+   "end": "1278.520", 
+   "id": "s000417", 
+   "language": "deu", 
+   "lines": [
+    "In dieser Projektliste sind ganz konkrete Projekte benannt; "
+   ]
+  }, 
+  {
+   "begin": "1278.520", 
+   "children": [], 
+   "end": "1284.280", 
+   "id": "s000418", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel geht es um ein \u00dcberwachungssystem im Mittelmeer und f\u00fcr den Bereich S\u00fcdosteuropa, "
+   ]
+  }, 
+  {
+   "begin": "1284.280", 
+   "children": [], 
+   "end": "1288.040", 
+   "id": "s000419", 
+   "language": "deu", 
+   "lines": [
+    "und es geht um Cyberbedrohung. "
+   ]
+  }, 
+  {
+   "begin": "1288.040", 
+   "children": [], 
+   "end": "1289.560", 
+   "id": "s000420", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube schon, "
+   ]
+  }, 
+  {
+   "begin": "1289.560", 
+   "children": [], 
+   "end": "1298.480", 
+   "id": "s000421", 
+   "language": "deu", 
+   "lines": [
+    "dass die Frage bez\u00fcglich der zus\u00e4tzlichen Kosten im Lichte dieser konkreten Vereinbarung, "
+   ]
+  }, 
+  {
+   "begin": "1298.480", 
+   "children": [], 
+   "end": "1304.000", 
+   "id": "s000422", 
+   "language": "deu", 
+   "lines": [
+    "die die Bundesregierung mit gezeichnet hat, "
+   ]
+  }, 
+  {
+   "begin": "1304.000", 
+   "children": [], 
+   "end": "1305.920", 
+   "id": "s000423", 
+   "language": "deu", 
+   "lines": [
+    "beantwortet werden k\u00f6nnte. "
+   ]
+  }, 
+  {
+   "begin": "1305.920", 
+   "children": [], 
+   "end": "1308.440", 
+   "id": "s000424", 
+   "language": "deu", 
+   "lines": [
+    "Was sind die zus\u00e4tzlichen Kosten, "
+   ]
+  }, 
+  {
+   "begin": "1308.440", 
+   "children": [], 
+   "end": "1313.200", 
+   "id": "s000425", 
+   "language": "deu", 
+   "lines": [
+    "die sich zum Beispiel aus dieser Projektliste und diesem Implementierungsplan ergeben?"
+   ]
+  }, 
+  {
+   "begin": "1313.200", 
+   "children": [], 
+   "end": "1313.840", 
+   "id": "s000426", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "1313.840", 
+   "children": [], 
+   "end": "1314.760", 
+   "id": "s000427", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1314.760", 
+   "children": [], 
+   "end": "1315.760", 
+   "id": "s000428", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter Pfl\u00fcger, "
+   ]
+  }, 
+  {
+   "begin": "1315.760", 
+   "children": [], 
+   "end": "1318.240", 
+   "id": "s000429", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben eine Reihe von Vorschl\u00e4gen genannt, "
+   ]
+  }, 
+  {
+   "begin": "1318.240", 
+   "children": [], 
+   "end": "1322.120", 
+   "id": "s000430", 
+   "language": "deu", 
+   "lines": [
+    "die wir im Rahmen des PESCO-Dialoges eingereicht haben. "
+   ]
+  }, 
+  {
+   "begin": "1322.120", 
+   "children": [], 
+   "end": "1326.560", 
+   "id": "s000431", 
+   "language": "deu", 
+   "lines": [
+    "Die Realisierung dieser Projekte wird am Ende davon abh\u00e4ngen, "
+   ]
+  }, 
+  {
+   "begin": "1326.560", 
+   "children": [], 
+   "end": "1332.640", 
+   "id": "s000432", 
+   "language": "deu", 
+   "lines": [
+    "welche Finanzmittel uns der Deutsche Bundestag daf\u00fcr zur Verf\u00fcgung stellt. "
+   ]
+  }, 
+  {
+   "begin": "1332.640", 
+   "children": [], 
+   "end": "1334.680", 
+   "id": "s000433", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen sind das Projekte, "
+   ]
+  }, 
+  {
+   "begin": "1334.680", 
+   "children": [], 
+   "end": "1340.520", 
+   "id": "s000434", 
+   "language": "deu", 
+   "lines": [
+    "die wir in Zusammenarbeit mit den anderen 24\u00a0Mitgliedstaaten auf den Weg bringen wollen. "
+   ]
+  }, 
+  {
+   "begin": "1340.520", 
+   "children": [], 
+   "end": "1345.080", 
+   "id": "s000435", 
+   "language": "deu", 
+   "lines": [
+    "Hier k\u00f6nnen wir einer abschlie\u00dfenden Entscheidung des Deutschen Bundestages nicht vorgreifen. "
+   ]
+  }, 
+  {
+   "begin": "1345.080", 
+   "children": [], 
+   "end": "1346.200", 
+   "id": "s000436", 
+   "language": "deu", 
+   "lines": [
+    "Aber es sind Vorschl\u00e4ge, "
+   ]
+  }, 
+  {
+   "begin": "1346.200", 
+   "children": [], 
+   "end": "1348.320", 
+   "id": "s000437", 
+   "language": "deu", 
+   "lines": [
+    "und Sie haben das letzte Wort."
+   ]
+  }, 
+  {
+   "begin": "1348.320", 
+   "children": [], 
+   "end": "1351.640", 
+   "id": "s000438", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat die Frau Kollegin H\u00e4nsel das Wort zu einer weiteren Frage."
+   ]
+  }, 
+  {
+   "begin": "1353.800", 
+   "children": [], 
+   "end": "1355.520", 
+   "id": "s000439", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "1355.520", 
+   "children": [], 
+   "end": "1358.600", 
+   "id": "s000440", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1358.600", 
+   "children": [], 
+   "end": "1360.600", 
+   "id": "s000441", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister, "
+   ]
+  }, 
+  {
+   "begin": "1360.600", 
+   "children": [], 
+   "end": "1365.520", 
+   "id": "s000442", 
+   "language": "deu", 
+   "lines": [
+    "die Sache mit PESCO und dem nationalen Umsetzungsplan, "
+   ]
+  }, 
+  {
+   "begin": "1365.520", 
+   "children": [], 
+   "end": "1368.800", 
+   "id": "s000443", 
+   "language": "deu", 
+   "lines": [
+    "der auf europ\u00e4ischer Ebene bereits vorgelegt wird, "
+   ]
+  }, 
+  {
+   "begin": "1368.800", 
+   "children": [], 
+   "end": "1370.480", 
+   "id": "s000444", 
+   "language": "deu", 
+   "lines": [
+    "ist nat\u00fcrlich ein Trick. "
+   ]
+  }, 
+  {
+   "begin": "1370.480", 
+   "children": [], 
+   "end": "1379.400", 
+   "id": "s000445", 
+   "language": "deu", 
+   "lines": [
+    "Sie machen einerseits sehr konkrete Vorschl\u00e4ge und gehen sehr weitgehende Verpflichtungen ein. "
+   ]
+  }, 
+  {
+   "begin": "1379.400", 
+   "children": [], 
+   "end": "1384.640", 
+   "id": "s000446", 
+   "language": "deu", 
+   "lines": [
+    "Dort ist von einer regelm\u00e4\u00dfigen Erh\u00f6hung der Milit\u00e4rausgaben die Rede; "
+   ]
+  }, 
+  {
+   "begin": "1384.640", 
+   "children": [], 
+   "end": "1387.560", 
+   "id": "s000447", 
+   "language": "deu", 
+   "lines": [
+    "es geht aber auch um viele andere Bereiche. "
+   ]
+  }, 
+  {
+   "begin": "1387.560", 
+   "children": [], 
+   "end": "1389.200", 
+   "id": "s000448", 
+   "language": "deu", 
+   "lines": [
+    "Andererseits sagen Sie aber: "
+   ]
+  }, 
+  {
+   "begin": "1389.200", 
+   "children": [], 
+   "end": "1391.400", 
+   "id": "s000449", 
+   "language": "deu", 
+   "lines": [
+    "Keine pr\u00e4judizierende Wirkung, "
+   ]
+  }, 
+  {
+   "begin": "1391.400", 
+   "children": [], 
+   "end": "1394.240", 
+   "id": "s000450", 
+   "language": "deu", 
+   "lines": [
+    "keine Vorfestlegung f\u00fcr den Haushalt.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1394.240", 
+   "children": [], 
+   "end": "1399.360", 
+   "id": "s000451", 
+   "language": "deu", 
+   "lines": [
+    "Wenn der Bundestag jetzt aber ganz anders entscheidet, "
+   ]
+  }, 
+  {
+   "begin": "1399.360", 
+   "children": [], 
+   "end": "1402.360", 
+   "id": "s000452", 
+   "language": "deu", 
+   "lines": [
+    "dann werden die Mitglieder der St\u00e4ndigen Strukturierten Zusammenarbeit reagieren. "
+   ]
+  }, 
+  {
+   "begin": "1402.360", 
+   "children": [], 
+   "end": "1403.920", 
+   "id": "s000453", 
+   "language": "deu", 
+   "lines": [
+    "Denn es wird j\u00e4hrlich kontrolliert, "
+   ]
+  }, 
+  {
+   "begin": "1403.920", 
+   "children": [], 
+   "end": "1409.120", 
+   "id": "s000454", 
+   "language": "deu", 
+   "lines": [
+    "und eine m\u00f6gliche Sanktion ist sogar der Ausschluss aus der St\u00e4ndigen Strukturierten Zusammenarbeit. "
+   ]
+  }, 
+  {
+   "begin": "1409.120", 
+   "children": [], 
+   "end": "1414.840", 
+   "id": "s000455", 
+   "language": "deu", 
+   "lines": [
+    "Entsteht in diesem Falle nicht ein derart hoher politischer Druck auf die Haushaltsverhandlungen und die Entscheidungen, "
+   ]
+  }, 
+  {
+   "begin": "1414.840", 
+   "children": [], 
+   "end": "1417.480", 
+   "id": "s000456", 
+   "language": "deu", 
+   "lines": [
+    "dass wir gar nicht mehr anders handeln k\u00f6nnen? "
+   ]
+  }, 
+  {
+   "begin": "1417.480", 
+   "children": [], 
+   "end": "1421.320", 
+   "id": "s000457", 
+   "language": "deu", 
+   "lines": [
+    "Denn sonst gibt es Sanktionen und Ermahnungen vonseiten der EU."
+   ]
+  }, 
+  {
+   "begin": "1421.320", 
+   "children": [], 
+   "end": "1423.480", 
+   "id": "s000458", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1423.480", 
+   "children": [], 
+   "end": "1425.840", 
+   "id": "s000459", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin H\u00e4nsel, "
+   ]
+  }, 
+  {
+   "begin": "1425.840", 
+   "children": [], 
+   "end": "1430.280", 
+   "id": "s000460", 
+   "language": "deu", 
+   "lines": [
+    "mein Vertrauen in das Selbstbewusstsein des Deutschen Bundestages ist doch sehr hoch. "
+   ]
+  }, 
+  {
+   "begin": "1430.280", 
+   "children": [], 
+   "end": "1432.160", 
+   "id": "s000461", 
+   "language": "deu", 
+   "lines": [
+    "Insofern kann ich mir nicht vorstellen, "
+   ]
+  }, 
+  {
+   "begin": "1432.160", 
+   "children": [], 
+   "end": "1434.440", 
+   "id": "s000462", 
+   "language": "deu", 
+   "lines": [
+    "dass sich der Deutsche Bundestag bzw. "
+   ]
+  }, 
+  {
+   "begin": "1434.440", 
+   "children": [], 
+   "end": "1438.040", 
+   "id": "s000463", 
+   "language": "deu", 
+   "lines": [
+    "eine Mehrheit des Deutschen Bundestages von irgendjemandem unter Druck setzen l\u00e4sst. "
+   ]
+  }, 
+  {
+   "begin": "1438.040", 
+   "children": [], 
+   "end": "1441.000", 
+   "id": "s000464", 
+   "language": "deu", 
+   "lines": [
+    "Es wird ma\u00dfgeblich von uns in der Bundesregierung abh\u00e4ngen, "
+   ]
+  }, 
+  {
+   "begin": "1441.000", 
+   "children": [], 
+   "end": "1443.720", 
+   "id": "s000465", 
+   "language": "deu", 
+   "lines": [
+    "Sie als Abgeordnete davon zu \u00fcberzeugen, "
+   ]
+  }, 
+  {
+   "begin": "1443.720", 
+   "children": [], 
+   "end": "1447.440", 
+   "id": "s000466", 
+   "language": "deu", 
+   "lines": [
+    "entsprechende Finanzmittel f\u00fcr notwendige verteidigungs- "
+   ]
+  }, 
+  {
+   "begin": "1447.440", 
+   "children": [], 
+   "end": "1451.840", 
+   "id": "s000467", 
+   "language": "deu", 
+   "lines": [
+    "und sicherheitspolitische Aktivit\u00e4ten zur Verf\u00fcgung zu stellen. "
+   ]
+  }, 
+  {
+   "begin": "1451.840", 
+   "children": [], 
+   "end": "1455.640", 
+   "id": "s000468", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen weise ich noch einmal darauf hin, "
+   ]
+  }, 
+  {
+   "begin": "1455.640", 
+   "children": [], 
+   "end": "1468.600", 
+   "id": "s000469", 
+   "language": "deu", 
+   "lines": [
+    "dass die haushaltspolitische Kernkompetenz des Bundestages von der Bundesregierung in einer Protokollerkl\u00e4rung zu dem Beschluss verankert wurde. "
+   ]
+  }, 
+  {
+   "begin": "1468.600", 
+   "children": [], 
+   "end": "1471.000", 
+   "id": "s000470", 
+   "language": "deu", 
+   "lines": [
+    "Insofern k\u00f6nnen Sie da ganz beruhigt sein."
+   ]
+  }, 
+  {
+   "begin": "1471.000", 
+   "children": [], 
+   "end": "1473.280", 
+   "id": "s000471", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1473.280", 
+   "children": [], 
+   "end": "1475.080", 
+   "id": "s000472", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Zusatzfragen liegen mir nicht vor."
+   ]
+  }, 
+  {
+   "begin": "1475.080", 
+   "children": [], 
+   "end": "1475.800", 
+   "id": "s000473", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt muss ich, "
+   ]
+  }, 
+  {
+   "begin": "1475.800", 
+   "children": [], 
+   "end": "1479.880", 
+   "id": "s000474", 
+   "language": "deu", 
+   "lines": [
+    "damit sich nicht ein Fehler meinerseits festsetzt, "
+   ]
+  }, 
+  {
+   "begin": "1479.880", 
+   "children": [], 
+   "end": "1481.560", 
+   "id": "s000475", 
+   "language": "deu", 
+   "lines": [
+    "auf Folgendes hinweisen: "
+   ]
+  }, 
+  {
+   "begin": "1481.560", 
+   "children": [], 
+   "end": "1484.040", 
+   "id": "s000476", 
+   "language": "deu", 
+   "lines": [
+    "Falls ein Fragesteller nicht anwesend ist, "
+   ]
+  }, 
+  {
+   "begin": "1484.040", 
+   "children": [], 
+   "end": "1487.360", 
+   "id": "s000477", 
+   "language": "deu", 
+   "lines": [
+    "wird die Frage gar nicht beantwortet. "
+   ]
+  }, 
+  {
+   "begin": "1487.360", 
+   "children": [], 
+   "end": "1488.960", 
+   "id": "s000478", 
+   "language": "deu", 
+   "lines": [
+    "Machen Sie sich also nicht die Hoffnung, "
+   ]
+  }, 
+  {
+   "begin": "1488.960", 
+   "children": [], 
+   "end": "1490.480", 
+   "id": "s000479", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie dann eine schriftliche Antwort bekommen. "
+   ]
+  }, 
+  {
+   "begin": "1490.480", 
+   "children": [], 
+   "end": "1491.640", 
+   "id": "s000480", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen schon da sein. "
+   ]
+  }, 
+  {
+   "begin": "1491.640", 
+   "children": [], 
+   "end": "1495.160", 
+   "id": "s000481", 
+   "language": "deu", 
+   "lines": [
+    "Sonst m\u00fcssten Sie vorher die schriftliche Beantwortung beantragen."
+   ]
+  }, 
+  {
+   "begin": "1495.160", 
+   "children": [], 
+   "end": "1501.360", 
+   "id": "s000482", 
+   "language": "deu", 
+   "lines": [
+    "Mit dieser Bemerkung rufe ich die Frage\u00a06 des Abgeordneten Kekeritz auf:"
+   ]
+  }, 
+  {
+   "begin": "1501.360", 
+   "children": [], 
+   "end": "1503.640", 
+   "id": "s000483", 
+   "language": "deu", 
+   "lines": [
+    "Ist er anwesend?"
+   ]
+  }, 
+  {
+   "begin": "1503.640", 
+   "children": [], 
+   "end": "1507.320", 
+   "id": "s000484", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Danke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1507.320", 
+   "children": [], 
+   "end": "1509.440", 
+   "id": "s000485", 
+   "language": "deu", 
+   "lines": [
+    "Guten Tag.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1509.440", 
+   "children": [], 
+   "end": "1511.120", 
+   "id": "s000486", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister."
+   ]
+  }, 
+  {
+   "begin": "1511.120", 
+   "children": [], 
+   "end": "1511.840", 
+   "id": "s000487", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "1511.840", 
+   "children": [], 
+   "end": "1512.760", 
+   "id": "s000488", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1512.760", 
+   "children": [], 
+   "end": "1515.080", 
+   "id": "s000489", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter Kekeritz, "
+   ]
+  }, 
+  {
+   "begin": "1515.080", 
+   "children": [], 
+   "end": "1518.040", 
+   "id": "s000490", 
+   "language": "deu", 
+   "lines": [
+    "Sie beziehen sich auf einen Gipfel, "
+   ]
+  }, 
+  {
+   "begin": "1518.040", 
+   "children": [], 
+   "end": "1520.760", 
+   "id": "s000491", 
+   "language": "deu", 
+   "lines": [
+    "an dem die Bundeskanzlerin teilgenommen hat. "
+   ]
+  }, 
+  {
+   "begin": "1520.760", 
+   "children": [], 
+   "end": "1523.080", 
+   "id": "s000492", 
+   "language": "deu", 
+   "lines": [
+    "Ich will noch einmal deutlich machen, "
+   ]
+  }, 
+  {
+   "begin": "1523.080", 
+   "children": [], 
+   "end": "1532.560", 
+   "id": "s000493", 
+   "language": "deu", 
+   "lines": [
+    "dass das Thema \u201eHandelsbeziehungen der EU mit Afrika\u201c als solches nicht Teil der Tagesordnung dieses Gipfels war. "
+   ]
+  }, 
+  {
+   "begin": "1532.560", 
+   "children": [], 
+   "end": "1536.440", 
+   "id": "s000494", 
+   "language": "deu", 
+   "lines": [
+    "Aber selbstverst\u00e4ndlich haben nicht nur die Bundeskanzlerin, "
+   ]
+  }, 
+  {
+   "begin": "1536.440", 
+   "children": [], 
+   "end": "1540.720", 
+   "id": "s000495", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch andere Vertreterinnen und Vertreter der Bundesregierung deutlich gemacht, "
+   ]
+  }, 
+  {
+   "begin": "1540.720", 
+   "children": [], 
+   "end": "1545.040", 
+   "id": "s000496", 
+   "language": "deu", 
+   "lines": [
+    "worum es uns in der Zusammenarbeit mit Afrika geht. "
+   ]
+  }, 
+  {
+   "begin": "1545.040", 
+   "children": [], 
+   "end": "1548.280", 
+   "id": "s000497", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen wettbewerbsf\u00e4hige Produkte, "
+   ]
+  }, 
+  {
+   "begin": "1548.280", 
+   "children": [], 
+   "end": "1550.320", 
+   "id": "s000498", 
+   "language": "deu", 
+   "lines": [
+    "wir brauchen vor allem faire Lieferketten, "
+   ]
+  }, 
+  {
+   "begin": "1550.320", 
+   "children": [], 
+   "end": "1553.840", 
+   "id": "s000499", 
+   "language": "deu", 
+   "lines": [
+    "und wir brauchen solide Kapazit\u00e4ten, "
+   ]
+  }, 
+  {
+   "begin": "1553.840", 
+   "children": [], 
+   "end": "1557.960", 
+   "id": "s000500", 
+   "language": "deu", 
+   "lines": [
+    "um im Zweifelsfall Schutzmechanismen anzuwenden. "
+   ]
+  }, 
+  {
+   "begin": "1557.960", 
+   "children": [], 
+   "end": "1562.600", 
+   "id": "s000501", 
+   "language": "deu", 
+   "lines": [
+    "Genau das hat die Bundeskanzlerin auch am Rande des Gipfels ge\u00e4u\u00dfert."
+   ]
+  }, 
+  {
+   "begin": "1562.600", 
+   "children": [], 
+   "end": "1568.440", 
+   "id": "s000502", 
+   "language": "deu", 
+   "lines": [
+    "Ich will dar\u00fcber hinaus auf ein bew\u00e4hrtes Instrument der Entwicklungszusammenarbeit hinweisen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1568.440", 
+   "children": [], 
+   "end": "1570.200", 
+   "id": "s000503", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden das besser kennen als ich, "
+   ]
+  }, 
+  {
+   "begin": "1570.200", 
+   "children": [], 
+   "end": "1571.400", 
+   "id": "s000504", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Kekeritz\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "1571.400", 
+   "children": [], 
+   "end": "1572.800", 
+   "id": "s000505", 
+   "language": "deu", 
+   "lines": [
+    "Aid for Trade. "
+   ]
+  }, 
+  {
+   "begin": "1572.800", 
+   "children": [], 
+   "end": "1575.520", 
+   "id": "s000506", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Entwicklungszusammenarbeit, "
+   ]
+  }, 
+  {
+   "begin": "1575.520", 
+   "children": [], 
+   "end": "1577.000", 
+   "id": "s000507", 
+   "language": "deu", 
+   "lines": [
+    "bei der es vor allem darum geht, "
+   ]
+  }, 
+  {
+   "begin": "1577.000", 
+   "children": [], 
+   "end": "1579.480", 
+   "id": "s000508", 
+   "language": "deu", 
+   "lines": [
+    "Handelsvorteile besser zu nutzen, "
+   ]
+  }, 
+  {
+   "begin": "1579.480", 
+   "children": [], 
+   "end": "1586.440", 
+   "id": "s000509", 
+   "language": "deu", 
+   "lines": [
+    "um m\u00f6glichen negativen Auswirkungen auf die Handelsbeziehungen zwischen der Europ\u00e4ischen Union und Afrika bzw. "
+   ]
+  }, 
+  {
+   "begin": "1586.440", 
+   "children": [], 
+   "end": "1588.800", 
+   "id": "s000510", 
+   "language": "deu", 
+   "lines": [
+    "den afrikanischen Staaten vorzubeugen."
+   ]
+  }, 
+  {
+   "begin": "1588.800", 
+   "children": [], 
+   "end": "1590.160", 
+   "id": "s000511", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen verweise ich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1590.160", 
+   "children": [], 
+   "end": "1592.040", 
+   "id": "s000512", 
+   "language": "deu", 
+   "lines": [
+    "mit allem Respekt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1592.040", 
+   "children": [], 
+   "end": "1596.880", 
+   "id": "s000513", 
+   "language": "deu", 
+   "lines": [
+    "auf unsere Antwort vom 7.\u00a0Dezember auf Ihre schriftlichen Fragen, "
+   ]
+  }, 
+  {
+   "begin": "1596.880", 
+   "children": [], 
+   "end": "1598.200", 
+   "id": "s000514", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Kekeritz."
+   ]
+  }, 
+  {
+   "begin": "1598.200", 
+   "children": [], 
+   "end": "1599.560", 
+   "id": "s000515", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Kekeritz."
+   ]
+  }, 
+  {
+   "begin": "1601.720", 
+   "children": [], 
+   "end": "1603.360", 
+   "id": "s000516", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1603.360", 
+   "children": [], 
+   "end": "1604.400", 
+   "id": "s000517", 
+   "language": "deu", 
+   "lines": [
+    "Nichtsdestotrotz: "
+   ]
+  }, 
+  {
+   "begin": "1604.400", 
+   "children": [], 
+   "end": "1607.720", 
+   "id": "s000518", 
+   "language": "deu", 
+   "lines": [
+    "Es geht tats\u00e4chlich um den EPA-Vertrag, "
+   ]
+  }, 
+  {
+   "begin": "1607.720", 
+   "children": [], 
+   "end": "1611.560", 
+   "id": "s000519", 
+   "language": "deu", 
+   "lines": [
+    "zu dem die Kanzlerin selbst gesagt hat, "
+   ]
+  }, 
+  {
+   "begin": "1611.560", 
+   "children": [], 
+   "end": "1614.600", 
+   "id": "s000520", 
+   "language": "deu", 
+   "lines": [
+    "dass er nachjustiert werden muss. "
+   ]
+  }, 
+  {
+   "begin": "1614.600", 
+   "children": [], 
+   "end": "1619.720", 
+   "id": "s000521", 
+   "language": "deu", 
+   "lines": [
+    "Minister M\u00fcller hat gerade bei Wahlveranstaltungen permanent betont, "
+   ]
+  }, 
+  {
+   "begin": "1619.720", 
+   "children": [], 
+   "end": "1622.280", 
+   "id": "s000522", 
+   "language": "deu", 
+   "lines": [
+    "dass dieser Vertrag ver\u00e4ndert werden muss. "
+   ]
+  }, 
+  {
+   "begin": "1622.280", 
+   "children": [], 
+   "end": "1627.440", 
+   "id": "s000523", 
+   "language": "deu", 
+   "lines": [
+    "In der Vorbereitung auf den EU-Afrika-Gipfel war zu lesen, "
+   ]
+  }, 
+  {
+   "begin": "1627.440", 
+   "children": [], 
+   "end": "1630.720", 
+   "id": "s000524", 
+   "language": "deu", 
+   "lines": [
+    "dass der EPA-Vertrag dort verhandelt wird, "
+   ]
+  }, 
+  {
+   "begin": "1630.720", 
+   "children": [], 
+   "end": "1632.200", 
+   "id": "s000525", 
+   "language": "deu", 
+   "lines": [
+    "und es stand auch dabei, "
+   ]
+  }, 
+  {
+   "begin": "1632.200", 
+   "children": [], 
+   "end": "1637.040", 
+   "id": "s000526", 
+   "language": "deu", 
+   "lines": [
+    "dass der EPA-Vertrag voll implementiert werden soll. "
+   ]
+  }, 
+  {
+   "begin": "1637.040", 
+   "children": [], 
+   "end": "1638.600", 
+   "id": "s000527", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein gro\u00dfer Widerspruch. "
+   ]
+  }, 
+  {
+   "begin": "1638.600", 
+   "children": [], 
+   "end": "1642.080", 
+   "id": "s000528", 
+   "language": "deu", 
+   "lines": [
+    "Man kann nicht in Wahlkampfzeiten davon sprechen, "
+   ]
+  }, 
+  {
+   "begin": "1642.080", 
+   "children": [], 
+   "end": "1644.320", 
+   "id": "s000529", 
+   "language": "deu", 
+   "lines": [
+    "dass der Vertrag nachjustiert werden muss, "
+   ]
+  }, 
+  {
+   "begin": "1644.320", 
+   "children": [], 
+   "end": "1647.560", 
+   "id": "s000530", 
+   "language": "deu", 
+   "lines": [
+    "und dann bei der Vorbereitung auf diesen Gipfel einfach sagen: "
+   ]
+  }, 
+  {
+   "begin": "1647.560", 
+   "children": [], 
+   "end": "1649.160", 
+   "id": "s000531", 
+   "language": "deu", 
+   "lines": [
+    "Wir lassen den Vertrag so, "
+   ]
+  }, 
+  {
+   "begin": "1649.160", 
+   "children": [], 
+   "end": "1649.320", 
+   "id": "s000532", 
+   "language": "deu", 
+   "lines": [
+    "wie er ist, "
+   ]
+  }, 
+  {
+   "begin": "1649.320", 
+   "children": [], 
+   "end": "1650.960", 
+   "id": "s000533", 
+   "language": "deu", 
+   "lines": [
+    "und bestehen sogar darauf, "
+   ]
+  }, 
+  {
+   "begin": "1650.960", 
+   "children": [], 
+   "end": "1652.920", 
+   "id": "s000534", 
+   "language": "deu", 
+   "lines": [
+    "dass er voll implementiert wird.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1652.920", 
+   "children": [], 
+   "end": "1655.000", 
+   "id": "s000535", 
+   "language": "deu", 
+   "lines": [
+    "Wieso ist dieses zentrale, "
+   ]
+  }, 
+  {
+   "begin": "1655.000", 
+   "children": [], 
+   "end": "1656.280", 
+   "id": "s000536", 
+   "language": "deu", 
+   "lines": [
+    "wichtige Thema\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1656.280", 
+   "children": [], 
+   "end": "1656.800", 
+   "id": "s000537", 
+   "language": "deu", 
+   "lines": [
+    "ich behaupte, "
+   ]
+  }, 
+  {
+   "begin": "1656.800", 
+   "children": [], 
+   "end": "1661.560", 
+   "id": "s000538", 
+   "language": "deu", 
+   "lines": [
+    "es ist sogar eines der wichtigsten Themen im Bereich EU/Afrika\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1661.560", 
+   "children": [], 
+   "end": "1663.000", 
+   "id": "s000539", 
+   "language": "deu", 
+   "lines": [
+    "nicht diskutiert worden? "
+   ]
+  }, 
+  {
+   "begin": "1663.000", 
+   "children": [], 
+   "end": "1670.640", 
+   "id": "s000540", 
+   "language": "deu", 
+   "lines": [
+    "Wie erkl\u00e4ren Sie den Widerspruch zwischen den Aussagen von Kanzlerin Merkel und Minister M\u00fcller einerseits und dem Vorhaben in Abidjan andererseits?"
+   ]
+  }, 
+  {
+   "begin": "1670.640", 
+   "children": [], 
+   "end": "1671.680", 
+   "id": "s000541", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister."
+   ]
+  }, 
+  {
+   "begin": "1671.680", 
+   "children": [], 
+   "end": "1672.680", 
+   "id": "s000542", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "1672.680", 
+   "children": [], 
+   "end": "1674.400", 
+   "id": "s000543", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1674.400", 
+   "children": [], 
+   "end": "1675.600", 
+   "id": "s000544", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Kekeritz, "
+   ]
+  }, 
+  {
+   "begin": "1675.600", 
+   "children": [], 
+   "end": "1676.920", 
+   "id": "s000545", 
+   "language": "deu", 
+   "lines": [
+    "Sie sollten daraus, "
+   ]
+  }, 
+  {
+   "begin": "1676.920", 
+   "children": [], 
+   "end": "1680.720", 
+   "id": "s000546", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Thema nicht Tagesordnungspunkt eines Gipfels war, "
+   ]
+  }, 
+  {
+   "begin": "1680.720", 
+   "children": [], 
+   "end": "1681.280", 
+   "id": "s000547", 
+   "language": "deu", 
+   "lines": [
+    "nicht schlie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "1681.280", 
+   "children": [], 
+   "end": "1683.480", 
+   "id": "s000548", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Bundesregierung den Punkten, "
+   ]
+  }, 
+  {
+   "begin": "1683.480", 
+   "children": [], 
+   "end": "1685.160", 
+   "id": "s000549", 
+   "language": "deu", 
+   "lines": [
+    "die Sie eben ausgef\u00fchrt haben, "
+   ]
+  }, 
+  {
+   "begin": "1685.160", 
+   "children": [], 
+   "end": "1686.160", 
+   "id": "s000550", 
+   "language": "deu", 
+   "lines": [
+    "nicht verpflichtet f\u00fchlt. "
+   ]
+  }, 
+  {
+   "begin": "1686.160", 
+   "children": [], 
+   "end": "1687.760", 
+   "id": "s000551", 
+   "language": "deu", 
+   "lines": [
+    "Sie wissen selbst, "
+   ]
+  }, 
+  {
+   "begin": "1687.760", 
+   "children": [], 
+   "end": "1692.800", 
+   "id": "s000552", 
+   "language": "deu", 
+   "lines": [
+    "dass f\u00fcr die Handelspolitik im Wesentlichen die Europ\u00e4ische Kommission verantwortlich ist, "
+   ]
+  }, 
+  {
+   "begin": "1692.800", 
+   "children": [], 
+   "end": "1698.360", 
+   "id": "s000553", 
+   "language": "deu", 
+   "lines": [
+    "aber wir als Bundesregierung selbstverst\u00e4ndlich unseren Einfluss geltend zu machen versuchen, "
+   ]
+  }, 
+  {
+   "begin": "1698.360", 
+   "children": [], 
+   "end": "1699.760", 
+   "id": "s000554", 
+   "language": "deu", 
+   "lines": [
+    "um deutlich zu machen, "
+   ]
+  }, 
+  {
+   "begin": "1699.760", 
+   "children": [], 
+   "end": "1710.960", 
+   "id": "s000555", 
+   "language": "deu", 
+   "lines": [
+    "dass bei einer Weiterentwicklung der Handelspolitik von EU und Afrika die Verabredungen f\u00fcr beide Seiten vorteilhaft sein m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "1710.960", 
+   "children": [], 
+   "end": "1715.680", 
+   "id": "s000556", 
+   "language": "deu", 
+   "lines": [
+    "Ich will dar\u00fcber hinaus drei Punkte benennen, "
+   ]
+  }, 
+  {
+   "begin": "1715.680", 
+   "children": [], 
+   "end": "1718.000", 
+   "id": "s000557", 
+   "language": "deu", 
+   "lines": [
+    "die uns wichtig sind: "
+   ]
+  }, 
+  {
+   "begin": "1718.000", 
+   "children": [], 
+   "end": "1721.760", 
+   "id": "s000558", 
+   "language": "deu", 
+   "lines": [
+    "Erstens wollen wir den innerafrikanischen Handel f\u00f6rdern, "
+   ]
+  }, 
+  {
+   "begin": "1721.760", 
+   "children": [], 
+   "end": "1725.200", 
+   "id": "s000559", 
+   "language": "deu", 
+   "lines": [
+    "zweitens wollen wir die wirtschaftliche Integration voranbringen, "
+   ]
+  }, 
+  {
+   "begin": "1725.200", 
+   "children": [], 
+   "end": "1730.440", 
+   "id": "s000560", 
+   "language": "deu", 
+   "lines": [
+    "drittens wollen wir im Zusammenhang mit der kontinentalen Freihandelszone, "
+   ]
+  }, 
+  {
+   "begin": "1730.440", 
+   "children": [], 
+   "end": "1733.440", 
+   "id": "s000561", 
+   "language": "deu", 
+   "lines": [
+    "der Continental Free Trade Area\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1733.440", 
+   "children": [], 
+   "end": "1734.680", 
+   "id": "s000562", 
+   "language": "deu", 
+   "lines": [
+    "CFTA\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "1734.680", 
+   "children": [], 
+   "end": "1736.520", 
+   "id": "s000563", 
+   "language": "deu", 
+   "lines": [
+    "unterst\u00fctzend t\u00e4tig sein. "
+   ]
+  }, 
+  {
+   "begin": "1736.520", 
+   "children": [], 
+   "end": "1737.920", 
+   "id": "s000564", 
+   "language": "deu", 
+   "lines": [
+    "Es tut mir leid, "
+   ]
+  }, 
+  {
+   "begin": "1737.920", 
+   "children": [], 
+   "end": "1740.720", 
+   "id": "s000565", 
+   "language": "deu", 
+   "lines": [
+    "dass ich Sie manchmal mit englischen Begriffen nerven muss."
+   ]
+  }, 
+  {
+   "begin": "1740.720", 
+   "children": [], 
+   "end": "1741.520", 
+   "id": "s000566", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister, "
+   ]
+  }, 
+  {
+   "begin": "1741.520", 
+   "children": [], 
+   "end": "1744.840", 
+   "id": "s000567", 
+   "language": "deu", 
+   "lines": [
+    "der Kollege Kekeritz hat noch eine Zusatzfrage. "
+   ]
+  }, 
+  {
+   "begin": "1744.840", 
+   "children": [], 
+   "end": "1747.720", 
+   "id": "s000568", 
+   "language": "deu", 
+   "lines": [
+    "Dann k\u00f6nnen Sie noch einmal antworten. "
+   ]
+  }, 
+  {
+   "begin": "1747.720", 
+   "children": [], 
+   "end": "1749.400", 
+   "id": "s000569", 
+   "language": "deu", 
+   "lines": [
+    "Ich muss immer auf die rote Lampe achten."
+   ]
+  }, 
+  {
+   "begin": "1749.400", 
+   "children": [], 
+   "end": "1750.120", 
+   "id": "s000570", 
+   "language": "deu", 
+   "lines": [
+    "Herr Roth, "
+   ]
+  }, 
+  {
+   "begin": "1750.120", 
+   "children": [], 
+   "end": "1752.560", 
+   "id": "s000571", 
+   "language": "deu", 
+   "lines": [
+    "diese Antwort hat mich jetzt sehr erfreut. "
+   ]
+  }, 
+  {
+   "begin": "1752.560", 
+   "children": [], 
+   "end": "1753.920", 
+   "id": "s000572", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin froh und gl\u00fccklich, "
+   ]
+  }, 
+  {
+   "begin": "1753.920", 
+   "children": [], 
+   "end": "1754.600", 
+   "id": "s000573", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie sagen, "
+   ]
+  }, 
+  {
+   "begin": "1754.600", 
+   "children": [], 
+   "end": "1758.960", 
+   "id": "s000574", 
+   "language": "deu", 
+   "lines": [
+    "dass beim EPA-Vertrag doch noch nachjustiert wird. "
+   ]
+  }, 
+  {
+   "begin": "1758.960", 
+   "children": [], 
+   "end": "1761.760", 
+   "id": "s000575", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie momentan nicht wissen, "
+   ]
+  }, 
+  {
+   "begin": "1761.760", 
+   "children": [], 
+   "end": "1764.160", 
+   "id": "s000576", 
+   "language": "deu", 
+   "lines": [
+    "was denn tats\u00e4chlich verbessert werden soll, "
+   ]
+  }, 
+  {
+   "begin": "1764.160", 
+   "children": [], 
+   "end": "1765.480", 
+   "id": "s000577", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4re ich Ihnen dankbar, "
+   ]
+  }, 
+  {
+   "begin": "1765.480", 
+   "children": [], 
+   "end": "1768.040", 
+   "id": "s000578", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie mir das schriftlich zukommen lassen k\u00f6nnten. "
+   ]
+  }, 
+  {
+   "begin": "1768.040", 
+   "children": [], 
+   "end": "1769.800", 
+   "id": "s000579", 
+   "language": "deu", 
+   "lines": [
+    "W\u00fcrden Sie das machen?"
+   ]
+  }, 
+  {
+   "begin": "1769.800", 
+   "children": [], 
+   "end": "1772.640", 
+   "id": "s000580", 
+   "language": "deu", 
+   "lines": [
+    "Es ist mir eine Ehre und eine Verpflichtung, "
+   ]
+  }, 
+  {
+   "begin": "1772.640", 
+   "children": [], 
+   "end": "1777.560", 
+   "id": "s000581", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kekeritz."
+   ]
+  }, 
+  {
+   "begin": "1777.560", 
+   "children": [], 
+   "end": "1778.240", 
+   "id": "s000582", 
+   "language": "deu", 
+   "lines": [
+    "Wunderbar.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1778.240", 
+   "children": [], 
+   "end": "1781.840", 
+   "id": "s000583", 
+   "language": "deu", 
+   "lines": [
+    "Dann hat die Kollegin Schreiber von der Fraktion Die Linke eine Zusatzfrage."
+   ]
+  }, 
+  {
+   "begin": "1781.840", 
+   "children": [], 
+   "end": "1787.840", 
+   "id": "s000584", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe eine Zusatzfrage zum EU-Afrika-Gipfel. "
+   ]
+  }, 
+  {
+   "begin": "1787.840", 
+   "children": [], 
+   "end": "1796.280", 
+   "id": "s000585", 
+   "language": "deu", 
+   "lines": [
+    "Dort standen die Themen Migration und die menschenunw\u00fcrdigen Bedingungen der Fl\u00fcchtlinge in Libyen im Mittelpunkt. "
+   ]
+  }, 
+  {
+   "begin": "1796.280", 
+   "children": [], 
+   "end": "1801.160", 
+   "id": "s000586", 
+   "language": "deu", 
+   "lines": [
+    "Die EU kooperiert bei der Migrationsabwehr eng mit der libyschen K\u00fcstenwache. "
+   ]
+  }, 
+  {
+   "begin": "1801.160", 
+   "children": [], 
+   "end": "1804.320", 
+   "id": "s000587", 
+   "language": "deu", 
+   "lines": [
+    "Diese Kooperation ist sehr umstritten; "
+   ]
+  }, 
+  {
+   "begin": "1804.320", 
+   "children": [], 
+   "end": "1808.880", 
+   "id": "s000588", 
+   "language": "deu", 
+   "lines": [
+    "denn bei den Eins\u00e4tzen der libyschen K\u00fcstenwache kommen immer wieder Fl\u00fcchtlinge ums Leben. "
+   ]
+  }, 
+  {
+   "begin": "1808.880", 
+   "children": [], 
+   "end": "1813.640", 
+   "id": "s000589", 
+   "language": "deu", 
+   "lines": [
+    "Amnesty International hat vor einigen Tagen einen Bericht ver\u00f6ffentlicht, "
+   ]
+  }, 
+  {
+   "begin": "1813.640", 
+   "children": [], 
+   "end": "1814.280", 
+   "id": "s000590", 
+   "language": "deu", 
+   "lines": [
+    "in dem es hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "1814.280", 
+   "children": [], 
+   "end": "1823.040", 
+   "id": "s000591", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die EU durch die Kooperation mit der K\u00fcstenwache hinsichtlich der massiven Menschenrechtsverletzungen bei Fl\u00fcchtlingen in Libyen mitschuldig macht, "
+   ]
+  }, 
+  {
+   "begin": "1823.040", 
+   "children": [], 
+   "end": "1828.080", 
+   "id": "s000592", 
+   "language": "deu", 
+   "lines": [
+    "da die K\u00fcstenwache selbst Menschenrechte verletze und Fl\u00fcchtlinge keine M\u00f6glichkeit h\u00e4tten, "
+   ]
+  }, 
+  {
+   "begin": "1828.080", 
+   "children": [], 
+   "end": "1830.160", 
+   "id": "s000593", 
+   "language": "deu", 
+   "lines": [
+    "aus Libyen zu fliehen."
+   ]
+  }, 
+  {
+   "begin": "1830.160", 
+   "children": [], 
+   "end": "1831.640", 
+   "id": "s000594", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt m\u00f6chte ich fragen: "
+   ]
+  }, 
+  {
+   "begin": "1831.640", 
+   "children": [], 
+   "end": "1841.840", 
+   "id": "s000595", 
+   "language": "deu", 
+   "lines": [
+    "Gab es beim EU-Afrika-Gipfel vonseiten der europ\u00e4ischen oder afrikanischen L\u00e4nder eine kritische Debatte zur Kooperation mit der libyschen K\u00fcstenwache? "
+   ]
+  }, 
+  {
+   "begin": "1841.840", 
+   "children": [], 
+   "end": "1850.520", 
+   "id": "s000596", 
+   "language": "deu", 
+   "lines": [
+    "Und welche Schlussfolgerungen zieht die Bundesregierung aus dem Amnesty-Bericht f\u00fcr ihr weiteres Vorgehen im Zusammenhang mit Libyen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1850.520", 
+   "children": [], 
+   "end": "1850.600", 
+   "id": "s000597", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "1850.600", 
+   "children": [], 
+   "end": "1850.960", 
+   "id": "s000598", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "1850.960", 
+   "children": [], 
+   "end": "1851.640", 
+   "id": "s000599", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1851.640", 
+   "children": [], 
+   "end": "1852.760", 
+   "id": "s000600", 
+   "language": "deu", 
+   "lines": [
+    "Frau Abgeordnete, "
+   ]
+  }, 
+  {
+   "begin": "1852.760", 
+   "children": [], 
+   "end": "1862.400", 
+   "id": "s000601", 
+   "language": "deu", 
+   "lines": [
+    "da ich selbst beim Gipfel nicht zugegen war und die urspr\u00fcngliche Fragestellung von Herrn Kekeritz sich auf die handelspolitischen Punkte fokussiert hat, "
+   ]
+  }, 
+  {
+   "begin": "1862.400", 
+   "children": [], 
+   "end": "1866.040", 
+   "id": "s000602", 
+   "language": "deu", 
+   "lines": [
+    "vermag ich nicht zu beantworten, "
+   ]
+  }, 
+  {
+   "begin": "1866.040", 
+   "children": [], 
+   "end": "1868.680", 
+   "id": "s000603", 
+   "language": "deu", 
+   "lines": [
+    "ob dies intensiv diskutiert wurde. "
+   ]
+  }, 
+  {
+   "begin": "1868.680", 
+   "children": [], 
+   "end": "1871.480", 
+   "id": "s000604", 
+   "language": "deu", 
+   "lines": [
+    "Ich vermag Ihnen aber zu versichern, "
+   ]
+  }, 
+  {
+   "begin": "1871.480", 
+   "children": [], 
+   "end": "1876.960", 
+   "id": "s000605", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bundesregierung in den Gespr\u00e4chen mit den libyschen Verantwortlichen, "
+   ]
+  }, 
+  {
+   "begin": "1876.960", 
+   "children": [], 
+   "end": "1880.880", 
+   "id": "s000606", 
+   "language": "deu", 
+   "lines": [
+    "aber auch mit anderen afrikanischen Staaten immer wieder darauf hinweist, "
+   ]
+  }, 
+  {
+   "begin": "1880.880", 
+   "children": [], 
+   "end": "1885.840", 
+   "id": "s000607", 
+   "language": "deu", 
+   "lines": [
+    "dass menschenrechtliche Standards von allen Beteiligten respektiert werden m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "1885.840", 
+   "children": [], 
+   "end": "1890.360", 
+   "id": "s000608", 
+   "language": "deu", 
+   "lines": [
+    "und dass im \u00dcbrigen das Engagement der Bundesregierung auch darauf ausgerichtet ist, "
+   ]
+  }, 
+  {
+   "begin": "1890.360", 
+   "children": [], 
+   "end": "1892.480", 
+   "id": "s000609", 
+   "language": "deu", 
+   "lines": [
+    "Schlepperbanden das Handwerk zu legen, "
+   ]
+  }, 
+  {
+   "begin": "1892.480", 
+   "children": [], 
+   "end": "1896.000", 
+   "id": "s000610", 
+   "language": "deu", 
+   "lines": [
+    "um zu mehr Humanit\u00e4t beizutragen. "
+   ]
+  }, 
+  {
+   "begin": "1896.000", 
+   "children": [], 
+   "end": "1899.680", 
+   "id": "s000611", 
+   "language": "deu", 
+   "lines": [
+    "Dass wir in der Realit\u00e4t noch meilenweit von dem entfernt sind, "
+   ]
+  }, 
+  {
+   "begin": "1899.680", 
+   "children": [], 
+   "end": "1901.120", 
+   "id": "s000612", 
+   "language": "deu", 
+   "lines": [
+    "was uns m\u00f6glicherweise eint, "
+   ]
+  }, 
+  {
+   "begin": "1901.120", 
+   "children": [], 
+   "end": "1902.800", 
+   "id": "s000613", 
+   "language": "deu", 
+   "lines": [
+    "das gestehe ich Ihnen gerne zu."
+   ]
+  }, 
+  {
+   "begin": "1902.800", 
+   "children": [], 
+   "end": "1904.680", 
+   "id": "s000614", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1904.680", 
+   "children": [], 
+   "end": "1906.800", 
+   "id": "s000615", 
+   "language": "deu", 
+   "lines": [
+    "Frau Dr\u00f6ge."
+   ]
+  }, 
+  {
+   "begin": "1906.800", 
+   "children": [], 
+   "end": "1912.000", 
+   "id": "s000616", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1918.080", 
+   "children": [], 
+   "end": "1926.040", 
+   "id": "s000617", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcrde gerne auf das Thema Wirtschaftspartnerschaftsabkommen mit Afrika zu sprechen kommen; "
+   ]
+  }, 
+  {
+   "begin": "1926.040", 
+   "children": [], 
+   "end": "1927.760", 
+   "id": "s000618", 
+   "language": "deu", 
+   "lines": [
+    "dazu hatte Herr Kekeritz gefragt. "
+   ]
+  }, 
+  {
+   "begin": "1927.760", 
+   "children": [], 
+   "end": "1927.960", 
+   "id": "s000619", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "1927.960", 
+   "children": [], 
+   "end": "1928.880", 
+   "id": "s000620", 
+   "language": "deu", 
+   "lines": [
+    "es ist schon erstaunlich, "
+   ]
+  }, 
+  {
+   "begin": "1928.880", 
+   "children": [], 
+   "end": "1931.640", 
+   "id": "s000621", 
+   "language": "deu", 
+   "lines": [
+    "dass das auf dem EU-Afrika-Gipfel kein Thema war; "
+   ]
+  }, 
+  {
+   "begin": "1931.640", 
+   "children": [], 
+   "end": "1935.240", 
+   "id": "s000622", 
+   "language": "deu", 
+   "lines": [
+    "denn es ist eines der zentralen Punkte in den Wirtschaftsbeziehungen mit Afrika, "
+   ]
+  }, 
+  {
+   "begin": "1935.240", 
+   "children": [], 
+   "end": "1936.320", 
+   "id": "s000623", 
+   "language": "deu", 
+   "lines": [
+    "wenn es um die Frage geht, "
+   ]
+  }, 
+  {
+   "begin": "1936.320", 
+   "children": [], 
+   "end": "1939.600", 
+   "id": "s000624", 
+   "language": "deu", 
+   "lines": [
+    "wie man faire Beziehungen mit den afrikanischen L\u00e4ndern ausgestaltet."
+   ]
+  }, 
+  {
+   "begin": "1939.600", 
+   "children": [], 
+   "end": "1940.560", 
+   "id": "s000625", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben jetzt gesagt, "
+   ]
+  }, 
+  {
+   "begin": "1940.560", 
+   "children": [], 
+   "end": "1943.160", 
+   "id": "s000626", 
+   "language": "deu", 
+   "lines": [
+    "dass es doch noch Bewegung gibt, "
+   ]
+  }, 
+  {
+   "begin": "1943.160", 
+   "children": [], 
+   "end": "1944.720", 
+   "id": "s000627", 
+   "language": "deu", 
+   "lines": [
+    "die EPAs nachzuverhandeln. "
+   ]
+  }, 
+  {
+   "begin": "1944.720", 
+   "children": [], 
+   "end": "1946.840", 
+   "id": "s000628", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00fcrde mich sehr freuen, "
+   ]
+  }, 
+  {
+   "begin": "1946.840", 
+   "children": [], 
+   "end": "1952.320", 
+   "id": "s000629", 
+   "language": "deu", 
+   "lines": [
+    "weil wir Gr\u00fcnen und auch Die Linke das in der letzten Legislaturperiode von Ihnen gefordert haben. "
+   ]
+  }, 
+  {
+   "begin": "1952.320", 
+   "children": [], 
+   "end": "1953.960", 
+   "id": "s000630", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben Sie unter anderem aufgefordert, "
+   ]
+  }, 
+  {
+   "begin": "1953.960", 
+   "children": [], 
+   "end": "1956.000", 
+   "id": "s000631", 
+   "language": "deu", 
+   "lines": [
+    "die EPAs in dieser Form nicht zu ratifizieren, "
+   ]
+  }, 
+  {
+   "begin": "1956.000", 
+   "children": [], 
+   "end": "1961.440", 
+   "id": "s000632", 
+   "language": "deu", 
+   "lines": [
+    "weil sie den Spielraum f\u00fcr die afrikanischen L\u00e4nder einschr\u00e4nken und eine eigenst\u00e4ndige Entwicklung nicht erm\u00f6glichen; "
+   ]
+  }, 
+  {
+   "begin": "1961.440", 
+   "children": [], 
+   "end": "1963.280", 
+   "id": "s000633", 
+   "language": "deu", 
+   "lines": [
+    "es sind Rendezvous-Klauseln enthalten, "
+   ]
+  }, 
+  {
+   "begin": "1963.280", 
+   "children": [], 
+   "end": "1966.080", 
+   "id": "s000634", 
+   "language": "deu", 
+   "lines": [
+    "die gegebenenfalls Verhandlungen \u00fcber Investitionsschutzbestimmungen erm\u00f6glichen. "
+   ]
+  }, 
+  {
+   "begin": "1966.080", 
+   "children": [], 
+   "end": "1971.520", 
+   "id": "s000635", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt auch vonseiten der afrikanischen L\u00e4nder Widerstand gegen die Unterzeichnung dieser Wirtschaftspartnerschaftsabkommen. "
+   ]
+  }, 
+  {
+   "begin": "1971.520", 
+   "children": [], 
+   "end": "1973.800", 
+   "id": "s000636", 
+   "language": "deu", 
+   "lines": [
+    "Bislang war die Haltung der Bundesregierung jedoch, "
+   ]
+  }, 
+  {
+   "begin": "1973.800", 
+   "children": [], 
+   "end": "1975.800", 
+   "id": "s000637", 
+   "language": "deu", 
+   "lines": [
+    "dass es keine Nachverhandlungen geben wird. "
+   ]
+  }, 
+  {
+   "begin": "1975.800", 
+   "children": [], 
+   "end": "1976.960", 
+   "id": "s000638", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen meine Frage: "
+   ]
+  }, 
+  {
+   "begin": "1976.960", 
+   "children": [], 
+   "end": "1977.480", 
+   "id": "s000639", 
+   "language": "deu", 
+   "lines": [
+    "Stimmt es, "
+   ]
+  }, 
+  {
+   "begin": "1977.480", 
+   "children": [], 
+   "end": "1979.440", 
+   "id": "s000640", 
+   "language": "deu", 
+   "lines": [
+    "dass es Nachverhandlungen geben wird, "
+   ]
+  }, 
+  {
+   "begin": "1979.440", 
+   "children": [], 
+   "end": "1982.240", 
+   "id": "s000641", 
+   "language": "deu", 
+   "lines": [
+    "und in welcher Form wird es sie geben? "
+   ]
+  }, 
+  {
+   "begin": "1982.240", 
+   "children": [], 
+   "end": "1983.840", 
+   "id": "s000642", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re mir sehr wichtig zu wissen."
+   ]
+  }, 
+  {
+   "begin": "1983.840", 
+   "children": [], 
+   "end": "1984.600", 
+   "id": "s000643", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "1984.600", 
+   "children": [], 
+   "end": "1985.640", 
+   "id": "s000644", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "1985.640", 
+   "children": [], 
+   "end": "1991.000", 
+   "id": "s000645", 
+   "language": "deu", 
+   "lines": [
+    "die Aussagen der Bundeskanzlerin beziehen sich ausdr\u00fccklich auf die zuk\u00fcnftige Ausrichtung der Handelsvertr\u00e4ge. "
+   ]
+  }, 
+  {
+   "begin": "1991.000", 
+   "children": [], 
+   "end": "1993.000", 
+   "id": "s000646", 
+   "language": "deu", 
+   "lines": [
+    "Ich will in diesem Zusammenhang hervorheben, "
+   ]
+  }, 
+  {
+   "begin": "1993.000", 
+   "children": [], 
+   "end": "1995.200", 
+   "id": "s000647", 
+   "language": "deu", 
+   "lines": [
+    "dass wir nicht alleine auf dem Spielfeld stehen, "
+   ]
+  }, 
+  {
+   "begin": "1995.200", 
+   "children": [], 
+   "end": "2000.080", 
+   "id": "s000648", 
+   "language": "deu", 
+   "lines": [
+    "sondern dass es sich hier um Abkommen der Europ\u00e4ischen Union mit afrikanischen Staaten handelt, "
+   ]
+  }, 
+  {
+   "begin": "2000.080", 
+   "children": [], 
+   "end": "2001.680", 
+   "id": "s000649", 
+   "language": "deu", 
+   "lines": [
+    "wir dabei also nur ein Akteur sind, "
+   ]
+  }, 
+  {
+   "begin": "2001.680", 
+   "children": [], 
+   "end": "2007.840", 
+   "id": "s000650", 
+   "language": "deu", 
+   "lines": [
+    "und dass die wesentliche Verhandlungsf\u00fchrung in den H\u00e4nden der Kommission liegt. "
+   ]
+  }, 
+  {
+   "begin": "2007.840", 
+   "children": [], 
+   "end": "2009.400", 
+   "id": "s000651", 
+   "language": "deu", 
+   "lines": [
+    "Ich will aber deutlich machen, "
+   ]
+  }, 
+  {
+   "begin": "2009.400", 
+   "children": [], 
+   "end": "2012.320", 
+   "id": "s000652", 
+   "language": "deu", 
+   "lines": [
+    "dass sich nicht nur die Bundeskanzlerin, "
+   ]
+  }, 
+  {
+   "begin": "2012.320", 
+   "children": [], 
+   "end": "2022.720", 
+   "id": "s000653", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch der Bundesminister f\u00fcr wirtschaftliche Zusammenarbeit sehr kritisch zu WPA ge\u00e4u\u00dfert hat und dass der Afrikabeauftragte der Bundeskanzlerin, "
+   ]
+  }, 
+  {
+   "begin": "2022.720", 
+   "children": [], 
+   "end": "2023.640", 
+   "id": "s000654", 
+   "language": "deu", 
+   "lines": [
+    "Herr Nooke, "
+   ]
+  }, 
+  {
+   "begin": "2023.640", 
+   "children": [], 
+   "end": "2026.080", 
+   "id": "s000655", 
+   "language": "deu", 
+   "lines": [
+    "ein Moratorium gefordert hat."
+   ]
+  }, 
+  {
+   "begin": "2026.080", 
+   "children": [], 
+   "end": "2029.000", 
+   "id": "s000656", 
+   "language": "deu", 
+   "lines": [
+    "An diesen wenigen Beispielen soll deutlich werden, "
+   ]
+  }, 
+  {
+   "begin": "2029.000", 
+   "children": [], 
+   "end": "2033.120", 
+   "id": "s000657", 
+   "language": "deu", 
+   "lines": [
+    "dass wir durchaus \u00dcberarbeitungsbedarf sehen und dass wir das auch entsprechend einbringen. "
+   ]
+  }, 
+  {
+   "begin": "2033.120", 
+   "children": [], 
+   "end": "2037.360", 
+   "id": "s000658", 
+   "language": "deu", 
+   "lines": [
+    "Das war aber nicht Kernbestandteil der Gespr\u00e4che des Gipfels."
+   ]
+  }, 
+  {
+   "begin": "2037.360", 
+   "children": [], 
+   "end": "2042.400", 
+   "id": "s000659", 
+   "language": "deu", 
+   "lines": [
+    "Ich sehe keine weiteren Zusatzfragen mehr."
+   ]
+  }, 
+  {
+   "begin": "2042.400", 
+   "children": [], 
+   "end": "2046.000", 
+   "id": "s000660", 
+   "language": "deu", 
+   "lines": [
+    "Damit rufe ich die Frage\u00a07 des Kollegen Sarrazin auf:"
+   ]
+  }, 
+  {
+   "begin": "2046.000", 
+   "children": [], 
+   "end": "2048.480", 
+   "id": "s000661", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister Roth."
+   ]
+  }, 
+  {
+   "begin": "2048.480", 
+   "children": [], 
+   "end": "2049.120", 
+   "id": "s000662", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "2049.120", 
+   "children": [], 
+   "end": "2050.920", 
+   "id": "s000663", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2050.920", 
+   "children": [], 
+   "end": "2054.280", 
+   "id": "s000664", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Herr Kollege Sarrazin, "
+   ]
+  }, 
+  {
+   "begin": "2054.280", 
+   "children": [], 
+   "end": "2060.880", 
+   "id": "s000665", 
+   "language": "deu", 
+   "lines": [
+    "die politischen und gesetzgeberischen Versuche der ukrainischen Regierung, "
+   ]
+  }, 
+  {
+   "begin": "2060.880", 
+   "children": [], 
+   "end": "2065.640", 
+   "id": "s000666", 
+   "language": "deu", 
+   "lines": [
+    "die Unabh\u00e4ngigkeit der Antikorruptionsbeh\u00f6rden einzuschr\u00e4nken, "
+   ]
+  }, 
+  {
+   "begin": "2065.640", 
+   "children": [], 
+   "end": "2069.280", 
+   "id": "s000667", 
+   "language": "deu", 
+   "lines": [
+    "werden von der Bundesregierung au\u00dferordentlich kritisch verfolgt. "
+   ]
+  }, 
+  {
+   "begin": "2069.280", 
+   "children": [], 
+   "end": "2076.800", 
+   "id": "s000668", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben dies in einer Vielzahl von Gespr\u00e4chen mit den Vertreterinnen und Vertretern der Ukraine ziemlich deutlich zum Ausdruck gebracht. "
+   ]
+  }, 
+  {
+   "begin": "2076.800", 
+   "children": [], 
+   "end": "2079.920", 
+   "id": "s000669", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb sind wir sehr erfreut dar\u00fcber\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2079.920", 
+   "children": [], 
+   "end": "2081.760", 
+   "id": "s000670", 
+   "language": "deu", 
+   "lines": [
+    "oder ich will es einmal anders formulieren: "
+   ]
+  }, 
+  {
+   "begin": "2081.760", 
+   "children": [], 
+   "end": "2083.040", 
+   "id": "s000671", 
+   "language": "deu", 
+   "lines": [
+    "wir sehen es positiv\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "2083.040", 
+   "children": [], 
+   "end": "2090.280", 
+   "id": "s000672", 
+   "language": "deu", 
+   "lines": [
+    "dass der Gesetzentwurf zur Herstellung parlamentarischer Kontrolle \u00fcber die Antikorruptionsbeh\u00f6rden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2090.280", 
+   "children": [], 
+   "end": "2091.680", 
+   "id": "s000673", 
+   "language": "deu", 
+   "lines": [
+    "ich habe das jetzt einmal so zitiert\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2091.680", 
+   "children": [], 
+   "end": "2092.160", 
+   "id": "s000674", 
+   "language": "deu", 
+   "lines": [
+    "nicht, "
+   ]
+  }, 
+  {
+   "begin": "2092.160", 
+   "children": [], 
+   "end": "2092.920", 
+   "id": "s000675", 
+   "language": "deu", 
+   "lines": [
+    "wie geplant, "
+   ]
+  }, 
+  {
+   "begin": "2092.920", 
+   "children": [], 
+   "end": "2103.600", 
+   "id": "s000676", 
+   "language": "deu", 
+   "lines": [
+    "auf der Tagesordnung der Rada f\u00fcr den 7.\u00a0Dezember stand und dass das Nationale Antikorruptionsb\u00fcro seine unabh\u00e4ngige Arbeit fortsetzen kann."
+   ]
+  }, 
+  {
+   "begin": "2103.600", 
+   "children": [], 
+   "end": "2106.520", 
+   "id": "s000677", 
+   "language": "deu", 
+   "lines": [
+    "Wir weisen dar\u00fcber hinaus immer wieder darauf hin, "
+   ]
+  }, 
+  {
+   "begin": "2106.520", 
+   "children": [], 
+   "end": "2121.280", 
+   "id": "s000678", 
+   "language": "deu", 
+   "lines": [
+    "dass Korruptionsbek\u00e4mpfung weiterhin zentraler Bestandteil der Reformbem\u00fchungen in der Ukraine sein muss und dass wir im Rahmen des Aktionsplans Ukraine seitens der Bundesregierung diese Bem\u00fchungen in der Ukraine engagiert, "
+   ]
+  }, 
+  {
+   "begin": "2121.280", 
+   "children": [], 
+   "end": "2123.240", 
+   "id": "s000679", 
+   "language": "deu", 
+   "lines": [
+    "und zwar nicht nur finanziell, "
+   ]
+  }, 
+  {
+   "begin": "2123.240", 
+   "children": [], 
+   "end": "2124.440", 
+   "id": "s000680", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch personell, "
+   ]
+  }, 
+  {
+   "begin": "2124.440", 
+   "children": [], 
+   "end": "2127.160", 
+   "id": "s000681", 
+   "language": "deu", 
+   "lines": [
+    "und mit Expertise entsprechend unterst\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "2127.160", 
+   "children": [], 
+   "end": "2131.360", 
+   "id": "s000682", 
+   "language": "deu", 
+   "lines": [
+    "Wichtig ist vor allem auch die Einbeziehung in die Projekte der Zivilgesellschaft."
+   ]
+  }, 
+  {
+   "begin": "2131.360", 
+   "children": [], 
+   "end": "2132.240", 
+   "id": "s000683", 
+   "language": "deu", 
+   "lines": [
+    "Danke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2132.240", 
+   "children": [], 
+   "end": "2133.400", 
+   "id": "s000684", 
+   "language": "deu", 
+   "lines": [
+    "Zusatzfrage?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2133.400", 
+   "children": [], 
+   "end": "2133.840", 
+   "id": "s000685", 
+   "language": "deu", 
+   "lines": [
+    "Herr Sarrazin."
+   ]
+  }, 
+  {
+   "begin": "2133.840", 
+   "children": [], 
+   "end": "2134.080", 
+   "id": "s000686", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "2134.080", 
+   "children": [], 
+   "end": "2135.320", 
+   "id": "s000687", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2135.320", 
+   "children": [], 
+   "end": "2137.160", 
+   "id": "s000688", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister, "
+   ]
+  }, 
+  {
+   "begin": "2137.160", 
+   "children": [], 
+   "end": "2139.200", 
+   "id": "s000689", 
+   "language": "deu", 
+   "lines": [
+    "ich begr\u00fc\u00dfe es au\u00dferordentlich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2139.200", 
+   "children": [], 
+   "end": "2143.120", 
+   "id": "s000690", 
+   "language": "deu", 
+   "lines": [
+    "das m\u00f6chte ich vorausschicken und noch einmal deutlich machen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "2143.120", 
+   "children": [], 
+   "end": "2146.520", 
+   "id": "s000691", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland und die deutsche Bundesregierung verfolgen, "
+   ]
+  }, 
+  {
+   "begin": "2146.520", 
+   "children": [], 
+   "end": "2148.160", 
+   "id": "s000692", 
+   "language": "deu", 
+   "lines": [
+    "was in der Ukraine passiert. "
+   ]
+  }, 
+  {
+   "begin": "2148.160", 
+   "children": [], 
+   "end": "2149.480", 
+   "id": "s000693", 
+   "language": "deu", 
+   "lines": [
+    "Es ist sehr wichtig, "
+   ]
+  }, 
+  {
+   "begin": "2149.480", 
+   "children": [], 
+   "end": "2151.360", 
+   "id": "s000694", 
+   "language": "deu", 
+   "lines": [
+    "dass wir wissen, "
+   ]
+  }, 
+  {
+   "begin": "2151.360", 
+   "children": [], 
+   "end": "2153.680", 
+   "id": "s000695", 
+   "language": "deu", 
+   "lines": [
+    "dass die Unabh\u00e4ngigkeit der Beh\u00f6rden, "
+   ]
+  }, 
+  {
+   "begin": "2153.680", 
+   "children": [], 
+   "end": "2158.320", 
+   "id": "s000696", 
+   "language": "deu", 
+   "lines": [
+    "die mit der Verfolgung von Korruptionstatbest\u00e4nden in der Ukraine besch\u00e4ftigt sind, "
+   ]
+  }, 
+  {
+   "begin": "2158.320", 
+   "children": [], 
+   "end": "2160.480", 
+   "id": "s000697", 
+   "language": "deu", 
+   "lines": [
+    "vor Ort weiterhin gew\u00e4hrleistet ist."
+   ]
+  }, 
+  {
+   "begin": "2160.480", 
+   "children": [], 
+   "end": "2166.360", 
+   "id": "s000698", 
+   "language": "deu", 
+   "lines": [
+    "Weil die Korruptionsbek\u00e4mpfung im Zusammenhang mit dem Assoziierungsprozess enorm wichtig ist, "
+   ]
+  }, 
+  {
+   "begin": "2166.360", 
+   "children": [], 
+   "end": "2167.200", 
+   "id": "s000699", 
+   "language": "deu", 
+   "lines": [
+    "stellt sich die Frage, "
+   ]
+  }, 
+  {
+   "begin": "2167.200", 
+   "children": [], 
+   "end": "2179.000", 
+   "id": "s000700", 
+   "language": "deu", 
+   "lines": [
+    "ob aus Ihrer Sicht die Wiedervorlage dieses oder eines \u00e4hnlichen Gesetzentwurfs Folgen f\u00fcr die Zusammenarbeit im Rahmen des Assoziierungsprozesses oder auch f\u00fcr die bilaterale Zusammenarbeit mit Deutschland h\u00e4tte."
+   ]
+  }, 
+  {
+   "begin": "2179.000", 
+   "children": [], 
+   "end": "2180.760", 
+   "id": "s000701", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2180.760", 
+   "children": [], 
+   "end": "2182.760", 
+   "id": "s000702", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter Sarrazin, "
+   ]
+  }, 
+  {
+   "begin": "2182.760", 
+   "children": [], 
+   "end": "2185.120", 
+   "id": "s000703", 
+   "language": "deu", 
+   "lines": [
+    "erst einmal bedanke ich mich herzlich f\u00fcr die lobenden Worte. "
+   ]
+  }, 
+  {
+   "begin": "2185.120", 
+   "children": [], 
+   "end": "2188.960", 
+   "id": "s000704", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte aber nicht allein die Bundesregierung gelobt wissen. "
+   ]
+  }, 
+  {
+   "begin": "2188.960", 
+   "children": [], 
+   "end": "2191.320", 
+   "id": "s000705", 
+   "language": "deu", 
+   "lines": [
+    "Ich will das ausdr\u00fccklich auf die Europ\u00e4ische Union beziehen, "
+   ]
+  }, 
+  {
+   "begin": "2191.320", 
+   "children": [], 
+   "end": "2195.440", 
+   "id": "s000706", 
+   "language": "deu", 
+   "lines": [
+    "aber auch auf die Vereinigten Staaten von Amerika und andere G-7-Staaten, "
+   ]
+  }, 
+  {
+   "begin": "2195.440", 
+   "children": [], 
+   "end": "2198.120", 
+   "id": "s000707", 
+   "language": "deu", 
+   "lines": [
+    "die sich in diesem Zusammenhang sehr kritisch ge\u00e4u\u00dfert haben. "
+   ]
+  }, 
+  {
+   "begin": "2198.120", 
+   "children": [], 
+   "end": "2198.520", 
+   "id": "s000708", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "2198.520", 
+   "children": [], 
+   "end": "2204.000", 
+   "id": "s000709", 
+   "language": "deu", 
+   "lines": [
+    "dass nur diese internationale und europ\u00e4ische Teamarbeit etwas zu bewirken vermag. "
+   ]
+  }, 
+  {
+   "begin": "2204.000", 
+   "children": [], 
+   "end": "2205.640", 
+   "id": "s000710", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir nur bilateral vorgehen, "
+   ]
+  }, 
+  {
+   "begin": "2205.640", 
+   "children": [], 
+   "end": "2207.200", 
+   "id": "s000711", 
+   "language": "deu", 
+   "lines": [
+    "erreichen wir nicht das, "
+   ]
+  }, 
+  {
+   "begin": "2207.200", 
+   "children": [], 
+   "end": "2208.520", 
+   "id": "s000712", 
+   "language": "deu", 
+   "lines": [
+    "was wir gemeinsam wollen."
+   ]
+  }, 
+  {
+   "begin": "2208.520", 
+   "children": [], 
+   "end": "2210.840", 
+   "id": "s000713", 
+   "language": "deu", 
+   "lines": [
+    "Wir denken verst\u00e4rkt dar\u00fcber nach, "
+   ]
+  }, 
+  {
+   "begin": "2210.840", 
+   "children": [], 
+   "end": "2214.680", 
+   "id": "s000714", 
+   "language": "deu", 
+   "lines": [
+    "bei der Gew\u00e4hrung von Mitteln noch st\u00e4rker zu konditionieren. "
+   ]
+  }, 
+  {
+   "begin": "2214.680", 
+   "children": [], 
+   "end": "2215.040", 
+   "id": "s000715", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "2215.040", 
+   "children": [], 
+   "end": "2216.800", 
+   "id": "s000716", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen noch st\u00e4rker darauf achten, "
+   ]
+  }, 
+  {
+   "begin": "2216.800", 
+   "children": [], 
+   "end": "2221.560", 
+   "id": "s000717", 
+   "language": "deu", 
+   "lines": [
+    "ob Punkte wie St\u00e4rkung der Rechtsstaatlichkeit, "
+   ]
+  }, 
+  {
+   "begin": "2221.560", 
+   "children": [], 
+   "end": "2223.000", 
+   "id": "s000718", 
+   "language": "deu", 
+   "lines": [
+    "Unabh\u00e4ngigkeit der Justiz, "
+   ]
+  }, 
+  {
+   "begin": "2223.000", 
+   "children": [], 
+   "end": "2233.200", 
+   "id": "s000719", 
+   "language": "deu", 
+   "lines": [
+    "Korruptionsbek\u00e4mpfung und Ausbau einer vitalen Zivilgesellschaft bei den Reformbem\u00fchungen entsprechend unterst\u00fctzt und unsere diesbez\u00fcglichen Erwartungen erf\u00fcllt werden. "
+   ]
+  }, 
+  {
+   "begin": "2233.200", 
+   "children": [], 
+   "end": "2233.320", 
+   "id": "s000720", 
+   "language": "deu", 
+   "lines": [
+    "Wenn nicht, "
+   ]
+  }, 
+  {
+   "begin": "2233.320", 
+   "children": [], 
+   "end": "2237.520", 
+   "id": "s000721", 
+   "language": "deu", 
+   "lines": [
+    "muss das Auswirkungen auf die Gew\u00e4hrung von finanziellen Mitteln haben."
+   ]
+  }, 
+  {
+   "begin": "2237.520", 
+   "children": [], 
+   "end": "2238.600", 
+   "id": "s000722", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2238.600", 
+   "children": [], 
+   "end": "2240.640", 
+   "id": "s000723", 
+   "language": "deu", 
+   "lines": [
+    "Herr Sarrazin zu einer weiteren Zusatzfrage."
+   ]
+  }, 
+  {
+   "begin": "2240.640", 
+   "children": [], 
+   "end": "2241.960", 
+   "id": "s000724", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "2241.960", 
+   "children": [], 
+   "end": "2249.880", 
+   "id": "s000725", 
+   "language": "deu", 
+   "lines": [
+    "dass die Wiedervorlage dieses oder eines \u00e4hnlichen Gesetzentwurfs die Bundesregierung veranlassen w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "2249.880", 
+   "children": [], 
+   "end": "2252.760", 
+   "id": "s000726", 
+   "language": "deu", 
+   "lines": [
+    "bilaterale Projekte oder auch Mittel, "
+   ]
+  }, 
+  {
+   "begin": "2252.760", 
+   "children": [], 
+   "end": "2255.720", 
+   "id": "s000727", 
+   "language": "deu", 
+   "lines": [
+    "die aus Deutschland zur Unterst\u00fctzung der Zusammenarbeit in die Ukraine flie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "2255.720", 
+   "children": [], 
+   "end": "2258.000", 
+   "id": "s000728", 
+   "language": "deu", 
+   "lines": [
+    "kritisch zu \u00fcberpr\u00fcfen. "
+   ]
+  }, 
+  {
+   "begin": "2258.000", 
+   "children": [], 
+   "end": "2260.680", 
+   "id": "s000729", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus stellt sich die Frage, "
+   ]
+  }, 
+  {
+   "begin": "2260.680", 
+   "children": [], 
+   "end": "2266.040", 
+   "id": "s000730", 
+   "language": "deu", 
+   "lines": [
+    "ob die Bundesregierung in diesem Fall m\u00f6glichen Investoren oder deutschen Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "2266.040", 
+   "children": [], 
+   "end": "2269.880", 
+   "id": "s000731", 
+   "language": "deu", 
+   "lines": [
+    "die sich in der Ukraine engagieren wollen, "
+   ]
+  }, 
+  {
+   "begin": "2269.880", 
+   "children": [], 
+   "end": "2276.400", 
+   "id": "s000732", 
+   "language": "deu", 
+   "lines": [
+    "nach wie vor guten Gewissens ein Engagement in der Ukraine empfehlen w\u00fcrde."
+   ]
+  }, 
+  {
+   "begin": "2276.400", 
+   "children": [], 
+   "end": "2278.040", 
+   "id": "s000733", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2278.040", 
+   "children": [], 
+   "end": "2280.400", 
+   "id": "s000734", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Sarrazin, "
+   ]
+  }, 
+  {
+   "begin": "2280.400", 
+   "children": [], 
+   "end": "2280.880", 
+   "id": "s000735", 
+   "language": "deu", 
+   "lines": [
+    "ich vermute, "
+   ]
+  }, 
+  {
+   "begin": "2280.880", 
+   "children": [], 
+   "end": "2285.680", 
+   "id": "s000736", 
+   "language": "deu", 
+   "lines": [
+    "dass es deutlicher Hinweise der Bundesregierung \u00fcberhaupt nicht bedarf, "
+   ]
+  }, 
+  {
+   "begin": "2285.680", 
+   "children": [], 
+   "end": "2290.440", 
+   "id": "s000737", 
+   "language": "deu", 
+   "lines": [
+    "weil insbesondere kleine und mittelst\u00e4ndische Unternehmen sehr genau wissen, "
+   ]
+  }, 
+  {
+   "begin": "2290.440", 
+   "children": [], 
+   "end": "2297.640", 
+   "id": "s000738", 
+   "language": "deu", 
+   "lines": [
+    "wie wichtig Rechtsstaatlichkeit und eine entschiedene Korruptionsbek\u00e4mpfung sind. "
+   ]
+  }, 
+  {
+   "begin": "2297.640", 
+   "children": [], 
+   "end": "2300.680", 
+   "id": "s000739", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir Investitionen in der Ukraine unterst\u00fctzen wollen, "
+   ]
+  }, 
+  {
+   "begin": "2300.680", 
+   "children": [], 
+   "end": "2305.520", 
+   "id": "s000740", 
+   "language": "deu", 
+   "lines": [
+    "brauchen wir daf\u00fcr privatwirtschaftliches Engagement. "
+   ]
+  }, 
+  {
+   "begin": "2305.520", 
+   "children": [], 
+   "end": "2307.840", 
+   "id": "s000741", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb bin ich sehr dankbar daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "2307.840", 
+   "children": [], 
+   "end": "2308.520", 
+   "id": "s000742", 
+   "language": "deu", 
+   "lines": [
+    "dass nicht nur die Politik, "
+   ]
+  }, 
+  {
+   "begin": "2308.520", 
+   "children": [], 
+   "end": "2310.600", 
+   "id": "s000743", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch die Wirtschaft immer wieder deutlich macht: "
+   ]
+  }, 
+  {
+   "begin": "2310.600", 
+   "children": [], 
+   "end": "2317.360", 
+   "id": "s000744", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine klare Auseinandersetzung in Sachen Korruption; "
+   ]
+  }, 
+  {
+   "begin": "2317.360", 
+   "children": [], 
+   "end": "2319.240", 
+   "id": "s000745", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen sie stoppen."
+   ]
+  }, 
+  {
+   "begin": "2319.240", 
+   "children": [], 
+   "end": "2321.360", 
+   "id": "s000746", 
+   "language": "deu", 
+   "lines": [
+    "Weil mir die Zeit davonl\u00e4uft, "
+   ]
+  }, 
+  {
+   "begin": "2321.360", 
+   "children": [], 
+   "end": "2326.240", 
+   "id": "s000747", 
+   "language": "deu", 
+   "lines": [
+    "kann ich jetzt nicht auf die F\u00fclle von bilateralen Projekten eingehen, "
+   ]
+  }, 
+  {
+   "begin": "2326.240", 
+   "children": [], 
+   "end": "2328.440", 
+   "id": "s000748", 
+   "language": "deu", 
+   "lines": [
+    "die wir in den vergangenen Jahren finanziell, "
+   ]
+  }, 
+  {
+   "begin": "2328.440", 
+   "children": [], 
+   "end": "2331.200", 
+   "id": "s000749", 
+   "language": "deu", 
+   "lines": [
+    "organisatorisch und ideell unterst\u00fctzt haben, "
+   ]
+  }, 
+  {
+   "begin": "2331.200", 
+   "children": [], 
+   "end": "2335.880", 
+   "id": "s000750", 
+   "language": "deu", 
+   "lines": [
+    "um der Korruptionsbek\u00e4mpfung st\u00e4rker zum Durchbruch zu verhelfen. "
+   ]
+  }, 
+  {
+   "begin": "2335.880", 
+   "children": [], 
+   "end": "2339.360", 
+   "id": "s000751", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen w\u00fcrdige ich es au\u00dferordentlich, "
+   ]
+  }, 
+  {
+   "begin": "2339.360", 
+   "children": [], 
+   "end": "2342.240", 
+   "id": "s000752", 
+   "language": "deu", 
+   "lines": [
+    "dass die ukrainische Regierung davon abgesehen hat, "
+   ]
+  }, 
+  {
+   "begin": "2342.240", 
+   "children": [], 
+   "end": "2344.840", 
+   "id": "s000753", 
+   "language": "deu", 
+   "lines": [
+    "diesen Gesetzentwurf in die Rada einzubringen."
+   ]
+  }, 
+  {
+   "begin": "2344.840", 
+   "children": [], 
+   "end": "2346.200", 
+   "id": "s000754", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2346.200", 
+   "children": [], 
+   "end": "2349.400", 
+   "id": "s000755", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat das Wort der Kollege Dr.\u00a0Neu f\u00fcr eine Zusatzfrage."
+   ]
+  }, 
+  {
+   "begin": "2351.440", 
+   "children": [], 
+   "end": "2352.240", 
+   "id": "s000756", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2352.240", 
+   "children": [], 
+   "end": "2355.840", 
+   "id": "s000757", 
+   "language": "deu", 
+   "lines": [
+    "Im Jahr\u00a02015 hat die Bundesregierung der ukrainischen Regierung, "
+   ]
+  }, 
+  {
+   "begin": "2355.840", 
+   "children": [], 
+   "end": "2357.960", 
+   "id": "s000758", 
+   "language": "deu", 
+   "lines": [
+    "als Jazenjuk gerade in Berlin weilte, "
+   ]
+  }, 
+  {
+   "begin": "2357.960", 
+   "children": [], 
+   "end": "2361.480", 
+   "id": "s000759", 
+   "language": "deu", 
+   "lines": [
+    "einen Kredit in H\u00f6he von 500\u00a0Millionen Euro gew\u00e4hrt. "
+   ]
+  }, 
+  {
+   "begin": "2361.480", 
+   "children": [], 
+   "end": "2364.360", 
+   "id": "s000760", 
+   "language": "deu", 
+   "lines": [
+    "Auf meine Kleine Anfrage, "
+   ]
+  }, 
+  {
+   "begin": "2364.360", 
+   "children": [], 
+   "end": "2368.240", 
+   "id": "s000761", 
+   "language": "deu", 
+   "lines": [
+    "inwieweit diese 500\u00a0Millionen Euro an Projekte gebunden sind, "
+   ]
+  }, 
+  {
+   "begin": "2368.240", 
+   "children": [], 
+   "end": "2369.200", 
+   "id": "s000762", 
+   "language": "deu", 
+   "lines": [
+    "hie\u00df es seinerzeit, "
+   ]
+  }, 
+  {
+   "begin": "2369.200", 
+   "children": [], 
+   "end": "2372.200", 
+   "id": "s000763", 
+   "language": "deu", 
+   "lines": [
+    "dass noch keinerlei Projekte identifiziert seien, "
+   ]
+  }, 
+  {
+   "begin": "2372.200", 
+   "children": [], 
+   "end": "2376.320", 
+   "id": "s000764", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die die 500\u00a0Millionen Euro gebraucht w\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "2376.320", 
+   "children": [], 
+   "end": "2378.120", 
+   "id": "s000765", 
+   "language": "deu", 
+   "lines": [
+    "Das ist mittlerweile zwei Jahre her. "
+   ]
+  }, 
+  {
+   "begin": "2378.120", 
+   "children": [], 
+   "end": "2379.760", 
+   "id": "s000766", 
+   "language": "deu", 
+   "lines": [
+    "Meine Frage lautet: "
+   ]
+  }, 
+  {
+   "begin": "2379.760", 
+   "children": [], 
+   "end": "2382.480", 
+   "id": "s000767", 
+   "language": "deu", 
+   "lines": [
+    "Wurden mittlerweile Projekte identifiziert, "
+   ]
+  }, 
+  {
+   "begin": "2382.480", 
+   "children": [], 
+   "end": "2385.000", 
+   "id": "s000768", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die die 500\u00a0Millionen Euro gebraucht wurden? "
+   ]
+  }, 
+  {
+   "begin": "2385.000", 
+   "children": [], 
+   "end": "2386.720", 
+   "id": "s000769", 
+   "language": "deu", 
+   "lines": [
+    "Und wenn sie nicht identifiziert worden sind, "
+   ]
+  }, 
+  {
+   "begin": "2386.720", 
+   "children": [], 
+   "end": "2389.000", 
+   "id": "s000770", 
+   "language": "deu", 
+   "lines": [
+    "was passiert dann mit dem Geld?"
+   ]
+  }, 
+  {
+   "begin": "2389.000", 
+   "children": [], 
+   "end": "2390.800", 
+   "id": "s000771", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister."
+   ]
+  }, 
+  {
+   "begin": "2390.800", 
+   "children": [], 
+   "end": "2391.520", 
+   "id": "s000772", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2391.520", 
+   "children": [], 
+   "end": "2392.000", 
+   "id": "s000773", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Neu, "
+   ]
+  }, 
+  {
+   "begin": "2392.000", 
+   "children": [], 
+   "end": "2393.560", 
+   "id": "s000774", 
+   "language": "deu", 
+   "lines": [
+    "aus eigener Anschauung wei\u00df ich, "
+   ]
+  }, 
+  {
+   "begin": "2393.560", 
+   "children": [], 
+   "end": "2397.200", 
+   "id": "s000775", 
+   "language": "deu", 
+   "lines": [
+    "dass es eine Reihe von gut funktionierenden Projekten gibt, "
+   ]
+  }, 
+  {
+   "begin": "2397.200", 
+   "children": [], 
+   "end": "2403.760", 
+   "id": "s000776", 
+   "language": "deu", 
+   "lines": [
+    "die den Prinzipien St\u00e4rkung der Rechtsstaatlichkeit und Korruptionsbek\u00e4mpfung Rechnung tragen. "
+   ]
+  }, 
+  {
+   "begin": "2403.760", 
+   "children": [], 
+   "end": "2405.640", 
+   "id": "s000777", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin aber derzeit nicht in der Lage, "
+   ]
+  }, 
+  {
+   "begin": "2405.640", 
+   "children": [], 
+   "end": "2407.000", 
+   "id": "s000778", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen genau zu sagen, "
+   ]
+  }, 
+  {
+   "begin": "2407.000", 
+   "children": [], 
+   "end": "2412.720", 
+   "id": "s000779", 
+   "language": "deu", 
+   "lines": [
+    "was aus den 500\u00a0Millionen Euro geworden ist und in welche konkreten Projekte sie investiert wurden. "
+   ]
+  }, 
+  {
+   "begin": "2412.720", 
+   "children": [], 
+   "end": "2414.120", 
+   "id": "s000780", 
+   "language": "deu", 
+   "lines": [
+    "Ich reiche das aber gerne nach."
+   ]
+  }, 
+  {
+   "begin": "2414.120", 
+   "children": [], 
+   "end": "2415.600", 
+   "id": "s000781", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2415.600", 
+   "children": [], 
+   "end": "2417.280", 
+   "id": "s000782", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Zusatzfragen sehe ich nicht."
+   ]
+  }, 
+  {
+   "begin": "2417.280", 
+   "children": [], 
+   "end": "2421.320", 
+   "id": "s000783", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe die Frage\u00a08 der Kollegin H\u00e4nsel auf:"
+   ]
+  }, 
+  {
+   "begin": "2421.320", 
+   "children": [], 
+   "end": "2422.560", 
+   "id": "s000784", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister."
+   ]
+  }, 
+  {
+   "begin": "2422.560", 
+   "children": [], 
+   "end": "2426.280", 
+   "id": "s000785", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2426.280", 
+   "children": [], 
+   "end": "2427.600", 
+   "id": "s000786", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin H\u00e4nsel, "
+   ]
+  }, 
+  {
+   "begin": "2427.600", 
+   "children": [], 
+   "end": "2430.320", 
+   "id": "s000787", 
+   "language": "deu", 
+   "lines": [
+    "Sie wissen selbst, "
+   ]
+  }, 
+  {
+   "begin": "2430.320", 
+   "children": [], 
+   "end": "2435.960", 
+   "id": "s000788", 
+   "language": "deu", 
+   "lines": [
+    "dass die Lage der Fl\u00fcchtlinge auf den griechischen Inseln auch immer wieder Thema der Fragestunde war. "
+   ]
+  }, 
+  {
+   "begin": "2435.960", 
+   "children": [], 
+   "end": "2440.320", 
+   "id": "s000789", 
+   "language": "deu", 
+   "lines": [
+    "Insofern anerkenne ich sehr Ihr Interesse daran, "
+   ]
+  }, 
+  {
+   "begin": "2440.320", 
+   "children": [], 
+   "end": "2444.480", 
+   "id": "s000790", 
+   "language": "deu", 
+   "lines": [
+    "die Lage der gefl\u00fcchteten Menschen auf den griechischen Inseln zu verbessern. "
+   ]
+  }, 
+  {
+   "begin": "2444.480", 
+   "children": [], 
+   "end": "2445.640", 
+   "id": "s000791", 
+   "language": "deu", 
+   "lines": [
+    "Ich versichere Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "2445.640", 
+   "children": [], 
+   "end": "2451.200", 
+   "id": "s000792", 
+   "language": "deu", 
+   "lines": [
+    "dass dies auch Ziel vieler Gespr\u00e4che der Bundesregierung mit griechischen Vertretern ist."
+   ]
+  }, 
+  {
+   "begin": "2451.200", 
+   "children": [], 
+   "end": "2457.080", 
+   "id": "s000793", 
+   "language": "deu", 
+   "lines": [
+    "Die Situation auf dem griechischen Festland hat sich f\u00fcr die gefl\u00fcchteten Menschen weiterhin entspannt, "
+   ]
+  }, 
+  {
+   "begin": "2457.080", 
+   "children": [], 
+   "end": "2461.840", 
+   "id": "s000794", 
+   "language": "deu", 
+   "lines": [
+    "aber auf den Inseln besteht nach wie vor Unterst\u00fctzungsbedarf. "
+   ]
+  }, 
+  {
+   "begin": "2461.840", 
+   "children": [], 
+   "end": "2466.480", 
+   "id": "s000795", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen weitere Unterkunftskapazit\u00e4ten. "
+   ]
+  }, 
+  {
+   "begin": "2466.480", 
+   "children": [], 
+   "end": "2468.280", 
+   "id": "s000796", 
+   "language": "deu", 
+   "lines": [
+    "Dabei gibt es ein Problem, "
+   ]
+  }, 
+  {
+   "begin": "2468.280", 
+   "children": [], 
+   "end": "2470.840", 
+   "id": "s000797", 
+   "language": "deu", 
+   "lines": [
+    "das wir in Deutschland nicht werden l\u00f6sen k\u00f6nnen: "
+   ]
+  }, 
+  {
+   "begin": "2470.840", 
+   "children": [], 
+   "end": "2475.640", 
+   "id": "s000798", 
+   "language": "deu", 
+   "lines": [
+    "Eine Reihe von Kommunen auf den Inseln lehnt es derzeit strikt ab, "
+   ]
+  }, 
+  {
+   "begin": "2475.640", 
+   "children": [], 
+   "end": "2478.160", 
+   "id": "s000799", 
+   "language": "deu", 
+   "lines": [
+    "entsprechende Grundst\u00fccke zur Verf\u00fcgung zu stellen, "
+   ]
+  }, 
+  {
+   "begin": "2478.160", 
+   "children": [], 
+   "end": "2481.440", 
+   "id": "s000800", 
+   "language": "deu", 
+   "lines": [
+    "um notwendige Unterk\u00fcnfte zu schaffen."
+   ]
+  }, 
+  {
+   "begin": "2481.440", 
+   "children": [], 
+   "end": "2490.040", 
+   "id": "s000801", 
+   "language": "deu", 
+   "lines": [
+    "Die EU stellt insgesamt 1,3\u00a0Milliarden Euro f\u00fcr die Versorgung der gefl\u00fcchteten Menschen in Griechenland zur Verf\u00fcgung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2490.040", 
+   "children": [], 
+   "end": "2491.840", 
+   "id": "s000802", 
+   "language": "deu", 
+   "lines": [
+    "wir haben also kein finanzielles Problem\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "2491.840", 
+   "children": [], 
+   "end": "2495.040", 
+   "id": "s000803", 
+   "language": "deu", 
+   "lines": [
+    "und es gibt eine Reihe von bilateralen Projekten, "
+   ]
+  }, 
+  {
+   "begin": "2495.040", 
+   "children": [], 
+   "end": "2498.640", 
+   "id": "s000804", 
+   "language": "deu", 
+   "lines": [
+    "bei denen sich auch die Bundesregierung im Rahmen ihrer M\u00f6glichkeiten bem\u00fcht, "
+   ]
+  }, 
+  {
+   "begin": "2498.640", 
+   "children": [], 
+   "end": "2504.880", 
+   "id": "s000805", 
+   "language": "deu", 
+   "lines": [
+    "die Unterbringung und die Versorgung der gefl\u00fcchteten Menschen auf den griechischen Inseln zu verbessern."
+   ]
+  }, 
+  {
+   "begin": "2504.880", 
+   "children": [], 
+   "end": "2507.880", 
+   "id": "s000806", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen will ich deutlich machen, "
+   ]
+  }, 
+  {
+   "begin": "2507.880", 
+   "children": [], 
+   "end": "2514.960", 
+   "id": "s000807", 
+   "language": "deu", 
+   "lines": [
+    "dass die sogenannte EU-T\u00fcrkei-Erkl\u00e4rung eher zum Nutzen der Gefl\u00fcchteten ist, "
+   ]
+  }, 
+  {
+   "begin": "2514.960", 
+   "children": [], 
+   "end": "2521.960", 
+   "id": "s000808", 
+   "language": "deu", 
+   "lines": [
+    "weil die Zahl der irregul\u00e4ren Ank\u00fcnfte auf den griechischen Inseln reduziert wurde und die Inseln somit entlastet wurden. "
+   ]
+  }, 
+  {
+   "begin": "2521.960", 
+   "children": [], 
+   "end": "2524.840", 
+   "id": "s000809", 
+   "language": "deu", 
+   "lines": [
+    "Dies ist nicht allein die Auffassung der Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "2524.840", 
+   "children": [], 
+   "end": "2527.760", 
+   "id": "s000810", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch die Auffassung der griechischen Regierung, "
+   ]
+  }, 
+  {
+   "begin": "2527.760", 
+   "children": [], 
+   "end": "2529.280", 
+   "id": "s000811", 
+   "language": "deu", 
+   "lines": [
+    "die ich hier gerne zitiere."
+   ]
+  }, 
+  {
+   "begin": "2529.280", 
+   "children": [], 
+   "end": "2530.920", 
+   "id": "s000812", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin H\u00e4nsel."
+   ]
+  }, 
+  {
+   "begin": "2533.840", 
+   "children": [], 
+   "end": "2534.520", 
+   "id": "s000813", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "2534.520", 
+   "children": [], 
+   "end": "2535.680", 
+   "id": "s000814", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2535.680", 
+   "children": [], 
+   "end": "2536.280", 
+   "id": "s000815", 
+   "language": "deu", 
+   "lines": [
+    "Ich gebe Ihnen recht: "
+   ]
+  }, 
+  {
+   "begin": "2536.280", 
+   "children": [], 
+   "end": "2539.800", 
+   "id": "s000816", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben hier sehr oft \u00fcber die Situation der Gefl\u00fcchteten auf den griechischen Inseln, "
+   ]
+  }, 
+  {
+   "begin": "2539.800", 
+   "children": [], 
+   "end": "2540.640", 
+   "id": "s000817", 
+   "language": "deu", 
+   "lines": [
+    "vor allem auf Lesbos, "
+   ]
+  }, 
+  {
+   "begin": "2540.640", 
+   "children": [], 
+   "end": "2541.520", 
+   "id": "s000818", 
+   "language": "deu", 
+   "lines": [
+    "gesprochen. "
+   ]
+  }, 
+  {
+   "begin": "2541.520", 
+   "children": [], 
+   "end": "2543.560", 
+   "id": "s000819", 
+   "language": "deu", 
+   "lines": [
+    "Aber leider \u00e4ndert sich nichts an der Situation; "
+   ]
+  }, 
+  {
+   "begin": "2543.560", 
+   "children": [], 
+   "end": "2544.920", 
+   "id": "s000820", 
+   "language": "deu", 
+   "lines": [
+    "das ist der Skandal. "
+   ]
+  }, 
+  {
+   "begin": "2544.920", 
+   "children": [], 
+   "end": "2546.880", 
+   "id": "s000821", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen hier viel erz\u00e4hlen, "
+   ]
+  }, 
+  {
+   "begin": "2546.880", 
+   "children": [], 
+   "end": "2549.720", 
+   "id": "s000822", 
+   "language": "deu", 
+   "lines": [
+    "wie viel Geld Sie zur Verf\u00fcgung stellen. "
+   ]
+  }, 
+  {
+   "begin": "2549.720", 
+   "children": [], 
+   "end": "2554.280", 
+   "id": "s000823", 
+   "language": "deu", 
+   "lines": [
+    "Das Grundproblem ist der Fl\u00fcchtlingsdeal mit Erdogan, "
+   ]
+  }, 
+  {
+   "begin": "2554.280", 
+   "children": [], 
+   "end": "2557.040", 
+   "id": "s000824", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr den Angela Merkel federf\u00fchrend verantwortlich ist und der dazu gef\u00fchrt hat, "
+   ]
+  }, 
+  {
+   "begin": "2557.040", 
+   "children": [], 
+   "end": "2559.640", 
+   "id": "s000825", 
+   "language": "deu", 
+   "lines": [
+    "dass die Fl\u00fcchtlinge die Inseln nicht mehr verlassen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "2559.640", 
+   "children": [], 
+   "end": "2563.000", 
+   "id": "s000826", 
+   "language": "deu", 
+   "lines": [
+    "Es handelt sich um kleine Inseln mit einer kleinen Einwohnerzahl, "
+   ]
+  }, 
+  {
+   "begin": "2563.000", 
+   "children": [], 
+   "end": "2565.120", 
+   "id": "s000827", 
+   "language": "deu", 
+   "lines": [
+    "und die Kapazit\u00e4ten sind da begrenzt. "
+   ]
+  }, 
+  {
+   "begin": "2565.120", 
+   "children": [], 
+   "end": "2568.920", 
+   "id": "s000828", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Problem darf nicht auf Kosten der griechischen Bev\u00f6lkerung gel\u00f6st werden. "
+   ]
+  }, 
+  {
+   "begin": "2568.920", 
+   "children": [], 
+   "end": "2569.520", 
+   "id": "s000829", 
+   "language": "deu", 
+   "lines": [
+    "Es darf nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "2569.520", 
+   "children": [], 
+   "end": "2570.520", 
+   "id": "s000830", 
+   "language": "deu", 
+   "lines": [
+    "dass den Preis f\u00fcr die Fl\u00fcchtlinge, "
+   ]
+  }, 
+  {
+   "begin": "2570.520", 
+   "children": [], 
+   "end": "2571.960", 
+   "id": "s000831", 
+   "language": "deu", 
+   "lines": [
+    "vor allem f\u00fcr die vielen Kriegsfl\u00fcchtlinge, "
+   ]
+  }, 
+  {
+   "begin": "2571.960", 
+   "children": [], 
+   "end": "2573.200", 
+   "id": "s000832", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die auch die EU, "
+   ]
+  }, 
+  {
+   "begin": "2573.200", 
+   "children": [], 
+   "end": "2575.640", 
+   "id": "s000833", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland und viele andere verantwortlich sind, "
+   ]
+  }, 
+  {
+   "begin": "2575.640", 
+   "children": [], 
+   "end": "2578.280", 
+   "id": "s000834", 
+   "language": "deu", 
+   "lines": [
+    "die griechische Bev\u00f6lkerung zahlen soll. "
+   ]
+  }, 
+  {
+   "begin": "2578.280", 
+   "children": [], 
+   "end": "2583.480", 
+   "id": "s000835", 
+   "language": "deu", 
+   "lines": [
+    "Hier brauchen wir eine \u00c4nderung. "
+   ]
+  }, 
+  {
+   "begin": "2583.480", 
+   "children": [], 
+   "end": "2586.560", 
+   "id": "s000836", 
+   "language": "deu", 
+   "lines": [
+    "Der UNHCR hat ja gefordert, "
+   ]
+  }, 
+  {
+   "begin": "2586.560", 
+   "children": [], 
+   "end": "2588.400", 
+   "id": "s000837", 
+   "language": "deu", 
+   "lines": [
+    "dass es schnellere Asylverfahren gibt, "
+   ]
+  }, 
+  {
+   "begin": "2588.400", 
+   "children": [], 
+   "end": "2589.880", 
+   "id": "s000838", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur humanit\u00e4re Hilfe. "
+   ]
+  }, 
+  {
+   "begin": "2589.880", 
+   "children": [], 
+   "end": "2590.920", 
+   "id": "s000839", 
+   "language": "deu", 
+   "lines": [
+    "Meine Frage ist: "
+   ]
+  }, 
+  {
+   "begin": "2590.920", 
+   "children": [], 
+   "end": "2594.760", 
+   "id": "s000840", 
+   "language": "deu", 
+   "lines": [
+    "Wie viele Beamte hat die Bundesregierung f\u00fcr den Hotspot Moria zugesagt, "
+   ]
+  }, 
+  {
+   "begin": "2594.760", 
+   "children": [], 
+   "end": "2597.240", 
+   "id": "s000841", 
+   "language": "deu", 
+   "lines": [
+    "und wie viele Beamte arbeiten derzeit dort?"
+   ]
+  }, 
+  {
+   "begin": "2597.240", 
+   "children": [], 
+   "end": "2598.000", 
+   "id": "s000842", 
+   "language": "deu", 
+   "lines": [
+    "Danke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2598.000", 
+   "children": [], 
+   "end": "2598.800", 
+   "id": "s000843", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister."
+   ]
+  }, 
+  {
+   "begin": "2598.800", 
+   "children": [], 
+   "end": "2599.040", 
+   "id": "s000844", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "2599.040", 
+   "children": [], 
+   "end": "2602.200", 
+   "id": "s000845", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2602.200", 
+   "children": [], 
+   "end": "2602.960", 
+   "id": "s000846", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin H\u00e4nsel, "
+   ]
+  }, 
+  {
+   "begin": "2602.960", 
+   "children": [], 
+   "end": "2609.000", 
+   "id": "s000847", 
+   "language": "deu", 
+   "lines": [
+    "die Bundesrepublik Deutschland stellt in den griechischen Hotspots die h\u00f6chste Zahl an Fall- "
+   ]
+  }, 
+  {
+   "begin": "2609.000", 
+   "children": [], 
+   "end": "2612.600", 
+   "id": "s000848", 
+   "language": "deu", 
+   "lines": [
+    "und Sachbearbeitern zur Verf\u00fcgung, "
+   ]
+  }, 
+  {
+   "begin": "2612.600", 
+   "children": [], 
+   "end": "2615.000", 
+   "id": "s000849", 
+   "language": "deu", 
+   "lines": [
+    "um die Asylverfahren zu beschleunigen; "
+   ]
+  }, 
+  {
+   "begin": "2615.000", 
+   "children": [], 
+   "end": "2618.920", 
+   "id": "s000850", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben ja auf die klare Erwartungshaltung des UNHCR hingewiesen. "
+   ]
+  }, 
+  {
+   "begin": "2618.920", 
+   "children": [], 
+   "end": "2627.200", 
+   "id": "s000851", 
+   "language": "deu", 
+   "lines": [
+    "Aktuell unterst\u00fctzen wir die Arbeit vor Ort mit 28\u00a0Fallbearbeiterinnen und Fallbearbeitern aus Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "2627.200", 
+   "children": [], 
+   "end": "2629.320", 
+   "id": "s000852", 
+   "language": "deu", 
+   "lines": [
+    "Ich will in diesem Zusammenhang erw\u00e4hnen, "
+   ]
+  }, 
+  {
+   "begin": "2629.320", 
+   "children": [], 
+   "end": "2636.680", 
+   "id": "s000853", 
+   "language": "deu", 
+   "lines": [
+    "dass im Rahmen der Umsiedlung kein Land so viele Gefl\u00fcchtete aufgenommen hat wie Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "2636.680", 
+   "children": [], 
+   "end": "2643.680", 
+   "id": "s000854", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben aus Griechenland 5\u00a0332\u00a0Asylsuchende aufgenommen; "
+   ]
+  }, 
+  {
+   "begin": "2643.680", 
+   "children": [], 
+   "end": "2647.200", 
+   "id": "s000855", 
+   "language": "deu", 
+   "lines": [
+    "das sind 25\u00a0Prozent aller Aufnahmen \u00fcber Umsiedlung."
+   ]
+  }, 
+  {
+   "begin": "2647.200", 
+   "children": [], 
+   "end": "2652.400", 
+   "id": "s000856", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus sind wir nach wie vor konkret im Einsatz. "
+   ]
+  }, 
+  {
+   "begin": "2652.400", 
+   "children": [], 
+   "end": "2654.080", 
+   "id": "s000857", 
+   "language": "deu", 
+   "lines": [
+    "Die Zeit reicht jetzt nicht aus, "
+   ]
+  }, 
+  {
+   "begin": "2654.080", 
+   "children": [], 
+   "end": "2656.360", 
+   "id": "s000858", 
+   "language": "deu", 
+   "lines": [
+    "um die konkreten Projekte aufzuz\u00e4hlen. "
+   ]
+  }, 
+  {
+   "begin": "2656.360", 
+   "children": [], 
+   "end": "2664.880", 
+   "id": "s000859", 
+   "language": "deu", 
+   "lines": [
+    "Aber allein bis zum 17.\u00a0Dezember dieses Jahres sollen 91\u00a0zus\u00e4tzliche Wohncontainer auf den Inseln zur Verf\u00fcgung gestellt werden: "
+   ]
+  }, 
+  {
+   "begin": "2664.880", 
+   "children": [], 
+   "end": "2666.080", 
+   "id": "s000860", 
+   "language": "deu", 
+   "lines": [
+    "65 auf Lesbos, "
+   ]
+  }, 
+  {
+   "begin": "2666.080", 
+   "children": [], 
+   "end": "2669.440", 
+   "id": "s000861", 
+   "language": "deu", 
+   "lines": [
+    "17 auf Kos und neun auf Leros."
+   ]
+  }, 
+  {
+   "begin": "2669.440", 
+   "children": [], 
+   "end": "2670.480", 
+   "id": "s000862", 
+   "language": "deu", 
+   "lines": [
+    "Ihre zweite Zusatzfrage, "
+   ]
+  }, 
+  {
+   "begin": "2670.480", 
+   "children": [], 
+   "end": "2671.120", 
+   "id": "s000863", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin H\u00e4nsel."
+   ]
+  }, 
+  {
+   "begin": "2671.120", 
+   "children": [], 
+   "end": "2671.520", 
+   "id": "s000864", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2671.520", 
+   "children": [], 
+   "end": "2672.480", 
+   "id": "s000865", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben gerade gesagt, "
+   ]
+  }, 
+  {
+   "begin": "2672.480", 
+   "children": [], 
+   "end": "2675.160", 
+   "id": "s000866", 
+   "language": "deu", 
+   "lines": [
+    "dass dort 28\u00a0Personen arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "2675.160", 
+   "children": [], 
+   "end": "2677.160", 
+   "id": "s000867", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht k\u00f6nnen Sie noch erg\u00e4nzen, "
+   ]
+  }, 
+  {
+   "begin": "2677.160", 
+   "children": [], 
+   "end": "2680.160", 
+   "id": "s000868", 
+   "language": "deu", 
+   "lines": [
+    "wie viele Beamte Sie zugesagt hatten."
+   ]
+  }, 
+  {
+   "begin": "2680.160", 
+   "children": [], 
+   "end": "2683.520", 
+   "id": "s000869", 
+   "language": "deu", 
+   "lines": [
+    "Meine zweite Frage bezieht sich auf den Familiennachzug. "
+   ]
+  }, 
+  {
+   "begin": "2683.520", 
+   "children": [], 
+   "end": "2684.880", 
+   "id": "s000870", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt viele Fl\u00fcchtlinge, "
+   ]
+  }, 
+  {
+   "begin": "2684.880", 
+   "children": [], 
+   "end": "2688.320", 
+   "id": "s000871", 
+   "language": "deu", 
+   "lines": [
+    "die bereits eine Zusage im Hinblick auf den Familiennachzug haben. "
+   ]
+  }, 
+  {
+   "begin": "2688.320", 
+   "children": [], 
+   "end": "2693.000", 
+   "id": "s000872", 
+   "language": "deu", 
+   "lines": [
+    "Auf der Insel Lesbos und auf dem griechischen Festland gibt es ungef\u00e4hr 5\u00a0000\u00a0Fl\u00fcchtlinge, "
+   ]
+  }, 
+  {
+   "begin": "2693.000", 
+   "children": [], 
+   "end": "2695.000", 
+   "id": "s000873", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr dieses Jahr eine Zusage haben. "
+   ]
+  }, 
+  {
+   "begin": "2695.000", 
+   "children": [], 
+   "end": "2696.400", 
+   "id": "s000874", 
+   "language": "deu", 
+   "lines": [
+    "Aber die Umsetzung verl\u00e4uft sehr schleppend. "
+   ]
+  }, 
+  {
+   "begin": "2696.400", 
+   "children": [], 
+   "end": "2699.840", 
+   "id": "s000875", 
+   "language": "deu", 
+   "lines": [
+    "Es gab bereits im Oktober dieses Jahres Zeitungsberichte dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "2699.840", 
+   "children": [], 
+   "end": "2704.160", 
+   "id": "s000876", 
+   "language": "deu", 
+   "lines": [
+    "dass nur wenige Hundert Menschen \u00fcberhaupt nach Deutschland kommen konnten. "
+   ]
+  }, 
+  {
+   "begin": "2704.160", 
+   "children": [], 
+   "end": "2705.000", 
+   "id": "s000877", 
+   "language": "deu", 
+   "lines": [
+    "Meine Frage ist: "
+   ]
+  }, 
+  {
+   "begin": "2705.000", 
+   "children": [], 
+   "end": "2716.880", 
+   "id": "s000878", 
+   "language": "deu", 
+   "lines": [
+    "Wird die Bundesregierung im Zuge dieser wirklich katastrophalen Situation auf den griechischen Inseln die Umsetzung des bereits zugesagten Familiennachzugs noch in diesem Jahr schnellstm\u00f6glich umsetzen, "
+   ]
+  }, 
+  {
+   "begin": "2716.880", 
+   "children": [], 
+   "end": "2717.520", 
+   "id": "s000879", 
+   "language": "deu", 
+   "lines": [
+    "um zu vermeiden, "
+   ]
+  }, 
+  {
+   "begin": "2717.520", 
+   "children": [], 
+   "end": "2725.000", 
+   "id": "s000880", 
+   "language": "deu", 
+   "lines": [
+    "dass man f\u00fcr eine gr\u00f6\u00dfere humanit\u00e4re Katastrophe vor dem anstehenden Winter mitverantwortlich ist? "
+   ]
+  }, 
+  {
+   "begin": "2725.000", 
+   "children": [], 
+   "end": "2726.720", 
+   "id": "s000881", 
+   "language": "deu", 
+   "lines": [
+    "Denn so ist die Situation."
+   ]
+  }, 
+  {
+   "begin": "2726.720", 
+   "children": [], 
+   "end": "2728.040", 
+   "id": "s000882", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister."
+   ]
+  }, 
+  {
+   "begin": "2728.040", 
+   "children": [], 
+   "end": "2729.280", 
+   "id": "s000883", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2729.280", 
+   "children": [], 
+   "end": "2730.280", 
+   "id": "s000884", 
+   "language": "deu", 
+   "lines": [
+    "Frau Abgeordnete H\u00e4nsel, "
+   ]
+  }, 
+  {
+   "begin": "2730.280", 
+   "children": [], 
+   "end": "2735.200", 
+   "id": "s000885", 
+   "language": "deu", 
+   "lines": [
+    "die Bundesregierung kommt ihren Verpflichtungen gegen\u00fcber Griechenland nach, "
+   ]
+  }, 
+  {
+   "begin": "2735.200", 
+   "children": [], 
+   "end": "2737.440", 
+   "id": "s000886", 
+   "language": "deu", 
+   "lines": [
+    "und wir sind dar\u00fcber auch im Gespr\u00e4ch, "
+   ]
+  }, 
+  {
+   "begin": "2737.440", 
+   "children": [], 
+   "end": "2743.920", 
+   "id": "s000887", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere das Bundesinnenministerium und der f\u00fcr Fl\u00fcchtlingsfragen zust\u00e4ndige Minister Mouzalas."
+   ]
+  }, 
+  {
+   "begin": "2743.920", 
+   "children": [], 
+   "end": "2745.920", 
+   "id": "s000888", 
+   "language": "deu", 
+   "lines": [
+    "Danke sehr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2745.920", 
+   "children": [], 
+   "end": "2748.040", 
+   "id": "s000889", 
+   "language": "deu", 
+   "lines": [
+    "Eine Zusatzfrage?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2748.040", 
+   "children": [], 
+   "end": "2748.440", 
+   "id": "s000890", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin."
+   ]
+  }, 
+  {
+   "begin": "2748.440", 
+   "children": [], 
+   "end": "2753.320", 
+   "id": "s000891", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2753.320", 
+   "children": [], 
+   "end": "2754.440", 
+   "id": "s000892", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "2754.440", 
+   "children": [], 
+   "end": "2755.520", 
+   "id": "s000893", 
+   "language": "deu", 
+   "lines": [
+    "Vor dem Hintergrund, "
+   ]
+  }, 
+  {
+   "begin": "2755.520", 
+   "children": [], 
+   "end": "2762.160", 
+   "id": "s000894", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie gerade die Aufnahmeverpflichtung Deutschlands im Rahmen des innereurop\u00e4ischen Verteilungssystems angesprochen haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2762.160", 
+   "children": [], 
+   "end": "2764.160", 
+   "id": "s000895", 
+   "language": "deu", 
+   "lines": [
+    "das Relocation-Programm ist im September ausgelaufen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "2764.160", 
+   "children": [], 
+   "end": "2765.600", 
+   "id": "s000896", 
+   "language": "deu", 
+   "lines": [
+    "frage ich: "
+   ]
+  }, 
+  {
+   "begin": "2765.600", 
+   "children": [], 
+   "end": "2769.480", 
+   "id": "s000897", 
+   "language": "deu", 
+   "lines": [
+    "Wie hoch war die Zahl der Gefl\u00fcchteten aus Griechenland, "
+   ]
+  }, 
+  {
+   "begin": "2769.480", 
+   "children": [], 
+   "end": "2773.200", 
+   "id": "s000898", 
+   "language": "deu", 
+   "lines": [
+    "die Deutschland gem\u00e4\u00df der Aufnahmeverpflichtung aufzunehmen hatte?"
+   ]
+  }, 
+  {
+   "begin": "2773.200", 
+   "children": [], 
+   "end": "2774.080", 
+   "id": "s000899", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "2774.080", 
+   "children": [], 
+   "end": "2775.760", 
+   "id": "s000900", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "2775.760", 
+   "children": [], 
+   "end": "2778.600", 
+   "id": "s000901", 
+   "language": "deu", 
+   "lines": [
+    "diese Zahl m\u00fcsste ich Ihnen nachreichen. "
+   ]
+  }, 
+  {
+   "begin": "2778.600", 
+   "children": [], 
+   "end": "2780.800", 
+   "id": "s000902", 
+   "language": "deu", 
+   "lines": [
+    "Ich will hier jetzt nicht etwas aus der Erinnerung sagen, "
+   ]
+  }, 
+  {
+   "begin": "2780.800", 
+   "children": [], 
+   "end": "2782.960", 
+   "id": "s000903", 
+   "language": "deu", 
+   "lines": [
+    "was m\u00f6glicherweise nicht ganz genau stimmt. "
+   ]
+  }, 
+  {
+   "begin": "2782.960", 
+   "children": [], 
+   "end": "2783.400", 
+   "id": "s000904", 
+   "language": "deu", 
+   "lines": [
+    "Ich hoffe, "
+   ]
+  }, 
+  {
+   "begin": "2783.400", 
+   "children": [], 
+   "end": "2784.520", 
+   "id": "s000905", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind damit einverstanden."
+   ]
+  }, 
+  {
+   "begin": "2784.520", 
+   "children": [], 
+   "end": "2784.960", 
+   "id": "s000906", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "2784.960", 
+   "children": [], 
+   "end": "2785.840", 
+   "id": "s000907", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "2785.840", 
+   "children": [], 
+   "end": "2788.080", 
+   "id": "s000908", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind damit am Ende der Fragestunde."
+   ]
+  }, 
+  {
+   "begin": "2788.080", 
+   "children": [], 
+   "end": "2789.400", 
+   "id": "s000909", 
+   "language": "deu", 
+   "lines": [
+    "Frau Polat, "
+   ]
+  }, 
+  {
+   "begin": "2789.400", 
+   "children": [], 
+   "end": "2792.320", 
+   "id": "s000910", 
+   "language": "deu", 
+   "lines": [
+    "Herr Staatsminister Roth wird Ihnen die Antwort schriftlich nachreichen. "
+   ]
+  }, 
+  {
+   "begin": "2792.320", 
+   "children": [], 
+   "end": "2797.760", 
+   "id": "s000911", 
+   "language": "deu", 
+   "lines": [
+    "Auch alle anderen Fragesteller bekommen ihre noch offenen Antworten schriftlich mitgeteilt."
+   ]
+  }, 
+  {
+   "begin": "2797.760", 
+   "children": [], 
+   "end": "2805.000", 
+   "id": "s000912", 
+   "language": "deu", 
+   "lines": [
+    "Ic h rufe jetzt den Tagesordnungspunkt\u00a012 auf:"
+   ]
+  }
+ ]
+}

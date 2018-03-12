@@ -1,0 +1,384 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.960", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a010\u00a0a:"
+   ]
+  }, 
+  {
+   "begin": "5.960", 
+   "children": [], 
+   "end": "20.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Schriftf\u00fchrerinnen und Schriftf\u00fchrer gem\u00e4\u00df \u00a7\u00a03 der Gesch\u00e4ftsordnung"
+   ]
+  }, 
+  {
+   "begin": "20.640", 
+   "children": [], 
+   "end": "28.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr die Wahlvorschl\u00e4ge auf Drucksache\u00a019/823?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "28.920", 
+   "children": [], 
+   "end": "32.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Gegenstimmen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "32.200", 
+   "children": [], 
+   "end": "34.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "34.480", 
+   "children": [], 
+   "end": "37.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Gegenstimmen und Enthaltungen sehe ich nicht. "
+   ]
+  }, 
+  {
+   "begin": "37.520", 
+   "children": [], 
+   "end": "41.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Dann sind die Wahlvorschl\u00e4ge so angenommen."
+   ]
+  }, 
+  {
+   "begin": "41.560", 
+   "children": [], 
+   "end": "52.080", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ich gratuliere den gew\u00e4hlten Kollegen und Kolleginnen im Namen des ganzen Hauses und w\u00fcnsche eine gute Zusammenarbeit. "
+   ]
+  }, 
+  {
+   "begin": "52.080", 
+   "children": [], 
+   "end": "64.920", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig danke ich den vorl\u00e4ufigen Schriftf\u00fchrerinnen und Schriftf\u00fchrern f\u00fcr ihren Einsatz."
+   ]
+  }, 
+  {
+   "begin": "64.920", 
+   "children": [], 
+   "end": "67.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a010\u00a0b:"
+   ]
+  }, 
+  {
+   "begin": "67.080", 
+   "children": [], 
+   "end": "73.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Wahlpr\u00fcfungsausschusses gem\u00e4\u00df \u00a7\u00a03 Absatz\u00a02 des Wahlpr\u00fcfungsgesetzes"
+   ]
+  }, 
+  {
+   "begin": "73.880", 
+   "children": [], 
+   "end": "82.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr die Wahlvorschl\u00e4ge auf Drucksache\u00a019/824?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "82.200", 
+   "children": [], 
+   "end": "84.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Gegenstimmen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "84.320", 
+   "children": [], 
+   "end": "85.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "85.360", 
+   "children": [], 
+   "end": "88.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Wahlvorschl\u00e4ge sind einstimmig angenommen. "
+   ]
+  }, 
+  {
+   "begin": "88.440", 
+   "children": [], 
+   "end": "90.480", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es sind alle gew\u00e4hlt."
+   ]
+  }, 
+  {
+   "begin": "90.480", 
+   "children": [], 
+   "end": "93.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt 10 c:"
+   ]
+  }, 
+  {
+   "begin": "93.120", 
+   "children": [], 
+   "end": "102.720", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Gremiums gem\u00e4\u00df \u00a7\u00a023c Absatz\u00a08 des Zollfahndungsdienstgesetzes"
+   ]
+  }, 
+  {
+   "begin": "102.720", 
+   "children": [], 
+   "end": "111.040", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr die Wahlvorschl\u00e4ge auf Drucksache\u00a019/825?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "111.040", 
+   "children": [], 
+   "end": "112.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Gegenstimmen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "112.800", 
+   "children": [], 
+   "end": "114.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "114.360", 
+   "children": [], 
+   "end": "118.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Die Wahlvorschl\u00e4ge sind mit allen Stimmen des Hauses angenommen."
+   ]
+  }, 
+  {
+   "begin": "118.640", 
+   "children": [], 
+   "end": "121.840", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a010\u00a0d:"
+   ]
+  }, 
+  {
+   "begin": "121.840", 
+   "children": [], 
+   "end": "127.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Beirats bei der Bundesnetzagentur f\u00fcr Elektrizit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "127.040", 
+   "children": [], 
+   "end": "127.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Gas, "
+   ]
+  }, 
+  {
+   "begin": "127.640", 
+   "children": [], 
+   "end": "128.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Telekommunikation, "
+   ]
+  }, 
+  {
+   "begin": "128.920", 
+   "children": [], 
+   "end": "131.200", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Post und Eisenbahnen"
+   ]
+  }, 
+  {
+   "begin": "131.200", 
+   "children": [], 
+   "end": "138.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr die Wahlvorschl\u00e4ge auf Drucksache\u00a019/826?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "138.800", 
+   "children": [], 
+   "end": "140.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Gegenstimmen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "140.160", 
+   "children": [], 
+   "end": "141.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "141.320", 
+   "children": [], 
+   "end": "144.680", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die Wahlvorschl\u00e4ge sind mit allen Stimmen des Hauses angenommen."
+   ]
+  }, 
+  {
+   "begin": "144.680", 
+   "children": [], 
+   "end": "147.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt \u00a010\u00a0e:"
+   ]
+  }, 
+  {
+   "begin": "147.120", 
+   "children": [], 
+   "end": "158.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Kuratoriums der Stiftung \u201eFonds zur Finanzierung der kerntechnischen Entsorgung\u201c gem\u00e4\u00df \u00a7\u00a04 des Entsorgungsfondsgesetzes"
+   ]
+  }, 
+  {
+   "begin": "158.320", 
+   "children": [], 
+   "end": "163.040", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr die Wahlvorschl\u00e4ge auf Drucksache\u00a019/827?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "163.040", 
+   "children": [], 
+   "end": "165.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "165.440", 
+   "children": [], 
+   "end": "167.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "167.320", 
+   "children": [], 
+   "end": "172.360", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die Wahlvorschl\u00e4ge sind einstimmig angenommen."
+   ]
+  }, 
+  {
+   "begin": "172.360", 
+   "children": [], 
+   "end": "180.960", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe den Zusatzpunkt\u00a03 auf:"
+   ]
+  }
+ ]
+}

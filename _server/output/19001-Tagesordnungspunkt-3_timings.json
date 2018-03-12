@@ -1,0 +1,924 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Es entspricht der parlamentarischen Tradition, "
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "children": [], 
+   "end": "10.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "dass die st\u00e4rkste Fraktion einen Kandidaten vorschl\u00e4gt. "
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "children": [], 
+   "end": "15.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf also den Herrn Abgeordneten Volker Kauder um einen Vorschlag bitten."
+   ]
+  }, 
+  {
+   "begin": "15.000", 
+   "children": [], 
+   "end": "20.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die CDU/CSU-Bundestagsfraktion schl\u00e4gt Herrn Dr.\u00a0Wolfgang Sch\u00e4uble vor."
+   ]
+  }, 
+  {
+   "begin": "20.560", 
+   "children": [], 
+   "end": "26.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Der Kollege Dr.\u00a0Wolfgang Sch\u00e4uble ist vorgeschlagen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "26.680", 
+   "children": [], 
+   "end": "28.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf Sie fragen: "
+   ]
+  }, 
+  {
+   "begin": "28.960", 
+   "children": [], 
+   "end": "30.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sind Sie bereit, "
+   ]
+  }, 
+  {
+   "begin": "30.040", 
+   "children": [], 
+   "end": "31.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "zu kandidieren?"
+   ]
+  }, 
+  {
+   "begin": "31.560", 
+   "children": [], 
+   "end": "31.720", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "31.720", 
+   "children": [], 
+   "end": "32.280", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident."
+   ]
+  }, 
+  {
+   "begin": "32.280", 
+   "children": [], 
+   "end": "33.280", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Fall.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "33.280", 
+   "children": [], 
+   "end": "35.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich sehe keine weiteren Vorschl\u00e4ge."
+   ]
+  }, 
+  {
+   "begin": "35.520", 
+   "children": [], 
+   "end": "60.200", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Dann bitte ich jetzt um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "60.200", 
+   "children": [], 
+   "end": "64.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "das sind technische Hinweise, "
+   ]
+  }, 
+  {
+   "begin": "64.840", 
+   "children": [], 
+   "end": "67.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die aber wichtig sind, "
+   ]
+  }, 
+  {
+   "begin": "67.440", 
+   "children": [], 
+   "end": "72.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "damit Sie an der Wahl erfolgreich teilnehmen k\u00f6nnen\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "72.080", 
+   "children": [], 
+   "end": "81.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Die Wahl findet mit verdeckten Stimmkarten, "
+   ]
+  }, 
+  {
+   "begin": "81.320", 
+   "children": [], 
+   "end": "82.480", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "also geheim, "
+   ]
+  }, 
+  {
+   "begin": "82.480", 
+   "children": [], 
+   "end": "83.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "statt. "
+   ]
+  }, 
+  {
+   "begin": "83.720", 
+   "children": [], 
+   "end": "84.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Gew\u00e4hlt ist, "
+   ]
+  }, 
+  {
+   "begin": "84.720", 
+   "children": [], 
+   "end": "89.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wer die Stimmen der Mehrheit der Mitglieder des Bundestages, "
+   ]
+  }, 
+  {
+   "begin": "89.720", 
+   "children": [], 
+   "end": "92.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "also mindestens 355\u00a0Stimmen, "
+   ]
+  }, 
+  {
+   "begin": "92.960", 
+   "children": [], 
+   "end": "93.840", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "erh\u00e4lt. "
+   ]
+  }, 
+  {
+   "begin": "93.840", 
+   "children": [], 
+   "end": "106.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr diese Wahl und f\u00fcr die sp\u00e4tere Wahl der Vizepr\u00e4sidentinnen und Vizepr\u00e4sidenten ben\u00f6tigen Sie Ihre Wahlausweise aus den Stimmkartenf\u00e4chern in der Lobby. "
+   ]
+  }, 
+  {
+   "begin": "106.960", 
+   "children": [], 
+   "end": "114.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Wahl des Pr\u00e4sidenten sind der Wahlausweis und die Stimmkarte gelb. "
+   ]
+  }, 
+  {
+   "begin": "114.000", 
+   "children": [], 
+   "end": "115.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Bitte kontrollieren Sie, "
+   ]
+  }, 
+  {
+   "begin": "115.600", 
+   "children": [], 
+   "end": "119.960", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "ob dieser Wahlausweis Ihren Namen tr\u00e4gt. "
+   ]
+  }, 
+  {
+   "begin": "119.960", 
+   "children": [], 
+   "end": "134.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die gelbe Stimmkarte und den amtlichen Wahlumschlag erhalten Sie nach Aufruf Ihres Namens von den Schriftf\u00fchrerinnen und Schriftf\u00fchrern an den Ausgabetischen hier oben neben den Wahlkabinen."
+   ]
+  }, 
+  {
+   "begin": "134.800", 
+   "children": [], 
+   "end": "154.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Nachdem Sie die Stimmkarte in einer Wahlkabine gekennzeichnet und dort in den Wahlumschlag gelegt haben, "
+   ]
+  }, 
+  {
+   "begin": "154.920", 
+   "children": [], 
+   "end": "168.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "gehen Sie bitte zu den Wahlurnen hier vor dem Rednerpult. "
+   ]
+  }, 
+  {
+   "begin": "168.520", 
+   "children": [], 
+   "end": "196.120", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Sie d\u00fcrfen Ihre Stimmkarte nur in der Wahlkabine ankreuzen und m\u00fcssen ebenfalls noch in der Wahlkabine die Stimmkarte in den Umschlag legen. "
+   ]
+  }, 
+  {
+   "begin": "196.120", 
+   "children": [], 
+   "end": "201.400", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die Schriftf\u00fchrerinnen und Schriftf\u00fchrer sind verpflichtet, "
+   ]
+  }, 
+  {
+   "begin": "201.400", 
+   "children": [], 
+   "end": "204.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "jeden, "
+   ]
+  }, 
+  {
+   "begin": "204.680", 
+   "children": [], 
+   "end": "220.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "der seine Stimmkarte au\u00dferhalb der Wahlkabine kennzeichnet oder in den Umschlag legt, "
+   ]
+  }, 
+  {
+   "begin": "220.200", 
+   "children": [], 
+   "end": "233.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "zur\u00fcckzuweisen. "
+   ]
+  }, 
+  {
+   "begin": "233.760", 
+   "children": [], 
+   "end": "243.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Stimmabgabe kann in diesem Falle jedoch vorschriftsm\u00e4\u00dfig wiederholt werden."
+   ]
+  }, 
+  {
+   "begin": "243.400", 
+   "children": [], 
+   "end": "252.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "G\u00fcltig sind nur Stimmkarten mit einem Kreuz bei \u201eJa\u201c, "
+   ]
+  }, 
+  {
+   "begin": "252.920", 
+   "children": [], 
+   "end": "1668.960", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "\u201eNein\u201c oder \u201eEnthalte mich\u201c. "
+   ]
+  }, 
+  {
+   "begin": "1668.960", 
+   "children": [], 
+   "end": "1683.080", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Ung\u00fcltig sind Stimmen auf nichtamtlichen Stimmkarten sowie Stimmkarten, "
+   ]
+  }, 
+  {
+   "begin": "1683.080", 
+   "children": [], 
+   "end": "1688.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die mehr als ein Kreuz, "
+   ]
+  }, 
+  {
+   "begin": "1688.880", 
+   "children": [], 
+   "end": "1696.160", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "kein Kreuz, "
+   ]
+  }, 
+  {
+   "begin": "1696.160", 
+   "children": [], 
+   "end": "1704.920", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "andere Namen oder Zus\u00e4tze enthalten."
+   ]
+  }, 
+  {
+   "begin": "1704.920", 
+   "children": [], 
+   "end": "1713.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Bevor Sie die Stimmkarte in eine der Wahlurnen werfen, "
+   ]
+  }, 
+  {
+   "begin": "1713.680", 
+   "children": [], 
+   "end": "1739.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbergeben Sie bitte Ihren Wahlausweis einer der Schriftf\u00fchrerinnen oder einem der Schriftf\u00fchrer an der Wahlurne. "
+   ]
+  }, 
+  {
+   "begin": "1739.880", 
+   "children": [], 
+   "end": "1760.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Der Nachweis der Teilnahme an der Wahl kann nur durch die Abgabe des Wahlausweises erbracht werden."
+   ]
+  }, 
+  {
+   "begin": "1760.720", 
+   "children": [], 
+   "end": "1772.320", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte jetzt die eingeteilten Schriftf\u00fchrerinnen und Schriftf\u00fchrer, "
+   ]
+  }, 
+  {
+   "begin": "1772.320", 
+   "children": [], 
+   "end": "1781.800", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die vorgesehenen Pl\u00e4tze einzunehmen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1781.800", 
+   "children": [], 
+   "end": "1804.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die beiden Schriftf\u00fchrer neben mir werden nun Ihre Namen in alphabetischer Reihenfolge aufrufen. "
+   ]
+  }, 
+  {
+   "begin": "1804.080", 
+   "children": [], 
+   "end": "1805.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte Sie, "
+   ]
+  }, 
+  {
+   "begin": "1805.960", 
+   "children": [], 
+   "end": "1859.320", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "den Namensaufruf zu verfolgen und sich nach dem Aufruf Ihres Namens zur Entgegennahme der Stimmkarte zu den Ausgabetischen vor den Wahlkabinen zu begeben."
+   ]
+  }, 
+  {
+   "begin": "1859.320", 
+   "children": [], 
+   "end": "1875.640", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Haben alle Schriftf\u00fchrerinnen und Schriftf\u00fchrer die Pl\u00e4tze eingenommen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1875.640", 
+   "children": [], 
+   "end": "1889.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Ich er\u00f6ffne die Wahl und bitte, "
+   ]
+  }, 
+  {
+   "begin": "1889.560", 
+   "children": [], 
+   "end": "1898.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Aufruf der Namen zu beginnen."
+   ]
+  }, 
+  {
+   "begin": "1898.960", 
+   "children": [], 
+   "end": "2036.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Der Namensaufruf ist beendet. "
+   ]
+  }, 
+  {
+   "begin": "2036.880", 
+   "children": [], 
+   "end": "2041.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf fragen, "
+   ]
+  }, 
+  {
+   "begin": "2041.400", 
+   "children": [], 
+   "end": "3899.720", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "ob alle Mitglieder des Hauses, "
+   ]
+  }, 
+  {
+   "begin": "3899.720", 
+   "children": [], 
+   "end": "3903.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "auch die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, "
+   ]
+  }, 
+  {
+   "begin": "3903.320", 
+   "children": [], 
+   "end": "3905.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "ihre Stimme abgegeben haben.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "3905.080", 
+   "children": [], 
+   "end": "3905.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "3905.840", 
+   "children": [], 
+   "end": "3908.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "da kommt noch jemand."
+   ]
+  }, 
+  {
+   "begin": "3908.280", 
+   "children": [], 
+   "end": "3912.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Haben jetzt alle Mitglieder des Hauses ihre Stimme abgegeben?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "3912.080", 
+   "children": [], 
+   "end": "3913.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Das scheint der Fall zu sein. "
+   ]
+  }, 
+  {
+   "begin": "3913.880", 
+   "children": [], 
+   "end": "3919.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe die Wahl und bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, "
+   ]
+  }, 
+  {
+   "begin": "3919.680", 
+   "children": [], 
+   "end": "3921.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "mit der Ausz\u00e4hlung zu beginnen. "
+   ]
+  }, 
+  {
+   "begin": "3921.800", 
+   "children": [], 
+   "end": "3926.800", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Zur Ausz\u00e4hlung unterbreche ich die Sitzung f\u00fcr etwa 30\u00a0Minuten. "
+   ]
+  }, 
+  {
+   "begin": "3926.800", 
+   "children": [], 
+   "end": "3971.320", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Der Wiederbeginn der Sitzung wird rechtzeitig durch Klingelsignal angek\u00fcndigt."
+   ]
+  }, 
+  {
+   "begin": "3971.320", 
+   "children": [], 
+   "end": "3975.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Die unterbrochene Sitzung ist wieder er\u00f6ffnet. "
+   ]
+  }, 
+  {
+   "begin": "3975.360", 
+   "children": [], 
+   "end": "3977.920", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "3977.920", 
+   "children": [], 
+   "end": "3979.640", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "nehmen Sie bitte Platz, "
+   ]
+  }, 
+  {
+   "begin": "3979.640", 
+   "children": [], 
+   "end": "3992.920", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "damit wir fortfahren k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "3992.920", 
+   "children": [], 
+   "end": "4049.120", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Ich gebe das Ergebnis der Wahl des Pr\u00e4sidenten des 19.\u00a0Deutschen Bundestages bekannt: "
+   ]
+  }, 
+  {
+   "begin": "4049.120", 
+   "children": [], 
+   "end": "4052.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "abgegebene Stimmen 705, "
+   ]
+  }, 
+  {
+   "begin": "4052.000", 
+   "children": [], 
+   "end": "4053.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "ung\u00fcltige Stimmen\u00a01, "
+   ]
+  }, 
+  {
+   "begin": "4053.680", 
+   "children": [], 
+   "end": "4056.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "g\u00fcltige Stimmen\u00a0704. "
+   ]
+  }, 
+  {
+   "begin": "4056.640", 
+   "children": [], 
+   "end": "4062.960", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Mit Ja haben gestimmt 501\u00a0Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "4062.960", 
+   "children": [], 
+   "end": "4089.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Mit Nein haben gestimmt 173\u00a0Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "4089.600", 
+   "children": [], 
+   "end": "4093.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen gab es 30. "
+   ]
+  }, 
+  {
+   "begin": "4093.440", 
+   "children": [], 
+   "end": "4109.760", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Herr Dr.\u00a0Wolfgang Sch\u00e4uble hat die erforderliche Mehrheit erhalten und ist zum Pr\u00e4sidenten des 19.\u00a0Deutschen Bundestages gew\u00e4hlt."
+   ]
+  }, 
+  {
+   "begin": "4109.760", 
+   "children": [], 
+   "end": "4110.720", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage Sie, "
+   ]
+  }, 
+  {
+   "begin": "4110.720", 
+   "children": [], 
+   "end": "4113.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Herr Sch\u00e4uble: "
+   ]
+  }, 
+  {
+   "begin": "4113.360", 
+   "children": [], 
+   "end": "4115.720", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Nehmen Sie die Wahl an?"
+   ]
+  }, 
+  {
+   "begin": "4115.720", 
+   "children": [], 
+   "end": "4136.040", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "4136.040", 
+   "children": [], 
+   "end": "4137.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "ich nehme die Wahl an."
+   ]
+  }, 
+  {
+   "begin": "4137.360", 
+   "children": [], 
+   "end": "4140.080", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "4140.080", 
+   "children": [], 
+   "end": "4146.320", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "ich darf Ihnen im Namen des ganzen Hauses sehr herzlich zu Ihrer Wahl gratulieren. "
+   ]
+  }, 
+  {
+   "begin": "4146.320", 
+   "children": [], 
+   "end": "4150.800", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcnsche Ihnen eine gl\u00fcckliche Hand. "
+   ]
+  }, 
+  {
+   "begin": "4150.800", 
+   "children": [], 
+   "end": "4153.400", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Verstand muss ich Ihnen nicht w\u00fcnschen, "
+   ]
+  }, 
+  {
+   "begin": "4153.400", 
+   "children": [], 
+   "end": "4155.680", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "den haben Sie sowieso. "
+   ]
+  }, 
+  {
+   "begin": "4155.680", 
+   "children": [], 
+   "end": "4158.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte Sie jetzt, "
+   ]
+  }, 
+  {
+   "begin": "4158.000", 
+   "children": [], 
+   "end": "4160.000", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "das Amt zu \u00fcbernehmen."
+   ]
+  }, 
+  {
+   "begin": "4160.000", 
+   "children": [], 
+   "end": "4161.720", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "4161.720", 
+   "children": [], 
+   "end": "4165.000", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a04:"
+   ]
+  }
+ ]
+}

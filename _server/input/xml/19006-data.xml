@@ -12,28 +12,28 @@
     </kopfdaten>
     <inhaltsverzeichnis>
       <ivz-titel>Inhalt:</ivz-titel>
-      <ivz-block>
+      <ivz-block media-id="7192236">
         <ivz-block-titel>Tagesordnungspunkt 1:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Antrag der Fraktionen CDU/CSU, SPD, AfD, FDP, DIE LINKE und BÜNDNIS 90/DIE GRÜNEN: Einsetzung von Ausschüssen Drucksache 19/437 </ivz-eintrag-inhalt>
           <a href="S461" typ="druckseitennummer"><seite>461</seite> <seitenbereich>B</seitenbereich></a>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7192237">
         <ivz-block-titel>Tagesordnungspunkt 2:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Antrag der Fraktionen CDU/CSU, SPD, AfD, FDP, DIE LINKE und BÜNDNIS 90/DIE GRÜNEN: Bestimmung des Verfahrens für die Berechnung der Stellenanteile der Fraktionen Drucksache 19/438 </ivz-eintrag-inhalt>
           <a href="S461" typ="druckseitennummer"><seite>461</seite> <seitenbereich>B</seitenbereich></a>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7192238">
         <ivz-block-titel>Tagesordnungspunkt 3:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Beschlussempfehlung und Bericht des Hauptausschusses zu der Verordnung der Bundesregierung: Zehnte Verordnung zur Änderung der Außenwirtschaftsverordnung Drucksachen 18/13674, 19/267 </ivz-eintrag-inhalt>
           <a href="S461" typ="druckseitennummer"><seite>461</seite> <seitenbereich>C</seitenbereich></a>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7192239">
         <ivz-block-titel>Tagesordnungspunkt 4:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Befragung der Bundesregierung: Bericht über die Auswirkungen der Regelungen zum Elterngeld Plus und zum Partnerschaftsbonus </ivz-eintrag-inhalt>
@@ -304,7 +304,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7192259">
         <ivz-block-titel>Tagesordnungspunkt 5:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Fragestunde Drucksache 19/414 </ivz-eintrag-inhalt>
@@ -1175,7 +1175,7 @@
       <p klasse="J">Damit ist die Sitzung eröffnet.</p>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 1 auf:</p>
     </sitzungsbeginn>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 1">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 1" media-id="7192236">
       <p klasse="T_NaS">Beratung des Antrags der Fraktionen CDU/CSU, SPD, AfD, FDP, DIE LINKE und BÜNDNIS 90/DIE GRÜNEN</p>
       <p klasse="T_fett">Einsetzung von Ausschüssen</p>
       <p klasse="T_Drs">Drucksache 19/437</p>
@@ -1183,7 +1183,7 @@
       <p klasse="J">Wir kommen daher gleich zur Abstimmung. Wer stimmt für den Antrag auf Drucksache 19/437? – Wer stimmt dagegen? – Enthaltungen? – Dann ist das einstimmig so beschlossen. Der Antrag ist damit angenommen.</p>
       <p klasse="T">Dann kommen wir zum Tagesordnungspunkt 2:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 2">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 2" media-id="7192237">
       <p klasse="T_NaS">Beratung des Antrags der Fraktionen CDU/CSU, SPD, AfD, FDP, DIE LINKE und BÜNDNIS 90/DIE GRÜNEN</p>
       <p klasse="T_fett">Bestimmung des Verfahrens für die Berechnung der Stellenanteile der Fraktionen</p>
       <p klasse="T_Drs">Drucksache 19/438</p>
@@ -1191,7 +1191,7 @@
       <p klasse="J">Damit kommen wir zur Abstimmung über den Antrag auf Drucksache 19/438. Wer stimmt für den Antrag? – Wer stimmt dagegen? – Wer enthält sich? – Dann ist auch dieser Antrag einstimmig angenommen.</p>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 3 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 3">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 3" media-id="7192238">
       <p klasse="T_NaS">Beratung der Beschlussempfehlung und des Berichts des Hauptausschusses zu der Verordnung der Bundesregierung</p>
       <p klasse="T_fett">Zehnte Verordnung zur Änderung der Außenwirtschaftsverordnung</p>
       <p klasse="T_Drs">Drucksachen 18/13674, 19/267</p>
@@ -1199,7 +1199,7 @@
       <p klasse="J">Der Ausschuss empfiehlt in seiner Beschlussempfehlung auf Drucksache 19/267, die Aufhebung der Verordnung auf Drucksache 18/13674 nicht zu verlangen. Wer stimmt für diese Beschlussempfehlung? – Wer stimmt dagegen? – Wer enthält sich? – Dann ist der Antrag bei Enthaltung der Linken mit den Stimmen der übrigen Mitglieder des Hauses angenommen.</p>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 4 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 4">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 4" media-id="7192239">
       <p klasse="T_fett">Befragung der Bundesregierung</p>
       <p klasse="J">Die Bundesregierung hat als Thema der letzten Kabinettssitzung mitgeteilt: Bericht über die Auswirkungen der Regelungen zum Elterngeld Plus und zum Partnerschaftsbonus sowie zur Elternzeit.</p>
       <p klasse="J">Das Wort für den einleitenden fünfminütigen Bericht hat die Bundesministerin für Familie, Senioren, Frauen und Jugend, Frau Dr. Katarina Barley. – Bitte schön.</p>
@@ -1548,7 +1548,7 @@
       </rede>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 5 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 5">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 5" media-id="7192259">
       <p klasse="T_fett">Fragestunde</p>
       <p klasse="T_Drs">Drucksache 19/414</p>
       <p klasse="J">Auch hier gebe ich einen kurzen Hinweis zur Redezeit. Es ist in Fragestunden bewährte Praxis, für die erste Antwort zwei Minuten zur Verfügung zu stellen und für die folgenden Fragen und Antworten jeweils eine Minute.</p>

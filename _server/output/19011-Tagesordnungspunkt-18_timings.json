@@ -1,0 +1,744 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.440", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a018\u00a0a:"
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "children": [], 
+   "end": "15.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a010 zu Petitionen"
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "children": [], 
+   "end": "18.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt daf\u00fcr?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "18.760", 
+   "children": [], 
+   "end": "23.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.280", 
+   "children": [], 
+   "end": "24.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "28.960", 
+   "children": [], 
+   "end": "31.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Was macht die AfD?"
+   ]
+  }, 
+  {
+   "begin": "31.280", 
+   "children": [], 
+   "end": "33.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Mir liegt das nicht vor. "
+   ]
+  }, 
+  {
+   "begin": "37.240", 
+   "children": [], 
+   "end": "38.520", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Mir liegt vor, "
+   ]
+  }, 
+  {
+   "begin": "38.520", 
+   "children": [], 
+   "end": "44.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass wir jetzt \u00fcber die Sammel\u00fcbersichten abstimmen. "
+   ]
+  }, 
+  {
+   "begin": "44.440", 
+   "children": [], 
+   "end": "46.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Dann machen wir das so. "
+   ]
+  }, 
+  {
+   "begin": "46.480", 
+   "children": [], 
+   "end": "47.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Tut mir leid; "
+   ]
+  }, 
+  {
+   "begin": "47.640", 
+   "children": [], 
+   "end": "49.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "das liegt mir so nicht vor. "
+   ]
+  }, 
+  {
+   "begin": "49.480", 
+   "children": [], 
+   "end": "61.480", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "K\u00f6nnten Sie das bitte kl\u00e4ren? "
+   ]
+  }, 
+  {
+   "begin": "61.480", 
+   "children": [], 
+   "end": "69.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen \u00fcber Tagesordnungspunkt\u00a018\u00a0g extra abstimmen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "69.840", 
+   "children": [], 
+   "end": "71.160", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das machen wir auch so. "
+   ]
+  }, 
+  {
+   "begin": "71.160", 
+   "children": [], 
+   "end": "73.960", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt ein Kommunikationsproblem, "
+   ]
+  }, 
+  {
+   "begin": "73.960", 
+   "children": [], 
+   "end": "75.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "aber ich passe halt auf."
+   ]
+  }, 
+  {
+   "begin": "75.720", 
+   "children": [], 
+   "end": "84.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zur\u00fcck zur Sammel\u00fcbersicht\u00a010 auf Drucksache\u00a019/463. "
+   ]
+  }, 
+  {
+   "begin": "90.480", 
+   "children": [], 
+   "end": "93.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt daf\u00fcr?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "93.000", 
+   "children": [], 
+   "end": "95.560", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "95.560", 
+   "children": [], 
+   "end": "97.200", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "97.200", 
+   "children": [], 
+   "end": "102.440", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Die Sammel\u00fcbersicht\u00a010 ist damit einstimmig angenommen."
+   ]
+  }, 
+  {
+   "begin": "102.440", 
+   "children": [], 
+   "end": "111.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a018\u00a0b:"
+   ]
+  }, 
+  {
+   "begin": "111.680", 
+   "children": [], 
+   "end": "116.560", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a011 zu Petitionen"
+   ]
+  }, 
+  {
+   "begin": "116.560", 
+   "children": [], 
+   "end": "118.160", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt daf\u00fcr?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "121.880", 
+   "children": [], 
+   "end": "124.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "124.520", 
+   "children": [], 
+   "end": "127.000", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "127.000", 
+   "children": [], 
+   "end": "132.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht 11 ist einstimmig angenommen."
+   ]
+  }, 
+  {
+   "begin": "132.400", 
+   "children": [], 
+   "end": "140.320", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a018\u00a0c:"
+   ]
+  }, 
+  {
+   "begin": "140.320", 
+   "children": [], 
+   "end": "145.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a012 zu Petitionen"
+   ]
+  }, 
+  {
+   "begin": "145.320", 
+   "children": [], 
+   "end": "148.240", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt daf\u00fcr?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "148.240", 
+   "children": [], 
+   "end": "157.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "157.080", 
+   "children": [], 
+   "end": "159.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "159.240", 
+   "children": [], 
+   "end": "161.320", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a012 ist angenommen. "
+   ]
+  }, 
+  {
+   "begin": "161.320", 
+   "children": [], 
+   "end": "162.880", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Zugestimmt haben SPD, "
+   ]
+  }, 
+  {
+   "begin": "162.880", 
+   "children": [], 
+   "end": "164.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU, "
+   ]
+  }, 
+  {
+   "begin": "164.600", 
+   "children": [], 
+   "end": "167.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "FDP und AfD-Fraktion. "
+   ]
+  }, 
+  {
+   "begin": "167.760", 
+   "children": [], 
+   "end": "170.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Dagegen war die Fraktion Die Linke. "
+   ]
+  }, 
+  {
+   "begin": "170.240", 
+   "children": [], 
+   "end": "173.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Enthalten hat sich B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }, 
+  {
+   "begin": "173.240", 
+   "children": [], 
+   "end": "175.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a018\u00a0d:"
+   ]
+  }, 
+  {
+   "begin": "175.640", 
+   "children": [], 
+   "end": "178.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a013 zu Petitionen"
+   ]
+  }, 
+  {
+   "begin": "178.280", 
+   "children": [], 
+   "end": "179.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt daf\u00fcr?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "183.160", 
+   "children": [], 
+   "end": "185.240", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "185.240", 
+   "children": [], 
+   "end": "186.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "186.880", 
+   "children": [], 
+   "end": "190.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a013 ist einstimmig angenommen."
+   ]
+  }, 
+  {
+   "begin": "190.920", 
+   "children": [], 
+   "end": "193.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a018\u00a0e:"
+   ]
+  }, 
+  {
+   "begin": "193.480", 
+   "children": [], 
+   "end": "195.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a014 zu Petitionen"
+   ]
+  }, 
+  {
+   "begin": "195.600", 
+   "children": [], 
+   "end": "200.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt daf\u00fcr?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "200.640", 
+   "children": [], 
+   "end": "205.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "205.400", 
+   "children": [], 
+   "end": "206.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "206.800", 
+   "children": [], 
+   "end": "210.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a014 ist angenommen. "
+   ]
+  }, 
+  {
+   "begin": "210.160", 
+   "children": [], 
+   "end": "212.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Zugestimmt haben SPD, "
+   ]
+  }, 
+  {
+   "begin": "212.120", 
+   "children": [], 
+   "end": "213.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU, "
+   ]
+  }, 
+  {
+   "begin": "213.360", 
+   "children": [], 
+   "end": "215.680", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "FDP und AfD. "
+   ]
+  }, 
+  {
+   "begin": "215.680", 
+   "children": [], 
+   "end": "219.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Dagegen waren Die Linke und B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }, 
+  {
+   "begin": "219.920", 
+   "children": [], 
+   "end": "222.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a018\u00a0f:"
+   ]
+  }, 
+  {
+   "begin": "222.400", 
+   "children": [], 
+   "end": "228.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a015 zu Petitionen"
+   ]
+  }, 
+  {
+   "begin": "228.520", 
+   "children": [], 
+   "end": "229.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt daf\u00fcr?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "231.840", 
+   "children": [], 
+   "end": "233.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "233.360", 
+   "children": [], 
+   "end": "234.240", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "234.240", 
+   "children": [], 
+   "end": "235.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a015 ist angenommen. "
+   ]
+  }, 
+  {
+   "begin": "235.920", 
+   "children": [], 
+   "end": "237.200", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Zugestimmt haben SPD, "
+   ]
+  }, 
+  {
+   "begin": "237.200", 
+   "children": [], 
+   "end": "238.280", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU, "
+   ]
+  }, 
+  {
+   "begin": "238.280", 
+   "children": [], 
+   "end": "240.160", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "FDP und AfD. "
+   ]
+  }, 
+  {
+   "begin": "240.160", 
+   "children": [], 
+   "end": "244.560", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Dagegen waren B\u00fcndnis\u00a090/Die Gr\u00fcnen und die Fraktion Die Linke."
+   ]
+  }, 
+  {
+   "begin": "244.560", 
+   "children": [], 
+   "end": "248.040", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a018\u00a0g:"
+   ]
+  }, 
+  {
+   "begin": "248.040", 
+   "children": [], 
+   "end": "249.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a016 zu Petitionen"
+   ]
+  }, 
+  {
+   "begin": "249.800", 
+   "children": [], 
+   "end": "254.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt daf\u00fcr?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "254.840", 
+   "children": [], 
+   "end": "259.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "259.800", 
+   "children": [], 
+   "end": "261.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "261.000", 
+   "children": [], 
+   "end": "268.640", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Sammel\u00fcbersicht\u00a016 ist angenommen mit den Stimmen von SPD, "
+   ]
+  }, 
+  {
+   "begin": "268.640", 
+   "children": [], 
+   "end": "282.480", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU und FDP bei Ablehnung durch Die Linke, "
+   ]
+  }, 
+  {
+   "begin": "282.480", 
+   "children": [], 
+   "end": "285.440", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "B\u00fcndnis\u00a090/Die Gr\u00fcnen und AfD."
+   ]
+  }, 
+  {
+   "begin": "285.440", 
+   "children": [], 
+   "end": "291.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe den Zusatzpunkt\u00a05 auf:"
+   ]
+  }
+ ]
+}

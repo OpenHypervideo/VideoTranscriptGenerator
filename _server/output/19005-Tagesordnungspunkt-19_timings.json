@@ -1,0 +1,324 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.320", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Wir kommen zun\u00e4chst zu einer unstrittigen \u00dcberweisung. "
+   ]
+  }, 
+  {
+   "begin": "4.320", 
+   "children": [], 
+   "end": "7.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Das ist Tagesordnungspunkt\u00a019\u00a0c:"
+   ]
+  }, 
+  {
+   "begin": "7.840", 
+   "children": [], 
+   "end": "11.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4nderung der Gesch\u00e4ftsordnung des Deutschen Bundestages"
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "hier: "
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "14.160", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Regierungsbefragung"
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "children": [], 
+   "end": "17.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Interfraktionell wird vorgeschlagen, "
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "children": [], 
+   "end": "19.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "die Vorlage an den Ausschuss f\u00fcr Wahlpr\u00fcfung, "
+   ]
+  }, 
+  {
+   "begin": "19.720", 
+   "children": [], 
+   "end": "23.640", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Immunit\u00e4t und Gesch\u00e4ftsordnung zu \u00fcberweisen. "
+   ]
+  }, 
+  {
+   "begin": "23.640", 
+   "children": [], 
+   "end": "26.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Sind Sie damit einverstanden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "26.880", 
+   "children": [], 
+   "end": "27.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Fall, "
+   ]
+  }, 
+  {
+   "begin": "27.880", 
+   "children": [], 
+   "end": "30.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "sonst w\u00e4re es ja nicht unstrittig. "
+   ]
+  }, 
+  {
+   "begin": "30.240", 
+   "children": [], 
+   "end": "32.400", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist die \u00dcberweisung so beschlossen."
+   ]
+  }, 
+  {
+   "begin": "32.400", 
+   "children": [], 
+   "end": "39.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a019\u00a0b:"
+   ]
+  }, 
+  {
+   "begin": "39.720", 
+   "children": [], 
+   "end": "52.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Forderung der Vereinten Nationen zu den in der DDR geschiedenen Frauen sofort umsetzen"
+   ]
+  }, 
+  {
+   "begin": "52.480", 
+   "children": [], 
+   "end": "56.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Fraktion Die Linke w\u00fcnscht Abstimmung in der Sache. "
+   ]
+  }, 
+  {
+   "begin": "56.360", 
+   "children": [], 
+   "end": "61.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Fraktion der CDU/CSU w\u00fcnscht \u00dcberweisung an den Hauptausschuss. "
+   ]
+  }, 
+  {
+   "begin": "61.240", 
+   "children": [], 
+   "end": "67.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir stimmen nach st\u00e4ndiger \u00dcbung zuerst \u00fcber den Antrag auf Ausschuss\u00fcberweisung ab."
+   ]
+  }, 
+  {
+   "begin": "67.800", 
+   "children": [], 
+   "end": "68.920", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen frage ich Sie: "
+   ]
+  }, 
+  {
+   "begin": "68.920", 
+   "children": [], 
+   "end": "78.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr die beantragte \u00dcberweisung an den Hauptausschuss?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "78.480", 
+   "children": [], 
+   "end": "79.560", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "83.320", 
+   "children": [], 
+   "end": "86.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "86.400", 
+   "children": [], 
+   "end": "91.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die beantragte \u00dcberweisung haben CDU/CSU-, "
+   ]
+  }, 
+  {
+   "begin": "91.480", 
+   "children": [], 
+   "end": "92.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "SPD-, "
+   ]
+  }, 
+  {
+   "begin": "92.480", 
+   "children": [], 
+   "end": "93.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "FDP- "
+   ]
+  }, 
+  {
+   "begin": "93.320", 
+   "children": [], 
+   "end": "95.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und AfD-Fraktion gestimmt, "
+   ]
+  }, 
+  {
+   "begin": "95.280", 
+   "children": [], 
+   "end": "100.280", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dagegen waren B\u00fcndnis\u00a090/Die Gr\u00fcnen und Die Linke. "
+   ]
+  }, 
+  {
+   "begin": "100.280", 
+   "children": [], 
+   "end": "102.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist die \u00dcberweisung so beschlossen. "
+   ]
+  }, 
+  {
+   "begin": "102.800", 
+   "children": [], 
+   "end": "108.840", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Damit stimmen wir heute \u00fcber den Antrag auf Drucksache\u00a019/220 nicht in der Sache ab, "
+   ]
+  }, 
+  {
+   "begin": "108.840", 
+   "children": [], 
+   "end": "110.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "weil er an den Hauptausschuss \u00fcberwiesen worden ist."
+   ]
+  }, 
+  {
+   "begin": "110.880", 
+   "children": [], 
+   "end": "112.280", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe den Tagesordnungspunkt\u00a020 sowie den Zusatzpunkt\u00a05\u00a0b auf. "
+   ]
+  }, 
+  {
+   "begin": "112.280", 
+   "children": [], 
+   "end": "113.200", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Es handelt sich um die Beschlussfassung zu Vorlagen, "
+   ]
+  }, 
+  {
+   "begin": "113.200", 
+   "children": [], 
+   "end": "114.960", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "zu denen keine Aussprache vorgesehen ist."
+   ]
+  }
+ ]
+}

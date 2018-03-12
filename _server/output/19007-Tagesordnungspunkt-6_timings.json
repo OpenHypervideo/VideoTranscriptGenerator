@@ -1,0 +1,494 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.960", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Einsetzung des Parlamentarischen Kontrollgremiums gem\u00e4\u00df Artikel\u00a045d des Grundgesetzes"
+   ]
+  }, 
+  {
+   "begin": "2.960", 
+   "children": [], 
+   "end": "7.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Parlamentarischen Kontrollgremiums gem\u00e4\u00df Artikel\u00a045d des Grundgesetzes"
+   ]
+  }, 
+  {
+   "begin": "7.720", 
+   "children": [], 
+   "end": "16.040", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir kommen zun\u00e4chst zur Abstimmung \u00fcber den gemeinsamen Antrag aller Fraktionen des Hauses auf der Drucksache\u00a019/441 zur Einsetzung des Gremiums. "
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "children": [], 
+   "end": "21.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr diesen Antrag?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "21.280", 
+   "children": [], 
+   "end": "23.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.280", 
+   "children": [], 
+   "end": "24.720", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "children": [], 
+   "end": "27.680", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist das einstimmig so beschlossen. "
+   ]
+  }, 
+  {
+   "begin": "27.680", 
+   "children": [], 
+   "end": "36.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist das Parlamentarische Kontrollgremium eingesetzt und die Mitgliederzahl auf neun festgelegt."
+   ]
+  }, 
+  {
+   "begin": "36.120", 
+   "children": [], 
+   "end": "43.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir kommen nun zur Wahl der Mitglieder des Parlamentarischen Kontrollgremiums. "
+   ]
+  }, 
+  {
+   "begin": "43.440", 
+   "children": [], 
+   "end": "50.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Dazu liegt auf Drucksache\u00a019/442 ein interfraktioneller Wahlvorschlag vor. "
+   ]
+  }, 
+  {
+   "begin": "50.520", 
+   "children": [], 
+   "end": "55.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte zun\u00e4chst um Ihre Aufmerksamkeit f\u00fcr einige Hinweise zum Wahlverfahren."
+   ]
+  }, 
+  {
+   "begin": "55.480", 
+   "children": [], 
+   "end": "63.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Nach \u00a7\u00a02 Absatz\u00a03 des Gesetzes \u00fcber die parlamentarische Kontrolle nachrichtendienstlicher T\u00e4tigkeit des Bundes ist gew\u00e4hlt, "
+   ]
+  }, 
+  {
+   "begin": "63.880", 
+   "children": [], 
+   "end": "68.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "wer die Stimmen der Mehrheit der Mitglieder des Bundestages auf sich vereint, "
+   ]
+  }, 
+  {
+   "begin": "68.720", 
+   "children": [], 
+   "end": "69.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "69.200", 
+   "children": [], 
+   "end": "73.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wer mindestens 355\u00a0Stimmen erh\u00e4lt."
+   ]
+  }, 
+  {
+   "begin": "73.760", 
+   "children": [], 
+   "end": "77.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Wahl erfolgt mit Stimmzettel und Wahlausweis. "
+   ]
+  }, 
+  {
+   "begin": "77.520", 
+   "children": [], 
+   "end": "81.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Sie ben\u00f6tigen f\u00fcr diese Wahl Ihren blauen Wahlausweis, "
+   ]
+  }, 
+  {
+   "begin": "81.520", 
+   "children": [], 
+   "end": "82.080", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "den Sie, "
+   ]
+  }, 
+  {
+   "begin": "82.080", 
+   "children": [], 
+   "end": "83.760", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "soweit noch nicht geschehen, "
+   ]
+  }, 
+  {
+   "begin": "83.760", 
+   "children": [], 
+   "end": "86.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "bitte Ihrem Stimmkartenfach in der Lobby entnehmen. "
+   ]
+  }, 
+  {
+   "begin": "86.960", 
+   "children": [], 
+   "end": "89.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Bitte achten Sie darauf, "
+   ]
+  }, 
+  {
+   "begin": "89.120", 
+   "children": [], 
+   "end": "93.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass der Wahlausweis auch wirklich Ihren Namen tr\u00e4gt."
+   ]
+  }, 
+  {
+   "begin": "93.480", 
+   "children": [], 
+   "end": "96.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Die blauen Stimmzettel wurden im Saal verteilt. "
+   ]
+  }, 
+  {
+   "begin": "96.400", 
+   "children": [], 
+   "end": "98.600", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Sollten Sie noch keinen Stimmzettel haben, "
+   ]
+  }, 
+  {
+   "begin": "98.600", 
+   "children": [], 
+   "end": "100.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "besteht jetzt noch die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "100.360", 
+   "children": [], 
+   "end": "109.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "diesen von den Plenarassistentinnen und -assistenten zu erhalten."
+   ]
+  }, 
+  {
+   "begin": "109.600", 
+   "children": [], 
+   "end": "124.520", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Auf dem Stimmzettel sind die Namen der vorgeschlagenen Kandidaten aufgef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "124.520", 
+   "children": [], 
+   "end": "135.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben neun Stimmen und k\u00f6nnen zu jedem Kandidatenvorschlag \u201eJa\u201c, "
+   ]
+  }, 
+  {
+   "begin": "135.680", 
+   "children": [], 
+   "end": "144.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "\u201eNein\u201c oder \u201eEnthaltung\u201c ankreuzen. "
+   ]
+  }, 
+  {
+   "begin": "144.880", 
+   "children": [], 
+   "end": "244.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie bei einem Namen mehr als ein Kreuz oder gar kein Kreuz machen oder andere Namen als die der vorgeschlagenen Kandidaten oder Zus\u00e4tze eintragen, "
+   ]
+  }, 
+  {
+   "begin": "244.120", 
+   "children": [], 
+   "end": "249.480", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "ist die Stimme ung\u00fcltig."
+   ]
+  }, 
+  {
+   "begin": "249.480", 
+   "children": [], 
+   "end": "251.640", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die Wahl findet offen statt. "
+   ]
+  }, 
+  {
+   "begin": "251.640", 
+   "children": [], 
+   "end": "266.360", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen Ihren Stimmzettel also an Ihrem Platz ankreuzen. "
+   ]
+  }, 
+  {
+   "begin": "266.360", 
+   "children": [], 
+   "end": "268.160", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Bevor Sie den Stimmzettel in eine der Wahlurnen werfen, "
+   ]
+  }, 
+  {
+   "begin": "268.160", 
+   "children": [], 
+   "end": "278.320", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbergeben Sie bitte den Schriftf\u00fchrerinnen und Schriftf\u00fchrern an den Wahlurnen Ihren Wahlausweis. "
+   ]
+  }, 
+  {
+   "begin": "278.320", 
+   "children": [], 
+   "end": "592.240", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Der Nachweis der Teilnahme an der Wahl kann nur durch Abgabe des Wahlausweises erbracht werden."
+   ]
+  }, 
+  {
+   "begin": "592.240", 
+   "children": [], 
+   "end": "594.360", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, "
+   ]
+  }, 
+  {
+   "begin": "594.360", 
+   "children": [], 
+   "end": "623.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die vorgesehenen Pl\u00e4tze einzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "623.600", 
+   "children": [], 
+   "end": "625.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Sind die Pl\u00e4tze an den Urnen besetzt?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "625.640", 
+   "children": [], 
+   "end": "627.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Fall. "
+   ]
+  }, 
+  {
+   "begin": "627.000", 
+   "children": [], 
+   "end": "628.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Dann er\u00f6ffne ich die Wahl."
+   ]
+  }, 
+  {
+   "begin": "628.840", 
+   "children": [], 
+   "end": "630.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Ist noch ein Mitglied des Hauses anwesend, "
+   ]
+  }, 
+  {
+   "begin": "630.040", 
+   "children": [], 
+   "end": "632.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "das seine Stimme nicht abgeben konnte?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "632.960", 
+   "children": [], 
+   "end": "634.080", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht der Fall. "
+   ]
+  }, 
+  {
+   "begin": "634.080", 
+   "children": [], 
+   "end": "636.480", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Dann schlie\u00dfe ich die Wahl. "
+   ]
+  }, 
+  {
+   "begin": "636.480", 
+   "children": [], 
+   "end": "637.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte die Schriftf\u00fchrerinnen und Schriftf\u00fchrer, "
+   ]
+  }, 
+  {
+   "begin": "637.880", 
+   "children": [], 
+   "end": "640.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "mit der Ausz\u00e4hlung zu beginnen. "
+   ]
+  }, 
+  {
+   "begin": "640.720", 
+   "children": [], 
+   "end": "647.360", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das Ergebnis der Wahl wird Ihnen sp\u00e4ter bekannt gegeben."
+   ]
+  }, 
+  {
+   "begin": "647.360", 
+   "children": [], 
+   "end": "651.000", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe den Tagesordnungspunkt\u00a07 auf:"
+   ]
+  }
+ ]
+}

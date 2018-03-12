@@ -1,0 +1,94 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "36.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Antrag auf Genehmigung zur Durchf\u00fchrung eines Strafverfahrens"
+   ]
+  }, 
+  {
+   "begin": "36.880", 
+   "children": [], 
+   "end": "43.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Eine Aussprache ist nicht vorgesehen."
+   ]
+  }, 
+  {
+   "begin": "43.240", 
+   "children": [], 
+   "end": "48.600", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Ausschuss empfiehlt, "
+   ]
+  }, 
+  {
+   "begin": "48.600", 
+   "children": [], 
+   "end": "82.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "die Genehmigung zu erteilen. "
+   ]
+  }, 
+  {
+   "begin": "82.680", 
+   "children": [], 
+   "end": "90.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr diese Beschlussempfehlung?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "90.640", 
+   "children": [], 
+   "end": "94.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "94.160", 
+   "children": [], 
+   "end": "96.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "96.760", 
+   "children": [], 
+   "end": "100.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die Beschlussempfehlung ist einstimmig angenommen."
+   ]
+  }, 
+  {
+   "begin": "100.480", 
+   "children": [], 
+   "end": "103.000", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe den Zusatzpunkt\u00a04 auf:"
+   ]
+  }
+ ]
+}

@@ -12,7 +12,7 @@
     </kopfdaten>
     <inhaltsverzeichnis>
       <ivz-titel>Inhalt:</ivz-titel>
-      <ivz-block>
+      <ivz-block media-id="7197521">
         <ivz-block-titel>Tagesordnungspunkt 1:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Befragung der Bundesregierung: Jahreswirtschaftsbericht 2018 </ivz-eintrag-inhalt>
@@ -297,7 +297,7 @@
           </xref>
         </ivz-eintrag>
       </ivz-block>
-      <ivz-block>
+      <ivz-block media-id="7197547">
         <ivz-block-titel>Tagesordnungspunkt 2:</ivz-block-titel>
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Fragestunde Drucksache 19/535 </ivz-eintrag-inhalt>
@@ -1769,7 +1769,7 @@
       <p klasse="J_1">Nehmen Sie bitte Platz, liebe Kolleginnen und Kollegen. Die Sitzung ist eröffnet.</p>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 1 auf:</p>
     </sitzungsbeginn>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 1">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 1" media-id="7197521">
       <p klasse="T_fett">Befragung der Bundesregierung</p>
       <p klasse="J">Die Bundesregierung hat als Thema der heutigen Kabinettssitzung mitgeteilt: Jahreswirtschaftsbericht 2018.</p>
       <p klasse="J">Das Wort für den einleitenden fünfminütigen Bericht hat die Bundesministerin für Wirtschaft und Energie, Frau Brigitte Zypries. – Bitte, Frau Ministerin.</p>
@@ -2100,7 +2100,7 @@
       </rede>
       <p klasse="T">Ich rufe den Tagesordnungspunkt 2 auf:</p>
     </tagesordnungspunkt>
-    <tagesordnungspunkt top-id="Tagesordnungspunkt 2">
+    <tagesordnungspunkt top-id="Tagesordnungspunkt 2" media-id="7197547">
       <p klasse="T_fett">Fragestunde</p>
       <p klasse="T_Drs">Drucksache 19/535</p>
       <p klasse="J">Ich rufe nun die mündlichen Fragen auf Drucksache 19/535 in der üblichen Reihenfolge auf. Das heißt, wir beginnen mit dem Geschäftsbereich des Bundesministeriums für wirtschaftliche Zusammenarbeit und Entwicklung.</p>
