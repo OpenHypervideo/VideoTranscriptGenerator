@@ -383,7 +383,7 @@ function staticFallback() {
 	$('#status')[0].innerHTML += '<div>Server not found. Enabling fallback to static version..</div>';
 	$('#status')[0].scrollTop = $('#status')[0].scrollHeight;
 
-	var videoSource = 'http://static.cdn.streamfarm.net/1000153copo/ondemand/145293313/'+ mediaID +'/'+ mediaID +'_h264_1920_1080_5000kb_baseline_de_5000.mp4';
+	var videoSource = 'https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/'+ mediaID +'/'+ mediaID +'_h264_1920_1080_5000kb_baseline_de_5000.mp4';
 	
 		wahlperiode = ('0' + periodID).slice(-2),
 		sitzungsnr = ('00' + meetingID).slice(-3),

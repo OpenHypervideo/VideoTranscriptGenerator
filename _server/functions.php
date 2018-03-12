@@ -473,7 +473,7 @@ function getAudioSource($mediaID) {
  */
 function getVideoSource($mediaID) {
 
-	$videoPath = 'http://static.cdn.streamfarm.net/1000153copo/ondemand/145293313/'.$mediaID.'/'.$mediaID.'_h264_1920_1080_5000kb_baseline_de_5000.mp4';
+	$videoPath = 'https://static.p.core.cdn.streamfarm.net/1000153copo/ondemand/145293313/'.$mediaID.'/'.$mediaID.'_h264_1920_1080_5000kb_baseline_de_5000.mp4';
 	
 	return $videoPath;
 
