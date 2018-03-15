@@ -1,0 +1,244 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "13.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Bekanntgabe der Bildung der Bundesregierung"
+   ]
+  }, 
+  {
+   "begin": "13.080", 
+   "children": [], 
+   "end": "22.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Der Herr Bundespr\u00e4sident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt:"
+   ]
+  }, 
+  {
+   "begin": "22.040", 
+   "children": [], 
+   "end": "32.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Gem\u00e4\u00df Artikel\u00a064 Absatz\u00a01 des Grundgesetzes f\u00fcr die Bundesrepublik Deutschland habe ich heute auf Vorschlag der Frau Bundeskanzlerin ernannt:"
+   ]
+  }, 
+  {
+   "begin": "32.000", 
+   "children": [], 
+   "end": "35.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Olaf Scholz \u00a0zum Bundesminister der Finanzen,"
+   ]
+  }, 
+  {
+   "begin": "35.680", 
+   "children": [], 
+   "end": "38.120", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Horst Seehofer \u00a0zum Bundesminister des Innern, "
+   ]
+  }, 
+  {
+   "begin": "38.120", 
+   "children": [], 
+   "end": "40.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr Bau und Heimat,"
+   ]
+  }, 
+  {
+   "begin": "40.440", 
+   "children": [], 
+   "end": "44.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Heiko Maas \u00a0zum Bundesminister des Ausw\u00e4rtigen,"
+   ]
+  }, 
+  {
+   "begin": "44.720", 
+   "children": [], 
+   "end": "49.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Peter Altmaier \u00a0zum Bundesminister f\u00fcr Wirtschaft und Energie,"
+   ]
+  }, 
+  {
+   "begin": "49.120", 
+   "children": [], 
+   "end": "54.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Frau Dr.\u00a0Katarina Barley \u00a0zur Bundesministerin der Justiz und f\u00fcr Verbraucherschutz,"
+   ]
+  }, 
+  {
+   "begin": "54.760", 
+   "children": [], 
+   "end": "59.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Hubertus Heil \u00a0zum Bundesminister f\u00fcr Arbeit und Soziales,"
+   ]
+  }, 
+  {
+   "begin": "59.240", 
+   "children": [], 
+   "end": "64.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Frau Dr.\u00a0Ursula von der Leyen \u00a0zur Bundesministerin der Verteidigung,"
+   ]
+  }, 
+  {
+   "begin": "64.160", 
+   "children": [], 
+   "end": "69.400", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Frau Julia Kl\u00f6ckner \u00a0zur Bundesministerin f\u00fcr Ern\u00e4hrung und Landwirtschaft,"
+   ]
+  }, 
+  {
+   "begin": "69.400", 
+   "children": [], 
+   "end": "72.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Frau Dr.\u00a0Franziska Giffey \u00a0zur Bundesministerin f\u00fcr Familie, "
+   ]
+  }, 
+  {
+   "begin": "72.880", 
+   "children": [], 
+   "end": "73.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Senioren, "
+   ]
+  }, 
+  {
+   "begin": "73.480", 
+   "children": [], 
+   "end": "75.800", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Frauen und Jugend,"
+   ]
+  }, 
+  {
+   "begin": "75.800", 
+   "children": [], 
+   "end": "79.720", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Jens Spahn \u00a0zum Bundesminister f\u00fcr Gesundheit,"
+   ]
+  }, 
+  {
+   "begin": "79.720", 
+   "children": [], 
+   "end": "85.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Andreas Scheuer \u00a0zum Bundesminister f\u00fcr Verkehr und digitale Infrastruktur,"
+   ]
+  }, 
+  {
+   "begin": "85.800", 
+   "children": [], 
+   "end": "88.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Frau Svenja Schulze \u00a0zur Bundesministerin f\u00fcr Umwelt, "
+   ]
+  }, 
+  {
+   "begin": "88.880", 
+   "children": [], 
+   "end": "91.960", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Naturschutz und nukleare Sicherheit,"
+   ]
+  }, 
+  {
+   "begin": "91.960", 
+   "children": [], 
+   "end": "96.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Frau Anja Karliczek \u00a0zur Bundesministerin f\u00fcr Bildung und Forschung,"
+   ]
+  }, 
+  {
+   "begin": "96.440", 
+   "children": [], 
+   "end": "100.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Dr.\u00a0Gerd M\u00fcller \u00a0zum Bundesminister f\u00fcr wirtschaftliche Zusammenarbeit und Entwicklung"
+   ]
+  }, 
+  {
+   "begin": "100.440", 
+   "children": [], 
+   "end": "101.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "sowie"
+   ]
+  }, 
+  {
+   "begin": "101.160", 
+   "children": [], 
+   "end": "107.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Dr.\u00a0Helge Braun \u00a0zum Bundesminister f\u00fcr besondere Aufgaben."
+   ]
+  }, 
+  {
+   "begin": "107.600", 
+   "children": [], 
+   "end": "111.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt rufe ich den Tagesordnun gspunkt\u00a04 auf:"
+   ]
+  }
+ ]
+}

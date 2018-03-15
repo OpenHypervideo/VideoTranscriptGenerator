@@ -1,0 +1,424 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Eidesleistung der Bundeskanzlerin"
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "children": [], 
+   "end": "12.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Der Herr Bundespr\u00e4sident hat mir mit Schreiben vom heutigen Tage mitgeteilt:"
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "children": [], 
+   "end": "32.720", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Gem\u00e4\u00df Artikel\u00a063 Absatz\u00a02 des Grundgesetzes f\u00fcr die Bundesrepublik Deutschland habe ich heute Frau Abgeordnete Dr.\u00a0Angela Merkel zur Bundeskanzlerin ernannt."
+   ]
+  }, 
+  {
+   "begin": "32.720", 
+   "children": [], 
+   "end": "51.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Nach Artikel\u00a064 Absatz\u00a02 des Grundgesetzes leistet die Bundeskanzlerin bei der Amts\u00fcbernahme vor dem Deutschen Bundestag den in Artikel\u00a056 des Grundgesetzes vorgesehenen Eid."
+   ]
+  }, 
+  {
+   "begin": "51.840", 
+   "children": [], 
+   "end": "55.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Frau Bundeskanzlerin, "
+   ]
+  }, 
+  {
+   "begin": "55.440", 
+   "children": [], 
+   "end": "56.080", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "ich bitte Sie, "
+   ]
+  }, 
+  {
+   "begin": "56.080", 
+   "children": [], 
+   "end": "58.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "zur Eidesleistung zu mir zu kommen."
+   ]
+  }, 
+  {
+   "begin": "58.760", 
+   "children": [], 
+   "end": "60.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Frau Bundeskanzlerin, "
+   ]
+  }, 
+  {
+   "begin": "60.600", 
+   "children": [], 
+   "end": "68.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ich habe hier die Urschrift unseres Grundgesetzes in H\u00e4nden und darf Sie bitten, "
+   ]
+  }, 
+  {
+   "begin": "68.280", 
+   "children": [], 
+   "end": "74.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "den in Artikel\u00a056 vorgesehenen Eid zu sprechen."
+   ]
+  }, 
+  {
+   "begin": "74.240", 
+   "children": [], 
+   "end": "75.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ich schw\u00f6re, "
+   ]
+  }, 
+  {
+   "begin": "75.000", 
+   "children": [], 
+   "end": "77.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "dass ich meine Kraft dem Wohle des deutschen Volkes widmen, "
+   ]
+  }, 
+  {
+   "begin": "77.680", 
+   "children": [], 
+   "end": "78.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "seinen Nutzen mehren, "
+   ]
+  }, 
+  {
+   "begin": "78.800", 
+   "children": [], 
+   "end": "81.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Schaden von ihm wenden, "
+   ]
+  }, 
+  {
+   "begin": "81.200", 
+   "children": [], 
+   "end": "90.480", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "das Grundgesetz und die Gesetze des Bundes wahren und verteidigen, "
+   ]
+  }, 
+  {
+   "begin": "90.480", 
+   "children": [], 
+   "end": "94.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "meine Pflichten gewissenhaft erf\u00fcllen und Gerechtigkeit gegen jedermann \u00fcben werde. "
+   ]
+  }, 
+  {
+   "begin": "94.600", 
+   "children": [], 
+   "end": "96.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "So wahr mir Gott helfe."
+   ]
+  }, 
+  {
+   "begin": "96.360", 
+   "children": [], 
+   "end": "98.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf Sie bitten, "
+   ]
+  }, 
+  {
+   "begin": "98.160", 
+   "children": [], 
+   "end": "99.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wieder Platz zu nehmen."
+   ]
+  }, 
+  {
+   "begin": "99.400", 
+   "children": [], 
+   "end": "99.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Ich stelle fest, "
+   ]
+  }, 
+  {
+   "begin": "99.960", 
+   "children": [], 
+   "end": "108.320", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass die Frau Bundeskanzlerin den vorgeschriebenen Eid vor dem Deutschen Bundestag geleistet hat."
+   ]
+  }, 
+  {
+   "begin": "108.320", 
+   "children": [], 
+   "end": "109.520", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Was ist los?"
+   ]
+  }, 
+  {
+   "begin": "109.520", 
+   "children": [], 
+   "end": "113.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Wenn Sie auf der Trib\u00fcne bitte keine Transparente hochhalten!"
+   ]
+  }, 
+  {
+   "begin": "113.680", 
+   "children": [], 
+   "end": "116.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Anderenfalls muss ich die Saaldiener bitten, "
+   ]
+  }, 
+  {
+   "begin": "116.920", 
+   "children": [], 
+   "end": "120.160", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr Ordnung zu sorgen."
+   ]
+  }, 
+  {
+   "begin": "120.160", 
+   "children": [], 
+   "end": "122.080", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "122.080", 
+   "children": [], 
+   "end": "129.120", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "jedenfalls hat die Frau Bundeskanzlerin den vorgeschriebenen Eid vor dem Deutschen Bundestag geleistet. "
+   ]
+  }, 
+  {
+   "begin": "129.120", 
+   "children": [], 
+   "end": "130.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Frau Bundeskanzlerin, "
+   ]
+  }, 
+  {
+   "begin": "130.280", 
+   "children": [], 
+   "end": "135.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "ich darf Ihnen noch einmal alle guten W\u00fcnsche auf Ihren schweren Weg mitgeben."
+   ]
+  }, 
+  {
+   "begin": "135.640", 
+   "children": [], 
+   "end": "137.560", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Bevor ich die Sitzung unterbreche, "
+   ]
+  }, 
+  {
+   "begin": "137.560", 
+   "children": [], 
+   "end": "175.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "muss ich noch folgenden Sachverhalt ansprechen: "
+   ]
+  }, 
+  {
+   "begin": "175.880", 
+   "children": [], 
+   "end": "192.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Der Abgeordnete Petr Bystron hat in der Wahlkabine den von ihm ausgef\u00fcllten Stimmzettel samt seinem Wahlausweis fotografiert und dieses Foto ver\u00f6ffentlicht."
+   ]
+  }, 
+  {
+   "begin": "192.240", 
+   "children": [], 
+   "end": "199.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Er hat damit bewusst gegen den Grundsatz der Geheimhaltung der Wahl versto\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "199.920", 
+   "children": [], 
+   "end": "205.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Herr Abgeordneter Bystron, "
+   ]
+  }, 
+  {
+   "begin": "205.840", 
+   "children": [], 
+   "end": "238.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wegen dieser schwerwiegenden Verletzung der Ordnung und W\u00fcrde des Bundestages verh\u00e4nge ich gegen Sie gem\u00e4\u00df \u00a7\u00a037 unserer Gesch\u00e4ftsordnung ein Ordnungsgeld in H\u00f6he von 1\u00a0000\u00a0Euro."
+   ]
+  }, 
+  {
+   "begin": "238.840", 
+   "children": [], 
+   "end": "253.480", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Sitzung wird um 13.30\u00a0Uhr mit der Bekanntgabe der vom Bundespr\u00e4sidenten ernannten Mitglieder der neuen Bundesregierung und ihrer Vereidigung fortgesetzt. "
+   ]
+  }, 
+  {
+   "begin": "253.480", 
+   "children": [], 
+   "end": "258.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Bis dahin unterbreche ich die Sitzung."
+   ]
+  }, 
+  {
+   "begin": "258.240", 
+   "children": [], 
+   "end": "261.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "261.040", 
+   "children": [], 
+   "end": "262.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "ich darf Sie bitten, "
+   ]
+  }, 
+  {
+   "begin": "262.280", 
+   "children": [], 
+   "end": "263.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Platz zu nehmen, "
+   ]
+  }, 
+  {
+   "begin": "263.640", 
+   "children": [], 
+   "end": "283.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "damit wir die unterbrochene Sitzung fortsetzen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "283.320", 
+   "children": [], 
+   "end": "294.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Ich er\u00f6ffne die unterbrochene Sitzung wieder und rufe den Tagesordnungspunkt\u00a03 auf:"
+   ]
+  }
+ ]
+}
