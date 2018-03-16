@@ -1,0 +1,354 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a012\u00a0a:"
+   ]
+  }, 
+  {
+   "begin": "2.000", 
+   "children": [], 
+   "end": "17.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Beirats f\u00fcr Fragen des Zugangs zur Eisenbahninfrastruktur (Eisenbahninfrastrukturbeirat)"
+   ]
+  }, 
+  {
+   "begin": "17.000", 
+   "children": [], 
+   "end": "21.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Dazu liegen Wahlvorschl\u00e4ge aller Fraktionen auf Drucksache\u00a019/1181 vor. "
+   ]
+  }, 
+  {
+   "begin": "21.960", 
+   "children": [], 
+   "end": "25.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr diese Wahlvorschl\u00e4ge?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "25.560", 
+   "children": [], 
+   "end": "27.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "27.680", 
+   "children": [], 
+   "end": "28.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "28.280", 
+   "children": [], 
+   "end": "28.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Keine. "
+   ]
+  }, 
+  {
+   "begin": "28.800", 
+   "children": [], 
+   "end": "31.960", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Dann sind die Wahlvorschl\u00e4ge einstimmig angenommen."
+   ]
+  }, 
+  {
+   "begin": "31.960", 
+   "children": [], 
+   "end": "34.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a012\u00a0b:"
+   ]
+  }, 
+  {
+   "begin": "34.360", 
+   "children": [], 
+   "end": "43.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Beirats zur Auswahl von Themen f\u00fcr die Sonderpostwertzeichen ohne Zuschlag beim Bundesministerium der Finanzen (Programmbeirat)"
+   ]
+  }, 
+  {
+   "begin": "43.520", 
+   "children": [], 
+   "end": "46.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Dazu liegen Wahlvorschl\u00e4ge der Fraktionen der CDU/CSU, "
+   ]
+  }, 
+  {
+   "begin": "46.720", 
+   "children": [], 
+   "end": "50.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "SPD und AfD auf Drucksache\u00a019/1182 vor. "
+   ]
+  }, 
+  {
+   "begin": "50.760", 
+   "children": [], 
+   "end": "54.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr diese Wahlvorschl\u00e4ge?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "54.240", 
+   "children": [], 
+   "end": "55.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "55.520", 
+   "children": [], 
+   "end": "56.160", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "56.160", 
+   "children": [], 
+   "end": "56.800", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Keine. "
+   ]
+  }, 
+  {
+   "begin": "56.800", 
+   "children": [], 
+   "end": "59.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Dann sind auch diese Wahlvorschl\u00e4ge einstimmig angenommen."
+   ]
+  }, 
+  {
+   "begin": "59.480", 
+   "children": [], 
+   "end": "62.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a012\u00a0c:"
+   ]
+  }, 
+  {
+   "begin": "62.240", 
+   "children": [], 
+   "end": "70.200", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Beirats f\u00fcr die grafische Gestaltung von Sonderpostwertzeichen beim Bundesministerium der Finanzen (Kunstbeirat)"
+   ]
+  }, 
+  {
+   "begin": "70.200", 
+   "children": [], 
+   "end": "76.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Hierzu liegen Wahlvorschl\u00e4ge der Fraktionen der CDU/CSU und der SPD auf Drucksache\u00a019/1183 vor. "
+   ]
+  }, 
+  {
+   "begin": "76.960", 
+   "children": [], 
+   "end": "79.840", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr diese Wahlvorschl\u00e4ge?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "79.840", 
+   "children": [], 
+   "end": "81.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "81.960", 
+   "children": [], 
+   "end": "83.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "83.120", 
+   "children": [], 
+   "end": "83.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Niemand. "
+   ]
+  }, 
+  {
+   "begin": "83.920", 
+   "children": [], 
+   "end": "86.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Dann sind diese Wahlvorschl\u00e4ge einstimmig angenommen."
+   ]
+  }, 
+  {
+   "begin": "86.200", 
+   "children": [], 
+   "end": "89.080", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Tagesordnungspunkt\u00a012\u00a0d:"
+   ]
+  }, 
+  {
+   "begin": "89.080", 
+   "children": [], 
+   "end": "94.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Senats des Vereins \u201eHermann von Helmholtz-Gemeinschaft Deutscher Forschungszentren e. "
+   ]
+  }, 
+  {
+   "begin": "94.040", 
+   "children": [], 
+   "end": "95.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "V.\u201c"
+   ]
+  }, 
+  {
+   "begin": "95.280", 
+   "children": [], 
+   "end": "101.320", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Hierzu liegen Wahlvorschl\u00e4ge der Fraktionen der CDU/CSU und der SPD auf Drucksache\u00a019/1184 vor. "
+   ]
+  }, 
+  {
+   "begin": "101.320", 
+   "children": [], 
+   "end": "104.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr diese Wahlvorschl\u00e4ge?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "104.480", 
+   "children": [], 
+   "end": "106.120", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "106.120", 
+   "children": [], 
+   "end": "107.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "107.200", 
+   "children": [], 
+   "end": "107.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Niemand. "
+   ]
+  }, 
+  {
+   "begin": "107.600", 
+   "children": [], 
+   "end": "110.480", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Dann sind diese Wahlvorschl\u00e4ge ebenfalls einstimmig angenommen."
+   ]
+  }, 
+  {
+   "begin": "110.480", 
+   "children": [], 
+   "end": "113.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe den Zusatzpunkt\u00a02 auf:"
+   ]
+  }
+ ]
+}

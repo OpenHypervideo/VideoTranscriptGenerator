@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "children": [], 
+   "end": "14.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Abgeordnete! "
+   ]
+  }, 
+  {
+   "begin": "14.880", 
+   "children": [], 
+   "end": "26.520", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Frau von der Leyen will unsere Soldaten \u00fcberst\u00fcrzt in eine umfassende Stabilisierungsmission in den Irak schicken. "
+   ]
+  }, 
+  {
+   "begin": "26.520", 
+   "children": [], 
+   "end": "28.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir schlagen dringend vor, "
+   ]
+  }, 
+  {
+   "begin": "28.760", 
+   "children": [], 
+   "end": "34.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass die Verteidigungsministerin zun\u00e4chst unsere Bundeswehr selbst stabilisiert;"
+   ]
+  }, 
+  {
+   "begin": "34.400", 
+   "children": [], 
+   "end": "44.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "denn der Bericht zur materiellen Einsatzbereitschaft zeigt katastrophale Zust\u00e4nde auf. "
+   ]
+  }, 
+  {
+   "begin": "44.440", 
+   "children": [], 
+   "end": "46.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Hinzu kommt: "
+   ]
+  }, 
+  {
+   "begin": "46.160", 
+   "children": [], 
+   "end": "53.720", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeswehr befindet sich bereits seit 16\u00a0Jahren in einer anderen Stabilisierungsmission\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "53.720", 
+   "children": [], 
+   "end": "55.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "in Afghanistan. "
+   ]
+  }, 
+  {
+   "begin": "55.360", 
+   "children": [], 
+   "end": "64.200", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Der aktuelle Perspektivbericht des Verteidigungsministeriums zu Afghanistan ist ein Bericht des Scheiterns. "
+   ]
+  }, 
+  {
+   "begin": "64.200", 
+   "children": [], 
+   "end": "67.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt will Frau von der Leyen in den Irak. "
+   ]
+  }, 
+  {
+   "begin": "67.560", 
+   "children": [], 
+   "end": "71.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Und wieder gibt es keine tragf\u00e4hige Strategie."
+   ]
+  }, 
+  {
+   "begin": "71.160", 
+   "children": [], 
+   "end": "73.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag der Bundesregierung zeigt, "
+   ]
+  }, 
+  {
+   "begin": "73.760", 
+   "children": [], 
+   "end": "76.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "wie die Verteidigungsministerin arbeitet. "
+   ]
+  }, 
+  {
+   "begin": "76.480", 
+   "children": [], 
+   "end": "81.400", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Frau von der Leyen bereist seit Jahren emsig das internationale Parkett\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "81.400", 
+   "children": [], 
+   "end": "82.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wir haben es gerade geh\u00f6rt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "82.880", 
+   "children": [], 
+   "end": "87.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "und sichert bei jeder Gelegenheit Deutschlands Unterst\u00fctzung zu. "
+   ]
+  }, 
+  {
+   "begin": "87.320", 
+   "children": [], 
+   "end": "90.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Aber die Voraussetzungen daf\u00fcr zu schaffen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "90.240", 
+   "children": [], 
+   "end": "95.120", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "materiell und personell gut ger\u00fcstete Streitkr\u00e4fte\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "95.120", 
+   "children": [], 
+   "end": "96.760", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "das kriegen Sie nicht hin, "
+   ]
+  }, 
+  {
+   "begin": "96.760", 
+   "children": [], 
+   "end": "98.320", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin."
+   ]
+  }, 
+  {
+   "begin": "98.320", 
+   "children": [], 
+   "end": "103.920", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das haben Sie in Ihrer Amtszeit zweifelsfrei bewiesen. "
+   ]
+  }, 
+  {
+   "begin": "103.920", 
+   "children": [], 
+   "end": "108.000", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Und jetzt geht auch noch Ihre R\u00fcstungsstaatssekret\u00e4rin."
+   ]
+  }, 
+  {
+   "begin": "108.000", 
+   "children": [], 
+   "end": "109.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Aber nicht nur das: "
+   ]
+  }, 
+  {
+   "begin": "109.840", 
+   "children": [], 
+   "end": "111.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "K\u00f6nnen Sie sich noch daran erinnern, "
+   ]
+  }, 
+  {
+   "begin": "111.800", 
+   "children": [], 
+   "end": "113.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "113.400", 
+   "children": [], 
+   "end": "126.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie von einer Fehlerkultur und mehr Transparenz als Voraussetzungen f\u00fcr eine ehrliche Bestandsaufnahme bei der Bundeswehr sprachen? "
+   ]
+  }, 
+  {
+   "begin": "126.440", 
+   "children": [], 
+   "end": "130.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Auch dieses Versprechen haben Sie nicht gehalten. "
+   ]
+  }, 
+  {
+   "begin": "130.920", 
+   "children": [], 
+   "end": "134.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "In der Truppe rumort es wie noch nie; "
+   ]
+  }, 
+  {
+   "begin": "134.080", 
+   "children": [], 
+   "end": "138.280", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "aber von oben kommen nur Jubelmeldungen."
+   ]
+  }, 
+  {
+   "begin": "138.280", 
+   "children": [], 
+   "end": "141.120", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ich gewinne zunehmend den Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "141.120", 
+   "children": [], 
+   "end": "148.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass die h\u00f6chste milit\u00e4rische F\u00fchrung ein wesentlicher Teil dieser Sch\u00f6nrederei ist."
+   ]
+  }, 
+  {
+   "begin": "148.440", 
+   "children": [], 
+   "end": "152.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Es ist aber die Pflicht Ihres Hauses, "
+   ]
+  }, 
+  {
+   "begin": "152.640", 
+   "children": [], 
+   "end": "155.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "das Parlament dar\u00fcber zu unterrichten, "
+   ]
+  }, 
+  {
+   "begin": "155.600", 
+   "children": [], 
+   "end": "159.960", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wie es tats\u00e4chlich um die Einsatzbereitschaft der Bundeswehr steht."
+   ]
+  }, 
+  {
+   "begin": "159.960", 
+   "children": [], 
+   "end": "166.880", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Der Wehrbeauftragte nennt die Bundeswehr als Ganzes nicht einsetzbar. "
+   ]
+  }, 
+  {
+   "begin": "166.880", 
+   "children": [], 
+   "end": "169.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Inspekteure melden jedoch, "
+   ]
+  }, 
+  {
+   "begin": "169.680", 
+   "children": [], 
+   "end": "172.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass jede Aufgabe zu schaffen ist. "
+   ]
+  }, 
+  {
+   "begin": "172.760", 
+   "children": [], 
+   "end": "175.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Aber um welchen Preis? "
+   ]
+  }, 
+  {
+   "begin": "175.440", 
+   "children": [], 
+   "end": "176.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Frau von der Leyen, "
+   ]
+  }, 
+  {
+   "begin": "176.640", 
+   "children": [], 
+   "end": "180.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "geben Sie Ihren Inspekteuren die Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "180.320", 
+   "children": [], 
+   "end": "181.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "zu melden, "
+   ]
+  }, 
+  {
+   "begin": "181.000", 
+   "children": [], 
+   "end": "182.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "was ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "182.640", 
+   "children": [], 
+   "end": "184.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und nicht, "
+   ]
+  }, 
+  {
+   "begin": "184.680", 
+   "children": [], 
+   "end": "186.480", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "was politisch gut klingt."
+   ]
+  }, 
+  {
+   "begin": "186.480", 
+   "children": [], 
+   "end": "193.080", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "193.080", 
+   "children": [], 
+   "end": "196.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "es ist nicht alles au\u00dfenpolitische Verantwortung, "
+   ]
+  }, 
+  {
+   "begin": "196.600", 
+   "children": [], 
+   "end": "199.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "was von Ihnen so bezeichnet wird, "
+   ]
+  }, 
+  {
+   "begin": "199.080", 
+   "children": [], 
+   "end": "200.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "vor allem dann nicht, "
+   ]
+  }, 
+  {
+   "begin": "200.800", 
+   "children": [], 
+   "end": "206.720", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie unsere Soldaten erneut in die Welt hinausschicken, "
+   ]
+  }, 
+  {
+   "begin": "206.720", 
+   "children": [], 
+   "end": "210.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "ohne eine tragf\u00e4hige Strategie zu haben."
+   ]
+  }, 
+  {
+   "begin": "210.560", 
+   "children": [], 
+   "end": "215.600", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Sie machen immer wieder die gleichen Fehler und nennen das \u201eVerantwortung\u201c. "
+   ]
+  }, 
+  {
+   "begin": "215.600", 
+   "children": [], 
+   "end": "219.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind f\u00fcr das Wohl der Ihnen anvertrauten"
+   ]
+  }, 
+  {
+   "begin": "219.680", 
+   "children": [], 
+   "end": "220.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0gedulden Sie sich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "220.640", 
+   "children": [], 
+   "end": "225.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "M\u00e4nner und Frauen verantwortlich. "
+   ]
+  }, 
+  {
+   "begin": "225.000", 
+   "children": [], 
+   "end": "226.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "226.120", 
+   "children": [], 
+   "end": "228.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "sie in die Lage zu versetzen, "
+   ]
+  }, 
+  {
+   "begin": "228.880", 
+   "children": [], 
+   "end": "231.800", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "den Auftrag zu erf\u00fcllen."
+   ]
+  }, 
+  {
+   "begin": "231.800", 
+   "children": [], 
+   "end": "237.080", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Das neue Mandat f\u00fcr den Einsatz im Irak ist voller Risiken. "
+   ]
+  }, 
+  {
+   "begin": "237.080", 
+   "children": [], 
+   "end": "239.520", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe hier schon einmal gesagt: "
+   ]
+  }, 
+  {
+   "begin": "239.520", 
+   "children": [], 
+   "end": "245.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Risiken geh\u00f6ren zum Soldatenberuf wie die Uniform und der Formaldienst. "
+   ]
+  }, 
+  {
+   "begin": "245.960", 
+   "children": [], 
+   "end": "251.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Aber jedes Risiko muss einem angemessenen Ertrag gegen\u00fcberstehen. "
+   ]
+  }, 
+  {
+   "begin": "251.600", 
+   "children": [], 
+   "end": "256.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Was wollen Sie mit dem neuen Einsatz bis wann erreicht haben? "
+   ]
+  }, 
+  {
+   "begin": "256.240", 
+   "children": [], 
+   "end": "260.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "An welchem Punkt k\u00f6nnen wir unsere Soldaten wieder nach Hause holen? "
+   ]
+  }, 
+  {
+   "begin": "260.520", 
+   "children": [], 
+   "end": "265.160", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Mit wie vielen Mandatsverl\u00e4ngerungen m\u00fcssen wir noch rechnen? "
+   ]
+  }, 
+  {
+   "begin": "265.160", 
+   "children": [], 
+   "end": "268.200", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber geben Sie keine Auskunft\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "268.200", 
+   "children": [], 
+   "end": "269.960", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "wie in Afghanistan, "
+   ]
+  }, 
+  {
+   "begin": "269.960", 
+   "children": [], 
+   "end": "270.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wie in Mali, "
+   ]
+  }, 
+  {
+   "begin": "270.840", 
+   "children": [], 
+   "end": "272.880", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wie im Kosovo."
+   ]
+  }, 
+  {
+   "begin": "272.880", 
+   "children": [], 
+   "end": "274.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich bezweifle, "
+   ]
+  }, 
+  {
+   "begin": "274.080", 
+   "children": [], 
+   "end": "285.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Mehrheit dieses Parlaments dieser Risiken bewusst ist. "
+   ]
+  }, 
+  {
+   "begin": "285.400", 
+   "children": [], 
+   "end": "288.120", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir deutsche Soldaten in den Irak schicken, "
+   ]
+  }, 
+  {
+   "begin": "288.120", 
+   "children": [], 
+   "end": "291.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "werden wir unweigerlich zur Konfliktpartei. "
+   ]
+  }, 
+  {
+   "begin": "291.760", 
+   "children": [], 
+   "end": "293.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wir bilden Kr\u00e4fte aus, "
+   ]
+  }, 
+  {
+   "begin": "293.680", 
+   "children": [], 
+   "end": "296.720", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die anderen Kr\u00e4ften gegen\u00fcberstehen. "
+   ]
+  }, 
+  {
+   "begin": "296.720", 
+   "children": [], 
+   "end": "301.960", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Zudem gibt es eine massive Einflussnahme des Iran, "
+   ]
+  }, 
+  {
+   "begin": "301.960", 
+   "children": [], 
+   "end": "307.720", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "die sich m\u00f6glicherweise auf die n\u00e4chsten Wahlen im Irak auswirkt. "
+   ]
+  }, 
+  {
+   "begin": "307.720", 
+   "children": [], 
+   "end": "310.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "K\u00f6nnen Sie ausschlie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "310.440", 
+   "children": [], 
+   "end": "314.000", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in ein paar Monaten feststellen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "314.000", 
+   "children": [], 
+   "end": "319.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Soldaten die Falschen ausgebildet haben? "
+   ]
+  }, 
+  {
+   "begin": "319.000", 
+   "children": [], 
+   "end": "326.160", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Meine Fraktion will zuerst die volle Einsatzbereitschaft unserer Bundeswehr, "
+   ]
+  }, 
+  {
+   "begin": "326.160", 
+   "children": [], 
+   "end": "328.680", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "bevor das n\u00e4chste Mandat beginnt. "
+   ]
+  }, 
+  {
+   "begin": "328.680", 
+   "children": [], 
+   "end": "330.640", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie die melden k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "330.640", 
+   "children": [], 
+   "end": "332.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "332.360", 
+   "children": [], 
+   "end": "337.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "dann k\u00f6nnen wir unsere Soldaten in Eins\u00e4tze schicken, "
+   ]
+  }, 
+  {
+   "begin": "337.760", 
+   "children": [], 
+   "end": "340.760", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "auch in Kampfeins\u00e4tze."
+   ]
+  }, 
+  {
+   "begin": "340.760", 
+   "children": [], 
+   "end": "343.680", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "An das Parlament gerichtet: "
+   ]
+  }, 
+  {
+   "begin": "343.680", 
+   "children": [], 
+   "end": "345.800", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Es reicht nicht aus, "
+   ]
+  }, 
+  {
+   "begin": "345.800", 
+   "children": [], 
+   "end": "357.640", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "an ein paar Tagen des Jahres den unbekannten Soldaten mit lauwarmen Worten zu langweilen und sich eine gelbe Schleife anzustecken."
+   ]
+  }, 
+  {
+   "begin": "357.640", 
+   "children": [], 
+   "end": "359.160", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Die Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "359.160", 
+   "children": [], 
+   "end": "365.320", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "die Sie in Eins\u00e4tze schicken, "
+   ]
+  }, 
+  {
+   "begin": "365.320", 
+   "children": [], 
+   "end": "367.720", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "brauchen einen klaren Auftrag, "
+   ]
+  }, 
+  {
+   "begin": "367.720", 
+   "children": [], 
+   "end": "371.040", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Vollausstattung und eine robuste Ausbildung. "
+   ]
+  }, 
+  {
+   "begin": "371.040", 
+   "children": [], 
+   "end": "372.920", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re der richtige Dank."
+   ]
+  }, 
+  {
+   "begin": "372.920", 
+   "children": [], 
+   "end": "382.440", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Alexander Graf Lambsdorff, "
+   ]
+  }, 
+  {
+   "begin": "382.440", 
+   "children": [], 
+   "end": "383.760", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "FDP."
+   ]
+  }
+ ]
+}

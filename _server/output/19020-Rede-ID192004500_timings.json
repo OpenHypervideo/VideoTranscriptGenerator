@@ -1,0 +1,794 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "children": [], 
+   "end": "10.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "children": [], 
+   "end": "14.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "14.640", 
+   "children": [], 
+   "end": "21.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die Fraktion der Freien Demokraten m\u00f6chte gern die Arbeitszeiten flexibler gestalten. "
+   ]
+  }, 
+  {
+   "begin": "21.120", 
+   "children": [], 
+   "end": "23.720", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Flexibilit\u00e4t auf der Verpackung steht, "
+   ]
+  }, 
+  {
+   "begin": "23.720", 
+   "children": [], 
+   "end": "26.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "h\u00f6rt sich das zuerst einmal gut an. "
+   ]
+  }, 
+  {
+   "begin": "26.800", 
+   "children": [], 
+   "end": "32.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen aber nat\u00fcrlich die Verpackung aufmachen und uns den Inhalt etwas genauer anschauen, "
+   ]
+  }, 
+  {
+   "begin": "32.560", 
+   "children": [], 
+   "end": "35.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "gerade wenn sie von der AfD kommt"
+   ]
+  }, 
+  {
+   "begin": "35.320", 
+   "children": [], 
+   "end": "37.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0warum ich mich gerade versprochen habe, "
+   ]
+  }, 
+  {
+   "begin": "37.840", 
+   "children": [], 
+   "end": "38.560", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "erkennen Sie gleich\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "38.560", 
+   "children": [], 
+   "end": "38.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "also: "
+   ]
+  }, 
+  {
+   "begin": "38.800", 
+   "children": [], 
+   "end": "40.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "gerade wenn sie von der FDP kommt, "
+   ]
+  }, 
+  {
+   "begin": "40.240", 
+   "children": [], 
+   "end": "42.280", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "von der wir erst einmal nicht erwarten, "
+   ]
+  }, 
+  {
+   "begin": "42.280", 
+   "children": [], 
+   "end": "49.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass in erster Linie Arbeitnehmerinteressen die Triebfeder eines solchen Gesetzentwurfs sind. "
+   ]
+  }, 
+  {
+   "begin": "49.720", 
+   "children": [], 
+   "end": "53.160", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wie ich bereits zur Vorlage der Fraktion Die Linke, "
+   ]
+  }, 
+  {
+   "begin": "53.160", 
+   "children": [], 
+   "end": "54.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die zum Ziel hat, "
+   ]
+  }, 
+  {
+   "begin": "54.120", 
+   "children": [], 
+   "end": "57.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die w\u00f6chentliche H\u00f6chstarbeitszeit auf 40\u00a0Stunden zu reduzieren, "
+   ]
+  }, 
+  {
+   "begin": "57.240", 
+   "children": [], 
+   "end": "58.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "ausf\u00fchrte, "
+   ]
+  }, 
+  {
+   "begin": "58.760", 
+   "children": [], 
+   "end": "61.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "sind starre Arbeitszeitmodelle nicht mehr zeitgem\u00e4\u00df; "
+   ]
+  }, 
+  {
+   "begin": "61.560", 
+   "children": [], 
+   "end": "63.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "da gebe ich Ihnen v\u00f6llig recht. "
+   ]
+  }, 
+  {
+   "begin": "63.280", 
+   "children": [], 
+   "end": "72.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Besonders kleine und mittelst\u00e4ndische Betriebe m\u00fcssen auf schwankende Nachfrage und kurzfristige Trends mit flexiblem Personaleinsatz reagieren k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "72.600", 
+   "children": [], 
+   "end": "74.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Im Dienstleistungssektor und in Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "74.800", 
+   "children": [], 
+   "end": "77.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die besonders von der Digitalisierung betroffen sind, "
+   ]
+  }, 
+  {
+   "begin": "77.680", 
+   "children": [], 
+   "end": "81.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "wird eine Flexibilisierung der t\u00e4glichen Arbeitszeit gebraucht. "
+   ]
+  }, 
+  {
+   "begin": "81.800", 
+   "children": [], 
+   "end": "83.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Daher freut es mich besonders, "
+   ]
+  }, 
+  {
+   "begin": "83.280", 
+   "children": [], 
+   "end": "90.800", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass die Fraktion der FDP scheinbar meinen vorgenannten Ausf\u00fchrungen gut zugeh\u00f6rt hat und jetzt dazu einen Gesetzentwurf einbringt."
+   ]
+  }, 
+  {
+   "begin": "90.800", 
+   "children": [], 
+   "end": "97.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Bei genauer Betrachtung des Gesetzentwurfs der FDP f\u00e4llt aber nat\u00fcrlich schnell auf, "
+   ]
+  }, 
+  {
+   "begin": "97.720", 
+   "children": [], 
+   "end": "107.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass die FDP auf der einen Seite von Flexibilit\u00e4t und Zukunft redet und auf der anderen Seite mit dem Ausverkauf seit Jahren garantierter Arbeitnehmerrechte beginnt."
+   ]
+  }, 
+  {
+   "begin": "107.520", 
+   "children": [], 
+   "end": "110.200", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen der FDP, "
+   ]
+  }, 
+  {
+   "begin": "110.200", 
+   "children": [], 
+   "end": "113.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen schon beide Seiten der Medaille betrachten, "
+   ]
+  }, 
+  {
+   "begin": "113.200", 
+   "children": [], 
+   "end": "115.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie mit Ihrer Vorlage Erfolg haben wollen. "
+   ]
+  }, 
+  {
+   "begin": "115.800", 
+   "children": [], 
+   "end": "117.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Es liegt in unserer Verantwortung, "
+   ]
+  }, 
+  {
+   "begin": "117.800", 
+   "children": [], 
+   "end": "122.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "das Arbeitsrecht so zu gestalten, "
+   ]
+  }, 
+  {
+   "begin": "122.640", 
+   "children": [], 
+   "end": "127.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass die Arbeitnehmer dauerhaft gesund bleiben."
+   ]
+  }, 
+  {
+   "begin": "127.400", 
+   "children": [], 
+   "end": "133.640", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Daher ist die Festlegung von regelm\u00e4\u00dfigen Ruhezeiten und Pausen eminent wichtig."
+   ]
+  }, 
+  {
+   "begin": "133.640", 
+   "children": [], 
+   "end": "135.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte kurz darauf hinweisen, "
+   ]
+  }, 
+  {
+   "begin": "135.400", 
+   "children": [], 
+   "end": "140.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass die amerikanische National Health Foundation\u00a02016 Richtlinien ver\u00f6ffentlicht hat, "
+   ]
+  }, 
+  {
+   "begin": "140.120", 
+   "children": [], 
+   "end": "140.680", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "aus denen hervorgeht, "
+   ]
+  }, 
+  {
+   "begin": "140.680", 
+   "children": [], 
+   "end": "143.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "wie viel Schlaf ein Mensch am Tag braucht. "
+   ]
+  }, 
+  {
+   "begin": "143.400", 
+   "children": [], 
+   "end": "148.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das sind sieben bis neun Stunden Mindestruhe. "
+   ]
+  }, 
+  {
+   "begin": "148.360", 
+   "children": [], 
+   "end": "150.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Die reine L\u00e4nge der Arbeitszeit pro Woche, "
+   ]
+  }, 
+  {
+   "begin": "150.320", 
+   "children": [], 
+   "end": "152.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wie von Ihnen gefordert, "
+   ]
+  }, 
+  {
+   "begin": "152.480", 
+   "children": [], 
+   "end": "158.080", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "ist somit kein guter Indikator f\u00fcr die subjektive Belastung des Arbeitnehmers. "
+   ]
+  }, 
+  {
+   "begin": "158.080", 
+   "children": [], 
+   "end": "162.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Bei der Flexibilisierung muss zwischen verschiedenen Arbeitspl\u00e4tzen, "
+   ]
+  }, 
+  {
+   "begin": "162.720", 
+   "children": [], 
+   "end": "166.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Positionen und Arbeitsaufgaben differenziert werden. "
+   ]
+  }, 
+  {
+   "begin": "166.640", 
+   "children": [], 
+   "end": "168.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Grundlegend kann man sagen, "
+   ]
+  }, 
+  {
+   "begin": "168.680", 
+   "children": [], 
+   "end": "171.080", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass eine bessere Abstimmung der Ruhe- "
+   ]
+  }, 
+  {
+   "begin": "171.080", 
+   "children": [], 
+   "end": "176.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "und Arbeitszeiten mit dem sozialen Umfeld des Arbeitnehmers w\u00fcnschenswert w\u00e4re. "
+   ]
+  }, 
+  {
+   "begin": "176.840", 
+   "children": [], 
+   "end": "177.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Da, "
+   ]
+  }, 
+  {
+   "begin": "177.640", 
+   "children": [], 
+   "end": "179.080", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wo es m\u00f6glich ist, "
+   ]
+  }, 
+  {
+   "begin": "179.080", 
+   "children": [], 
+   "end": "186.520", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "sollten individuelle Arbeitszeitregelungen unter Beachtung der gesetzlichen und der medizinischen Rahmenbedingungen Niederschlag finden."
+   ]
+  }, 
+  {
+   "begin": "186.520", 
+   "children": [], 
+   "end": "194.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Jede Art von allgemeiner Flexibilisierung wird immer Gewinner und Verlierer hervorrufen; "
+   ]
+  }, 
+  {
+   "begin": "194.120", 
+   "children": [], 
+   "end": "196.280", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "das wissen Sie genauso gut wie ich. "
+   ]
+  }, 
+  {
+   "begin": "196.280", 
+   "children": [], 
+   "end": "196.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Daher sollte, "
+   ]
+  }, 
+  {
+   "begin": "196.800", 
+   "children": [], 
+   "end": "199.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "werte Kolleginnen und Kollegen der FDP, "
+   ]
+  }, 
+  {
+   "begin": "199.720", 
+   "children": [], 
+   "end": "208.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "jede weitere Arbeitszeitflexibilisierung eine Verbesserung der Schnittmenge aus Arbeitsanforderung und Arbeitnehmerinteressen erreichen. "
+   ]
+  }, 
+  {
+   "begin": "208.680", 
+   "children": [], 
+   "end": "210.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "210.240", 
+   "children": [], 
+   "end": "213.960", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass man eine anpassungsf\u00e4hige Flexibilisierung ben\u00f6tigt. "
+   ]
+  }, 
+  {
+   "begin": "213.960", 
+   "children": [], 
+   "end": "220.080", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Die Arbeitsaufgaben der Arbeitnehmer und das betriebliche Umfeld m\u00fcssen daf\u00fcr geeignet sein. "
+   ]
+  }, 
+  {
+   "begin": "220.080", 
+   "children": [], 
+   "end": "228.040", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitszeitflexibilisierung sollte immer im gegenseitigen Einvernehmen zwischen Arbeitgeber und Arbeitnehmer erfolgen."
+   ]
+  }, 
+  {
+   "begin": "228.040", 
+   "children": [], 
+   "end": "236.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Eine Aufhebung der Ruhezeiten steht allerdings f\u00fcr die AfD nicht zur Debatte. "
+   ]
+  }, 
+  {
+   "begin": "236.960", 
+   "children": [], 
+   "end": "239.160", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Jeder Arbeitnehmer muss das Recht haben, "
+   ]
+  }, 
+  {
+   "begin": "239.160", 
+   "children": [], 
+   "end": "241.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "sich gut und ausreichend lange zu erholen, "
+   ]
+  }, 
+  {
+   "begin": "241.880", 
+   "children": [], 
+   "end": "245.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ganz egal wo und wie er arbeitet. "
+   ]
+  }, 
+  {
+   "begin": "245.840", 
+   "children": [], 
+   "end": "250.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir als AfD werden aber auch unsere Augen vor der Realit\u00e4t nicht verschlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "250.920", 
+   "children": [], 
+   "end": "256.200", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen den Wirtschaftsstandort Deutschland insgesamt st\u00e4rken und zukunftsf\u00e4hig machen. "
+   ]
+  }, 
+  {
+   "begin": "256.200", 
+   "children": [], 
+   "end": "262.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Daher stimmt die Fraktion der AfD der \u00dcberweisung des Gesetzentwurfs an den Ausschuss zu."
+   ]
+  }, 
+  {
+   "begin": "262.040", 
+   "children": [], 
+   "end": "262.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Aber eines, "
+   ]
+  }, 
+  {
+   "begin": "262.600", 
+   "children": [], 
+   "end": "263.240", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "263.240", 
+   "children": [], 
+   "end": "264.880", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "kann ich Ihnen schon vorher sagen: "
+   ]
+  }, 
+  {
+   "begin": "264.880", 
+   "children": [], 
+   "end": "270.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie die Zustimmung der AfD-Fraktion zu einer Neuregelung der Arbeitszeit haben m\u00f6chten, "
+   ]
+  }, 
+  {
+   "begin": "270.560", 
+   "children": [], 
+   "end": "271.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen Sie ein Paket schn\u00fcren, "
+   ]
+  }, 
+  {
+   "begin": "271.840", 
+   "children": [], 
+   "end": "274.120", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "auf dem nicht nur \u201eFlexibilit\u00e4t\u201c steht, "
+   ]
+  }, 
+  {
+   "begin": "274.120", 
+   "children": [], 
+   "end": "288.440", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "sondern dann muss dieses Paket auch das Pr\u00e4dikat \u201e100\u00a0Prozent arbeitnehmerfreundlich\u201c haben."
+   ]
+  }, 
+  {
+   "begin": "288.440", 
+   "children": [], 
+   "end": "289.200", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "289.200", 
+   "children": [], 
+   "end": "289.960", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "289.960", 
+   "children": [], 
+   "end": "290.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin: "
+   ]
+  }, 
+  {
+   "begin": "290.360", 
+   "children": [], 
+   "end": "292.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Susanne Ferschl f\u00fcr die Fraktion Die Linke."
+   ]
+  }, 
+  {
+   "begin": "292.960", 
+   "children": [], 
+   "end": "294.000", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Sie kommt aus dem Allg\u00e4u."
+   ]
+  }
+ ]
+}

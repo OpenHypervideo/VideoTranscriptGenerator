@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.600", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.600", 
+   "children": [], 
+   "end": "11.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.040", 
+   "children": [], 
+   "end": "12.280", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "12.280", 
+   "children": [], 
+   "end": "13.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere von den Gr\u00fcnen!"
+   ]
+  }, 
+  {
+   "begin": "13.840", 
+   "children": [], 
+   "end": "15.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wasser ist unsere Lebensgrundlage. "
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "children": [], 
+   "end": "18.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Trinkwasser ist zudem unser wichtigstes Lebensmittel."
+   ]
+  }, 
+  {
+   "begin": "18.800", 
+   "children": [], 
+   "end": "19.520", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "19.520", 
+   "children": [], 
+   "end": "25.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "diesen ersten Worten Ihres Antrags wird jeder in Deutschland ganz allgemein zustimmen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "25.840", 
+   "children": [], 
+   "end": "30.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Leider wird der Rest Ihres Antrages diesem wichtigen Thema nicht gerecht."
+   ]
+  }, 
+  {
+   "begin": "30.080", 
+   "children": [], 
+   "end": "30.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "30.800", 
+   "children": [], 
+   "end": "36.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "er wird auch Ihrem Anspruch an eine vern\u00fcnftige Politik nicht gerecht."
+   ]
+  }, 
+  {
+   "begin": "36.880", 
+   "children": [], 
+   "end": "38.600", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich stimme Ihnen sogar zu, "
+   ]
+  }, 
+  {
+   "begin": "38.600", 
+   "children": [], 
+   "end": "40.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in diesem Bereich mehr Forschung und mehr Wissen brauchen. "
+   ]
+  }, 
+  {
+   "begin": "40.760", 
+   "children": [], 
+   "end": "42.640", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen mehr Informationen dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "42.640", 
+   "children": [], 
+   "end": "43.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "woher die Keime kommen, "
+   ]
+  }, 
+  {
+   "begin": "43.760", 
+   "children": [], 
+   "end": "45.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wie gef\u00e4hrlich sie sind und, "
+   ]
+  }, 
+  {
+   "begin": "45.200", 
+   "children": [], 
+   "end": "46.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "falls sie gef\u00e4hrlich sind, "
+   ]
+  }, 
+  {
+   "begin": "46.160", 
+   "children": [], 
+   "end": "48.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wie wir sie zumindest so weit wie m\u00f6glich verringern k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "48.960", 
+   "children": [], 
+   "end": "51.840", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Da wurde in den letzten Jahren viel zu wenig getan; "
+   ]
+  }, 
+  {
+   "begin": "51.840", 
+   "children": [], 
+   "end": "53.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "denn das Problem ist ja nicht neu. "
+   ]
+  }, 
+  {
+   "begin": "53.400", 
+   "children": [], 
+   "end": "53.960", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Im Gegensatz zu dem, "
+   ]
+  }, 
+  {
+   "begin": "53.960", 
+   "children": [], 
+   "end": "55.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "was der Vertreter der AfD gerade gesagt hat, "
+   ]
+  }, 
+  {
+   "begin": "55.680", 
+   "children": [], 
+   "end": "57.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ist es sp\u00e4testens seit 2012, "
+   ]
+  }, 
+  {
+   "begin": "57.880", 
+   "children": [], 
+   "end": "62.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "als Schweizer Forscher multiresistente Keime im Genfer See festgestellt haben, "
+   ]
+  }, 
+  {
+   "begin": "62.120", 
+   "children": [], 
+   "end": "65.840", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "auch auf der politischen B\u00fchne als Problem bekannt. "
+   ]
+  }, 
+  {
+   "begin": "65.840", 
+   "children": [], 
+   "end": "72.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Die Ergebnisse der NDR-Studie sind von daher auch ein Auftrag an die neue Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "72.400", 
+   "children": [], 
+   "end": "76.960", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Forschung und Austausch mit den Bundesl\u00e4ndern endlich intensiv voranzutreiben."
+   ]
+  }, 
+  {
+   "begin": "76.960", 
+   "children": [], 
+   "end": "81.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Das eigentliche Thema dieses Antrags ist aber ein v\u00f6llig anderes. "
+   ]
+  }, 
+  {
+   "begin": "81.280", 
+   "children": [], 
+   "end": "82.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Sie erw\u00e4hnen zwar, "
+   ]
+  }, 
+  {
+   "begin": "82.160", 
+   "children": [], 
+   "end": "83.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass wir mehr Wissen und mehr Forschung brauchen. "
+   ]
+  }, 
+  {
+   "begin": "83.840", 
+   "children": [], 
+   "end": "85.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig tun Sie aber so, "
+   ]
+  }, 
+  {
+   "begin": "85.760", 
+   "children": [], 
+   "end": "87.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "als seien Ihnen die Zusammenh\u00e4nge, "
+   ]
+  }, 
+  {
+   "begin": "87.200", 
+   "children": [], 
+   "end": "90.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Verursacher und Folgen schon v\u00f6llig bewusst. "
+   ]
+  }, 
+  {
+   "begin": "90.200", 
+   "children": [], 
+   "end": "90.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "90.600", 
+   "children": [], 
+   "end": "93.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wie gerne Sie Gr\u00fcne jede B\u00fchne dazu nutzen, "
+   ]
+  }, 
+  {
+   "begin": "93.560", 
+   "children": [], 
+   "end": "96.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "um sich an Ihren alten Feindbildern abzuarbeiten."
+   ]
+  }, 
+  {
+   "begin": "96.160", 
+   "children": [], 
+   "end": "101.000", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Fall trifft es insbesondere die Landwirte und Mediziner. "
+   ]
+  }, 
+  {
+   "begin": "101.000", 
+   "children": [], 
+   "end": "104.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Aber lassen Sie uns doch bitte keine vorschnellen Urteile f\u00e4llen. "
+   ]
+  }, 
+  {
+   "begin": "104.720", 
+   "children": [], 
+   "end": "106.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Glauben Sie denn im Ernst, "
+   ]
+  }, 
+  {
+   "begin": "106.440", 
+   "children": [], 
+   "end": "115.040", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass auch nur ein einziger Landwirt absichtlich unserer Umwelt schadet oder unser Wasser verunreinigen will?"
+   ]
+  }, 
+  {
+   "begin": "115.040", 
+   "children": [], 
+   "end": "116.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Andersherum bedeutet das aber nat\u00fcrlich nicht, "
+   ]
+  }, 
+  {
+   "begin": "116.760", 
+   "children": [], 
+   "end": "119.560", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass wir keine problematischen Eintr\u00e4ge haben. "
+   ]
+  }, 
+  {
+   "begin": "119.560", 
+   "children": [], 
+   "end": "121.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen ganz klar: "
+   ]
+  }, 
+  {
+   "begin": "121.800", 
+   "children": [], 
+   "end": "129.480", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber Beispiele wie den Einsatz von Antibiotika in der Landwirtschaft oder auch \u00fcber Verpackungsgr\u00f6\u00dfen in der Humanmedizin m\u00fcssen wir reden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "129.480", 
+   "children": [], 
+   "end": "133.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "aber doch bitte in einem vern\u00fcnftigen Dialog mit den Beteiligten, "
+   ]
+  }, 
+  {
+   "begin": "133.600", 
+   "children": [], 
+   "end": "135.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "den Stakeholdern und Akteuren, "
+   ]
+  }, 
+  {
+   "begin": "135.520", 
+   "children": [], 
+   "end": "137.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "und nicht in einem Antrag, "
+   ]
+  }, 
+  {
+   "begin": "137.240", 
+   "children": [], 
+   "end": "139.240", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "in dem es um Oberfl\u00e4chengew\u00e4sser geht."
+   ]
+  }, 
+  {
+   "begin": "139.240", 
+   "children": [], 
+   "end": "140.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "140.240", 
+   "children": [], 
+   "end": "146.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "was mich an diesem Antrag ganz besonders st\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "146.640", 
+   "children": [], 
+   "end": "146.800", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "146.800", 
+   "children": [], 
+   "end": "150.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wie dieses so wichtige Thema f\u00fcr billigen Populismus genutzt wird."
+   ]
+  }, 
+  {
+   "begin": "150.840", 
+   "children": [], 
+   "end": "152.600", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Sie tun doch gerade so, "
+   ]
+  }, 
+  {
+   "begin": "152.600", 
+   "children": [], 
+   "end": "154.600", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "als ob Leib und Leben in Gefahr sei, "
+   ]
+  }, 
+  {
+   "begin": "154.600", 
+   "children": [], 
+   "end": "156.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "sobald wir in einen See oder Fluss springen. "
+   ]
+  }, 
+  {
+   "begin": "156.720", 
+   "children": [], 
+   "end": "157.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Dabei sind die Keime, "
+   ]
+  }, 
+  {
+   "begin": "157.760", 
+   "children": [], 
+   "end": "159.280", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die der NDR gefunden hat, "
+   ]
+  }, 
+  {
+   "begin": "159.280", 
+   "children": [], 
+   "end": "162.000", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die allermeisten von uns erst einmal nicht sch\u00e4dlich, "
+   ]
+  }, 
+  {
+   "begin": "162.000", 
+   "children": [], 
+   "end": "162.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "es sei denn, "
+   ]
+  }, 
+  {
+   "begin": "162.840", 
+   "children": [], 
+   "end": "164.800", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wir sind immungeschw\u00e4cht. "
+   ]
+  }, 
+  {
+   "begin": "164.800", 
+   "children": [], 
+   "end": "168.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Aber dann sollten wir vielleicht auch nicht in einen Badesee springen."
+   ]
+  }, 
+  {
+   "begin": "168.560", 
+   "children": [], 
+   "end": "170.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem ist es v\u00f6llig unangebracht, "
+   ]
+  }, 
+  {
+   "begin": "170.800", 
+   "children": [], 
+   "end": "173.840", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie mit der Sorge der Menschen um unser Trinkwasser spielen; "
+   ]
+  }, 
+  {
+   "begin": "173.840", 
+   "children": [], 
+   "end": "175.000", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "denn Sie wissen ganz genau: "
+   ]
+  }, 
+  {
+   "begin": "175.000", 
+   "children": [], 
+   "end": "179.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Multiresistente Keime in unseren Oberfl\u00e4chengew\u00e4ssern bedeuten nicht automatisch eine Gefahr f\u00fcr das Trinkwasser. "
+   ]
+  }, 
+  {
+   "begin": "179.440", 
+   "children": [], 
+   "end": "185.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Von daher sind Schnellsch\u00fcsse wie Ihre Forderung nach einer vierten Kl\u00e4rstufe auch v\u00f6llig unangebracht; "
+   ]
+  }, 
+  {
+   "begin": "185.240", 
+   "children": [], 
+   "end": "186.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "denn \u201ees wird davon ausgegangen, "
+   ]
+  }, 
+  {
+   "begin": "186.720", 
+   "children": [], 
+   "end": "200.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass eine vollst\u00e4ndige Beseitigung multiresistenter Erreger in kommunalen Kl\u00e4ranlagen mit vertretbarem Aufwand nicht m\u00f6glich ist und im Hinblick auf den derzeitigen Kenntnisstand \u00fcber die Entstehung und Verbreitung solcher Keime auch nicht angemessen w\u00e4re\u201c. "
+   ]
+  }, 
+  {
+   "begin": "200.560", 
+   "children": [], 
+   "end": "203.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Sollten Sie mir das als FDPler nicht glauben wollen, "
+   ]
+  }, 
+  {
+   "begin": "203.400", 
+   "children": [], 
+   "end": "205.880", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie sich hoffentlich von einem Parteikollegen \u00fcberzeugen: "
+   ]
+  }, 
+  {
+   "begin": "205.880", 
+   "children": [], 
+   "end": "207.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Franz Untersteller,"
+   ]
+  }, 
+  {
+   "begin": "207.200", 
+   "children": [], 
+   "end": "209.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "der Umweltminister von Baden-W\u00fcrttemberg, "
+   ]
+  }, 
+  {
+   "begin": "209.160", 
+   "children": [], 
+   "end": "215.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "antwortete n\u00e4mlich genau mit diesem Satz auf eine Kleine Anfrage der FDP im Februar dieses Jahres."
+   ]
+  }, 
+  {
+   "begin": "215.000", 
+   "children": [], 
+   "end": "215.400", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Also, "
+   ]
+  }, 
+  {
+   "begin": "215.400", 
+   "children": [], 
+   "end": "216.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "216.000", 
+   "children": [], 
+   "end": "217.120", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie uns dar\u00fcber diskutieren, "
+   ]
+  }, 
+  {
+   "begin": "217.120", 
+   "children": [], 
+   "end": "218.640", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "was gute Wasserqualit\u00e4t ist. "
+   ]
+  }, 
+  {
+   "begin": "218.640", 
+   "children": [], 
+   "end": "220.800", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns dar\u00fcber diskutieren, "
+   ]
+  }, 
+  {
+   "begin": "220.800", 
+   "children": [], 
+   "end": "222.600", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "was in welchem Kontext getan werden muss. "
+   ]
+  }, 
+  {
+   "begin": "222.600", 
+   "children": [], 
+   "end": "227.800", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns auf wissenschaftlicher Grundlage vern\u00fcnftige und smarte Umweltpolitik machen."
+   ]
+  }, 
+  {
+   "begin": "227.800", 
+   "children": [], 
+   "end": "234.800", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns aber bitte gerade bei einem so wichtigen Thema hier nicht reinen Populismus als Teil unserer Politik nutzen, "
+   ]
+  }, 
+  {
+   "begin": "234.800", 
+   "children": [], 
+   "end": "237.520", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "sondern lassen Sie uns zu sinnvollen Antr\u00e4gen kommen."
+   ]
+  }, 
+  {
+   "begin": "237.520", 
+   "children": [], 
+   "end": "240.880", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Auf jeden Fall ist das Thema Wasser einfach zu wichtig, "
+   ]
+  }, 
+  {
+   "begin": "240.880", 
+   "children": [], 
+   "end": "242.960", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "um \u00c4ngste zu sch\u00fcren und Panik zu verbreiten. "
+   ]
+  }, 
+  {
+   "begin": "242.960", 
+   "children": [], 
+   "end": "245.160", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb lassen Sie uns das Thema so behandeln, "
+   ]
+  }, 
+  {
+   "begin": "245.160", 
+   "children": [], 
+   "end": "247.400", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dass wir seiner Bedeutung und der Verantwortung, "
+   ]
+  }, 
+  {
+   "begin": "247.400", 
+   "children": [], 
+   "end": "248.440", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "die wir daf\u00fcr in diesem Hause haben, "
+   ]
+  }, 
+  {
+   "begin": "248.440", 
+   "children": [], 
+   "end": "249.080", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "gerecht werden."
+   ]
+  }, 
+  {
+   "begin": "249.080", 
+   "children": [], 
+   "end": "250.240", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Vielen lieben Dank."
+   ]
+  }, 
+  {
+   "begin": "250.240", 
+   "children": [], 
+   "end": "251.640", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Herr Dr.\u00a0K\u00f6hler, "
+   ]
+  }, 
+  {
+   "begin": "251.640", 
+   "children": [], 
+   "end": "254.760", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "auch dies war eine Punktlandung, "
+   ]
+  }, 
+  {
+   "begin": "254.760", 
+   "children": [], 
+   "end": "256.960", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "wenn ich das so sagen darf. "
+   ]
+  }, 
+  {
+   "begin": "256.960", 
+   "children": [], 
+   "end": "258.080", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank daf\u00fcr."
+   ]
+  }, 
+  {
+   "begin": "258.080", 
+   "children": [], 
+   "end": "265.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes hat f\u00fcr die Fraktion Die Linke der Kollege Ralph Lenkert das Wort."
+   ]
+  }
+ ]
+}

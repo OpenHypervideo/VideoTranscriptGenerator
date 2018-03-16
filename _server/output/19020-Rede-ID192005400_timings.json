@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "children": [], 
+   "end": "18.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "children": [], 
+   "end": "24.120", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die betriebliche Mitbestimmung ist einer der gr\u00f6\u00dften sozialpolitischen Erfolge in unserem Land. "
+   ]
+  }, 
+  {
+   "begin": "24.120", 
+   "children": [], 
+   "end": "27.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist die tragende S\u00e4ule der sozialen Marktwirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "27.440", 
+   "children": [], 
+   "end": "28.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Kurz: "
+   ]
+  }, 
+  {
+   "begin": "28.000", 
+   "children": [], 
+   "end": "32.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist Voraussetzung und Ausdruck einer zutiefst demokratischen Wirtschafts- "
+   ]
+  }, 
+  {
+   "begin": "32.520", 
+   "children": [], 
+   "end": "34.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und Arbeitskultur. "
+   ]
+  }, 
+  {
+   "begin": "34.120", 
+   "children": [], 
+   "end": "40.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die betriebliche Mitbestimmung sichert das Recht auf ein selbstbestimmtes Leben in der Arbeitswelt. "
+   ]
+  }, 
+  {
+   "begin": "40.000", 
+   "children": [], 
+   "end": "43.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist konstitutiv f\u00fcr den Erfolg unserer Wirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "43.960", 
+   "children": [], 
+   "end": "47.280", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "weil sie den sozialen Frieden sichert. "
+   ]
+  }, 
+  {
+   "begin": "47.280", 
+   "children": [], 
+   "end": "50.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Folglich z\u00e4hlt es zu den vornehmsten Aufgaben der Politik, "
+   ]
+  }, 
+  {
+   "begin": "50.760", 
+   "children": [], 
+   "end": "59.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die betriebliche Mitbestimmung f\u00fcr alle Arbeitnehmer zu wahren und zu verteidigen."
+   ]
+  }, 
+  {
+   "begin": "59.560", 
+   "children": [], 
+   "end": "60.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das schlie\u00dft ein, "
+   ]
+  }, 
+  {
+   "begin": "60.840", 
+   "children": [], 
+   "end": "62.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die rechtliche Regelung zu \u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "62.680", 
+   "children": [], 
+   "end": "63.720", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wenn dies notwendig ist, "
+   ]
+  }, 
+  {
+   "begin": "63.720", 
+   "children": [], 
+   "end": "64.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und wir m\u00fcssen pr\u00fcfen, "
+   ]
+  }, 
+  {
+   "begin": "64.840", 
+   "children": [], 
+   "end": "66.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "ob es so weit ist."
+   ]
+  }, 
+  {
+   "begin": "66.280", 
+   "children": [], 
+   "end": "71.920", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Vor dem Hintergrund dieses Anspruchs ist der Antrag der Fraktion Die Linke zu beleuchten; "
+   ]
+  }, 
+  {
+   "begin": "71.920", 
+   "children": [], 
+   "end": "72.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "aber er ist leider, "
+   ]
+  }, 
+  {
+   "begin": "72.800", 
+   "children": [], 
+   "end": "74.560", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wie Antr\u00e4ge in den letzten Jahren zuvor, "
+   ]
+  }, 
+  {
+   "begin": "74.560", 
+   "children": [], 
+   "end": "75.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "nicht zielf\u00fchrend. "
+   ]
+  }, 
+  {
+   "begin": "75.080", 
+   "children": [], 
+   "end": "76.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "76.040", 
+   "children": [], 
+   "end": "81.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Die im Antrag gestellten Forderungen gehen teilweise an den tats\u00e4chlichen Problemen der Arbeitnehmer vorbei. "
+   ]
+  }, 
+  {
+   "begin": "81.120", 
+   "children": [], 
+   "end": "82.200", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "82.200", 
+   "children": [], 
+   "end": "88.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "In dem Antrag wird der deutsche Mittelstand als Arbeitnehmerfeind Nummer eins bezeichnet und unter Generalverdacht gestellt. "
+   ]
+  }, 
+  {
+   "begin": "88.880", 
+   "children": [], 
+   "end": "89.960", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "89.960", 
+   "children": [], 
+   "end": "94.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag ersch\u00f6pft sich im blanken Lobbyismus f\u00fcr die Altgewerkschaften."
+   ]
+  }, 
+  {
+   "begin": "94.680", 
+   "children": [], 
+   "end": "95.120", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "95.120", 
+   "children": [], 
+   "end": "96.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen von den Linken, "
+   ]
+  }, 
+  {
+   "begin": "96.760", 
+   "children": [], 
+   "end": "102.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "geht es in diesem Antrag meines Erachtens prim\u00e4r nicht um die Verbesserung der Mitbestimmung. "
+   ]
+  }, 
+  {
+   "begin": "102.120", 
+   "children": [], 
+   "end": "103.240", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie fordern, "
+   ]
+  }, 
+  {
+   "begin": "103.240", 
+   "children": [], 
+   "end": "107.880", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass bereits Wahlvorst\u00e4nde externen Sachverstand bestellen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "107.880", 
+   "children": [], 
+   "end": "111.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "ohne dass sie dies mit dem Arbeitgeber vereinbaren m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "111.760", 
+   "children": [], 
+   "end": "119.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dann wollen Sie eigentlich nur den Genossen in den Gewerkschaften zus\u00e4tzliche Posten als Sachverst\u00e4ndige verschaffen."
+   ]
+  }, 
+  {
+   "begin": "119.400", 
+   "children": [], 
+   "end": "126.800", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Es ist eine mutige Aussage, "
+   ]
+  }, 
+  {
+   "begin": "126.800", 
+   "children": [], 
+   "end": "130.440", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass ich keine Ahnung habe. "
+   ]
+  }, 
+  {
+   "begin": "130.440", 
+   "children": [], 
+   "end": "131.040", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "131.040", 
+   "children": [], 
+   "end": "134.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben sich auf diese Zwischenrufe vorbereitet. "
+   ]
+  }, 
+  {
+   "begin": "134.720", 
+   "children": [], 
+   "end": "137.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df: "
+   ]
+  }, 
+  {
+   "begin": "137.240", 
+   "children": [], 
+   "end": "141.920", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Mit der Arbeitsbeschaffung f\u00fcr die Altgewerkschaften kann man finanzielle L\u00f6cher stopfen, "
+   ]
+  }, 
+  {
+   "begin": "141.920", 
+   "children": [], 
+   "end": "143.560", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "die dadurch entstanden sind, "
+   ]
+  }, 
+  {
+   "begin": "143.560", 
+   "children": [], 
+   "end": "145.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass denen die Mitglieder weglaufen. "
+   ]
+  }, 
+  {
+   "begin": "145.600", 
+   "children": [], 
+   "end": "148.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Doch es ist nicht Ihre Aufgabe, "
+   ]
+  }, 
+  {
+   "begin": "148.040", 
+   "children": [], 
+   "end": "150.360", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "denen Arbeit und Brot zu verschaffen."
+   ]
+  }, 
+  {
+   "begin": "150.360", 
+   "children": [], 
+   "end": "152.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das ist vor allem auch falsch. "
+   ]
+  }, 
+  {
+   "begin": "152.560", 
+   "children": [], 
+   "end": "157.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr helfen Sie mit Ihrer Politik jenen Leuten in den Organisationen wie Verdi, "
+   ]
+  }, 
+  {
+   "begin": "157.640", 
+   "children": [], 
+   "end": "164.160", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die in den Betrieben zur Denunziation von Kollegen aufrufen, "
+   ]
+  }, 
+  {
+   "begin": "164.160", 
+   "children": [], 
+   "end": "166.320", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die mit der AfD sympathisieren."
+   ]
+  }, 
+  {
+   "begin": "166.320", 
+   "children": [], 
+   "end": "168.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Das hatten wir doch schon einmal, "
+   ]
+  }, 
+  {
+   "begin": "168.760", 
+   "children": [], 
+   "end": "171.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Kollegen von den Linken. "
+   ]
+  }, 
+  {
+   "begin": "171.680", 
+   "children": [], 
+   "end": "172.400", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Sie denken dran, "
+   ]
+  }, 
+  {
+   "begin": "172.400", 
+   "children": [], 
+   "end": "174.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass Ihre W\u00e4hler heute mitschauen. "
+   ]
+  }, 
+  {
+   "begin": "174.840", 
+   "children": [], 
+   "end": "177.120", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie die Wahrheit niederrufen wollen, "
+   ]
+  }, 
+  {
+   "begin": "177.120", 
+   "children": [], 
+   "end": "177.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "bitte sch\u00f6n!"
+   ]
+  }, 
+  {
+   "begin": "177.880", 
+   "children": [], 
+   "end": "180.040", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen mit den Konsequenzen leben.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "180.040", 
+   "children": [], 
+   "end": "184.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Sie helfen mit Ihrer Politik jenen Funktion\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "184.120", 
+   "children": [], 
+   "end": "187.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die kalt l\u00e4chelnd Millionenabfindungen abnicken"
+   ]
+  }, 
+  {
+   "begin": "187.840", 
+   "children": [], 
+   "end": "192.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "und gleichzeitig die eigenen Mitglieder in die Arbeitslosigkeit schicken."
+   ]
+  }, 
+  {
+   "begin": "192.400", 
+   "children": [], 
+   "end": "195.720", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Sie machen Politik f\u00fcr die Vertreter der Altgewerkschaften, "
+   ]
+  }, 
+  {
+   "begin": "195.720", 
+   "children": [], 
+   "end": "200.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die selbst durch Bonizahlungen und Gehaltszahlungen korrumpiert worden sind."
+   ]
+  }, 
+  {
+   "begin": "200.360", 
+   "children": [], 
+   "end": "203.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig klagen Sie den Mittelstand an. "
+   ]
+  }, 
+  {
+   "begin": "203.040", 
+   "children": [], 
+   "end": "209.760", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Sie belasten die wichtigsten Arbeitgeber in unserem Land mit zus\u00e4tzlicher B\u00fcrokratie und zus\u00e4tzlichen Kosten. "
+   ]
+  }, 
+  {
+   "begin": "209.760", 
+   "children": [], 
+   "end": "212.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen fehlt es an marktwirtschaftlichem Grundverst\u00e4ndnis. "
+   ]
+  }, 
+  {
+   "begin": "212.880", 
+   "children": [], 
+   "end": "220.400", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Anders als die Konzerne und Ihre korrumpierten Betriebsratschefs haben die Mittelst\u00e4ndler ein \u00fcberlebenswichtiges Selbstinteresse, "
+   ]
+  }, 
+  {
+   "begin": "220.400", 
+   "children": [], 
+   "end": "225.680", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass ihre Unternehmen und damit ihre Arbeitspl\u00e4tze in Deutschland erhalten bleiben. "
+   ]
+  }, 
+  {
+   "begin": "225.680", 
+   "children": [], 
+   "end": "230.120", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Mittelst\u00e4ndler sind die Garanten f\u00fcr den Wohlstand in diesem Land."
+   ]
+  }, 
+  {
+   "begin": "230.120", 
+   "children": [], 
+   "end": "232.400", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen auf der linken Seite, "
+   ]
+  }, 
+  {
+   "begin": "232.400", 
+   "children": [], 
+   "end": "234.640", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben offenbar immer noch nicht begriffen, "
+   ]
+  }, 
+  {
+   "begin": "234.640", 
+   "children": [], 
+   "end": "237.880", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass Mitbestimmung nicht gegen, "
+   ]
+  }, 
+  {
+   "begin": "237.880", 
+   "children": [], 
+   "end": "242.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "sondern nur im Dialog mit dem Mittelstand zum Wohl aller gelebt werden kann."
+   ]
+  }, 
+  {
+   "begin": "242.640", 
+   "children": [], 
+   "end": "249.440", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Damit dieses Verst\u00e4ndnis einer kooperativen und nicht feindlichen Mitbestimmung auch in die Betriebe transportiert wird, "
+   ]
+  }, 
+  {
+   "begin": "249.440", 
+   "children": [], 
+   "end": "251.080", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "sind wir als AfD, "
+   ]
+  }, 
+  {
+   "begin": "251.080", 
+   "children": [], 
+   "end": "253.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "als neue Volkspartei,"
+   ]
+  }, 
+  {
+   "begin": "253.040", 
+   "children": [], 
+   "end": "253.880", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "froh, "
+   ]
+  }, 
+  {
+   "begin": "253.880", 
+   "children": [], 
+   "end": "258.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass es endlich ernstzunehmende Alternativen zu den Altgewerkschaften gibt. "
+   ]
+  }, 
+  {
+   "begin": "258.600", 
+   "children": [], 
+   "end": "261.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Ich meine zum Beispiel ALARM!, "
+   ]
+  }, 
+  {
+   "begin": "261.400", 
+   "children": [], 
+   "end": "263.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "eine Gewerkschaftsorganisation, "
+   ]
+  }, 
+  {
+   "begin": "263.360", 
+   "children": [], 
+   "end": "265.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "die keinen Arbeitnehmer ausschlie\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "265.960", 
+   "children": [], 
+   "end": "268.840", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "nur weil er eine andere politische Meinung hat. "
+   ]
+  }, 
+  {
+   "begin": "268.840", 
+   "children": [], 
+   "end": "270.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Solche Organisationen, "
+   ]
+  }, 
+  {
+   "begin": "270.600", 
+   "children": [], 
+   "end": "275.760", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "solche neuen Arbeitnehmervertretungen k\u00f6nnen die Betriebsr\u00e4te der Zukunft sein. "
+   ]
+  }, 
+  {
+   "begin": "275.760", 
+   "children": [], 
+   "end": "278.120", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden Mitbestimmung weiter st\u00e4rken. "
+   ]
+  }, 
+  {
+   "begin": "278.120", 
+   "children": [], 
+   "end": "284.840", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag der Linken verringert die logistischen und organisatorischen H\u00fcrden f\u00fcr diese neuen Arbeitnehmervertreter. "
+   ]
+  }, 
+  {
+   "begin": "284.840", 
+   "children": [], 
+   "end": "286.840", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist Ihrem Antrag zuzustimmen."
+   ]
+  }, 
+  {
+   "begin": "286.840", 
+   "children": [], 
+   "end": "287.640", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "287.640", 
+   "children": [], 
+   "end": "289.680", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Pohl, "
+   ]
+  }, 
+  {
+   "begin": "289.680", 
+   "children": [], 
+   "end": "295.080", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "das war nicht nur eine Punktlandung, "
+   ]
+  }, 
+  {
+   "begin": "295.080", 
+   "children": [], 
+   "end": "298.480", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "sondern Sie haben sogar eine Minute Ihrer Redezeit nicht ausgenutzt. "
+   ]
+  }, 
+  {
+   "begin": "298.480", 
+   "children": [], 
+   "end": "300.640", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "300.640", 
+   "children": [], 
+   "end": "304.720", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "das ist selbst f\u00fcr einen Vertreter einer Volkspartei beachtlich."
+   ]
+  }, 
+  {
+   "begin": "304.720", 
+   "children": [], 
+   "end": "310.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes hat f\u00fcr die Freien Demokraten der Kollege Carl-Julius Cronenberg das Wort."
+   ]
+  }
+ ]
+}

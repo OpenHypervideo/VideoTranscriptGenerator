@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "children": [], 
+   "end": "4.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "4.960", 
+   "children": [], 
+   "end": "17.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "17.000", 
+   "children": [], 
+   "end": "20.800", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Heute werden in dieser Runde insgesamt acht Menschen dar\u00fcber sprechen, "
+   ]
+  }, 
+  {
+   "begin": "20.800", 
+   "children": [], 
+   "end": "25.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass wir derzeit 16\u00a0Bundeswehrsoldaten im S\u00fcdsudan im Einsatz haben. "
+   ]
+  }, 
+  {
+   "begin": "25.880", 
+   "children": [], 
+   "end": "29.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Das mag im ersten Moment etwas seltsam erscheinen, "
+   ]
+  }, 
+  {
+   "begin": "29.040", 
+   "children": [], 
+   "end": "30.880", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "ist aber durchaus richtig so; "
+   ]
+  }, 
+  {
+   "begin": "30.880", 
+   "children": [], 
+   "end": "34.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "denn wer das Ideal einer Parlamentsarmee ernst nimmt, "
+   ]
+  }, 
+  {
+   "begin": "34.440", 
+   "children": [], 
+   "end": "39.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "der muss sich auch mit diesen vermeintlich kleinen Eins\u00e4tzen ernsthaft besch\u00e4ftigen."
+   ]
+  }, 
+  {
+   "begin": "39.800", 
+   "children": [], 
+   "end": "41.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Freie Demokraten haben das getan."
+   ]
+  }, 
+  {
+   "begin": "41.800", 
+   "children": [], 
+   "end": "48.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wer das Ideal von Peacekeeping-Missionen ernst nimmt, "
+   ]
+  }, 
+  {
+   "begin": "48.760", 
+   "children": [], 
+   "end": "50.440", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "muss sich auch \u00fcber die Leistungen, "
+   ]
+  }, 
+  {
+   "begin": "50.440", 
+   "children": [], 
+   "end": "51.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die die UN-Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "51.640", 
+   "children": [], 
+   "end": "54.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die unsere Soldaten vor Ort vollbringen, "
+   ]
+  }, 
+  {
+   "begin": "54.760", 
+   "children": [], 
+   "end": "56.280", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "ernsthaft informieren. "
+   ]
+  }, 
+  {
+   "begin": "56.280", 
+   "children": [], 
+   "end": "62.560", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb habe ich mich Anfang der Woche von einem Bundeswehrsoldaten im S\u00fcdsudan \u00fcber seinen Einsatz, "
+   ]
+  }, 
+  {
+   "begin": "62.560", 
+   "children": [], 
+   "end": "65.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber seinen Alltag vor Ort, "
+   ]
+  }, 
+  {
+   "begin": "65.360", 
+   "children": [], 
+   "end": "70.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber seine Perspektive auf Sinn und Erfolg dieses Einsatzes informieren lassen. "
+   ]
+  }, 
+  {
+   "begin": "70.800", 
+   "children": [], 
+   "end": "72.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Er ist der Meinung, "
+   ]
+  }, 
+  {
+   "begin": "72.400", 
+   "children": [], 
+   "end": "74.880", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass dieser Einsatz einen Sinn hat, "
+   ]
+  }, 
+  {
+   "begin": "74.880", 
+   "children": [], 
+   "end": "77.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass er einen Nutzen hat, "
+   ]
+  }, 
+  {
+   "begin": "77.440", 
+   "children": [], 
+   "end": "78.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "obwohl\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "78.160", 
+   "children": [], 
+   "end": "80.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "das muss man an dieser Stelle sagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "80.680", 
+   "children": [], 
+   "end": "83.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dieser Einsatz unter schwierigsten Bedingungen stattfindet, "
+   ]
+  }, 
+  {
+   "begin": "83.840", 
+   "children": [], 
+   "end": "86.600", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "in einem der \u00e4rmsten L\u00e4nder dieser Welt. "
+   ]
+  }, 
+  {
+   "begin": "86.600", 
+   "children": [], 
+   "end": "88.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen kann man es nicht genug betonen, "
+   ]
+  }, 
+  {
+   "begin": "88.760", 
+   "children": [], 
+   "end": "91.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass wir den 16\u00a0deutschen Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "91.320", 
+   "children": [], 
+   "end": "95.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "aber auch den 17\u00a0000\u00a0UN-Soldaten vor Ort Dankbarkeit schulden f\u00fcr das, "
+   ]
+  }, 
+  {
+   "begin": "95.400", 
+   "children": [], 
+   "end": "96.800", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "was sie da Tag f\u00fcr Tag leisten."
+   ]
+  }, 
+  {
+   "begin": "96.800", 
+   "children": [], 
+   "end": "104.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Dankbarkeit allein wird allerdings nicht ausreichen. "
+   ]
+  }, 
+  {
+   "begin": "104.120", 
+   "children": [], 
+   "end": "107.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns auch um die Betreuung und die Versorgung der Soldaten vor Ort k\u00fcmmern. "
+   ]
+  }, 
+  {
+   "begin": "107.880", 
+   "children": [], 
+   "end": "114.160", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir sollten unseren deutschen Soldaten eine permanente Kommunikation nach Deutschland erm\u00f6glichen. "
+   ]
+  }, 
+  {
+   "begin": "114.160", 
+   "children": [], 
+   "end": "117.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Da besteht durchaus noch Verbesserungsbedarf. "
+   ]
+  }, 
+  {
+   "begin": "117.520", 
+   "children": [], 
+   "end": "125.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Dessen sollte sich das Verteidigungsministerium in den n\u00e4chsten zw\u00f6lf Monaten annehmen."
+   ]
+  }, 
+  {
+   "begin": "125.400", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Der Offizier hat aber auch betont, "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "130.840", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass vor Ort nicht alles perfekt l\u00e4uft, "
+   ]
+  }, 
+  {
+   "begin": "130.840", 
+   "children": [], 
+   "end": "137.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass Fehler gemacht werden und dass die Pr\u00e4senz der UN trotzdem notwendig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "137.200", 
+   "children": [], 
+   "end": "138.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "manche hier w\u00fcrden wahrscheinlich sagen: "
+   ]
+  }, 
+  {
+   "begin": "138.600", 
+   "children": [], 
+   "end": "139.480", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "alternativlos; "
+   ]
+  }, 
+  {
+   "begin": "139.480", 
+   "children": [], 
+   "end": "140.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "ich sage lieber: "
+   ]
+  }, 
+  {
+   "begin": "140.000", 
+   "children": [], 
+   "end": "141.120", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "richtig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "141.120", 
+   "children": [], 
+   "end": "141.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "ist. "
+   ]
+  }, 
+  {
+   "begin": "141.480", 
+   "children": [], 
+   "end": "147.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Denn der S\u00fcdsudan macht auch das Dilemma von Peacekeeping-Eins\u00e4tzen deutlich. "
+   ]
+  }, 
+  {
+   "begin": "147.440", 
+   "children": [], 
+   "end": "149.520", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen nicht \u00fcberall sein, "
+   ]
+  }, 
+  {
+   "begin": "149.520", 
+   "children": [], 
+   "end": "152.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wir k\u00f6nnen nicht alle Menschen im S\u00fcdsudan sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "152.840", 
+   "children": [], 
+   "end": "155.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt derzeit sechs Schutzzonen, "
+   ]
+  }, 
+  {
+   "begin": "155.160", 
+   "children": [], 
+   "end": "159.080", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "in denen 200\u00a0000\u00a0Menschen Schutz finden. "
+   ]
+  }, 
+  {
+   "begin": "159.080", 
+   "children": [], 
+   "end": "163.360", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Dennoch hungern \u00fcber 5\u00a0Millionen Menschen im S\u00fcdsudan, "
+   ]
+  }, 
+  {
+   "begin": "163.360", 
+   "children": [], 
+   "end": "167.000", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "trotz UNMISS-Einsatz. "
+   ]
+  }, 
+  {
+   "begin": "167.000", 
+   "children": [], 
+   "end": "169.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Und obwohl wir das Mandat vor zwei Jahren aufgestockt haben, "
+   ]
+  }, 
+  {
+   "begin": "169.360", 
+   "children": [], 
+   "end": "170.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "hat sich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.200", 
+   "children": [], 
+   "end": "172.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wir haben es eben schon geh\u00f6rt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "172.240", 
+   "children": [], 
+   "end": "176.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die Sicherheitssituation im S\u00fcdsudan kaum verbessert. "
+   ]
+  }, 
+  {
+   "begin": "176.320", 
+   "children": [], 
+   "end": "177.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das darf aber kein Grund sein, "
+   ]
+  }, 
+  {
+   "begin": "177.880", 
+   "children": [], 
+   "end": "179.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die Mission zu stoppen. "
+   ]
+  }, 
+  {
+   "begin": "179.720", 
+   "children": [], 
+   "end": "181.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Was w\u00fcrde denn passieren, "
+   ]
+  }, 
+  {
+   "begin": "181.520", 
+   "children": [], 
+   "end": "183.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "wenn die 17\u00a0000\u00a0UN-Soldaten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "183.080", 
+   "children": [], 
+   "end": "186.040", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "von denen wir ganze 16 beisteuern\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "186.040", 
+   "children": [], 
+   "end": "189.040", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "aus dem S\u00fcdsudan abziehen w\u00fcrden? "
+   ]
+  }, 
+  {
+   "begin": "189.040", 
+   "children": [], 
+   "end": "193.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Der B\u00fcrgerkrieg w\u00fcrde v\u00f6llig ungez\u00fcgelt losbrechen, "
+   ]
+  }, 
+  {
+   "begin": "193.720", 
+   "children": [], 
+   "end": "197.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "die Menschenrechtsverletzungen w\u00fcrden sich vervielf\u00e4ltigen, "
+   ]
+  }, 
+  {
+   "begin": "197.560", 
+   "children": [], 
+   "end": "200.520", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "humanit\u00e4re Hilfe w\u00e4re kaum noch m\u00f6glich. "
+   ]
+  }, 
+  {
+   "begin": "200.520", 
+   "children": [], 
+   "end": "201.840", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Der Staatsaufbau, "
+   ]
+  }, 
+  {
+   "begin": "201.840", 
+   "children": [], 
+   "end": "204.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wo er denn noch stattfindet im S\u00fcdsudan, "
+   ]
+  }, 
+  {
+   "begin": "204.480", 
+   "children": [], 
+   "end": "209.320", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrde in sich zusammenbrechen und eine Fl\u00fcchtlingswelle nach sich ziehen, "
+   ]
+  }, 
+  {
+   "begin": "209.320", 
+   "children": [], 
+   "end": "212.920", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "die die Nachbarl\u00e4nder weiter destabilisiert."
+   ]
+  }, 
+  {
+   "begin": "212.920", 
+   "children": [], 
+   "end": "214.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "214.000", 
+   "children": [], 
+   "end": "221.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wir geben 1,1\u00a0Millionen Euro j\u00e4hrlich f\u00fcr den deutschen Anteil am UNMISS-Einsatz aus, "
+   ]
+  }, 
+  {
+   "begin": "221.560", 
+   "children": [], 
+   "end": "225.720", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "um den S\u00fcdsudan davon abzuhalten, "
+   ]
+  }, 
+  {
+   "begin": "225.720", 
+   "children": [], 
+   "end": "228.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "endg\u00fcltig ein Failed State zu werden. "
+   ]
+  }, 
+  {
+   "begin": "228.960", 
+   "children": [], 
+   "end": "231.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "1,1\u00a0Millionen Euro sind mutma\u00dflich weniger, "
+   ]
+  }, 
+  {
+   "begin": "231.760", 
+   "children": [], 
+   "end": "237.680", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "als die AfD-Fraktion in dieser Legislaturperiode f\u00fcr Schnittchen ausgibt."
+   ]
+  }, 
+  {
+   "begin": "237.680", 
+   "children": [], 
+   "end": "245.120", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "1,1\u00a0Millionen Euro sind aber eben auch recht wenig, "
+   ]
+  }, 
+  {
+   "begin": "245.120", 
+   "children": [], 
+   "end": "246.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir uns anschauen, "
+   ]
+  }, 
+  {
+   "begin": "246.680", 
+   "children": [], 
+   "end": "253.160", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wie viel Effekt wir im S\u00fcdsudan haben und wie vielen Menschen vor Ort wir das blanke Leben retten k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "253.160", 
+   "children": [], 
+   "end": "261.840", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Einsatz steht unter F\u00fchrung der UN und kann deshalb keine bessere Legitimationsbasis haben, "
+   ]
+  }, 
+  {
+   "begin": "261.840", 
+   "children": [], 
+   "end": "262.840", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "als er sie heute hat. "
+   ]
+  }, 
+  {
+   "begin": "262.840", 
+   "children": [], 
+   "end": "266.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen lassen Sie mich zum Abschluss sagen: "
+   ]
+  }, 
+  {
+   "begin": "266.480", 
+   "children": [], 
+   "end": "269.800", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ohne UN h\u00e4tte der S\u00fcdsudan keine Chance auf Frieden, "
+   ]
+  }, 
+  {
+   "begin": "269.800", 
+   "children": [], 
+   "end": "273.880", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "ohne UN w\u00e4re humanit\u00e4re Hilfe nicht m\u00f6glich, "
+   ]
+  }, 
+  {
+   "begin": "273.880", 
+   "children": [], 
+   "end": "275.280", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "mit der UN schon. "
+   ]
+  }, 
+  {
+   "begin": "275.280", 
+   "children": [], 
+   "end": "279.400", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Diese Chance sollten wir den Menschen im S\u00fcdsudan geben. "
+   ]
+  }, 
+  {
+   "begin": "279.400", 
+   "children": [], 
+   "end": "282.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Die V\u00f6lkergemeinschaft verlangt von uns einen kleinen Anteil, "
+   ]
+  }, 
+  {
+   "begin": "282.400", 
+   "children": [], 
+   "end": "284.000", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "den wir leisten sollten. "
+   ]
+  }, 
+  {
+   "begin": "284.000", 
+   "children": [], 
+   "end": "286.400", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Freie Demokraten sind dazu bereit. "
+   ]
+  }, 
+  {
+   "begin": "286.400", 
+   "children": [], 
+   "end": "289.200", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Wir stimmen f\u00fcr die \u00dcberweisung an den Ausschuss."
+   ]
+  }, 
+  {
+   "begin": "289.200", 
+   "children": [], 
+   "end": "290.600", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "290.600", 
+   "children": [], 
+   "end": "291.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "291.240", 
+   "children": [], 
+   "end": "295.800", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Marcus Faber.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "295.800", 
+   "children": [], 
+   "end": "298.000", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin in der Debatte: "
+   ]
+  }, 
+  {
+   "begin": "298.000", 
+   "children": [], 
+   "end": "302.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Zaklin Nastic f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

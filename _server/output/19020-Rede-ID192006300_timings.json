@@ -1,0 +1,804 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.440", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "children": [], 
+   "end": "9.280", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "children": [], 
+   "end": "12.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.840", 
+   "children": [], 
+   "end": "19.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir befassen uns heute mit dem Vorkommen von multiresistenten Keimen in Oberfl\u00e4chengew\u00e4ssern, "
+   ]
+  }, 
+  {
+   "begin": "19.280", 
+   "children": [], 
+   "end": "19.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "einem Thema, "
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "children": [], 
+   "end": "24.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "bei dem wir bis vor kurzem der Meinung waren, "
+   ]
+  }, 
+  {
+   "begin": "24.920", 
+   "children": [], 
+   "end": "33.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass das eigentlich nur f\u00fcr Krankenh\u00e4user oder andere medizinische Einrichtungen ein Problem darstellt. "
+   ]
+  }, 
+  {
+   "begin": "33.600", 
+   "children": [], 
+   "end": "35.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Nun erfahren wir, "
+   ]
+  }, 
+  {
+   "begin": "35.120", 
+   "children": [], 
+   "end": "38.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass sich diese Keime auch in Oberfl\u00e4chengew\u00e4ssern, "
+   ]
+  }, 
+  {
+   "begin": "38.160", 
+   "children": [], 
+   "end": "39.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "in Seen, "
+   ]
+  }, 
+  {
+   "begin": "39.160", 
+   "children": [], 
+   "end": "40.920", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Vorflutern, "
+   ]
+  }, 
+  {
+   "begin": "40.920", 
+   "children": [], 
+   "end": "42.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "an Kl\u00e4ranlagen etc., "
+   ]
+  }, 
+  {
+   "begin": "42.680", 
+   "children": [], 
+   "end": "45.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "befinden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "45.160", 
+   "children": [], 
+   "end": "50.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings gibt es zur Ausbreitung dieser Keime noch nicht gen\u00fcgend Daten. "
+   ]
+  }, 
+  {
+   "begin": "50.720", 
+   "children": [], 
+   "end": "55.600", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die wenigen bisher vorliegenden Daten zeigen, "
+   ]
+  }, 
+  {
+   "begin": "55.600", 
+   "children": [], 
+   "end": "57.800", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass es zwar schon eine Verbreitung geben kann, "
+   ]
+  }, 
+  {
+   "begin": "57.800", 
+   "children": [], 
+   "end": "60.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "aber noch l\u00e4ngst kein Grund zur Panik besteht. "
+   ]
+  }, 
+  {
+   "begin": "60.680", 
+   "children": [], 
+   "end": "62.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Uns allen muss bewusst sein, "
+   ]
+  }, 
+  {
+   "begin": "62.760", 
+   "children": [], 
+   "end": "70.040", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass dies nur ein Teilaspekt einer sich bedrohlich zuspitzenden Antibiotikaresistenz ist, "
+   ]
+  }, 
+  {
+   "begin": "70.040", 
+   "children": [], 
+   "end": "78.040", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die heute eine der gr\u00f6\u00dften Herausforderungen der Medizin und der Gesundheitspolitik darstellt."
+   ]
+  }, 
+  {
+   "begin": "78.040", 
+   "children": [], 
+   "end": "79.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Die vorliegende Datenbasis ist, "
+   ]
+  }, 
+  {
+   "begin": "79.880", 
+   "children": [], 
+   "end": "80.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wie gesagt, "
+   ]
+  }, 
+  {
+   "begin": "80.640", 
+   "children": [], 
+   "end": "82.360", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "noch recht d\u00fcrftig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "82.360", 
+   "children": [], 
+   "end": "83.280", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "zu d\u00fcrftig, "
+   ]
+  }, 
+  {
+   "begin": "83.280", 
+   "children": [], 
+   "end": "90.480", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "um die gesamte Tragweite dieses Problems in Oberfl\u00e4chengew\u00e4ssern beurteilen zu k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "90.480", 
+   "children": [], 
+   "end": "96.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Sie erlaubt daher noch keine Schl\u00fcsse auf Qualit\u00e4t und Quantit\u00e4t der Ausbreitung dieser Keime. "
+   ]
+  }, 
+  {
+   "begin": "96.840", 
+   "children": [], 
+   "end": "98.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Auch d\u00fcrfen wir nicht aus dem Blick verlieren, "
+   ]
+  }, 
+  {
+   "begin": "98.600", 
+   "children": [], 
+   "end": "105.600", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass die Zahl der Infektionen durch multiresistente Keime in Oberfl\u00e4chengew\u00e4ssern verschwindend gering ist, "
+   ]
+  }, 
+  {
+   "begin": "105.600", 
+   "children": [], 
+   "end": "110.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "vergleicht man sie mit der Anzahl der Infektionen in Kliniken. "
+   ]
+  }, 
+  {
+   "begin": "110.960", 
+   "children": [], 
+   "end": "114.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Insoweit ist Panik hier sicherlich nicht angesagt. "
+   ]
+  }, 
+  {
+   "begin": "114.760", 
+   "children": [], 
+   "end": "123.680", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die Ansteckung \u00fcber Gew\u00e4sser ist aktuell sicherlich nicht der kritische Infektionspfad."
+   ]
+  }, 
+  {
+   "begin": "123.680", 
+   "children": [], 
+   "end": "128.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Dennoch ist es unter Ber\u00fccksichtigung des Vorsorgeprinzips notwendig, "
+   ]
+  }, 
+  {
+   "begin": "128.440", 
+   "children": [], 
+   "end": "137.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "zeitnah mit gezielten Untersuchungen das Ausma\u00df der Belastung verschiedener Oberfl\u00e4chengew\u00e4sser hinreichend zu erfassen. "
+   ]
+  }, 
+  {
+   "begin": "137.520", 
+   "children": [], 
+   "end": "139.480", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die Politik muss auf Bundes- "
+   ]
+  }, 
+  {
+   "begin": "139.480", 
+   "children": [], 
+   "end": "143.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wie auf Landesebene neben den bisherigen Projekten daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "143.680", 
+   "children": [], 
+   "end": "151.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass ausreichend finanzielle Mittel zur Verf\u00fcgung stehen und auch der rechtliche Rahmen f\u00fcr solche Untersuchungen im Bedarfsfall geschaffen wird;"
+   ]
+  }, 
+  {
+   "begin": "151.800", 
+   "children": [], 
+   "end": "160.440", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "denn erst nach Abschluss dieser Untersuchungen wird sich zeigen, "
+   ]
+  }, 
+  {
+   "begin": "160.440", 
+   "children": [], 
+   "end": "170.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "ob eine Keimbelastung der Oberfl\u00e4chengew\u00e4sser nur ein punktuelles Problem ist oder ein weitverbreitetes Problem darstellen k\u00f6nnte."
+   ]
+  }, 
+  {
+   "begin": "170.280", 
+   "children": [], 
+   "end": "174.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Folgt man der Argumentationslinie der Antragsteller, "
+   ]
+  }, 
+  {
+   "begin": "174.600", 
+   "children": [], 
+   "end": "177.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "der Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "177.000", 
+   "children": [], 
+   "end": "181.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "ergeben sich immerhin einige nachvollziehbare bzw. "
+   ]
+  }, 
+  {
+   "begin": "181.400", 
+   "children": [], 
+   "end": "187.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "vermeintlich nachvollziehbare Vorschl\u00e4ge f\u00fcr Ma\u00dfnahmen zur Eind\u00e4mmung des Problems. "
+   ]
+  }, 
+  {
+   "begin": "187.040", 
+   "children": [], 
+   "end": "195.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Unstrittig sollte die weitgehende Vermeidung des Einsatzes von Reserveantibiotika in der Tierhaltung sein. "
+   ]
+  }, 
+  {
+   "begin": "195.000", 
+   "children": [], 
+   "end": "203.000", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Vorsichtig hingegen muss \u00fcber die geforderte Reduktion des Antibiotikaeinsatzes in der Landwirtschaft diskutiert werden. "
+   ]
+  }, 
+  {
+   "begin": "203.000", 
+   "children": [], 
+   "end": "208.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wollen wir denn stattdessen vermehrt Chlorh\u00fchnchen verzehren?"
+   ]
+  }, 
+  {
+   "begin": "208.320", 
+   "children": [], 
+   "end": "211.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Die Alternative kann das nicht sein. "
+   ]
+  }, 
+  {
+   "begin": "211.160", 
+   "children": [], 
+   "end": "222.920", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Mit einer kleinteiligen Biolandwirtschaft allein lassen sich in absehbarer Zeit aber keine 82\u00a0Millionen Bundesb\u00fcrger ern\u00e4hren."
+   ]
+  }, 
+  {
+   "begin": "222.920", 
+   "children": [], 
+   "end": "234.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Zu den \u00fcbereilten Forderungen im Antrag z\u00e4hlt beispielsweise auch die nach Einf\u00fchrung einer zus\u00e4tzlichen Kl\u00e4rstufe in Kl\u00e4ranlagen. "
+   ]
+  }, 
+  {
+   "begin": "234.760", 
+   "children": [], 
+   "end": "240.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Allein diese Ma\u00dfnahme w\u00fcrde die Kosten der Abwasserbehandlung dramatisch erh\u00f6hen. "
+   ]
+  }, 
+  {
+   "begin": "240.160", 
+   "children": [], 
+   "end": "244.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00fcrde unzumutbare Mehrkosten f\u00fcr Privathaushalte bedeuten, "
+   ]
+  }, 
+  {
+   "begin": "244.600", 
+   "children": [], 
+   "end": "248.400", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die wir nur dann entstehen lassen d\u00fcrfen, "
+   ]
+  }, 
+  {
+   "begin": "248.400", 
+   "children": [], 
+   "end": "253.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Notwendigkeit der Ma\u00dfnahme hinreichend nachgewiesen ist. "
+   ]
+  }, 
+  {
+   "begin": "253.680", 
+   "children": [], 
+   "end": "255.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die richtige Vorgehensweise, "
+   ]
+  }, 
+  {
+   "begin": "255.200", 
+   "children": [], 
+   "end": "257.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "werte Kolleginnen und Kollegen von den Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "257.120", 
+   "children": [], 
+   "end": "258.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "muss deswegen sein: "
+   ]
+  }, 
+  {
+   "begin": "258.560", 
+   "children": [], 
+   "end": "264.960", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "zuerst eine belastbare Datenbasis ermitteln und danach die Schlussfolgerungen ziehen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "264.960", 
+   "children": [], 
+   "end": "267.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "und nicht umgekehrt, "
+   ]
+  }, 
+  {
+   "begin": "267.240", 
+   "children": [], 
+   "end": "267.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie es tun. "
+   ]
+  }, 
+  {
+   "begin": "267.760", 
+   "children": [], 
+   "end": "275.600", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Sie z\u00e4umen das Pferd hier n\u00e4mlich wieder einmal von hinten auf."
+   ]
+  }, 
+  {
+   "begin": "275.600", 
+   "children": [], 
+   "end": "279.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Der Schutz des Menschen und seiner Gesundheit hat f\u00fcr uns, "
+   ]
+  }, 
+  {
+   "begin": "279.400", 
+   "children": [], 
+   "end": "280.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "die AfD-Fraktion, "
+   ]
+  }, 
+  {
+   "begin": "280.480", 
+   "children": [], 
+   "end": "282.120", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "oberste Priorit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "282.120", 
+   "children": [], 
+   "end": "287.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Dies wollen wir unter Ber\u00fccksichtigung folgender Voraussetzungen erreichen: "
+   ]
+  }, 
+  {
+   "begin": "287.920", 
+   "children": [], 
+   "end": "290.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Erstellung einer gesicherten Datenbasis; "
+   ]
+  }, 
+  {
+   "begin": "290.960", 
+   "children": [], 
+   "end": "296.720", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Durchf\u00fchrung von Ma\u00dfnahmen auf Grundlage ebendieser Datenbasis; "
+   ]
+  }, 
+  {
+   "begin": "296.720", 
+   "children": [], 
+   "end": "302.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Einhaltung der Verh\u00e4ltnism\u00e4\u00dfigkeit bei allen Ma\u00dfnahmen; "
+   ]
+  }, 
+  {
+   "begin": "302.000", 
+   "children": [], 
+   "end": "303.240", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Nachvollziehbarkeit, "
+   ]
+  }, 
+  {
+   "begin": "303.240", 
+   "children": [], 
+   "end": "308.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Berechenbarkeit und Planungssicherheit sowie\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "308.840", 
+   "children": [], 
+   "end": "309.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "ganz wichtig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "309.400", 
+   "children": [], 
+   "end": "316.920", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Intensivierung der Forschung und Entwicklung von Alternativen zum konventionellen Antibiotikaeinsatz. "
+   ]
+  }, 
+  {
+   "begin": "316.920", 
+   "children": [], 
+   "end": "320.880", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Die AfD-Fraktion wird wie bisher schon im Bereich Umwelt, "
+   ]
+  }, 
+  {
+   "begin": "320.880", 
+   "children": [], 
+   "end": "324.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Gesundheit und Landwirtschaft in diesem Sinne dazu beitragen, "
+   ]
+  }, 
+  {
+   "begin": "324.840", 
+   "children": [], 
+   "end": "332.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die zunehmend ideologisierte und realit\u00e4tsferne Politik wieder auf eine vernunftorientierte Basis zu stellen."
+   ]
+  }, 
+  {
+   "begin": "332.200", 
+   "children": [], 
+   "end": "341.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr das heutige Thema der multiresistenten Keime gilt es, "
+   ]
+  }, 
+  {
+   "begin": "341.000", 
+   "children": [], 
+   "end": "345.240", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "jegliche ideologisch motivierte Angstmache zu vermeiden. "
+   ]
+  }, 
+  {
+   "begin": "345.240", 
+   "children": [], 
+   "end": "349.680", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Aber einstweilig werden wir einer \u00dcberweisung des Antrags an die zust\u00e4ndigen Aussch\u00fcsse zustimmen."
+   ]
+  }, 
+  {
+   "begin": "349.680", 
+   "children": [], 
+   "end": "350.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "350.000", 
+   "children": [], 
+   "end": "350.520", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "350.520", 
+   "children": [], 
+   "end": "352.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Herr Dr.\u00a0Wildberg.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "352.040", 
+   "children": [], 
+   "end": "360.960", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster hat das Wort der Kollege Dr.\u00a0Lukas K\u00f6hler f\u00fcr die Freien Demokraten."
+   ]
+  }
+ ]
+}

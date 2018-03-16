@@ -1,0 +1,734 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "0.840", 
+   "children": [], 
+   "end": "2.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident. "
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "children": [], 
+   "end": "3.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Was w\u00fcrde denn passieren, "
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "children": [], 
+   "end": "6.080", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "wenn ich sagen w\u00fcrde: "
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "children": [], 
+   "end": "9.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDas ist mir eigentlich zu kurz\u201c?"
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "children": [], 
+   "end": "11.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Dann w\u00fcrde das nichts \u00e4ndern."
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "children": [], 
+   "end": "13.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "13.760", 
+   "children": [], 
+   "end": "15.160", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Zuschauer! "
+   ]
+  }, 
+  {
+   "begin": "15.160", 
+   "children": [], 
+   "end": "21.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Vom 1.\u00a0M\u00e4rz bis 31.\u00a0Mai 2018 finden in Deutschland Betriebsratswahlen statt. "
+   ]
+  }, 
+  {
+   "begin": "21.840", 
+   "children": [], 
+   "end": "26.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ich gratuliere von hier aus allen Betriebsr\u00e4tinnen und Betriebsr\u00e4ten, "
+   ]
+  }, 
+  {
+   "begin": "26.680", 
+   "children": [], 
+   "end": "27.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "die schon gew\u00e4hlt sind, "
+   ]
+  }, 
+  {
+   "begin": "27.760", 
+   "children": [], 
+   "end": "29.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "zu ihrer Wahl."
+   ]
+  }, 
+  {
+   "begin": "29.520", 
+   "children": [], 
+   "end": "34.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Ihr k\u00e4mpft f\u00fcr bessere Arbeitsbedingungen in Deutschland."
+   ]
+  }, 
+  {
+   "begin": "34.640", 
+   "children": [], 
+   "end": "44.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Betriebsr\u00e4te sind die direkteste und wirksamste Interessenvertretung der Besch\u00e4ftigten gegen\u00fcber den Arbeitgebern und ihrem Streben nach Gewinnen. "
+   ]
+  }, 
+  {
+   "begin": "44.720", 
+   "children": [], 
+   "end": "47.880", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Betriebsr\u00e4te sind unverzichtbar; "
+   ]
+  }, 
+  {
+   "begin": "47.880", 
+   "children": [], 
+   "end": "52.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "denn Arbeitgeber m\u00fcssen kontrolliert werden. "
+   ]
+  }, 
+  {
+   "begin": "52.240", 
+   "children": [], 
+   "end": "55.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Bei jeder zweiten Kontrolle durch die Arbeitsschutzbeh\u00f6rde\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "55.800", 
+   "children": [], 
+   "end": "58.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wir haben eben schon \u00fcber Arbeitszeit geredet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "58.360", 
+   "children": [], 
+   "end": "62.880", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wurde ein Versto\u00df gegen das Arbeitszeitgesetz festgestellt. "
+   ]
+  }, 
+  {
+   "begin": "62.880", 
+   "children": [], 
+   "end": "72.080", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "2016 wurden 2,7\u00a0Millionen Besch\u00e4ftigte um den Mindestlohn beschissen,"
+   ]
+  }, 
+  {
+   "begin": "72.080", 
+   "children": [], 
+   "end": "76.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere in Betrieben ohne Betriebsrat. "
+   ]
+  }, 
+  {
+   "begin": "76.640", 
+   "children": [], 
+   "end": "80.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Betriebsr\u00e4te sorgen f\u00fcr die Umsetzung der Gesetze, "
+   ]
+  }, 
+  {
+   "begin": "80.320", 
+   "children": [], 
+   "end": "83.080", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die wir hier auf den Weg bringen. "
+   ]
+  }, 
+  {
+   "begin": "83.080", 
+   "children": [], 
+   "end": "85.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Pflicht des Gesetzgebers ist, "
+   ]
+  }, 
+  {
+   "begin": "85.520", 
+   "children": [], 
+   "end": "87.960", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "im Gegenzug daf\u00fcr zu sorgen, "
+   ]
+  }, 
+  {
+   "begin": "87.960", 
+   "children": [], 
+   "end": "91.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass die Rahmenbedingungen f\u00fcr die Arbeit der Betriebsr\u00e4te stimmen."
+   ]
+  }, 
+  {
+   "begin": "91.920", 
+   "children": [], 
+   "end": "96.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Politik ist mitverantwortlich, "
+   ]
+  }, 
+  {
+   "begin": "96.720", 
+   "children": [], 
+   "end": "100.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass Demokratie nicht vor dem Werkstor endet. "
+   ]
+  }, 
+  {
+   "begin": "100.960", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "In nur jedem zehnten Betrieb aber gibt es einen Betriebsrat. "
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "111.880", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist nicht einmal die H\u00e4lfte aller Besch\u00e4ftigten hier in Deutschland durch einen Betriebsrat vertreten. "
+   ]
+  }, 
+  {
+   "begin": "111.880", 
+   "children": [], 
+   "end": "113.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine Mitbestimmungsl\u00fccke, "
+   ]
+  }, 
+  {
+   "begin": "113.280", 
+   "children": [], 
+   "end": "116.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "und es ist eine ganz gro\u00dfe Katastrophe, "
+   ]
+  }, 
+  {
+   "begin": "116.520", 
+   "children": [], 
+   "end": "118.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass das so ist."
+   ]
+  }, 
+  {
+   "begin": "118.240", 
+   "children": [], 
+   "end": "126.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Dabei ist die Wahl von Betriebsr\u00e4ten im Betriebsverfassungsgesetz keine Kannvorschrift. "
+   ]
+  }, 
+  {
+   "begin": "126.960", 
+   "children": [], 
+   "end": "132.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr ist in jedem Betrieb ab f\u00fcnf Besch\u00e4ftigten ein Betriebsrat zu w\u00e4hlen. "
+   ]
+  }, 
+  {
+   "begin": "132.840", 
+   "children": [], 
+   "end": "134.720", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke fordert, "
+   ]
+  }, 
+  {
+   "begin": "134.720", 
+   "children": [], 
+   "end": "137.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die Wahl von Betriebsr\u00e4ten zu erleichtern, "
+   ]
+  }, 
+  {
+   "begin": "137.760", 
+   "children": [], 
+   "end": "142.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Betriebsr\u00e4te besser zu sch\u00fctzen und die Mitbestimmung auszuweiten."
+   ]
+  }, 
+  {
+   "begin": "142.600", 
+   "children": [], 
+   "end": "151.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Laut Koalitionsvereinbarung wollen Sie nur das vereinfachte Wahlverfahren ausweiten. "
+   ]
+  }, 
+  {
+   "begin": "151.160", 
+   "children": [], 
+   "end": "152.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das ist zu wenig."
+   ]
+  }, 
+  {
+   "begin": "152.720", 
+   "children": [], 
+   "end": "157.080", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wer sich f\u00fcr Demokratie im Betrieb einsetzt, "
+   ]
+  }, 
+  {
+   "begin": "157.080", 
+   "children": [], 
+   "end": "159.240", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "lebt leider gef\u00e4hrlich. "
+   ]
+  }, 
+  {
+   "begin": "159.240", 
+   "children": [], 
+   "end": "165.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Betriebsr\u00e4te oder Wahlvorst\u00e4nde werden h\u00e4ufig gezielt von Arbeitgebern eingesch\u00fcchtert, "
+   ]
+  }, 
+  {
+   "begin": "165.960", 
+   "children": [], 
+   "end": "170.320", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "systematisch kaltgestellt oder direkt gek\u00fcndigt."
+   ]
+  }, 
+  {
+   "begin": "170.320", 
+   "children": [], 
+   "end": "176.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wie dreist Arbeitgeber und zwielichtige Anwaltskanzleien dabei vorgehen, "
+   ]
+  }, 
+  {
+   "begin": "176.520", 
+   "children": [], 
+   "end": "180.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "sieht man zum Beispiel am Frankfurter Flughafen. "
+   ]
+  }, 
+  {
+   "begin": "180.200", 
+   "children": [], 
+   "end": "185.960", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Dort sitzt die Firma I-SEC Deutsche Luftsicherheit GmbH. "
+   ]
+  }, 
+  {
+   "begin": "185.960", 
+   "children": [], 
+   "end": "191.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Sie f\u00fchrt im Auftrag der Bundespolizei den Gro\u00dfteil der Sicherheitskontrollen durch. "
+   ]
+  }, 
+  {
+   "begin": "191.840", 
+   "children": [], 
+   "end": "195.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Als sich der Betriebsrat gegen die personelle Unterversorgung, "
+   ]
+  }, 
+  {
+   "begin": "195.960", 
+   "children": [], 
+   "end": "198.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcberstunden und \u00dcberbelastungen wehrte, "
+   ]
+  }, 
+  {
+   "begin": "198.920", 
+   "children": [], 
+   "end": "202.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wurde er mit absurden K\u00fcndigungsversuchen, "
+   ]
+  }, 
+  {
+   "begin": "202.200", 
+   "children": [], 
+   "end": "206.040", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Hausverboten und Klagen \u00fcberzogen. "
+   ]
+  }, 
+  {
+   "begin": "206.040", 
+   "children": [], 
+   "end": "212.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die Besch\u00e4ftigten dort \u00fcbernehmen hoheitliche Aufgaben und sch\u00fctzen auch uns. "
+   ]
+  }, 
+  {
+   "begin": "212.920", 
+   "children": [], 
+   "end": "215.560", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt m\u00fcssen wir die Besch\u00e4ftigten und ihre Betriebsr\u00e4te sch\u00fctzen."
+   ]
+  }, 
+  {
+   "begin": "215.560", 
+   "children": [], 
+   "end": "226.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen sie vor aggressiven Arbeitgebern und deren Handlangern sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "226.840", 
+   "children": [], 
+   "end": "234.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Anw\u00e4lte wie Helmut Naujoks haben es schon in mehreren F\u00e4llen versucht und leider auch geschafft,"
+   ]
+  }, 
+  {
+   "begin": "234.400", 
+   "children": [], 
+   "end": "241.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Betriebsr\u00e4te und den Menschen hinter dem Mandat systematisch kaputtzumachen. "
+   ]
+  }, 
+  {
+   "begin": "241.160", 
+   "children": [], 
+   "end": "243.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Hier m\u00fcssen wir handeln. "
+   ]
+  }, 
+  {
+   "begin": "243.760", 
+   "children": [], 
+   "end": "247.080", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Schwerpunktstaatsanwaltschaften. "
+   ]
+  }, 
+  {
+   "begin": "247.080", 
+   "children": [], 
+   "end": "250.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Betriebsratsfeindliche Ma\u00dfnahmen sind verboten, "
+   ]
+  }, 
+  {
+   "begin": "250.320", 
+   "children": [], 
+   "end": "254.280", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und undemokratische Arbeitgeber m\u00fcssen h\u00e4rter bestraft werden."
+   ]
+  }, 
+  {
+   "begin": "254.280", 
+   "children": [], 
+   "end": "255.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Krellmann, "
+   ]
+  }, 
+  {
+   "begin": "255.400", 
+   "children": [], 
+   "end": "256.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "kommen Sie bitte zum Schluss."
+   ]
+  }, 
+  {
+   "begin": "256.520", 
+   "children": [], 
+   "end": "259.160", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Die Besch\u00e4ftigten und Betriebsr\u00e4te erwarten, "
+   ]
+  }, 
+  {
+   "begin": "259.160", 
+   "children": [], 
+   "end": "263.600", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass wir als Politiker an diesem Punkt auch handeln."
+   ]
+  }, 
+  {
+   "begin": "263.600", 
+   "children": [], 
+   "end": "265.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Gute Arbeit muss sicher, "
+   ]
+  }, 
+  {
+   "begin": "265.440", 
+   "children": [], 
+   "end": "268.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "tariflich bezahlt und mitbestimmt sein."
+   ]
+  }, 
+  {
+   "begin": "268.360", 
+   "children": [], 
+   "end": "269.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "269.320", 
+   "children": [], 
+   "end": "269.880", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt bin ich fertig."
+   ]
+  }, 
+  {
+   "begin": "269.880", 
+   "children": [], 
+   "end": "277.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind mit Ihrer Rede zu Ende. "
+   ]
+  }, 
+  {
+   "begin": "277.080", 
+   "children": [], 
+   "end": "278.240", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Ob Sie fertig sind oder nicht, "
+   ]
+  }, 
+  {
+   "begin": "278.240", 
+   "children": [], 
+   "end": "281.040", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "kann ich nicht beurteilen."
+   ]
+  }, 
+  {
+   "begin": "281.040", 
+   "children": [], 
+   "end": "286.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die CDU/CSU-Fraktion rufe ich jetzt den Kollegen Uwe Schummer auf."
+   ]
+  }
+ ]
+}

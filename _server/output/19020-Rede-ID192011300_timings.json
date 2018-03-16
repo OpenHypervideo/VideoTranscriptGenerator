@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "children": [], 
+   "end": "13.320", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Linksfraktion, "
+   ]
+  }, 
+  {
+   "begin": "13.320", 
+   "children": [], 
+   "end": "15.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "ich bin eines der hilfsbed\u00fcrftigen Opfer, "
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "children": [], 
+   "end": "17.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "an die sich Ihr Antrag richtet."
+   ]
+  }, 
+  {
+   "begin": "17.960", 
+   "children": [], 
+   "end": "21.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich war knapp 30\u00a0Jahre Solo-Selbstst\u00e4ndiger in der IT, "
+   ]
+  }, 
+  {
+   "begin": "21.480", 
+   "children": [], 
+   "end": "22.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "bis zum letzten Herbst, "
+   ]
+  }, 
+  {
+   "begin": "22.600", 
+   "children": [], 
+   "end": "24.840", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "als ich in dieses Haus gew\u00e4hlt wurde."
+   ]
+  }, 
+  {
+   "begin": "24.840", 
+   "children": [], 
+   "end": "26.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke erweckt den Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "26.680", 
+   "children": [], 
+   "end": "29.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "als w\u00fcrden wir zur Selbstst\u00e4ndigkeit gedr\u00e4ngt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "29.120", 
+   "children": [], 
+   "end": "30.320", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "von b\u00f6sen Arbeitgebern, "
+   ]
+  }, 
+  {
+   "begin": "30.320", 
+   "children": [], 
+   "end": "32.200", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "die damit Geld sparen wollten."
+   ]
+  }, 
+  {
+   "begin": "32.200", 
+   "children": [], 
+   "end": "34.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben uns selbst daf\u00fcr entschieden, "
+   ]
+  }, 
+  {
+   "begin": "34.520", 
+   "children": [], 
+   "end": "36.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "wir machen das freiwillig; "
+   ]
+  }, 
+  {
+   "begin": "36.240", 
+   "children": [], 
+   "end": "41.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Freiberuflichkeit ist eine Lebenseinstellung."
+   ]
+  }, 
+  {
+   "begin": "41.720", 
+   "children": [], 
+   "end": "42.720", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen die Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "42.720", 
+   "children": [], 
+   "end": "45.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "spontan einen Tag freizumachen. "
+   ]
+  }, 
+  {
+   "begin": "45.120", 
+   "children": [], 
+   "end": "47.920", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen nicht in hierarchischen Strukturen arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "47.920", 
+   "children": [], 
+   "end": "50.560", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Auch das Korsett aus sechs Wochen Jahresurlaub, "
+   ]
+  }, 
+  {
+   "begin": "50.560", 
+   "children": [], 
+   "end": "54.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "38-Stunden-Woche und Tarifvertr\u00e4gen wollen wir nicht."
+   ]
+  }, 
+  {
+   "begin": "54.560", 
+   "children": [], 
+   "end": "56.120", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Ich akzeptiere das Bild nicht, "
+   ]
+  }, 
+  {
+   "begin": "56.120", 
+   "children": [], 
+   "end": "57.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wir w\u00e4ren sch\u00fctzenswerte, "
+   ]
+  }, 
+  {
+   "begin": "57.520", 
+   "children": [], 
+   "end": "58.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "arme Opfer. "
+   ]
+  }, 
+  {
+   "begin": "58.160", 
+   "children": [], 
+   "end": "58.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Das Gegenteil ist der Fall."
+   ]
+  }, 
+  {
+   "begin": "58.880", 
+   "children": [], 
+   "end": "67.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Sie adressieren ja explizit die Solo-Selbstst\u00e4ndigen, "
+   ]
+  }, 
+  {
+   "begin": "67.720", 
+   "children": [], 
+   "end": "68.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die IT-Experten, "
+   ]
+  }, 
+  {
+   "begin": "68.640", 
+   "children": [], 
+   "end": "69.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die Clickworker. "
+   ]
+  }, 
+  {
+   "begin": "69.840", 
+   "children": [], 
+   "end": "72.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Unser durchschnittlicher Stundensatz betr\u00e4gt 83\u00a0Euro, "
+   ]
+  }, 
+  {
+   "begin": "72.800", 
+   "children": [], 
+   "end": "76.840", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "und nur 4\u00a0Prozent von uns haben Stundens\u00e4tze unter 50\u00a0Euro."
+   ]
+  }, 
+  {
+   "begin": "76.840", 
+   "children": [], 
+   "end": "79.200", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wir wehren uns gegen das Bild des Prekariats, "
+   ]
+  }, 
+  {
+   "begin": "79.200", 
+   "children": [], 
+   "end": "80.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "das Sie hier zeichnen."
+   ]
+  }, 
+  {
+   "begin": "80.400", 
+   "children": [], 
+   "end": "88.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir Solo-Selbstst\u00e4ndigen gehen mit unserer Altersvorsorge verantwortungsvoll um, "
+   ]
+  }, 
+  {
+   "begin": "88.320", 
+   "children": [], 
+   "end": "90.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "und zwar eigenverantwortlich."
+   ]
+  }, 
+  {
+   "begin": "90.000", 
+   "children": [], 
+   "end": "91.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wir nehmen uns die Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "91.720", 
+   "children": [], 
+   "end": "95.520", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "den Fokus zuerst auf ein abbezahltes Eigenheim zu setzen."
+   ]
+  }, 
+  {
+   "begin": "95.520", 
+   "children": [], 
+   "end": "99.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke will uns in die gesetzliche Rente hineinzwingen. "
+   ]
+  }, 
+  {
+   "begin": "99.600", 
+   "children": [], 
+   "end": "101.080", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Welchen Sinn w\u00fcrde es denn machen, "
+   ]
+  }, 
+  {
+   "begin": "101.080", 
+   "children": [], 
+   "end": "103.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir doppelt so lange unser Eigenheim abbezahlen m\u00fcssten, "
+   ]
+  }, 
+  {
+   "begin": "103.840", 
+   "children": [], 
+   "end": "108.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "weil erzwungenerma\u00dfen viel Geld in die gesetzliche Rentenversicherung abflie\u00dfen m\u00fcsste? "
+   ]
+  }, 
+  {
+   "begin": "108.400", 
+   "children": [], 
+   "end": "111.880", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Ein schuldenfreies Eigenheim ist doch die beste Altersvorsorge. "
+   ]
+  }, 
+  {
+   "begin": "111.880", 
+   "children": [], 
+   "end": "119.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr diese Freiheit der eigenen Entscheidung werden wir weiterk\u00e4mpfen."
+   ]
+  }, 
+  {
+   "begin": "119.000", 
+   "children": [], 
+   "end": "121.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Selbstst\u00e4ndige sollen ein Mindesthonorar erhalten, "
+   ]
+  }, 
+  {
+   "begin": "121.320", 
+   "children": [], 
+   "end": "122.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wenn es nach den Linken ginge. "
+   ]
+  }, 
+  {
+   "begin": "122.960", 
+   "children": [], 
+   "end": "123.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben keine Ahnung, "
+   ]
+  }, 
+  {
+   "begin": "123.880", 
+   "children": [], 
+   "end": "126.160", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wie Selbstst\u00e4ndige ihre Honorare kalkulieren. "
+   ]
+  }, 
+  {
+   "begin": "126.160", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns am Markt orientieren: "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "129.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Verlangen wir zu viel, "
+   ]
+  }, 
+  {
+   "begin": "129.040", 
+   "children": [], 
+   "end": "131.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "springen uns die Kunden ab und wir haben keine Auftr\u00e4ge mehr, "
+   ]
+  }, 
+  {
+   "begin": "131.760", 
+   "children": [], 
+   "end": "132.680", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "verlangen wir zu wenig, "
+   ]
+  }, 
+  {
+   "begin": "132.680", 
+   "children": [], 
+   "end": "136.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "verzichten wir auf Einkommen und k\u00f6nnen uns angesichts der Auftragsflut nicht mehr retten. "
+   ]
+  }, 
+  {
+   "begin": "136.800", 
+   "children": [], 
+   "end": "139.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Was sollen denn Mindestl\u00f6hne f\u00fcr Solo-Selbstst\u00e4ndige bringen, "
+   ]
+  }, 
+  {
+   "begin": "139.600", 
+   "children": [], 
+   "end": "143.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir unsere Honorare ohnehin frei vereinbaren?"
+   ]
+  }, 
+  {
+   "begin": "143.200", 
+   "children": [], 
+   "end": "145.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen den Wechsel in die Freiberuflichkeit erschweren; "
+   ]
+  }, 
+  {
+   "begin": "145.720", 
+   "children": [], 
+   "end": "148.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "das ist ja die Intention Ihres Antrages."
+   ]
+  }, 
+  {
+   "begin": "148.040", 
+   "children": [], 
+   "end": "150.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Wir Selbstst\u00e4ndigen sorgen doch daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "150.800", 
+   "children": [], 
+   "end": "152.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass der Fachkr\u00e4ftemangel gelindert wird. "
+   ]
+  }, 
+  {
+   "begin": "152.920", 
+   "children": [], 
+   "end": "154.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir bilden uns st\u00e4ndig weiter, "
+   ]
+  }, 
+  {
+   "begin": "154.400", 
+   "children": [], 
+   "end": "157.040", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "um exakt die nachgefragten Kenntnisse abzudecken, "
+   ]
+  }, 
+  {
+   "begin": "157.040", 
+   "children": [], 
+   "end": "158.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die die Wirtschaft braucht. "
+   ]
+  }, 
+  {
+   "begin": "158.560", 
+   "children": [], 
+   "end": "161.280", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Denn wer die L\u00fccken f\u00fcllen kann, "
+   ]
+  }, 
+  {
+   "begin": "161.280", 
+   "children": [], 
+   "end": "163.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "der bekommt auch Auftr\u00e4ge. "
+   ]
+  }, 
+  {
+   "begin": "163.080", 
+   "children": [], 
+   "end": "165.760", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind das R\u00fcckgrat der Wirtschaft."
+   ]
+  }, 
+  {
+   "begin": "165.760", 
+   "children": [], 
+   "end": "169.360", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Die Kr\u00f6nung ist die Arbeitslosenversicherung f\u00fcr Selbst\u00e4ndige. "
+   ]
+  }, 
+  {
+   "begin": "169.360", 
+   "children": [], 
+   "end": "170.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Linke, "
+   ]
+  }, 
+  {
+   "begin": "170.480", 
+   "children": [], 
+   "end": "173.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ich hatte jeden Monat ein anderes Einkommen. "
+   ]
+  }, 
+  {
+   "begin": "173.080", 
+   "children": [], 
+   "end": "175.400", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Welchen Monatslohn soll ich denn versichern? "
+   ]
+  }, 
+  {
+   "begin": "175.400", 
+   "children": [], 
+   "end": "177.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wir Selbst\u00e4ndigen haben gar keinen Monatslohn. "
+   ]
+  }, 
+  {
+   "begin": "177.960", 
+   "children": [], 
+   "end": "178.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Angenommen, "
+   ]
+  }, 
+  {
+   "begin": "178.800", 
+   "children": [], 
+   "end": "179.360", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "ich h\u00e4tte vier Kunden, "
+   ]
+  }, 
+  {
+   "begin": "179.360", 
+   "children": [], 
+   "end": "181.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "zwei beendeten die Zusammenarbeit mit mir, "
+   ]
+  }, 
+  {
+   "begin": "181.480", 
+   "children": [], 
+   "end": "185.880", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "und von den verbleibenden 700\u00a0Euro Einnahmen im Monat k\u00f6nnte ich nicht mehr leben. "
+   ]
+  }, 
+  {
+   "begin": "185.880", 
+   "children": [], 
+   "end": "188.320", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wann sollte denn die Arbeitslosenversicherung greifen? "
+   ]
+  }, 
+  {
+   "begin": "188.320", 
+   "children": [], 
+   "end": "190.680", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Sollte ich mich in meiner Problemlage arbeitslos melden, "
+   ]
+  }, 
+  {
+   "begin": "190.680", 
+   "children": [], 
+   "end": "192.440", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "obwohl ich \u00fcberhaupt nicht arbeitslos w\u00e4re? "
+   ]
+  }, 
+  {
+   "begin": "192.440", 
+   "children": [], 
+   "end": "193.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wie sollte das denn funktionieren, "
+   ]
+  }, 
+  {
+   "begin": "193.560", 
+   "children": [], 
+   "end": "195.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wie sollte ein Selbstst\u00e4ndiger arbeitslos werden? "
+   ]
+  }, 
+  {
+   "begin": "195.760", 
+   "children": [], 
+   "end": "196.720", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben keine Ahnung, "
+   ]
+  }, 
+  {
+   "begin": "196.720", 
+   "children": [], 
+   "end": "197.600", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "wie wir arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "197.600", 
+   "children": [], 
+   "end": "200.240", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Daher verschonen Sie uns bitte mit Ihren Hilfsangeboten!"
+   ]
+  }, 
+  {
+   "begin": "200.240", 
+   "children": [], 
+   "end": "207.840", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben schon genug b\u00fcrokratischen \u00c4rger mit der komplizierten Statusfeststellung, "
+   ]
+  }, 
+  {
+   "begin": "207.840", 
+   "children": [], 
+   "end": "208.800", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "also dem Nachweis, "
+   ]
+  }, 
+  {
+   "begin": "208.800", 
+   "children": [], 
+   "end": "210.800", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "dass wir tats\u00e4chlich selbstst\u00e4ndig sind. "
+   ]
+  }, 
+  {
+   "begin": "210.800", 
+   "children": [], 
+   "end": "214.440", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen aufwendig unsere Auftraggeber von diesen Nachweisen \u00fcberzeugen. "
+   ]
+  }, 
+  {
+   "begin": "214.440", 
+   "children": [], 
+   "end": "217.120", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen uns jetzt noch in die gesetzliche Rente zwingen, "
+   ]
+  }, 
+  {
+   "begin": "217.120", 
+   "children": [], 
+   "end": "219.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen uns in die gesetzliche Krankenversicherung zwingen, "
+   ]
+  }, 
+  {
+   "begin": "219.720", 
+   "children": [], 
+   "end": "221.840", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "und die Steuern wollen Sie sowieso dauernd erh\u00f6hen."
+   ]
+  }, 
+  {
+   "begin": "221.840", 
+   "children": [], 
+   "end": "223.480", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Wir lehnen Ihre Hilfe dankend ab, "
+   ]
+  }, 
+  {
+   "begin": "223.480", 
+   "children": [], 
+   "end": "225.040", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "und wir werden unsere Freiheit verteidigen. "
+   ]
+  }, 
+  {
+   "begin": "225.040", 
+   "children": [], 
+   "end": "226.520", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Verlassen Sie sich darauf."
+   ]
+  }, 
+  {
+   "begin": "226.520", 
+   "children": [], 
+   "end": "227.480", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "227.480", 
+   "children": [], 
+   "end": "229.520", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege M\u00fcller.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "229.520", 
+   "children": [], 
+   "end": "234.960", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster hat f\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen der Kollege Dr.\u00a0Wolfgang Strengmann-Kuhn das Wort."
+   ]
+  }
+ ]
+}

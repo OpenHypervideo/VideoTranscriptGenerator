@@ -1,0 +1,884 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "2.840", 
+   "children": [], 
+   "end": "10.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "children": [], 
+   "end": "15.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "15.480", 
+   "children": [], 
+   "end": "20.480", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich halte diesen Antrag mit dem geplanten Vorgehen f\u00fcr h\u00f6chst fragw\u00fcrdig und bedenklich. "
+   ]
+  }, 
+  {
+   "begin": "20.480", 
+   "children": [], 
+   "end": "24.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Der Deutsche Bundestag soll nach Willen der AfD-Fraktion etwas feststellen, "
+   ]
+  }, 
+  {
+   "begin": "24.440", 
+   "children": [], 
+   "end": "28.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "was ein Sammelsurium aus falschen und nicht gekl\u00e4rten Aussagen ist. "
+   ]
+  }, 
+  {
+   "begin": "28.680", 
+   "children": [], 
+   "end": "29.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sie schreiben, "
+   ]
+  }, 
+  {
+   "begin": "29.480", 
+   "children": [], 
+   "end": "34.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass mit dem Einheitlichen Patentgericht erstmals ein internationales Gericht geschaffen werde, "
+   ]
+  }, 
+  {
+   "begin": "34.240", 
+   "children": [], 
+   "end": "36.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "welches Zust\u00e4ndigkeiten im Privatrecht habe. "
+   ]
+  }, 
+  {
+   "begin": "36.960", 
+   "children": [], 
+   "end": "38.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren der AfD, "
+   ]
+  }, 
+  {
+   "begin": "38.840", 
+   "children": [], 
+   "end": "42.120", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "ich muss doch den Juristen Ihrer Fraktion bestimmt nicht sagen, "
+   ]
+  }, 
+  {
+   "begin": "42.120", 
+   "children": [], 
+   "end": "45.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "was Gegenstand von Vorlageverfahren zum Europ\u00e4ischen Gerichtshof sein kann. "
+   ]
+  }, 
+  {
+   "begin": "45.320", 
+   "children": [], 
+   "end": "50.560", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden doch \u00fcber privatrechtliche Verfahren an internationalen Gerichten Bescheid wissen."
+   ]
+  }, 
+  {
+   "begin": "50.560", 
+   "children": [], 
+   "end": "51.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Interessant ist vor allem das, "
+   ]
+  }, 
+  {
+   "begin": "51.920", 
+   "children": [], 
+   "end": "54.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "was Sie nicht sagen, "
+   ]
+  }, 
+  {
+   "begin": "54.440", 
+   "children": [], 
+   "end": "56.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "was Sie verschweigen. "
+   ]
+  }, 
+  {
+   "begin": "56.760", 
+   "children": [], 
+   "end": "58.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagen, "
+   ]
+  }, 
+  {
+   "begin": "58.200", 
+   "children": [], 
+   "end": "62.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass die Richterbesetzung nicht korrekt ablaufen werde. "
+   ]
+  }, 
+  {
+   "begin": "62.280", 
+   "children": [], 
+   "end": "64.040", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Die Stellen werden tats\u00e4chlich \u00f6ffentlich ausgeschrieben, "
+   ]
+  }, 
+  {
+   "begin": "64.040", 
+   "children": [], 
+   "end": "67.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und der Beratende Ausschuss gibt eine Stellungnahme zur Bewerberlage ab. "
+   ]
+  }, 
+  {
+   "begin": "67.160", 
+   "children": [], 
+   "end": "69.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Er hat jedoch nicht die Befugnis, "
+   ]
+  }, 
+  {
+   "begin": "69.360", 
+   "children": [], 
+   "end": "72.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Einfluss auf die Bewerber zu nehmen oder gar jemanden auszuschlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "72.800", 
+   "children": [], 
+   "end": "76.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Sie zeichnen also in diesem Punkt ein g\u00e4nzlich falsches Bild."
+   ]
+  }, 
+  {
+   "begin": "76.600", 
+   "children": [], 
+   "end": "83.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Dass die Richterernennung nicht exakt nach deutschem Vorbild verl\u00e4uft, "
+   ]
+  }, 
+  {
+   "begin": "83.480", 
+   "children": [], 
+   "end": "83.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "83.880", 
+   "children": [], 
+   "end": "84.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "glaube ich, "
+   ]
+  }, 
+  {
+   "begin": "84.720", 
+   "children": [], 
+   "end": "89.640", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "in einem Europa der verschiedenen Rechtstraditionen nur allzu verst\u00e4ndlich. "
+   ]
+  }, 
+  {
+   "begin": "89.640", 
+   "children": [], 
+   "end": "91.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir leben hier die europ\u00e4ische Idee, "
+   ]
+  }, 
+  {
+   "begin": "91.280", 
+   "children": [], 
+   "end": "93.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "ob es Ihnen gef\u00e4llt oder nicht."
+   ]
+  }, 
+  {
+   "begin": "93.160", 
+   "children": [], 
+   "end": "95.040", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Ihnen das noch nicht ausreicht: "
+   ]
+  }, 
+  {
+   "begin": "95.040", 
+   "children": [], 
+   "end": "102.080", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Artikel\u00a017 des \u00dcbereinkommens \u00fcber ein Einheitliches Patentgericht befasst sich mit der richterlichen Unabh\u00e4ngigkeit und Unparteilichkeit. "
+   ]
+  }, 
+  {
+   "begin": "102.080", 
+   "children": [], 
+   "end": "103.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Da wird ausdr\u00fccklich vorgesehen, "
+   ]
+  }, 
+  {
+   "begin": "103.600", 
+   "children": [], 
+   "end": "110.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Richter im Fall der Befangenheit sich entschuldigen muss und nicht an dem Verfahren teilnehmen kann. "
+   ]
+  }, 
+  {
+   "begin": "110.160", 
+   "children": [], 
+   "end": "112.760", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus ist es in h\u00f6chstem Ma\u00dfe anma\u00dfend, "
+   ]
+  }, 
+  {
+   "begin": "112.760", 
+   "children": [], 
+   "end": "117.640", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie sich als Teil der Legislative einen verfassungsrechtlichen Urteilspruch erlauben. "
+   ]
+  }, 
+  {
+   "begin": "117.640", 
+   "children": [], 
+   "end": "120.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Sie greifen damit der judikativen Bewertung vollkommen vorweg. "
+   ]
+  }, 
+  {
+   "begin": "120.800", 
+   "children": [], 
+   "end": "123.600", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Dabei stellen Sie sich sonst als H\u00fcter der Verfassung dar. "
+   ]
+  }, 
+  {
+   "begin": "123.600", 
+   "children": [], 
+   "end": "126.840", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Sie offenbaren aber hier in Perfektion, "
+   ]
+  }, 
+  {
+   "begin": "126.840", 
+   "children": [], 
+   "end": "129.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie selber ein sehr bedenkliches Verfassungsverst\u00e4ndnis besitzen. "
+   ]
+  }, 
+  {
+   "begin": "129.720", 
+   "children": [], 
+   "end": "131.960", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die Gewaltenteilung l\u00e4sst gr\u00fc\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "131.960", 
+   "children": [], 
+   "end": "138.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das Europ\u00e4ische Patent\u00fcbereinkommen wurde von allen Mitgliedstaaten ratifiziert. "
+   ]
+  }, 
+  {
+   "begin": "138.400", 
+   "children": [], 
+   "end": "139.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Man hat sich auf das Verfahren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "139.680", 
+   "children": [], 
+   "end": "141.240", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "bis hin zur Patenterteilung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "141.240", 
+   "children": [], 
+   "end": "142.200", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "verst\u00e4ndigt. "
+   ]
+  }, 
+  {
+   "begin": "142.200", 
+   "children": [], 
+   "end": "147.880", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Die gemeinsame Durchsetzung und Rechtsprechung nach der Patenterteilung ist damit eigentlich nur folgerichtig. "
+   ]
+  }, 
+  {
+   "begin": "147.880", 
+   "children": [], 
+   "end": "154.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Dem fragmentierten Patentmarkt und den betr\u00e4chtlichen Unterschieden zwischen den nationalen Gerichtssystemen wirken wir damit entgegen. "
+   ]
+  }, 
+  {
+   "begin": "154.200", 
+   "children": [], 
+   "end": "161.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Genau das schafft Rechtssicherheit und sch\u00fctzt damit kleine und mittlere Unternehmen vor ungerechtfertigten und zahlreichen Klagen."
+   ]
+  }, 
+  {
+   "begin": "161.520", 
+   "children": [], 
+   "end": "167.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das ist auch f\u00fcr den Mittelstand ein wichtiger Standortvorteil in der Europ\u00e4ischen Union, "
+   ]
+  }, 
+  {
+   "begin": "167.000", 
+   "children": [], 
+   "end": "169.480", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "und genau das lobt die Patentanwaltschaft, "
+   ]
+  }, 
+  {
+   "begin": "169.480", 
+   "children": [], 
+   "end": "173.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "die ja dieses System seit Jahren im Sinne der Anwenderschaft positiv begleitet hat."
+   ]
+  }, 
+  {
+   "begin": "173.800", 
+   "children": [], 
+   "end": "174.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Es ist eben nicht so, "
+   ]
+  }, 
+  {
+   "begin": "174.560", 
+   "children": [], 
+   "end": "175.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wie von Ihnen behauptet, "
+   ]
+  }, 
+  {
+   "begin": "175.480", 
+   "children": [], 
+   "end": "182.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass die gesamte und ausschlie\u00dfliche Zust\u00e4ndigkeit f\u00fcr Patentfragen einem einheitlichen Patentgericht unterliegen soll. "
+   ]
+  }, 
+  {
+   "begin": "182.680", 
+   "children": [], 
+   "end": "185.680", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Nur wenn es sich um europ\u00e4ische Patentanmeldungen handelt, "
+   ]
+  }, 
+  {
+   "begin": "185.680", 
+   "children": [], 
+   "end": "189.160", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "ist ein Einheitliches Patentgericht ausschlie\u00dfliche Gerichtsbarkeit. "
+   ]
+  }, 
+  {
+   "begin": "189.160", 
+   "children": [], 
+   "end": "191.360", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Europ\u00e4ische Patentanmeldung, "
+   ]
+  }, 
+  {
+   "begin": "191.360", 
+   "children": [], 
+   "end": "192.480", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "europ\u00e4ische Gerichtsbarkeit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "192.480", 
+   "children": [], 
+   "end": "193.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "klingt vern\u00fcnftig, "
+   ]
+  }, 
+  {
+   "begin": "193.440", 
+   "children": [], 
+   "end": "194.680", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "ist es n\u00e4mlich auch."
+   ]
+  }, 
+  {
+   "begin": "194.680", 
+   "children": [], 
+   "end": "198.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Es bleibt aber nach wie vor f\u00fcr deutsche Patente der deutsche Rechtsweg offen. "
+   ]
+  }, 
+  {
+   "begin": "198.280", 
+   "children": [], 
+   "end": "200.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir schaffen damit ein rechtsstaatlich vern\u00fcnftiges System. "
+   ]
+  }, 
+  {
+   "begin": "200.920", 
+   "children": [], 
+   "end": "205.960", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Gerade an den Schnittstellen nationaler und europ\u00e4ischer Patentrechte werden damit klare Regeln geschaffen. "
+   ]
+  }, 
+  {
+   "begin": "205.960", 
+   "children": [], 
+   "end": "206.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Doppelpatentierung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "206.880", 
+   "children": [], 
+   "end": "207.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ja, "
+   ]
+  }, 
+  {
+   "begin": "207.440", 
+   "children": [], 
+   "end": "208.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Doppeldurchsetzung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "208.240", 
+   "children": [], 
+   "end": "209.160", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "nein."
+   ]
+  }, 
+  {
+   "begin": "209.160", 
+   "children": [], 
+   "end": "210.400", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage mich dann aber schon, "
+   ]
+  }, 
+  {
+   "begin": "210.400", 
+   "children": [], 
+   "end": "215.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "warum Ihre Fraktion die Benennung eines Prozessbevollm\u00e4chtigten f\u00fcr die Verfassungsbeschwerde unterst\u00fctzt hat, "
+   ]
+  }, 
+  {
+   "begin": "215.960", 
+   "children": [], 
+   "end": "221.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "gleichzeitig jetzt aber das laufende Verfahren und die Entscheidung unseres h\u00f6chsten deutschen Gerichtes nicht beachten m\u00f6chte. "
+   ]
+  }, 
+  {
+   "begin": "221.760", 
+   "children": [], 
+   "end": "225.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Das ist aus meiner Sicht an Scheinheiligkeit nicht zu \u00fcberbieten."
+   ]
+  }, 
+  {
+   "begin": "225.440", 
+   "children": [], 
+   "end": "229.480", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren der AfD, "
+   ]
+  }, 
+  {
+   "begin": "229.480", 
+   "children": [], 
+   "end": "230.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "jetzt einmal Butter bei die Fische: "
+   ]
+  }, 
+  {
+   "begin": "230.640", 
+   "children": [], 
+   "end": "231.520", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Sie fordern, "
+   ]
+  }, 
+  {
+   "begin": "231.520", 
+   "children": [], 
+   "end": "232.280", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "das Gesetz abzuschaffen, "
+   ]
+  }, 
+  {
+   "begin": "232.280", 
+   "children": [], 
+   "end": "234.120", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "sagen aber nichts dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "234.120", 
+   "children": [], 
+   "end": "236.760", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie eigentlich den Inhalt des Gesetzes sehen. "
+   ]
+  }, 
+  {
+   "begin": "236.760", 
+   "children": [], 
+   "end": "238.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Wollen Sie das Einheitliche Patentgericht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "238.760", 
+   "children": [], 
+   "end": "239.640", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "ja oder nein? "
+   ]
+  }, 
+  {
+   "begin": "239.640", 
+   "children": [], 
+   "end": "240.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ja, "
+   ]
+  }, 
+  {
+   "begin": "240.280", 
+   "children": [], 
+   "end": "241.520", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "wie wollen Sie es ausgestalten? "
+   ]
+  }, 
+  {
+   "begin": "241.520", 
+   "children": [], 
+   "end": "242.640", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Sie wissen doch ganz genau, "
+   ]
+  }, 
+  {
+   "begin": "242.640", 
+   "children": [], 
+   "end": "246.240", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass alle Aussch\u00fcsse den Gesetzentwurf damals einstimmig bef\u00fcrwortet haben. "
+   ]
+  }, 
+  {
+   "begin": "246.240", 
+   "children": [], 
+   "end": "247.840", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin der festen \u00dcberzeugung, "
+   ]
+  }, 
+  {
+   "begin": "247.840", 
+   "children": [], 
+   "end": "250.200", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "dass es jetzt bei einer erneuten Abstimmung genauso w\u00e4re."
+   ]
+  }, 
+  {
+   "begin": "250.200", 
+   "children": [], 
+   "end": "255.560", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wenn auch Sie das Einheitliche Patentgericht sinnvollerweise bef\u00fcrworten, "
+   ]
+  }, 
+  {
+   "begin": "255.560", 
+   "children": [], 
+   "end": "259.040", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dann war diese Diskussion doch wieder nur eins: "
+   ]
+  }, 
+  {
+   "begin": "259.040", 
+   "children": [], 
+   "end": "265.520", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Effekthascherei."
+   ]
+  }, 
+  {
+   "begin": "265.520", 
+   "children": [], 
+   "end": "270.000", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion Die Linke hat Friedrich Straetmanns das Wort."
+   ]
+  }
+ ]
+}

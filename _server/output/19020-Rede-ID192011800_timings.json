@@ -1,0 +1,734 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.000", 
+   "children": [], 
+   "end": "7.920", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "children": [], 
+   "end": "11.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Zum Abschluss eines langen Plenartages mal ein Thema, "
+   ]
+  }, 
+  {
+   "begin": "11.320", 
+   "children": [], 
+   "end": "15.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "das wohl kein Aufregerthema sein wird. "
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "children": [], 
+   "end": "19.080", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Im M\u00e4rz\u00a02017 hat das Vorg\u00e4ngerparlament, "
+   ]
+  }, 
+  {
+   "begin": "19.080", 
+   "children": [], 
+   "end": "21.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "18.\u00a0Wahlperiode, "
+   ]
+  }, 
+  {
+   "begin": "21.280", 
+   "children": [], 
+   "end": "23.840", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "nachts um 1.30\u00a0Uhr,"
+   ]
+  }, 
+  {
+   "begin": "23.840", 
+   "children": [], 
+   "end": "28.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "also noch zu einer ganz anderen Zeit als jetzt, "
+   ]
+  }, 
+  {
+   "begin": "28.480", 
+   "children": [], 
+   "end": "41.200", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ein Zustimmungsgesetz zu einem Abkommen auf EU-Ebene zur Einrichtung eines einheitlichen Patentgerichts beschlossen."
+   ]
+  }, 
+  {
+   "begin": "41.200", 
+   "children": [], 
+   "end": "46.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ein Abkommen zur Einrichtung eines einheitlichen Patentgerichts. "
+   ]
+  }, 
+  {
+   "begin": "46.760", 
+   "children": [], 
+   "end": "49.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "So weit, "
+   ]
+  }, 
+  {
+   "begin": "49.800", 
+   "children": [], 
+   "end": "56.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "so gut."
+   ]
+  }, 
+  {
+   "begin": "56.800", 
+   "children": [], 
+   "end": "59.560", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Gegenstand des Abkommens ist, "
+   ]
+  }, 
+  {
+   "begin": "59.560", 
+   "children": [], 
+   "end": "67.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass eine ausschlie\u00dfliche Zust\u00e4ndigkeit f\u00fcr s\u00e4mtliche Patentstreitigkeiten geschaffen wird, "
+   ]
+  }, 
+  {
+   "begin": "67.240", 
+   "children": [], 
+   "end": "71.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die auf europ\u00e4ischen Patenten beruhen. "
+   ]
+  }, 
+  {
+   "begin": "71.560", 
+   "children": [], 
+   "end": "74.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Problem, "
+   ]
+  }, 
+  {
+   "begin": "74.080", 
+   "children": [], 
+   "end": "78.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "weil unser Artikel\u00a092 Grundgesetz regelt, "
+   ]
+  }, 
+  {
+   "begin": "78.040", 
+   "children": [], 
+   "end": "80.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wer in Deutschland die Rechtsprechung aus\u00fcbt, "
+   ]
+  }, 
+  {
+   "begin": "80.040", 
+   "children": [], 
+   "end": "82.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich das Bundesverfassungsgericht, "
+   ]
+  }, 
+  {
+   "begin": "82.160", 
+   "children": [], 
+   "end": "85.040", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die Gerichte des Bundes und die der L\u00e4nder. "
+   ]
+  }, 
+  {
+   "begin": "85.040", 
+   "children": [], 
+   "end": "95.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man also einen Teil der Rechtsprechung herausstanzt und auf ein europ\u00e4isches oder ein anderes Gericht \u00fcbertr\u00e4gt, "
+   ]
+  }, 
+  {
+   "begin": "95.600", 
+   "children": [], 
+   "end": "99.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dann ist daf\u00fcr eine \u00c4nderung der Verfassung notwendig. "
+   ]
+  }, 
+  {
+   "begin": "99.280", 
+   "children": [], 
+   "end": "101.920", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Dazu sagt Artikel\u00a079 Grundgesetz, "
+   ]
+  }, 
+  {
+   "begin": "101.920", 
+   "children": [], 
+   "end": "105.080", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass man daf\u00fcr eine Zweidrittelmehrheit braucht."
+   ]
+  }, 
+  {
+   "begin": "105.080", 
+   "children": [], 
+   "end": "109.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Nun waren allerdings an dem Abend oder an dem fr\u00fchen Morgen, "
+   ]
+  }, 
+  {
+   "begin": "109.040", 
+   "children": [], 
+   "end": "111.080", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "je nachdem, "
+   ]
+  }, 
+  {
+   "begin": "111.080", 
+   "children": [], 
+   "end": "111.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wie man es sieht, "
+   ]
+  }, 
+  {
+   "begin": "111.920", 
+   "children": [], 
+   "end": "115.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "ganze 35\u00a0Abgeordnete anwesend\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "115.520", 
+   "children": [], 
+   "end": "119.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "ausweislich des Videomitschnitts des Parlamentsfernsehens. "
+   ]
+  }, 
+  {
+   "begin": "119.480", 
+   "children": [], 
+   "end": "122.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Manchmal ist Transparenz auch nicht so gut. "
+   ]
+  }, 
+  {
+   "begin": "122.640", 
+   "children": [], 
+   "end": "123.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ein Einschub: "
+   ]
+  }, 
+  {
+   "begin": "125.320", 
+   "children": [], 
+   "end": "127.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df nicht, "
+   ]
+  }, 
+  {
+   "begin": "127.200", 
+   "children": [], 
+   "end": "131.560", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "ob es nur der AfD-Fraktion so geht, "
+   ]
+  }, 
+  {
+   "begin": "131.560", 
+   "children": [], 
+   "end": "137.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bilder von einem fast leeren Plenarsaal Unbehagen ausl\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "137.600", 
+   "children": [], 
+   "end": "142.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Das Ansehen des Parlaments wird dadurch sicherlich nicht gesteigert."
+   ]
+  }, 
+  {
+   "begin": "142.240", 
+   "children": [], 
+   "end": "145.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Erz\u00e4hlen Sie das den Menschen drau\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "145.000", 
+   "children": [], 
+   "end": "146.280", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "146.280", 
+   "children": [], 
+   "end": "148.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "ich w\u00e4re Ihnen trotzdem dankbar, "
+   ]
+  }, 
+  {
+   "begin": "148.240", 
+   "children": [], 
+   "end": "150.480", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie zur Sache sprechen w\u00fcrden."
+   ]
+  }, 
+  {
+   "begin": "150.480", 
+   "children": [], 
+   "end": "151.920", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zur\u00fcck zur Sache.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "151.920", 
+   "children": [], 
+   "end": "160.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Mit der Behauptung einer formellen Verfassungswidrigkeit wurde Verfassungsbeschwerde eingelegt. "
+   ]
+  }, 
+  {
+   "begin": "160.000", 
+   "children": [], 
+   "end": "161.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das hat das Bundesverfassungsgericht veranlasst, "
+   ]
+  }, 
+  {
+   "begin": "161.840", 
+   "children": [], 
+   "end": "163.600", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "den Bundespr\u00e4sidenten zu ersuchen, "
+   ]
+  }, 
+  {
+   "begin": "163.600", 
+   "children": [], 
+   "end": "165.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "das Gesetz nicht zu unterschreiben. "
+   ]
+  }, 
+  {
+   "begin": "165.120", 
+   "children": [], 
+   "end": "166.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "So geschah es. "
+   ]
+  }, 
+  {
+   "begin": "166.320", 
+   "children": [], 
+   "end": "169.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Verfahren befindet es sich jetzt."
+   ]
+  }, 
+  {
+   "begin": "169.040", 
+   "children": [], 
+   "end": "179.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Der Bundestag wurde im Zuge des Verfassungsbeschwerdeverfahrens im Rechtsausschuss wieder mit der Sache befasst"
+   ]
+  }, 
+  {
+   "begin": "179.120", 
+   "children": [], 
+   "end": "181.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "und gab eine Stellungnahme ab, "
+   ]
+  }, 
+  {
+   "begin": "181.760", 
+   "children": [], 
+   "end": "183.120", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die in etwa lautete, "
+   ]
+  }, 
+  {
+   "begin": "183.120", 
+   "children": [], 
+   "end": "185.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "das sei alles kein Problem; "
+   ]
+  }, 
+  {
+   "begin": "185.040", 
+   "children": [], 
+   "end": "187.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "denn das sei von der Befugnis umfasst, "
+   ]
+  }, 
+  {
+   "begin": "187.360", 
+   "children": [], 
+   "end": "193.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Kompetenzen zu \u00fcbertragen, "
+   ]
+  }, 
+  {
+   "begin": "193.320", 
+   "children": [], 
+   "end": "197.240", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Stichwort Artikel\u00a023 Grundgesetz. "
+   ]
+  }, 
+  {
+   "begin": "197.240", 
+   "children": [], 
+   "end": "199.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das scheint mir eine steile These zu sein; "
+   ]
+  }, 
+  {
+   "begin": "199.360", 
+   "children": [], 
+   "end": "201.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "denn wenn das richtig w\u00e4re, "
+   ]
+  }, 
+  {
+   "begin": "201.280", 
+   "children": [], 
+   "end": "207.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dann w\u00fcrde zwar normalerweise ein verfassungs\u00e4nderndes Gesetz der Zweidrittelmehrheit bed\u00fcrfen, "
+   ]
+  }, 
+  {
+   "begin": "207.080", 
+   "children": [], 
+   "end": "210.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "aber wenn man zus\u00e4tzlich noch Kompetenzen abg\u00e4be, "
+   ]
+  }, 
+  {
+   "begin": "210.360", 
+   "children": [], 
+   "end": "211.920", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dann eben nicht. "
+   ]
+  }, 
+  {
+   "begin": "211.920", 
+   "children": [], 
+   "end": "216.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Wertungswiderspruch, "
+   ]
+  }, 
+  {
+   "begin": "216.000", 
+   "children": [], 
+   "end": "218.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "den ich gerne erl\u00e4utert h\u00e4tte."
+   ]
+  }, 
+  {
+   "begin": "218.000", 
+   "children": [], 
+   "end": "220.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Unserer Ansicht nach ist zu bef\u00fcrchten, "
+   ]
+  }, 
+  {
+   "begin": "220.400", 
+   "children": [], 
+   "end": "223.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass diese Verfassungsbeschwerde Erfolg hat. "
+   ]
+  }, 
+  {
+   "begin": "223.600", 
+   "children": [], 
+   "end": "232.200", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Immerhin ist in rund anderthalb Jahren bis jetzt keine A-limine-Abweisung wegen offensichtlicher Erfolglosigkeit, "
+   ]
+  }, 
+  {
+   "begin": "232.200", 
+   "children": [], 
+   "end": "234.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wegen Unbegr\u00fcndetheit erfolgt. "
+   ]
+  }, 
+  {
+   "begin": "234.560", 
+   "children": [], 
+   "end": "243.560", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Sollten die Alarmglocken klingeln und Zweifel an der formellen Verfassungsgem\u00e4\u00dfheit hier erlassener Gesetze aufkommen, "
+   ]
+  }, 
+  {
+   "begin": "243.560", 
+   "children": [], 
+   "end": "247.320", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "sollte man das nicht dem Bundesverfassungsgericht vor die F\u00fc\u00dfe kippen, "
+   ]
+  }, 
+  {
+   "begin": "247.320", 
+   "children": [], 
+   "end": "252.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir k\u00f6nnten das als Verfassungsgeber bereinigen, "
+   ]
+  }, 
+  {
+   "begin": "252.040", 
+   "children": [], 
+   "end": "255.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "indem wir zum Beispiel das Gesetz aufheben. "
+   ]
+  }, 
+  {
+   "begin": "255.720", 
+   "children": [], 
+   "end": "258.640", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Dann mag gerne ein Entwurf vorgelegt werden, "
+   ]
+  }, 
+  {
+   "begin": "258.640", 
+   "children": [], 
+   "end": "264.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "in dem das \u00dcbereinkommen erneut eingebracht wird und diesmal mit der erforderlichen Mehrheit verabschiedet wird, "
+   ]
+  }, 
+  {
+   "begin": "264.000", 
+   "children": [], 
+   "end": "266.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wenn sich denn eine solche Mehrheit findet."
+   ]
+  }, 
+  {
+   "begin": "266.400", 
+   "children": [], 
+   "end": "275.120", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne danke ich f\u00fcr Ihre Aufmerksamkeit und bitte um Zustimmung."
+   ]
+  }, 
+  {
+   "begin": "275.120", 
+   "children": [], 
+   "end": "287.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Zu seiner ersten Rede im Deutschen Bundestag hat nun der Kollege Ingmar Jung f\u00fcr die CDU/CSU-Fraktion das Wort."
+   ]
+  }
+ ]
+}

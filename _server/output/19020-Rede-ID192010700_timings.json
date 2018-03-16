@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.120", 
+   "children": [], 
+   "end": "0.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "0.400", 
+   "children": [], 
+   "end": "1.520", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Den vorliegenden Antrag haben wir in der letzten Woche schon in den sozialen Medien beworben. "
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "children": [], 
+   "end": "3.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Da ist so mancher Kommentar ziemlich erstaunlich gewesen. "
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "children": [], 
+   "end": "3.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Beispielsweise hie\u00df es, "
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "children": [], 
+   "end": "4.240", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "es sei unklar, "
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "children": [], 
+   "end": "5.520", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "warum wir f\u00fcr Selbstst\u00e4ndige ein branchenspezifisches Mindest- "
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "children": [], 
+   "end": "6.760", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "oder Basishonorar fordern; "
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "children": [], 
+   "end": "8.240", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "schlie\u00dflich seien Selbstst\u00e4ndige in ihrer Entscheidung viel freier. "
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "children": [], 
+   "end": "8.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es denn die Zeiten je gab, "
+   ]
+  }, 
+  {
+   "begin": "8.880", 
+   "children": [], 
+   "end": "9.440", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "so muss man sagen, "
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "children": [], 
+   "end": "10.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "sind sie doch f\u00fcr viele vorbei. "
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "children": [], 
+   "end": "11.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das hat mit der fortschreitenden Prekarisierung der gesamten Arbeitswelt zu tun, "
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "children": [], 
+   "end": "12.080", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und dagegen wollen wir etwas tun."
+   ]
+  }, 
+  {
+   "begin": "12.080", 
+   "children": [], 
+   "end": "13.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Aktuell gibt es in diesem Land etwa 4,2\u00a0Millionen\u00a0Selbstst\u00e4ndige, "
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "children": [], 
+   "end": "14.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "rund die H\u00e4lfte davon ist solo-selbstst\u00e4ndig. "
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "children": [], 
+   "end": "15.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir beziehen uns in diesem Antrag vor allem auf jene, "
+   ]
+  }, 
+  {
+   "begin": "15.480", 
+   "children": [], 
+   "end": "16.560", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die nur ein geringes Einkommen erwirtschaften. "
+   ]
+  }, 
+  {
+   "begin": "16.560", 
+   "children": [], 
+   "end": "16.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Darunter sind viele, "
+   ]
+  }, 
+  {
+   "begin": "16.640", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die eigentlich unfreiwillig selbstst\u00e4ndig geworden sind, "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "18.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die quasi vor Arbeitslosigkeit gefl\u00fcchtet sind. "
+   ]
+  }, 
+  {
+   "begin": "18.080", 
+   "children": [], 
+   "end": "19.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wir finden darunter Grafiker, "
+   ]
+  }, 
+  {
+   "begin": "19.200", 
+   "children": [], 
+   "end": "19.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Designer, "
+   ]
+  }, 
+  {
+   "begin": "19.400", 
+   "children": [], 
+   "end": "19.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Reinigungskr\u00e4fte, "
+   ]
+  }, 
+  {
+   "begin": "19.840", 
+   "children": [], 
+   "end": "21.600", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "IT-Experten oder auch Kurierdienstfahrer und schlie\u00dflich Lehrende an Musik- "
+   ]
+  }, 
+  {
+   "begin": "21.600", 
+   "children": [], 
+   "end": "21.601", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "oder auch Hochschulen. "
+   ]
+  }, 
+  {
+   "begin": "21.601", 
+   "children": [], 
+   "end": "23.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Lassen wir vielleicht mal einen Lieferfahrer aus einem \u201eFAZ\u201c-Artikel zu Wort kommen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.760", 
+   "children": [], 
+   "end": "23.880", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "23.880", 
+   "children": [], 
+   "end": "24.000", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Weil Christoph nicht angestellt ist, "
+   ]
+  }, 
+  {
+   "begin": "24.000", 
+   "children": [], 
+   "end": "24.360", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "bekommt er kein Geld, "
+   ]
+  }, 
+  {
+   "begin": "24.360", 
+   "children": [], 
+   "end": "25.640", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wenn er verletzt oder krank ist. "
+   ]
+  }, 
+  {
+   "begin": "25.640", 
+   "children": [], 
+   "end": "27.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr R\u00fccklagen reicht sein Gehalt nicht aus. "
+   ]
+  }, 
+  {
+   "begin": "27.200", 
+   "children": [], 
+   "end": "28.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Was er bei einem Unfall machen w\u00fcrde? "
+   ]
+  }, 
+  {
+   "begin": "28.040", 
+   "children": [], 
+   "end": "28.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDann h\u00e4tte ich wohl ein ziemlich dickes Problem\u201c, "
+   ]
+  }, 
+  {
+   "begin": "28.240", 
+   "children": [], 
+   "end": "28.360", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "sagt er. "
+   ]
+  }, 
+  {
+   "begin": "28.360", 
+   "children": [], 
+   "end": "28.361", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr Unfall- "
+   ]
+  }, 
+  {
+   "begin": "28.361", 
+   "children": [], 
+   "end": "28.880", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "und Krankenversicherung muss er selbst aufkommen."
+   ]
+  }, 
+  {
+   "begin": "28.880", 
+   "children": [], 
+   "end": "32.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Im letzten Jahr hat meine Fraktion eine Gro\u00dfe Anfrage zur sozialen Lage von Solo-Selbstst\u00e4ndigen gestellt. "
+   ]
+  }, 
+  {
+   "begin": "32.440", 
+   "children": [], 
+   "end": "33.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Aus der Antwort ist hervorgegangen, "
+   ]
+  }, 
+  {
+   "begin": "33.680", 
+   "children": [], 
+   "end": "35.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass circa 30\u00a0Prozent aller Solo-Selbstst\u00e4ndigen \u00fcber ein Nettoeinkommen von unter 1\u00a0100\u00a0Euro verf\u00fcgen. "
+   ]
+  }, 
+  {
+   "begin": "35.720", 
+   "children": [], 
+   "end": "35.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "35.880", 
+   "children": [], 
+   "end": "36.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "sie haben ein massives Problem bei der sozialen Absicherung. "
+   ]
+  }, 
+  {
+   "begin": "36.840", 
+   "children": [], 
+   "end": "38.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Vor einiger Zeit sa\u00df bei mir im Wahlkreis jemand in der Sprechstunde, "
+   ]
+  }, 
+  {
+   "begin": "38.120", 
+   "children": [], 
+   "end": "38.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "der 17\u00a0000\u00a0Euro\u00a0Schulden bei seiner Krankenkasse hatte, "
+   ]
+  }, 
+  {
+   "begin": "38.800", 
+   "children": [], 
+   "end": "39.160", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wodurch klar ist, "
+   ]
+  }, 
+  {
+   "begin": "39.160", 
+   "children": [], 
+   "end": "40.320", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass er \u00fcberhaupt nur im Notfall behandelt wird."
+   ]
+  }, 
+  {
+   "begin": "40.320", 
+   "children": [], 
+   "end": "40.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Etwa 3\u00a0Millionen\u00a0Selbstst\u00e4ndige sind nicht pflichtversichert. "
+   ]
+  }, 
+  {
+   "begin": "40.520", 
+   "children": [], 
+   "end": "43.360", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die meisten k\u00f6nnen sich zur Kompensation aber auch keine andere soziale Vorsorge leisten. "
+   ]
+  }, 
+  {
+   "begin": "43.360", 
+   "children": [], 
+   "end": "47.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Die Beitragss\u00e4tze bei der freiwilligen gesetzlichen Krankenversicherung betragen nicht selten bis 40\u00a0Prozent des Einkommens, "
+   ]
+  }, 
+  {
+   "begin": "47.280", 
+   "children": [], 
+   "end": "49.320", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "und das halten wir f\u00fcr einen unhaltbaren Zustand."
+   ]
+  }, 
+  {
+   "begin": "49.320", 
+   "children": [], 
+   "end": "50.320", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Besonders benachteiligt sind Frauen; "
+   ]
+  }, 
+  {
+   "begin": "50.320", 
+   "children": [], 
+   "end": "51.760", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "mehr als ein Drittel der Solo-Selbstst\u00e4ndigen sind Frauen. "
+   ]
+  }, 
+  {
+   "begin": "51.760", 
+   "children": [], 
+   "end": "53.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Oftmals haben diese familienbedingt geringere Arbeitszeiten. "
+   ]
+  }, 
+  {
+   "begin": "53.320", 
+   "children": [], 
+   "end": "54.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Dann sind eben auch Absicherung und Einkommen geringer; "
+   ]
+  }, 
+  {
+   "begin": "54.440", 
+   "children": [], 
+   "end": "56.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr ist die sp\u00e4tere Altersarmut aber h\u00f6her."
+   ]
+  }, 
+  {
+   "begin": "56.000", 
+   "children": [], 
+   "end": "58.600", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wer wie die letzten Bundesregierungen Selbstst\u00e4ndigkeit und Unternehmertum ganz hoch geh\u00e4ngt hat, "
+   ]
+  }, 
+  {
+   "begin": "58.600", 
+   "children": [], 
+   "end": "59.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "59.240", 
+   "children": [], 
+   "end": "61.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "der darf Dienstleistende in diesen Bereichen doch nicht h\u00e4ngen lassen."
+   ]
+  }, 
+  {
+   "begin": "61.120", 
+   "children": [], 
+   "end": "62.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen einen starken Dienstleistungssektor, "
+   ]
+  }, 
+  {
+   "begin": "62.360", 
+   "children": [], 
+   "end": "63.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "aber wir wollen ihn mit fairen Arbeitszeiten und fairen Verg\u00fctungen."
+   ]
+  }, 
+  {
+   "begin": "63.640", 
+   "children": [], 
+   "end": "64.840", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Ich greife einmal drei unserer Vorschl\u00e4ge heraus."
+   ]
+  }, 
+  {
+   "begin": "64.840", 
+   "children": [], 
+   "end": "65.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "65.080", 
+   "children": [], 
+   "end": "66.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Solo-Selbstst\u00e4ndige m\u00fcssen als Pflichtversicherte in die solidarische Gesundheits- "
+   ]
+  }, 
+  {
+   "begin": "66.120", 
+   "children": [], 
+   "end": "67.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "und Pflegeversicherung eingebunden werden."
+   ]
+  }, 
+  {
+   "begin": "67.080", 
+   "children": [], 
+   "end": "69.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Die Geringf\u00fcgigkeitsgrenze soll bei 450\u00a0Euro liegen. "
+   ]
+  }, 
+  {
+   "begin": "69.920", 
+   "children": [], 
+   "end": "70.080", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Bei h\u00f6heren Einkommen sind die Beitr\u00e4ge nat\u00fcrlich nach Einkommen gestaffelt."
+   ]
+  }, 
+  {
+   "begin": "70.080", 
+   "children": [], 
+   "end": "70.560", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "70.560", 
+   "children": [], 
+   "end": "71.760", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen eine Erwerbst\u00e4tigenversicherung."
+   ]
+  }, 
+  {
+   "begin": "71.760", 
+   "children": [], 
+   "end": "73.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Aber bis dahin sollen alle nicht in einem obligatorischen Altersvorsorgesystem abgesicherten Selbstst\u00e4ndigen in die gesetzliche Rentenversicherung einbezogen werden."
+   ]
+  }, 
+  {
+   "begin": "73.600", 
+   "children": [], 
+   "end": "74.600", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Deren Beitr\u00e4ge sollen sich nach dem tats\u00e4chlichen Einkommen richten."
+   ]
+  }, 
+  {
+   "begin": "74.600", 
+   "children": [], 
+   "end": "75.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Drittens wollen wir insgesamt etwas f\u00fcr die Interessenvertretungen tun."
+   ]
+  }, 
+  {
+   "begin": "75.680", 
+   "children": [], 
+   "end": "75.720", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "75.720", 
+   "children": [], 
+   "end": "76.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "76.200", 
+   "children": [], 
+   "end": "78.320", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Normalarbeitsverh\u00e4ltnisse sind in den letzten Jahren massiv ausgeh\u00f6hlt worden."
+   ]
+  }, 
+  {
+   "begin": "78.320", 
+   "children": [], 
+   "end": "79.720", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Kommen Sie bitte zum Schluss, "
+   ]
+  }, 
+  {
+   "begin": "79.720", 
+   "children": [], 
+   "end": "79.960", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin."
+   ]
+  }, 
+  {
+   "begin": "79.960", 
+   "children": [], 
+   "end": "80.120", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Jawohl.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "80.120", 
+   "children": [], 
+   "end": "81.720", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Eine Folge davon sind ungesicherte Besch\u00e4ftigungsbereiche. "
+   ]
+  }, 
+  {
+   "begin": "81.720", 
+   "children": [], 
+   "end": "83.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es uns so wichtig, "
+   ]
+  }, 
+  {
+   "begin": "83.040", 
+   "children": [], 
+   "end": "83.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in diesen Bereichen niemanden alleinlassen und auch schauen, "
+   ]
+  }, 
+  {
+   "begin": "83.440", 
+   "children": [], 
+   "end": "83.441", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "wie es jenen geht, "
+   ]
+  }, 
+  {
+   "begin": "83.441", 
+   "children": [], 
+   "end": "84.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "die aus diesen Besch\u00e4ftigungsverh\u00e4ltnissen herausgefallen sind. "
+   ]
+  }, 
+  {
+   "begin": "84.600", 
+   "children": [], 
+   "end": "86.680", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir jetzt nicht faire M\u00f6glichkeiten f\u00fcr die Betroffenen schaffen, "
+   ]
+  }, 
+  {
+   "begin": "86.680", 
+   "children": [], 
+   "end": "88.320", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "dann zahlen wir sp\u00e4ter drauf."
+   ]
+  }, 
+  {
+   "begin": "88.320", 
+   "children": [], 
+   "end": "88.800", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "88.800", 
+   "children": [], 
+   "end": "89.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "89.520", 
+   "children": [], 
+   "end": "89.960", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Frau Dr.\u00a0Sitte. "
+   ]
+  }, 
+  {
+   "begin": "89.960", 
+   "children": [], 
+   "end": "90.720", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Sie sollten Ihrem \u201eJawohl\u201c auch Taten folgen lassen und nicht auf meine Gro\u00dfmut setzen."
+   ]
+  }, 
+  {
+   "begin": "90.720", 
+   "children": [], 
+   "end": "91.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die CDU/CSU-Fraktion die Kollegin Jana Schimke."
+   ]
+  }
+ ]
+}

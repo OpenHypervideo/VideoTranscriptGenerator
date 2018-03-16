@@ -49,8 +49,7 @@ foreach ($fileArray as $fileName) {
 
 file_put_contents('input/xml/_index.json', json_encode($fileIndex));
 
-
-//getMediaIDs(dirname(__FILE__).'/input/xml/19002-data.xml');
+//getMediaIDs(dirname(__FILE__).'/input/xml/19020-data.xml');
 
 /**
  * @param $XMLFilePath

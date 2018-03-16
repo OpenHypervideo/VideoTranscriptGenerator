@@ -1,0 +1,924 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.120", 
+   "children": [], 
+   "end": "6.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "children": [], 
+   "end": "8.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Verehrter Herr Kollege von der FDP, "
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "children": [], 
+   "end": "9.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagten: "
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "children": [], 
+   "end": "13.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die neue Regierung ist die alte. "
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "children": [], 
+   "end": "15.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Da kann ich nur sagen: "
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "children": [], 
+   "end": "16.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sie hatten es in der Hand. "
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "children": [], 
+   "end": "18.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Leider sind diese Chancen vertan worden."
+   ]
+  }, 
+  {
+   "begin": "18.480", 
+   "children": [], 
+   "end": "19.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "19.480", 
+   "children": [], 
+   "end": "26.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "das Bundeswirtschaftsministerium hat heute einen Bericht zur wirtschaftlichen Lage in Deutschland in den ersten drei Monaten dieses Jahres ver\u00f6ffentlicht. "
+   ]
+  }, 
+  {
+   "begin": "26.120", 
+   "children": [], 
+   "end": "32.920", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das Bundeswirtschaftsministerium zeichnet ein sehr positives Bild von der wirtschaftlichen Entwicklung in unserem Land. "
+   ]
+  }, 
+  {
+   "begin": "32.920", 
+   "children": [], 
+   "end": "42.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Auch das gesamtwirtschaftliche Umfeld in Europa und in der ganzen Welt hat sich in den letzten Monaten sehr positiv entwickelt."
+   ]
+  }, 
+  {
+   "begin": "42.640", 
+   "children": [], 
+   "end": "48.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Der besondere Tr\u00e4ger der wirtschaftlichen Entwicklung in Deutschland ist der Au\u00dfenhandel. "
+   ]
+  }, 
+  {
+   "begin": "48.440", 
+   "children": [], 
+   "end": "58.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wie schon immer in den letzten Jahren ist der Au\u00dfenhandel neben dem privaten Verbrauch Treiber der wirtschaftlichen Entwicklung. "
+   ]
+  }, 
+  {
+   "begin": "58.720", 
+   "children": [], 
+   "end": "61.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es f\u00fcr uns besonders wichtig, "
+   ]
+  }, 
+  {
+   "begin": "61.760", 
+   "children": [], 
+   "end": "71.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass in der Welt ein m\u00f6glichst barrierefreier Handel stattfinden kann und dass wir Freihandel betreiben k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "71.760", 
+   "children": [], 
+   "end": "73.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Man muss deutlich sagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "73.320", 
+   "children": [], 
+   "end": "74.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "da gebe ich Ihnen recht, "
+   ]
+  }, 
+  {
+   "begin": "74.520", 
+   "children": [], 
+   "end": "76.120", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "76.120", 
+   "children": [], 
+   "end": "83.560", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Manche Fraktionen in diesem Hohen Hause verwechseln Freihandel mit Handel ohne Regeln. "
+   ]
+  }, 
+  {
+   "begin": "83.560", 
+   "children": [], 
+   "end": "85.200", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Aber genau das ist er nicht; "
+   ]
+  }, 
+  {
+   "begin": "85.200", 
+   "children": [], 
+   "end": "90.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "denn der freie Handel der Welt unterliegt Regeln. "
+   ]
+  }, 
+  {
+   "begin": "90.200", 
+   "children": [], 
+   "end": "95.080", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Diese Regeln finden sich im Regelwerk der Welthandelsorganisation wieder. "
+   ]
+  }, 
+  {
+   "begin": "95.080", 
+   "children": [], 
+   "end": "96.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind sehr froh, "
+   ]
+  }, 
+  {
+   "begin": "96.240", 
+   "children": [], 
+   "end": "99.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass die Welthandelsorganisation in den 90er-Jahren gegr\u00fcndet wurde; "
+   ]
+  }, 
+  {
+   "begin": "99.000", 
+   "children": [], 
+   "end": "102.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "denn erst damit war es \u00fcberhaupt m\u00f6glich, "
+   ]
+  }, 
+  {
+   "begin": "102.720", 
+   "children": [], 
+   "end": "105.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Regeln f\u00fcr den Welthandel aufzustellen."
+   ]
+  }, 
+  {
+   "begin": "105.920", 
+   "children": [], 
+   "end": "112.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die positive konjunkturelle Entwicklung hat auch die Vereinigten Staaten von Amerika erfasst. "
+   ]
+  }, 
+  {
+   "begin": "112.200", 
+   "children": [], 
+   "end": "118.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Die Steuerreform von Pr\u00e4sident Trump wird sicherlich ein weiterer positiver Aspekt sein. "
+   ]
+  }, 
+  {
+   "begin": "118.600", 
+   "children": [], 
+   "end": "121.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Insofern wundern wir uns umso mehr, "
+   ]
+  }, 
+  {
+   "begin": "121.200", 
+   "children": [], 
+   "end": "127.680", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass dieser Pr\u00e4sident jetzt die Einf\u00fchrung von Strafz\u00f6llen ank\u00fcndigt, "
+   ]
+  }, 
+  {
+   "begin": "127.680", 
+   "children": [], 
+   "end": "132.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "um den Handel in der Welt einzuschr\u00e4nken."
+   ]
+  }, 
+  {
+   "begin": "132.320", 
+   "children": [], 
+   "end": "133.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man sich einmal ansieht, "
+   ]
+  }, 
+  {
+   "begin": "133.520", 
+   "children": [], 
+   "end": "136.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "was Pr\u00e4sident Trump damit erreichen will, "
+   ]
+  }, 
+  {
+   "begin": "136.640", 
+   "children": [], 
+   "end": "138.320", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dann muss man sagen: "
+   ]
+  }, 
+  {
+   "begin": "138.320", 
+   "children": [], 
+   "end": "155.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Er will 13\u00a0Millionen Tonnen Stahl vom amerikanischen Markt entfernen und die Auslastung der amerikanischen Stahlwerke von 73 auf 80\u00a0Prozent erh\u00f6hen. "
+   ]
+  }, 
+  {
+   "begin": "155.000", 
+   "children": [], 
+   "end": "156.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "156.680", 
+   "children": [], 
+   "end": "158.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "man muss sich fragen, "
+   ]
+  }, 
+  {
+   "begin": "158.120", 
+   "children": [], 
+   "end": "159.760", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "ob das die Sache wirklich wert ist. "
+   ]
+  }, 
+  {
+   "begin": "159.760", 
+   "children": [], 
+   "end": "163.040", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Dass er sein Ziel mit den angek\u00fcndigten Strafz\u00f6llen erreicht, "
+   ]
+  }, 
+  {
+   "begin": "163.040", 
+   "children": [], 
+   "end": "165.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte ich sehr stark infrage stellen."
+   ]
+  }, 
+  {
+   "begin": "165.880", 
+   "children": [], 
+   "end": "168.520", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege von der FDP, "
+   ]
+  }, 
+  {
+   "begin": "168.520", 
+   "children": [], 
+   "end": "169.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "ich kann gar nicht verstehen, "
+   ]
+  }, 
+  {
+   "begin": "169.800", 
+   "children": [], 
+   "end": "171.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie sagen, "
+   ]
+  }, 
+  {
+   "begin": "171.240", 
+   "children": [], 
+   "end": "173.160", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die Bundesregierung m\u00fcsse jetzt etwas tun. "
+   ]
+  }, 
+  {
+   "begin": "173.160", 
+   "children": [], 
+   "end": "176.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung ist nat\u00fcrlich auf allen Kan\u00e4len aktiv. "
+   ]
+  }, 
+  {
+   "begin": "176.520", 
+   "children": [], 
+   "end": "182.400", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Schon vor der gestrigen Vereidigung der Regierung hat Deutschland auf allen Kan\u00e4len versucht, "
+   ]
+  }, 
+  {
+   "begin": "182.400", 
+   "children": [], 
+   "end": "185.720", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "in Amerika Gespr\u00e4chspartner zu finden. "
+   ]
+  }, 
+  {
+   "begin": "185.720", 
+   "children": [], 
+   "end": "191.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Aber man findet sie im Umfeld des Pr\u00e4sidenten offensichtlich gar nicht so leicht. "
+   ]
+  }, 
+  {
+   "begin": "191.040", 
+   "children": [], 
+   "end": "193.280", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Er entl\u00e4sst ja immer wieder Personal, "
+   ]
+  }, 
+  {
+   "begin": "193.280", 
+   "children": [], 
+   "end": "196.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "sucht sich neues und entl\u00e4sst dann andere, "
+   ]
+  }, 
+  {
+   "begin": "196.200", 
+   "children": [], 
+   "end": "198.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "sodass das gar nicht so einfach ist."
+   ]
+  }, 
+  {
+   "begin": "198.480", 
+   "children": [], 
+   "end": "200.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "200.960", 
+   "children": [], 
+   "end": "201.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "die Strafz\u00f6lle, "
+   ]
+  }, 
+  {
+   "begin": "201.880", 
+   "children": [], 
+   "end": "203.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die er nun mit Blick auf Pkws angek\u00fcndigt hat, "
+   ]
+  }, 
+  {
+   "begin": "203.920", 
+   "children": [], 
+   "end": "210.480", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und zwar ganz gezielt gegen deutsche Pkw-Produzenten gerichtet, "
+   ]
+  }, 
+  {
+   "begin": "210.480", 
+   "children": [], 
+   "end": "214.760", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "lassen uns nat\u00fcrlich aufhorchen und machen uns insgesamt unruhig; "
+   ]
+  }, 
+  {
+   "begin": "214.760", 
+   "children": [], 
+   "end": "216.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "das ist gar keine Frage; "
+   ]
+  }, 
+  {
+   "begin": "216.440", 
+   "children": [], 
+   "end": "217.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "denn einen Handelskrieg\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "217.800", 
+   "children": [], 
+   "end": "220.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "schon den Namen finde ich furchtbar\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "220.680", 
+   "children": [], 
+   "end": "223.880", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "brauchen wir im Moment \u00fcberhaupt nicht. "
+   ]
+  }, 
+  {
+   "begin": "223.880", 
+   "children": [], 
+   "end": "228.720", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist die Strategie der Regierung ganz klar: "
+   ]
+  }, 
+  {
+   "begin": "228.720", 
+   "children": [], 
+   "end": "231.320", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Reden und verhandeln, "
+   ]
+  }, 
+  {
+   "begin": "231.320", 
+   "children": [], 
+   "end": "234.600", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wo auch immer es m\u00f6glich ist."
+   ]
+  }, 
+  {
+   "begin": "234.600", 
+   "children": [], 
+   "end": "238.720", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt neben dem Handelskrieg noch das Thema \u201eUnfaire Handelspraktiken\u201c. "
+   ]
+  }, 
+  {
+   "begin": "238.720", 
+   "children": [], 
+   "end": "241.920", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Mit beiden Dingen sind wir in Deutschland konfrontiert. "
+   ]
+  }, 
+  {
+   "begin": "241.920", 
+   "children": [], 
+   "end": "252.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Die unfairen Handelspraktiken belasten unsere Wirtschaft nat\u00fcrlich genauso wie ein m\u00f6glicher Handelskrieg mit den Vereinigten Staaten."
+   ]
+  }, 
+  {
+   "begin": "252.720", 
+   "children": [], 
+   "end": "254.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Man muss deutlich sagen: "
+   ]
+  }, 
+  {
+   "begin": "254.320", 
+   "children": [], 
+   "end": "258.120", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ein Handelskrieg hat letztendlich nur Verlierer. "
+   ]
+  }, 
+  {
+   "begin": "258.120", 
+   "children": [], 
+   "end": "261.040", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Das gilt auch f\u00fcr die Vereinigten Staaten. "
+   ]
+  }, 
+  {
+   "begin": "261.040", 
+   "children": [], 
+   "end": "265.720", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Auch wenn sie vielleicht einen kurzfristigen Erfolg erzielen, "
+   ]
+  }, 
+  {
+   "begin": "265.720", 
+   "children": [], 
+   "end": "266.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "kann man mittel- "
+   ]
+  }, 
+  {
+   "begin": "266.640", 
+   "children": [], 
+   "end": "270.880", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "und langfristig ganz klar davon ausgehen, "
+   ]
+  }, 
+  {
+   "begin": "270.880", 
+   "children": [], 
+   "end": "272.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass die Amerikaner, "
+   ]
+  }, 
+  {
+   "begin": "272.200", 
+   "children": [], 
+   "end": "275.520", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die fr\u00fcher die H\u00fcter des freien Welthandels waren, "
+   ]
+  }, 
+  {
+   "begin": "275.520", 
+   "children": [], 
+   "end": "282.360", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "nun den ersten Schritt hin zu einer Restriktion des Handels machen. "
+   ]
+  }, 
+  {
+   "begin": "282.360", 
+   "children": [], 
+   "end": "286.200", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Dies wird andere Staaten m\u00f6glicherweise ermuntern, "
+   ]
+  }, 
+  {
+   "begin": "286.200", 
+   "children": [], 
+   "end": "289.920", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "\u00e4hnliche Schritte einzuleiten."
+   ]
+  }, 
+  {
+   "begin": "289.920", 
+   "children": [], 
+   "end": "294.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem prognostiziert das Bundeswirtschaftsministerium, "
+   ]
+  }, 
+  {
+   "begin": "294.040", 
+   "children": [], 
+   "end": "299.160", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass die Risiken f\u00fcr die Konjunktur in Deutschland und in Europa im Moment sehr gering sind. "
+   ]
+  }, 
+  {
+   "begin": "299.160", 
+   "children": [], 
+   "end": "300.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Ich gehe davon aus, "
+   ]
+  }, 
+  {
+   "begin": "300.520", 
+   "children": [], 
+   "end": "305.920", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass sich auch der amerikanische Pr\u00e4sident durchaus noch einmal genau \u00fcberlegen wird, "
+   ]
+  }, 
+  {
+   "begin": "305.920", 
+   "children": [], 
+   "end": "307.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "ob er gegen seine Partner, "
+   ]
+  }, 
+  {
+   "begin": "307.440", 
+   "children": [], 
+   "end": "308.920", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "die er noch brauchen wird, "
+   ]
+  }, 
+  {
+   "begin": "308.920", 
+   "children": [], 
+   "end": "310.640", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "diesen Handelskrieg anzetteln will. "
+   ]
+  }, 
+  {
+   "begin": "310.640", 
+   "children": [], 
+   "end": "311.960", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen bleibe ich optimistisch. "
+   ]
+  }, 
+  {
+   "begin": "311.960", 
+   "children": [], 
+   "end": "316.680", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "316.680", 
+   "children": [], 
+   "end": "319.040", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "auf dem Verhandlungswege l\u00e4sst sich viel erreichen."
+   ]
+  }, 
+  {
+   "begin": "319.040", 
+   "children": [], 
+   "end": "320.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "320.000", 
+   "children": [], 
+   "end": "321.480", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "321.480", 
+   "children": [], 
+   "end": "322.200", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Herr L\u00e4mmel.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "322.200", 
+   "children": [], 
+   "end": "328.000", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes erteile ich das Wort dem Abgeordneten Thomas Jurk f\u00fcr die SPD-Fraktion."
+   ]
+  }
+ ]
+}

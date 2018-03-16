@@ -1,0 +1,814 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.560", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.560", 
+   "children": [], 
+   "end": "3.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "children": [], 
+   "end": "15.120", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Acht Jahre dauert es, "
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "children": [], 
+   "end": "18.400", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "bis ein Offizier der Bundeswehr so weit ausgebildet ist, "
+   ]
+  }, 
+  {
+   "begin": "18.400", 
+   "children": [], 
+   "end": "21.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass er erste F\u00fchrungsverantwortung \u00fcbernehmen kann. "
+   ]
+  }, 
+  {
+   "begin": "21.920", 
+   "children": [], 
+   "end": "28.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Nach 13\u00a0Jahren f\u00fchrt er eine Kompanie und nach 18\u00a0Jahren ein Bataillon. "
+   ]
+  }, 
+  {
+   "begin": "28.160", 
+   "children": [], 
+   "end": "32.680", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Die afghanische Armee ist erst vor 15\u00a0Jahren gegr\u00fcndet worden, "
+   ]
+  }, 
+  {
+   "begin": "32.680", 
+   "children": [], 
+   "end": "38.960", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "ist von Tag eins an im Einsatz und wird jetzt nach und nach aufgebaut. "
+   ]
+  }, 
+  {
+   "begin": "38.960", 
+   "children": [], 
+   "end": "43.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ein Vergleich der afghanischen Armee mit der Bundeswehr hinkt an vielen Stellen,"
+   ]
+  }, 
+  {
+   "begin": "43.760", 
+   "children": [], 
+   "end": "46.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "aber einen Punkt m\u00f6chte ich an dieser Stelle erw\u00e4hnen: "
+   ]
+  }, 
+  {
+   "begin": "46.760", 
+   "children": [], 
+   "end": "54.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Der Aufbau einer Armee inklusive der Ausbildung der daf\u00fcr notwendigen F\u00fchrungskr\u00e4fte ist kein Prozess von Jahren, "
+   ]
+  }, 
+  {
+   "begin": "54.680", 
+   "children": [], 
+   "end": "57.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "sondern es ist ein Prozess von Jahrzehnten. "
+   ]
+  }, 
+  {
+   "begin": "57.280", 
+   "children": [], 
+   "end": "58.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Und es ist auch kein Prozess, "
+   ]
+  }, 
+  {
+   "begin": "58.760", 
+   "children": [], 
+   "end": "62.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "der immer nur gerade und nach einem festen Plan verl\u00e4uft. "
+   ]
+  }, 
+  {
+   "begin": "62.240", 
+   "children": [], 
+   "end": "64.720", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Er verl\u00e4uft schon gar nicht nach einem Plan, "
+   ]
+  }, 
+  {
+   "begin": "64.720", 
+   "children": [], 
+   "end": "65.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "den wir hier, "
+   ]
+  }, 
+  {
+   "begin": "65.840", 
+   "children": [], 
+   "end": "69.560", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "4\u00a0700\u00a0Kilometer von Kabul entfernt, "
+   ]
+  }, 
+  {
+   "begin": "69.560", 
+   "children": [], 
+   "end": "72.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "in unserem warmen Bundestag schmieden."
+   ]
+  }, 
+  {
+   "begin": "72.760", 
+   "children": [], 
+   "end": "74.960", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "74.960", 
+   "children": [], 
+   "end": "80.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "unsere Vorg\u00e4nger haben sich 2001 trotzdem daf\u00fcr entschieden, "
+   ]
+  }, 
+  {
+   "begin": "80.640", 
+   "children": [], 
+   "end": "82.760", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "in den Einsatz nach Afghanistan zu gehen. "
+   ]
+  }, 
+  {
+   "begin": "82.760", 
+   "children": [], 
+   "end": "85.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Auch hatten wir seit 2001 Phasen, "
+   ]
+  }, 
+  {
+   "begin": "85.680", 
+   "children": [], 
+   "end": "88.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "in denen wir oft gefragt worden sind, "
+   ]
+  }, 
+  {
+   "begin": "88.120", 
+   "children": [], 
+   "end": "91.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "ob der Einsatz \u00fcberhaupt Sinn macht. "
+   ]
+  }, 
+  {
+   "begin": "91.040", 
+   "children": [], 
+   "end": "92.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage auch: "
+   ]
+  }, 
+  {
+   "begin": "92.040", 
+   "children": [], 
+   "end": "98.360", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Diese Frage wird mir in den letzten Jahren nicht mehr so h\u00e4ufig gestellt. "
+   ]
+  }, 
+  {
+   "begin": "98.360", 
+   "children": [], 
+   "end": "105.840", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Angesichts von Migration und Terrorismus ist in der Bev\u00f6lkerung ein Bewusstsein gewachsen, "
+   ]
+  }, 
+  {
+   "begin": "105.840", 
+   "children": [], 
+   "end": "109.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass ein stabiles Afghanistan im deutschen Interesse liegt. "
+   ]
+  }, 
+  {
+   "begin": "109.800", 
+   "children": [], 
+   "end": "114.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wir leisten gesamtstaatlich einen gro\u00dfen Beitrag dazu. "
+   ]
+  }, 
+  {
+   "begin": "114.640", 
+   "children": [], 
+   "end": "118.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind f\u00fcr Afghanistan zweitgr\u00f6\u00dfter bilateraler Geber: "
+   ]
+  }, 
+  {
+   "begin": "118.600", 
+   "children": [], 
+   "end": "122.720", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "430\u00a0Millionen Euro jedes Jahr. "
+   ]
+  }, 
+  {
+   "begin": "122.720", 
+   "children": [], 
+   "end": "126.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir leisten einen Beitrag zum Aufbau der Polizei. "
+   ]
+  }, 
+  {
+   "begin": "126.080", 
+   "children": [], 
+   "end": "129.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wir unterst\u00fctzen jetzt bei der Vorbereitung der Wahlen. "
+   ]
+  }, 
+  {
+   "begin": "129.240", 
+   "children": [], 
+   "end": "134.760", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wir leisten auch einen Beitrag bei der Ausbildung der afghanischen Armee. "
+   ]
+  }, 
+  {
+   "begin": "134.760", 
+   "children": [], 
+   "end": "137.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Unser Auftrag ist nicht mehr ein Kampfauftrag. "
+   ]
+  }, 
+  {
+   "begin": "137.600", 
+   "children": [], 
+   "end": "139.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Der Auftrag, "
+   ]
+  }, 
+  {
+   "begin": "139.400", 
+   "children": [], 
+   "end": "140.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "den wir in Afghanistan haben, "
+   ]
+  }, 
+  {
+   "begin": "140.680", 
+   "children": [], 
+   "end": "142.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "ist Beratung und Unterst\u00fctzung. "
+   ]
+  }, 
+  {
+   "begin": "142.560", 
+   "children": [], 
+   "end": "151.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Ende 2014 hat die afghanische Armee die Sicherheitsverantwortung f\u00fcr das Land vollst\u00e4ndig \u00fcbernommen. "
+   ]
+  }, 
+  {
+   "begin": "151.440", 
+   "children": [], 
+   "end": "155.400", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Auch dieser Prozess ist seither nicht ganz nach Plan verlaufen."
+   ]
+  }, 
+  {
+   "begin": "155.400", 
+   "children": [], 
+   "end": "156.560", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Herr Kollege Liebich, "
+   ]
+  }, 
+  {
+   "begin": "156.560", 
+   "children": [], 
+   "end": "157.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "ja, "
+   ]
+  }, 
+  {
+   "begin": "157.080", 
+   "children": [], 
+   "end": "159.160", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wir sind jetzt schlauer. "
+   ]
+  }, 
+  {
+   "begin": "159.160", 
+   "children": [], 
+   "end": "161.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Die afghanische Armee war nicht in der Lage, "
+   ]
+  }, 
+  {
+   "begin": "161.640", 
+   "children": [], 
+   "end": "165.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die Sicherheit vollst\u00e4ndig zu garantieren."
+   ]
+  }, 
+  {
+   "begin": "165.560", 
+   "children": [], 
+   "end": "169.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein Vakuum entstanden. "
+   ]
+  }, 
+  {
+   "begin": "169.960", 
+   "children": [], 
+   "end": "173.960", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Auf dem Weg dazu gab es auch R\u00fcckschl\u00e4ge. "
+   ]
+  }, 
+  {
+   "begin": "173.960", 
+   "children": [], 
+   "end": "178.400", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Taliban haben insbesondere auf dem Land wieder an Boden gewonnen, "
+   ]
+  }, 
+  {
+   "begin": "178.400", 
+   "children": [], 
+   "end": "180.720", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "und es gibt in den St\u00e4dten immer wieder Anschl\u00e4ge, "
+   ]
+  }, 
+  {
+   "begin": "180.720", 
+   "children": [], 
+   "end": "185.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "vor allem auf Regierungsstellen und internationale Organisationen. "
+   ]
+  }, 
+  {
+   "begin": "185.480", 
+   "children": [], 
+   "end": "191.520", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ein solcher Anschlag war zum Beispiel der Anschlag auf die deutsche Botschaft in Kabul, "
+   ]
+  }, 
+  {
+   "begin": "191.520", 
+   "children": [], 
+   "end": "194.600", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die immer noch nicht vollst\u00e4ndig handlungsf\u00e4hig ist. "
+   ]
+  }, 
+  {
+   "begin": "194.600", 
+   "children": [], 
+   "end": "197.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Aber an diesem Beispiel sieht man eines: "
+   ]
+  }, 
+  {
+   "begin": "197.840", 
+   "children": [], 
+   "end": "203.600", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Durch diese ver\u00e4nderte Sicherheitslage wird es auch f\u00fcr unsere zivilen Entwicklungshelfer immer schwieriger, "
+   ]
+  }, 
+  {
+   "begin": "203.600", 
+   "children": [], 
+   "end": "205.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "ihre Aufgabe zu erf\u00fcllen. "
+   ]
+  }, 
+  {
+   "begin": "205.720", 
+   "children": [], 
+   "end": "210.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Es gilt hier wie an anderer Stelle der Satz: "
+   ]
+  }, 
+  {
+   "begin": "210.000", 
+   "children": [], 
+   "end": "213.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Ohne Sicherheit keine Entwicklung."
+   ]
+  }, 
+  {
+   "begin": "213.320", 
+   "children": [], 
+   "end": "217.360", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "217.360", 
+   "children": [], 
+   "end": "221.320", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir in Afghanistan Entwicklung wollen, "
+   ]
+  }, 
+  {
+   "begin": "221.320", 
+   "children": [], 
+   "end": "225.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen wir die afghanischen Sicherheitskr\u00e4fte in die Lage versetzen, "
+   ]
+  }, 
+  {
+   "begin": "225.920", 
+   "children": [], 
+   "end": "230.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "selbst und nachhaltig f\u00fcr Sicherheit im Land zu sorgen. "
+   ]
+  }, 
+  {
+   "begin": "230.040", 
+   "children": [], 
+   "end": "232.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein langer Weg, "
+   ]
+  }, 
+  {
+   "begin": "232.080", 
+   "children": [], 
+   "end": "233.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "der nicht Jahre, "
+   ]
+  }, 
+  {
+   "begin": "233.000", 
+   "children": [], 
+   "end": "233.360", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "sondern\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "233.360", 
+   "children": [], 
+   "end": "234.680", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "ich habe es gerade angesprochen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "234.680", 
+   "children": [], 
+   "end": "236.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Jahrzehnte dauert. "
+   ]
+  }, 
+  {
+   "begin": "236.280", 
+   "children": [], 
+   "end": "238.440", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Auf diesem Weg gibt es immer wieder R\u00fcckschl\u00e4ge, "
+   ]
+  }, 
+  {
+   "begin": "238.440", 
+   "children": [], 
+   "end": "240.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dennoch sind sie gut unterwegs. "
+   ]
+  }, 
+  {
+   "begin": "240.600", 
+   "children": [], 
+   "end": "242.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind an ihrer Seite, "
+   ]
+  }, 
+  {
+   "begin": "242.160", 
+   "children": [], 
+   "end": "245.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "um ihnen ab und zu auch einmal die Richtung zu zeigen."
+   ]
+  }, 
+  {
+   "begin": "245.520", 
+   "children": [], 
+   "end": "249.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben eine Verantwortung f\u00fcr Afghanistan \u00fcbernommen. "
+   ]
+  }, 
+  {
+   "begin": "249.680", 
+   "children": [], 
+   "end": "252.680", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Seit 2001 sind wir in dem Land pr\u00e4sent. "
+   ]
+  }, 
+  {
+   "begin": "252.680", 
+   "children": [], 
+   "end": "254.120", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Dort hat sich vieles zum Guten entwickelt, "
+   ]
+  }, 
+  {
+   "begin": "254.120", 
+   "children": [], 
+   "end": "254.960", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "und wir werden und d\u00fcrfen das Land jetzt auch nicht im Stich lassen. "
+   ]
+  }, 
+  {
+   "begin": "254.960", 
+   "children": [], 
+   "end": "256.680", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Dementsprechend werden wir dem Mandat auch dieses Mal zustimmen."
+   ]
+  }, 
+  {
+   "begin": "256.680", 
+   "children": [], 
+   "end": "257.520", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank f\u00fcr die Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "257.520", 
+   "children": [], 
+   "end": "258.680", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Damit schlie\u00dfe ich die Aussprache."
+   ]
+  }, 
+  {
+   "begin": "258.680", 
+   "children": [], 
+   "end": "261.240", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Interfraktionell wird vorgeschlagen, "
+   ]
+  }, 
+  {
+   "begin": "261.240", 
+   "children": [], 
+   "end": "270.520", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die Vorlagen auf den Drucksachen\u00a019/1094 und 19/1120 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse zu \u00fcberweisen. "
+   ]
+  }, 
+  {
+   "begin": "270.520", 
+   "children": [], 
+   "end": "270.680", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind damit einverstanden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "270.680", 
+   "children": [], 
+   "end": "270.960", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist die \u00dcberweisung so beschlossen."
+   ]
+  }
+ ]
+}

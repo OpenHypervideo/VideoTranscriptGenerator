@@ -1,0 +1,1894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "0.080", 
+   "children": [], 
+   "end": "0.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "children": [], 
+   "end": "0.201", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Slack, "
+   ]
+  }, 
+  {
+   "begin": "0.201", 
+   "children": [], 
+   "end": "0.202", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Skype, "
+   ]
+  }, 
+  {
+   "begin": "0.202", 
+   "children": [], 
+   "end": "0.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Facebook, "
+   ]
+  }, 
+  {
+   "begin": "0.320", 
+   "children": [], 
+   "end": "0.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "WhatsApp, "
+   ]
+  }, 
+  {
+   "begin": "0.440", 
+   "children": [], 
+   "end": "0.441", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "iMessage, "
+   ]
+  }, 
+  {
+   "begin": "0.441", 
+   "children": [], 
+   "end": "0.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Face\u00adtime, "
+   ]
+  }, 
+  {
+   "begin": "0.560", 
+   "children": [], 
+   "end": "0.561", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Google, "
+   ]
+  }, 
+  {
+   "begin": "0.561", 
+   "children": [], 
+   "end": "0.640", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Google-Hangout, "
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "children": [], 
+   "end": "0.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wikis, "
+   ]
+  }, 
+  {
+   "begin": "0.880", 
+   "children": [], 
+   "end": "1.080", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Clouds, "
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "children": [], 
+   "end": "1.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Blackberry, "
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "children": [], 
+   "end": "1.640", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Outlook usw. "
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "children": [], 
+   "end": "2.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "usf., "
+   ]
+  }, 
+  {
+   "begin": "2.040", 
+   "children": [], 
+   "end": "2.041", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wissen Sie, "
+   ]
+  }, 
+  {
+   "begin": "2.041", 
+   "children": [], 
+   "end": "2.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "was diese Dinge gemeinsam haben? "
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "children": [], 
+   "end": "3.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Es gab sie 1994 noch nicht. "
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "children": [], 
+   "end": "4.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "1994 schrieben sich die allermeisten Menschen noch keine E-Mails, "
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "children": [], 
+   "end": "4.680", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "surften nicht im Internet, "
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "children": [], 
+   "end": "5.800", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "mobiles Arbeiten gab es kaum. "
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "children": [], 
+   "end": "6.360", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das Smarteste an Telefonen war, "
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "children": [], 
+   "end": "6.361", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie keine W\u00e4hlscheibe mehr hatten."
+   ]
+  }, 
+  {
+   "begin": "6.361", 
+   "children": [], 
+   "end": "7.600", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "1994 trat auch das heutige deutsche Arbeitszeitgesetz in Kraft. "
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "children": [], 
+   "end": "8.440", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die Welt hat sich seitdem ver\u00e4ndert. "
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "children": [], 
+   "end": "8.560", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben viel mehr Freiheiten, "
+   ]
+  }, 
+  {
+   "begin": "8.560", 
+   "children": [], 
+   "end": "8.561", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wie, "
+   ]
+  }, 
+  {
+   "begin": "8.561", 
+   "children": [], 
+   "end": "8.640", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "von wo, "
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "children": [], 
+   "end": "9.200", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "auch wann wir arbeiten."
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "children": [], 
+   "end": "9.800", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir leben im Jahr\u00a02018, "
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "children": [], 
+   "end": "10.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "aber unser deutsches Arbeitszeitgesetz ist noch immer aus dem vorigen Jahrhundert. "
+   ]
+  }, 
+  {
+   "begin": "10.400", 
+   "children": [], 
+   "end": "10.401", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir finden, "
+   ]
+  }, 
+  {
+   "begin": "10.401", 
+   "children": [], 
+   "end": "10.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "das kann so nicht bleiben."
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "children": [], 
+   "end": "11.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Was hei\u00dft das ganz konkret im Alltag? "
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "children": [], 
+   "end": "11.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Freunde berichten mir, "
+   ]
+  }, 
+  {
+   "begin": "11.240", 
+   "children": [], 
+   "end": "12.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass sie das B\u00fcro nachmittags verlassen, "
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "children": [], 
+   "end": "12.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "am Abend Zeit mit ihren Kindern verbringen wollen, "
+   ]
+  }, 
+  {
+   "begin": "12.800", 
+   "children": [], 
+   "end": "13.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "solange diese noch wach sind, "
+   ]
+  }, 
+  {
+   "begin": "13.440", 
+   "children": [], 
+   "end": "15.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "und dann abends um 22 oder 23\u00a0Uhr gerne noch eine dienstliche E-Mail schreiben oder auch nur lesen wollen. "
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "children": [], 
+   "end": "16.040", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wenn sie das heute so machen, "
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "children": [], 
+   "end": "17.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dann d\u00fcrfen sie am n\u00e4chsten Morgen ihre Arbeit vor 10\u00a0Uhr eigentlich nicht wieder aufnehmen, "
+   ]
+  }, 
+  {
+   "begin": "17.880", 
+   "children": [], 
+   "end": "18.520", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "ansonsten versto\u00dfen sie gegen das Arbeitszeitgesetz. "
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "children": [], 
+   "end": "19.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Ganz ehrlich: "
+   ]
+  }, 
+  {
+   "begin": "19.480", 
+   "children": [], 
+   "end": "20.480", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wer macht denn das? "
+   ]
+  }, 
+  {
+   "begin": "20.480", 
+   "children": [], 
+   "end": "20.760", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Meine These ist: "
+   ]
+  }, 
+  {
+   "begin": "20.760", 
+   "children": [], 
+   "end": "20.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Gesetz wird in Deutschland schon heute millionenfach ignoriert."
+   ]
+  }, 
+  {
+   "begin": "20.880", 
+   "children": [], 
+   "end": "21.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Aber gerade wenn es um Gesetze geht, "
+   ]
+  }, 
+  {
+   "begin": "21.440", 
+   "children": [], 
+   "end": "21.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "durch die Arbeitnehmerrechte gesch\u00fctzt werden, "
+   ]
+  }, 
+  {
+   "begin": "21.880", 
+   "children": [], 
+   "end": "21.881", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "d\u00fcrfen wir nicht zulassen, "
+   ]
+  }, 
+  {
+   "begin": "21.881", 
+   "children": [], 
+   "end": "21.882", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass sie ignoriert werden. "
+   ]
+  }, 
+  {
+   "begin": "21.882", 
+   "children": [], 
+   "end": "22.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "In einem Rechtsstaat m\u00fcssen Gesetze gelten. "
+   ]
+  }, 
+  {
+   "begin": "22.200", 
+   "children": [], 
+   "end": "22.201", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft aber auch: "
+   ]
+  }, 
+  {
+   "begin": "22.201", 
+   "children": [], 
+   "end": "22.202", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wenn diese veraltet sind, "
+   ]
+  }, 
+  {
+   "begin": "22.202", 
+   "children": [], 
+   "end": "22.203", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "d\u00fcrfen wir das nicht ignorieren, "
+   ]
+  }, 
+  {
+   "begin": "22.203", 
+   "children": [], 
+   "end": "22.204", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "sondern m\u00fcssen sie modernisieren, "
+   ]
+  }, 
+  {
+   "begin": "22.204", 
+   "children": [], 
+   "end": "22.205", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "meine lieben Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "22.205", 
+   "children": [], 
+   "end": "22.206", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Herr Vogel, "
+   ]
+  }, 
+  {
+   "begin": "22.206", 
+   "children": [], 
+   "end": "22.207", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "erlauben Sie eine Zwischenfrage oder Bemerkung von Frau Krellmann von der Linken?"
+   ]
+  }, 
+  {
+   "begin": "22.207", 
+   "children": [], 
+   "end": "22.208", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Von der Kollegin Krellmann immer gerne."
+   ]
+  }, 
+  {
+   "begin": "22.208", 
+   "children": [], 
+   "end": "22.209", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Herr Vogel, "
+   ]
+  }, 
+  {
+   "begin": "22.209", 
+   "children": [], 
+   "end": "22.210", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "wir kennen uns nun schon l\u00e4ngere Zeit und haben in der Vergangenheit Gelegenheit gehabt, "
+   ]
+  }, 
+  {
+   "begin": "22.210", 
+   "children": [], 
+   "end": "22.211", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "ab und zu einmal zusammenzuarbeiten. "
+   ]
+  }, 
+  {
+   "begin": "22.211", 
+   "children": [], 
+   "end": "22.212", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die Forderung, "
+   ]
+  }, 
+  {
+   "begin": "22.212", 
+   "children": [], 
+   "end": "22.213", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die Sie in Ihrem Antrag stellen, "
+   ]
+  }, 
+  {
+   "begin": "22.213", 
+   "children": [], 
+   "end": "22.214", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "und die Begr\u00fcndung, "
+   ]
+  }, 
+  {
+   "begin": "22.214", 
+   "children": [], 
+   "end": "22.215", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "die dort zu lesen ist, "
+   ]
+  }, 
+  {
+   "begin": "22.215", 
+   "children": [], 
+   "end": "22.216", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "sind identisch mit den Forderungen der BDA und des BDI, "
+   ]
+  }, 
+  {
+   "begin": "22.216", 
+   "children": [], 
+   "end": "22.217", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "vom 8-Stunden-Tag wegzugehen und die Wochenarbeitszeit auf 48\u00a0Stunden festzulegen. "
+   ]
+  }, 
+  {
+   "begin": "22.217", 
+   "children": [], 
+   "end": "22.218", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe in diesem Zusammenhang folgende Fragen an Sie:"
+   ]
+  }, 
+  {
+   "begin": "22.218", 
+   "children": [], 
+   "end": "22.219", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "22.219", 
+   "children": [], 
+   "end": "22.220", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Ist Ihnen klar, "
+   ]
+  }, 
+  {
+   "begin": "22.220", 
+   "children": [], 
+   "end": "22.221", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie damit Schutzrechte abbauen, "
+   ]
+  }, 
+  {
+   "begin": "22.221", 
+   "children": [], 
+   "end": "22.222", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die im Grunde historisch erk\u00e4mpft wurden? "
+   ]
+  }, 
+  {
+   "begin": "22.222", 
+   "children": [], 
+   "end": "22.223", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Dabei geht es n\u00e4mlich nicht nur um alte Gesetze. "
+   ]
+  }, 
+  {
+   "begin": "22.223", 
+   "children": [], 
+   "end": "22.224", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr diese Schutzrechte wurde historisch lange gek\u00e4mpft."
+   ]
+  }, 
+  {
+   "begin": "22.224", 
+   "children": [], 
+   "end": "22.225", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "22.225", 
+   "children": [], 
+   "end": "24.120", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Ich selbst habe eine Kleine Anfrage zur Kontrolle des Arbeitszeitgesetzes gestellt. "
+   ]
+  }, 
+  {
+   "begin": "24.120", 
+   "children": [], 
+   "end": "24.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Dabei ist he\u00adrausgekommen, "
+   ]
+  }, 
+  {
+   "begin": "24.480", 
+   "children": [], 
+   "end": "25.120", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass bei der H\u00e4lfte der Kontrollen der Arbeitsschutzbeh\u00f6rden festgestellt wurde, "
+   ]
+  }, 
+  {
+   "begin": "25.120", 
+   "children": [], 
+   "end": "26.400", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass gegen das Arbeitszeitgesetz versto\u00dfen wurde. "
+   ]
+  }, 
+  {
+   "begin": "26.400", 
+   "children": [], 
+   "end": "26.880", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wollen Sie mit Ihrem Antrag jetzt das, "
+   ]
+  }, 
+  {
+   "begin": "26.880", 
+   "children": [], 
+   "end": "27.920", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "was in der Vergangenheit falsch war, "
+   ]
+  }, 
+  {
+   "begin": "27.920", 
+   "children": [], 
+   "end": "28.040", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "legalisieren, "
+   ]
+  }, 
+  {
+   "begin": "28.040", 
+   "children": [], 
+   "end": "28.600", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "damit es keine Rolle mehr spielt, "
+   ]
+  }, 
+  {
+   "begin": "28.600", 
+   "children": [], 
+   "end": "29.720", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "oder was wollen Sie eigentlich?"
+   ]
+  }, 
+  {
+   "begin": "29.720", 
+   "children": [], 
+   "end": "30.480", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Das kann jetzt der Herr Vogel erkl\u00e4ren."
+   ]
+  }, 
+  {
+   "begin": "30.480", 
+   "children": [], 
+   "end": "30.481", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Das tue ich gerne.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "30.481", 
+   "children": [], 
+   "end": "31.000", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ganz einfach: "
+   ]
+  }, 
+  {
+   "begin": "31.000", 
+   "children": [], 
+   "end": "31.080", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen uns an der europ\u00e4ischen Arbeitszeitrichtlinie orientieren. "
+   ]
+  }, 
+  {
+   "begin": "31.080", 
+   "children": [], 
+   "end": "31.081", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Sie gibt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "31.081", 
+   "children": [], 
+   "end": "32.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "deswegen wird auch nichts abgebaut, "
+   ]
+  }, 
+  {
+   "begin": "32.000", 
+   "children": [], 
+   "end": "32.680", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Krellmann\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "32.680", 
+   "children": [], 
+   "end": "34.160", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "genau dieselbe w\u00f6chentliche Arbeitszeit vor wie das deutsche Recht, "
+   ]
+  }, 
+  {
+   "begin": "34.160", 
+   "children": [], 
+   "end": "34.800", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "sie l\u00e4sst nur eine freiere Einteilung unter der Woche zu, "
+   ]
+  }, 
+  {
+   "begin": "34.800", 
+   "children": [], 
+   "end": "35.000", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "und das ist aus unserer Sicht ein vern\u00fcnftiger Weg."
+   ]
+  }, 
+  {
+   "begin": "35.000", 
+   "children": [], 
+   "end": "35.001", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "35.001", 
+   "children": [], 
+   "end": "35.120", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "niemand soll in Summe mehr arbeiten m\u00fcssen oder weniger Pause machen d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "35.120", 
+   "children": [], 
+   "end": "36.520", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Die Einteilung soll aber freier sein als heute; "
+   ]
+  }, 
+  {
+   "begin": "36.520", 
+   "children": [], 
+   "end": "37.840", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "denn ein moderner Arbeitsmarkt braucht, "
+   ]
+  }, 
+  {
+   "begin": "37.840", 
+   "children": [], 
+   "end": "38.400", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "ehrlich gesagt, "
+   ]
+  }, 
+  {
+   "begin": "38.400", 
+   "children": [], 
+   "end": "38.640", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "auch moderne Regeln. "
+   ]
+  }, 
+  {
+   "begin": "38.640", 
+   "children": [], 
+   "end": "38.641", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Mit Regeln aus dem analogen Zeitalter werden wir die digitale Zukunft nicht gestalten k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "38.641", 
+   "children": [], 
+   "end": "38.642", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb m\u00fcssen wir hier eine Ver\u00e4nderung vornehmen."
+   ]
+  }, 
+  {
+   "begin": "38.642", 
+   "children": [], 
+   "end": "38.643", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe jetzt im Koalitionsvertrag von Union und SPD gelesen, "
+   ]
+  }, 
+  {
+   "begin": "38.643", 
+   "children": [], 
+   "end": "38.644", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie bei diesem Thema Experimentierklauseln wollen. "
+   ]
+  }, 
+  {
+   "begin": "38.644", 
+   "children": [], 
+   "end": "38.645", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen ganz ehrlich: "
+   ]
+  }, 
+  {
+   "begin": "38.645", 
+   "children": [], 
+   "end": "39.120", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Das wird bei weitem nicht ausreichen. "
+   ]
+  }, 
+  {
+   "begin": "39.120", 
+   "children": [], 
+   "end": "40.040", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Stellen wir uns das doch einmal konkret vor! "
+   ]
+  }, 
+  {
+   "begin": "40.040", 
+   "children": [], 
+   "end": "42.400", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Welches Unternehmen und welcher Betriebsrat stellt denn das Arbeitszeitsystem f\u00fcr Hunderte Besch\u00e4ftigte um, "
+   ]
+  }, 
+  {
+   "begin": "42.400", 
+   "children": [], 
+   "end": "43.120", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "wenn der Gesetzgeber ihm sagt: "
+   ]
+  }, 
+  {
+   "begin": "43.120", 
+   "children": [], 
+   "end": "43.400", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "\u201eIch wei\u00df gar nicht, "
+   ]
+  }, 
+  {
+   "begin": "43.400", 
+   "children": [], 
+   "end": "44.040", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "ob das in einiger Zeit noch gilt; "
+   ]
+  }, 
+  {
+   "begin": "44.040", 
+   "children": [], 
+   "end": "44.480", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "schauen wir mal\u201c?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "44.480", 
+   "children": [], 
+   "end": "46.080", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Die Leute brauchen doch eine echte Erneuerung und Rechtssicherheit. "
+   ]
+  }, 
+  {
+   "begin": "46.080", 
+   "children": [], 
+   "end": "47.440", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Nur dann wird es auch eine Ver\u00e4nderung geben, "
+   ]
+  }, 
+  {
+   "begin": "47.440", 
+   "children": [], 
+   "end": "48.160", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "und deswegen reicht eine Experimentierklausel nicht aus."
+   ]
+  }, 
+  {
+   "begin": "48.160", 
+   "children": [], 
+   "end": "48.720", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe es gerade schon gesagt: "
+   ]
+  }, 
+  {
+   "begin": "48.720", 
+   "children": [], 
+   "end": "48.960", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Aus unserer Sicht, "
+   ]
+  }, 
+  {
+   "begin": "48.960", 
+   "children": [], 
+   "end": "49.880", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "aus Sicht der Freien Demokraten, "
+   ]
+  }, 
+  {
+   "begin": "49.880", 
+   "children": [], 
+   "end": "50.640", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "gibt die europ\u00e4ische Arbeitszeitrichtlinie einen klugen Rahmen vor, "
+   ]
+  }, 
+  {
+   "begin": "50.640", 
+   "children": [], 
+   "end": "52.080", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "der mehr Freiheiten f\u00fcr das Arbeiten im digitalen Zeitalter gibt und gleichzeitig Arbeitnehmerrechte sch\u00fctzt. "
+   ]
+  }, 
+  {
+   "begin": "52.080", 
+   "children": [], 
+   "end": "52.280", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen aber, "
+   ]
+  }, 
+  {
+   "begin": "52.280", 
+   "children": [], 
+   "end": "52.920", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Position, "
+   ]
+  }, 
+  {
+   "begin": "52.920", 
+   "children": [], 
+   "end": "55.240", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "wonach die europ\u00e4ische Arbeitszeitrichtlinie einfach eins zu eins ins deutsche Recht \u00fcbertragen werden sollte, "
+   ]
+  }, 
+  {
+   "begin": "55.240", 
+   "children": [], 
+   "end": "55.680", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "hier in diesem Haus, "
+   ]
+  }, 
+  {
+   "begin": "55.680", 
+   "children": [], 
+   "end": "55.840", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "im Deutschen Bundestag, "
+   ]
+  }, 
+  {
+   "begin": "55.840", 
+   "children": [], 
+   "end": "56.080", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "aktuell leider noch keine Mehrheit hat. "
+   ]
+  }, 
+  {
+   "begin": "56.080", 
+   "children": [], 
+   "end": "57.640", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb legen wir hier auch nicht die FDP-Position pur vor, "
+   ]
+  }, 
+  {
+   "begin": "57.640", 
+   "children": [], 
+   "end": "58.480", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "sondern ein faires Kompromissangebot. "
+   ]
+  }, 
+  {
+   "begin": "58.480", 
+   "children": [], 
+   "end": "59.560", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Wir sagen n\u00e4mlich: "
+   ]
+  }, 
+  {
+   "begin": "59.560", 
+   "children": [], 
+   "end": "62.640", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Die europ\u00e4ische Arbeitszeitrichtlinie muss dauerhaft und rechtssicher\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "62.640", 
+   "children": [], 
+   "end": "64.400", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "nicht per Experimentierklausel\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "64.400", 
+   "children": [], 
+   "end": "65.360", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "ausgenutzt werden k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "65.360", 
+   "children": [], 
+   "end": "65.560", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "aber nur dann, "
+   ]
+  }, 
+  {
+   "begin": "65.560", 
+   "children": [], 
+   "end": "67.080", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "wenn auch die Tarifpartner in einer Branche, "
+   ]
+  }, 
+  {
+   "begin": "67.080", 
+   "children": [], 
+   "end": "68.280", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "also die Arbeitnehmer und die Gewerkschaften, "
+   ]
+  }, 
+  {
+   "begin": "68.280", 
+   "children": [], 
+   "end": "69.240", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "zugestimmt haben. "
+   ]
+  }, 
+  {
+   "begin": "69.240", 
+   "children": [], 
+   "end": "69.440", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Das schlie\u00dft jeden Missbrauch, "
+   ]
+  }, 
+  {
+   "begin": "69.440", 
+   "children": [], 
+   "end": "69.600", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "den Sie bef\u00fcrchten m\u00f6gen, "
+   ]
+  }, 
+  {
+   "begin": "69.600", 
+   "children": [], 
+   "end": "70.280", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "sicher aus."
+   ]
+  }, 
+  {
+   "begin": "70.280", 
+   "children": [], 
+   "end": "70.600", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Diesen Schritt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "70.600", 
+   "children": [], 
+   "end": "70.920", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "zumindest als ersten Schritt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "70.920", 
+   "children": [], 
+   "end": "71.360", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir gehen. "
+   ]
+  }, 
+  {
+   "begin": "71.360", 
+   "children": [], 
+   "end": "71.361", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Wer sich dem in den Weg stellt, "
+   ]
+  }, 
+  {
+   "begin": "71.361", 
+   "children": [], 
+   "end": "71.362", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen von Union und SPD, "
+   ]
+  }, 
+  {
+   "begin": "71.362", 
+   "children": [], 
+   "end": "71.363", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "der muss begr\u00fcnden, "
+   ]
+  }, 
+  {
+   "begin": "71.363", 
+   "children": [], 
+   "end": "71.520", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "warum er sich dem Wunsch der Menschen nach mehr Selbstbestimmung in den Weg stellt."
+   ]
+  }, 
+  {
+   "begin": "71.520", 
+   "children": [], 
+   "end": "71.521", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen von CDU und CSU, "
+   ]
+  }, 
+  {
+   "begin": "71.521", 
+   "children": [], 
+   "end": "71.522", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "ich spreche Sie direkt an: "
+   ]
+  }, 
+  {
+   "begin": "71.522", 
+   "children": [], 
+   "end": "71.523", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "Was wir hier vorlegen, "
+   ]
+  }, 
+  {
+   "begin": "71.523", 
+   "children": [], 
+   "end": "71.524", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "ist exakt das, "
+   ]
+  }, 
+  {
+   "begin": "71.524", 
+   "children": [], 
+   "end": "72.240", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "was wir im Koalitionsvertrag zwischen CDU und FDP in Nordrhein-Westfalen vereinbart haben. "
+   ]
+  }, 
+  {
+   "begin": "72.240", 
+   "children": [], 
+   "end": "72.280", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "72.280", 
+   "children": [], 
+   "end": "73.400", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "was ich mit Karl-Josef Laumann pers\u00f6nlich verabredet habe, "
+   ]
+  }, 
+  {
+   "begin": "73.400", 
+   "children": [], 
+   "end": "75.160", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcsste doch auch f\u00fcr die CDA akzeptabel sein, "
+   ]
+  }, 
+  {
+   "begin": "75.160", 
+   "children": [], 
+   "end": "75.920", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen von der Union."
+   ]
+  }, 
+  {
+   "begin": "75.920", 
+   "children": [], 
+   "end": "76.320", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Schluss.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "76.320", 
+   "children": [], 
+   "end": "76.480", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen von der SPD, "
+   ]
+  }, 
+  {
+   "begin": "76.480", 
+   "children": [], 
+   "end": "77.000", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "ich habe vor zwei Tagen mit Faszination wahrgenommen, "
+   ]
+  }, 
+  {
+   "begin": "77.000", 
+   "children": [], 
+   "end": "79.440", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "dass in dem von Ihnen gef\u00fchrten Bundesministerium f\u00fcr Arbeit und Soziales Staatssekret\u00e4r Albrecht die Abschaffung der Kernarbeitszeit verk\u00fcndet hat."
+   ]
+  }, 
+  {
+   "begin": "79.440", 
+   "children": [], 
+   "end": "80.280", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "Es soll ab jetzt m\u00f6glich sein, "
+   ]
+  }, 
+  {
+   "begin": "80.280", 
+   "children": [], 
+   "end": "81.160", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "dass die Mitarbeiter in einem Korridor zwischen 6 und 22\u00a0Uhr ihre Arbeit individuell und flexibel gestalten. "
+   ]
+  }, 
+  {
+   "begin": "81.160", 
+   "children": [], 
+   "end": "81.161", 
+   "id": "s000163", 
+   "language": "deu", 
+   "lines": [
+    "Wir sollten es m\u00f6glich machen, "
+   ]
+  }, 
+  {
+   "begin": "81.161", 
+   "children": [], 
+   "end": "81.162", 
+   "id": "s000164", 
+   "language": "deu", 
+   "lines": [
+    "dass die Mitarbeiter in einem Bundesministerium das wirklich selbstbestimmt ausnutzen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "81.162", 
+   "children": [], 
+   "end": "81.163", 
+   "id": "s000165", 
+   "language": "deu", 
+   "lines": [
+    "ohne gegen Gesetze zu versto\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "81.163", 
+   "children": [], 
+   "end": "81.164", 
+   "id": "s000166", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb, "
+   ]
+  }, 
+  {
+   "begin": "81.164", 
+   "children": [], 
+   "end": "81.165", 
+   "id": "s000167", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen von Union und SPD: "
+   ]
+  }, 
+  {
+   "begin": "81.165", 
+   "children": [], 
+   "end": "81.166", 
+   "id": "s000168", 
+   "language": "deu", 
+   "lines": [
+    "Werfen Sie Ihr Herz \u00fcber die H\u00fcrde! "
+   ]
+  }, 
+  {
+   "begin": "81.166", 
+   "children": [], 
+   "end": "81.167", 
+   "id": "s000169", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie diese Mutlosigkeit in Form der Experimentierklausel hinter sich! "
+   ]
+  }, 
+  {
+   "begin": "81.167", 
+   "children": [], 
+   "end": "81.240", 
+   "id": "s000170", 
+   "language": "deu", 
+   "lines": [
+    "Stimmen Sie unserem Gesetzentwurf, "
+   ]
+  }, 
+  {
+   "begin": "81.240", 
+   "children": [], 
+   "end": "81.920", 
+   "id": "s000171", 
+   "language": "deu", 
+   "lines": [
+    "dem der Freien Demokraten, "
+   ]
+  }, 
+  {
+   "begin": "81.920", 
+   "children": [], 
+   "end": "81.921", 
+   "id": "s000172", 
+   "language": "deu", 
+   "lines": [
+    "zu, "
+   ]
+  }, 
+  {
+   "begin": "81.921", 
+   "children": [], 
+   "end": "83.680", 
+   "id": "s000173", 
+   "language": "deu", 
+   "lines": [
+    "und gehen wir einen gro\u00dfen Schritt f\u00fcr die Modernisierung des Arbeitsmarkts, "
+   ]
+  }, 
+  {
+   "begin": "83.680", 
+   "children": [], 
+   "end": "84.240", 
+   "id": "s000174", 
+   "language": "deu", 
+   "lines": [
+    "die wir in unserem Land dringend brauchen! "
+   ]
+  }, 
+  {
+   "begin": "84.240", 
+   "children": [], 
+   "end": "84.520", 
+   "id": "s000175", 
+   "language": "deu", 
+   "lines": [
+    "Auf die weitere Debatte freue ich mich."
+   ]
+  }, 
+  {
+   "begin": "84.520", 
+   "children": [], 
+   "end": "84.521", 
+   "id": "s000176", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "84.521", 
+   "children": [], 
+   "end": "84.600", 
+   "id": "s000177", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "84.600", 
+   "children": [], 
+   "end": "84.840", 
+   "id": "s000178", 
+   "language": "deu", 
+   "lines": [
+    "Johannes Vogel.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "84.840", 
+   "children": [], 
+   "end": "84.880", 
+   "id": "s000179", 
+   "language": "deu", 
+   "lines": [
+    "Bevor ich dem n\u00e4chsten Redner das Wort gebe, "
+   ]
+  }, 
+  {
+   "begin": "84.880", 
+   "children": [], 
+   "end": "84.960", 
+   "id": "s000180", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte ich einen ehemaligen Kollegen begr\u00fc\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "84.960", 
+   "children": [], 
+   "end": "84.961", 
+   "id": "s000181", 
+   "language": "deu", 
+   "lines": [
+    "Herzlich willkommen, "
+   ]
+  }, 
+  {
+   "begin": "84.961", 
+   "children": [], 
+   "end": "85.040", 
+   "id": "s000182", 
+   "language": "deu", 
+   "lines": [
+    "Herr Schiewerling."
+   ]
+  }, 
+  {
+   "begin": "85.040", 
+   "children": [], 
+   "end": "85.240", 
+   "id": "s000183", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle kennen Sie. "
+   ]
+  }, 
+  {
+   "begin": "85.240", 
+   "children": [], 
+   "end": "85.241", 
+   "id": "s000184", 
+   "language": "deu", 
+   "lines": [
+    "Sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "85.241", 
+   "children": [], 
+   "end": "86.360", 
+   "id": "s000185", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie bei dieser Debatte dabei sind. "
+   ]
+  }, 
+  {
+   "begin": "86.360", 
+   "children": [], 
+   "end": "87.240", 
+   "id": "s000186", 
+   "language": "deu", 
+   "lines": [
+    "Wer R\u00fcckfragen hat, "
+   ]
+  }, 
+  {
+   "begin": "87.240", 
+   "children": [], 
+   "end": "87.720", 
+   "id": "s000187", 
+   "language": "deu", 
+   "lines": [
+    "kann sich ja an Herrn Schiewerling wenden."
+   ]
+  }, 
+  {
+   "begin": "87.720", 
+   "children": [], 
+   "end": "88.160", 
+   "id": "s000188", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner in der Debatte: "
+   ]
+  }, 
+  {
+   "begin": "88.160", 
+   "children": [], 
+   "end": "90.000", 
+   "id": "s000189", 
+   "language": "deu", 
+   "lines": [
+    "Torbj\u00f6rn Kartes f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

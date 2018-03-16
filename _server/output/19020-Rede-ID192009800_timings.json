@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.560", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.560", 
+   "children": [], 
+   "end": "11.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.440", 
+   "children": [], 
+   "end": "20.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Maries und Maximilians Eltern leben eine gleichberechtigte Ehe und k\u00fcmmern sich beide liebevoll um ihre Kinder. "
+   ]
+  }, 
+  {
+   "begin": "20.360", 
+   "children": [], 
+   "end": "22.240", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Beide waren in Elternzeit. "
+   ]
+  }, 
+  {
+   "begin": "22.240", 
+   "children": [], 
+   "end": "27.160", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Auch danach haben sie sich die Betreuung und Erziehung der Kinder stets geteilt. "
+   ]
+  }, 
+  {
+   "begin": "27.160", 
+   "children": [], 
+   "end": "31.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben den Partnerschaftsbonus in Anspruch genommen und arbeiten seitdem beide wieder. "
+   ]
+  }, 
+  {
+   "begin": "31.200", 
+   "children": [], 
+   "end": "34.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Marie und Maximilian sind in die Kita gekommen. "
+   ]
+  }, 
+  {
+   "begin": "34.360", 
+   "children": [], 
+   "end": "37.880", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Tage in der Woche werden sie von ihrem Vater abgeholt, "
+   ]
+  }, 
+  {
+   "begin": "37.880", 
+   "children": [], 
+   "end": "39.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "zwei Tage von der Mutter, "
+   ]
+  }, 
+  {
+   "begin": "39.160", 
+   "children": [], 
+   "end": "42.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und einen Tag k\u00fcmmert sich eine Nachbarin."
+   ]
+  }, 
+  {
+   "begin": "42.040", 
+   "children": [], 
+   "end": "47.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Nun geht es Maries und Maximilians Eltern wie etwa 40\u00a0Prozent der Ehepaare in diesem Land: "
+   ]
+  }, 
+  {
+   "begin": "47.800", 
+   "children": [], 
+   "end": "50.040", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Sie trennen sich und wollen sich scheiden lassen."
+   ]
+  }, 
+  {
+   "begin": "50.040", 
+   "children": [], 
+   "end": "56.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Welches Leitbild sieht der Gesetzgeber f\u00fcr diese Situation vor? "
+   ]
+  }, 
+  {
+   "begin": "56.080", 
+   "children": [], 
+   "end": "59.080", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Unser BGB geht davon aus, "
+   ]
+  }, 
+  {
+   "begin": "59.080", 
+   "children": [], 
+   "end": "64.720", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "dass sich ein Kind nur bei einem Elternteil gew\u00f6hnlich und dauerhaft aufh\u00e4lt,"
+   ]
+  }, 
+  {
+   "begin": "64.720", 
+   "children": [], 
+   "end": "67.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "bei nur einem Elternteil tats\u00e4chlich lebt,"
+   ]
+  }, 
+  {
+   "begin": "67.760", 
+   "children": [], 
+   "end": "72.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend es den anderen Elternteil im Rahmen von Umgangskontakten besucht."
+   ]
+  }, 
+  {
+   "begin": "72.760", 
+   "children": [], 
+   "end": "75.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Was hei\u00dft das f\u00fcr Marie und Maximilian? "
+   ]
+  }, 
+  {
+   "begin": "75.880", 
+   "children": [], 
+   "end": "78.960", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Sie wohnen k\u00fcnftig nur noch bei Vater oder Mutter. "
+   ]
+  }, 
+  {
+   "begin": "78.960", 
+   "children": [], 
+   "end": "81.120", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ihre Eltern dar\u00fcber in Streit geraten, "
+   ]
+  }, 
+  {
+   "begin": "81.120", 
+   "children": [], 
+   "end": "83.240", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "bei wem von beiden das sein soll, "
+   ]
+  }, 
+  {
+   "begin": "83.240", 
+   "children": [], 
+   "end": "84.920", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "kommt es zu einem Gerichtsverfahren. "
+   ]
+  }, 
+  {
+   "begin": "84.920", 
+   "children": [], 
+   "end": "87.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Marie und Maximilian haben das Gef\u00fchl, "
+   ]
+  }, 
+  {
+   "begin": "87.400", 
+   "children": [], 
+   "end": "89.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "sich zwischen Mama und Papa entscheiden zu m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "89.800", 
+   "children": [], 
+   "end": "91.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Schlie\u00dflich kommt es dazu, "
+   ]
+  }, 
+  {
+   "begin": "91.640", 
+   "children": [], 
+   "end": "93.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass beide bei der Mutter wohnen. "
+   ]
+  }, 
+  {
+   "begin": "93.600", 
+   "children": [], 
+   "end": "96.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Den Vater besuchen sie jedes zweite Wochenende. "
+   ]
+  }, 
+  {
+   "begin": "96.560", 
+   "children": [], 
+   "end": "99.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Er arbeitet in Vollzeit und zahlt Kindesunterhalt. "
+   ]
+  }, 
+  {
+   "begin": "99.680", 
+   "children": [], 
+   "end": "100.520", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Die Mutter, "
+   ]
+  }, 
+  {
+   "begin": "100.520", 
+   "children": [], 
+   "end": "104.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "nun im Alltag f\u00fcr Haushalt und zwei kleine Kinder allein verantwortlich, "
+   ]
+  }, 
+  {
+   "begin": "104.760", 
+   "children": [], 
+   "end": "109.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "muss beruflich deutlich k\u00fcrzer treten und arbeitet nur noch ein paar Stunden die Woche. "
+   ]
+  }, 
+  {
+   "begin": "109.160", 
+   "children": [], 
+   "end": "112.400", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Der Vater zahlt deshalb auch f\u00fcr sie Unterhalt. "
+   ]
+  }, 
+  {
+   "begin": "112.400", 
+   "children": [], 
+   "end": "115.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Finanziell wird es auch bei ihm sehr eng. "
+   ]
+  }, 
+  {
+   "begin": "115.840", 
+   "children": [], 
+   "end": "122.880", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Vor allem aber ist er in die allt\u00e4glichen N\u00f6te und Sorgen der Kinder deutlich weniger eingebunden, "
+   ]
+  }, 
+  {
+   "begin": "122.880", 
+   "children": [], 
+   "end": "125.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "bekommt nicht mehr jeden Entwicklungsschritt mit. "
+   ]
+  }, 
+  {
+   "begin": "125.680", 
+   "children": [], 
+   "end": "127.120", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Kurzum: "
+   ]
+  }, 
+  {
+   "begin": "127.120", 
+   "children": [], 
+   "end": "129.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die Mutter kontrolliert die ersten Hausaufgaben, "
+   ]
+  }, 
+  {
+   "begin": "129.720", 
+   "children": [], 
+   "end": "131.920", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "der Vater geht in den Zoo."
+   ]
+  }, 
+  {
+   "begin": "131.920", 
+   "children": [], 
+   "end": "132.880", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "132.880", 
+   "children": [], 
+   "end": "133.680", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "es gibt sicher F\u00e4lle, "
+   ]
+  }, 
+  {
+   "begin": "133.680", 
+   "children": [], 
+   "end": "135.600", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "in denen genau diese L\u00f6sung passt. "
+   ]
+  }, 
+  {
+   "begin": "135.600", 
+   "children": [], 
+   "end": "140.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Aber ist das unsere Idee eines zeitgem\u00e4\u00dfen Familienbildes? "
+   ]
+  }, 
+  {
+   "begin": "140.120", 
+   "children": [], 
+   "end": "141.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Klar ist: "
+   ]
+  }, 
+  {
+   "begin": "141.120", 
+   "children": [], 
+   "end": "144.480", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Das Kindeswohlprinzip ist und bleibt das Ma\u00df aller Dinge. "
+   ]
+  }, 
+  {
+   "begin": "144.480", 
+   "children": [], 
+   "end": "147.760", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Es muss stets im Einzelfall geschaut werden, "
+   ]
+  }, 
+  {
+   "begin": "147.760", 
+   "children": [], 
+   "end": "149.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "welche die beste L\u00f6sung f\u00fcr das Kind ist. "
+   ]
+  }, 
+  {
+   "begin": "149.800", 
+   "children": [], 
+   "end": "152.400", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Linksfraktion Sie glauben machen will, "
+   ]
+  }, 
+  {
+   "begin": "152.400", 
+   "children": [], 
+   "end": "154.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "unser Antrag sehe anderes vor, "
+   ]
+  }, 
+  {
+   "begin": "154.200", 
+   "children": [], 
+   "end": "155.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "155.160", 
+   "children": [], 
+   "end": "157.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dann will sie Sie offenkundig in die Irre f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "157.040", 
+   "children": [], 
+   "end": "173.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Aber vor dem Hintergrund der eingangs erl\u00e4uterten Realit\u00e4ten einer erfreulicherweise immer st\u00e4rkeren Einbeziehung beider Elternteile in die Erziehungsverantwortung und einer besseren beruflichen Einbindung beider Elternteile sowie in der Logik einer modernen Familienpolitik braucht unser Familienrecht dringend ein Update."
+   ]
+  }, 
+  {
+   "begin": "173.680", 
+   "children": [], 
+   "end": "174.000", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "174.000", 
+   "children": [], 
+   "end": "174.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass das Wechselmodell, "
+   ]
+  }, 
+  {
+   "begin": "174.960", 
+   "children": [], 
+   "end": "186.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Eltern keine andere einvernehmliche Regelung treffen, "
+   ]
+  }, 
+  {
+   "begin": "186.480", 
+   "children": [], 
+   "end": "192.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "bei der Betreuung von Kindern nach der Trennung der Eltern zum Regelfall wird. "
+   ]
+  }, 
+  {
+   "begin": "192.800", 
+   "children": [], 
+   "end": "195.560", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Was hie\u00dfe das f\u00fcr Marie und Maximilian? "
+   ]
+  }, 
+  {
+   "begin": "195.560", 
+   "children": [], 
+   "end": "199.280", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man das Wechselmodell streng parit\u00e4tisch umsetzen w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "199.280", 
+   "children": [], 
+   "end": "203.280", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dann k\u00f6nnten die Eltern sie nach wie vor abwechselnd von der Kita abholen, "
+   ]
+  }, 
+  {
+   "begin": "203.280", 
+   "children": [], 
+   "end": "205.640", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "oder sie wechseln sich wochenweise ab. "
+   ]
+  }, 
+  {
+   "begin": "205.640", 
+   "children": [], 
+   "end": "211.520", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Die Wochenenden verbringen die Kinder ebenfalls im Wechsel bei beiden Elternteilen. "
+   ]
+  }, 
+  {
+   "begin": "211.520", 
+   "children": [], 
+   "end": "214.600", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Vater und Mutter k\u00f6nnen in ihren Jobs bleiben. "
+   ]
+  }, 
+  {
+   "begin": "214.600", 
+   "children": [], 
+   "end": "216.920", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht kommt es auch zu der Konstellation, "
+   ]
+  }, 
+  {
+   "begin": "216.920", 
+   "children": [], 
+   "end": "218.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass der Vater, "
+   ]
+  }, 
+  {
+   "begin": "218.120", 
+   "children": [], 
+   "end": "221.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "weil der Mutter vielleicht eine bessere Stelle angeboten wird, "
+   ]
+  }, 
+  {
+   "begin": "221.440", 
+   "children": [], 
+   "end": "223.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "zu etwas mehr als 50\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "223.520", 
+   "children": [], 
+   "end": "225.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht zu 60\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "225.240", 
+   "children": [], 
+   "end": "226.680", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die Betreuung \u00fcbernimmt. "
+   ]
+  }, 
+  {
+   "begin": "226.680", 
+   "children": [], 
+   "end": "227.000", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Sprich: "
+   ]
+  }, 
+  {
+   "begin": "227.000", 
+   "children": [], 
+   "end": "230.080", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Der Wechselmodell-Begriff ist nicht streng parit\u00e4tisch, "
+   ]
+  }, 
+  {
+   "begin": "230.080", 
+   "children": [], 
+   "end": "232.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "sondern flexibler zu interpretieren. "
+   ]
+  }, 
+  {
+   "begin": "232.680", 
+   "children": [], 
+   "end": "236.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wer von beiden Elternteilen wie viel Barunterhalt zahlt, "
+   ]
+  }, 
+  {
+   "begin": "236.080", 
+   "children": [], 
+   "end": "239.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "bestimmt sich anteilig nach dem Einkommen beider. "
+   ]
+  }, 
+  {
+   "begin": "239.160", 
+   "children": [], 
+   "end": "242.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Vater und Mutter pr\u00e4gen die Kinder gleicherma\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "242.760", 
+   "children": [], 
+   "end": "245.120", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "sind im Alltag f\u00fcr sie da. "
+   ]
+  }, 
+  {
+   "begin": "245.120", 
+   "children": [], 
+   "end": "246.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Kurzum: "
+   ]
+  }, 
+  {
+   "begin": "246.280", 
+   "children": [], 
+   "end": "249.480", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Vater und Mutter kontrollieren die ersten Hausaufgaben, "
+   ]
+  }, 
+  {
+   "begin": "249.480", 
+   "children": [], 
+   "end": "251.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "und beide gehen mal in den Zoo. "
+   ]
+  }, 
+  {
+   "begin": "251.960", 
+   "children": [], 
+   "end": "253.600", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Das ist gerechter, "
+   ]
+  }, 
+  {
+   "begin": "253.600", 
+   "children": [], 
+   "end": "258.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "im Regelfall f\u00fcr die Kinder das Beste und auch international anerkannt."
+   ]
+  }, 
+  {
+   "begin": "258.480", 
+   "children": [], 
+   "end": "259.920", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "259.920", 
+   "children": [], 
+   "end": "263.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Helling-Plahr.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "263.520", 
+   "children": [], 
+   "end": "268.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Die N\u00e4chste ist f\u00fcr die CDU/CSU-Fraktion die Kollegin Mechthild Heil."
+   ]
+  }
+ ]
+}

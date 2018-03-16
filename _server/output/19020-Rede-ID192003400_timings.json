@@ -1,0 +1,804 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "children": [], 
+   "end": "16.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kollegen und Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "16.680", 
+   "children": [], 
+   "end": "19.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Im S\u00fcdsudan spitzt sich die Lage zu. "
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "children": [], 
+   "end": "26.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "So berichtete zum Beispiel die \u201eFrankfurter Rundschau\u201c am 21.\u00a0Februar dieses Jahres \u00fcber die aktuelle Situation im Land und titelte: "
+   ]
+  }, 
+  {
+   "begin": "26.960", 
+   "children": [], 
+   "end": "29.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "\u201eEin Krieg wird kommen\u201c. "
+   ]
+  }, 
+  {
+   "begin": "29.560", 
+   "children": [], 
+   "end": "35.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "In dem Artikel ist von einem bevorstehenden Angriff der sogenannten Volksbefreiungsarmee SPLA die Rede. "
+   ]
+  }, 
+  {
+   "begin": "35.560", 
+   "children": [], 
+   "end": "39.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Andere Medien sprechen bereits von b\u00fcrgerkriegs\u00e4hnlichen Zust\u00e4nden und davon, "
+   ]
+  }, 
+  {
+   "begin": "39.280", 
+   "children": [], 
+   "end": "42.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass unbeschreibliche Gr\u00e4ueltaten ver\u00fcbt werden."
+   ]
+  }, 
+  {
+   "begin": "42.280", 
+   "children": [], 
+   "end": "45.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wenn sich ein Drittel der Bev\u00f6lkerung auf der Flucht befindet, "
+   ]
+  }, 
+  {
+   "begin": "45.280", 
+   "children": [], 
+   "end": "51.720", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "droht circa 6 bis 7\u00a0Millionen\u00a0Menschen im Land der Hungertod. "
+   ]
+  }, 
+  {
+   "begin": "51.720", 
+   "children": [], 
+   "end": "53.920", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Allen Meldungen ist aber eines gemeinsam: "
+   ]
+  }, 
+  {
+   "begin": "53.920", 
+   "children": [], 
+   "end": "60.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Die Lage im S\u00fcdsudan hat sich de facto seit Verl\u00e4ngerung des Mandats f\u00fcr den Eingriff der Bundeswehr nicht verbessert."
+   ]
+  }, 
+  {
+   "begin": "60.560", 
+   "children": [], 
+   "end": "68.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben uns hier schon hinreichend und \u00fcber alle Fraktionsgrenzen hinweg \u00fcber die Situation in diesem Failed State emp\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "68.400", 
+   "children": [], 
+   "end": "69.040", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "sodass es nicht mehr n\u00f6tig ist, "
+   ]
+  }, 
+  {
+   "begin": "69.040", 
+   "children": [], 
+   "end": "73.280", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "heute an dieser Stelle erneut die groben Missst\u00e4nde vor Ort zu schildern. "
+   ]
+  }, 
+  {
+   "begin": "73.280", 
+   "children": [], 
+   "end": "76.800", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Vertreter der Bundesregierung haben gerade auch noch einmal darauf hingewiesen, "
+   ]
+  }, 
+  {
+   "begin": "76.800", 
+   "children": [], 
+   "end": "80.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "wie die humanit\u00e4re Situation im Land ist."
+   ]
+  }, 
+  {
+   "begin": "80.320", 
+   "children": [], 
+   "end": "82.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Wichtiger und richtiger w\u00e4re es doch, "
+   ]
+  }, 
+  {
+   "begin": "82.160", 
+   "children": [], 
+   "end": "84.080", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "sich dar\u00fcber Gedanken zu machen, "
+   ]
+  }, 
+  {
+   "begin": "84.080", 
+   "children": [], 
+   "end": "86.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "welche konkreten Schritte zu unternehmen sind, "
+   ]
+  }, 
+  {
+   "begin": "86.160", 
+   "children": [], 
+   "end": "88.160", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "um das Ziel dieser Friedensmission, "
+   ]
+  }, 
+  {
+   "begin": "88.160", 
+   "children": [], 
+   "end": "91.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die nachhaltige Befriedung der Region, "
+   ]
+  }, 
+  {
+   "begin": "91.560", 
+   "children": [], 
+   "end": "97.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "zu erreichen."
+   ]
+  }, 
+  {
+   "begin": "97.880", 
+   "children": [], 
+   "end": "100.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "In ihrer Antragsbegr\u00fcndung l\u00e4sst die Bundesregierung verlauten, "
+   ]
+  }, 
+  {
+   "begin": "100.480", 
+   "children": [], 
+   "end": "102.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "es gebe Hoffnung, "
+   ]
+  }, 
+  {
+   "begin": "102.040", 
+   "children": [], 
+   "end": "109.080", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "nachdem im Dezember vergangenen Jahres ein Hochrangiges Revitalisierungsforum einen Waffenstillstand unterzeichnet hat, "
+   ]
+  }, 
+  {
+   "begin": "109.080", 
+   "children": [], 
+   "end": "112.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "um damit den Friedensprozess wiederherzustellen. "
+   ]
+  }, 
+  {
+   "begin": "112.440", 
+   "children": [], 
+   "end": "117.360", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Dennoch werden permanent neue Waffen und Ger\u00e4te aus \u00c4gypten und Uganda in den Sudan geliefert. "
+   ]
+  }, 
+  {
+   "begin": "117.360", 
+   "children": [], 
+   "end": "119.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Die UN ist aufgefordert, "
+   ]
+  }, 
+  {
+   "begin": "119.400", 
+   "children": [], 
+   "end": "121.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "diesen Lieferungen ein Ende zu setzen, "
+   ]
+  }, 
+  {
+   "begin": "121.520", 
+   "children": [], 
+   "end": "122.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "anstatt zu versuchen, "
+   ]
+  }, 
+  {
+   "begin": "122.760", 
+   "children": [], 
+   "end": "129.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "skrupellose Warlords mit sogenannten Revitalisierungsforen und Mediation davon zu \u00fcberzeugen, "
+   ]
+  }, 
+  {
+   "begin": "129.280", 
+   "children": [], 
+   "end": "132.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die Profite aus den sprudelnden \u00d6leinnahmen miteinander zu teilen, "
+   ]
+  }, 
+  {
+   "begin": "132.640", 
+   "children": [], 
+   "end": "134.720", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "und darauf zu hoffen, "
+   ]
+  }, 
+  {
+   "begin": "134.720", 
+   "children": [], 
+   "end": "138.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass t\u00f6dlich verfeindete Volksgruppen von selbst zur Vernunft kommen."
+   ]
+  }, 
+  {
+   "begin": "140.760", 
+   "children": [], 
+   "end": "144.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir hatten die Bundesregierung an dieser Stelle bereits mehrfach dazu aufgefordert, "
+   ]
+  }, 
+  {
+   "begin": "144.200", 
+   "children": [], 
+   "end": "152.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "k\u00fcnftig das politische Gewicht Deutschlands als drittgr\u00f6\u00dfter Beitragszahler der UN zugunsten einer Strategie von UNMISS, "
+   ]
+  }, 
+  {
+   "begin": "152.240", 
+   "children": [], 
+   "end": "155.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "welche den Realit\u00e4ten vor Ort Rechnung tr\u00e4gt, "
+   ]
+  }, 
+  {
+   "begin": "155.120", 
+   "children": [], 
+   "end": "160.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "in die Waagschale zu werfen."
+   ]
+  }, 
+  {
+   "begin": "160.640", 
+   "children": [], 
+   "end": "161.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Es hilft eben nicht, "
+   ]
+  }, 
+  {
+   "begin": "161.280", 
+   "children": [], 
+   "end": "163.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "im groben Trott einer Strategie zu folgen, "
+   ]
+  }, 
+  {
+   "begin": "163.840", 
+   "children": [], 
+   "end": "166.880", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die von Ihnen schon in der Antragsbegr\u00fcndung relativiert wird. "
+   ]
+  }, 
+  {
+   "begin": "166.880", 
+   "children": [], 
+   "end": "168.080", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Dort schreiben Sie selbst: "
+   ]
+  }, 
+  {
+   "begin": "168.080", 
+   "children": [], 
+   "end": "171.080", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "\u201eein Durchbruch blieb gleichwohl aus\u201c. "
+   ]
+  }, 
+  {
+   "begin": "171.080", 
+   "children": [], 
+   "end": "174.200", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "174.200", 
+   "children": [], 
+   "end": "179.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "das ist doch Ihre Bankrotterkl\u00e4rung."
+   ]
+  }, 
+  {
+   "begin": "179.520", 
+   "children": [], 
+   "end": "182.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage deshalb die Bundesregierung heute erneut: "
+   ]
+  }, 
+  {
+   "begin": "182.480", 
+   "children": [], 
+   "end": "184.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Welche Anstrengungen haben Sie unternommen, "
+   ]
+  }, 
+  {
+   "begin": "184.120", 
+   "children": [], 
+   "end": "186.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "um bei der UN ein Umdenken zu erwirken? "
+   ]
+  }, 
+  {
+   "begin": "186.920", 
+   "children": [], 
+   "end": "189.320", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Welchen diplomatischen Druck haben Sie ausge\u00fcbt, "
+   ]
+  }, 
+  {
+   "begin": "189.320", 
+   "children": [], 
+   "end": "190.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "um deutlich zu machen, "
+   ]
+  }, 
+  {
+   "begin": "190.880", 
+   "children": [], 
+   "end": "195.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass weitere Behinderungen der Friedensmission entsprechende Konsequenzen haben werden?"
+   ]
+  }, 
+  {
+   "begin": "195.200", 
+   "children": [], 
+   "end": "200.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die Soldaten im Einsatz ben\u00f6tigen die volle Unterst\u00fctzung seitens der Politik, "
+   ]
+  }, 
+  {
+   "begin": "200.960", 
+   "children": [], 
+   "end": "203.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "um ihrem Auftrag gerecht zu werden. "
+   ]
+  }, 
+  {
+   "begin": "203.800", 
+   "children": [], 
+   "end": "205.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Dieser besteht nach wie vor darin, "
+   ]
+  }, 
+  {
+   "begin": "205.680", 
+   "children": [], 
+   "end": "207.840", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die st\u00e4ndigen \u00dcbergriffe auf die Schw\u00e4chsten, "
+   ]
+  }, 
+  {
+   "begin": "207.840", 
+   "children": [], 
+   "end": "209.560", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich auf Frauen und Kinder, "
+   ]
+  }, 
+  {
+   "begin": "209.560", 
+   "children": [], 
+   "end": "214.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "umgehend zu beenden sowie die Sicherheit der Hilfsorganisationen im Land zu gew\u00e4hrleisten. "
+   ]
+  }, 
+  {
+   "begin": "218.240", 
+   "children": [], 
+   "end": "220.040", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Das kann nur dann gelingen, "
+   ]
+  }, 
+  {
+   "begin": "220.040", 
+   "children": [], 
+   "end": "221.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wenn den Konfliktparteien, "
+   ]
+  }, 
+  {
+   "begin": "221.400", 
+   "children": [], 
+   "end": "224.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die es scheinbar geradezu zur Selbstverst\u00e4ndlichkeit geworden ist, "
+   ]
+  }, 
+  {
+   "begin": "224.400", 
+   "children": [], 
+   "end": "227.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "sich ihren Anteil an den Hilfsgeldern abzupressen, "
+   ]
+  }, 
+  {
+   "begin": "227.280", 
+   "children": [], 
+   "end": "229.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "unmissverst\u00e4ndlich deutlich gemacht wird, "
+   ]
+  }, 
+  {
+   "begin": "229.240", 
+   "children": [], 
+   "end": "232.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass die internationale Staatengemeinschaft nicht mehr bereit ist, "
+   ]
+  }, 
+  {
+   "begin": "232.560", 
+   "children": [], 
+   "end": "235.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dieses Vorgehen zu dulden. "
+   ]
+  }, 
+  {
+   "begin": "235.080", 
+   "children": [], 
+   "end": "236.160", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Es ist an der Zeit, "
+   ]
+  }, 
+  {
+   "begin": "236.160", 
+   "children": [], 
+   "end": "237.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "hier die Regeln zu \u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "237.080", 
+   "children": [], 
+   "end": "238.920", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und es bleibt Aufgabe der Politik, "
+   ]
+  }, 
+  {
+   "begin": "238.920", 
+   "children": [], 
+   "end": "239.920", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dies zu tun."
+   ]
+  }, 
+  {
+   "begin": "239.920", 
+   "children": [], 
+   "end": "249.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir erwarten ja nichts Besonderes von der Bundesregierung; "
+   ]
+  }, 
+  {
+   "begin": "249.240", 
+   "children": [], 
+   "end": "253.520", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "allerdings sollte nun endlich die Bereitschaft der politisch Verantwortlichen deutlich werden, "
+   ]
+  }, 
+  {
+   "begin": "253.520", 
+   "children": [], 
+   "end": "256.280", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "entschlossen und konsequent Entscheidungen zu treffen, "
+   ]
+  }, 
+  {
+   "begin": "256.280", 
+   "children": [], 
+   "end": "259.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "damit der UNMISS-Einsatz Erfolge zeigt."
+   ]
+  }, 
+  {
+   "begin": "262.200", 
+   "children": [], 
+   "end": "263.360", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "263.360", 
+   "children": [], 
+   "end": "274.160", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "aus rein humanit\u00e4ren Gr\u00fcnden bef\u00fcrwortet die AfD-Fraktion daher die Verl\u00e4ngerung des Mandats f\u00fcr die Beteiligung an UNMISS und stimmt der \u00dcberweisung an die Aussch\u00fcsse zu."
+   ]
+  }, 
+  {
+   "begin": "274.160", 
+   "children": [], 
+   "end": "275.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Ich danke Ihnen f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "275.600", 
+   "children": [], 
+   "end": "275.601", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "275.601", 
+   "children": [], 
+   "end": "276.320", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "276.320", 
+   "children": [], 
+   "end": "281.520", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "das wird seine erste Rede im Deutschen Bundestag sein\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "281.520", 
+   "children": [], 
+   "end": "285.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "ist f\u00fcr die FDP-Fraktion Dr.\u00a0Marcus Faber."
+   ]
+  }
+ ]
+}
