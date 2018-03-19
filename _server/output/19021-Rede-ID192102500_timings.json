@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.240", 
+   "children": [], 
+   "end": "9.600", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "children": [], 
+   "end": "14.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir diskutieren heute schon den zweiten Tag \u00fcber Steuersenkungen f\u00fcr Besserverdienende. "
+   ]
+  }, 
+  {
+   "begin": "14.480", 
+   "children": [], 
+   "end": "15.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde das ist wirklich zu viel, "
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "children": [], 
+   "end": "19.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "19.640", 
+   "children": [], 
+   "end": "23.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die AfD und die FDP wollen den Solidarit\u00e4tszuschlag abschaffen. "
+   ]
+  }, 
+  {
+   "begin": "23.680", 
+   "children": [], 
+   "end": "25.440", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht verwunderlich. "
+   ]
+  }, 
+  {
+   "begin": "25.440", 
+   "children": [], 
+   "end": "30.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Denn f\u00fcr beide Parteien ist ein starker Sozialstaat Teufelszeug. "
+   ]
+  }, 
+  {
+   "begin": "30.280", 
+   "children": [], 
+   "end": "31.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Mantra lautet: "
+   ]
+  }, 
+  {
+   "begin": "31.800", 
+   "children": [], 
+   "end": "32.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Steuersenkung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "32.840", 
+   "children": [], 
+   "end": "33.360", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "koste es, "
+   ]
+  }, 
+  {
+   "begin": "33.360", 
+   "children": [], 
+   "end": "34.360", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "was es wolle."
+   ]
+  }, 
+  {
+   "begin": "34.360", 
+   "children": [], 
+   "end": "35.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen einen schwachen Staat, "
+   ]
+  }, 
+  {
+   "begin": "35.960", 
+   "children": [], 
+   "end": "37.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "weil Sie immer noch glauben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "37.600", 
+   "children": [], 
+   "end": "38.880", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere Sie von der FDP\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "38.880", 
+   "children": [], 
+   "end": "40.560", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass der Markt alles regeln k\u00f6nne. "
+   ]
+  }, 
+  {
+   "begin": "40.560", 
+   "children": [], 
+   "end": "43.560", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "K\u00f6nnen Sie sich denn nicht zehn Jahre zur\u00fcckerinnern? "
+   ]
+  }, 
+  {
+   "begin": "43.560", 
+   "children": [], 
+   "end": "45.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Irrglaube, "
+   ]
+  }, 
+  {
+   "begin": "45.000", 
+   "children": [], 
+   "end": "46.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "diese Marktgl\u00e4ubigkeit, "
+   ]
+  }, 
+  {
+   "begin": "46.400", 
+   "children": [], 
+   "end": "50.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "ist doch sp\u00e4testens seit der Bankenkrise 2008 gr\u00fcndlich widerlegt."
+   ]
+  }, 
+  {
+   "begin": "50.960", 
+   "children": [], 
+   "end": "56.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Die Banken haben Milliarden verzockt, "
+   ]
+  }, 
+  {
+   "begin": "56.720", 
+   "children": [], 
+   "end": "57.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und der Staat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "57.560", 
+   "children": [], 
+   "end": "59.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "also die B\u00fcrgerinnen und B\u00fcrger dieses Landes\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "59.680", 
+   "children": [], 
+   "end": "60.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "hat die Banken gerettet. "
+   ]
+  }, 
+  {
+   "begin": "60.960", 
+   "children": [], 
+   "end": "61.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "61.680", 
+   "children": [], 
+   "end": "63.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "das darf sich auf keinen Fall wiederholen."
+   ]
+  }, 
+  {
+   "begin": "63.920", 
+   "children": [], 
+   "end": "67.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die FDP behauptet nun, "
+   ]
+  }, 
+  {
+   "begin": "67.800", 
+   "children": [], 
+   "end": "72.080", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "mit der Abschaffung des Solidarit\u00e4tszuschlages wolle sie die B\u00fcrger entlasten. "
+   ]
+  }, 
+  {
+   "begin": "72.080", 
+   "children": [], 
+   "end": "74.200", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Doch welche B\u00fcrger meinen Sie?"
+   ]
+  }, 
+  {
+   "begin": "74.200", 
+   "children": [], 
+   "end": "74.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Nein, "
+   ]
+  }, 
+  {
+   "begin": "74.480", 
+   "children": [], 
+   "end": "75.920", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Sie entlasten nicht alle. "
+   ]
+  }, 
+  {
+   "begin": "75.920", 
+   "children": [], 
+   "end": "83.880", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ein Single muss mehr als 1\u00a0500\u00a0Euro brutto im Monat und eine vierk\u00f6pfige Familie mehr als 4\u00a0000\u00a0Euro verdienen, "
+   ]
+  }, 
+  {
+   "begin": "83.880", 
+   "children": [], 
+   "end": "86.280", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "um \u00fcberhaupt den Soli zahlen zu m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "86.280", 
+   "children": [], 
+   "end": "89.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Diese Menschen werden durch die Abschaffung des Soli nicht entlastet."
+   ]
+  }, 
+  {
+   "begin": "89.960", 
+   "children": [], 
+   "end": "91.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Was Sie wirklich wollen, "
+   ]
+  }, 
+  {
+   "begin": "91.160", 
+   "children": [], 
+   "end": "93.840", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "meine lieben Kolleginnen und Kollegen von der FDP, "
+   ]
+  }, 
+  {
+   "begin": "93.840", 
+   "children": [], 
+   "end": "94.160", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "ist: "
+   ]
+  }, 
+  {
+   "begin": "94.160", 
+   "children": [], 
+   "end": "95.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen die Reichen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "95.560", 
+   "children": [], 
+   "end": "96.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "das reichste Zehntel\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "96.840", 
+   "children": [], 
+   "end": "98.800", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "in unserem Land weiter entlasten."
+   ]
+  }, 
+  {
+   "begin": "98.800", 
+   "children": [], 
+   "end": "102.680", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das ist bekannterma\u00dfen die Spezialit\u00e4t der FDP: "
+   ]
+  }, 
+  {
+   "begin": "102.680", 
+   "children": [], 
+   "end": "103.320", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Denen, "
+   ]
+  }, 
+  {
+   "begin": "103.320", 
+   "children": [], 
+   "end": "105.760", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die schon jetzt nicht mehr wissen, "
+   ]
+  }, 
+  {
+   "begin": "105.760", 
+   "children": [], 
+   "end": "107.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wohin mit dem Geld, "
+   ]
+  }, 
+  {
+   "begin": "107.680", 
+   "children": [], 
+   "end": "109.880", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wollen Sie noch mehr Geld geben."
+   ]
+  }, 
+  {
+   "begin": "109.880", 
+   "children": [], 
+   "end": "110.920", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Ich dachte, "
+   ]
+  }, 
+  {
+   "begin": "110.920", 
+   "children": [], 
+   "end": "113.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie h\u00e4tten aus der M\u00f6venpick-Spende gelernt, "
+   ]
+  }, 
+  {
+   "begin": "113.320", 
+   "children": [], 
+   "end": "114.600", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die dazu gef\u00fchrt hat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "114.600", 
+   "children": [], 
+   "end": "116.360", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "falls es jemand vergessen haben sollte\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "116.360", 
+   "children": [], 
+   "end": "122.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie damals in den Koalitionsverhandlungen die Senkung des Mehrwertsteuersatzes f\u00fcr Hotel\u00fcbernachtungen durchgesetzt haben."
+   ]
+  }, 
+  {
+   "begin": "122.120", 
+   "children": [], 
+   "end": "122.600", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ich dachte, "
+   ]
+  }, 
+  {
+   "begin": "122.600", 
+   "children": [], 
+   "end": "125.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Sie h\u00e4tten aus dieser M\u00f6venpick-Spende gelernt."
+   ]
+  }, 
+  {
+   "begin": "125.480", 
+   "children": [], 
+   "end": "127.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind seitdem die M\u00f6venpick-Partei, "
+   ]
+  }, 
+  {
+   "begin": "127.880", 
+   "children": [], 
+   "end": "128.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "und ich denke, "
+   ]
+  }, 
+  {
+   "begin": "128.720", 
+   "children": [], 
+   "end": "131.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die B\u00fcrgerinnen und B\u00fcrger dieses Landes sollten das nicht vergessen."
+   ]
+  }, 
+  {
+   "begin": "131.680", 
+   "children": [], 
+   "end": "135.880", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Als Haush\u00e4lterin muss ich mich auch wundern, "
+   ]
+  }, 
+  {
+   "begin": "135.880", 
+   "children": [], 
+   "end": "140.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie mutwillig L\u00fccken in den Haushalt rei\u00dfen wollen, "
+   ]
+  }, 
+  {
+   "begin": "140.160", 
+   "children": [], 
+   "end": "141.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "ohne Ideen zu haben, "
+   ]
+  }, 
+  {
+   "begin": "141.640", 
+   "children": [], 
+   "end": "143.440", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie diese L\u00fccken schlie\u00dfen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "143.440", 
+   "children": [], 
+   "end": "146.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Denn nur auf eine brummende Konjunktur zu setzen, "
+   ]
+  }, 
+  {
+   "begin": "146.920", 
+   "children": [], 
+   "end": "149.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "ist ziemlich fahrl\u00e4ssig, "
+   ]
+  }, 
+  {
+   "begin": "149.040", 
+   "children": [], 
+   "end": "150.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "150.680", 
+   "children": [], 
+   "end": "154.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Koalition will den Solidarit\u00e4tszuschlag abschaffen. "
+   ]
+  }, 
+  {
+   "begin": "154.720", 
+   "children": [], 
+   "end": "156.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Sie l\u00e4sst sich aber etwas mehr Zeit daf\u00fcr. "
+   ]
+  }, 
+  {
+   "begin": "156.840", 
+   "children": [], 
+   "end": "157.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "157.120", 
+   "children": [], 
+   "end": "162.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "an dieser Stelle m\u00fcssen wir auf den Kardinalfehler des Koalitionsvertrages zu sprechen kommen, "
+   ]
+  }, 
+  {
+   "begin": "162.240", 
+   "children": [], 
+   "end": "164.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "der durch die Abschaffung des Solis noch verst\u00e4rkt wird: "
+   ]
+  }, 
+  {
+   "begin": "164.720", 
+   "children": [], 
+   "end": "166.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Sie waren wieder nicht bereit, "
+   ]
+  }, 
+  {
+   "begin": "166.240", 
+   "children": [], 
+   "end": "169.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "eine wirklich gerechte Steuerreform durchzuf\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "169.000", 
+   "children": [], 
+   "end": "170.560", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Das ist aber die eigentliche Aufgabe, "
+   ]
+  }, 
+  {
+   "begin": "170.560", 
+   "children": [], 
+   "end": "171.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "vor der dieses Land steht, "
+   ]
+  }, 
+  {
+   "begin": "171.760", 
+   "children": [], 
+   "end": "176.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "176.000", 
+   "children": [], 
+   "end": "180.600", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "45\u00a0Deutsche besitzen so viel wie die gesamte \u00e4rmere H\u00e4lfte der Bev\u00f6lkerung zusammen. "
+   ]
+  }, 
+  {
+   "begin": "180.600", 
+   "children": [], 
+   "end": "182.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Das kann doch nicht gerecht sein. "
+   ]
+  }, 
+  {
+   "begin": "182.160", 
+   "children": [], 
+   "end": "184.080", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "So kann sich ein Land nicht gut entwickeln, "
+   ]
+  }, 
+  {
+   "begin": "184.080", 
+   "children": [], 
+   "end": "187.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "und hier muss man ansetzen."
+   ]
+  }, 
+  {
+   "begin": "187.400", 
+   "children": [], 
+   "end": "190.200", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Kolleginnen und Kollegen von der SPD, "
+   ]
+  }, 
+  {
+   "begin": "190.200", 
+   "children": [], 
+   "end": "197.120", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind doch mit dem Versprechen einer Verm\u00f6gensteuer und der Forderung nach mehr Gerechtigkeit in den Wahlkampf gezogen. "
+   ]
+  }, 
+  {
+   "begin": "197.120", 
+   "children": [], 
+   "end": "199.600", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Das ist heute leider alles vergessen."
+   ]
+  }, 
+  {
+   "begin": "199.600", 
+   "children": [], 
+   "end": "201.920", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Anders die Bundeskanzlerin: "
+   ]
+  }, 
+  {
+   "begin": "201.920", 
+   "children": [], 
+   "end": "206.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Sie hat den sogenannten Familienunternehmen im Wahlkampf versprochen, "
+   ]
+  }, 
+  {
+   "begin": "206.080", 
+   "children": [], 
+   "end": "208.280", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass es keine Verm\u00f6gensteuer geben wird. "
+   ]
+  }, 
+  {
+   "begin": "208.280", 
+   "children": [], 
+   "end": "209.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Punktsieg f\u00fcr die Kanzlerin\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "209.440", 
+   "children": [], 
+   "end": "210.400", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "wieder einmal. "
+   ]
+  }, 
+  {
+   "begin": "210.400", 
+   "children": [], 
+   "end": "213.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "An dieser Stelle muss man f\u00fcr die \u00d6ffentlichkeit eines sagen: "
+   ]
+  }, 
+  {
+   "begin": "213.080", 
+   "children": [], 
+   "end": "216.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "\u201eFamilienunternehmen\u201c ist ein niedliches Wort. "
+   ]
+  }, 
+  {
+   "begin": "216.240", 
+   "children": [], 
+   "end": "219.720", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "In anderen L\u00e4ndern nennen wir sie \u201eOligarchen\u201c, "
+   ]
+  }, 
+  {
+   "begin": "219.720", 
+   "children": [], 
+   "end": "221.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "und das trifft es viel besser."
+   ]
+  }, 
+  {
+   "begin": "221.240", 
+   "children": [], 
+   "end": "230.480", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Ohne eine wirklich gerechte Steuerreform werden wir in diesem Land auch keine gerechte Gesundheitspolitik, "
+   ]
+  }, 
+  {
+   "begin": "230.480", 
+   "children": [], 
+   "end": "235.280", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "keine gerechte Arbeitsmarktpolitik und keine gerechte Rentenpolitik erreichen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "235.280", 
+   "children": [], 
+   "end": "236.400", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "236.400", 
+   "children": [], 
+   "end": "238.640", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "wir haben gegenw\u00e4rtig Haushalts\u00fcbersch\u00fcsse. "
+   ]
+  }, 
+  {
+   "begin": "238.640", 
+   "children": [], 
+   "end": "239.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "239.960", 
+   "children": [], 
+   "end": "242.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "in Solidarit\u00e4t zu investieren. "
+   ]
+  }, 
+  {
+   "begin": "242.000", 
+   "children": [], 
+   "end": "243.720", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr steht Die\u00a0Linke: "
+   ]
+  }, 
+  {
+   "begin": "243.720", 
+   "children": [], 
+   "end": "246.560", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr ein solidarisches und soziales Land."
+   ]
+  }, 
+  {
+   "begin": "246.560", 
+   "children": [], 
+   "end": "248.280", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr k\u00e4mpfen wir."
+   ]
+  }, 
+  {
+   "begin": "248.280", 
+   "children": [], 
+   "end": "254.440", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "254.440", 
+   "children": [], 
+   "end": "257.000", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Die n\u00e4chste Rednerin ist die Kollegin Lisa Paus vom B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

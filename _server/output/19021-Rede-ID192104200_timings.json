@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "children": [], 
+   "end": "12.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "children": [], 
+   "end": "20.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in Deutschland ein auch im internationalen Vergleich hohes Niveau des Verbraucherschutzes erreicht, "
+   ]
+  }, 
+  {
+   "begin": "20.480", 
+   "children": [], 
+   "end": "24.640", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "des rechtlichen Verbraucherschutzes ebenso wie des institutionellen, "
+   ]
+  }, 
+  {
+   "begin": "24.640", 
+   "children": [], 
+   "end": "32.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "der etwa durch international renommierte Einrichtungen wie die Stiftung Warentest oder die Verbraucherzentralen vertreten ist. "
+   ]
+  }, 
+  {
+   "begin": "32.800", 
+   "children": [], 
+   "end": "34.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Das hat gleichwohl nicht verhindert, "
+   ]
+  }, 
+  {
+   "begin": "34.600", 
+   "children": [], 
+   "end": "40.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass es nach wie vor eine enorm hohe Zahl von sogenannten Verbraucherstreitigkeiten gibt, "
+   ]
+  }, 
+  {
+   "begin": "40.240", 
+   "children": [], 
+   "end": "44.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "von Rechtsstreitigkeiten zwischen Verbrauchern und Anbietern. "
+   ]
+  }, 
+  {
+   "begin": "44.680", 
+   "children": [], 
+   "end": "47.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Die Statistiken der \u00f6ffentlichen Rechtsausk\u00fcnfte, "
+   ]
+  }, 
+  {
+   "begin": "47.360", 
+   "children": [], 
+   "end": "53.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "die Statistiken der Verbraucherzentralen belegen das zum Teil mit erschreckenden Zahlen."
+   ]
+  }, 
+  {
+   "begin": "53.120", 
+   "children": [], 
+   "end": "54.960", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt bestimmte Branchen, "
+   ]
+  }, 
+  {
+   "begin": "54.960", 
+   "children": [], 
+   "end": "59.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "auf die sich solche Streitigkeiten besonders konzentrieren. "
+   ]
+  }, 
+  {
+   "begin": "59.560", 
+   "children": [], 
+   "end": "62.200", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6ren etwa Fluggesellschaften, "
+   ]
+  }, 
+  {
+   "begin": "62.200", 
+   "children": [], 
+   "end": "63.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Versicherungen, "
+   ]
+  }, 
+  {
+   "begin": "63.200", 
+   "children": [], 
+   "end": "63.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Strom- "
+   ]
+  }, 
+  {
+   "begin": "63.760", 
+   "children": [], 
+   "end": "64.800", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und Gasanbieter, "
+   ]
+  }, 
+  {
+   "begin": "64.800", 
+   "children": [], 
+   "end": "66.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Telefongesellschaften, "
+   ]
+  }, 
+  {
+   "begin": "66.600", 
+   "children": [], 
+   "end": "68.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "aber auch kleinere Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "68.160", 
+   "children": [], 
+   "end": "71.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die in Sparten t\u00e4tig sind, "
+   ]
+  }, 
+  {
+   "begin": "71.240", 
+   "children": [], 
+   "end": "75.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbel beleumdet Teile der Partnervermittlungsagenturen, "
+   ]
+  }, 
+  {
+   "begin": "75.360", 
+   "children": [], 
+   "end": "79.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "bestimmte Anbieter von Bauleistungen usw."
+   ]
+  }, 
+  {
+   "begin": "79.080", 
+   "children": [], 
+   "end": "82.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Die Situation versch\u00e4rft sich durch den Onlinehandel, "
+   ]
+  }, 
+  {
+   "begin": "82.120", 
+   "children": [], 
+   "end": "85.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere durch den grenz\u00fcberschreitenden Onlinehandel, "
+   ]
+  }, 
+  {
+   "begin": "85.800", 
+   "children": [], 
+   "end": "89.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr den sehr schwer rechtliche Unterst\u00fctzung zu finden ist. "
+   ]
+  }, 
+  {
+   "begin": "89.680", 
+   "children": [], 
+   "end": "96.520", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "In Deutschland zum Beispiel gibt es solche Unterst\u00fctzung haupts\u00e4chlich durch das Europ\u00e4ische Verbraucherzentrum in Kehl. "
+   ]
+  }, 
+  {
+   "begin": "96.520", 
+   "children": [], 
+   "end": "100.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Die Streitwerte in diesem Bereich sind oftmals sehr niedrig. "
+   ]
+  }, 
+  {
+   "begin": "100.440", 
+   "children": [], 
+   "end": "101.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind so niedrig, "
+   ]
+  }, 
+  {
+   "begin": "101.720", 
+   "children": [], 
+   "end": "104.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass sich viele Anw\u00e4lte scheuen, "
+   ]
+  }, 
+  {
+   "begin": "104.440", 
+   "children": [], 
+   "end": "109.560", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "in solchen Verfahren f\u00fcr Verbraucher t\u00e4tig zu werden. "
+   ]
+  }, 
+  {
+   "begin": "109.560", 
+   "children": [], 
+   "end": "111.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das Ergebnis ist: "
+   ]
+  }, 
+  {
+   "begin": "111.760", 
+   "children": [], 
+   "end": "116.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die Gesch\u00e4digten verzichten auf die Geltendmachung ihrer Anspr\u00fcche, "
+   ]
+  }, 
+  {
+   "begin": "116.760", 
+   "children": [], 
+   "end": "118.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "und bestimmte Anbieter k\u00f6nnen sich sagen: "
+   ]
+  }, 
+  {
+   "begin": "118.800", 
+   "children": [], 
+   "end": "122.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Unlauterer Wettbewerb lohnt immer."
+   ]
+  }, 
+  {
+   "begin": "122.680", 
+   "children": [], 
+   "end": "126.520", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Den Verbrauchern muss die Scheu vor Gerichtsverfahren genommen werden. "
+   ]
+  }, 
+  {
+   "begin": "126.520", 
+   "children": [], 
+   "end": "127.640", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wir glauben, "
+   ]
+  }, 
+  {
+   "begin": "127.640", 
+   "children": [], 
+   "end": "135.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass Gruppenverfahren dazu durchaus ein geeignetes Instrument darstellen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "135.800", 
+   "children": [], 
+   "end": "139.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Es wird weltweit versucht, "
+   ]
+  }, 
+  {
+   "begin": "139.800", 
+   "children": [], 
+   "end": "145.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Verfahren der kollektiven Rechtsdurchsetzung zu etablieren, "
+   ]
+  }, 
+  {
+   "begin": "145.200", 
+   "children": [], 
+   "end": "148.880", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "auch in etlichen L\u00e4ndern der Europ\u00e4ischen Union. "
+   ]
+  }, 
+  {
+   "begin": "148.880", 
+   "children": [], 
+   "end": "153.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich nenne hier stellvertretend die skandinavischen L\u00e4nder, "
+   ]
+  }, 
+  {
+   "begin": "153.280", 
+   "children": [], 
+   "end": "155.040", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "die Tschechische Republik, "
+   ]
+  }, 
+  {
+   "begin": "155.040", 
+   "children": [], 
+   "end": "155.880", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Italien, "
+   ]
+  }, 
+  {
+   "begin": "155.880", 
+   "children": [], 
+   "end": "157.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Spanien, "
+   ]
+  }, 
+  {
+   "begin": "157.040", 
+   "children": [], 
+   "end": "157.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "die Niederlande; "
+   ]
+  }, 
+  {
+   "begin": "157.760", 
+   "children": [], 
+   "end": "159.440", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "es gibt noch einige andere."
+   ]
+  }, 
+  {
+   "begin": "159.440", 
+   "children": [], 
+   "end": "162.280", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das geschieht aus der Erkenntnis heraus, "
+   ]
+  }, 
+  {
+   "begin": "162.280", 
+   "children": [], 
+   "end": "166.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass Einzelverfahren allein dieses Problem nicht l\u00f6sen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "166.880", 
+   "children": [], 
+   "end": "170.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Es wird auf das abschreckende Beispiel der Vereinigten Staaten verwiesen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.640", 
+   "children": [], 
+   "end": "176.720", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "auch in dieser Debatte wurde darauf verwiesen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "176.720", 
+   "children": [], 
+   "end": "184.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wo durch die Class Actions ein wirklich enormes Missbrauchspotenzial geschaffen worden ist; "
+   ]
+  }, 
+  {
+   "begin": "184.560", 
+   "children": [], 
+   "end": "187.520", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "aber das ist nicht vergleichbar mit den Instrumenten, "
+   ]
+  }, 
+  {
+   "begin": "187.520", 
+   "children": [], 
+   "end": "191.000", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die in diesem Gesetzentwurf vorgeschlagen werden. "
+   ]
+  }, 
+  {
+   "begin": "191.000", 
+   "children": [], 
+   "end": "195.800", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die Misere in den USA ist verursacht durch Erfolgshonorare, "
+   ]
+  }, 
+  {
+   "begin": "195.800", 
+   "children": [], 
+   "end": "198.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "auch durch die Bereitschaft der amerikanischen Gerichte, "
+   ]
+  }, 
+  {
+   "begin": "198.640", 
+   "children": [], 
+   "end": "203.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "enorm hohe Schadensersatzsummen zuzubilligen, "
+   ]
+  }, 
+  {
+   "begin": "203.920", 
+   "children": [], 
+   "end": "206.800", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "von denen das allermeiste bei den Kl\u00e4gern gar nicht ankommt, "
+   ]
+  }, 
+  {
+   "begin": "206.800", 
+   "children": [], 
+   "end": "208.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "sondern bei Anw\u00e4lten."
+   ]
+  }, 
+  {
+   "begin": "208.840", 
+   "children": [], 
+   "end": "214.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Die Probleme in den USA sind auch durch das sogenannte Opt-out-Verfahren gekennzeichnet, "
+   ]
+  }, 
+  {
+   "begin": "214.840", 
+   "children": [], 
+   "end": "223.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "bei dem alle Betroffenen in einer bestimmten Problematik automatisch Teilnehmer eines Verfahrens werden, "
+   ]
+  }, 
+  {
+   "begin": "223.400", 
+   "children": [], 
+   "end": "229.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "ohne dass sie sich dazu eigens gemeldet haben und oftmals auch ohne dass sie es \u00fcberhaupt wissen."
+   ]
+  }, 
+  {
+   "begin": "229.960", 
+   "children": [], 
+   "end": "231.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "So gesehen, "
+   ]
+  }, 
+  {
+   "begin": "231.400", 
+   "children": [], 
+   "end": "232.920", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "kann der Gesetzentwurf, "
+   ]
+  }, 
+  {
+   "begin": "232.920", 
+   "children": [], 
+   "end": "233.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "der hier vorliegt, "
+   ]
+  }, 
+  {
+   "begin": "233.920", 
+   "children": [], 
+   "end": "238.320", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "durchaus reizvoll erscheinen. "
+   ]
+  }, 
+  {
+   "begin": "238.320", 
+   "children": [], 
+   "end": "243.760", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Aber mit den Reizen von Gesetzentw\u00fcrfen ist es manchmal so wie mit den Reizen von Menschen: "
+   ]
+  }, 
+  {
+   "begin": "243.760", 
+   "children": [], 
+   "end": "249.720", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Auf den ersten Blick und aus der Ferne betrachtet erscheinen sie blendend, "
+   ]
+  }, 
+  {
+   "begin": "249.720", 
+   "children": [], 
+   "end": "251.600", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "sehen sie sehr gut aus. "
+   ]
+  }, 
+  {
+   "begin": "251.600", 
+   "children": [], 
+   "end": "255.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man ihnen etwas n\u00e4her tritt und sie bei Tageslicht betrachtet, "
+   ]
+  }, 
+  {
+   "begin": "255.600", 
+   "children": [], 
+   "end": "260.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "stellen sich doch einige Unebenheiten und Macken heraus."
+   ]
+  }, 
+  {
+   "begin": "260.000", 
+   "children": [], 
+   "end": "268.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Eine dieser Macken ist nach unserer Auffassung der Anwendungsbereich des Gesetzes: "
+   ]
+  }, 
+  {
+   "begin": "268.000", 
+   "children": [], 
+   "end": "270.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Er ist viel zu breit definiert. "
+   ]
+  }, 
+  {
+   "begin": "270.280", 
+   "children": [], 
+   "end": "273.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Ausgeschlossen sind praktisch nur Familiensachen. "
+   ]
+  }, 
+  {
+   "begin": "273.400", 
+   "children": [], 
+   "end": "276.160", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist der Bereich, "
+   ]
+  }, 
+  {
+   "begin": "276.160", 
+   "children": [], 
+   "end": "279.720", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr den solche Gesetzentw\u00fcrfe eigentlich gedacht sind, "
+   ]
+  }, 
+  {
+   "begin": "279.720", 
+   "children": [], 
+   "end": "281.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich Verbraucherstreitigkeiten, "
+   ]
+  }, 
+  {
+   "begin": "281.600", 
+   "children": [], 
+   "end": "284.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "fast an den Rand ger\u00fcckt."
+   ]
+  }, 
+  {
+   "begin": "284.400", 
+   "children": [], 
+   "end": "288.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Problematisch erscheint uns auch die breite Antragsbefugnis, "
+   ]
+  }, 
+  {
+   "begin": "288.960", 
+   "children": [], 
+   "end": "292.280", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "die wir als Einladung f\u00fcr Gro\u00dfkanzleien sehen, "
+   ]
+  }, 
+  {
+   "begin": "292.280", 
+   "children": [], 
+   "end": "294.760", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "solche Klagen zu betreiben. "
+   ]
+  }, 
+  {
+   "begin": "294.760", 
+   "children": [], 
+   "end": "300.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Das k\u00f6nnte die Gefahr einer Klageindustrie in Deutschland durch die Hintert\u00fcr bedeuten."
+   ]
+  }, 
+  {
+   "begin": "300.360", 
+   "children": [], 
+   "end": "309.200", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Diese Antragsbefugnis sollte auf die Listen begrenzt werden, "
+   ]
+  }, 
+  {
+   "begin": "309.200", 
+   "children": [], 
+   "end": "319.400", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "die in \u00a7\u00a0611 Nummer\u00a02 des Entwurfs genannt werden und in deren Mittelpunkt die Verbraucherverb\u00e4nde, "
+   ]
+  }, 
+  {
+   "begin": "319.400", 
+   "children": [], 
+   "end": "321.520", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "gerade die Verbraucherzentralen, "
+   ]
+  }, 
+  {
+   "begin": "321.520", 
+   "children": [], 
+   "end": "321.840", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "stehen, "
+   ]
+  }, 
+  {
+   "begin": "321.840", 
+   "children": [], 
+   "end": "330.280", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die jahrzehntelange Erfahrung mit dem Abwickeln solcher Verfahren haben und die auch nur dann t\u00e4tig werden, "
+   ]
+  }, 
+  {
+   "begin": "330.280", 
+   "children": [], 
+   "end": "333.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie mit gro\u00dfer Sicherheit annehmen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "333.520", 
+   "children": [], 
+   "end": "335.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "dass sie die Verfahren gewinnen werden. "
+   ]
+  }, 
+  {
+   "begin": "335.760", 
+   "children": [], 
+   "end": "341.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Auch die vorgesehene Kostenregelung erscheint uns problematisch. "
+   ]
+  }, 
+  {
+   "begin": "341.240", 
+   "children": [], 
+   "end": "344.960", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist sicherlich sehr akzeptabel f\u00fcr die Anw\u00e4lte; "
+   ]
+  }, 
+  {
+   "begin": "344.960", 
+   "children": [], 
+   "end": "352.480", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "den Verbrauchern bringt sie aber im Vergleich zu den Kosten von Einzelverfahren nur wenige Vorteile. "
+   ]
+  }, 
+  {
+   "begin": "352.480", 
+   "children": [], 
+   "end": "361.440", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Schlie\u00dflich k\u00f6nnte das Erfordernis der anwaltlichen Vertretung einen R\u00fcckschritt gegen\u00fcber Einzelverfahren mit geringem Streitwert bedeuten."
+   ]
+  }, 
+  {
+   "begin": "361.440", 
+   "children": [], 
+   "end": "364.280", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Fazit: "
+   ]
+  }, 
+  {
+   "begin": "364.280", 
+   "children": [], 
+   "end": "367.840", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Der Gesetzentwurf geht in die richtige Richtung; "
+   ]
+  }, 
+  {
+   "begin": "367.840", 
+   "children": [], 
+   "end": "372.480", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "aber er braucht noch eine ganze Reihe von tiefgreifenden Korrekturen, "
+   ]
+  }, 
+  {
+   "begin": "372.480", 
+   "children": [], 
+   "end": "374.600", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "um zustimmungsf\u00e4hig zu werden. "
+   ]
+  }, 
+  {
+   "begin": "374.600", 
+   "children": [], 
+   "end": "375.160", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich, "
+   ]
+  }, 
+  {
+   "begin": "375.160", 
+   "children": [], 
+   "end": "378.240", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "mit Ihnen dar\u00fcber im Ausschuss zu diskutieren."
+   ]
+  }, 
+  {
+   "begin": "378.240", 
+   "children": [], 
+   "end": "378.760", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "378.760", 
+   "children": [], 
+   "end": "387.000", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die FDP-Fraktion hat das Wort die Kollegin Katharina Kloke."
+   ]
+  }
+ ]
+}

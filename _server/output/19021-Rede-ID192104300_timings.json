@@ -1,0 +1,854 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.440", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "2.440", 
+   "children": [], 
+   "end": "14.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "14.440", 
+   "children": [], 
+   "end": "23.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Auf der Tagesordnung steht eines der hei\u00dfesten rechtspolitischen Themen dieses Jahres: "
+   ]
+  }, 
+  {
+   "begin": "23.320", 
+   "children": [], 
+   "end": "25.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "der kollektive Rechtsschutz. "
+   ]
+  }, 
+  {
+   "begin": "25.200", 
+   "children": [], 
+   "end": "30.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wir sprechen heute nicht \u00fcber die von der GroKo angek\u00fcndigte Musterfeststellungsklage. "
+   ]
+  }, 
+  {
+   "begin": "30.440", 
+   "children": [], 
+   "end": "31.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Bei der ist es, "
+   ]
+  }, 
+  {
+   "begin": "31.280", 
+   "children": [], 
+   "end": "32.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "so viel sei vorweggenommen, "
+   ]
+  }, 
+  {
+   "begin": "32.960", 
+   "children": [], 
+   "end": "34.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "ein bisschen wie beim BER: "
+   ]
+  }, 
+  {
+   "begin": "34.840", 
+   "children": [], 
+   "end": "40.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Baustelle dichtmachen und noch einmal ganz von vorne anfangen ist wahrscheinlich am g\u00fcnstigsten. "
+   ]
+  }, 
+  {
+   "begin": "40.760", 
+   "children": [], 
+   "end": "44.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Dem interessierten Laien dr\u00e4ngt sich dieser Eindruck auf; "
+   ]
+  }, 
+  {
+   "begin": "44.040", 
+   "children": [], 
+   "end": "47.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "zahlreiche Experten haben ihn best\u00e4tigt."
+   ]
+  }, 
+  {
+   "begin": "47.160", 
+   "children": [], 
+   "end": "52.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Insoweit ist der Entwurf der Gr\u00fcnen f\u00fcr ein Gruppenverfahren verdienstvoll; "
+   ]
+  }, 
+  {
+   "begin": "52.880", 
+   "children": [], 
+   "end": "54.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "aber er hat auch Schw\u00e4chen. "
+   ]
+  }, 
+  {
+   "begin": "54.320", 
+   "children": [], 
+   "end": "55.880", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Erstens handelt es sich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "55.880", 
+   "children": [], 
+   "end": "56.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "immerhin\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "56.840", 
+   "children": [], 
+   "end": "58.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "um ein eigenes Konzept. "
+   ]
+  }, 
+  {
+   "begin": "58.520", 
+   "children": [], 
+   "end": "59.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Und er l\u00f6st zweitens\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "59.760", 
+   "children": [], 
+   "end": "60.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "immerhin\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "60.760", 
+   "children": [], 
+   "end": "66.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "eine Reihe von Problemen deutlich besser als das notleidende GroKo-Modell."
+   ]
+  }, 
+  {
+   "begin": "66.160", 
+   "children": [], 
+   "end": "69.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns das n\u00e4her anschauen. "
+   ]
+  }, 
+  {
+   "begin": "69.360", 
+   "children": [], 
+   "end": "70.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagen: "
+   ]
+  }, 
+  {
+   "begin": "70.400", 
+   "children": [], 
+   "end": "74.520", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Zugangsschranken runter ist gleich mehr Rechtsdurchsetzung. "
+   ]
+  }, 
+  {
+   "begin": "74.520", 
+   "children": [], 
+   "end": "77.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Dagegen ist vom Grundsatz her wenig einzuwenden. "
+   ]
+  }, 
+  {
+   "begin": "77.560", 
+   "children": [], 
+   "end": "80.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Es geh\u00f6rt zum liberalen Rechtsstaatsverst\u00e4ndnis, "
+   ]
+  }, 
+  {
+   "begin": "80.320", 
+   "children": [], 
+   "end": "86.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass jeder freie Mensch sein Recht auch geltend machen und mithilfe des Rechts durchsetzen kann. "
+   ]
+  }, 
+  {
+   "begin": "86.280", 
+   "children": [], 
+   "end": "88.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Der Staat ist daf\u00fcr da, "
+   ]
+  }, 
+  {
+   "begin": "88.000", 
+   "children": [], 
+   "end": "92.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "faire und freiheitliche Spielregeln f\u00fcr den Einzelnen aufzustellen. "
+   ]
+  }, 
+  {
+   "begin": "92.160", 
+   "children": [], 
+   "end": "96.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "So schafft er den bestm\u00f6glichen Rahmen f\u00fcr Wettbewerb und Innovation. "
+   ]
+  }, 
+  {
+   "begin": "96.320", 
+   "children": [], 
+   "end": "98.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Das dient dem Wohle aller. "
+   ]
+  }, 
+  {
+   "begin": "98.480", 
+   "children": [], 
+   "end": "101.360", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das spricht f\u00fcr Instrumente des kollektiven Rechtsschutzes, "
+   ]
+  }, 
+  {
+   "begin": "101.360", 
+   "children": [], 
+   "end": "105.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "und das spricht f\u00fcr die Absenkung von Zugangsschranken. "
+   ]
+  }, 
+  {
+   "begin": "105.160", 
+   "children": [], 
+   "end": "106.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Was man aber beachten muss: "
+   ]
+  }, 
+  {
+   "begin": "106.840", 
+   "children": [], 
+   "end": "113.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "\u201eZugangsschranken runter\u201c bedeutet erst einmal einen deutlich st\u00e4rkeren Zulauf zu den Gerichten. "
+   ]
+  }, 
+  {
+   "begin": "113.200", 
+   "children": [], 
+   "end": "116.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das Justizsystem wird zun\u00e4chst einmal zus\u00e4tzlich be- "
+   ]
+  }, 
+  {
+   "begin": "116.680", 
+   "children": [], 
+   "end": "118.640", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und nicht entlastet. "
+   ]
+  }, 
+  {
+   "begin": "118.640", 
+   "children": [], 
+   "end": "123.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Diese Belastung soll ausgeglichen oder gar \u00fcberkompensiert werden. "
+   ]
+  }, 
+  {
+   "begin": "123.040", 
+   "children": [], 
+   "end": "129.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das soll aus der umfassenden B\u00fcndelung von bestimmten Pr\u00fcfungsfragen in einem einzigen Gruppenverfahren erfolgen. "
+   ]
+  }, 
+  {
+   "begin": "129.480", 
+   "children": [], 
+   "end": "132.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das ist aber erst einmal nur eine spekulative Hoffnung."
+   ]
+  }, 
+  {
+   "begin": "132.400", 
+   "children": [], 
+   "end": "133.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Hinzu kommt: "
+   ]
+  }, 
+  {
+   "begin": "133.400", 
+   "children": [], 
+   "end": "137.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Sofern das Gruppenverfahren nicht im vollstreckbaren Vergleich endet, "
+   ]
+  }, 
+  {
+   "begin": "137.280", 
+   "children": [], 
+   "end": "142.120", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "muss der Teilnehmer eine individuelle Klage an das Gruppenverfahren anschlie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "142.120", 
+   "children": [], 
+   "end": "144.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "um seine individuellen Anspr\u00fcche tats\u00e4chlich durchzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "144.680", 
+   "children": [], 
+   "end": "150.560", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das geht noch einmal durch alle Instanzen und hat also eine weitere Inanspruchnahme der Gerichte zur Folge. "
+   ]
+  }, 
+  {
+   "begin": "150.560", 
+   "children": [], 
+   "end": "152.320", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine Gewissheit. "
+   ]
+  }, 
+  {
+   "begin": "152.320", 
+   "children": [], 
+   "end": "154.800", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen den B\u00fcrgern also auch sagen, "
+   ]
+  }, 
+  {
+   "begin": "154.800", 
+   "children": [], 
+   "end": "156.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass es sie etwas kostet, "
+   ]
+  }, 
+  {
+   "begin": "156.160", 
+   "children": [], 
+   "end": "159.960", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "st\u00e4rker in Anspruch genommene Gerichte entsprechend auszustatten."
+   ]
+  }, 
+  {
+   "begin": "159.960", 
+   "children": [], 
+   "end": "163.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wie wollen Sie den Zugang zum Recht vereinfachen? "
+   ]
+  }, 
+  {
+   "begin": "163.200", 
+   "children": [], 
+   "end": "163.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Unter anderem, "
+   ]
+  }, 
+  {
+   "begin": "163.920", 
+   "children": [], 
+   "end": "168.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "indem Sie dem KapMuG die Idee der einfachen Teilnahme entleihen. "
+   ]
+  }, 
+  {
+   "begin": "168.200", 
+   "children": [], 
+   "end": "171.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Positiv f\u00fcr den einzelnen Teilnehmer des Gruppenverfahrens ist, "
+   ]
+  }, 
+  {
+   "begin": "171.680", 
+   "children": [], 
+   "end": "173.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass er so relativ leicht verhindern kann, "
+   ]
+  }, 
+  {
+   "begin": "173.920", 
+   "children": [], 
+   "end": "175.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass seine Anspr\u00fcche verj\u00e4hren. "
+   ]
+  }, 
+  {
+   "begin": "175.960", 
+   "children": [], 
+   "end": "177.680", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Wer seine Teilnahme erkl\u00e4rt, "
+   ]
+  }, 
+  {
+   "begin": "177.680", 
+   "children": [], 
+   "end": "181.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "der muss am Ende auch das Urteil im Gruppenverfahren gegen sich gelten lassen. "
+   ]
+  }, 
+  {
+   "begin": "181.560", 
+   "children": [], 
+   "end": "183.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Das ist zun\u00e4chst einmal konsequent. "
+   ]
+  }, 
+  {
+   "begin": "183.640", 
+   "children": [], 
+   "end": "186.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Hochproblematisch ist allerdings, "
+   ]
+  }, 
+  {
+   "begin": "186.240", 
+   "children": [], 
+   "end": "187.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass die Teilnehmer, "
+   ]
+  }, 
+  {
+   "begin": "187.400", 
+   "children": [], 
+   "end": "191.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die nicht vom Gericht als Gruppenkl\u00e4ger ausgew\u00e4hlt worden sind, "
+   ]
+  }, 
+  {
+   "begin": "191.000", 
+   "children": [], 
+   "end": "192.440", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "keine M\u00f6glichkeit haben, "
+   ]
+  }, 
+  {
+   "begin": "192.440", 
+   "children": [], 
+   "end": "196.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "selbst Prozesshandlungen vorzunehmen oder rechtlich geh\u00f6rt zu werden. "
+   ]
+  }, 
+  {
+   "begin": "196.560", 
+   "children": [], 
+   "end": "199.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Das ist aber ein Frontalunfall mit dem Grundgesetz. "
+   ]
+  }, 
+  {
+   "begin": "199.880", 
+   "children": [], 
+   "end": "204.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "\u201eVor Gericht hat jedermann Anspruch auf rechtliches Geh\u00f6r\u201c; "
+   ]
+  }, 
+  {
+   "begin": "204.720", 
+   "children": [], 
+   "end": "208.320", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "so steht es in Artikel\u00a0103 Grundgesetz."
+   ]
+  }, 
+  {
+   "begin": "208.320", 
+   "children": [], 
+   "end": "210.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Dass man am Gruppenverfahren freiwillig teilnimmt, "
+   ]
+  }, 
+  {
+   "begin": "210.880", 
+   "children": [], 
+   "end": "212.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "ist kein hinreichendes Argument; "
+   ]
+  }, 
+  {
+   "begin": "212.440", 
+   "children": [], 
+   "end": "214.560", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "denn jede Klage ist freiwillig. "
+   ]
+  }, 
+  {
+   "begin": "214.560", 
+   "children": [], 
+   "end": "218.360", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem kann das rechtliche Geh\u00f6r noch verletzt werden. "
+   ]
+  }, 
+  {
+   "begin": "218.360", 
+   "children": [], 
+   "end": "222.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Auch die scheinbare Vertretung durch den Gruppenkl\u00e4ger entsch\u00e4rft das Problem nicht; "
+   ]
+  }, 
+  {
+   "begin": "222.800", 
+   "children": [], 
+   "end": "226.920", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "denn er handelt nur f\u00fcr sich selbst. "
+   ]
+  }, 
+  {
+   "begin": "226.920", 
+   "children": [], 
+   "end": "235.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Entscheidend sind vielmehr die formelle Verfahrensbeteiligung und die M\u00f6glichkeit der unmittelbaren Beeintr\u00e4chtigung in eigenen Rechten durch den Verfahrensausgang. "
+   ]
+  }, 
+  {
+   "begin": "235.560", 
+   "children": [], 
+   "end": "237.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Beim KapMuG ist das anders. "
+   ]
+  }, 
+  {
+   "begin": "237.400", 
+   "children": [], 
+   "end": "245.120", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Im dort geregelten Musterverfahren k\u00f6nnen die sogenannten Beigeladenen selbst Prozesshandlungen wirksam vornehmen."
+   ]
+  }, 
+  {
+   "begin": "245.120", 
+   "children": [], 
+   "end": "248.120", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Mein letzter Punkt betrifft die Klagebefugnis. "
+   ]
+  }, 
+  {
+   "begin": "248.120", 
+   "children": [], 
+   "end": "251.200", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Hier gehen Sie bewusst einen anderen Weg als das KapMuG. "
+   ]
+  }, 
+  {
+   "begin": "251.200", 
+   "children": [], 
+   "end": "254.520", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Aus der Sicht der FDP ist er nicht erstrebenswert; "
+   ]
+  }, 
+  {
+   "begin": "254.520", 
+   "children": [], 
+   "end": "257.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "denn es ist aus unserer Sicht nicht richtig, "
+   ]
+  }, 
+  {
+   "begin": "257.760", 
+   "children": [], 
+   "end": "260.320", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dem Paternalismus Vorschub zu leisten. "
+   ]
+  }, 
+  {
+   "begin": "260.320", 
+   "children": [], 
+   "end": "263.360", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wir halten es nicht f\u00fcr der Weisheit letzten Schluss, "
+   ]
+  }, 
+  {
+   "begin": "263.360", 
+   "children": [], 
+   "end": "268.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "ein neues Verbandsklageinstrument f\u00fcr \u201equalifizierte Einrichtungen\u201c zu schaffen, "
+   ]
+  }, 
+  {
+   "begin": "268.440", 
+   "children": [], 
+   "end": "272.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "wo schon die bestehenden Verbandsklagem\u00f6glichkeiten nicht so genutzt werden wie gedacht."
+   ]
+  }, 
+  {
+   "begin": "272.840", 
+   "children": [], 
+   "end": "277.120", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen nicht noch mehr Paternalismus in diesem Land; "
+   ]
+  }, 
+  {
+   "begin": "277.120", 
+   "children": [], 
+   "end": "280.080", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "wir brauchen m\u00fcndige Verbraucher und freie B\u00fcrger."
+   ]
+  }, 
+  {
+   "begin": "280.080", 
+   "children": [], 
+   "end": "281.400", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "281.400", 
+   "children": [], 
+   "end": "286.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion Die Linke hat das Wort nun die Kollegin Amira Mohamed Ali."
+   ]
+  }
+ ]
+}

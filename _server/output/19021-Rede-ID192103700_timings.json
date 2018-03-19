@@ -1,0 +1,834 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.600", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.600", 
+   "children": [], 
+   "end": "1.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "1.880", 
+   "children": [], 
+   "end": "2.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "2.800", 
+   "children": [], 
+   "end": "4.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sie alle sind mit dem Kopf fast schon im Wahlkreis."
+   ]
+  }, 
+  {
+   "begin": "4.560", 
+   "children": [], 
+   "end": "5.600", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte Sie aber trotzdem, "
+   ]
+  }, 
+  {
+   "begin": "5.600", 
+   "children": [], 
+   "end": "6.360", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "jetzt noch einmal aufzupassen; "
+   ]
+  }, 
+  {
+   "begin": "6.360", 
+   "children": [], 
+   "end": "6.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "denn es kann durchaus sein, "
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "children": [], 
+   "end": "7.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie in Ihrem Wahlkreis unangenehme Fragen gestellt bekommen. "
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "children": [], 
+   "end": "7.121", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "7.121", 
+   "children": [], 
+   "end": "8.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "viele von Ihnen werden dabei nicht gut ausschauen, "
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "children": [], 
+   "end": "9.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie nach einer Antwort suchen."
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "children": [], 
+   "end": "10.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Gestern hat das Landgericht Hamburg dem K\u00e4ufer eines VW-Diesels den Anspruch zugesprochen, "
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "children": [], 
+   "end": "11.040", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "diesen Diesel einzutauschen."
+   ]
+  }, 
+  {
+   "begin": "11.040", 
+   "children": [], 
+   "end": "12.040", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Der Diesel ist nicht m\u00e4ngelfrei gewesen, "
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "children": [], 
+   "end": "13.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "weil er mit einer Softwarenachr\u00fcstung ausgestattet worden ist, "
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "children": [], 
+   "end": "14.560", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "mit der Sie auf Ihren Dieselgipfeln seit Jahren versuchen, "
+   ]
+  }, 
+  {
+   "begin": "14.560", 
+   "children": [], 
+   "end": "14.880", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die Leute abzuspeisen."
+   ]
+  }, 
+  {
+   "begin": "14.880", 
+   "children": [], 
+   "end": "15.600", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Ich gratuliere dem tapferen Kl\u00e4ger zu diesem Erfolg, "
+   ]
+  }, 
+  {
+   "begin": "15.600", 
+   "children": [], 
+   "end": "15.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "zu den Nerven, "
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "children": [], 
+   "end": "16.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "zu dem Mut und zu auch dem Budget, "
+   ]
+  }, 
+  {
+   "begin": "16.600", 
+   "children": [], 
+   "end": "17.160", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "das er offensichtlich hat, "
+   ]
+  }, 
+  {
+   "begin": "17.160", 
+   "children": [], 
+   "end": "17.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "um sich alleine gegen VW zu stellen. "
+   ]
+  }, 
+  {
+   "begin": "17.800", 
+   "children": [], 
+   "end": "18.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann Ihnen garantieren: "
+   ]
+  }, 
+  {
+   "begin": "18.960", 
+   "children": [], 
+   "end": "19.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Bei Ihnen im Wahlkreis werden Sie die Leute, "
+   ]
+  }, 
+  {
+   "begin": "19.360", 
+   "children": [], 
+   "end": "19.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die in genau derselben Situation sind, "
+   ]
+  }, 
+  {
+   "begin": "19.720", 
+   "children": [], 
+   "end": "20.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht das Geld und nicht die Nerven haben, "
+   ]
+  }, 
+  {
+   "begin": "20.760", 
+   "children": [], 
+   "end": "21.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "sich alleine gegen VW zu stellen, "
+   ]
+  }, 
+  {
+   "begin": "21.920", 
+   "children": [], 
+   "end": "22.160", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "fragen: "
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "children": [], 
+   "end": "22.560", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Und was ist mit mir?"
+   ]
+  }, 
+  {
+   "begin": "22.560", 
+   "children": [], 
+   "end": "23.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Reaktion von der VW-Zentrale in Wolfsburg auf dieses Urteil zeigt ziemlich genau, "
+   ]
+  }, 
+  {
+   "begin": "23.320", 
+   "children": [], 
+   "end": "24.720", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "in welch desolatem und r\u00fcckst\u00e4ndigem Zustand der deutsche Zivilprozess in dieser Frage ist."
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "children": [], 
+   "end": "25.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "VW sagt: "
+   ]
+  }, 
+  {
+   "begin": "25.440", 
+   "children": [], 
+   "end": "26.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Andere Gerichte haben anders entschieden. "
+   ]
+  }, 
+  {
+   "begin": "26.520", 
+   "children": [], 
+   "end": "29.000", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt warten wir einmal die Berufung ab. "
+   ]
+  }, 
+  {
+   "begin": "29.000", 
+   "children": [], 
+   "end": "29.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Da bekommt der gute Mann sicher nicht mehr recht."
+   ]
+  }, 
+  {
+   "begin": "29.760", 
+   "children": [], 
+   "end": "30.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagen also letztlich: "
+   ]
+  }, 
+  {
+   "begin": "30.400", 
+   "children": [], 
+   "end": "30.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Na ja, "
+   ]
+  }, 
+  {
+   "begin": "30.520", 
+   "children": [], 
+   "end": "31.840", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "ihr m\u00fcsst immer noch alle einzeln gegen uns klagen. "
+   ]
+  }, 
+  {
+   "begin": "31.840", 
+   "children": [], 
+   "end": "32.800", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr braucht ihr einen verdammt langen Atem.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "32.800", 
+   "children": [], 
+   "end": "33.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Genau so sieht das deutsche Zivilrecht aus."
+   ]
+  }, 
+  {
+   "begin": "33.520", 
+   "children": [], 
+   "end": "37.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Die Gr\u00fcnen haben unter der Federf\u00fchrung meiner gesch\u00e4tzten Kollegin Renate K\u00fcnast hier schon 2013 einen Gesetzentwurf f\u00fcr eine Gruppenklage eingebracht, "
+   ]
+  }, 
+  {
+   "begin": "37.200", 
+   "children": [], 
+   "end": "38.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "der alles ge\u00e4ndert h\u00e4tte."
+   ]
+  }, 
+  {
+   "begin": "38.080", 
+   "children": [], 
+   "end": "38.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Die Betroffenen h\u00e4tten sich mit \u00fcberschaubarem Risiko zusammentun k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "38.880", 
+   "children": [], 
+   "end": "41.000", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "um ihre Anspr\u00fcche gegen VW gemeinsam und mit ordentlicher Vertretung durchsetzen zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "41.000", 
+   "children": [], 
+   "end": "41.280", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir h\u00e4tten nicht zig Gerichte mit denselben tats\u00e4chlichen und rechtlichen Feststellungen besch\u00e4ftigt. "
+   ]
+  }, 
+  {
+   "begin": "41.280", 
+   "children": [], 
+   "end": "44.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir w\u00e4ren auf dem Weg zur Rechtssicherheit f\u00fcr VW und f\u00fcr die K\u00e4uferinnen und K\u00e4ufer schon einen wesentlichen Schritt weiter. "
+   ]
+  }, 
+  {
+   "begin": "44.960", 
+   "children": [], 
+   "end": "45.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Und die Menschen in diesem Land h\u00e4tten endlich das Gef\u00fchl, "
+   ]
+  }, 
+  {
+   "begin": "45.560", 
+   "children": [], 
+   "end": "49.360", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass dieser Staat einmal an ihrer Seite steht und nicht nur an der Seite der Trickser mit guten Anw\u00e4lten."
+   ]
+  }, 
+  {
+   "begin": "49.360", 
+   "children": [], 
+   "end": "50.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag kommen Sie nun viel zu sp\u00e4t mit einer absoluten Minimall\u00f6sung um die Ecke."
+   ]
+  }, 
+  {
+   "begin": "50.600", 
+   "children": [], 
+   "end": "50.601", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Sie versprechen den Menschen, "
+   ]
+  }, 
+  {
+   "begin": "50.601", 
+   "children": [], 
+   "end": "51.800", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wenigstens Verj\u00e4hrungen Ende\u00a02018 zu verhindern. "
+   ]
+  }, 
+  {
+   "begin": "51.800", 
+   "children": [], 
+   "end": "53.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Dabei ist noch nicht einmal klar, "
+   ]
+  }, 
+  {
+   "begin": "53.120", 
+   "children": [], 
+   "end": "53.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "wie bei Ihren Ideen die Verj\u00e4hrung \u00fcberhaupt gehemmt werden soll. "
+   ]
+  }, 
+  {
+   "begin": "53.920", 
+   "children": [], 
+   "end": "54.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das Klageregister, "
+   ]
+  }, 
+  {
+   "begin": "54.800", 
+   "children": [], 
+   "end": "56.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr dessen Einrichtung das Justizministerium mindestens zwei Jahre ansetzt, "
+   ]
+  }, 
+  {
+   "begin": "56.360", 
+   "children": [], 
+   "end": "57.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "ist nicht einmal in Sichtweite."
+   ]
+  }, 
+  {
+   "begin": "57.400", 
+   "children": [], 
+   "end": "59.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Gesetzentwurf aus dem Justizministerium bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "59.080", 
+   "children": [], 
+   "end": "62.040", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass zwar der private K\u00e4ufer eines Diesels sich einer Musterfeststellungsklage anschlie\u00dfen kann. "
+   ]
+  }, 
+  {
+   "begin": "62.040", 
+   "children": [], 
+   "end": "62.041", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Der Handwerker, "
+   ]
+  }, 
+  {
+   "begin": "62.041", 
+   "children": [], 
+   "end": "62.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "der genau dasselbe Auto gekauft hat, "
+   ]
+  }, 
+  {
+   "begin": "62.400", 
+   "children": [], 
+   "end": "63.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "kann das aber nicht, "
+   ]
+  }, 
+  {
+   "begin": "63.480", 
+   "children": [], 
+   "end": "63.720", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "weil er kein Verbraucher ist. "
+   ]
+  }, 
+  {
+   "begin": "63.720", 
+   "children": [], 
+   "end": "63.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wie absurd ist das denn?"
+   ]
+  }, 
+  {
+   "begin": "63.880", 
+   "children": [], 
+   "end": "65.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden hier sonntags viel vom Vertrauen der Menschen in diesen Staat und sagen, "
+   ]
+  }, 
+  {
+   "begin": "65.880", 
+   "children": [], 
+   "end": "67.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "wir machten uns Sorgen und wollten daf\u00fcr k\u00e4mpfen, "
+   ]
+  }, 
+  {
+   "begin": "67.920", 
+   "children": [], 
+   "end": "68.760", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass sie es wiedergewinnen. "
+   ]
+  }, 
+  {
+   "begin": "68.760", 
+   "children": [], 
+   "end": "69.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Viele von Ihnen von Union und SPD, "
+   ]
+  }, 
+  {
+   "begin": "69.920", 
+   "children": [], 
+   "end": "70.880", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "den ehemaligen Volksparteien, "
+   ]
+  }, 
+  {
+   "begin": "70.880", 
+   "children": [], 
+   "end": "72.840", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "genauso wie von den Dieselfreunden von der FDP oder der AfD suchen an den unm\u00f6glichsten Stellen nach M\u00f6glichkeiten, "
+   ]
+  }, 
+  {
+   "begin": "72.840", 
+   "children": [], 
+   "end": "73.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dieses Vertrauen wiederherzustellen."
+   ]
+  }, 
+  {
+   "begin": "73.960", 
+   "children": [], 
+   "end": "74.480", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Genau hier w\u00e4re eine solche Stelle. "
+   ]
+  }, 
+  {
+   "begin": "74.480", 
+   "children": [], 
+   "end": "74.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Genau hier k\u00f6nnten Sie es tun."
+   ]
+  }, 
+  {
+   "begin": "74.840", 
+   "children": [], 
+   "end": "75.240", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnten sich an die Seite der normalen Leute stellen, "
+   ]
+  }, 
+  {
+   "begin": "75.240", 
+   "children": [], 
+   "end": "76.400", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "die keine Rechtsabteilung haben und deren Rechtsschutzversicherung ihnen den Vogel zeigt, "
+   ]
+  }, 
+  {
+   "begin": "76.400", 
+   "children": [], 
+   "end": "77.200", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie gegen VW klagen wollen. "
+   ]
+  }, 
+  {
+   "begin": "77.200", 
+   "children": [], 
+   "end": "78.560", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnten diejenigen in die Schranken weisen, "
+   ]
+  }, 
+  {
+   "begin": "78.560", 
+   "children": [], 
+   "end": "79.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "die ihre Gewinne deswegen machen, "
+   ]
+  }, 
+  {
+   "begin": "79.440", 
+   "children": [], 
+   "end": "81.680", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "weil sie darauf vertrauen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "81.680", 
+   "children": [], 
+   "end": "85.680", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass schon keiner klagen wird."
+   ]
+  }, 
+  {
+   "begin": "85.680", 
+   "children": [], 
+   "end": "86.320", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Das tun Sie aber nicht. "
+   ]
+  }, 
+  {
+   "begin": "86.320", 
+   "children": [], 
+   "end": "86.600", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen w\u00fcnsche Ihnen viel Vergn\u00fcgen und viel Erfolg bei der Beantwortung dieser Fragen in Ihrem Wahlkreis."
+   ]
+  }, 
+  {
+   "begin": "86.600", 
+   "children": [], 
+   "end": "86.601", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "86.601", 
+   "children": [], 
+   "end": "88.000", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die CDU/CSU-Fraktion hat der Kollege Sebastian Steineke das Wort."
+   ]
+  }
+ ]
+}

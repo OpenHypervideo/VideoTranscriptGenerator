@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "14.600", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "14.600", 
+   "children": [], 
+   "end": "17.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "17.720", 
+   "children": [], 
+   "end": "21.240", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Als ich den vorliegenden Antrag der Fraktion Die Linke gelesen habe, "
+   ]
+  }, 
+  {
+   "begin": "21.240", 
+   "children": [], 
+   "end": "23.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "sind mir zwei Punkte aufgefallen. "
+   ]
+  }, 
+  {
+   "begin": "23.200", 
+   "children": [], 
+   "end": "26.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Zum einen erschien mir das Bild der Frau, "
+   ]
+  }, 
+  {
+   "begin": "26.680", 
+   "children": [], 
+   "end": "28.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "das dort gezeichnet wird, "
+   ]
+  }, 
+  {
+   "begin": "28.200", 
+   "children": [], 
+   "end": "30.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "wenig zeitgem\u00e4\u00df. "
+   ]
+  }, 
+  {
+   "begin": "30.240", 
+   "children": [], 
+   "end": "31.720", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Als berufst\u00e4tige Mutter, "
+   ]
+  }, 
+  {
+   "begin": "31.720", 
+   "children": [], 
+   "end": "37.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die ich auch schon vor meiner Wahl in den Deutschen Bundestag war, "
+   ]
+  }, 
+  {
+   "begin": "37.800", 
+   "children": [], 
+   "end": "46.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "kann ich mich mit dieser Opferrolle einfach nicht identifizieren."
+   ]
+  }, 
+  {
+   "begin": "46.400", 
+   "children": [], 
+   "end": "51.520", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Zum anderen spricht aus jedem Absatz das alte Klischee des b\u00f6sen Unternehmers."
+   ]
+  }, 
+  {
+   "begin": "51.520", 
+   "children": [], 
+   "end": "54.080", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Unternehmer sind \u00fcbrigens die, "
+   ]
+  }, 
+  {
+   "begin": "54.080", 
+   "children": [], 
+   "end": "57.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die mit ihren Investitionen dazu beitragen, "
+   ]
+  }, 
+  {
+   "begin": "57.400", 
+   "children": [], 
+   "end": "64.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass unser Land zu den wohlhabendsten in der Welt geh\u00f6rt."
+   ]
+  }, 
+  {
+   "begin": "64.800", 
+   "children": [], 
+   "end": "66.120", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Aber ich bin realistisch: "
+   ]
+  }, 
+  {
+   "begin": "66.120", 
+   "children": [], 
+   "end": "73.360", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Das Bild des b\u00f6sartigen Kapitalisten werde ich in meinen vier Minuten Redezeit niemandem austreiben."
+   ]
+  }, 
+  {
+   "begin": "73.360", 
+   "children": [], 
+   "end": "75.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es nach Ihnen ginge, "
+   ]
+  }, 
+  {
+   "begin": "75.280", 
+   "children": [], 
+   "end": "80.200", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "soll jedes Unternehmen unabh\u00e4ngig von seiner Gr\u00f6\u00dfe f\u00fcr alle offenlegen, "
+   ]
+  }, 
+  {
+   "begin": "80.200", 
+   "children": [], 
+   "end": "84.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "was ein jeder Angestellter verdient."
+   ]
+  }, 
+  {
+   "begin": "84.000", 
+   "children": [], 
+   "end": "85.120", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Und nicht nur das. "
+   ]
+  }, 
+  {
+   "begin": "85.120", 
+   "children": [], 
+   "end": "95.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Sie fordern neue b\u00fcrokratische H\u00fcrden wie \u201ebetriebliche Pr\u00fcfung auf Entgeltgleichheit auf der Grundlage eines EU-rechtskonformen Instrumentariums\u201c, "
+   ]
+  }, 
+  {
+   "begin": "95.520", 
+   "children": [], 
+   "end": "97.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie es so sch\u00f6n und griffig formulieren. "
+   ]
+  }, 
+  {
+   "begin": "97.880", 
+   "children": [], 
+   "end": "99.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Sie fordern Einigungsstellen, "
+   ]
+  }, 
+  {
+   "begin": "99.480", 
+   "children": [], 
+   "end": "102.880", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Verbandsklagerechte und Geldbu\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "102.880", 
+   "children": [], 
+   "end": "105.560", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Haben Sie sich eigentlich einmal Gedanken dar\u00fcber gemacht, "
+   ]
+  }, 
+  {
+   "begin": "105.560", 
+   "children": [], 
+   "end": "110.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "was das f\u00fcr einen Malereibetrieb oder einen kleinen h\u00e4uslichen Pflegedienst bedeutet?"
+   ]
+  }, 
+  {
+   "begin": "110.720", 
+   "children": [], 
+   "end": "116.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Sie reden von traditionellen Rollenbildern und bemerken nicht, "
+   ]
+  }, 
+  {
+   "begin": "116.480", 
+   "children": [], 
+   "end": "118.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie da selber einem aufgesessen sind: "
+   ]
+  }, 
+  {
+   "begin": "118.720", 
+   "children": [], 
+   "end": "120.680", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "b\u00f6ser Unternehmer gegen arme, "
+   ]
+  }, 
+  {
+   "begin": "120.680", 
+   "children": [], 
+   "end": "122.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "benachteiligte Frau."
+   ]
+  }, 
+  {
+   "begin": "122.480", 
+   "children": [], 
+   "end": "123.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "123.040", 
+   "children": [], 
+   "end": "124.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "So wird das nichts. "
+   ]
+  }, 
+  {
+   "begin": "124.600", 
+   "children": [], 
+   "end": "126.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wir sollten schon bei den Fakten bleiben. "
+   ]
+  }, 
+  {
+   "begin": "126.680", 
+   "children": [], 
+   "end": "129.880", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Und die sprechen eben eine ganz andere Sprache."
+   ]
+  }, 
+  {
+   "begin": "129.880", 
+   "children": [], 
+   "end": "130.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Sie versuchen, "
+   ]
+  }, 
+  {
+   "begin": "130.520", 
+   "children": [], 
+   "end": "131.440", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "den Eindruck zu erwecken, "
+   ]
+  }, 
+  {
+   "begin": "131.440", 
+   "children": [], 
+   "end": "138.000", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass Frauen bei gleicher Arbeit aufgrund ihres Geschlechtes durch unterschiedliche Bezahlung diskriminiert w\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "138.000", 
+   "children": [], 
+   "end": "140.480", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das stimmt so einfach nicht. "
+   ]
+  }, 
+  {
+   "begin": "140.480", 
+   "children": [], 
+   "end": "143.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Sie sprechen von einer Lohnl\u00fccke von 21\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "143.960", 
+   "children": [], 
+   "end": "147.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie Erwerbsbiografien und Arbeitszeit ber\u00fccksichtigen, "
+   ]
+  }, 
+  {
+   "begin": "147.240", 
+   "children": [], 
+   "end": "149.600", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "gibt es eine Lohnl\u00fccke von 6\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "149.600", 
+   "children": [], 
+   "end": "154.320", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Werden dann noch Erwerbsunterbrechungen ber\u00fccksichtigt, "
+   ]
+  }, 
+  {
+   "begin": "154.320", 
+   "children": [], 
+   "end": "156.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "familienbedingte Auszeiten etwa, "
+   ]
+  }, 
+  {
+   "begin": "156.960", 
+   "children": [], 
+   "end": "160.320", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dann schrumpft der Wert auf unter 2\u00a0Prozent."
+   ]
+  }, 
+  {
+   "begin": "160.320", 
+   "children": [], 
+   "end": "163.200", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nun wirklich kein Grund, "
+   ]
+  }, 
+  {
+   "begin": "163.200", 
+   "children": [], 
+   "end": "169.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die heutige Situation von Frauen mit der von vor 100\u00a0Jahren gleichzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "169.760", 
+   "children": [], 
+   "end": "170.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie das tun. "
+   ]
+  }, 
+  {
+   "begin": "170.120", 
+   "children": [], 
+   "end": "174.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Familienbedingte Auszeiten haben nun einmal mit dem Kinderkriegen zu tun."
+   ]
+  }, 
+  {
+   "begin": "174.200", 
+   "children": [], 
+   "end": "178.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Das kann man mit keinem noch so gut gemeinten Antrag den M\u00e4nnern aufb\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "178.800", 
+   "children": [], 
+   "end": "180.960", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Da steht Biologie gegen Ideologie."
+   ]
+  }, 
+  {
+   "begin": "180.960", 
+   "children": [], 
+   "end": "185.760", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt nat\u00fcrlich Herausforderungen, "
+   ]
+  }, 
+  {
+   "begin": "185.760", 
+   "children": [], 
+   "end": "187.040", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die wir anpacken m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "187.040", 
+   "children": [], 
+   "end": "191.480", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Damit meine ich eine bessere Vereinbarkeit von Familie und Beruf."
+   ]
+  }, 
+  {
+   "begin": "191.480", 
+   "children": [], 
+   "end": "196.920", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Kluft zwischen M\u00e4nnern und Frauen bei der Versorgung im Alter schlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "196.920", 
+   "children": [], 
+   "end": "199.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die sozialen Berufe aufwerten, "
+   ]
+  }, 
+  {
+   "begin": "199.000", 
+   "children": [], 
+   "end": "200.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Berufe, "
+   ]
+  }, 
+  {
+   "begin": "200.080", 
+   "children": [], 
+   "end": "203.640", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "in denen nun einmal mehr Frauen t\u00e4tig sind als M\u00e4nner. "
+   ]
+  }, 
+  {
+   "begin": "203.640", 
+   "children": [], 
+   "end": "204.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "204.240", 
+   "children": [], 
+   "end": "204.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die Menschen, "
+   ]
+  }, 
+  {
+   "begin": "204.520", 
+   "children": [], 
+   "end": "207.160", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "denen wir das Wertvollste anvertrauen, "
+   ]
+  }, 
+  {
+   "begin": "207.160", 
+   "children": [], 
+   "end": "208.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "was wir haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "208.120", 
+   "children": [], 
+   "end": "209.160", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "unsere Kinder, "
+   ]
+  }, 
+  {
+   "begin": "209.160", 
+   "children": [], 
+   "end": "210.760", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Eltern und Gro\u00dfeltern\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "210.760", 
+   "children": [], 
+   "end": "211.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "verdienen mehr, "
+   ]
+  }, 
+  {
+   "begin": "211.720", 
+   "children": [], 
+   "end": "213.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "als sie momentan bekommen. "
+   ]
+  }, 
+  {
+   "begin": "213.520", 
+   "children": [], 
+   "end": "214.520", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "214.520", 
+   "children": [], 
+   "end": "215.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "das wurde schon gesagt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "215.760", 
+   "children": [], 
+   "end": "219.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir mehr M\u00e4dchen und Frauen f\u00fcr MINT-Berufe begeistern."
+   ]
+  }, 
+  {
+   "begin": "219.480", 
+   "children": [], 
+   "end": "222.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die neue Bundesregierung sind dies zentrale Vorhaben, "
+   ]
+  }, 
+  {
+   "begin": "222.400", 
+   "children": [], 
+   "end": "226.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "und deshalb werden wir diese auch z\u00fcgig umsetzen. "
+   ]
+  }, 
+  {
+   "begin": "226.120", 
+   "children": [], 
+   "end": "228.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Das ist aus meiner Sicht der richtige Weg, "
+   ]
+  }, 
+  {
+   "begin": "228.280", 
+   "children": [], 
+   "end": "235.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "damit Frauen im Berufsleben genauso gut verdienen wie M\u00e4nner und im Alter auch genauso gut versorgt sind."
+   ]
+  }, 
+  {
+   "begin": "235.400", 
+   "children": [], 
+   "end": "235.880", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Weg, "
+   ]
+  }, 
+  {
+   "begin": "235.880", 
+   "children": [], 
+   "end": "237.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen der Linken, "
+   ]
+  }, 
+  {
+   "begin": "237.520", 
+   "children": [], 
+   "end": "241.400", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "kleinen und mittleren Unternehmen b\u00fcrokratische Fesseln anzulegen, "
+   ]
+  }, 
+  {
+   "begin": "241.400", 
+   "children": [], 
+   "end": "243.920", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "sorgt nicht f\u00fcr bessere Bedingungen f\u00fcr Frauen, "
+   ]
+  }, 
+  {
+   "begin": "243.920", 
+   "children": [], 
+   "end": "246.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "sondern f\u00fcr insgesamt weniger Besch\u00e4ftigung, "
+   ]
+  }, 
+  {
+   "begin": "246.000", 
+   "children": [], 
+   "end": "248.080", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "und damit ist niemandem geholfen. "
+   ]
+  }, 
+  {
+   "begin": "248.080", 
+   "children": [], 
+   "end": "249.920", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb lehnen wir Ihren Antrag ab."
+   ]
+  }, 
+  {
+   "begin": "249.920", 
+   "children": [], 
+   "end": "252.480", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "252.480", 
+   "children": [], 
+   "end": "256.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Der letzte Redner zu diesem Tagesordnungspunkt: "
+   ]
+  }, 
+  {
+   "begin": "256.120", 
+   "children": [], 
+   "end": "262.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "der Kollege Michael Kie\u00dfling von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.640", 
+   "children": [], 
+   "end": "4.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "4.200", 
+   "children": [], 
+   "end": "9.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Zuh\u00f6rerinnen und Zuh\u00f6rer auf den Trib\u00fcnen! "
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "children": [], 
+   "end": "15.240", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Der noch immer unfassbare Skandal um die manipulierten Abgaswerte hat uns allen gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "children": [], 
+   "end": "17.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "wie dreist Firmen in Deutschland Verbraucher, "
+   ]
+  }, 
+  {
+   "begin": "17.640", 
+   "children": [], 
+   "end": "20.880", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "aber auch andere Unternehmen t\u00e4uschen und betr\u00fcgen. "
+   ]
+  }, 
+  {
+   "begin": "20.880", 
+   "children": [], 
+   "end": "34.520", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Weil dabei oft hohe finanzielle Sch\u00e4den entstehen und weil sich gerade kleinere Verbraucher einer \u00dcbermacht von Konzernen mit in der Tat gro\u00dfen Rechtsabteilungen und Finanzmitteln f\u00fcr Anw\u00e4lte gegen\u00fcbersehen, "
+   ]
+  }, 
+  {
+   "begin": "34.520", 
+   "children": [], 
+   "end": "37.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir handeln und Verbraucherinnen und Verbrauchern\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "37.400", 
+   "children": [], 
+   "end": "39.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "gerne auch dem kleinen Handwerker, "
+   ]
+  }, 
+  {
+   "begin": "39.520", 
+   "children": [], 
+   "end": "40.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Rottmann\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "40.800", 
+   "children": [], 
+   "end": "42.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "mehr und effektivere M\u00f6glichkeiten geben, "
+   ]
+  }, 
+  {
+   "begin": "42.800", 
+   "children": [], 
+   "end": "44.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "ihre Rechte durchzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "44.160", 
+   "children": [], 
+   "end": "45.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Denn eines ist klar: "
+   ]
+  }, 
+  {
+   "begin": "45.240", 
+   "children": [], 
+   "end": "46.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wer recht hat, "
+   ]
+  }, 
+  {
+   "begin": "46.280", 
+   "children": [], 
+   "end": "47.600", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "muss auch recht bekommen, "
+   ]
+  }, 
+  {
+   "begin": "47.600", 
+   "children": [], 
+   "end": "50.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und das schnell und vor allem ohne gro\u00dfes Kostenrisiko."
+   ]
+  }, 
+  {
+   "begin": "50.680", 
+   "children": [], 
+   "end": "56.880", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem Gesetzentwurf der Gr\u00fcnen werden wir diese Ziele nicht erreichen. "
+   ]
+  }, 
+  {
+   "begin": "56.880", 
+   "children": [], 
+   "end": "60.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Vorschlag ist in meinen Augen viel zu kompliziert; "
+   ]
+  }, 
+  {
+   "begin": "60.040", 
+   "children": [], 
+   "end": "61.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "denn wenn, "
+   ]
+  }, 
+  {
+   "begin": "61.000", 
+   "children": [], 
+   "end": "62.240", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wie von Ihnen gefordert, "
+   ]
+  }, 
+  {
+   "begin": "62.240", 
+   "children": [], 
+   "end": "66.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "etwa Hunderte oder gar Tausende Kl\u00e4ger einen Prozess f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "66.280", 
+   "children": [], 
+   "end": "69.920", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcsste ein Gericht in jedem Einzelfall die Schadensh\u00f6he beurteilen, "
+   ]
+  }, 
+  {
+   "begin": "69.920", 
+   "children": [], 
+   "end": "72.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "eigene Gutachten einholen und eigene Zeugen anh\u00f6ren, "
+   ]
+  }, 
+  {
+   "begin": "72.720", 
+   "children": [], 
+   "end": "75.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "um den individuellen Schaden zu berechnen. "
+   ]
+  }, 
+  {
+   "begin": "75.040", 
+   "children": [], 
+   "end": "77.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00fcrde zu viel zu langen Prozessen f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "77.680", 
+   "children": [], 
+   "end": "79.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen doch gerade schnelle Verfahren. "
+   ]
+  }, 
+  {
+   "begin": "79.920", 
+   "children": [], 
+   "end": "81.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wer jetzt seinen Diesel nachr\u00fcsten muss, "
+   ]
+  }, 
+  {
+   "begin": "81.760", 
+   "children": [], 
+   "end": "85.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "will schnell sein Recht und den Schadensersatz f\u00fcr die Umr\u00fcstung bekommen. "
+   ]
+  }, 
+  {
+   "begin": "85.680", 
+   "children": [], 
+   "end": "87.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Gesetz ist untauglich, "
+   ]
+  }, 
+  {
+   "begin": "87.920", 
+   "children": [], 
+   "end": "90.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "weil es zu endlosen Prozessen f\u00fchren wird, "
+   ]
+  }, 
+  {
+   "begin": "90.240", 
+   "children": [], 
+   "end": "92.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Rottmann."
+   ]
+  }, 
+  {
+   "begin": "92.040", 
+   "children": [], 
+   "end": "99.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen vor allem das Kostenrisiko nach dem Grundsatz \u201eVerlierer zahlt\u201c auf den Verbraucher abw\u00e4lzen. "
+   ]
+  }, 
+  {
+   "begin": "99.120", 
+   "children": [], 
+   "end": "100.400", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das halte ich f\u00fcr falsch; "
+   ]
+  }, 
+  {
+   "begin": "100.400", 
+   "children": [], 
+   "end": "102.000", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "denn dadurch verhindern Sie, "
+   ]
+  }, 
+  {
+   "begin": "102.000", 
+   "children": [], 
+   "end": "104.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass die Verbraucher ein solches Verfahren eingehen, "
+   ]
+  }, 
+  {
+   "begin": "104.840", 
+   "children": [], 
+   "end": "107.880", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "wie es in Ihrem Gesetzentwurf ausdr\u00fccklich steht."
+   ]
+  }, 
+  {
+   "begin": "107.880", 
+   "children": [], 
+   "end": "109.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Viel besser ist, "
+   ]
+  }, 
+  {
+   "begin": "109.760", 
+   "children": [], 
+   "end": "110.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "es so zu regeln, "
+   ]
+  }, 
+  {
+   "begin": "110.600", 
+   "children": [], 
+   "end": "113.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "wie wir das mit der Musterfeststellungsklage tun. "
+   ]
+  }, 
+  {
+   "begin": "113.600", 
+   "children": [], 
+   "end": "118.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Diese hat die SPD in den Koalitionsvertrag hineinverhandelt. "
+   ]
+  }, 
+  {
+   "begin": "118.640", 
+   "children": [], 
+   "end": "125.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Diese Musterfeststellungsklage ist ein Meilenstein f\u00fcr den Verbraucherschutz in Deutschland."
+   ]
+  }, 
+  {
+   "begin": "125.520", 
+   "children": [], 
+   "end": "134.320", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Qualifizierte Einrichtungen wie etwa die Verbraucherzentrale werden in Musterprozessen f\u00fcr die Verbraucher die strittigen Fragen kl\u00e4ren. "
+   ]
+  }, 
+  {
+   "begin": "134.320", 
+   "children": [], 
+   "end": "136.600", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Fragen rechtsverbindlich gekl\u00e4rt sind, "
+   ]
+  }, 
+  {
+   "begin": "136.600", 
+   "children": [], 
+   "end": "141.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dann kann jeder Verbraucher seine Anspr\u00fcche in einem Prozess geltend machen, "
+   ]
+  }, 
+  {
+   "begin": "141.920", 
+   "children": [], 
+   "end": "147.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "in dem dann ausschlie\u00dflich \u00fcber seine individuellen Schadensersatzanspr\u00fcche entschieden wird."
+   ]
+  }, 
+  {
+   "begin": "147.640", 
+   "children": [], 
+   "end": "152.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Teilnehmen kann man an einem Musterprozess ganz einfach durch eine Registrierung, "
+   ]
+  }, 
+  {
+   "begin": "152.680", 
+   "children": [], 
+   "end": "156.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die wir \u00fcber das Bundesamt f\u00fcr Justiz organisieren. "
+   ]
+  }, 
+  {
+   "begin": "156.240", 
+   "children": [], 
+   "end": "158.600", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Da besteht kein nennenswertes Kostenrisiko. "
+   ]
+  }, 
+  {
+   "begin": "158.600", 
+   "children": [], 
+   "end": "161.680", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Die Registrierung wird nur eine kleine Geb\u00fchr kosten. "
+   ]
+  }, 
+  {
+   "begin": "161.680", 
+   "children": [], 
+   "end": "164.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Wenn der Verbraucher seinen eigenen Prozess f\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "164.360", 
+   "children": [], 
+   "end": "171.600", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dann hat er die Ergebnisse des Musterfeststellungsprozesses quasi im R\u00fccken und damit die besten Prozessaussichten. "
+   ]
+  }, 
+  {
+   "begin": "171.600", 
+   "children": [], 
+   "end": "173.640", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Das ist vor allem in den F\u00e4llen wichtig, "
+   ]
+  }, 
+  {
+   "begin": "173.640", 
+   "children": [], 
+   "end": "176.120", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "in denen ein Verbraucher abgezockt wurde, "
+   ]
+  }, 
+  {
+   "begin": "176.120", 
+   "children": [], 
+   "end": "178.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "in denen es aber nicht um sehr gro\u00dfe Summen geht. "
+   ]
+  }, 
+  {
+   "begin": "178.520", 
+   "children": [], 
+   "end": "180.080", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wenn in solchen F\u00e4llen hinzukommt, "
+   ]
+  }, 
+  {
+   "begin": "180.080", 
+   "children": [], 
+   "end": "182.160", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dass der Verbraucher das Kostenrisiko zu tragen hat, "
+   ]
+  }, 
+  {
+   "begin": "182.160", 
+   "children": [], 
+   "end": "183.800", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dann wird er erst recht davon absehen, "
+   ]
+  }, 
+  {
+   "begin": "183.800", 
+   "children": [], 
+   "end": "186.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "seine Rechte geltend zu machen."
+   ]
+  }, 
+  {
+   "begin": "186.120", 
+   "children": [], 
+   "end": "187.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "187.880", 
+   "children": [], 
+   "end": "190.880", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "das steht ausdr\u00fccklich im Koalitionsvertrag\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "190.880", 
+   "children": [], 
+   "end": "193.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "eine Klageindustrie verhindern. "
+   ]
+  }, 
+  {
+   "begin": "193.080", 
+   "children": [], 
+   "end": "196.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Es ist auch im Sinn eines Unternehmens, "
+   ]
+  }, 
+  {
+   "begin": "196.560", 
+   "children": [], 
+   "end": "198.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich nicht Tausenden von Klagen ausgesetzt sieht, "
+   ]
+  }, 
+  {
+   "begin": "198.560", 
+   "children": [], 
+   "end": "200.920", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "sondern nur einem einzigen Musterprozess, "
+   ]
+  }, 
+  {
+   "begin": "200.920", 
+   "children": [], 
+   "end": "205.320", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "in dem die Rechtsfragen gekl\u00e4rt werden."
+   ]
+  }, 
+  {
+   "begin": "205.320", 
+   "children": [], 
+   "end": "207.720", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Dadurch schaffen wir mehr Fairness im Wettbewerb. "
+   ]
+  }, 
+  {
+   "begin": "207.720", 
+   "children": [], 
+   "end": "208.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Es kann nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "208.480", 
+   "children": [], 
+   "end": "211.920", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Unternehmen betr\u00fcgt und dann die Gewinne einbeh\u00e4lt. "
+   ]
+  }, 
+  {
+   "begin": "211.920", 
+   "children": [], 
+   "end": "218.280", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr wird das Instrument der Musterfeststellungsklage auch zu mehr Fairness im Wettbewerb beitragen, "
+   ]
+  }, 
+  {
+   "begin": "218.280", 
+   "children": [], 
+   "end": "220.360", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "220.360", 
+   "children": [], 
+   "end": "221.040", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Es ist gut, "
+   ]
+  }, 
+  {
+   "begin": "221.040", 
+   "children": [], 
+   "end": "223.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass die SPD durchgesetzt hat, "
+   ]
+  }, 
+  {
+   "begin": "223.760", 
+   "children": [], 
+   "end": "226.320", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass wir bis zum 1.\u00a0November dieses Jahres\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "226.320", 
+   "children": [], 
+   "end": "227.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "das ist die Zielmarke\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "227.160", 
+   "children": [], 
+   "end": "228.920", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur einen entsprechenden Gesetzentwurf vorlegen, "
+   ]
+  }, 
+  {
+   "begin": "228.920", 
+   "children": [], 
+   "end": "229.640", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Kollege Steineke, "
+   ]
+  }, 
+  {
+   "begin": "229.640", 
+   "children": [], 
+   "end": "231.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "sondern ihn auch beschlie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "231.080", 
+   "children": [], 
+   "end": "233.920", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "sodass das Gesetz zum 1.\u00a0November in Kraft tritt; "
+   ]
+  }, 
+  {
+   "begin": "233.920", 
+   "children": [], 
+   "end": "238.760", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "denn wir wollen drohende Verj\u00e4hrungen zum Jahreswechsel\u00a02018/19 ausdr\u00fccklich verhindern."
+   ]
+  }, 
+  {
+   "begin": "238.760", 
+   "children": [], 
+   "end": "239.760", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Kurzum: "
+   ]
+  }, 
+  {
+   "begin": "239.760", 
+   "children": [], 
+   "end": "241.480", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein ganz wichtiges Gesetz\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "241.480", 
+   "children": [], 
+   "end": "241.840", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wie ich finde, "
+   ]
+  }, 
+  {
+   "begin": "241.840", 
+   "children": [], 
+   "end": "244.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "eines der wichtigsten im Koalitionsvertrag\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "244.360", 
+   "children": [], 
+   "end": "245.640", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "das wir uns vorgenommen haben. "
+   ]
+  }, 
+  {
+   "begin": "245.640", 
+   "children": [], 
+   "end": "247.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Verbraucher m\u00fcssen zu ihrem Recht kommen. "
+   ]
+  }, 
+  {
+   "begin": "247.760", 
+   "children": [], 
+   "end": "248.560", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Wer recht hat, "
+   ]
+  }, 
+  {
+   "begin": "248.560", 
+   "children": [], 
+   "end": "249.680", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "muss recht bekommen, "
+   ]
+  }, 
+  {
+   "begin": "249.680", 
+   "children": [], 
+   "end": "252.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "und das schnell und ohne Kostenrisiko. "
+   ]
+  }, 
+  {
+   "begin": "252.240", 
+   "children": [], 
+   "end": "256.200", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Genau dem dient unsere Musterfeststellungsklage."
+   ]
+  }, 
+  {
+   "begin": "256.200", 
+   "children": [], 
+   "end": "257.000", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "257.000", 
+   "children": [], 
+   "end": "265.960", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Ich erteile das Wort zu seiner ersten Rede im Deutschen Bundestag dem Kollegen Professor Dr.\u00a0Lothar Maier von der AfD-Fraktion."
+   ]
+  }
+ ]
+}
