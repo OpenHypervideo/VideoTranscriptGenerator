@@ -1,0 +1,634 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Vizepr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "children": [], 
+   "end": "20.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "children": [], 
+   "end": "24.280", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte zuerst Dorothee B\u00e4r zu ihrem neuen Amt begl\u00fcckw\u00fcnschen und hoffe, "
+   ]
+  }, 
+  {
+   "begin": "24.280", 
+   "children": [], 
+   "end": "26.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass sie ihr Ziel, "
+   ]
+  }, 
+  {
+   "begin": "26.120", 
+   "children": [], 
+   "end": "30.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland bei der Digitalisierung von den letzten R\u00e4ngen auf vordere zu bringen, "
+   ]
+  }, 
+  {
+   "begin": "30.520", 
+   "children": [], 
+   "end": "31.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "auch erreicht. "
+   ]
+  }, 
+  {
+   "begin": "31.680", 
+   "children": [], 
+   "end": "36.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sie wird es dabei allerdings aus zwei Gr\u00fcnden nicht leicht haben."
+   ]
+  }, 
+  {
+   "begin": "36.800", 
+   "children": [], 
+   "end": "40.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Erstens zeigt sich immer noch ein gewisses Kompetenzwirrwar; "
+   ]
+  }, 
+  {
+   "begin": "40.240", 
+   "children": [], 
+   "end": "45.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "denn kaum war sie als Staatsministerin f\u00fcr Digitalisierung ernannt, "
+   ]
+  }, 
+  {
+   "begin": "45.480", 
+   "children": [], 
+   "end": "46.720", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "hie\u00df es schon, "
+   ]
+  }, 
+  {
+   "begin": "46.720", 
+   "children": [], 
+   "end": "50.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass sie dem Chef des Kanzleramtes nur zuarbeiten soll. "
+   ]
+  }, 
+  {
+   "begin": "50.080", 
+   "children": [], 
+   "end": "54.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Richtlinienkompetenz wurde damit schon zum Start mit einem Fragezeichen versehen, "
+   ]
+  }, 
+  {
+   "begin": "54.480", 
+   "children": [], 
+   "end": "57.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und das ist nicht nur f\u00fcr sie ein Problem."
+   ]
+  }, 
+  {
+   "begin": "57.240", 
+   "children": [], 
+   "end": "67.400", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Am deutlichsten erkennt man die Erreichbarkeit der Digitalisierungsziele im Koalitionsvertrag allerdings am Geld. "
+   ]
+  }, 
+  {
+   "begin": "67.400", 
+   "children": [], 
+   "end": "70.280", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Zum wiederholten Mal hat eine GroKo beschlossen, "
+   ]
+  }, 
+  {
+   "begin": "70.280", 
+   "children": [], 
+   "end": "73.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass die \u00f6ffentliche Verwaltung elektronisch werden soll. "
+   ]
+  }, 
+  {
+   "begin": "73.840", 
+   "children": [], 
+   "end": "80.640", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Vor meinem inneren Auge f\u00e4hrt der B\u00fcrgerbus an einem Markttag in einer kleinen brandenburgischen Stadt vor, "
+   ]
+  }, 
+  {
+   "begin": "80.640", 
+   "children": [], 
+   "end": "83.920", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "in dem eine Beamtin alle Dienstleistungen vor Ort anbietet, "
+   ]
+  }, 
+  {
+   "begin": "83.920", 
+   "children": [], 
+   "end": "87.880", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "bequem erreichbar und sch\u00f6n barrierefrei auch f\u00fcr den Opa, "
+   ]
+  }, 
+  {
+   "begin": "87.880", 
+   "children": [], 
+   "end": "90.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "der mit Computern nichts am Hut hat. "
+   ]
+  }, 
+  {
+   "begin": "90.280", 
+   "children": [], 
+   "end": "91.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Das geht aber nur, "
+   ]
+  }, 
+  {
+   "begin": "91.440", 
+   "children": [], 
+   "end": "97.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wenn der B\u00fcrgerbus Internet hat und wenn es alle Verwaltungsdienstleistungen online gibt. "
+   ]
+  }, 
+  {
+   "begin": "97.320", 
+   "children": [], 
+   "end": "101.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "5\u00a0700 solcher Dienstleistungen gibt es. "
+   ]
+  }, 
+  {
+   "begin": "101.200", 
+   "children": [], 
+   "end": "105.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Laut Normenkontrollrat kostet es 1,7\u00a0Milliarden Euro, "
+   ]
+  }, 
+  {
+   "begin": "105.120", 
+   "children": [], 
+   "end": "109.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die h\u00e4ufigsten 60 dieser Dienstleistungen elektronisch bereitzustellen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "109.680", 
+   "children": [], 
+   "end": "114.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "1,7\u00a0Milliarden Euro f\u00fcr 1\u00a0Prozent der Verwaltungsdienstleistungen! "
+   ]
+  }, 
+  {
+   "begin": "114.520", 
+   "children": [], 
+   "end": "119.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Laut Koalitionsvertrag soll eine halbe Milliarde Euro f\u00fcr 100\u00a0Prozent der Dienstleistungen zur Verf\u00fcgung gestellt werden. "
+   ]
+  }, 
+  {
+   "begin": "119.600", 
+   "children": [], 
+   "end": "121.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Das sind 6\u00a0Euro pro B\u00fcrger bzw. "
+   ]
+  }, 
+  {
+   "begin": "121.760", 
+   "children": [], 
+   "end": "121.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "B\u00fcrgerin, "
+   ]
+  }, 
+  {
+   "begin": "121.960", 
+   "children": [], 
+   "end": "123.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "verteilt auf f\u00fcnf Jahre, "
+   ]
+  }, 
+  {
+   "begin": "123.480", 
+   "children": [], 
+   "end": "125.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "ein Vierhundertstel dessen, "
+   ]
+  }, 
+  {
+   "begin": "125.160", 
+   "children": [], 
+   "end": "128.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "was pro Kopf f\u00fcr Milit\u00e4r ausgegeben wird. "
+   ]
+  }, 
+  {
+   "begin": "128.000", 
+   "children": [], 
+   "end": "134.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist die elektronische Verwaltung so wahrscheinlich wie die morgige Er\u00f6ffnung des Flughafens BER."
+   ]
+  }, 
+  {
+   "begin": "134.720", 
+   "children": [], 
+   "end": "143.800", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Weder der DigitalPakt in der Bildung noch der Glasfaserausbau sind so finanziert, "
+   ]
+  }, 
+  {
+   "begin": "143.800", 
+   "children": [], 
+   "end": "146.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass Ihre Ziele wirklich erreichbar sind. "
+   ]
+  }, 
+  {
+   "begin": "146.440", 
+   "children": [], 
+   "end": "152.480", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "So wird es auch 2025 keinen Rechtsanspruch auf eine Gigabitleitung geben. "
+   ]
+  }, 
+  {
+   "begin": "152.480", 
+   "children": [], 
+   "end": "154.600", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Aber das kann dieser Regierung ja schnurz sein; "
+   ]
+  }, 
+  {
+   "begin": "154.600", 
+   "children": [], 
+   "end": "158.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "denn 2025 ist sie schon ein paar Jahre nicht mehr im Amt. "
+   ]
+  }, 
+  {
+   "begin": "158.200", 
+   "children": [], 
+   "end": "159.120", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Ganz sch\u00f6n clever, "
+   ]
+  }, 
+  {
+   "begin": "159.120", 
+   "children": [], 
+   "end": "160.400", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "sich Ziele zu setzen, "
+   ]
+  }, 
+  {
+   "begin": "160.400", 
+   "children": [], 
+   "end": "161.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die man keine Rechenschaft ablegen muss!"
+   ]
+  }, 
+  {
+   "begin": "161.840", 
+   "children": [], 
+   "end": "162.240", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "162.240", 
+   "children": [], 
+   "end": "169.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "das Digitalisierungsprogramm ist kein gro\u00dfer Wurf. "
+   ]
+  }, 
+  {
+   "begin": "169.640", 
+   "children": [], 
+   "end": "172.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Es fehlt am erkennbaren Umsetzungswillen, "
+   ]
+  }, 
+  {
+   "begin": "172.120", 
+   "children": [], 
+   "end": "175.240", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "aber auch an einer \u00fcbergreifenden Strategie, "
+   ]
+  }, 
+  {
+   "begin": "175.240", 
+   "children": [], 
+   "end": "177.400", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die die schlichte Frage beantwortet: "
+   ]
+  }, 
+  {
+   "begin": "177.400", 
+   "children": [], 
+   "end": "181.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "In welcher Art digitaler Gesellschaft wollen wir eigentlich leben? "
+   ]
+  }, 
+  {
+   "begin": "181.480", 
+   "children": [], 
+   "end": "182.320", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Eine Regierung, "
+   ]
+  }, 
+  {
+   "begin": "182.320", 
+   "children": [], 
+   "end": "183.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "der daf\u00fcr die Vision fehlt, "
+   ]
+  }, 
+  {
+   "begin": "183.800", 
+   "children": [], 
+   "end": "185.240", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "kann nur St\u00fcckwerk liefern, "
+   ]
+  }, 
+  {
+   "begin": "185.240", 
+   "children": [], 
+   "end": "187.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "und genau das hat sie auch getan. "
+   ]
+  }, 
+  {
+   "begin": "187.200", 
+   "children": [], 
+   "end": "191.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "So k\u00f6nnen digitale Monopole ungest\u00f6rt weiter unsere Demokratie gef\u00e4hrden, "
+   ]
+  }, 
+  {
+   "begin": "191.920", 
+   "children": [], 
+   "end": "193.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "weil auch hier der Mut fehlt, "
+   ]
+  }, 
+  {
+   "begin": "193.880", 
+   "children": [], 
+   "end": "200.960", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "das Gemeinwohl st\u00e4rker zu vertreten und Technologie prim\u00e4r in den Dienst der Menschen und nicht der Wirtschaft zu stellen."
+   ]
+  }, 
+  {
+   "begin": "200.960", 
+   "children": [], 
+   "end": "205.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "An keiner Stelle wird die digitale Revolution mit einer sozialen verkn\u00fcpft. "
+   ]
+  }, 
+  {
+   "begin": "205.720", 
+   "children": [], 
+   "end": "210.720", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Die langfristigen sozialen Folgen der Digitalisierung sind der Elefant im Raum, "
+   ]
+  }, 
+  {
+   "begin": "210.720", 
+   "children": [], 
+   "end": "215.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber den die GroKo nicht einmal spricht, "
+   ]
+  }, 
+  {
+   "begin": "215.520", 
+   "children": [], 
+   "end": "220.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "und das weitere vier Jahre lang."
+   ]
+  }, 
+  {
+   "begin": "220.560", 
+   "children": [], 
+   "end": "224.600", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen geh\u00f6ren Informationen zu Schwangerschaftsabbr\u00fcchen nicht ins Strafgesetzbuch. "
+   ]
+  }, 
+  {
+   "begin": "224.600", 
+   "children": [], 
+   "end": "228.800", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "\u00a7\u00a0219a geh\u00f6rt abgeschafft."
+   ]
+  }, 
+  {
+   "begin": "228.800", 
+   "children": [], 
+   "end": "232.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "232.400", 
+   "children": [], 
+   "end": "236.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Der letzte Redner zu diesem Tagesordnungspunkt ist der Kollege Dieter Janecek, "
+   ]
+  }, 
+  {
+   "begin": "236.040", 
+   "children": [], 
+   "end": "237.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

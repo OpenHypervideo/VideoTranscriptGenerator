@@ -1,0 +1,624 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "children": [], 
+   "end": "6.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "children": [], 
+   "end": "9.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben heute einen Jahrestag: "
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "children": [], 
+   "end": "19.800", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Am 21.\u00a0M\u00e4rz 2014 wurde im Russischen F\u00f6derationsrat der Vertrag \u00fcber die Annexion der Krim ratifiziert. "
+   ]
+  }, 
+  {
+   "begin": "19.800", 
+   "children": [], 
+   "end": "23.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben uns die Situation nicht ausgesucht. "
+   ]
+  }, 
+  {
+   "begin": "23.400", 
+   "children": [], 
+   "end": "26.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ehrlich gesagt haben wir das auch nicht vorhergesehen. "
+   ]
+  }, 
+  {
+   "begin": "26.160", 
+   "children": [], 
+   "end": "30.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wir hatten kurz vor diesem Zeitpunkt einen Koalitionsvertrag unterschrieben, "
+   ]
+  }, 
+  {
+   "begin": "30.760", 
+   "children": [], 
+   "end": "33.720", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dessen Russland-Kapitel die \u00dcberschrift trug: "
+   ]
+  }, 
+  {
+   "begin": "33.720", 
+   "children": [], 
+   "end": "37.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "\u201eOffener Dialog und breitere Zusammenarbeit mit Russland\u201c."
+   ]
+  }, 
+  {
+   "begin": "37.120", 
+   "children": [], 
+   "end": "38.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "38.040", 
+   "children": [], 
+   "end": "38.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "mir w\u00e4re es lieber, "
+   ]
+  }, 
+  {
+   "begin": "38.840", 
+   "children": [], 
+   "end": "40.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wir h\u00e4tten diese Situation nicht. "
+   ]
+  }, 
+  {
+   "begin": "40.640", 
+   "children": [], 
+   "end": "42.040", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir haben sie nun einmal, "
+   ]
+  }, 
+  {
+   "begin": "42.040", 
+   "children": [], 
+   "end": "43.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und wir haben darauf reagiert. "
+   ]
+  }, 
+  {
+   "begin": "43.920", 
+   "children": [], 
+   "end": "49.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in den letzten vier Jahren die Weichen in der Bundeswehr wieder auf Landes- "
+   ]
+  }, 
+  {
+   "begin": "49.200", 
+   "children": [], 
+   "end": "51.480", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und B\u00fcndnisverteidigung gestellt."
+   ]
+  }, 
+  {
+   "begin": "51.480", 
+   "children": [], 
+   "end": "55.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Was bedeutet das konkret f\u00fcr die Bundeswehr? "
+   ]
+  }, 
+  {
+   "begin": "55.200", 
+   "children": [], 
+   "end": "60.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeswehr wurde bei der Neuausrichtung 2011 nicht darauf ausgerichtet, "
+   ]
+  }, 
+  {
+   "begin": "60.000", 
+   "children": [], 
+   "end": "67.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "im Jahr\u00a02017 Truppen in Bataillonsst\u00e4rke voll gefechtsbereit nach Litauen zu verlegen. "
+   ]
+  }, 
+  {
+   "begin": "67.240", 
+   "children": [], 
+   "end": "69.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeswehr machte es trotzdem, "
+   ]
+  }, 
+  {
+   "begin": "69.920", 
+   "children": [], 
+   "end": "72.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "und zwar in dem Wissen, "
+   ]
+  }, 
+  {
+   "begin": "72.480", 
+   "children": [], 
+   "end": "79.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass dieses Man\u00f6ver an anderen Stellen zu Engp\u00e4ssen f\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "79.800", 
+   "children": [], 
+   "end": "82.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Sie nimmt dabei zum Beispiel in Kauf, "
+   ]
+  }, 
+  {
+   "begin": "82.240", 
+   "children": [], 
+   "end": "86.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass daf\u00fcr Material durch ganz Deutschland gekarrt werden muss und dass Material, "
+   ]
+  }, 
+  {
+   "begin": "86.720", 
+   "children": [], 
+   "end": "87.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "das jetzt in Litauen ist, "
+   ]
+  }, 
+  {
+   "begin": "87.680", 
+   "children": [], 
+   "end": "91.320", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "nicht an anderer Stelle eingesetzt werden kann."
+   ]
+  }, 
+  {
+   "begin": "91.320", 
+   "children": [], 
+   "end": "95.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeswehr muss sich daf\u00fcr jetzt viel Kritik anh\u00f6ren. "
+   ]
+  }, 
+  {
+   "begin": "95.240", 
+   "children": [], 
+   "end": "97.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Aber das ist mir viel lieber, "
+   ]
+  }, 
+  {
+   "begin": "97.760", 
+   "children": [], 
+   "end": "101.320", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "als dass wir unseren B\u00fcndnispartnern gesagt h\u00e4tten: "
+   ]
+  }, 
+  {
+   "begin": "101.320", 
+   "children": [], 
+   "end": "102.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen jetzt nicht; "
+   ]
+  }, 
+  {
+   "begin": "102.640", 
+   "children": [], 
+   "end": "103.960", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wartet mal zehn Jahre, "
+   ]
+  }, 
+  {
+   "begin": "103.960", 
+   "children": [], 
+   "end": "106.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dann sind wir vielleicht so weit.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "106.240", 
+   "children": [], 
+   "end": "108.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht meine Vorstellung von B\u00fcndnissolidarit\u00e4t."
+   ]
+  }, 
+  {
+   "begin": "108.640", 
+   "children": [], 
+   "end": "114.760", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "114.760", 
+   "children": [], 
+   "end": "116.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wir haben die Weichen gestellt; "
+   ]
+  }, 
+  {
+   "begin": "116.280", 
+   "children": [], 
+   "end": "118.080", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "die Ministerin ist darauf eingegangen. "
+   ]
+  }, 
+  {
+   "begin": "118.080", 
+   "children": [], 
+   "end": "126.960", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind 2013 in die letzte Legislaturperiode mit einem Finanzplan von 32\u00a0Milliarden Euro f\u00fcr die Bundeswehr bis zum Jahr\u00a02017 gestartet. "
+   ]
+  }, 
+  {
+   "begin": "126.960", 
+   "children": [], 
+   "end": "131.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Rausgekommen sind wir bei 37\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "131.880", 
+   "children": [], 
+   "end": "132.480", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "132.480", 
+   "children": [], 
+   "end": "135.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "wir haben in vier Jahren 5\u00a0Milliarden Euro mehr investiert. "
+   ]
+  }, 
+  {
+   "begin": "135.240", 
+   "children": [], 
+   "end": "139.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben heute 4\u00a0000\u00a0Soldaten mehr als 2016. "
+   ]
+  }, 
+  {
+   "begin": "139.000", 
+   "children": [], 
+   "end": "147.800", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in der letzten Legislaturperiode im Haushaltsausschuss Beschaffungsauftr\u00e4ge in einem Umfang von 30\u00a0Milliarden Euro freigegeben. "
+   ]
+  }, 
+  {
+   "begin": "147.800", 
+   "children": [], 
+   "end": "150.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "In der Legislaturperiode davor waren es 6\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "150.960", 
+   "children": [], 
+   "end": "152.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Das entspricht Faktor f\u00fcnf."
+   ]
+  }, 
+  {
+   "begin": "152.960", 
+   "children": [], 
+   "end": "154.440", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Trendwende. "
+   ]
+  }, 
+  {
+   "begin": "154.440", 
+   "children": [], 
+   "end": "156.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das sind die Weichenstellungen, "
+   ]
+  }, 
+  {
+   "begin": "156.640", 
+   "children": [], 
+   "end": "158.840", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die wir vorgenommen haben."
+   ]
+  }, 
+  {
+   "begin": "158.840", 
+   "children": [], 
+   "end": "163.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Aber das Material ist nun einmal nicht im vollen Umfang bei der Truppe."
+   ]
+  }, 
+  {
+   "begin": "163.640", 
+   "children": [], 
+   "end": "164.720", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt Schlimmeres, "
+   ]
+  }, 
+  {
+   "begin": "164.720", 
+   "children": [], 
+   "end": "167.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "als an diesem Pult Vorw\u00fcrfe von den Linken zu h\u00f6ren, "
+   ]
+  }, 
+  {
+   "begin": "167.920", 
+   "children": [], 
+   "end": "170.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass man zu viel Geld in die Bundeswehr investiert. "
+   ]
+  }, 
+  {
+   "begin": "170.160", 
+   "children": [], 
+   "end": "171.440", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "171.440", 
+   "children": [], 
+   "end": "172.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "diese Vorw\u00fcrfe nehme ich gern in Kauf; "
+   ]
+  }, 
+  {
+   "begin": "172.640", 
+   "children": [], 
+   "end": "174.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "denn unser Auftrag ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "174.640", 
+   "children": [], 
+   "end": "175.440", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "so verstehen wir ihn\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "175.440", 
+   "children": [], 
+   "end": "178.360", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "die Bundeswehr f\u00fcr ihren Auftrag bestm\u00f6glich auszur\u00fcsten. "
+   ]
+  }, 
+  {
+   "begin": "178.360", 
+   "children": [], 
+   "end": "180.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Darauf kann sie sich verlassen. "
+   ]
+  }, 
+  {
+   "begin": "180.240", 
+   "children": [], 
+   "end": "182.040", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Die CDU/CSU-Fraktion steht hinter unserer Truppe."
+   ]
+  }, 
+  {
+   "begin": "182.040", 
+   "children": [], 
+   "end": "183.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank f\u00fcr die Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "183.760", 
+   "children": [], 
+   "end": "184.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "184.320", 
+   "children": [], 
+   "end": "185.720", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Dr.\u00a0Brandl.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "185.720", 
+   "children": [], 
+   "end": "193.000", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist die Aussprache zum Themenbereich Verteidigung beendet."
+   ]
+  }
+ ]
+}

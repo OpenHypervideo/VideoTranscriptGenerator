@@ -20,7 +20,6 @@ if (!is_writable('input/xml/')) {
 
 // Loop through all xml files and get media IDs
 
-
 $fileIndex = array();
 $fileArray = array_values(array_diff(scandir('input/xml/'), array('.', '..', '.DS_Store', '_index.json')));
 
@@ -49,7 +48,7 @@ foreach ($fileArray as $fileName) {
 
 file_put_contents('input/xml/_index.json', json_encode($fileIndex));
 
-//getMediaIDs(dirname(__FILE__).'/input/xml/19021-data.xml');
+//getMediaIDs(dirname(__FILE__).'/input/xml/19022-data.xml');
 
 /**
  * @param $XMLFilePath

@@ -1,0 +1,984 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.840", 
+   "children": [], 
+   "end": "7.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "children": [], 
+   "end": "14.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Digitalisierung und Kultur sind zwei Seiten derselben Medaille und der Schl\u00fcssel zu unserer Zukunft: "
+   ]
+  }, 
+  {
+   "begin": "14.640", 
+   "children": [], 
+   "end": "21.080", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Kultur als Identit\u00e4tsstifter und als Kompass in Zeiten der rasanten Ver\u00e4nderung; "
+   ]
+  }, 
+  {
+   "begin": "21.080", 
+   "children": [], 
+   "end": "29.120", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Digitalisierung als Grundlage f\u00fcr unseren zuk\u00fcnftigen Wohlstand und gleichzeitig f\u00fcr mehr Selbstbestimmung, "
+   ]
+  }, 
+  {
+   "begin": "29.120", 
+   "children": [], 
+   "end": "30.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "etwa als Arbeitnehmer, "
+   ]
+  }, 
+  {
+   "begin": "30.680", 
+   "children": [], 
+   "end": "31.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "als Unternehmer, "
+   ]
+  }, 
+  {
+   "begin": "31.560", 
+   "children": [], 
+   "end": "34.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "als Patient oder auch als Verbraucher. "
+   ]
+  }, 
+  {
+   "begin": "34.600", 
+   "children": [], 
+   "end": "39.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung bietet so vielf\u00e4ltige Chancen. "
+   ]
+  }, 
+  {
+   "begin": "39.080", 
+   "children": [], 
+   "end": "43.320", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem sind sehr viele Menschen in unserem Land besorgt. "
+   ]
+  }, 
+  {
+   "begin": "43.320", 
+   "children": [], 
+   "end": "44.360", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Dem beugen Sie, "
+   ]
+  }, 
+  {
+   "begin": "44.360", 
+   "children": [], 
+   "end": "49.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr verehrten Kolleginnen und Kollegen von SPD und CDU, "
+   ]
+  }, 
+  {
+   "begin": "49.120", 
+   "children": [], 
+   "end": "50.200", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "nicht vor."
+   ]
+  }, 
+  {
+   "begin": "50.200", 
+   "children": [], 
+   "end": "52.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Auch ich bin f\u00fcr eine Chancengesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "52.600", 
+   "children": [], 
+   "end": "54.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Frau Staatsministerin B\u00e4r. "
+   ]
+  }, 
+  {
+   "begin": "54.560", 
+   "children": [], 
+   "end": "62.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Sie aber f\u00fcllen 13\u00a0Seiten im Koalitionsvertrag mit Digitalisierung und haben keine umfassende Strategie, "
+   ]
+  }, 
+  {
+   "begin": "62.280", 
+   "children": [], 
+   "end": "64.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "wie das umzusetzen ist."
+   ]
+  }, 
+  {
+   "begin": "64.480", 
+   "children": [], 
+   "end": "65.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die heutigen Reden, "
+   ]
+  }, 
+  {
+   "begin": "65.760", 
+   "children": [], 
+   "end": "70.200", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die der Bundeskanzlerin genauso wie die von Frau Staatsministerin B\u00e4r, "
+   ]
+  }, 
+  {
+   "begin": "70.200", 
+   "children": [], 
+   "end": "72.760", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "waren eine gute Situationsanalyse, "
+   ]
+  }, 
+  {
+   "begin": "72.760", 
+   "children": [], 
+   "end": "75.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "boten aber keine L\u00f6sungsans\u00e4tze. "
+   ]
+  }, 
+  {
+   "begin": "75.120", 
+   "children": [], 
+   "end": "80.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Der Koalitionsvertrag ist eine Art Reparaturbericht dessen, "
+   ]
+  }, 
+  {
+   "begin": "80.120", 
+   "children": [], 
+   "end": "82.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "was man in den letzten vier Jahren vers\u00e4umt hat, "
+   ]
+  }, 
+  {
+   "begin": "82.720", 
+   "children": [], 
+   "end": "86.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "allerdings ohne eine ausreichend gesicherte Finanzierung. "
+   ]
+  }, 
+  {
+   "begin": "86.120", 
+   "children": [], 
+   "end": "88.080", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "So kommen wir nicht voran."
+   ]
+  }, 
+  {
+   "begin": "88.080", 
+   "children": [], 
+   "end": "88.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wo, "
+   ]
+  }, 
+  {
+   "begin": "88.440", 
+   "children": [], 
+   "end": "89.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "bitte sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "89.240", 
+   "children": [], 
+   "end": "96.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "sind Ihre digitalen Zukunftsvisionen von Deutschland in 15 oder 20\u00a0Jahren? "
+   ]
+  }, 
+  {
+   "begin": "96.480", 
+   "children": [], 
+   "end": "104.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wie sollen ein wirklich digital modernisiertes Bildungssystem f\u00fcr alle bis ins hohe Alter, "
+   ]
+  }, 
+  {
+   "begin": "104.640", 
+   "children": [], 
+   "end": "106.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "ein neues Datenrecht, "
+   ]
+  }, 
+  {
+   "begin": "106.400", 
+   "children": [], 
+   "end": "107.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "unsere neue Arbeitswelt, "
+   ]
+  }, 
+  {
+   "begin": "107.880", 
+   "children": [], 
+   "end": "109.560", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "E-Government, "
+   ]
+  }, 
+  {
+   "begin": "109.560", 
+   "children": [], 
+   "end": "117.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "E-Health oder auch die neuen Einsatzm\u00f6glichkeiten f\u00fcr k\u00fcnstliche Intelligenz jenseits eines Sowohl-als-auch aussehen, "
+   ]
+  }, 
+  {
+   "begin": "117.840", 
+   "children": [], 
+   "end": "118.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Frau B\u00e4r? "
+   ]
+  }, 
+  {
+   "begin": "118.680", 
+   "children": [], 
+   "end": "123.800", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Welche konkreten Ans\u00e4tze verfolgen Sie?"
+   ]
+  }, 
+  {
+   "begin": "123.800", 
+   "children": [], 
+   "end": "128.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ich gehe gerne gemeinsam mit Ihnen auf \u00dcberzeugungstour, "
+   ]
+  }, 
+  {
+   "begin": "128.360", 
+   "children": [], 
+   "end": "135.360", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel um Datensicherheit made in Germany zum Exportschlager zu machen."
+   ]
+  }, 
+  {
+   "begin": "135.360", 
+   "children": [], 
+   "end": "136.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Aber, "
+   ]
+  }, 
+  {
+   "begin": "136.040", 
+   "children": [], 
+   "end": "137.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "sehr geehrte Frau B\u00e4r, "
+   ]
+  }, 
+  {
+   "begin": "137.840", 
+   "children": [], 
+   "end": "141.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen aus Visionen eben auch Realit\u00e4ten werden. "
+   ]
+  }, 
+  {
+   "begin": "141.240", 
+   "children": [], 
+   "end": "146.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr muss meines Erachtens erst einmal die digitale Transformation der Politik, "
+   ]
+  }, 
+  {
+   "begin": "146.640", 
+   "children": [], 
+   "end": "151.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "des politischen Denkens in diesem Haus und in den 14\u00a0Ministerien gelingen."
+   ]
+  }, 
+  {
+   "begin": "151.600", 
+   "children": [], 
+   "end": "155.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Und da kann die L\u00f6sung nur lauten: "
+   ]
+  }, 
+  {
+   "begin": "155.800", 
+   "children": [], 
+   "end": "160.600", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "eine zentrale Steuerung in einem Digitalministerium,"
+   ]
+  }, 
+  {
+   "begin": "160.600", 
+   "children": [], 
+   "end": "161.760", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "als Thinktank, "
+   ]
+  }, 
+  {
+   "begin": "161.760", 
+   "children": [], 
+   "end": "163.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "als Accelerator, "
+   ]
+  }, 
+  {
+   "begin": "163.480", 
+   "children": [], 
+   "end": "165.400", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "als eine zentrale Stelle, "
+   ]
+  }, 
+  {
+   "begin": "165.400", 
+   "children": [], 
+   "end": "172.960", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die die Durchsetzung einer Gesamtstrategie voranbringt und wo eben nicht \u00fcber 14\u00a0H\u00e4user quergeschossen wird. "
+   ]
+  }, 
+  {
+   "begin": "172.960", 
+   "children": [], 
+   "end": "174.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Doch was bekommen wir an diesem Punkt, "
+   ]
+  }, 
+  {
+   "begin": "174.960", 
+   "children": [], 
+   "end": "180.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wo wir angesichts dieser gro\u00dfen Umw\u00e4lzung eine zentrale Stelle br\u00e4uchten? "
+   ]
+  }, 
+  {
+   "begin": "180.920", 
+   "children": [], 
+   "end": "187.280", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wir bekommen eine Staatsministerin zus\u00e4tzlich und noch mehr Staatssekret\u00e4re in den Fachministerien. "
+   ]
+  }, 
+  {
+   "begin": "187.280", 
+   "children": [], 
+   "end": "190.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Das ist keine schlagkr\u00e4ftige Truppe. "
+   ]
+  }, 
+  {
+   "begin": "190.200", 
+   "children": [], 
+   "end": "199.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das reicht nicht f\u00fcr die Aufholjagd vom unteren Mittelfeld an die Welt\u00adspitze der Digitalisierung."
+   ]
+  }, 
+  {
+   "begin": "199.360", 
+   "children": [], 
+   "end": "203.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Dabei h\u00e4tten wir aufgrund unserer industriellen St\u00e4rke die Chance, "
+   ]
+  }, 
+  {
+   "begin": "203.760", 
+   "children": [], 
+   "end": "208.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "in der Champions League der Digitalisierung mitzuspielen."
+   ]
+  }, 
+  {
+   "begin": "208.000", 
+   "children": [], 
+   "end": "208.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir d\u00fcrfen, "
+   ]
+  }, 
+  {
+   "begin": "208.760", 
+   "children": [], 
+   "end": "209.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kauder, "
+   ]
+  }, 
+  {
+   "begin": "209.400", 
+   "children": [], 
+   "end": "211.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "keine Zeit mehr verlieren."
+   ]
+  }, 
+  {
+   "begin": "211.560", 
+   "children": [], 
+   "end": "214.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Ich gehe gerne mit Ihnen auf die Reise."
+   ]
+  }, 
+  {
+   "begin": "214.400", 
+   "children": [], 
+   "end": "217.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen Taxen fliegen lassen. "
+   ]
+  }, 
+  {
+   "begin": "217.320", 
+   "children": [], 
+   "end": "218.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Das Problem ist aber, "
+   ]
+  }, 
+  {
+   "begin": "218.920", 
+   "children": [], 
+   "end": "222.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass Ihre Ambitionen am Boden bleiben. "
+   ]
+  }, 
+  {
+   "begin": "222.080", 
+   "children": [], 
+   "end": "225.160", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wenn in diesem Boden wenigstens Glasfaser liegen w\u00fcrde!"
+   ]
+  }, 
+  {
+   "begin": "225.160", 
+   "children": [], 
+   "end": "225.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "225.800", 
+   "children": [], 
+   "end": "229.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben erkannt, "
+   ]
+  }, 
+  {
+   "begin": "229.240", 
+   "children": [], 
+   "end": "233.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass Internet zur Daseinsvorsorge geh\u00f6rt wie Strom und Wasser. "
+   ]
+  }, 
+  {
+   "begin": "233.480", 
+   "children": [], 
+   "end": "235.960", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Aber verglichen mit Ihrem Versprechen, "
+   ]
+  }, 
+  {
+   "begin": "235.960", 
+   "children": [], 
+   "end": "240.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass noch in diesem Jahr fl\u00e4chendeckend 50\u00a0MBit verf\u00fcgbar sind, "
+   ]
+  }, 
+  {
+   "begin": "240.720", 
+   "children": [], 
+   "end": "246.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "sitzen zwei Drittel der Bev\u00f6lkerung im l\u00e4ndlichen Raum im digitalen Dunkel."
+   ]
+  }, 
+  {
+   "begin": "246.760", 
+   "children": [], 
+   "end": "249.320", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ein fl\u00e4chendeckender Ausbau, "
+   ]
+  }, 
+  {
+   "begin": "249.320", 
+   "children": [], 
+   "end": "258.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "ein Rechtsanspruch bis 2025 ist nichts als eine vorbeugende Zielmarke der Gigabitgesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "258.800", 
+   "children": [], 
+   "end": "260.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wunderbar, "
+   ]
+  }, 
+  {
+   "begin": "260.800", 
+   "children": [], 
+   "end": "262.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben erkannt, "
+   ]
+  }, 
+  {
+   "begin": "262.560", 
+   "children": [], 
+   "end": "269.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie am Ende dieser Legislaturperiode besser nicht wieder ein uneingel\u00f6stes Versprechen haben wollen. "
+   ]
+  }, 
+  {
+   "begin": "269.200", 
+   "children": [], 
+   "end": "270.480", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ja auch klar; "
+   ]
+  }, 
+  {
+   "begin": "270.480", 
+   "children": [], 
+   "end": "279.560", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "denn die vage Aussicht auf Versteigerungserl\u00f6se ist noch keine abgesicherte Finanzierung."
+   ]
+  }, 
+  {
+   "begin": "279.560", 
+   "children": [], 
+   "end": "281.600", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kollegin B\u00e4r, "
+   ]
+  }, 
+  {
+   "begin": "281.600", 
+   "children": [], 
+   "end": "284.880", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "ich gehe gerne mit Ihnen im Flugtaxi in die H\u00f6he, "
+   ]
+  }, 
+  {
+   "begin": "284.880", 
+   "children": [], 
+   "end": "288.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "gerade auch weil wir die Kulturpolitik auf eine ambitionierte H\u00f6he bringen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "288.480", 
+   "children": [], 
+   "end": "295.160", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "In Ihrem Koalitionsvertrag sind dazu leider keine Zukunftsvorstellungen vorhanden. "
+   ]
+  }, 
+  {
+   "begin": "295.160", 
+   "children": [], 
+   "end": "299.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Gerade in Zeiten gro\u00dfer Umbr\u00fcche brauchen wir Kultur, "
+   ]
+  }, 
+  {
+   "begin": "299.840", 
+   "children": [], 
+   "end": "303.520", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Kultur f\u00fcr den Zusammenhalt unserer Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "303.520", 
+   "children": [], 
+   "end": "305.320", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "aber bitte nicht Leitkultur, "
+   ]
+  }, 
+  {
+   "begin": "305.320", 
+   "children": [], 
+   "end": "307.280", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "sondern Kultur."
+   ]
+  }, 
+  {
+   "begin": "307.280", 
+   "children": [], 
+   "end": "310.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Beer, "
+   ]
+  }, 
+  {
+   "begin": "310.000", 
+   "children": [], 
+   "end": "312.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Redezeit ist abgelaufen."
+   ]
+  }, 
+  {
+   "begin": "312.240", 
+   "children": [], 
+   "end": "313.560", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Schluss.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "313.560", 
+   "children": [], 
+   "end": "314.800", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch hier sind keine Visionen vorhanden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "314.800", 
+   "children": [], 
+   "end": "315.320", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Gespr\u00e4che, "
+   ]
+  }, 
+  {
+   "begin": "315.320", 
+   "children": [], 
+   "end": "315.720", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Berichte, "
+   ]
+  }, 
+  {
+   "begin": "315.720", 
+   "children": [], 
+   "end": "316.960", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Orientierungsdebatten, "
+   ]
+  }, 
+  {
+   "begin": "316.960", 
+   "children": [], 
+   "end": "318.320", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "runde Tische\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "318.320", 
+   "children": [], 
+   "end": "318.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "nichts, "
+   ]
+  }, 
+  {
+   "begin": "318.960", 
+   "children": [], 
+   "end": "322.120", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "was konkretisiert ist in einer Zeit, "
+   ]
+  }, 
+  {
+   "begin": "322.120", 
+   "children": [], 
+   "end": "325.600", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "in der wir die Kultur als Wurzel der Gesellschaft brauchen, "
+   ]
+  }, 
+  {
+   "begin": "325.600", 
+   "children": [], 
+   "end": "330.560", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "damit wir mit den Fl\u00fcgeln der Digitalisierung aufbrechen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "330.560", 
+   "children": [], 
+   "end": "333.360", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chster Redner hat das Wort der Kollege Thomas Jarzombek, "
+   ]
+  }, 
+  {
+   "begin": "333.360", 
+   "children": [], 
+   "end": "335.000", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

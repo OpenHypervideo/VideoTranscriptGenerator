@@ -1,0 +1,1804 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "12.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "12.280", 
+   "children": [], 
+   "end": "14.360", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "14.360", 
+   "children": [], 
+   "end": "15.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "15.960", 
+   "children": [], 
+   "end": "24.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "In der Tat hat sich die Lage Deutschlands in der Welt in den letzten Jahren fundamental ver\u00e4ndert. "
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "children": [], 
+   "end": "26.200", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die Globalisierung, "
+   ]
+  }, 
+  {
+   "begin": "26.200", 
+   "children": [], 
+   "end": "29.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "der neue Wettbewerb zwischen Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "29.040", 
+   "children": [], 
+   "end": "31.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "auch zwischen ganzen Staaten, "
+   ]
+  }, 
+  {
+   "begin": "31.240", 
+   "children": [], 
+   "end": "33.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die Digitalisierung, "
+   ]
+  }, 
+  {
+   "begin": "33.040", 
+   "children": [], 
+   "end": "35.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "der grundlegende Wandel unseres Alltags, "
+   ]
+  }, 
+  {
+   "begin": "35.440", 
+   "children": [], 
+   "end": "35.920", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "der Wirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "35.920", 
+   "children": [], 
+   "end": "36.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "der Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "36.480", 
+   "children": [], 
+   "end": "37.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "der damit verbunden ist, "
+   ]
+  }, 
+  {
+   "begin": "37.760", 
+   "children": [], 
+   "end": "40.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die internationalen neuen Krisenherde, "
+   ]
+  }, 
+  {
+   "begin": "40.920", 
+   "children": [], 
+   "end": "47.320", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die Konfrontationen zwischen Ost und West und der massive Migrationsdruck\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "47.320", 
+   "children": [], 
+   "end": "50.720", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "all das stellt uns vor neue Herausforderungen. "
+   ]
+  }, 
+  {
+   "begin": "50.720", 
+   "children": [], 
+   "end": "59.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben mit unserem Koalitionsvertrag in der Tat einen konsequenten Zukunftsplan f\u00fcr die Bew\u00e4ltigung dieser Herausforderungen geschaffen. "
+   ]
+  }, 
+  {
+   "begin": "59.600", 
+   "children": [], 
+   "end": "64.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt eben kein Weiter-so mit dieser Gro\u00dfen Koalition."
+   ]
+  }, 
+  {
+   "begin": "64.200", 
+   "children": [], 
+   "end": "67.560", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Es wird Rekordinvestitionen und einen Modernisierungsschub geben. "
+   ]
+  }, 
+  {
+   "begin": "67.560", 
+   "children": [], 
+   "end": "69.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wir sehen Rekordentlastungen vor, "
+   ]
+  }, 
+  {
+   "begin": "69.400", 
+   "children": [], 
+   "end": "72.840", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "um Leistungsgerechtigkeit in unserer Gesellschaft zu schaffen, "
+   ]
+  }, 
+  {
+   "begin": "72.840", 
+   "children": [], 
+   "end": "77.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "und wir geben ein klares Bekenntnis zu einem starken Staat ab, "
+   ]
+  }, 
+  {
+   "begin": "77.080", 
+   "children": [], 
+   "end": "80.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und zwar verbunden mit der F\u00f6rderung des sozialen Zusammenhalts. "
+   ]
+  }, 
+  {
+   "begin": "80.600", 
+   "children": [], 
+   "end": "83.640", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein echter Aufbruch in vielen Bereichen."
+   ]
+  }, 
+  {
+   "begin": "83.640", 
+   "children": [], 
+   "end": "94.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Zu diesem Aufbruch geh\u00f6ren auch die Herausforderungen, "
+   ]
+  }, 
+  {
+   "begin": "94.800", 
+   "children": [], 
+   "end": "99.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die Europa zu bew\u00e4ltigen hat. "
+   ]
+  }, 
+  {
+   "begin": "99.800", 
+   "children": [], 
+   "end": "111.200", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "In der Vergangenheit war die Europ\u00e4ische Union sehr stark mit den Themen aus ihrer Mitte konfrontiert; "
+   ]
+  }, 
+  {
+   "begin": "111.200", 
+   "children": [], 
+   "end": "116.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "heute wird ein erheblicher Teil der Herausforderungen von au\u00dfen bestimmt: "
+   ]
+  }, 
+  {
+   "begin": "116.920", 
+   "children": [], 
+   "end": "119.000", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "durch die Krisenherde in unserer Nachbarschaft, "
+   ]
+  }, 
+  {
+   "begin": "119.000", 
+   "children": [], 
+   "end": "122.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "durch die Konfrontationen zwischen Ost und West, "
+   ]
+  }, 
+  {
+   "begin": "122.120", 
+   "children": [], 
+   "end": "123.880", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "durch die Migrationsthemen. "
+   ]
+  }, 
+  {
+   "begin": "123.880", 
+   "children": [], 
+   "end": "129.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen brauchen wir in der Tat ein neues Selbstverst\u00e4ndnis f\u00fcr Europa. "
+   ]
+  }, 
+  {
+   "begin": "129.800", 
+   "children": [], 
+   "end": "136.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die gr\u00f6\u00dfte Aufgabe der EU kann nicht die ever closer union, "
+   ]
+  }, 
+  {
+   "begin": "136.800", 
+   "children": [], 
+   "end": "139.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die fortschreitende Integration sein. "
+   ]
+  }, 
+  {
+   "begin": "139.520", 
+   "children": [], 
+   "end": "144.160", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die gr\u00f6\u00dften Aufgaben f\u00fcr Europa sind heute Sicherheit, "
+   ]
+  }, 
+  {
+   "begin": "144.160", 
+   "children": [], 
+   "end": "145.800", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wehrf\u00e4higkeit, "
+   ]
+  }, 
+  {
+   "begin": "145.800", 
+   "children": [], 
+   "end": "153.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "gesch\u00fctzte Grenzen und das gemeinsame Durchsetzen unserer wirtschaftspolitischen Interessen in der Welt. "
+   ]
+  }, 
+  {
+   "begin": "153.400", 
+   "children": [], 
+   "end": "155.600", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine au\u00dfenpolitische Strategie, "
+   ]
+  }, 
+  {
+   "begin": "155.600", 
+   "children": [], 
+   "end": "157.360", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die in Europa geteilt werden muss."
+   ]
+  }, 
+  {
+   "begin": "157.360", 
+   "children": [], 
+   "end": "164.480", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns nat\u00fcrlich entscheiden: "
+   ]
+  }, 
+  {
+   "begin": "164.480", 
+   "children": [], 
+   "end": "172.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wollen wir als Europa eine Rolle auf der Weltb\u00fchne spielen? "
+   ]
+  }, 
+  {
+   "begin": "172.240", 
+   "children": [], 
+   "end": "173.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wollen wir gegen\u00fcber den USA, "
+   ]
+  }, 
+  {
+   "begin": "173.840", 
+   "children": [], 
+   "end": "180.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Russland und Asien auf Augenh\u00f6he agieren oder die Spielwiese f\u00fcr andere sein? "
+   ]
+  }, 
+  {
+   "begin": "180.600", 
+   "children": [], 
+   "end": "182.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Meine Antwort ist klar: "
+   ]
+  }, 
+  {
+   "begin": "182.800", 
+   "children": [], 
+   "end": "184.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir Europa als Friedens- "
+   ]
+  }, 
+  {
+   "begin": "184.760", 
+   "children": [], 
+   "end": "187.960", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "und Freiheitsprojekt erhalten wollen, "
+   ]
+  }, 
+  {
+   "begin": "187.960", 
+   "children": [], 
+   "end": "189.920", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen wir bereit sein, "
+   ]
+  }, 
+  {
+   "begin": "189.920", 
+   "children": [], 
+   "end": "193.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "auf dieser Weltb\u00fchne zu agieren."
+   ]
+  }, 
+  {
+   "begin": "193.240", 
+   "children": [], 
+   "end": "198.600", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Internationale Verantwortung auf der Weltb\u00fchne hei\u00dft nat\u00fcrlich auch, "
+   ]
+  }, 
+  {
+   "begin": "198.600", 
+   "children": [], 
+   "end": "202.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "sich st\u00e4rker in der NATO zu engagieren, "
+   ]
+  }, 
+  {
+   "begin": "202.320", 
+   "children": [], 
+   "end": "207.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "hei\u00dft auch f\u00fcr Deutschland mehr Investitionen in die Verteidigung, "
+   ]
+  }, 
+  {
+   "begin": "207.400", 
+   "children": [], 
+   "end": "208.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "in Personal, "
+   ]
+  }, 
+  {
+   "begin": "208.360", 
+   "children": [], 
+   "end": "212.640", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "in eine bessere Ausstattung und eine schlagkr\u00e4ftige Bundeswehr. "
+   ]
+  }, 
+  {
+   "begin": "212.640", 
+   "children": [], 
+   "end": "215.800", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Mein Ziel bleibt deswegen auch ganz klar, "
+   ]
+  }, 
+  {
+   "begin": "215.800", 
+   "children": [], 
+   "end": "221.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass wir zuk\u00fcnftig die 2\u00a0Prozent bei diesen Investitionen erreichen. "
+   ]
+  }, 
+  {
+   "begin": "221.120", 
+   "children": [], 
+   "end": "223.200", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Da geht es nicht um Aufr\u00fcstung, "
+   ]
+  }, 
+  {
+   "begin": "223.200", 
+   "children": [], 
+   "end": "225.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "wie die Linke immer gern formuliert."
+   ]
+  }, 
+  {
+   "begin": "225.680", 
+   "children": [], 
+   "end": "228.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Da geht es um moderne Ausr\u00fcstung f\u00fcr Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "228.240", 
+   "children": [], 
+   "end": "229.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die unsere Sicherheit garantieren, "
+   ]
+  }, 
+  {
+   "begin": "229.760", 
+   "children": [], 
+   "end": "231.480", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "231.480", 
+   "children": [], 
+   "end": "237.440", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Zu dieser au\u00dfenpolitischen Strategie geh\u00f6rt auch, "
+   ]
+  }, 
+  {
+   "begin": "237.440", 
+   "children": [], 
+   "end": "241.000", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass wir unsere Au\u00dfengrenzen endlich wirksam sch\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "241.000", 
+   "children": [], 
+   "end": "246.160", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Europa muss seine Au\u00dfengrenzen sch\u00fctzen und deshalb Frontex weiterentwickeln; "
+   ]
+  }, 
+  {
+   "begin": "246.160", 
+   "children": [], 
+   "end": "250.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "eine echte europ\u00e4ische Grenzschutzpolizei ist das Schlagwort. "
+   ]
+  }, 
+  {
+   "begin": "250.960", 
+   "children": [], 
+   "end": "254.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen ein wirksames Mittel gegen Schlepper und Schleuser, "
+   ]
+  }, 
+  {
+   "begin": "254.880", 
+   "children": [], 
+   "end": "259.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "gegen illegale Migration nach Europa. "
+   ]
+  }, 
+  {
+   "begin": "259.080", 
+   "children": [], 
+   "end": "261.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Das geht nur mit dem Schutz der Au\u00dfengrenzen, "
+   ]
+  }, 
+  {
+   "begin": "261.280", 
+   "children": [], 
+   "end": "263.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "und deswegen ist klar: "
+   ]
+  }, 
+  {
+   "begin": "263.000", 
+   "children": [], 
+   "end": "267.880", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ohne sichere Au\u00dfengrenzen kann es keine offenen Grenzen im Inneren geben, "
+   ]
+  }, 
+  {
+   "begin": "267.880", 
+   "children": [], 
+   "end": "274.200", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "274.200", 
+   "children": [], 
+   "end": "276.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen diese neue Dynamik auch in der Wirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "276.520", 
+   "children": [], 
+   "end": "282.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "In der Tat scheint die Digitalisierung f\u00fcr viele auch eine intellektuelle Herausforderung zu sein. "
+   ]
+  }, 
+  {
+   "begin": "282.560", 
+   "children": [], 
+   "end": "288.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Auch in vergangenen Zeiten gab es bei der Industrialisierung viele Skeptiker; "
+   ]
+  }, 
+  {
+   "begin": "288.440", 
+   "children": [], 
+   "end": "291.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die meisten kamen auch damals schon von links. "
+   ]
+  }, 
+  {
+   "begin": "291.760", 
+   "children": [], 
+   "end": "294.360", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Aber ohne Industrialisierung w\u00e4ren Wohlstand, "
+   ]
+  }, 
+  {
+   "begin": "294.360", 
+   "children": [], 
+   "end": "299.480", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wachstum und Arbeit in Deutschland und in Europa so nie m\u00f6glich gewesen. "
+   ]
+  }, 
+  {
+   "begin": "299.480", 
+   "children": [], 
+   "end": "303.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben jetzt die Chance auf ein Wirtschaftswunder\u00a04.0, "
+   ]
+  }, 
+  {
+   "begin": "303.400", 
+   "children": [], 
+   "end": "303.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "aber nur, "
+   ]
+  }, 
+  {
+   "begin": "303.960", 
+   "children": [], 
+   "end": "304.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir bereit sind, "
+   ]
+  }, 
+  {
+   "begin": "304.960", 
+   "children": [], 
+   "end": "307.560", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "auch komplett zu digitalisieren. "
+   ]
+  }, 
+  {
+   "begin": "307.560", 
+   "children": [], 
+   "end": "308.880", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6ren die Netze. "
+   ]
+  }, 
+  {
+   "begin": "308.880", 
+   "children": [], 
+   "end": "311.440", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt ein Gigabit-Netz, "
+   ]
+  }, 
+  {
+   "begin": "311.440", 
+   "children": [], 
+   "end": "312.800", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dazu geh\u00f6ren 5G. "
+   ]
+  }, 
+  {
+   "begin": "312.800", 
+   "children": [], 
+   "end": "316.160", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr nehmen wir 10\u00a0Milliarden Euro in die Hand."
+   ]
+  }, 
+  {
+   "begin": "316.160", 
+   "children": [], 
+   "end": "317.880", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "317.880", 
+   "children": [], 
+   "end": "318.280", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "denjenigen, "
+   ]
+  }, 
+  {
+   "begin": "318.280", 
+   "children": [], 
+   "end": "318.840", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "die meinen, "
+   ]
+  }, 
+  {
+   "begin": "318.840", 
+   "children": [], 
+   "end": "321.080", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "sie k\u00f6nnten sich \u00fcber Schl\u00fcsseltechnologien, "
+   ]
+  }, 
+  {
+   "begin": "321.080", 
+   "children": [], 
+   "end": "323.120", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "die wir in diesem Bereich entwickeln wollen, "
+   ]
+  }, 
+  {
+   "begin": "323.120", 
+   "children": [], 
+   "end": "324.600", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "lustig machen, "
+   ]
+  }, 
+  {
+   "begin": "324.600", 
+   "children": [], 
+   "end": "328.080", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "wie es gerade der Kollege Bartsch wieder getan hat, "
+   ]
+  }, 
+  {
+   "begin": "328.080", 
+   "children": [], 
+   "end": "332.400", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "als er das Zitat mit dem Flugauto vorgetragen hat, "
+   ]
+  }, 
+  {
+   "begin": "332.400", 
+   "children": [], 
+   "end": "333.560", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "sage ich: "
+   ]
+  }, 
+  {
+   "begin": "333.560", 
+   "children": [], 
+   "end": "337.720", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man bei den Technologien der Zukunft nicht Innovationsf\u00fchrer sein will, "
+   ]
+  }, 
+  {
+   "begin": "337.720", 
+   "children": [], 
+   "end": "339.880", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "wenn man nicht einsehen will, "
+   ]
+  }, 
+  {
+   "begin": "339.880", 
+   "children": [], 
+   "end": "346.400", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "dass heute Start-ups wie Lilium oder gro\u00dfe Konzerne wie Airbus an diesen Zukunftstechnologien forschen, "
+   ]
+  }, 
+  {
+   "begin": "346.400", 
+   "children": [], 
+   "end": "348.680", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "um sie dann in Deutschland zu entwickeln, "
+   ]
+  }, 
+  {
+   "begin": "348.680", 
+   "children": [], 
+   "end": "349.760", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "um Arbeit, "
+   ]
+  }, 
+  {
+   "begin": "349.760", 
+   "children": [], 
+   "end": "352.240", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Wachstum und Wohlstand auch hier m\u00f6glich zu machen, "
+   ]
+  }, 
+  {
+   "begin": "352.240", 
+   "children": [], 
+   "end": "353.680", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "wenn man das alles nicht will, "
+   ]
+  }, 
+  {
+   "begin": "353.680", 
+   "children": [], 
+   "end": "355.680", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "dann kann man sich gerne dar\u00fcber lustig machen. "
+   ]
+  }, 
+  {
+   "begin": "355.680", 
+   "children": [], 
+   "end": "356.280", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Die Zukunft, "
+   ]
+  }, 
+  {
+   "begin": "356.280", 
+   "children": [], 
+   "end": "357.200", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "die wir hier beschreiben, "
+   ]
+  }, 
+  {
+   "begin": "357.200", 
+   "children": [], 
+   "end": "358.600", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "liegt aber nicht Jahrzehnte entfernt, "
+   ]
+  }, 
+  {
+   "begin": "358.600", 
+   "children": [], 
+   "end": "360.120", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "sondern wird in wenigen Jahren Realit\u00e4t sein. "
+   ]
+  }, 
+  {
+   "begin": "360.120", 
+   "children": [], 
+   "end": "360.440", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Ich will, "
+   ]
+  }, 
+  {
+   "begin": "360.440", 
+   "children": [], 
+   "end": "362.360", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "dass die Innovationen hier stattfinden und nicht irgendwo anders auf der Welt."
+   ]
+  }, 
+  {
+   "begin": "362.360", 
+   "children": [], 
+   "end": "363.320", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie sich sagen, "
+   ]
+  }, 
+  {
+   "begin": "363.320", 
+   "children": [], 
+   "end": "368.880", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "lieber Kollege Bartsch: "
+   ]
+  }, 
+  {
+   "begin": "368.880", 
+   "children": [], 
+   "end": "373.840", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben nicht nur bei diesem Thema vollkommen danebengelegen. "
+   ]
+  }, 
+  {
+   "begin": "373.840", 
+   "children": [], 
+   "end": "380.280", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben ja auch vom \u201eFetisch des ausgeglichenen Haushalts\u201c gesprochen."
+   ]
+  }, 
+  {
+   "begin": "380.280", 
+   "children": [], 
+   "end": "382.800", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Nicht die soliden Finanzen, "
+   ]
+  }, 
+  {
+   "begin": "382.800", 
+   "children": [], 
+   "end": "388.960", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "nicht der ausgeglichene Haushalt hat Europa finanziell an den Rand des Abgrunds gebracht, "
+   ]
+  }, 
+  {
+   "begin": "388.960", 
+   "children": [], 
+   "end": "391.240", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "sondern Ihre Freunde, "
+   ]
+  }, 
+  {
+   "begin": "391.240", 
+   "children": [], 
+   "end": "395.200", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "die eine hemmungslose linke Politik auf Pump betrieben haben. "
+   ]
+  }, 
+  {
+   "begin": "395.200", 
+   "children": [], 
+   "end": "405.360", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Der linke Schuldenfetisch hat Europa an den Rand des Abgrunds gebracht, "
+   ]
+  }, 
+  {
+   "begin": "405.360", 
+   "children": [], 
+   "end": "406.280", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "lieber Herr Bartsch!"
+   ]
+  }, 
+  {
+   "begin": "406.280", 
+   "children": [], 
+   "end": "406.560", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin sehr daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "406.560", 
+   "children": [], 
+   "end": "407.320", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "dass wir hier \u00fcber diese Fragen diskutieren. "
+   ]
+  }, 
+  {
+   "begin": "407.320", 
+   "children": [], 
+   "end": "407.960", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Ich will auch, "
+   ]
+  }, 
+  {
+   "begin": "407.960", 
+   "children": [], 
+   "end": "411.440", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "dass wir wieder mehr Debatte wagen in diesem Deutschen Bundestag."
+   ]
+  }, 
+  {
+   "begin": "411.440", 
+   "children": [], 
+   "end": "411.960", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "411.960", 
+   "children": [], 
+   "end": "414.640", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen mehr Debatte wagen in diesem Deutschen Bundestag. "
+   ]
+  }, 
+  {
+   "begin": "414.640", 
+   "children": [], 
+   "end": "419.520", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Der Bundestag ist der Ort der Debatte und deswegen auch der Ort, "
+   ]
+  }, 
+  {
+   "begin": "419.520", 
+   "children": [], 
+   "end": "425.760", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "an dem wir nat\u00fcrlich auch \u00fcber das Wertesystem unseres Landes debattieren k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "425.760", 
+   "children": [], 
+   "end": "427.720", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Es ist richtig: "
+   ]
+  }, 
+  {
+   "begin": "427.720", 
+   "children": [], 
+   "end": "428.520", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "428.520", 
+   "children": [], 
+   "end": "430.520", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "die Muslime, "
+   ]
+  }, 
+  {
+   "begin": "430.520", 
+   "children": [], 
+   "end": "435.920", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "die hier leben und sich in unser Wertesystem integrieren wollen, "
+   ]
+  }, 
+  {
+   "begin": "435.920", 
+   "children": [], 
+   "end": "438.800", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "sind Teil Deutschlands. "
+   ]
+  }, 
+  {
+   "begin": "438.800", 
+   "children": [], 
+   "end": "441.920", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir sind ein klar christlich gepr\u00e4gtes Land. "
+   ]
+  }, 
+  {
+   "begin": "441.920", 
+   "children": [], 
+   "end": "445.280", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben eine christlich-j\u00fcdische Tradition. "
+   ]
+  }, 
+  {
+   "begin": "445.280", 
+   "children": [], 
+   "end": "449.400", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Wurzel ist das christliche Wertefundament. "
+   ]
+  }, 
+  {
+   "begin": "449.400", 
+   "children": [], 
+   "end": "450.880", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Das anzusprechen, "
+   ]
+  }, 
+  {
+   "begin": "450.880", 
+   "children": [], 
+   "end": "451.720", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "451.720", 
+   "children": [], 
+   "end": "453.400", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "wenn man integrieren will, "
+   ]
+  }, 
+  {
+   "begin": "453.400", 
+   "children": [], 
+   "end": "454.600", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "weil man denjenigen, "
+   ]
+  }, 
+  {
+   "begin": "454.600", 
+   "children": [], 
+   "end": "455.560", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "die zu uns kommen, "
+   ]
+  }, 
+  {
+   "begin": "455.560", 
+   "children": [], 
+   "end": "457.080", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "sagen muss, "
+   ]
+  }, 
+  {
+   "begin": "457.080", 
+   "children": [], 
+   "end": "459.960", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "wohinein sie sich integrieren sollen."
+   ]
+  }, 
+  {
+   "begin": "459.960", 
+   "children": [], 
+   "end": "464.960", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "464.960", 
+   "children": [], 
+   "end": "469.360", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "die \u00fcberwiegende Mehrheit der Menschen in unserem Land will, "
+   ]
+  }, 
+  {
+   "begin": "469.360", 
+   "children": [], 
+   "end": "476.640", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland ein christlich gepr\u00e4gtes Land mit seinem Wertesystem und seiner Tradition bleibt. "
+   ]
+  }, 
+  {
+   "begin": "476.640", 
+   "children": [], 
+   "end": "480.120", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "Und wir sind die Stimme dieser Menschen in diesem Deutschen Bundestag."
+   ]
+  }, 
+  {
+   "begin": "480.120", 
+   "children": [], 
+   "end": "482.200", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Und deswegen sage ich Ihnen auch: "
+   ]
+  }, 
+  {
+   "begin": "482.200", 
+   "children": [], 
+   "end": "484.120", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "Der Islam geh\u00f6rt nicht zu Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "484.120", 
+   "children": [], 
+   "end": "485.200", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "485.200", 
+   "children": [], 
+   "end": "488.680", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "488.680", 
+   "children": [], 
+   "end": "488.800", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "ich will, "
+   ]
+  }, 
+  {
+   "begin": "488.800", 
+   "children": [], 
+   "end": "491.160", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "dass wir auch diese Debatte wagen. "
+   ]
+  }, 
+  {
+   "begin": "491.160", 
+   "children": [], 
+   "end": "496.920", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "Selbstverst\u00e4ndlich hat die Integrationsf\u00e4higkeit unseres Landes eine Grenze."
+   ]
+  }, 
+  {
+   "begin": "496.920", 
+   "children": [], 
+   "end": "497.680", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "497.680", 
+   "children": [], 
+   "end": "499.840", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Redezeit hat auch eine Grenze."
+   ]
+  }, 
+  {
+   "begin": "499.840", 
+   "children": [], 
+   "end": "500.520", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "500.520", 
+   "children": [], 
+   "end": "503.320", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "503.320", 
+   "children": [], 
+   "end": "508.520", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben auch bei der Essener Tafel direkt erlebt, "
+   ]
+  }, 
+  {
+   "begin": "508.520", 
+   "children": [], 
+   "end": "514.000", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "dass die Integrationsf\u00e4higkeit unseres Landes eine Grenze hat. "
+   ]
+  }, 
+  {
+   "begin": "514.000", 
+   "children": [], 
+   "end": "517.600", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen kommt es jetzt darauf an, "
+   ]
+  }, 
+  {
+   "begin": "517.600", 
+   "children": [], 
+   "end": "519.480", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "dass wir mit den Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "519.480", 
+   "children": [], 
+   "end": "521.440", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "die wir ergreifen, "
+   ]
+  }, 
+  {
+   "begin": "521.440", 
+   "children": [], 
+   "end": "522.920", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "in der Lage sind, "
+   ]
+  }, 
+  {
+   "begin": "522.920", 
+   "children": [], 
+   "end": "524.760", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "die R\u00fcckf\u00fchrung derer, "
+   ]
+  }, 
+  {
+   "begin": "524.760", 
+   "children": [], 
+   "end": "527.720", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "die kein Bleiberecht in Deutschland haben, "
+   ]
+  }, 
+  {
+   "begin": "527.720", 
+   "children": [], 
+   "end": "529.560", 
+   "id": "s000163", 
+   "language": "deu", 
+   "lines": [
+    "zu organisieren. "
+   ]
+  }, 
+  {
+   "begin": "529.560", 
+   "children": [], 
+   "end": "531.760", 
+   "id": "s000164", 
+   "language": "deu", 
+   "lines": [
+    "Der Masterplan f\u00fcr Abschiebungen, "
+   ]
+  }, 
+  {
+   "begin": "531.760", 
+   "children": [], 
+   "end": "534.360", 
+   "id": "s000165", 
+   "language": "deu", 
+   "lines": [
+    "wie ihn der Bundesinnenminister beschrieben hat, "
+   ]
+  }, 
+  {
+   "begin": "534.360", 
+   "children": [], 
+   "end": "536.520", 
+   "id": "s000166", 
+   "language": "deu", 
+   "lines": [
+    "ist das richtige Element: "
+   ]
+  }, 
+  {
+   "begin": "536.520", 
+   "children": [], 
+   "end": "540.600", 
+   "id": "s000167", 
+   "language": "deu", 
+   "lines": [
+    "AnKER-Zentren f\u00fcr schnelle Asylverfahren, "
+   ]
+  }, 
+  {
+   "begin": "540.600", 
+   "children": [], 
+   "end": "543.560", 
+   "id": "s000168", 
+   "language": "deu", 
+   "lines": [
+    "um direkt wieder abschieben zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "543.560", 
+   "children": [], 
+   "end": "544.000", 
+   "id": "s000169", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege."
+   ]
+  }, 
+  {
+   "begin": "544.000", 
+   "children": [], 
+   "end": "551.160", 
+   "id": "s000170", 
+   "language": "deu", 
+   "lines": [
+    "Sichere Herkunftsstaaten und ein besseres R\u00fccknahmeabkommen: "
+   ]
+  }, 
+  {
+   "begin": "551.160", 
+   "children": [], 
+   "end": "554.960", 
+   "id": "s000171", 
+   "language": "deu", 
+   "lines": [
+    "Wer als Herkunftsland aktiv kooperiert, "
+   ]
+  }, 
+  {
+   "begin": "554.960", 
+   "children": [], 
+   "end": "558.240", 
+   "id": "s000172", 
+   "language": "deu", 
+   "lines": [
+    "der profitiert auch zuk\u00fcnftig von wirtschaftlicher Zusammenarbeit."
+   ]
+  }, 
+  {
+   "begin": "558.240", 
+   "children": [], 
+   "end": "558.320", 
+   "id": "s000173", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "558.320", 
+   "children": [], 
+   "end": "559.680", 
+   "id": "s000174", 
+   "language": "deu", 
+   "lines": [
+    "die Zeit ist jetzt abgelaufen."
+   ]
+  }, 
+  {
+   "begin": "559.680", 
+   "children": [], 
+   "end": "561.400", 
+   "id": "s000175", 
+   "language": "deu", 
+   "lines": [
+    "Ansonsten profitiert man eben nicht davon. "
+   ]
+  }, 
+  {
+   "begin": "561.400", 
+   "children": [], 
+   "end": "563.280", 
+   "id": "s000176", 
+   "language": "deu", 
+   "lines": [
+    "Diese Herausforderungen stellen sich, "
+   ]
+  }, 
+  {
+   "begin": "563.280", 
+   "children": [], 
+   "end": "564.240", 
+   "id": "s000177", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "564.240", 
+   "children": [], 
+   "end": "568.960", 
+   "id": "s000178", 
+   "language": "deu", 
+   "lines": [
+    "und deswegen debattieren wir auch in diesem Deutschen Bundestag dar\u00fcber."
+   ]
+  }, 
+  {
+   "begin": "568.960", 
+   "children": [], 
+   "end": "570.560", 
+   "id": "s000179", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "570.560", 
+   "children": [], 
+   "end": "575.760", 
+   "id": "s000180", 
+   "language": "deu", 
+   "lines": [
+    "Ich erteile als n\u00e4chster Rednerin das Wort der Kollegin Dr.\u00a0Frauke Petry."
+   ]
+  }
+ ]
+}

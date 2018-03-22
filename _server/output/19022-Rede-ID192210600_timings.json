@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.040", 
+   "children": [], 
+   "end": "10.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.120", 
+   "children": [], 
+   "end": "11.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.360", 
+   "children": [], 
+   "end": "12.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Welch ein Gl\u00fcck, "
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "children": [], 
+   "end": "15.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "wir leben in Frieden und Freiheit. "
+   ]
+  }, 
+  {
+   "begin": "15.320", 
+   "children": [], 
+   "end": "17.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Aber es ist eben nicht nur Gl\u00fcck; "
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "children": [], 
+   "end": "21.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen in der Politik auch die notwendigen Entscheidungen treffen. "
+   ]
+  }, 
+  {
+   "begin": "21.800", 
+   "children": [], 
+   "end": "22.520", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wir stellen fest, "
+   ]
+  }, 
+  {
+   "begin": "22.520", 
+   "children": [], 
+   "end": "27.240", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die sicherheitspolitische Lage dramatisch ver\u00e4ndert hat. "
+   ]
+  }, 
+  {
+   "begin": "27.240", 
+   "children": [], 
+   "end": "30.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Da macht es einen schon sehr nachdenklich, "
+   ]
+  }, 
+  {
+   "begin": "30.080", 
+   "children": [], 
+   "end": "33.520", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wenn auf der einen Seite die Fraktion Die Linke davon spricht, "
+   ]
+  }, 
+  {
+   "begin": "33.520", 
+   "children": [], 
+   "end": "41.400", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "dass die Ausr\u00fcstung f\u00fcr unsere Soldaten mit Verantwortungsbewusstsein eine pure Aufr\u00fcstung ist, "
+   ]
+  }, 
+  {
+   "begin": "41.400", 
+   "children": [], 
+   "end": "44.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und die AfD auf der anderen Seite ein Bild malt, "
+   ]
+  }, 
+  {
+   "begin": "44.960", 
+   "children": [], 
+   "end": "48.400", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "das 2005 oder 2006 vielleicht tragbar war, "
+   ]
+  }, 
+  {
+   "begin": "48.400", 
+   "children": [], 
+   "end": "49.120", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "aber verkennt, "
+   ]
+  }, 
+  {
+   "begin": "49.120", 
+   "children": [], 
+   "end": "51.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Lage komplett ver\u00e4ndert hat. "
+   ]
+  }, 
+  {
+   "begin": "51.880", 
+   "children": [], 
+   "end": "54.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ein Antrag gestellt wird, "
+   ]
+  }, 
+  {
+   "begin": "54.280", 
+   "children": [], 
+   "end": "55.640", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "mit dem man offensichtlich versucht, "
+   ]
+  }, 
+  {
+   "begin": "55.640", 
+   "children": [], 
+   "end": "61.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "nachtr\u00e4glich den V\u00f6lkerrechtsbruch im Zusammenhang mit der Annexion der Krim zu legitimieren, "
+   ]
+  }, 
+  {
+   "begin": "61.280", 
+   "children": [], 
+   "end": "62.080", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "indem man sagt, "
+   ]
+  }, 
+  {
+   "begin": "62.080", 
+   "children": [], 
+   "end": "64.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass die Sanktionen abgebaut werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "64.880", 
+   "children": [], 
+   "end": "70.080", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und Die Linke und die AfD in vertrauter Einigkeit zustimmen,"
+   ]
+  }, 
+  {
+   "begin": "70.080", 
+   "children": [], 
+   "end": "78.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "wenn also die beiden Extrempole des Deutschen Bundestages so etwas miteinander beschlie\u00dfen wollen, "
+   ]
+  }, 
+  {
+   "begin": "78.720", 
+   "children": [], 
+   "end": "79.560", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dann irritiert uns das doch."
+   ]
+  }, 
+  {
+   "begin": "79.560", 
+   "children": [], 
+   "end": "82.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind \u00fcberzeugt davon, "
+   ]
+  }, 
+  {
+   "begin": "82.000", 
+   "children": [], 
+   "end": "83.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass es Werte bedarf, "
+   ]
+  }, 
+  {
+   "begin": "83.440", 
+   "children": [], 
+   "end": "85.120", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass es Souver\u00e4nit\u00e4t bedarf. "
+   ]
+  }, 
+  {
+   "begin": "85.120", 
+   "children": [], 
+   "end": "86.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind nicht daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "86.200", 
+   "children": [], 
+   "end": "88.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die Souver\u00e4nit\u00e4t von L\u00e4ndern zu verletzen. "
+   ]
+  }, 
+  {
+   "begin": "88.280", 
+   "children": [], 
+   "end": "89.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das ist alte Sowjetdoktrin, "
+   ]
+  }, 
+  {
+   "begin": "89.480", 
+   "children": [], 
+   "end": "89.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "der Sie von der Linken anh\u00e4ngen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "89.800", 
+   "children": [], 
+   "end": "90.640", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "offensichtlich die AfD auch."
+   ]
+  }, 
+  {
+   "begin": "90.640", 
+   "children": [], 
+   "end": "91.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Was mich dann aber komplett irritiert, "
+   ]
+  }, 
+  {
+   "begin": "91.320", 
+   "children": [], 
+   "end": "91.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "91.400", 
+   "children": [], 
+   "end": "92.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass ich heute in einer Pressemitteilung lese: "
+   ]
+  }, 
+  {
+   "begin": "92.240", 
+   "children": [], 
+   "end": "107.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "\u201eFDP-Vizechef f\u00fcr Lockerung von Sanktionen ohne Vorleistung Moskaus\u201c."
+   ]
+  }, 
+  {
+   "begin": "107.200", 
+   "children": [], 
+   "end": "109.560", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das bitte ich zu kl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "109.560", 
+   "children": [], 
+   "end": "113.800", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen der FDP."
+   ]
+  }, 
+  {
+   "begin": "113.800", 
+   "children": [], 
+   "end": "115.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt eine Friedensgarantie, "
+   ]
+  }, 
+  {
+   "begin": "115.280", 
+   "children": [], 
+   "end": "116.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "116.360", 
+   "children": [], 
+   "end": "118.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "und das ist das vereinte Europa;"
+   ]
+  }, 
+  {
+   "begin": "118.640", 
+   "children": [], 
+   "end": "120.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "es ist das B\u00fcndnis der NATO, "
+   ]
+  }, 
+  {
+   "begin": "120.680", 
+   "children": [], 
+   "end": "124.400", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dem wir unsere Freiheit zu verdanken haben. "
+   ]
+  }, 
+  {
+   "begin": "124.400", 
+   "children": [], 
+   "end": "130.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen den europ\u00e4ischen Pfeiler in der NATO zu einer sogenannten PESCO weiterentwickeln, "
+   ]
+  }, 
+  {
+   "begin": "130.400", 
+   "children": [], 
+   "end": "132.480", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "und wir wollen die vernetzte Sicherheit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "132.480", 
+   "children": [], 
+   "end": "136.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "sowohl zivile Entwicklung als auch milit\u00e4rische Unterst\u00fctzung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "136.200", 
+   "children": [], 
+   "end": "138.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "weiter voranbringen, "
+   ]
+  }, 
+  {
+   "begin": "138.600", 
+   "children": [], 
+   "end": "140.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "um L\u00e4nder zu stabilisieren, "
+   ]
+  }, 
+  {
+   "begin": "140.760", 
+   "children": [], 
+   "end": "147.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "deren Souver\u00e4nit\u00e4t und Stabilit\u00e4t bedroht zu sein scheinen. "
+   ]
+  }, 
+  {
+   "begin": "147.280", 
+   "children": [], 
+   "end": "151.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Darum geht es auch morgen bei der Mandatsverl\u00e4ngerung. "
+   ]
+  }, 
+  {
+   "begin": "151.120", 
+   "children": [], 
+   "end": "156.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Sie bauen geradezu ein D\u00e4monenbild von einer Militarisierung der Gesellschaft auf. "
+   ]
+  }, 
+  {
+   "begin": "156.680", 
+   "children": [], 
+   "end": "156.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "156.920", 
+   "children": [], 
+   "end": "158.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "es geht darum, "
+   ]
+  }, 
+  {
+   "begin": "158.040", 
+   "children": [], 
+   "end": "160.000", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "L\u00e4nder stabil zu halten, "
+   ]
+  }, 
+  {
+   "begin": "160.000", 
+   "children": [], 
+   "end": "162.160", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "damit Fluchtursachen bek\u00e4mpft werden, "
+   ]
+  }, 
+  {
+   "begin": "162.160", 
+   "children": [], 
+   "end": "164.960", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "damit die Menschen in ihrer Heimat sicher leben, "
+   ]
+  }, 
+  {
+   "begin": "164.960", 
+   "children": [], 
+   "end": "168.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "zur Schule gehen und sich gut entwickeln k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "168.200", 
+   "children": [], 
+   "end": "169.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Es ist eine Doppelmoral, "
+   ]
+  }, 
+  {
+   "begin": "169.520", 
+   "children": [], 
+   "end": "171.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wenn man immer sagt, "
+   ]
+  }, 
+  {
+   "begin": "171.000", 
+   "children": [], 
+   "end": "172.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die Bundeswehr sei schlecht ausger\u00fcstet, "
+   ]
+  }, 
+  {
+   "begin": "172.920", 
+   "children": [], 
+   "end": "175.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und dann nicht gen\u00fcgend Geld zur Verf\u00fcgung stellen will. "
+   ]
+  }, 
+  {
+   "begin": "175.360", 
+   "children": [], 
+   "end": "176.360", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Union, "
+   ]
+  }, 
+  {
+   "begin": "176.360", 
+   "children": [], 
+   "end": "178.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "CDU und CSU, "
+   ]
+  }, 
+  {
+   "begin": "178.240", 
+   "children": [], 
+   "end": "179.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "sagen ganz klar: "
+   ]
+  }, 
+  {
+   "begin": "179.440", 
+   "children": [], 
+   "end": "180.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind bereit, "
+   ]
+  }, 
+  {
+   "begin": "180.360", 
+   "children": [], 
+   "end": "181.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "das Geld auszugeben, "
+   ]
+  }, 
+  {
+   "begin": "181.480", 
+   "children": [], 
+   "end": "182.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "das die Bundeswehr braucht, "
+   ]
+  }, 
+  {
+   "begin": "182.760", 
+   "children": [], 
+   "end": "185.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und wir halten unsere Verpflichtungen gegen\u00fcber der NATO ein. "
+   ]
+  }, 
+  {
+   "begin": "185.200", 
+   "children": [], 
+   "end": "187.360", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen stehen wir auch zum 2\u2011Prozent-Ziel."
+   ]
+  }, 
+  {
+   "begin": "187.360", 
+   "children": [], 
+   "end": "193.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "193.680", 
+   "children": [], 
+   "end": "195.120", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wir sagen ganz deutlich: "
+   ]
+  }, 
+  {
+   "begin": "195.120", 
+   "children": [], 
+   "end": "197.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Trendwende voranbringen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "197.760", 
+   "children": [], 
+   "end": "198.360", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "finanziell, "
+   ]
+  }, 
+  {
+   "begin": "198.360", 
+   "children": [], 
+   "end": "199.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "materiell, "
+   ]
+  }, 
+  {
+   "begin": "199.160", 
+   "children": [], 
+   "end": "200.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "personell. "
+   ]
+  }, 
+  {
+   "begin": "200.280", 
+   "children": [], 
+   "end": "201.320", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es gut, "
+   ]
+  }, 
+  {
+   "begin": "201.320", 
+   "children": [], 
+   "end": "205.320", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass wir die notwendigen Ma\u00dfnahmen noch schneller umsetzen, "
+   ]
+  }, 
+  {
+   "begin": "205.320", 
+   "children": [], 
+   "end": "205.720", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass wir, "
+   ]
+  }, 
+  {
+   "begin": "205.720", 
+   "children": [], 
+   "end": "207.360", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Union und SPD zusammen, "
+   ]
+  }, 
+  {
+   "begin": "207.360", 
+   "children": [], 
+   "end": "209.720", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "im Koalitionsvertrag dargestellt haben, "
+   ]
+  }, 
+  {
+   "begin": "209.720", 
+   "children": [], 
+   "end": "212.320", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das Haushaltsrecht anpassen, "
+   ]
+  }, 
+  {
+   "begin": "212.320", 
+   "children": [], 
+   "end": "218.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "die Vergabeverordnung flexibilisieren und die Beschaffungsstrukturen verbessern wollen. "
+   ]
+  }, 
+  {
+   "begin": "218.200", 
+   "children": [], 
+   "end": "220.480", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Damit machen wir deutlich: "
+   ]
+  }, 
+  {
+   "begin": "220.480", 
+   "children": [], 
+   "end": "221.560", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen, "
+   ]
+  }, 
+  {
+   "begin": "221.560", 
+   "children": [], 
+   "end": "224.840", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "was wir unseren Soldatinnen und Soldaten zu verdanken haben, "
+   ]
+  }, 
+  {
+   "begin": "224.840", 
+   "children": [], 
+   "end": "227.600", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "und wir statten sie mit dem notwendigen Material aus. "
+   ]
+  }, 
+  {
+   "begin": "227.600", 
+   "children": [], 
+   "end": "233.200", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir geben ihnen die politische R\u00fcckendeckung, "
+   ]
+  }, 
+  {
+   "begin": "233.200", 
+   "children": [], 
+   "end": "235.080", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "weil wir wissen: "
+   ]
+  }, 
+  {
+   "begin": "235.080", 
+   "children": [], 
+   "end": "244.400", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeswehr ist ein Garant f\u00fcr Sicherheit, "
+   ]
+  }, 
+  {
+   "begin": "244.400", 
+   "children": [], 
+   "end": "246.440", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Freiheit und Verantwortung. "
+   ]
+  }, 
+  {
+   "begin": "246.440", 
+   "children": [], 
+   "end": "247.600", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen stehen wir zu unserer Bundeswehr."
+   ]
+  }, 
+  {
+   "begin": "247.600", 
+   "children": [], 
+   "end": "248.640", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "248.640", 
+   "children": [], 
+   "end": "248.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Danke.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "248.960", 
+   "children": [], 
+   "end": "253.960", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Frau Dr.\u00a0Marie Strack-Zimmermann hat f\u00fcr die FDP das Wort."
+   ]
+  }
+ ]
+}
