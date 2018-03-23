@@ -1,0 +1,694 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.720", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "children": [], 
+   "end": "5.800", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "5.800", 
+   "children": [], 
+   "end": "11.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Im Vergleich zu den anderen heute diskutierten Mandaten erscheint die Beteiligung an der UN-Mission in der Republik S\u00fcdsudan\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "children": [], 
+   "end": "12.480", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "UNMISS\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "12.480", 
+   "children": [], 
+   "end": "16.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "zun\u00e4chst vielleicht klein und politisch auch vielleicht weniger kontrovers. "
+   ]
+  }, 
+  {
+   "begin": "16.520", 
+   "children": [], 
+   "end": "21.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Aber deshalb ist sie keineswegs weniger wichtig."
+   ]
+  }, 
+  {
+   "begin": "21.040", 
+   "children": [], 
+   "end": "23.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Mit aktuell 16\u00a0deutschen Einsatzkr\u00e4ften\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.320", 
+   "children": [], 
+   "end": "26.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "vor allem Stabsoffiziere und Milit\u00e4rbeobachter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "26.040", 
+   "children": [], 
+   "end": "30.240", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "leisten wir unseren Beitrag zu den insgesamt 17\u00a0000\u00a0Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "30.240", 
+   "children": [], 
+   "end": "34.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Polizisten und zivilen Experten der Mission UNMISS. "
+   ]
+  }, 
+  {
+   "begin": "34.040", 
+   "children": [], 
+   "end": "45.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Unseren Soldaten dort danken wir ganz herzlich f\u00fcr ihren wahrlich nicht immer einfachen Einsatz."
+   ]
+  }, 
+  {
+   "begin": "45.080", 
+   "children": [], 
+   "end": "46.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Denn im S\u00fcdsudan\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "46.320", 
+   "children": [], 
+   "end": "50.600", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Niels Annen hat letzte Woche f\u00fcr die Bundesregierung an dieser Stelle eindringlich darauf hingewiesen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "50.600", 
+   "children": [], 
+   "end": "60.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "spielt sich derzeit die drittgr\u00f6\u00dfte Fl\u00fcchtlingskatastrophe weltweit und vermutlich auch die schlimmste humanit\u00e4re Katastrophe in Afrika seit dem V\u00f6lkermord in Ruanda ab."
+   ]
+  }, 
+  {
+   "begin": "60.760", 
+   "children": [], 
+   "end": "62.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Mehr als die H\u00e4lfte der Bev\u00f6lkerung des Landes\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "62.640", 
+   "children": [], 
+   "end": "63.960", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "zwischen 6\u00a0Millionen und 7\u00a0Millionen Menschen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "63.960", 
+   "children": [], 
+   "end": "66.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "ist auf humanit\u00e4re Hilfe angewiesen. "
+   ]
+  }, 
+  {
+   "begin": "66.720", 
+   "children": [], 
+   "end": "70.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Mehr als 2\u00a0Millionen Menschen sind aus dem S\u00fcdsudan in die Nachbarl\u00e4nder geflohen, "
+   ]
+  }, 
+  {
+   "begin": "70.840", 
+   "children": [], 
+   "end": "74.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "und es gibt fast ebenso viele Binnenvertriebene. "
+   ]
+  }, 
+  {
+   "begin": "74.000", 
+   "children": [], 
+   "end": "77.840", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Unser Engagement im S\u00fcdsudan ist deshalb wichtiger denn je."
+   ]
+  }, 
+  {
+   "begin": "77.840", 
+   "children": [], 
+   "end": "83.560", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Ein aktueller Bericht der UN-Menschenrechtskommission beschreibt die katastrophale humanit\u00e4re Lage im S\u00fcdsudan. "
+   ]
+  }, 
+  {
+   "begin": "83.560", 
+   "children": [], 
+   "end": "87.000", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Kriegsparteien gehen gezielt gegen die Zivilbev\u00f6lkerung vor. "
+   ]
+  }, 
+  {
+   "begin": "87.000", 
+   "children": [], 
+   "end": "89.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Systematische sexuelle Gewalt und Verst\u00fcmmelungen, "
+   ]
+  }, 
+  {
+   "begin": "89.760", 
+   "children": [], 
+   "end": "93.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Racheakte und Morde sind an der Tagesordnung. "
+   ]
+  }, 
+  {
+   "begin": "93.160", 
+   "children": [], 
+   "end": "96.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Der Konflikt wird zu einer brutalen ethnischen Auseinandersetzung um Land, "
+   ]
+  }, 
+  {
+   "begin": "96.760", 
+   "children": [], 
+   "end": "98.800", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ressourcen und Kontrolle. "
+   ]
+  }, 
+  {
+   "begin": "98.800", 
+   "children": [], 
+   "end": "102.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Weitestgehend herrscht Straflosigkeit."
+   ]
+  }, 
+  {
+   "begin": "102.760", 
+   "children": [], 
+   "end": "104.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die UN-Mission im j\u00fcngsten Staat der Welt, "
+   ]
+  }, 
+  {
+   "begin": "104.560", 
+   "children": [], 
+   "end": "107.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "der leider rasch zum Failed State geworden ist, "
+   ]
+  }, 
+  {
+   "begin": "107.120", 
+   "children": [], 
+   "end": "113.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "ist deshalb vor allem beim Schutz von Zivilpersonen und humanit\u00e4ren Helfern sowie zur Wahrung der Menschenrechte gefordert. "
+   ]
+  }, 
+  {
+   "begin": "113.840", 
+   "children": [], 
+   "end": "118.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "So haben rund 210\u00a0000\u00a0Zivilisten in sechs Schutzzonen Zuflucht gefunden, "
+   ]
+  }, 
+  {
+   "begin": "118.320", 
+   "children": [], 
+   "end": "121.680", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "die innerhalb der St\u00fctzpunkte der Mission eingerichtet wurden. "
+   ]
+  }, 
+  {
+   "begin": "121.680", 
+   "children": [], 
+   "end": "126.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Rund die H\u00e4lfte der UNMISS-Truppen ist f\u00fcr die Sicherheit in diesen Schutzzonen im Einsatz. "
+   ]
+  }, 
+  {
+   "begin": "126.600", 
+   "children": [], 
+   "end": "132.880", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Auch Patrouillen zur Informationsgewinnung und Fr\u00fchwarnung tragen zum Schutz der Zivilbev\u00f6lkerung bei."
+   ]
+  }, 
+  {
+   "begin": "132.880", 
+   "children": [], 
+   "end": "136.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "UNMISS schafft au\u00dferdem mehr Sicherheit f\u00fcr humanit\u00e4re Helfer. "
+   ]
+  }, 
+  {
+   "begin": "136.440", 
+   "children": [], 
+   "end": "141.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Denn auch sie sind \u00dcbergriffen ausgesetzt und arbeiten unter lebensgef\u00e4hrlichen Bedingungen. "
+   ]
+  }, 
+  {
+   "begin": "141.160", 
+   "children": [], 
+   "end": "146.640", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Im vergangenen Jahr kamen 28\u00a0humanit\u00e4re Helfer durch Angriffe ums Leben."
+   ]
+  }, 
+  {
+   "begin": "146.640", 
+   "children": [], 
+   "end": "150.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Eine regionale Schutztruppe sorgt rund um die Hauptstadt Juba daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "150.560", 
+   "children": [], 
+   "end": "152.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass Angriffe auf Zivilbev\u00f6lkerung, "
+   ]
+  }, 
+  {
+   "begin": "152.560", 
+   "children": [], 
+   "end": "155.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "UN-Personal und humanit\u00e4re Helfer verhindert werden. "
+   ]
+  }, 
+  {
+   "begin": "155.720", 
+   "children": [], 
+   "end": "164.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Kr\u00e4fte der UNMISS dokumentieren Menschenrechtsverletzungen und F\u00e4lle von Hassrede zur Abschreckung und im Hinblick auf eine sp\u00e4tere Strafverfolgung."
+   ]
+  }, 
+  {
+   "begin": "164.440", 
+   "children": [], 
+   "end": "171.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Leider besteht aufseiten der Regierung des S\u00fcdsudan teils mangelnde Bereitschaft zur Kooperation bei der Umsetzung des UNMISS-Mandats. "
+   ]
+  }, 
+  {
+   "begin": "171.600", 
+   "children": [], 
+   "end": "175.560", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "In Teilen behindern die Konfliktparteien den Schutz der Zivilbev\u00f6lkerung, "
+   ]
+  }, 
+  {
+   "begin": "175.560", 
+   "children": [], 
+   "end": "179.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "indem sie die Bewegungsm\u00f6glichkeiten der Hilfskr\u00e4fte einschr\u00e4nken."
+   ]
+  }, 
+  {
+   "begin": "179.800", 
+   "children": [], 
+   "end": "180.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "180.720", 
+   "children": [], 
+   "end": "186.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die deutsche Beteiligung an der Mission unterstreicht unser Engagement f\u00fcr die Vereinten Nationen. "
+   ]
+  }, 
+  {
+   "begin": "186.200", 
+   "children": [], 
+   "end": "191.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist nicht nur Teil der langj\u00e4hrigen Bem\u00fchungen f\u00fcr Friedensf\u00f6rderung und Stabilisierung in der gesamten Region, "
+   ]
+  }, 
+  {
+   "begin": "191.600", 
+   "children": [], 
+   "end": "197.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "sondern sie folgt auch konsequent dem vernetzten Ansatz unserer Au\u00dfenpolitik. "
+   ]
+  }, 
+  {
+   "begin": "197.000", 
+   "children": [], 
+   "end": "203.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Denn seit 2016 haben wir rund 170\u00a0Millionen Euro f\u00fcr humanit\u00e4re Hilfsma\u00dfnahmen zur Verf\u00fcgung gestellt. "
+   ]
+  }, 
+  {
+   "begin": "203.040", 
+   "children": [], 
+   "end": "208.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Das BMZ engagiert sich mit Ma\u00dfnahmen in H\u00f6he von 110\u00a0Millionen Euro im S\u00fcdsudan. "
+   ]
+  }, 
+  {
+   "begin": "208.360", 
+   "children": [], 
+   "end": "212.320", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland kofinanziert beispielsweise Projekte des UN-Entwicklungsprogramms. "
+   ]
+  }, 
+  {
+   "begin": "212.320", 
+   "children": [], 
+   "end": "215.520", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Auch KfW und GIZ engagieren sich vor Ort."
+   ]
+  }, 
+  {
+   "begin": "215.520", 
+   "children": [], 
+   "end": "216.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Aber es ist richtig: "
+   ]
+  }, 
+  {
+   "begin": "216.880", 
+   "children": [], 
+   "end": "223.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ohne eine politische L\u00f6sung des Konflikts wird eine nachhaltige Verbesserung der Lage im S\u00fcdsudan nicht m\u00f6glich sein. "
+   ]
+  }, 
+  {
+   "begin": "223.440", 
+   "children": [], 
+   "end": "228.440", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Die Notwendigkeit einer politischen L\u00f6sung hat der UN-Sicherheitsrat erst letzte Woche wieder betont. "
+   ]
+  }, 
+  {
+   "begin": "228.440", 
+   "children": [], 
+   "end": "236.800", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Das dort von den westlichen Staaten diskutierte Waffenembargo und die Umsetzung des \u00fcberpr\u00fcften UNMISS-Mandats k\u00f6nnen aber nur erste Schritte sein."
+   ]
+  }, 
+  {
+   "begin": "236.800", 
+   "children": [], 
+   "end": "242.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Mit der Einberufung des Hochrangigen Revitalisierungsforums entstand im vergangenen Jahr eine neue Dynamik f\u00fcr den Frieden im S\u00fcdsudan. "
+   ]
+  }, 
+  {
+   "begin": "242.920", 
+   "children": [], 
+   "end": "243.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ziel war, "
+   ]
+  }, 
+  {
+   "begin": "243.520", 
+   "children": [], 
+   "end": "249.280", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die Umsetzung des 2015 geschlossenen Friedensabkommens zwischen den Hauptkontrahenten wiederzubeleben. "
+   ]
+  }, 
+  {
+   "begin": "249.280", 
+   "children": [], 
+   "end": "253.240", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Zwar konnte im Dezember letzten Jahres eine vorl\u00e4ufige Waffenruhe verhandelt werden. "
+   ]
+  }, 
+  {
+   "begin": "253.240", 
+   "children": [], 
+   "end": "255.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Diese bleibt jedoch br\u00fcchig."
+   ]
+  }, 
+  {
+   "begin": "255.400", 
+   "children": [], 
+   "end": "260.640", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr eine nachhaltige Verbesserung der Situation sind daher weiterhin alle Konfliktparteien gefordert. "
+   ]
+  }, 
+  {
+   "begin": "260.640", 
+   "children": [], 
+   "end": "263.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "UNMISS unterst\u00fctzt diesen Prozess. "
+   ]
+  }, 
+  {
+   "begin": "263.680", 
+   "children": [], 
+   "end": "269.040", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Nicht zuletzt deshalb ist das Engagement der internationalen Gemeinschaft im Rahmen der UN-Mission so wichtig. "
+   ]
+  }, 
+  {
+   "begin": "269.040", 
+   "children": [], 
+   "end": "274.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Daher unterst\u00fctzt meine Fraktion die Fortsetzung der Beteiligung deutscher Streitkr\u00e4fte an UNMISS."
+   ]
+  }, 
+  {
+   "begin": "274.520", 
+   "children": [], 
+   "end": "277.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "277.280", 
+   "children": [], 
+   "end": "278.240", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "278.240", 
+   "children": [], 
+   "end": "280.520", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Dr.\u00a0Nick.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "280.520", 
+   "children": [], 
+   "end": "285.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster spricht der Kollege Dr.\u00a0Marcus Faber f\u00fcr die Freien Demokraten."
+   ]
+  }
+ ]
+}

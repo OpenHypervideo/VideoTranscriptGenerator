@@ -1,0 +1,674 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "children": [], 
+   "end": "6.080", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "6.080", 
+   "children": [], 
+   "end": "12.160", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Irgendwann ist mir beim Lesen der Koalitionsvereinbarung der folgende Satz von Albert Einstein eingefallen: "
+   ]
+  }, 
+  {
+   "begin": "12.160", 
+   "children": [], 
+   "end": "15.240", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "\u201eEine neue Art von Denken ist notwendig, "
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "children": [], 
+   "end": "24.040", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Menschheit weiterleben will.\u201c Nicht zuletzt hat gestern auch die Kanzlerin von epochalen und systemischen Umw\u00e4lzungen gesprochen. "
+   ]
+  }, 
+  {
+   "begin": "24.040", 
+   "children": [], 
+   "end": "31.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings so wenig wie ihre politische Ausrichtung insgesamt ein neues L\u00f6sungsverst\u00e4ndnis und neue Strategien verspricht, "
+   ]
+  }, 
+  {
+   "begin": "31.600", 
+   "children": [], 
+   "end": "33.000", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "so wenig wurde erkannt, "
+   ]
+  }, 
+  {
+   "begin": "33.000", 
+   "children": [], 
+   "end": "34.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass sich auch ihre Wissenschafts- "
+   ]
+  }, 
+  {
+   "begin": "34.440", 
+   "children": [], 
+   "end": "37.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "und Forschungspolitik \u00e4ndern muss."
+   ]
+  }, 
+  {
+   "begin": "37.320", 
+   "children": [], 
+   "end": "45.640", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Vor fast einem Jahr fand in allen Teilen der Welt der March for Science statt. "
+   ]
+  }, 
+  {
+   "begin": "45.640", 
+   "children": [], 
+   "end": "51.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es war eine internationale Demonstration f\u00fcr Forschung und Wissenschaft, "
+   ]
+  }, 
+  {
+   "begin": "51.160", 
+   "children": [], 
+   "end": "58.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "gegen alternative Fakten und gegen die Etablierung einer postfaktischen \u00c4ra. "
+   ]
+  }, 
+  {
+   "begin": "58.000", 
+   "children": [], 
+   "end": "58.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "58.360", 
+   "children": [], 
+   "end": "63.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die beschleunigte Weltver\u00e4nderung und Machtverschiebung sehen viele nicht als Fortschritt an. "
+   ]
+  }, 
+  {
+   "begin": "63.480", 
+   "children": [], 
+   "end": "71.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Tats\u00e4chlich werden Globalisierung und neue Technologien von vielen als Bedrohung wahrgenommen. "
+   ]
+  }, 
+  {
+   "begin": "71.240", 
+   "children": [], 
+   "end": "75.960", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es findet eine grandiose Umverteilung von Macht und Lebenschancen statt. "
+   ]
+  }, 
+  {
+   "begin": "75.960", 
+   "children": [], 
+   "end": "78.000", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wer daran nicht teilhaben kann, "
+   ]
+  }, 
+  {
+   "begin": "78.000", 
+   "children": [], 
+   "end": "80.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wird sich bedroht f\u00fchlen. "
+   ]
+  }, 
+  {
+   "begin": "80.120", 
+   "children": [], 
+   "end": "83.120", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Auch das Vertrauen in die Wissenschaft geht dabei verloren; "
+   ]
+  }, 
+  {
+   "begin": "83.120", 
+   "children": [], 
+   "end": "84.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "das muss uns besch\u00e4ftigen."
+   ]
+  }, 
+  {
+   "begin": "84.800", 
+   "children": [], 
+   "end": "89.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Gewonnenes Wissen wird in Abrede gestellt. "
+   ]
+  }, 
+  {
+   "begin": "89.440", 
+   "children": [], 
+   "end": "94.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Eine Beschr\u00e4nkung der Freiheit von Forschung und Lehre ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "94.160", 
+   "children": [], 
+   "end": "94.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ja, "
+   ]
+  }, 
+  {
+   "begin": "94.480", 
+   "children": [], 
+   "end": "95.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "95.360", 
+   "children": [], 
+   "end": "96.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "darin stimme ich Ihnen zu\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "96.720", 
+   "children": [], 
+   "end": "100.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wieder denkbar geworden. "
+   ]
+  }, 
+  {
+   "begin": "100.720", 
+   "children": [], 
+   "end": "103.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Dagegen m\u00fcssen wir etwas tun."
+   ]
+  }, 
+  {
+   "begin": "103.680", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns kritisch fragen: "
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "106.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ist die Art, "
+   ]
+  }, 
+  {
+   "begin": "106.400", 
+   "children": [], 
+   "end": "107.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "wie wir Wissenschaft, "
+   ]
+  }, 
+  {
+   "begin": "107.520", 
+   "children": [], 
+   "end": "109.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Forschung und Lehre organisieren, "
+   ]
+  }, 
+  {
+   "begin": "109.560", 
+   "children": [], 
+   "end": "111.480", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "tats\u00e4chlich noch zeitgem\u00e4\u00df? "
+   ]
+  }, 
+  {
+   "begin": "111.480", 
+   "children": [], 
+   "end": "113.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ist das noch tauglich? "
+   ]
+  }, 
+  {
+   "begin": "113.080", 
+   "children": [], 
+   "end": "117.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Dass sich Forschende und Lehrende gegenseitig treiben und inspirieren, "
+   ]
+  }, 
+  {
+   "begin": "117.920", 
+   "children": [], 
+   "end": "120.040", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "geh\u00f6rt zum Wesen von Wissenschaft. "
+   ]
+  }, 
+  {
+   "begin": "120.040", 
+   "children": [], 
+   "end": "125.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Dass wir aber einen Gro\u00dfteil des Systems \u00f6konomisiert strukturiert haben, "
+   ]
+  }, 
+  {
+   "begin": "125.040", 
+   "children": [], 
+   "end": "126.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "geh\u00f6rt nicht zum Wesen."
+   ]
+  }, 
+  {
+   "begin": "126.680", 
+   "children": [], 
+   "end": "127.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Es nimmt Zeit, "
+   ]
+  }, 
+  {
+   "begin": "127.560", 
+   "children": [], 
+   "end": "138.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "erstens f\u00fcr wissenschaftsgeleitete Entscheidungen und zweitens f\u00fcr ihre st\u00e4rkere \u00d6ffnung in die Gesellschaft."
+   ]
+  }, 
+  {
+   "begin": "138.600", 
+   "children": [], 
+   "end": "143.320", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "In der Koalitionsvereinbarung sehe ich daf\u00fcr allerdings kaum Ans\u00e4tze. "
+   ]
+  }, 
+  {
+   "begin": "143.320", 
+   "children": [], 
+   "end": "147.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Da werden thematisch gebundene F\u00f6rdervorhaben aufgez\u00e4hlt. "
+   ]
+  }, 
+  {
+   "begin": "147.200", 
+   "children": [], 
+   "end": "153.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das ist so wie Wissenschaftsproduktion mit Patchwork-Charakter vor allem zur \u00f6konomischen Verwertung. "
+   ]
+  }, 
+  {
+   "begin": "153.840", 
+   "children": [], 
+   "end": "154.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Lernen, "
+   ]
+  }, 
+  {
+   "begin": "154.520", 
+   "children": [], 
+   "end": "155.080", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Lehren, "
+   ]
+  }, 
+  {
+   "begin": "155.080", 
+   "children": [], 
+   "end": "158.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Forschen muss aber ein offener Prozess sein; "
+   ]
+  }, 
+  {
+   "begin": "158.400", 
+   "children": [], 
+   "end": "170.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "fr\u00fcher Austausch jenseits von disziplin\u00e4ren Schubladen mit anderen aus der Wissenschaftscommunity wie eben auch aus der Gesellschaft erfordert eine strukturelle \u00d6ffnung des Systems, "
+   ]
+  }, 
+  {
+   "begin": "170.360", 
+   "children": [], 
+   "end": "176.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "erfordert auch Hierarchieabbau."
+   ]
+  }, 
+  {
+   "begin": "176.120", 
+   "children": [], 
+   "end": "180.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Grunds\u00e4tzlich muss das gesamte System endlich wieder ausfinanziert werden. "
+   ]
+  }, 
+  {
+   "begin": "180.160", 
+   "children": [], 
+   "end": "186.120", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Nachwuchswissenschaftlerinnen und Nachwuchswissenschaftler bekommen Vollzeitvertr\u00e4ge und werden nur auf Teilzeit bezahlt. "
+   ]
+  }, 
+  {
+   "begin": "186.120", 
+   "children": [], 
+   "end": "188.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Das ist sozial nicht akzeptabel."
+   ]
+  }, 
+  {
+   "begin": "188.480", 
+   "children": [], 
+   "end": "196.520", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Unterschiede bei der F\u00f6rderung zum Nachteil von Wissenschaftlerinnen f\u00fchren zu Qualit\u00e4tsverlusten, "
+   ]
+  }, 
+  {
+   "begin": "196.520", 
+   "children": [], 
+   "end": "198.520", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fchren auch zu Forschungsl\u00fccken, "
+   ]
+  }, 
+  {
+   "begin": "198.520", 
+   "children": [], 
+   "end": "201.560", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "und das ist wissenschaftlich inakzeptabel."
+   ]
+  }, 
+  {
+   "begin": "201.560", 
+   "children": [], 
+   "end": "207.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Schlie\u00dflich sollte Open Science st\u00e4rker gef\u00f6rdert werden, "
+   ]
+  }, 
+  {
+   "begin": "207.520", 
+   "children": [], 
+   "end": "213.520", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "weil auch damit wissenschaftliche Ausbildung und wissenschaftliche Praxis qualifiziert werden."
+   ]
+  }, 
+  {
+   "begin": "213.520", 
+   "children": [], 
+   "end": "215.360", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Schluss. "
+   ]
+  }, 
+  {
+   "begin": "215.360", 
+   "children": [], 
+   "end": "217.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Was ist das Wissen von morgen? "
+   ]
+  }, 
+  {
+   "begin": "217.120", 
+   "children": [], 
+   "end": "218.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen es nicht genau. "
+   ]
+  }, 
+  {
+   "begin": "218.080", 
+   "children": [], 
+   "end": "219.320", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt keine Gewissheiten. "
+   ]
+  }, 
+  {
+   "begin": "219.320", 
+   "children": [], 
+   "end": "221.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen einen Diskussions-, "
+   ]
+  }, 
+  {
+   "begin": "221.320", 
+   "children": [], 
+   "end": "221.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Lern- "
+   ]
+  }, 
+  {
+   "begin": "221.800", 
+   "children": [], 
+   "end": "224.640", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "und Aushandlungsprozess in der Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "224.640", 
+   "children": [], 
+   "end": "229.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "um neue Perspektiven und eben auch neue Verl\u00e4sslichkeiten zu gewinnen. "
+   ]
+  }, 
+  {
+   "begin": "229.240", 
+   "children": [], 
+   "end": "231.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Das muss der Kern von Wissenschafts- "
+   ]
+  }, 
+  {
+   "begin": "231.520", 
+   "children": [], 
+   "end": "233.480", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "und Forschungspolitik sein."
+   ]
+  }, 
+  {
+   "begin": "233.480", 
+   "children": [], 
+   "end": "236.880", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "236.880", 
+   "children": [], 
+   "end": "241.960", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Der n\u00e4chste Redner ist der Kollege Kai Gehring von B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

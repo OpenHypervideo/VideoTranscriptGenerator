@@ -1,0 +1,504 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "children": [], 
+   "end": "8.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.240", 
+   "children": [], 
+   "end": "9.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Herr Minister, "
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "children": [], 
+   "end": "11.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "meinen herzlichen Gl\u00fcckwunsch zu Ihrer Ernennung! "
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "children": [], 
+   "end": "12.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Mit Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "children": [], 
+   "end": "13.880", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Herr Heil, "
+   ]
+  }, 
+  {
+   "begin": "13.880", 
+   "children": [], 
+   "end": "22.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "zieht allerdings auch ein Verfechter und Architekt der Agenda\u20112010-Politik in das Arbeitsministerium ein. "
+   ]
+  }, 
+  {
+   "begin": "22.720", 
+   "children": [], 
+   "end": "24.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagen, "
+   ]
+  }, 
+  {
+   "begin": "24.040", 
+   "children": [], 
+   "end": "25.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen einen verl\u00e4sslichen, "
+   ]
+  }, 
+  {
+   "begin": "25.960", 
+   "children": [], 
+   "end": "29.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "starken und handlungsf\u00e4higen Sozialstaat. "
+   ]
+  }, 
+  {
+   "begin": "29.520", 
+   "children": [], 
+   "end": "32.520", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Aber der Koalitionsvertrag spricht eine andere Sprache."
+   ]
+  }, 
+  {
+   "begin": "32.520", 
+   "children": [], 
+   "end": "40.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Denn Sie suchen weiter mit alten Rezepten nach Antworten auf die Herausforderungen des digitalen Wandels."
+   ]
+  }, 
+  {
+   "begin": "40.000", 
+   "children": [], 
+   "end": "43.560", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Sie sprachen von einer guten Entwicklung. "
+   ]
+  }, 
+  {
+   "begin": "43.560", 
+   "children": [], 
+   "end": "48.160", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland hat aber einen der gr\u00f6\u00dften Niedriglohnsektoren Europas. "
+   ]
+  }, 
+  {
+   "begin": "48.160", 
+   "children": [], 
+   "end": "52.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben eine weitere Zunahme von prek\u00e4ren Besch\u00e4ftigungsformen, "
+   ]
+  }, 
+  {
+   "begin": "52.240", 
+   "children": [], 
+   "end": "54.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel Leiharbeit und Werkvertr\u00e4ge. "
+   ]
+  }, 
+  {
+   "begin": "54.760", 
+   "children": [], 
+   "end": "57.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt einen massiven Druck auf Besch\u00e4ftigte, "
+   ]
+  }, 
+  {
+   "begin": "57.760", 
+   "children": [], 
+   "end": "59.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "jede Arbeit anzunehmen, "
+   ]
+  }, 
+  {
+   "begin": "59.320", 
+   "children": [], 
+   "end": "61.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "egal wie schlecht sie bezahlt ist. "
+   ]
+  }, 
+  {
+   "begin": "61.720", 
+   "children": [], 
+   "end": "63.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Daran \u00e4ndert sich nichts; "
+   ]
+  }, 
+  {
+   "begin": "63.280", 
+   "children": [], 
+   "end": "67.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "an alldem halten Sie fest."
+   ]
+  }, 
+  {
+   "begin": "67.120", 
+   "children": [], 
+   "end": "70.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man sich den Koalitionsvertrag genauer anschaut, "
+   ]
+  }, 
+  {
+   "begin": "70.280", 
+   "children": [], 
+   "end": "71.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "stellt sich die Frage: "
+   ]
+  }, 
+  {
+   "begin": "71.960", 
+   "children": [], 
+   "end": "75.760", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Was sind wirklich Verbesserungen f\u00fcr die Besch\u00e4ftigten? "
+   ]
+  }, 
+  {
+   "begin": "75.760", 
+   "children": [], 
+   "end": "78.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das R\u00fcckkehrrecht in Vollzeit, "
+   ]
+  }, 
+  {
+   "begin": "78.280", 
+   "children": [], 
+   "end": "80.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die Einschr\u00e4nkung von Befristungen? "
+   ]
+  }, 
+  {
+   "begin": "80.880", 
+   "children": [], 
+   "end": "84.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Beides gilt erst ab einer bestimmten Betriebsgr\u00f6\u00dfe. "
+   ]
+  }, 
+  {
+   "begin": "84.560", 
+   "children": [], 
+   "end": "89.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Damit wird die Mehrheit der Besch\u00e4ftigten nicht davon profitieren."
+   ]
+  }, 
+  {
+   "begin": "89.400", 
+   "children": [], 
+   "end": "95.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen auch an das Arbeitszeitgesetz heran. "
+   ]
+  }, 
+  {
+   "begin": "95.040", 
+   "children": [], 
+   "end": "99.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Aber CDU/CSU und SPD m\u00fcssen sich merken: "
+   ]
+  }, 
+  {
+   "begin": "99.000", 
+   "children": [], 
+   "end": "101.600", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Das Arbeitszeitgesetz ist ein Schutzgesetz; "
+   ]
+  }, 
+  {
+   "begin": "101.600", 
+   "children": [], 
+   "end": "106.880", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "man darf es nicht aufweichen."
+   ]
+  }, 
+  {
+   "begin": "106.880", 
+   "children": [], 
+   "end": "111.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Sie sprechen immer von sogenannten Experimentierr\u00e4umen. "
+   ]
+  }, 
+  {
+   "begin": "111.680", 
+   "children": [], 
+   "end": "111.880", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Aber, "
+   ]
+  }, 
+  {
+   "begin": "111.880", 
+   "children": [], 
+   "end": "113.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "113.280", 
+   "children": [], 
+   "end": "116.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Besch\u00e4ftigte sind doch keine Versuchskaninchen."
+   ]
+  }, 
+  {
+   "begin": "116.200", 
+   "children": [], 
+   "end": "125.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Gesundheitsschutz und Arbeitssicherheit f\u00fcr Besch\u00e4ftigte m\u00fcssen wir ausbauen und nicht abbauen."
+   ]
+  }, 
+  {
+   "begin": "125.200", 
+   "children": [], 
+   "end": "129.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Diese Beispiele beweisen: "
+   ]
+  }, 
+  {
+   "begin": "129.320", 
+   "children": [], 
+   "end": "134.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Der Koalitionsvertrag bringt f\u00fcr die Mehrheit der Besch\u00e4ftigten nichts. "
+   ]
+  }, 
+  {
+   "begin": "134.840", 
+   "children": [], 
+   "end": "137.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Linke haben klare Vorstellungen davon, "
+   ]
+  }, 
+  {
+   "begin": "137.720", 
+   "children": [], 
+   "end": "140.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "was jetzt n\u00f6tig w\u00e4re und was die Besch\u00e4ftigten brauchen. "
+   ]
+  }, 
+  {
+   "begin": "140.760", 
+   "children": [], 
+   "end": "145.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen beispielsweise einen Mindestlohn in H\u00f6he von 12\u00a0Euro ohne Ausnahmen."
+   ]
+  }, 
+  {
+   "begin": "145.960", 
+   "children": [], 
+   "end": "152.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die w\u00f6chentliche H\u00f6chstarbeitszeit auf 40\u00a0Stunden begrenzen. "
+   ]
+  }, 
+  {
+   "begin": "152.800", 
+   "children": [], 
+   "end": "159.360", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine St\u00e4rkung von Tarifvertr\u00e4gen und mehr Mitbestimmung f\u00fcr Betriebsr\u00e4te und Personalr\u00e4te."
+   ]
+  }, 
+  {
+   "begin": "159.360", 
+   "children": [], 
+   "end": "162.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Die k\u00e4mpfen n\u00e4mlich f\u00fcr eine Verbesserung der Lebens- "
+   ]
+  }, 
+  {
+   "begin": "162.720", 
+   "children": [], 
+   "end": "164.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "und Arbeitsbedingungen. "
+   ]
+  }, 
+  {
+   "begin": "164.480", 
+   "children": [], 
+   "end": "169.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr diese Ziele wird Die Linke auch in den n\u00e4chsten Jahren engagiert streiten."
+   ]
+  }, 
+  {
+   "begin": "169.040", 
+   "children": [], 
+   "end": "171.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "171.080", 
+   "children": [], 
+   "end": "172.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Ferschl.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "172.920", 
+   "children": [], 
+   "end": "177.000", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Als Letzter hat der Kollege Stephan Stracke f\u00fcr die CDU/CSU-Fraktion das Wort."
+   ]
+  }
+ ]
+}

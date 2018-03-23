@@ -1,0 +1,1834 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "children": [], 
+   "end": "15.160", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "15.160", 
+   "children": [], 
+   "end": "29.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Diese neue Gro\u00dfe Koalition ist quasi als das langsame Ende der \u00c4ra Merkel angelegt und damit ein \u00dcbergang in eine neue politische Zeit. "
+   ]
+  }, 
+  {
+   "begin": "29.480", 
+   "children": [], 
+   "end": "33.920", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Der Preis f\u00fcr diese \u00dcbergangslage ist: "
+   ]
+  }, 
+  {
+   "begin": "33.920", 
+   "children": [], 
+   "end": "38.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt finden nicht die notwendigen Richtungsentscheidungen statt. "
+   ]
+  }, 
+  {
+   "begin": "38.280", 
+   "children": [], 
+   "end": "40.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr werden wichtige Zukunftsentscheidungen, "
+   ]
+  }, 
+  {
+   "begin": "40.600", 
+   "children": [], 
+   "end": "44.880", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "ob sie die Klimakrise oder die Zukunft unserer sozialen Sicherung betreffen, "
+   ]
+  }, 
+  {
+   "begin": "44.880", 
+   "children": [], 
+   "end": "46.080", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "nicht getroffen, "
+   ]
+  }, 
+  {
+   "begin": "46.080", 
+   "children": [], 
+   "end": "50.200", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "sondern durch den Koalitionsvertrag weitgehend vertagt."
+   ]
+  }, 
+  {
+   "begin": "50.200", 
+   "children": [], 
+   "end": "53.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Im Kapitel Europa des Koalitionsvertrags\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "53.400", 
+   "children": [], 
+   "end": "56.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dem haben Sie viel Zeit gewidmet, "
+   ]
+  }, 
+  {
+   "begin": "56.240", 
+   "children": [], 
+   "end": "58.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Herr Finanzminister\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "58.280", 
+   "children": [], 
+   "end": "62.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "wird zu Anfang ein europ\u00e4ischer Aufbruch versprochen. "
+   ]
+  }, 
+  {
+   "begin": "62.360", 
+   "children": [], 
+   "end": "66.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Dazu liegen ja schon seit Monaten Vorschl\u00e4ge auf dem Tisch, "
+   ]
+  }, 
+  {
+   "begin": "66.360", 
+   "children": [], 
+   "end": "68.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "sei es von Emmanuel Macron, "
+   ]
+  }, 
+  {
+   "begin": "68.000", 
+   "children": [], 
+   "end": "69.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dem franz\u00f6sischen Pr\u00e4sidenten, "
+   ]
+  }, 
+  {
+   "begin": "69.920", 
+   "children": [], 
+   "end": "71.960", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "oder der EU-Kommission. "
+   ]
+  }, 
+  {
+   "begin": "71.960", 
+   "children": [], 
+   "end": "75.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Kanzlerin und Sie sind auch schon nach Paris gereist. "
+   ]
+  }, 
+  {
+   "begin": "75.960", 
+   "children": [], 
+   "end": "78.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Aber was haben Sie uns heute hier vorgestellt?"
+   ]
+  }, 
+  {
+   "begin": "78.920", 
+   "children": [], 
+   "end": "80.840", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Was ist zu tun?"
+   ]
+  }, 
+  {
+   "begin": "80.840", 
+   "children": [], 
+   "end": "81.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "81.280", 
+   "children": [], 
+   "end": "82.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "es stimmt, "
+   ]
+  }, 
+  {
+   "begin": "82.040", 
+   "children": [], 
+   "end": "86.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "im Vertrag steht eine ausformulierte Zusage, "
+   ]
+  }, 
+  {
+   "begin": "86.880", 
+   "children": [], 
+   "end": "88.600", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland bereit ist, "
+   ]
+  }, 
+  {
+   "begin": "88.600", 
+   "children": [], 
+   "end": "92.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "h\u00f6here Beitr\u00e4ge in den EU-Haushalt zu zahlen. "
+   ]
+  }, 
+  {
+   "begin": "92.360", 
+   "children": [], 
+   "end": "93.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde es richtig, "
+   ]
+  }, 
+  {
+   "begin": "93.440", 
+   "children": [], 
+   "end": "95.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie das sagen. "
+   ]
+  }, 
+  {
+   "begin": "95.040", 
+   "children": [], 
+   "end": "98.120", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Aber Sie k\u00f6nnen uns doch nicht allen Ernstes sagen, "
+   ]
+  }, 
+  {
+   "begin": "98.120", 
+   "children": [], 
+   "end": "102.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "eine solche Aussage sei die Antwort auf die notwendige Dynamik, "
+   ]
+  }, 
+  {
+   "begin": "102.960", 
+   "children": [], 
+   "end": "104.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "die wir brauchen, "
+   ]
+  }, 
+  {
+   "begin": "104.000", 
+   "children": [], 
+   "end": "106.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "sie garantiere einen Aufbruch f\u00fcr Europa."
+   ]
+  }, 
+  {
+   "begin": "106.760", 
+   "children": [], 
+   "end": "109.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ich will das begr\u00fcnden. "
+   ]
+  }, 
+  {
+   "begin": "109.360", 
+   "children": [], 
+   "end": "111.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben davon gesprochen, "
+   ]
+  }, 
+  {
+   "begin": "111.000", 
+   "children": [], 
+   "end": "113.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass man konkret werden muss, "
+   ]
+  }, 
+  {
+   "begin": "113.080", 
+   "children": [], 
+   "end": "114.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass man etwas machen muss. "
+   ]
+  }, 
+  {
+   "begin": "114.240", 
+   "children": [], 
+   "end": "118.280", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Dann muss man aber auch klar Position beziehen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "118.280", 
+   "children": [], 
+   "end": "125.160", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wollen und werden wir in jedem Fall den Europ\u00e4ischen Stabilit\u00e4tsmechanismus zu einem Europ\u00e4ischen W\u00e4hrungsfonds umbauen, "
+   ]
+  }, 
+  {
+   "begin": "125.160", 
+   "children": [], 
+   "end": "126.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "ja oder nein? "
+   ]
+  }, 
+  {
+   "begin": "126.400", 
+   "children": [], 
+   "end": "129.040", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Verfolgen wir die Idee eines europ\u00e4ischen Wirtschafts- "
+   ]
+  }, 
+  {
+   "begin": "129.040", 
+   "children": [], 
+   "end": "130.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "oder Finanzministers, "
+   ]
+  }, 
+  {
+   "begin": "130.240", 
+   "children": [], 
+   "end": "131.480", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "ja oder nein? "
+   ]
+  }, 
+  {
+   "begin": "131.480", 
+   "children": [], 
+   "end": "133.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ich wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "133.000", 
+   "children": [], 
+   "end": "135.720", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wie sich im Bundesrat die sogenannten B-L\u00e4nder, "
+   ]
+  }, 
+  {
+   "begin": "135.720", 
+   "children": [], 
+   "end": "136.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "CDU-regiert, "
+   ]
+  }, 
+  {
+   "begin": "136.720", 
+   "children": [], 
+   "end": "137.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "aufstellen, "
+   ]
+  }, 
+  {
+   "begin": "137.520", 
+   "children": [], 
+   "end": "138.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dann stelle ich fest, "
+   ]
+  }, 
+  {
+   "begin": "138.480", 
+   "children": [], 
+   "end": "139.800", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass sie alle beschlossen haben, "
+   ]
+  }, 
+  {
+   "begin": "139.800", 
+   "children": [], 
+   "end": "140.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "das nicht zu wollen. "
+   ]
+  }, 
+  {
+   "begin": "140.640", 
+   "children": [], 
+   "end": "142.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Hier sieht man doch schon: "
+   ]
+  }, 
+  {
+   "begin": "142.400", 
+   "children": [], 
+   "end": "146.280", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Mit dieser GroKo droht uns leider nicht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "146.280", 
+   "children": [], 
+   "end": "147.440", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "das w\u00e4re etwas Sch\u00f6nes\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "147.440", 
+   "children": [], 
+   "end": "148.440", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "ein Aufbruch, "
+   ]
+  }, 
+  {
+   "begin": "148.440", 
+   "children": [], 
+   "end": "149.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "sondern eine Bremse, "
+   ]
+  }, 
+  {
+   "begin": "149.840", 
+   "children": [], 
+   "end": "153.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "auf die Deutschland in Europa dr\u00fcckt. "
+   ]
+  }, 
+  {
+   "begin": "153.720", 
+   "children": [], 
+   "end": "155.320", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das ist alles andere als das, "
+   ]
+  }, 
+  {
+   "begin": "155.320", 
+   "children": [], 
+   "end": "160.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "was wir brauchen."
+   ]
+  }, 
+  {
+   "begin": "160.680", 
+   "children": [], 
+   "end": "171.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes m\u00f6chte ich auf die finanziellen Planungen und Priorit\u00e4ten dieser Gro\u00dfen Koalition blicken. "
+   ]
+  }, 
+  {
+   "begin": "171.080", 
+   "children": [], 
+   "end": "181.160", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein Spielraum in H\u00f6he von 46\u00a0Milliarden Euro f\u00fcr die Jahre\u00a02018 bis 2021 ausgerechnet worden. "
+   ]
+  }, 
+  {
+   "begin": "181.160", 
+   "children": [], 
+   "end": "182.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Das ist wahrlich viel Geld. "
+   ]
+  }, 
+  {
+   "begin": "182.960", 
+   "children": [], 
+   "end": "186.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das sind sehr gute finanzielle Rahmenbedingungen. "
+   ]
+  }, 
+  {
+   "begin": "186.960", 
+   "children": [], 
+   "end": "188.840", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Drei Bemerkungen m\u00f6chte ich dazu machen."
+   ]
+  }, 
+  {
+   "begin": "188.840", 
+   "children": [], 
+   "end": "190.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wir finden es richtig, "
+   ]
+  }, 
+  {
+   "begin": "190.800", 
+   "children": [], 
+   "end": "193.160", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie die Zielsetzung verfolgen, "
+   ]
+  }, 
+  {
+   "begin": "193.160", 
+   "children": [], 
+   "end": "197.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Familien mit Kindern besser zu f\u00f6rdern. "
+   ]
+  }, 
+  {
+   "begin": "197.440", 
+   "children": [], 
+   "end": "199.840", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Aber ich kann nicht nachvollziehen, "
+   ]
+  }, 
+  {
+   "begin": "199.840", 
+   "children": [], 
+   "end": "207.680", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass der weitaus gr\u00f6\u00dfte Teil der zus\u00e4tzlichen F\u00f6rderung immer f\u00fcr die vorgesehen ist, "
+   ]
+  }, 
+  {
+   "begin": "207.680", 
+   "children": [], 
+   "end": "209.880", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die es eigentlich nicht so n\u00f6tig haben."
+   ]
+  }, 
+  {
+   "begin": "209.880", 
+   "children": [], 
+   "end": "213.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde die Kindergelderh\u00f6hung gut. "
+   ]
+  }, 
+  {
+   "begin": "213.040", 
+   "children": [], 
+   "end": "214.240", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde es auch gut, "
+   ]
+  }, 
+  {
+   "begin": "214.240", 
+   "children": [], 
+   "end": "217.400", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass die Freibetr\u00e4ge angepasst werden. "
+   ]
+  }, 
+  {
+   "begin": "217.400", 
+   "children": [], 
+   "end": "221.520", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Aber warum konzentrieren Sie nicht den Hauptbatzen auf die Familien, "
+   ]
+  }, 
+  {
+   "begin": "221.520", 
+   "children": [], 
+   "end": "223.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "in denen Kinder in Armut leben"
+   ]
+  }, 
+  {
+   "begin": "223.800", 
+   "children": [], 
+   "end": "226.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "und die Eltern so wenig verdienen, "
+   ]
+  }, 
+  {
+   "begin": "226.760", 
+   "children": [], 
+   "end": "229.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass sie zus\u00e4tzliche Hilfe beantragen m\u00fcssten, "
+   ]
+  }, 
+  {
+   "begin": "229.560", 
+   "children": [], 
+   "end": "231.040", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wobei wir nicht sicher sein k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "231.040", 
+   "children": [], 
+   "end": "232.320", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dass sie sie auch in Anspruch nehmen? "
+   ]
+  }, 
+  {
+   "begin": "232.320", 
+   "children": [], 
+   "end": "233.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Ich spreche hier vom Kinderzuschlag. "
+   ]
+  }, 
+  {
+   "begin": "233.760", 
+   "children": [], 
+   "end": "235.280", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "1\u00a0Milliarde Euro reicht nicht. "
+   ]
+  }, 
+  {
+   "begin": "235.280", 
+   "children": [], 
+   "end": "238.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Er muss automatisch ausgezahlt werden. "
+   ]
+  }, 
+  {
+   "begin": "238.960", 
+   "children": [], 
+   "end": "240.160", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Es ist nicht richtig, "
+   ]
+  }, 
+  {
+   "begin": "240.160", 
+   "children": [], 
+   "end": "242.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "dass f\u00fcr diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "242.520", 
+   "children": [], 
+   "end": "244.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "die es nicht brauchen, "
+   ]
+  }, 
+  {
+   "begin": "244.000", 
+   "children": [], 
+   "end": "244.880", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "drei- "
+   ]
+  }, 
+  {
+   "begin": "244.880", 
+   "children": [], 
+   "end": "249.400", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "bis viermal so viel ausgegeben wird und die Armutsbek\u00e4mpfung darunter leidet."
+   ]
+  }, 
+  {
+   "begin": "249.400", 
+   "children": [], 
+   "end": "253.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Gestern hat die Bundeskanzlerin davon gesprochen, "
+   ]
+  }, 
+  {
+   "begin": "253.760", 
+   "children": [], 
+   "end": "257.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "es gebe einen neuen Aufbruch in der Rentenpolitik, "
+   ]
+  }, 
+  {
+   "begin": "257.520", 
+   "children": [], 
+   "end": "259.120", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "eine Grundrente, "
+   ]
+  }, 
+  {
+   "begin": "259.120", 
+   "children": [], 
+   "end": "261.680", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "wie Union und SPD es nennen. "
+   ]
+  }, 
+  {
+   "begin": "261.680", 
+   "children": [], 
+   "end": "263.440", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wissen Sie eigentlich, "
+   ]
+  }, 
+  {
+   "begin": "263.440", 
+   "children": [], 
+   "end": "265.080", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "was das ist? "
+   ]
+  }, 
+  {
+   "begin": "265.080", 
+   "children": [], 
+   "end": "266.840", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Es ist die Garantie f\u00fcr jemanden, "
+   ]
+  }, 
+  {
+   "begin": "266.840", 
+   "children": [], 
+   "end": "269.880", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "der 35\u00a0Jahre lang gearbeitet hat, "
+   ]
+  }, 
+  {
+   "begin": "269.880", 
+   "children": [], 
+   "end": "276.480", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "dass 10\u00a0Prozent seiner Rente nicht auf die Grundsicherung angerechnet werden. "
+   ]
+  }, 
+  {
+   "begin": "276.480", 
+   "children": [], 
+   "end": "277.960", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft faktisch, "
+   ]
+  }, 
+  {
+   "begin": "277.960", 
+   "children": [], 
+   "end": "281.480", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Sie lassen diese Menschen in einem System, "
+   ]
+  }, 
+  {
+   "begin": "281.480", 
+   "children": [], 
+   "end": "286.760", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "bei dem der Bedarf \u00fcberpr\u00fcft wird und 10\u00a0Prozent anrechnungsfrei von der Grundsicherung sind. "
+   ]
+  }, 
+  {
+   "begin": "286.760", 
+   "children": [], 
+   "end": "287.200", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Sie meinen, "
+   ]
+  }, 
+  {
+   "begin": "287.200", 
+   "children": [], 
+   "end": "288.440", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "das sei eine anst\u00e4ndige Grundrente. "
+   ]
+  }, 
+  {
+   "begin": "288.440", 
+   "children": [], 
+   "end": "291.120", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Davon haben wir eine ganz andere Vorstellung. "
+   ]
+  }, 
+  {
+   "begin": "291.120", 
+   "children": [], 
+   "end": "294.480", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man Armut im Alter bek\u00e4mpfen will, "
+   ]
+  }, 
+  {
+   "begin": "294.480", 
+   "children": [], 
+   "end": "297.760", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "dann muss die Garantierente st\u00e4rker gef\u00f6rdert werden. "
+   ]
+  }, 
+  {
+   "begin": "297.760", 
+   "children": [], 
+   "end": "301.440", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Hierf\u00fcr kann man bei der M\u00fctterrente auf eine ganze Menge verzichten. "
+   ]
+  }, 
+  {
+   "begin": "301.440", 
+   "children": [], 
+   "end": "306.240", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Die geht n\u00e4mlich per Gie\u00dfkanne an viel zu viele Menschen, "
+   ]
+  }, 
+  {
+   "begin": "306.240", 
+   "children": [], 
+   "end": "308.920", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "die darauf gar nicht angewiesen sind."
+   ]
+  }, 
+  {
+   "begin": "308.920", 
+   "children": [], 
+   "end": "310.400", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Fazit: "
+   ]
+  }, 
+  {
+   "begin": "310.400", 
+   "children": [], 
+   "end": "313.560", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Sozialpolitik ist nicht zielgenau. "
+   ]
+  }, 
+  {
+   "begin": "313.560", 
+   "children": [], 
+   "end": "314.400", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Es ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "314.400", 
+   "children": [], 
+   "end": "316.720", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "auch in die Breite der Gesellschaft zu wirken, "
+   ]
+  }, 
+  {
+   "begin": "316.720", 
+   "children": [], 
+   "end": "321.000", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "aber eine mutigere Schwerpunktsetzung gegen Armut w\u00e4re allemal wichtig."
+   ]
+  }, 
+  {
+   "begin": "321.000", 
+   "children": [], 
+   "end": "323.160", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Punkt. "
+   ]
+  }, 
+  {
+   "begin": "323.160", 
+   "children": [], 
+   "end": "326.960", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben \u00fcberhaupt keinen Elan beim Subventionsabbau. "
+   ]
+  }, 
+  {
+   "begin": "326.960", 
+   "children": [], 
+   "end": "329.960", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt keinerlei Ziele und Ma\u00dfnahmen. "
+   ]
+  }, 
+  {
+   "begin": "329.960", 
+   "children": [], 
+   "end": "333.160", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Betrachten wir es mit ein bisschen Abstand: "
+   ]
+  }, 
+  {
+   "begin": "333.160", 
+   "children": [], 
+   "end": "336.520", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Wir diskutieren im Jahr\u00a02018 dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "336.520", 
+   "children": [], 
+   "end": "342.320", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "dass es wegen der Luftbelastung in den St\u00e4dten m\u00f6glicherweise Fahrverbote geben muss, "
+   ]
+  }, 
+  {
+   "begin": "342.320", 
+   "children": [], 
+   "end": "349.200", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend gleichzeitig eine der gr\u00f6\u00dften Subventionen, "
+   ]
+  }, 
+  {
+   "begin": "349.200", 
+   "children": [], 
+   "end": "351.200", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "die wir mit Steuergeld bezahlen, "
+   ]
+  }, 
+  {
+   "begin": "351.200", 
+   "children": [], 
+   "end": "353.480", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "die Privilegierung von Diesel ist. "
+   ]
+  }, 
+  {
+   "begin": "353.480", 
+   "children": [], 
+   "end": "356.640", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Das ist doch ein Zeichen daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "356.640", 
+   "children": [], 
+   "end": "359.200", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "wie mutlos die Politik in Deutschland ist, "
+   ]
+  }, 
+  {
+   "begin": "359.200", 
+   "children": [], 
+   "end": "361.320", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "mit solchen Widerspr\u00fcchen umzugehen."
+   ]
+  }, 
+  {
+   "begin": "361.320", 
+   "children": [], 
+   "end": "364.720", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Dass die Kanzlerin die Abschaffung solch einer Subvention zum Tabu erkl\u00e4rt, "
+   ]
+  }, 
+  {
+   "begin": "364.720", 
+   "children": [], 
+   "end": "367.960", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "obwohl die Ph\u00e4nomene so auseinanderlaufen, "
+   ]
+  }, 
+  {
+   "begin": "367.960", 
+   "children": [], 
+   "end": "369.160", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "zeigt, "
+   ]
+  }, 
+  {
+   "begin": "369.160", 
+   "children": [], 
+   "end": "373.040", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "dass sich diese Gro\u00dfe Koalition nicht an die wichtigen Zukunftsprojekte herantraut. "
+   ]
+  }, 
+  {
+   "begin": "373.040", 
+   "children": [], 
+   "end": "380.360", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Beim Subventionsabbau insgesamt reden wir \u00fcber den Abbau von bis zu 50\u00a0Milliarden Euro anreizfeindlicher, "
+   ]
+  }, 
+  {
+   "begin": "380.360", 
+   "children": [], 
+   "end": "381.600", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "klimasch\u00e4dlicher, "
+   ]
+  }, 
+  {
+   "begin": "381.600", 
+   "children": [], 
+   "end": "384.520", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "wettbewerbsfeindlicher Subventionen. "
+   ]
+  }, 
+  {
+   "begin": "384.520", 
+   "children": [], 
+   "end": "386.040", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Dass Sie sich da nichts vornehmen, "
+   ]
+  }, 
+  {
+   "begin": "386.040", 
+   "children": [], 
+   "end": "387.880", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "ist wirklich kleinlich."
+   ]
+  }, 
+  {
+   "begin": "387.880", 
+   "children": [], 
+   "end": "391.480", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Die letzte haushaltspolitische Bemerkung, "
+   ]
+  }, 
+  {
+   "begin": "391.480", 
+   "children": [], 
+   "end": "392.720", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "die ich machen muss, "
+   ]
+  }, 
+  {
+   "begin": "392.720", 
+   "children": [], 
+   "end": "393.600", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Herr Scholz, "
+   ]
+  }, 
+  {
+   "begin": "393.600", 
+   "children": [], 
+   "end": "395.480", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "bezieht sich darauf, "
+   ]
+  }, 
+  {
+   "begin": "395.480", 
+   "children": [], 
+   "end": "399.640", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "dass Ihr Tableau von 46\u00a0Milliarden Euro so angelegt ist, "
+   ]
+  }, 
+  {
+   "begin": "399.640", 
+   "children": [], 
+   "end": "403.720", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "dass die ganz dicken Brocken 2021 kommen: "
+   ]
+  }, 
+  {
+   "begin": "403.720", 
+   "children": [], 
+   "end": "406.600", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Dann kommen 10\u00a0Milliarden Euro Entlastung beim Soli, "
+   ]
+  }, 
+  {
+   "begin": "406.600", 
+   "children": [], 
+   "end": "408.640", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "dann kommt das Baukindergeld, "
+   ]
+  }, 
+  {
+   "begin": "408.640", 
+   "children": [], 
+   "end": "411.680", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "dann wird es anwachsende Ausgaben geben, "
+   ]
+  }, 
+  {
+   "begin": "411.680", 
+   "children": [], 
+   "end": "413.480", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "die strukturell wirken. "
+   ]
+  }, 
+  {
+   "begin": "413.480", 
+   "children": [], 
+   "end": "414.200", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "414.200", 
+   "children": [], 
+   "end": "420.280", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "ab dem Jahr\u00a02022 haben wir es mit Sicherheit mit einem j\u00e4hrlichen strukturellen, "
+   ]
+  }, 
+  {
+   "begin": "420.280", 
+   "children": [], 
+   "end": "424.160", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "zus\u00e4tzlichen Volumen von 20\u00a0Milliarden Euro zu tun. "
+   ]
+  }, 
+  {
+   "begin": "424.160", 
+   "children": [], 
+   "end": "425.320", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Dies zeigt, "
+   ]
+  }, 
+  {
+   "begin": "425.320", 
+   "children": [], 
+   "end": "427.320", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "es ist nicht nachhaltig angelegt. "
+   ]
+  }, 
+  {
+   "begin": "427.320", 
+   "children": [], 
+   "end": "432.520", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "Was passiert eigentlich in den anspruchsvollen 20er-Jahren hinsichtlich der demografischen Entwicklung? "
+   ]
+  }, 
+  {
+   "begin": "432.520", 
+   "children": [], 
+   "end": "435.840", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "Sie verteilen jetzt 46\u00a0Milliarden Euro, "
+   ]
+  }, 
+  {
+   "begin": "435.840", 
+   "children": [], 
+   "end": "440.040", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "ohne dass das Konzept nachhaltig ausgearbeitet ist."
+   ]
+  }, 
+  {
+   "begin": "440.040", 
+   "children": [], 
+   "end": "441.920", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "Als Sahneh\u00e4ubchen zum Schluss: "
+   ]
+  }, 
+  {
+   "begin": "441.920", 
+   "children": [], 
+   "end": "444.360", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "Gestern im Haushaltsausschuss durften wir erfahren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "444.360", 
+   "children": [], 
+   "end": "445.360", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "es ist schon angesprochen worden\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "445.360", 
+   "children": [], 
+   "end": "450.160", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "dass 209 neue Stellen bei der Regierung geschaffen werden sollen. "
+   ]
+  }, 
+  {
+   "begin": "450.160", 
+   "children": [], 
+   "end": "453.280", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin nicht darauf gekommen, "
+   ]
+  }, 
+  {
+   "begin": "453.280", 
+   "children": [], 
+   "end": "455.720", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "dass wir mal in die Verlegenheit kommen, "
+   ]
+  }, 
+  {
+   "begin": "455.720", 
+   "children": [], 
+   "end": "458.400", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "Stellen f\u00fcr die Bundespolizei, "
+   ]
+  }, 
+  {
+   "begin": "458.400", 
+   "children": [], 
+   "end": "462.080", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "die wir in der vergangenen Legislaturperiode mitbeschlossen haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "462.080", 
+   "children": [], 
+   "end": "465.720", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "Stellen f\u00fcr die Bek\u00e4mpfung von Schwarzarbeit, "
+   ]
+  }, 
+  {
+   "begin": "465.720", 
+   "children": [], 
+   "end": "467.960", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "die wir geschaffen haben\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "467.960", 
+   "children": [], 
+   "end": "469.640", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "als Puffer zu nutzen, "
+   ]
+  }, 
+  {
+   "begin": "469.640", 
+   "children": [], 
+   "end": "473.000", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "um 209\u00a0Regierungsstellen zu parken."
+   ]
+  }, 
+  {
+   "begin": "473.000", 
+   "children": [], 
+   "end": "476.080", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "Im Selbstbedienungsladen von Herrn Seehofer, "
+   ]
+  }, 
+  {
+   "begin": "476.080", 
+   "children": [], 
+   "end": "477.640", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "dem Heimatministerium, "
+   ]
+  }, 
+  {
+   "begin": "477.640", 
+   "children": [], 
+   "end": "479.120", 
+   "id": "s000163", 
+   "language": "deu", 
+   "lines": [
+    "werden 98\u00a0Stellen geschaffen. "
+   ]
+  }, 
+  {
+   "begin": "479.120", 
+   "children": [], 
+   "end": "483.120", 
+   "id": "s000164", 
+   "language": "deu", 
+   "lines": [
+    "41\u00a0Stellen werden beim Finanzminister geschaffen. "
+   ]
+  }, 
+  {
+   "begin": "483.120", 
+   "children": [], 
+   "end": "484.560", 
+   "id": "s000165", 
+   "language": "deu", 
+   "lines": [
+    "Wof\u00fcr? "
+   ]
+  }, 
+  {
+   "begin": "484.560", 
+   "children": [], 
+   "end": "487.440", 
+   "id": "s000166", 
+   "language": "deu", 
+   "lines": [
+    "Ein Vizekanzleramt wird geschaffen. "
+   ]
+  }, 
+  {
+   "begin": "487.440", 
+   "children": [], 
+   "end": "489.640", 
+   "id": "s000167", 
+   "language": "deu", 
+   "lines": [
+    "Das hatten wir schon einmal im Ausw\u00e4rtigen Amt, "
+   ]
+  }, 
+  {
+   "begin": "489.640", 
+   "children": [], 
+   "end": "491.840", 
+   "id": "s000168", 
+   "language": "deu", 
+   "lines": [
+    "war da aber viel kleiner. "
+   ]
+  }, 
+  {
+   "begin": "491.840", 
+   "children": [], 
+   "end": "494.440", 
+   "id": "s000169", 
+   "language": "deu", 
+   "lines": [
+    "Da wird jetzt nicht einmal eingespart, "
+   ]
+  }, 
+  {
+   "begin": "494.440", 
+   "children": [], 
+   "end": "496.240", 
+   "id": "s000170", 
+   "language": "deu", 
+   "lines": [
+    "um wenigstens etwas zu kompensieren."
+   ]
+  }, 
+  {
+   "begin": "496.240", 
+   "children": [], 
+   "end": "498.280", 
+   "id": "s000171", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann nur ein Fazit ziehen: "
+   ]
+  }, 
+  {
+   "begin": "498.280", 
+   "children": [], 
+   "end": "500.880", 
+   "id": "s000172", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die dritte Gro\u00dfe Koalition. "
+   ]
+  }, 
+  {
+   "begin": "500.880", 
+   "children": [], 
+   "end": "503.360", 
+   "id": "s000173", 
+   "language": "deu", 
+   "lines": [
+    "Die Mehrheit der Gro\u00dfen Koalition ist st\u00e4ndig geschmolzen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "503.360", 
+   "children": [], 
+   "end": "504.680", 
+   "id": "s000174", 
+   "language": "deu", 
+   "lines": [
+    "2005, "
+   ]
+  }, 
+  {
+   "begin": "504.680", 
+   "children": [], 
+   "end": "505.960", 
+   "id": "s000175", 
+   "language": "deu", 
+   "lines": [
+    "2013, "
+   ]
+  }, 
+  {
+   "begin": "505.960", 
+   "children": [], 
+   "end": "507.160", 
+   "id": "s000176", 
+   "language": "deu", 
+   "lines": [
+    "2018. "
+   ]
+  }, 
+  {
+   "begin": "507.160", 
+   "children": [], 
+   "end": "508.680", 
+   "id": "s000177", 
+   "language": "deu", 
+   "lines": [
+    "Pikant ist: "
+   ]
+  }, 
+  {
+   "begin": "508.680", 
+   "children": [], 
+   "end": "511.400", 
+   "id": "s000178", 
+   "language": "deu", 
+   "lines": [
+    "Je mehr sie einschmilzt, "
+   ]
+  }, 
+  {
+   "begin": "511.400", 
+   "children": [], 
+   "end": "515.800", 
+   "id": "s000179", 
+   "language": "deu", 
+   "lines": [
+    "desto gr\u00f6\u00dfer ist die Stellenkompensation im Vizekanzleramt."
+   ]
+  }, 
+  {
+   "begin": "515.800", 
+   "children": [], 
+   "end": "522.240", 
+   "id": "s000180", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist diese Regierung eine inhaltlich wirklich ganz unambitionierte Veranstaltung. "
+   ]
+  }, 
+  {
+   "begin": "522.240", 
+   "children": [], 
+   "end": "527.760", 
+   "id": "s000181", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist eine teure Konkurrenzveranstaltung auf Kosten der B\u00fcrgerinnen und B\u00fcrger."
+   ]
+  }, 
+  {
+   "begin": "527.760", 
+   "children": [], 
+   "end": "534.360", 
+   "id": "s000182", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Achim Post, "
+   ]
+  }, 
+  {
+   "begin": "534.360", 
+   "children": [], 
+   "end": "538.000", 
+   "id": "s000183", 
+   "language": "deu", 
+   "lines": [
+    "SPD-Fraktion."
+   ]
+  }
+ ]
+}

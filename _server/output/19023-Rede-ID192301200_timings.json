@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "children": [], 
+   "end": "1.080", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "children": [], 
+   "end": "1.520", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Es ist schon sehr bemerkenswert, "
+   ]
+  }, 
+  {
+   "begin": "1.520", 
+   "children": [], 
+   "end": "4.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass in dieser Debatte und vor allem in der Erkl\u00e4rung des neuen Bundesfinanzministers eine Reihe von Themen, "
+   ]
+  }, 
+  {
+   "begin": "4.280", 
+   "children": [], 
+   "end": "5.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "die sehr viele Menschen in diesem Land besch\u00e4ftigen, "
+   ]
+  }, 
+  {
+   "begin": "5.560", 
+   "children": [], 
+   "end": "7.080", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcberhaupt nicht vorgekommen ist. "
+   ]
+  }, 
+  {
+   "begin": "7.080", 
+   "children": [], 
+   "end": "7.920", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Die Finanzkrise, "
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "children": [], 
+   "end": "8.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die vor zehn Jahren ausgebrochen ist, "
+   ]
+  }, 
+  {
+   "begin": "8.400", 
+   "children": [], 
+   "end": "10.400", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ist inzwischen bei den Menschen in unserem Land angekommen. "
+   ]
+  }, 
+  {
+   "begin": "10.400", 
+   "children": [], 
+   "end": "10.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die Banken wackeln nicht mehr. "
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "children": [], 
+   "end": "11.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Aber die Menschen machen sich Sorgen, "
+   ]
+  }, 
+  {
+   "begin": "11.080", 
+   "children": [], 
+   "end": "12.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "ob sie noch bezahlbaren Wohnraum finden, "
+   ]
+  }, 
+  {
+   "begin": "12.480", 
+   "children": [], 
+   "end": "16.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "wenn Finanzinvestoren Wohnungen aufkaufen und wenn deswegen f\u00fcr Menschen mit normalem Geldbeutel gar kein Raum mehr auf dem Wohnungsmarkt ist. "
+   ]
+  }, 
+  {
+   "begin": "16.960", 
+   "children": [], 
+   "end": "18.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wort haben Sie dazu gesagt."
+   ]
+  }, 
+  {
+   "begin": "18.840", 
+   "children": [], 
+   "end": "19.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Finanzkrise, "
+   ]
+  }, 
+  {
+   "begin": "19.200", 
+   "children": [], 
+   "end": "20.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die vor zehn Jahren ausgebrochen ist, "
+   ]
+  }, 
+  {
+   "begin": "20.280", 
+   "children": [], 
+   "end": "22.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "kommt inzwischen bei der Altersvorsorge in Deutschland an. "
+   ]
+  }, 
+  {
+   "begin": "22.760", 
+   "children": [], 
+   "end": "25.560", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Lebensversicherungen mussten reihenweise die \u00dcberschussbeteiligungen k\u00fcrzen, "
+   ]
+  }, 
+  {
+   "begin": "25.560", 
+   "children": [], 
+   "end": "29.760", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "und schon 27\u00a0Pensionskassen in Deutschland mussten den Rentenfaktor anpassen. "
+   ]
+  }, 
+  {
+   "begin": "29.760", 
+   "children": [], 
+   "end": "32.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet weniger Rente f\u00fcr die Menschen in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "32.720", 
+   "children": [], 
+   "end": "34.200", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben kein Wort dazu gesagt,"
+   ]
+  }, 
+  {
+   "begin": "34.200", 
+   "children": [], 
+   "end": "35.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "obwohl das viele Menschen verunsichert und gerade die Politik, "
+   ]
+  }, 
+  {
+   "begin": "35.680", 
+   "children": [], 
+   "end": "37.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die zu privater Vorsorge aufgefordert hat, "
+   ]
+  }, 
+  {
+   "begin": "37.560", 
+   "children": [], 
+   "end": "38.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "hierauf eine Antwort geben muss. "
+   ]
+  }, 
+  {
+   "begin": "38.520", 
+   "children": [], 
+   "end": "38.521", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    ". "
+   ]
+  }, 
+  {
+   "begin": "38.521", 
+   "children": [], 
+   "end": "39.800", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber 50\u00a0000\u00a0Menschen machen sich Sorgen, "
+   ]
+  }, 
+  {
+   "begin": "39.800", 
+   "children": [], 
+   "end": "40.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "ob ihr Geld weg ist. "
+   ]
+  }, 
+  {
+   "begin": "40.040", 
+   "children": [], 
+   "end": "41.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wort dazu vom neuen Bundesfinanzminister! "
+   ]
+  }, 
+  {
+   "begin": "41.720", 
+   "children": [], 
+   "end": "42.240", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD hat im Wahlkampf oft gesagt, "
+   ]
+  }, 
+  {
+   "begin": "42.240", 
+   "children": [], 
+   "end": "42.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass man beim Thema \u201etoo big to fail\u201c, "
+   ]
+  }, 
+  {
+   "begin": "42.680", 
+   "children": [], 
+   "end": "43.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "also dass die Banken noch immer so gro\u00df sind, "
+   ]
+  }, 
+  {
+   "begin": "43.800", 
+   "children": [], 
+   "end": "44.400", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass sie uns auf die F\u00fc\u00dfe fallen k\u00f6nnten, "
+   ]
+  }, 
+  {
+   "begin": "44.400", 
+   "children": [], 
+   "end": "44.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "etwas tun sollte. "
+   ]
+  }, 
+  {
+   "begin": "44.800", 
+   "children": [], 
+   "end": "46.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Von einem Trennbankensystem war die Rede. "
+   ]
+  }, 
+  {
+   "begin": "46.240", 
+   "children": [], 
+   "end": "47.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Nichts davon haben Sie erw\u00e4hnt. "
+   ]
+  }, 
+  {
+   "begin": "47.480", 
+   "children": [], 
+   "end": "47.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Man k\u00f6nnte meinen, "
+   ]
+  }, 
+  {
+   "begin": "47.680", 
+   "children": [], 
+   "end": "49.400", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass auf dem Finanzmarkt alles in Ordnung sei. "
+   ]
+  }, 
+  {
+   "begin": "49.400", 
+   "children": [], 
+   "end": "50.480", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Dabei machen sich viele Menschen zu Recht Sorgen. "
+   ]
+  }, 
+  {
+   "begin": "50.480", 
+   "children": [], 
+   "end": "52.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "An den Sorgen der kleinen Menschen haben Sie v\u00f6llig vorbeigesprochen."
+   ]
+  }, 
+  {
+   "begin": "52.640", 
+   "children": [], 
+   "end": "52.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Man k\u00f6nnte sagen: "
+   ]
+  }, 
+  {
+   "begin": "52.880", 
+   "children": [], 
+   "end": "53.360", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "In der ersten Rede kann der neue Bundesfinanzminister nicht alles bringen; "
+   ]
+  }, 
+  {
+   "begin": "53.360", 
+   "children": [], 
+   "end": "54.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr gibt es den Koalitionsvertrag. "
+   ]
+  }, 
+  {
+   "begin": "54.480", 
+   "children": [], 
+   "end": "55.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man aber in den Koalitionsvertrag schaut, "
+   ]
+  }, 
+  {
+   "begin": "55.680", 
+   "children": [], 
+   "end": "56.320", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "stellt man fest, "
+   ]
+  }, 
+  {
+   "begin": "56.320", 
+   "children": [], 
+   "end": "57.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass dort zu diesen Themen auch nichts steht. "
+   ]
+  }, 
+  {
+   "begin": "57.560", 
+   "children": [], 
+   "end": "60.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wort zu der historisch schwierigen Lage der deutschen Lebensversicherungen! "
+   ]
+  }, 
+  {
+   "begin": "60.360", 
+   "children": [], 
+   "end": "62.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "90\u00a0Millionen Vertr\u00e4ge sind sozusagen im Feuer, "
+   ]
+  }, 
+  {
+   "begin": "62.000", 
+   "children": [], 
+   "end": "63.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "und die Menschen fragen sich: "
+   ]
+  }, 
+  {
+   "begin": "63.200", 
+   "children": [], 
+   "end": "64.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Was passiert da eigentlich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "64.320", 
+   "children": [], 
+   "end": "65.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Auch kein Wort zu dem Thema, "
+   ]
+  }, 
+  {
+   "begin": "65.600", 
+   "children": [], 
+   "end": "66.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "das nun bei der Deutschen Bank erneut deutlich geworden ist: "
+   ]
+  }, 
+  {
+   "begin": "66.720", 
+   "children": [], 
+   "end": "67.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wie kann es eigentlich sein, "
+   ]
+  }, 
+  {
+   "begin": "67.320", 
+   "children": [], 
+   "end": "69.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Institut Verluste macht und dass trotzdem Milliardenboni ausgezahlt werden? "
+   ]
+  }, 
+  {
+   "begin": "69.960", 
+   "children": [], 
+   "end": "72.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Was ist das denn f\u00fcr eine Politik des Zusammenhalts in unserer Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "72.120", 
+   "children": [], 
+   "end": "75.080", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "wenn solche Fragen von einem Bundesfinanzminister noch nicht einmal angesprochen werden?"
+   ]
+  }, 
+  {
+   "begin": "75.080", 
+   "children": [], 
+   "end": "76.600", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Da ist eine riesige L\u00fccke. "
+   ]
+  }, 
+  {
+   "begin": "76.600", 
+   "children": [], 
+   "end": "78.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein weites Feld f\u00fcr einen Finanzminister, "
+   ]
+  }, 
+  {
+   "begin": "78.520", 
+   "children": [], 
+   "end": "81.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "weil im Koalitionsvertrag dazu nichts steht. "
+   ]
+  }, 
+  {
+   "begin": "81.400", 
+   "children": [], 
+   "end": "81.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Nun haben wir, "
+   ]
+  }, 
+  {
+   "begin": "81.800", 
+   "children": [], 
+   "end": "82.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "nachdem Sie gesagt haben, "
+   ]
+  }, 
+  {
+   "begin": "84.480", 
+   "children": [], 
+   "end": "86.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "wer die Arbeit beim Thema Finanzmarkt leisten soll, "
+   ]
+  }, 
+  {
+   "begin": "86.080", 
+   "children": [], 
+   "end": "86.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "eine erste Ahnung, "
+   ]
+  }, 
+  {
+   "begin": "86.560", 
+   "children": [], 
+   "end": "88.200", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie diese L\u00fccke f\u00fcllen wollen. "
+   ]
+  }, 
+  {
+   "begin": "88.200", 
+   "children": [], 
+   "end": "88.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Die Bewertung in unserer Bev\u00f6lkerung ist sehr nahe bei dem, "
+   ]
+  }, 
+  {
+   "begin": "88.880", 
+   "children": [], 
+   "end": "90.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "was ich in den letzten Tagen ge\u00e4u\u00dfert habe. "
+   ]
+  }, 
+  {
+   "begin": "90.280", 
+   "children": [], 
+   "end": "92.560", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ein Topinvestmentbanker diese inhaltliche L\u00fccke des Koalitionsvertrages f\u00fcllen soll, "
+   ]
+  }, 
+  {
+   "begin": "92.560", 
+   "children": [], 
+   "end": "93.240", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dann stellt sich doch die Frage: "
+   ]
+  }, 
+  {
+   "begin": "93.240", 
+   "children": [], 
+   "end": "94.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wird das eine Finanzpolitik f\u00fcr Menschen mit kleinen Einkommen, "
+   ]
+  }, 
+  {
+   "begin": "94.320", 
+   "children": [], 
+   "end": "94.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "B\u00fcrgerinnen und B\u00fcrger, "
+   ]
+  }, 
+  {
+   "begin": "94.400", 
+   "children": [], 
+   "end": "95.160", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitnehmer und ehrliche Sparer, "
+   ]
+  }, 
+  {
+   "begin": "95.160", 
+   "children": [], 
+   "end": "96.880", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "oder wird das wieder eine Finanzpolitik f\u00fcr die Zocker? "
+   ]
+  }, 
+  {
+   "begin": "96.880", 
+   "children": [], 
+   "end": "98.280", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Da mache ich mir bei Ihnen ehrliche Sorgen."
+   ]
+  }, 
+  {
+   "begin": "98.280", 
+   "children": [], 
+   "end": "99.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt ja leider ein Vorbild: "
+   ]
+  }, 
+  {
+   "begin": "99.560", 
+   "children": [], 
+   "end": "104.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Vorvorg\u00e4nger Steinbr\u00fcck hat sich ebenfalls auf einen Finanzmarktexperten verlassen und hat sich kaum um diese Themen gek\u00fcmmert. "
+   ]
+  }, 
+  {
+   "begin": "104.160", 
+   "children": [], 
+   "end": "104.960", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Am Ende war es so, "
+   ]
+  }, 
+  {
+   "begin": "104.960", 
+   "children": [], 
+   "end": "105.440", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dass er feststellen musste: "
+   ]
+  }, 
+  {
+   "begin": "105.440", 
+   "children": [], 
+   "end": "106.320", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Da ist nichts von einer schwarzen Null, "
+   ]
+  }, 
+  {
+   "begin": "106.320", 
+   "children": [], 
+   "end": "110.000", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "sondern da sind Milliardenlasten f\u00fcr die Steuerzahlerinnen und Steuerzahler in Deutschland.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "110.000", 
+   "children": [], 
+   "end": "110.640", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen fordere ich Sie auf: "
+   ]
+  }, 
+  {
+   "begin": "110.640", 
+   "children": [], 
+   "end": "111.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Sorgen Sie daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "111.000", 
+   "children": [], 
+   "end": "112.480", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "dass diese L\u00fccke im Koalitionsvertrag so gef\u00fcllt wird, "
+   ]
+  }, 
+  {
+   "begin": "112.480", 
+   "children": [], 
+   "end": "115.240", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass die Lasten dieser Finanzkrise fair verteilt werden und dass die Sorgen der Menschen ernst genommen werden, "
+   ]
+  }, 
+  {
+   "begin": "115.240", 
+   "children": [], 
+   "end": "117.520", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "dass die Finanzspekulanten aus unseren Wohnungsm\u00e4rkten herausgehalten werden! "
+   ]
+  }, 
+  {
+   "begin": "117.520", 
+   "children": [], 
+   "end": "118.160", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Das ist Ihre Aufgabe. "
+   ]
+  }, 
+  {
+   "begin": "118.160", 
+   "children": [], 
+   "end": "118.880", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Bei der n\u00e4chsten Regierungserkl\u00e4rung, "
+   ]
+  }, 
+  {
+   "begin": "118.880", 
+   "children": [], 
+   "end": "119.600", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "die Sie abgeben, "
+   ]
+  }, 
+  {
+   "begin": "119.600", 
+   "children": [], 
+   "end": "121.360", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chten wir dazu aber wirklich etwas h\u00f6ren."
+   ]
+  }, 
+  {
+   "begin": "121.360", 
+   "children": [], 
+   "end": "123.120", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Lothar Binding, "
+   ]
+  }, 
+  {
+   "begin": "123.120", 
+   "children": [], 
+   "end": "123.960", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "SPD."
+   ]
+  }
+ ]
+}

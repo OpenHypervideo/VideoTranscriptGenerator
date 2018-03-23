@@ -1,0 +1,794 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "children": [], 
+   "end": "9.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "children": [], 
+   "end": "9.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Frau M\u00f6ller, "
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "children": [], 
+   "end": "10.000", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "jetzt h\u00f6ren Sie mal zu, "
+   ]
+  }, 
+  {
+   "begin": "10.000", 
+   "children": [], 
+   "end": "11.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "da k\u00f6nnen Sie noch was lernen!"
+   ]
+  }, 
+  {
+   "begin": "11.560", 
+   "children": [], 
+   "end": "21.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Mit Kosten von etwa 6\u00a0Millionen Euro geh\u00f6rt der Sea-Guardian-Einsatz zu den g\u00fcnstigeren Bundeswehrmandaten. "
+   ]
+  }, 
+  {
+   "begin": "21.440", 
+   "children": [], 
+   "end": "26.440", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem muss auch dieses Mandat vern\u00fcnftig begr\u00fcndet werden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "26.440", 
+   "children": [], 
+   "end": "30.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben nicht nur gegen\u00fcber dem Steuerzahler, "
+   ]
+  }, 
+  {
+   "begin": "30.280", 
+   "children": [], 
+   "end": "32.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch gegen\u00fcber der Marine eine Verantwortung, "
+   ]
+  }, 
+  {
+   "begin": "32.360", 
+   "children": [], 
+   "end": "37.600", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "die aufgrund personeller und materieller Engp\u00e4sse an die Grenzen ihrer Belastungsf\u00e4higkeit st\u00f6\u00dft."
+   ]
+  }, 
+  {
+   "begin": "37.600", 
+   "children": [], 
+   "end": "40.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Die Aufgaben von Sea Guardian, "
+   ]
+  }, 
+  {
+   "begin": "40.680", 
+   "children": [], 
+   "end": "46.720", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "also Schutz von B\u00fcndnispartnern sowie Kampf gegen Terror und Waffenschmuggel im Mittelmeer, "
+   ]
+  }, 
+  {
+   "begin": "46.720", 
+   "children": [], 
+   "end": "49.560", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "klingen auf dem Papier erst einmal sinnvoll. "
+   ]
+  }, 
+  {
+   "begin": "49.560", 
+   "children": [], 
+   "end": "54.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Tats\u00e4chlich erfordert die Sicherheitslage im Mittelmeer diesen Einsatz aber nicht. "
+   ]
+  }, 
+  {
+   "begin": "54.240", 
+   "children": [], 
+   "end": "60.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Im Mittelmeer ist ein st\u00e4ndiger maritimer Einsatzverband der NATO mit mehreren Fregatten pr\u00e4sent. "
+   ]
+  }, 
+  {
+   "begin": "60.360", 
+   "children": [], 
+   "end": "65.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Einsatzverband sch\u00fctzt das NATO-B\u00fcndnis und sorgt f\u00fcr ein Lagebild im Mittelmeer. "
+   ]
+  }, 
+  {
+   "begin": "65.680", 
+   "children": [], 
+   "end": "68.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ein Sea-Guardian-Mandat wird daf\u00fcr nicht ben\u00f6tigt."
+   ]
+  }, 
+  {
+   "begin": "68.680", 
+   "children": [], 
+   "end": "77.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "In den Reden zu Sea Guardian wird immer wieder gerne betont, "
+   ]
+  }, 
+  {
+   "begin": "77.280", 
+   "children": [], 
+   "end": "81.120", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wie wichtig freie Handelswege zur See seien. "
+   ]
+  }, 
+  {
+   "begin": "81.120", 
+   "children": [], 
+   "end": "82.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Das ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "82.440", 
+   "children": [], 
+   "end": "84.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "aber es geht am Kern vorbei; "
+   ]
+  }, 
+  {
+   "begin": "84.640", 
+   "children": [], 
+   "end": "87.720", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "denn nicht die allgemeine Wichtigkeit des Seehandels, "
+   ]
+  }, 
+  {
+   "begin": "87.720", 
+   "children": [], 
+   "end": "92.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "sondern die Bedrohungslage im Mittelmeer muss hier bewertet werden. "
+   ]
+  }, 
+  {
+   "begin": "92.120", 
+   "children": [], 
+   "end": "99.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wie viele Terroristen wurden denn im Rahmen von Sea Guardian bisher bek\u00e4mpft und wie viele Waffenschmuggler aufgebracht? "
+   ]
+  }, 
+  {
+   "begin": "99.120", 
+   "children": [], 
+   "end": "99.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Den Feind, "
+   ]
+  }, 
+  {
+   "begin": "99.880", 
+   "children": [], 
+   "end": "102.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dem hier zu Leibe ger\u00fcckt werden soll, "
+   ]
+  }, 
+  {
+   "begin": "102.160", 
+   "children": [], 
+   "end": "103.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "gibt es nicht. "
+   ]
+  }, 
+  {
+   "begin": "103.240", 
+   "children": [], 
+   "end": "104.080", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin froh, "
+   ]
+  }, 
+  {
+   "begin": "104.080", 
+   "children": [], 
+   "end": "107.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "nicht Mitglied von CDU oder SPD zu sein"
+   ]
+  }, 
+  {
+   "begin": "107.040", 
+   "children": [], 
+   "end": "109.960", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und mir irgendeinen Unsinn ausdenken zu m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "109.960", 
+   "children": [], 
+   "end": "111.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "um dar\u00fcber hinwegzut\u00e4uschen."
+   ]
+  }, 
+  {
+   "begin": "111.880", 
+   "children": [], 
+   "end": "122.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr Au\u00dfenstehende kann das bisweilen ganz lustig sein. "
+   ]
+  }, 
+  {
+   "begin": "122.840", 
+   "children": [], 
+   "end": "124.880", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Vonseiten der CDU h\u00f6rt man, "
+   ]
+  }, 
+  {
+   "begin": "124.880", 
+   "children": [], 
+   "end": "129.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass gerade deshalb weder Waffenschmuggler noch Terroristen im Mittelmeer seien, "
+   ]
+  }, 
+  {
+   "begin": "129.240", 
+   "children": [], 
+   "end": "132.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "weil sie Angst vor Sea Guardian h\u00e4tten. "
+   ]
+  }, 
+  {
+   "begin": "132.160", 
+   "children": [], 
+   "end": "136.520", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Dass noch kein einziger Terrorist bek\u00e4mpft und kaum Waffenschmuggler aufgegriffen wurden, "
+   ]
+  }, 
+  {
+   "begin": "136.520", 
+   "children": [], 
+   "end": "139.440", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "sehen Sie als gro\u00dfen Erfolg."
+   ]
+  }, 
+  {
+   "begin": "139.440", 
+   "children": [], 
+   "end": "144.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Zu diesem rhetorischen Geniestreich begl\u00fcckw\u00fcnsche ich die CDU ausdr\u00fccklich; "
+   ]
+  }, 
+  {
+   "begin": "144.720", 
+   "children": [], 
+   "end": "149.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "denn damit sind zuk\u00fcnftigen Mandaten keinerlei Grenzen mehr gesetzt. "
+   ]
+  }, 
+  {
+   "begin": "149.280", 
+   "children": [], 
+   "end": "154.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Auf einer solchen Grundlage k\u00f6nnten Sie auch ein Mandat zur Abwehr von Dinosauriern beschlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "154.880", 
+   "children": [], 
+   "end": "156.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wenn keine Dinosaurier auftauchen, "
+   ]
+  }, 
+  {
+   "begin": "156.920", 
+   "children": [], 
+   "end": "157.360", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "sagen Sie: "
+   ]
+  }, 
+  {
+   "begin": "157.360", 
+   "children": [], 
+   "end": "157.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Sehen Sie, "
+   ]
+  }, 
+  {
+   "begin": "157.960", 
+   "children": [], 
+   "end": "159.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "so gut wirkt unser Mandat."
+   ]
+  }, 
+  {
+   "begin": "159.760", 
+   "children": [], 
+   "end": "170.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Teil des Auftrages von Sea Guardian\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.400", 
+   "children": [], 
+   "end": "172.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "jetzt wird es f\u00fcr Sie interessant, "
+   ]
+  }, 
+  {
+   "begin": "172.040", 
+   "children": [], 
+   "end": "172.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Frau M\u00f6ller\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "172.880", 
+   "children": [], 
+   "end": "177.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "ist auch die informationelle und logistische Unterst\u00fctzung der Operation Sophia. "
+   ]
+  }, 
+  {
+   "begin": "177.760", 
+   "children": [], 
+   "end": "179.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wir beschlie\u00dfen also heute ein Mandat, "
+   ]
+  }, 
+  {
+   "begin": "179.960", 
+   "children": [], 
+   "end": "181.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dessen Aufgabe es ist, "
+   ]
+  }, 
+  {
+   "begin": "181.800", 
+   "children": [], 
+   "end": "187.040", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die Operation Sophia bei ihrer Auftragserf\u00fcllung zu unterst\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "187.040", 
+   "children": [], 
+   "end": "190.800", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Sea Guardian und Sophia arbeiten eng zusammen. "
+   ]
+  }, 
+  {
+   "begin": "190.800", 
+   "children": [], 
+   "end": "193.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Dass es auch in Zukunft so bleiben soll, "
+   ]
+  }, 
+  {
+   "begin": "193.040", 
+   "children": [], 
+   "end": "196.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "geht aus dem Antrag der Bundesregierung klar hervor. "
+   ]
+  }, 
+  {
+   "begin": "196.720", 
+   "children": [], 
+   "end": "198.960", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Und da soll es egal sein, "
+   ]
+  }, 
+  {
+   "begin": "198.960", 
+   "children": [], 
+   "end": "200.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "worin der Auftrag besteht, "
+   ]
+  }, 
+  {
+   "begin": "200.640", 
+   "children": [], 
+   "end": "202.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "den wir unterst\u00fctzen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "202.720", 
+   "children": [], 
+   "end": "203.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wer kritisiert, "
+   ]
+  }, 
+  {
+   "begin": "203.760", 
+   "children": [], 
+   "end": "210.200", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass in unsere Bewertung des Sea-Guardian-Einsatzes auch eine Bewertung der Operation Sophia einflie\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "210.200", 
+   "children": [], 
+   "end": "211.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "der hat bewiesen, "
+   ]
+  }, 
+  {
+   "begin": "211.360", 
+   "children": [], 
+   "end": "212.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass er keine Lust hatte, "
+   ]
+  }, 
+  {
+   "begin": "212.800", 
+   "children": [], 
+   "end": "214.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "den Antragstext zu lesen, "
+   ]
+  }, 
+  {
+   "begin": "214.680", 
+   "children": [], 
+   "end": "225.160", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "oder dass ihm eine vollst\u00e4ndige Betrachtung des Themas zu anstrengend war."
+   ]
+  }, 
+  {
+   "begin": "225.160", 
+   "children": [], 
+   "end": "233.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Die Operation Sophia richtet sich gegen irregul\u00e4re Migration und hat selbst bisher 36\u00a0000\u00a0Migranten nach Europa gebracht. "
+   ]
+  }, 
+  {
+   "begin": "233.800", 
+   "children": [], 
+   "end": "236.560", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Was Thomas de Maizi\u00e8re \u00fcber Mare Nostrum sagte, "
+   ]
+  }, 
+  {
+   "begin": "236.560", 
+   "children": [], 
+   "end": "237.880", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "stimmt auch hier: "
+   ]
+  }, 
+  {
+   "begin": "237.880", 
+   "children": [], 
+   "end": "241.520", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Das Mandat ist eine Br\u00fccke nach Europa."
+   ]
+  }, 
+  {
+   "begin": "241.520", 
+   "children": [], 
+   "end": "251.360", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Daran hat Sea Guardian als eines der Augen der Operation Sophia seinen Anteil. "
+   ]
+  }, 
+  {
+   "begin": "251.360", 
+   "children": [], 
+   "end": "254.200", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich \u00fcber jeden Geretteten. "
+   ]
+  }, 
+  {
+   "begin": "254.200", 
+   "children": [], 
+   "end": "256.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir m\u00fcssen anerkennen, "
+   ]
+  }, 
+  {
+   "begin": "256.120", 
+   "children": [], 
+   "end": "263.120", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass die Verbringung durch deutsche Streitkr\u00e4fte l\u00e4ngst Teil der Schlepperstrategie geworden ist."
+   ]
+  }, 
+  {
+   "begin": "263.120", 
+   "children": [], 
+   "end": "278.360", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Eine direkte R\u00fcckf\u00fchrung nach Afrika trocknet den Schleppermarkt aus und verhindert f\u00fcr die Zukunft lebensgef\u00e4hrliche \u00dcberfahrten."
+   ]
+  }, 
+  {
+   "begin": "278.360", 
+   "children": [], 
+   "end": "285.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Unser Entschlie\u00dfungsantrag ist die effektivste L\u00f6sung."
+   ]
+  }, 
+  {
+   "begin": "285.480", 
+   "children": [], 
+   "end": "290.320", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Die \u00fcbrigen Fraktionen wollen aber auch in Zukunft Migranten nach Europa fahren. "
+   ]
+  }, 
+  {
+   "begin": "290.320", 
+   "children": [], 
+   "end": "307.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Das m\u00fcssen Sie dann Ihren W\u00e4hlern erkl\u00e4ren."
+   ]
+  }, 
+  {
+   "begin": "307.600", 
+   "children": [], 
+   "end": "310.360", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden dem Antrag und dem Mandat heute nicht zustimmen."
+   ]
+  }, 
+  {
+   "begin": "310.360", 
+   "children": [], 
+   "end": "310.720", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "310.720", 
+   "children": [], 
+   "end": "310.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner: "
+   ]
+  }, 
+  {
+   "begin": "310.960", 
+   "children": [], 
+   "end": "312.000", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Roderich Kiesewetter f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

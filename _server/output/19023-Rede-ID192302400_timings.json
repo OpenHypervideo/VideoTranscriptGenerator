@@ -1,0 +1,954 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "7.080", 
+   "children": [], 
+   "end": "10.360", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "children": [], 
+   "end": "15.520", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Vergleich zwischen der \u201eTitanic\u201c und Deutschland ist nicht ganz zutreffend. "
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "children": [], 
+   "end": "15.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "15.760", 
+   "children": [], 
+   "end": "16.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "es wird bei uns getanzt, "
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "children": [], 
+   "end": "19.120", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend das Schiff schon sinkt, "
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "children": [], 
+   "end": "23.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "aber im Gegensatz zur \u201eTitanic\u201c hat Deutschland nicht einen Eisberg gerammt. "
+   ]
+  }, 
+  {
+   "begin": "23.360", 
+   "children": [], 
+   "end": "26.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr hat die eigene Besatzung die Sprengladung an die Schiffsh\u00fclle gelegt."
+   ]
+  }, 
+  {
+   "begin": "26.840", 
+   "children": [], 
+   "end": "29.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Zum Tanzen: "
+   ]
+  }, 
+  {
+   "begin": "29.440", 
+   "children": [], 
+   "end": "34.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die Regierung feiert ein Wirtschaftswachstum von 2,2\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "34.800", 
+   "children": [], 
+   "end": "37.960", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wobei der EU-Durchschnitt bei 2,4\u00a0Prozent liegt. "
+   ]
+  }, 
+  {
+   "begin": "37.960", 
+   "children": [], 
+   "end": "40.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Man klopft sich selbst daf\u00fcr auf die Schultern, "
+   ]
+  }, 
+  {
+   "begin": "40.800", 
+   "children": [], 
+   "end": "44.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass ein wesentlicher Teil dem Konsum geschuldet ist. "
+   ]
+  }, 
+  {
+   "begin": "44.440", 
+   "children": [], 
+   "end": "45.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich! "
+   ]
+  }, 
+  {
+   "begin": "45.960", 
+   "children": [], 
+   "end": "55.600", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Vollkosten beim Themenfeld \u201eAsyl und Ausl\u00e4nderversorgung\u201c liegen inzwischen wahrscheinlich im Bereich von \u00fcber 60\u00a0Milliarden Euro und sind gut versteckt in vielen Budgets,"
+   ]
+  }, 
+  {
+   "begin": "55.600", 
+   "children": [], 
+   "end": "59.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und es geht munter weiter mit dem Bev\u00f6lkerungsaustausch: "
+   ]
+  }, 
+  {
+   "begin": "59.520", 
+   "children": [], 
+   "end": "63.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "eine Einwanderung dominant in die Sozialsysteme,"
+   ]
+  }, 
+  {
+   "begin": "63.040", 
+   "children": [], 
+   "end": "67.480", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "und nur ein einstelliger Prozentsatz ist beruflich integrierbar."
+   ]
+  }, 
+  {
+   "begin": "67.480", 
+   "children": [], 
+   "end": "69.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "So weit zum Fachkr\u00e4ftemangel, "
+   ]
+  }, 
+  {
+   "begin": "69.720", 
+   "children": [], 
+   "end": "74.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "der sich mir bei 530\u00a0Millionen Europ\u00e4ern eh nie erschlossen hat. "
+   ]
+  }, 
+  {
+   "begin": "74.640", 
+   "children": [], 
+   "end": "76.800", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland ist ein Land geworden, "
+   ]
+  }, 
+  {
+   "begin": "76.800", 
+   "children": [], 
+   "end": "79.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "von dem man gut und gerne leben kann, "
+   ]
+  }, 
+  {
+   "begin": "79.560", 
+   "children": [], 
+   "end": "81.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "egal woher man kommt."
+   ]
+  }, 
+  {
+   "begin": "81.200", 
+   "children": [], 
+   "end": "92.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Mit wenigen Milliarden h\u00e4tte man nach UN-Angaben den wirklich gef\u00e4hrdeten Menschen in der Umgebung der Krisenregionen komfortabel helfen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "92.960", 
+   "children": [], 
+   "end": "95.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und unsere CO 2 -Ziele w\u00e4ren erreichbarer geworden. "
+   ]
+  }, 
+  {
+   "begin": "95.640", 
+   "children": [], 
+   "end": "101.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ziehen wir nun diese boomende Sozialindustrie mit \u00fcber 60\u00a0Milliarden Euro Umsatz ab, "
+   ]
+  }, 
+  {
+   "begin": "101.920", 
+   "children": [], 
+   "end": "105.200", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "so verschwinden etwa 2\u00a0Prozent des Bruttoinlandsprodukts, "
+   ]
+  }, 
+  {
+   "begin": "105.200", 
+   "children": [], 
+   "end": "111.240", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "und Deutschland w\u00fcrde auf dem letzten Wachstumsplatz in der europ\u00e4ischen Wirtschaft landen. "
+   ]
+  }, 
+  {
+   "begin": "111.240", 
+   "children": [], 
+   "end": "115.440", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wie war das nochmals mit der \u201eTitanic\u201c und dem Tanzen?"
+   ]
+  }, 
+  {
+   "begin": "115.440", 
+   "children": [], 
+   "end": "118.040", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wie wird das alles finanziert? "
+   ]
+  }, 
+  {
+   "begin": "118.040", 
+   "children": [], 
+   "end": "123.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Mit den Niedrigzinsen spart sich der Staat in etwa diesen Kostenblock f\u00fcr nichtdeutsche Probleme, "
+   ]
+  }, 
+  {
+   "begin": "123.440", 
+   "children": [], 
+   "end": "131.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "wobei mit der geplanten Sozialunion Zahlungen an die EU in H\u00f6he eines zus\u00e4tzlichen zweistelligen Milliardenbetrags anstehen. "
+   ]
+  }, 
+  {
+   "begin": "131.280", 
+   "children": [], 
+   "end": "141.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Nach einer DZ-Bank-Studie zu Verlierern und Gewinnern der Niedrigzinspolitik machte der deutsche Sparer bis 2016 unter dem Strich 200\u00a0Milliarden Euro Verlust. "
+   ]
+  }, 
+  {
+   "begin": "141.840", 
+   "children": [], 
+   "end": "142.720", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine gigantische, "
+   ]
+  }, 
+  {
+   "begin": "142.720", 
+   "children": [], 
+   "end": "147.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "perfide Umverteilung f\u00fcr eine unfassbare Politik, "
+   ]
+  }, 
+  {
+   "begin": "147.080", 
+   "children": [], 
+   "end": "152.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "in deren Folge unser Land in allen Bereichen in Richtung Dritte Welt gesto\u00dfen wird."
+   ]
+  }, 
+  {
+   "begin": "152.400", 
+   "children": [], 
+   "end": "157.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Zusammengefasst kann man dies nur Auspl\u00fcnderung und Ausl\u00f6schung nennen."
+   ]
+  }, 
+  {
+   "begin": "157.480", 
+   "children": [], 
+   "end": "163.000", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "18\u00a0Milliarden Euro f\u00fcr den deutschen Steuerzahler durch den sofortigen Fortfall des Soli, "
+   ]
+  }, 
+  {
+   "begin": "163.000", 
+   "children": [], 
+   "end": "164.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "wenn man einem AfD-Antrag folgen w\u00fcrde: "
+   ]
+  }, 
+  {
+   "begin": "164.920", 
+   "children": [], 
+   "end": "166.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das geht gar nicht. "
+   ]
+  }, 
+  {
+   "begin": "166.640", 
+   "children": [], 
+   "end": "176.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Die gr\u00f6\u00dften f\u00fcnf amerikanischen Konzerne machen einen dreistelligen Milliarden-Euro-Umsatz bei Zahlung von zweistelligen Millionen Euro an Steuern. "
+   ]
+  }, 
+  {
+   "begin": "176.320", 
+   "children": [], 
+   "end": "178.240", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das ist praktisch nichts. "
+   ]
+  }, 
+  {
+   "begin": "178.240", 
+   "children": [], 
+   "end": "183.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Eine Besteuerung internationaler Konzerne geht gar nicht!"
+   ]
+  }, 
+  {
+   "begin": "183.320", 
+   "children": [], 
+   "end": "187.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wie w\u00e4re es mal mit Solidarit\u00e4t mit dem deutschen Schichtarbeiter, "
+   ]
+  }, 
+  {
+   "begin": "187.920", 
+   "children": [], 
+   "end": "189.800", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "der bis 67\u00a0Jahre arbeiten wird, "
+   ]
+  }, 
+  {
+   "begin": "189.800", 
+   "children": [], 
+   "end": "197.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "von struktureller Altersarmut bedroht ist und deshalb zum Schultern dieser Lasten zuk\u00fcnftig wohl noch l\u00e4nger arbeiten muss? "
+   ]
+  }, 
+  {
+   "begin": "197.200", 
+   "children": [], 
+   "end": "198.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Was ist mit den fehlenden Kitapl\u00e4tzen? "
+   ]
+  }, 
+  {
+   "begin": "198.560", 
+   "children": [], 
+   "end": "200.560", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Was ist mit den fehlenden st\u00e4dtischen Wohnungen, "
+   ]
+  }, 
+  {
+   "begin": "200.560", 
+   "children": [], 
+   "end": "203.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die nun auf einmal Milliarden investiert werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "203.640", 
+   "children": [], 
+   "end": "209.240", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "weil Millionen Menschen mit befristetem Aufenthaltsrecht dauerhaft untergebracht werden sollen? "
+   ]
+  }, 
+  {
+   "begin": "209.240", 
+   "children": [], 
+   "end": "211.400", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Welch ein Irrsinn!"
+   ]
+  }, 
+  {
+   "begin": "211.400", 
+   "children": [], 
+   "end": "211.800", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Die Liste, "
+   ]
+  }, 
+  {
+   "begin": "211.800", 
+   "children": [], 
+   "end": "213.720", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "was f\u00fcr Deutsche nicht ging und jetzt geht, "
+   ]
+  }, 
+  {
+   "begin": "213.720", 
+   "children": [], 
+   "end": "216.000", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "ist beliebig lang."
+   ]
+  }, 
+  {
+   "begin": "216.000", 
+   "children": [], 
+   "end": "228.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Die vorhandenen Finanzspielr\u00e4ume h\u00e4tten neben der Linderung unserer eigenen sozialen Probleme auch zur Schuldentilgung im Interesse zuk\u00fcnftiger Generationen oder f\u00fcr einen Staatsfonds nach norwegischem Vorbild genutzt werden k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "228.560", 
+   "children": [], 
+   "end": "234.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "um das langsam erm\u00fcdende Argument der Linken zum Thema Leistungsbilanz\u00fcbersch\u00fcsse zu konterkarieren,"
+   ]
+  }, 
+  {
+   "begin": "234.240", 
+   "children": [], 
+   "end": "236.000", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "oder f\u00fcr Investitionen, "
+   ]
+  }, 
+  {
+   "begin": "236.000", 
+   "children": [], 
+   "end": "238.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel f\u00fcr die Digitalisierung."
+   ]
+  }, 
+  {
+   "begin": "238.520", 
+   "children": [], 
+   "end": "239.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcberhaupt: "
+   ]
+  }, 
+  {
+   "begin": "239.000", 
+   "children": [], 
+   "end": "240.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die Bildung. "
+   ]
+  }, 
+  {
+   "begin": "240.360", 
+   "children": [], 
+   "end": "243.000", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Will ich eine Wirtschaft nachhaltig besch\u00e4digen, "
+   ]
+  }, 
+  {
+   "begin": "243.000", 
+   "children": [], 
+   "end": "246.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "so ist die Zerst\u00f6rung des Bildungssystems das probate Mittel. "
+   ]
+  }, 
+  {
+   "begin": "246.400", 
+   "children": [], 
+   "end": "251.440", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Hier waren die etablierten Parteien sehr erfolgreich:"
+   ]
+  }, 
+  {
+   "begin": "251.440", 
+   "children": [], 
+   "end": "253.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Angriff auf das duale System, "
+   ]
+  }, 
+  {
+   "begin": "253.760", 
+   "children": [], 
+   "end": "255.480", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "der Bachelor- "
+   ]
+  }, 
+  {
+   "begin": "255.480", 
+   "children": [], 
+   "end": "256.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "und Master\u00adunfug, "
+   ]
+  }, 
+  {
+   "begin": "256.640", 
+   "children": [], 
+   "end": "258.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "fast 200\u00a0Gender-Professoren,"
+   ]
+  }, 
+  {
+   "begin": "258.720", 
+   "children": [], 
+   "end": "261.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "immer mehr Sch\u00fcler werden zum Abitur gef\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "261.480", 
+   "children": [], 
+   "end": "263.320", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "mit sinkendem Niveau, "
+   ]
+  }, 
+  {
+   "begin": "263.320", 
+   "children": [], 
+   "end": "267.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Fr\u00fchsexualisierung in der Schule usw."
+   ]
+  }, 
+  {
+   "begin": "267.640", 
+   "children": [], 
+   "end": "275.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Neben dieser Verflachung und dem strukturellen Angriff gibt nun die Einbindung von Kindern aus der Dritten Welt dem System den Rest."
+   ]
+  }, 
+  {
+   "begin": "275.360", 
+   "children": [], 
+   "end": "281.320", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind im Bildungsbereich von einer Vorbildfunktion zu einer internationalen Lachnummer verkommen:"
+   ]
+  }, 
+  {
+   "begin": "281.320", 
+   "children": [], 
+   "end": "283.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Forschungs- "
+   ]
+  }, 
+  {
+   "begin": "283.200", 
+   "children": [], 
+   "end": "288.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "und Entwicklungsausgaben des Bundes und die umstrittene CO 2 -Frage stehen im Vordergrund. "
+   ]
+  }, 
+  {
+   "begin": "288.520", 
+   "children": [], 
+   "end": "292.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Von welchen Innovationen soll unsere Volkswirtschaft zuk\u00fcnftig leben?"
+   ]
+  }, 
+  {
+   "begin": "292.760", 
+   "children": [], 
+   "end": "293.920", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "293.920", 
+   "children": [], 
+   "end": "295.640", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dies ist eine Deindustrialisierungspolitik."
+   ]
+  }, 
+  {
+   "begin": "295.640", 
+   "children": [], 
+   "end": "298.120", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Genannt seien beispielhaft die Kerntechnologie, "
+   ]
+  }, 
+  {
+   "begin": "298.120", 
+   "children": [], 
+   "end": "299.760", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die Behinderung der Biotechnologie, "
+   ]
+  }, 
+  {
+   "begin": "299.760", 
+   "children": [], 
+   "end": "300.880", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "die Stahlindustrie, "
+   ]
+  }, 
+  {
+   "begin": "300.880", 
+   "children": [], 
+   "end": "302.360", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "die Kraftwerksindustrie, "
+   ]
+  }, 
+  {
+   "begin": "302.360", 
+   "children": [], 
+   "end": "305.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "der Angriff auf den Diesel und damit auf unsere Autoindustrie, "
+   ]
+  }, 
+  {
+   "begin": "305.200", 
+   "children": [], 
+   "end": "308.600", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "den Verkauf von Hightechfirmen wie Kuka ins Ausland etc. "
+   ]
+  }, 
+  {
+   "begin": "308.600", 
+   "children": [], 
+   "end": "311.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Soll hier der \u00adMorgenthau-Plan nachtr\u00e4glich realisiert werden?"
+   ]
+  }, 
+  {
+   "begin": "311.720", 
+   "children": [], 
+   "end": "316.320", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Fasse ich alle Aspekte zum Thema Wirtschaftspolitik zusammen, "
+   ]
+  }, 
+  {
+   "begin": "316.320", 
+   "children": [], 
+   "end": "320.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "so habe ich als Deutscher auf diesem sinkenden Schiff schon nasse F\u00fc\u00dfe. "
+   ]
+  }, 
+  {
+   "begin": "320.240", 
+   "children": [], 
+   "end": "320.840", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage mich: "
+   ]
+  }, 
+  {
+   "begin": "320.840", 
+   "children": [], 
+   "end": "322.440", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Woher kommt dieser Deutschenhass, "
+   ]
+  }, 
+  {
+   "begin": "322.440", 
+   "children": [], 
+   "end": "325.440", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "diese auf die eigene Gruppe gerichtete Autoaggression?"
+   ]
+  }, 
+  {
+   "begin": "325.440", 
+   "children": [], 
+   "end": "326.920", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen nur hoffen, "
+   ]
+  }, 
+  {
+   "begin": "326.920", 
+   "children": [], 
+   "end": "333.040", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "dass der W\u00e4hler den etablierten Parteien eine stetig wachsende Rekonvaleszenzzeit verordnet, "
+   ]
+  }, 
+  {
+   "begin": "333.040", 
+   "children": [], 
+   "end": "335.840", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "um unserem Land wieder eine Chance zu geben."
+   ]
+  }, 
+  {
+   "begin": "335.840", 
+   "children": [], 
+   "end": "336.600", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "336.600", 
+   "children": [], 
+   "end": "346.120", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Der n\u00e4chste Redner in der Debatte: "
+   ]
+  }, 
+  {
+   "begin": "346.120", 
+   "children": [], 
+   "end": "349.960", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Bernd Westphal f\u00fcr die SPD-Fraktion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1274 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.720", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "children": [], 
+   "end": "7.120", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "children": [], 
+   "end": "9.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Besucherinnen und Besucher! "
+   ]
+  }, 
+  {
+   "begin": "9.440", 
+   "children": [], 
+   "end": "10.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Herr Minister, "
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "children": [], 
+   "end": "13.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ihre vorgestellten Pl\u00e4ne \u00fcberzeugen mich nicht. "
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "children": [], 
+   "end": "15.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sie \u00fcberzeugen meine Fraktion nicht, "
+   ]
+  }, 
+  {
+   "begin": "15.320", 
+   "children": [], 
+   "end": "18.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und sie werden auch die meisten Menschen in diesem Land nicht \u00fcberzeugen."
+   ]
+  }, 
+  {
+   "begin": "18.560", 
+   "children": [], 
+   "end": "23.880", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Was zum Thema Verkehr unter der F\u00fchrung der CSU seit Jahren betrieben wird, "
+   ]
+  }, 
+  {
+   "begin": "23.880", 
+   "children": [], 
+   "end": "24.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ist eine Politik, "
+   ]
+  }, 
+  {
+   "begin": "24.760", 
+   "children": [], 
+   "end": "30.560", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "die fast ausschlie\u00dflich auf die F\u00f6rderung des Autos und des G\u00fcterverkehrs mit Lkw ausgerichtet ist. "
+   ]
+  }, 
+  {
+   "begin": "30.560", 
+   "children": [], 
+   "end": "31.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Mehr Stra\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "31.720", 
+   "children": [], 
+   "end": "32.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "mehr Autos, "
+   ]
+  }, 
+  {
+   "begin": "32.520", 
+   "children": [], 
+   "end": "33.600", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "mehr Verkehr\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "33.600", 
+   "children": [], 
+   "end": "35.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "das ist bislang Ihr Mantra."
+   ]
+  }, 
+  {
+   "begin": "35.280", 
+   "children": [], 
+   "end": "37.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Was bisher vollkommen fehlt, "
+   ]
+  }, 
+  {
+   "begin": "37.440", 
+   "children": [], 
+   "end": "41.480", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "sind die Zielkoordinaten f\u00fcr unsere Gesellschaft: "
+   ]
+  }, 
+  {
+   "begin": "41.480", 
+   "children": [], 
+   "end": "43.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wie wollen wir eigentlich leben? "
+   ]
+  }, 
+  {
+   "begin": "43.280", 
+   "children": [], 
+   "end": "45.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Was f\u00fcr ein Verkehrssystem, "
+   ]
+  }, 
+  {
+   "begin": "45.040", 
+   "children": [], 
+   "end": "47.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "welche Art von Mobilit\u00e4t wollen wir? "
+   ]
+  }, 
+  {
+   "begin": "47.400", 
+   "children": [], 
+   "end": "50.680", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wie erm\u00f6glichen wir diese Mobilit\u00e4t auch f\u00fcr Menschen mit kleinem Einkommen? "
+   ]
+  }, 
+  {
+   "begin": "50.680", 
+   "children": [], 
+   "end": "53.560", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wohin muss sich die Autoindustrie entwickeln, "
+   ]
+  }, 
+  {
+   "begin": "53.560", 
+   "children": [], 
+   "end": "56.440", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "damit die Arbeitspl\u00e4tze erhalten bleiben? "
+   ]
+  }, 
+  {
+   "begin": "56.440", 
+   "children": [], 
+   "end": "59.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wie sollen unsere vollgestopften St\u00e4dte zuk\u00fcnftig aussehen? "
+   ]
+  }, 
+  {
+   "begin": "59.960", 
+   "children": [], 
+   "end": "66.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Auf alle diese gesellschaftlich wichtigen Fragen haben Sie keine oder nur sehr einseitige Antworten."
+   ]
+  }, 
+  {
+   "begin": "66.520", 
+   "children": [], 
+   "end": "69.880", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die Frage ist also, "
+   ]
+  }, 
+  {
+   "begin": "69.880", 
+   "children": [], 
+   "end": "75.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "vor welcher Herausforderung wir stehen und in welche Richtung wir lenken m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "75.160", 
+   "children": [], 
+   "end": "79.640", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "um unsere Mobilit\u00e4t zuk\u00fcnftig sozial und \u00f6kologisch zu verbessern. "
+   ]
+  }, 
+  {
+   "begin": "79.640", 
+   "children": [], 
+   "end": "82.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben einiges von Ihrem Koalitionspartner geh\u00f6rt; "
+   ]
+  }, 
+  {
+   "begin": "82.520", 
+   "children": [], 
+   "end": "83.000", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "aber, "
+   ]
+  }, 
+  {
+   "begin": "83.000", 
+   "children": [], 
+   "end": "83.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Kollege Bartol, "
+   ]
+  }, 
+  {
+   "begin": "83.640", 
+   "children": [], 
+   "end": "85.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind leider nicht der Minister."
+   ]
+  }, 
+  {
+   "begin": "85.440", 
+   "children": [], 
+   "end": "88.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ich fange mal mit dem Thema an, "
+   ]
+  }, 
+  {
+   "begin": "88.520", 
+   "children": [], 
+   "end": "90.480", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "das uns permanent besch\u00e4ftigt, "
+   ]
+  }, 
+  {
+   "begin": "90.480", 
+   "children": [], 
+   "end": "92.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend die Bundesregierung versucht, "
+   ]
+  }, 
+  {
+   "begin": "92.640", 
+   "children": [], 
+   "end": "94.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "es auszusitzen: "
+   ]
+  }, 
+  {
+   "begin": "94.400", 
+   "children": [], 
+   "end": "97.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dem Abgasbetrug der Autoindustrie bei den Stickoxiden. "
+   ]
+  }, 
+  {
+   "begin": "97.680", 
+   "children": [], 
+   "end": "104.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Michael Bauchm\u00fcller hat in der \u201eS\u00fcddeutschen Zeitung\u201c f\u00fcr das Nichthandeln der Regierung sehr treffende Worte gefunden: "
+   ]
+  }, 
+  {
+   "begin": "104.200", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "106.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "106.680", 
+   "children": [], 
+   "end": "108.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "\u201ereiht Luftnummer an Luftnummer, "
+   ]
+  }, 
+  {
+   "begin": "108.880", 
+   "children": [], 
+   "end": "110.360", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "hat aber nur ein Ziel: "
+   ]
+  }, 
+  {
+   "begin": "110.360", 
+   "children": [], 
+   "end": "115.800", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Zeitgewinn.\u201c Die B\u00fcrgerinnen und B\u00fcrger aber erwarten vollkommen zu Recht von Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "115.800", 
+   "children": [], 
+   "end": "123.160", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie die L\u00f6sung f\u00fcr saubere Luft und f\u00fcr die betrogenen Kundinnen und Kunden der Autokonzerne jetzt finden."
+   ]
+  }, 
+  {
+   "begin": "123.160", 
+   "children": [], 
+   "end": "130.320", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Ein Antrag von uns zur technischen Nachr\u00fcstung der Autos auf Kosten der Autoindustrie liegt jetzt auf dem Tisch. "
+   ]
+  }, 
+  {
+   "begin": "130.320", 
+   "children": [], 
+   "end": "132.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wenn das umgesetzt wird, "
+   ]
+  }, 
+  {
+   "begin": "132.600", 
+   "children": [], 
+   "end": "135.240", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "haben wir z\u00fcgig weniger Schadstoffe in der Luft, "
+   ]
+  }, 
+  {
+   "begin": "135.240", 
+   "children": [], 
+   "end": "141.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "erf\u00fcllen die Autos ihre Umweltversprechen auch im realen Leben und k\u00f6nnen wir auf Fahrverbote weitgehend verzichten."
+   ]
+  }, 
+  {
+   "begin": "141.640", 
+   "children": [], 
+   "end": "149.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Aus stehen aber auch noch Strafzahlungen f\u00fcr die Automobilkonzerne. "
+   ]
+  }, 
+  {
+   "begin": "149.000", 
+   "children": [], 
+   "end": "154.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Es widerspricht dem Rechtsempfinden der meisten Menschen grundlegend, "
+   ]
+  }, 
+  {
+   "begin": "154.320", 
+   "children": [], 
+   "end": "158.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass das kriminelle Verhalten der Autokonzerne ungestraft bleiben soll, "
+   ]
+  }, 
+  {
+   "begin": "158.680", 
+   "children": [], 
+   "end": "164.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend beispielsweise Schwarzfahrer zur Strafe ins Gef\u00e4ngnis m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "164.000", 
+   "children": [], 
+   "end": "167.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Was ist das f\u00fcr ein Missverh\u00e4ltnis?"
+   ]
+  }, 
+  {
+   "begin": "167.720", 
+   "children": [], 
+   "end": "171.560", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Bilanz beim Thema Klimaerw\u00e4rmung ist ebenfalls mehr als mangelhaft. "
+   ]
+  }, 
+  {
+   "begin": "171.560", 
+   "children": [], 
+   "end": "173.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Der Verkehr ist der einzige Sektor, "
+   ]
+  }, 
+  {
+   "begin": "173.480", 
+   "children": [], 
+   "end": "176.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "in dem der CO 2 -Aussto\u00df wieder ansteigt. "
+   ]
+  }, 
+  {
+   "begin": "176.600", 
+   "children": [], 
+   "end": "177.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "\u00adWoran liegt das? "
+   ]
+  }, 
+  {
+   "begin": "177.760", 
+   "children": [], 
+   "end": "182.560", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "An Ihrer einseitigen Ausrichtung auf den motorbasierten Stra\u00dfenverkehr. "
+   ]
+  }, 
+  {
+   "begin": "182.560", 
+   "children": [], 
+   "end": "192.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Immer mehr und immer schwerere PS-st\u00e4rkere Autos mit entsprechend hohem Verbrauch und endlose Lkw-Karawanen verstopfen unsere Stra\u00dfen und Autobahnen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "192.440", 
+   "children": [], 
+   "end": "193.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "ich komme aus dem Ruhrgebiet; "
+   ]
+  }, 
+  {
+   "begin": "193.840", 
+   "children": [], 
+   "end": "194.840", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen sich vorstellen, "
+   ]
+  }, 
+  {
+   "begin": "194.840", 
+   "children": [], 
+   "end": "195.760", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "wie es da aussieht\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "195.760", 
+   "children": [], 
+   "end": "198.120", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "verursachen kilometerlange Staus, "
+   ]
+  }, 
+  {
+   "begin": "198.120", 
+   "children": [], 
+   "end": "201.840", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "viel L\u00e4rm und eine hohe Schadstoffbelastung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "201.840", 
+   "children": [], 
+   "end": "204.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "immer \u00f6fter auch in kleineren Orten an Bundes- "
+   ]
+  }, 
+  {
+   "begin": "204.240", 
+   "children": [], 
+   "end": "205.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "und Landstra\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "205.520", 
+   "children": [], 
+   "end": "210.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "V\u00f6llig widersinnig sind auch Ihre Pl\u00e4ne f\u00fcr die Ausweitung des Dienstwagenprivilegs. "
+   ]
+  }, 
+  {
+   "begin": "210.840", 
+   "children": [], 
+   "end": "216.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Sie geben hohe Steuerrabatte f\u00fcr teure Autos mit hohem Spritverbrauch. "
+   ]
+  }, 
+  {
+   "begin": "216.920", 
+   "children": [], 
+   "end": "223.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Diese Subventionierung setzt vollkommen falsche Nachfragesignale. "
+   ]
+  }, 
+  {
+   "begin": "223.720", 
+   "children": [], 
+   "end": "228.040", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Klimapolitisch werden damit Dinosaurier gef\u00f6rdert."
+   ]
+  }, 
+  {
+   "begin": "228.040", 
+   "children": [], 
+   "end": "233.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wichtige Fortschritte k\u00f6nnen wir durch die Verlagerung auf die Schiene erreichen. "
+   ]
+  }, 
+  {
+   "begin": "233.120", 
+   "children": [], 
+   "end": "237.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch hier sahen wir bislang nur sch\u00f6ne Versprechen der Bundesregierung. "
+   ]
+  }, 
+  {
+   "begin": "237.760", 
+   "children": [], 
+   "end": "241.280", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Im neuen Koalitionsvertrag sieht es jetzt ein bisschen besser aus. "
+   ]
+  }, 
+  {
+   "begin": "241.280", 
+   "children": [], 
+   "end": "243.080", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir hoffen das Beste!"
+   ]
+  }, 
+  {
+   "begin": "243.080", 
+   "children": [], 
+   "end": "247.440", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Einen Fortschritt k\u00f6nnte zum Beispiel der Deutschland-Takt bringen. "
+   ]
+  }, 
+  {
+   "begin": "247.440", 
+   "children": [], 
+   "end": "249.240", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wird dieser verl\u00e4sslich umgesetzt, "
+   ]
+  }, 
+  {
+   "begin": "249.240", 
+   "children": [], 
+   "end": "251.480", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "werden auch wirklich mehr Menschen die Bahn nutzen. "
+   ]
+  }, 
+  {
+   "begin": "251.480", 
+   "children": [], 
+   "end": "253.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Damit der Taktfahrplan funktioniert, "
+   ]
+  }, 
+  {
+   "begin": "253.960", 
+   "children": [], 
+   "end": "255.920", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen die Z\u00fcge p\u00fcnktlich sein. "
+   ]
+  }, 
+  {
+   "begin": "255.920", 
+   "children": [], 
+   "end": "258.400", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Nur dann k\u00f6nnen wir Pendler dazu bewegen, "
+   ]
+  }, 
+  {
+   "begin": "258.400", 
+   "children": [], 
+   "end": "262.800", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass sie vom Auto auf die Bahn umsteigen."
+   ]
+  }, 
+  {
+   "begin": "262.800", 
+   "children": [], 
+   "end": "266.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Ein Vorschlag von uns, "
+   ]
+  }, 
+  {
+   "begin": "266.120", 
+   "children": [], 
+   "end": "269.960", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "den Sie im Zusammenhang mit der Luftreinheit endlich aufgegriffen haben, "
+   ]
+  }, 
+  {
+   "begin": "269.960", 
+   "children": [], 
+   "end": "272.040", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "ist der fahrscheinlose \u00f6ffentliche Nahverkehr. "
+   ]
+  }, 
+  {
+   "begin": "272.040", 
+   "children": [], 
+   "end": "272.520", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Dort, "
+   ]
+  }, 
+  {
+   "begin": "272.520", 
+   "children": [], 
+   "end": "274.600", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "wo der Nahverkehr zuverl\u00e4ssig, "
+   ]
+  }, 
+  {
+   "begin": "274.600", 
+   "children": [], 
+   "end": "276.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "angenehm und bezahlbar ist, "
+   ]
+  }, 
+  {
+   "begin": "276.640", 
+   "children": [], 
+   "end": "278.040", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "wird er auch genutzt. "
+   ]
+  }, 
+  {
+   "begin": "278.040", 
+   "children": [], 
+   "end": "285.520", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr einen dauerhaften Erfolg m\u00fcssen die Kapazit\u00e4ten erheblich ausgeweitet und muss die Finanzierung langfristig gesichert werden."
+   ]
+  }, 
+  {
+   "begin": "285.520", 
+   "children": [], 
+   "end": "288.440", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Auch dazu haben wir einen konkreten Antrag formuliert, "
+   ]
+  }, 
+  {
+   "begin": "288.440", 
+   "children": [], 
+   "end": "297.600", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich einen Antrag f\u00fcr einen schnellen Ausbau des \u00d6PNV in den 20\u00a0St\u00e4dten mit den zurzeit h\u00f6chsten Luftbelastungen."
+   ]
+  }, 
+  {
+   "begin": "297.600", 
+   "children": [], 
+   "end": "300.360", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Mobilit\u00e4t in den St\u00e4dten gilt f\u00fcr uns: "
+   ]
+  }, 
+  {
+   "begin": "300.360", 
+   "children": [], 
+   "end": "304.760", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen wieder lebenswertere statt mit Autos vollgestopfte St\u00e4dte haben, "
+   ]
+  }, 
+  {
+   "begin": "304.760", 
+   "children": [], 
+   "end": "306.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "also St\u00e4dte mit kurzen Wegen, "
+   ]
+  }, 
+  {
+   "begin": "306.960", 
+   "children": [], 
+   "end": "310.920", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "in denen sich alle mit Bussen, "
+   ]
+  }, 
+  {
+   "begin": "310.920", 
+   "children": [], 
+   "end": "314.480", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Fahrr\u00e4dern und zu Fu\u00df frei bewegen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "314.480", 
+   "children": [], 
+   "end": "316.240", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Das ist Freiheit."
+   ]
+  }, 
+  {
+   "begin": "316.240", 
+   "children": [], 
+   "end": "319.640", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Diese Vision der Stadt hat eine Vielzahl von positiven Folgen. "
+   ]
+  }, 
+  {
+   "begin": "319.640", 
+   "children": [], 
+   "end": "321.320", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Unsere St\u00e4dte werden wieder sauberer. "
+   ]
+  }, 
+  {
+   "begin": "321.320", 
+   "children": [], 
+   "end": "322.600", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt weniger L\u00e4rm, "
+   ]
+  }, 
+  {
+   "begin": "322.600", 
+   "children": [], 
+   "end": "324.000", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "weniger Abgase, "
+   ]
+  }, 
+  {
+   "begin": "324.000", 
+   "children": [], 
+   "end": "327.000", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "mehr Platz und einen bezahlbaren Nahverkehr. "
+   ]
+  }, 
+  {
+   "begin": "327.000", 
+   "children": [], 
+   "end": "330.720", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Damit k\u00f6nnten St\u00e4dte wiederbelebt werden. "
+   ]
+  }, 
+  {
+   "begin": "330.720", 
+   "children": [], 
+   "end": "336.720", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Das ist unsere Vision von der Stadt und dem st\u00e4dtischen Verkehr der Zukunft."
+   ]
+  }, 
+  {
+   "begin": "336.720", 
+   "children": [], 
+   "end": "342.800", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Mit den aktuellen Entwicklungen in der Digitalisierung er\u00f6ffnen sich gerade v\u00f6llig neue Chancen; "
+   ]
+  }, 
+  {
+   "begin": "342.800", 
+   "children": [], 
+   "end": "344.600", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "wir haben es eben schon geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "344.600", 
+   "children": [], 
+   "end": "348.280", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Unterst\u00fctzen Sie die Automobilindustrie bitte nicht weiter darin, "
+   ]
+  }, 
+  {
+   "begin": "348.280", 
+   "children": [], 
+   "end": "352.280", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "die Digitalisierung nur f\u00fcr den Absatz neuer Autos zu nutzen! "
+   ]
+  }, 
+  {
+   "begin": "352.280", 
+   "children": [], 
+   "end": "355.760", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "F\u00f6rdern Sie stattdessen umweltfreundliche Verkehrstr\u00e4ger, "
+   ]
+  }, 
+  {
+   "begin": "355.760", 
+   "children": [], 
+   "end": "362.280", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "die mittels Digitalisierung intelligent miteinander verkn\u00fcpft werden und nach Bedarf genutzt werden k\u00f6nnen! "
+   ]
+  }, 
+  {
+   "begin": "362.280", 
+   "children": [], 
+   "end": "365.240", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Elektrifizieren Sie dazu noch Busse und Bahnen! "
+   ]
+  }, 
+  {
+   "begin": "365.240", 
+   "children": [], 
+   "end": "367.720", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Zukunft der Mobilit\u00e4t."
+   ]
+  }, 
+  {
+   "begin": "367.720", 
+   "children": [], 
+   "end": "377.440", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne k\u00e4mpfen wir als Linke f\u00fcr eine echte Verkehrswende mit umweltfreundlicher und bezahlbarer Mobilit\u00e4t f\u00fcr alle."
+   ]
+  }, 
+  {
+   "begin": "377.440", 
+   "children": [], 
+   "end": "380.600", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "380.600", 
+   "children": [], 
+   "end": "382.280", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "382.280", 
+   "children": [], 
+   "end": "384.400", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Remmers.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "384.400", 
+   "children": [], 
+   "end": "386.320", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Bevor ich den n\u00e4chsten Redner aufrufe, "
+   ]
+  }, 
+  {
+   "begin": "386.320", 
+   "children": [], 
+   "end": "388.760", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte ich darauf hinweisen, "
+   ]
+  }, 
+  {
+   "begin": "388.760", 
+   "children": [], 
+   "end": "390.680", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "dass es ungern gesehen wird, "
+   ]
+  }, 
+  {
+   "begin": "390.680", 
+   "children": [], 
+   "end": "391.680", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "um nicht zu sagen, "
+   ]
+  }, 
+  {
+   "begin": "391.680", 
+   "children": [], 
+   "end": "392.880", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "dass es untunlich ist, "
+   ]
+  }, 
+  {
+   "begin": "392.880", 
+   "children": [], 
+   "end": "394.840", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "im Plenarsaal zu telefonieren. "
+   ]
+  }, 
+  {
+   "begin": "394.840", 
+   "children": [], 
+   "end": "396.200", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Das kann man au\u00dferhalb des Plenarsaals machen. "
+   ]
+  }, 
+  {
+   "begin": "396.200", 
+   "children": [], 
+   "end": "397.760", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Ich will jetzt keine Abgeordneten direkt ansprechen. "
+   ]
+  }, 
+  {
+   "begin": "397.760", 
+   "children": [], 
+   "end": "398.760", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Aber es w\u00e4re einfach gut, "
+   ]
+  }, 
+  {
+   "begin": "398.760", 
+   "children": [], 
+   "end": "399.720", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "sich daran zu halten. "
+   ]
+  }, 
+  {
+   "begin": "399.720", 
+   "children": [], 
+   "end": "401.120", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "401.120", 
+   "children": [], 
+   "end": "402.960", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chster Redner der Kollege Oliver Krischer vom B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "children": [], 
+   "end": "9.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "children": [], 
+   "end": "10.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "10.320", 
+   "children": [], 
+   "end": "13.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "zun\u00e4chst w\u00fcnsche ich Ihnen ganz viel Erfolg im neuen Amt; "
+   ]
+  }, 
+  {
+   "begin": "13.720", 
+   "children": [], 
+   "end": "15.600", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "das wird ja nicht ganz einfach. "
+   ]
+  }, 
+  {
+   "begin": "15.600", 
+   "children": [], 
+   "end": "18.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Denn wer in dieser Koalition die Ausrichtung der Gesellschaftspolitik bestimmt, "
+   ]
+  }, 
+  {
+   "begin": "18.840", 
+   "children": [], 
+   "end": "21.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "das ist ja klar geworden: "
+   ]
+  }, 
+  {
+   "begin": "21.320", 
+   "children": [], 
+   "end": "24.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die Union h\u00e4lt die SPD an der kurzen Leine. "
+   ]
+  }, 
+  {
+   "begin": "24.400", 
+   "children": [], 
+   "end": "27.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Das ist vermutlich noch die Quittung f\u00fcr die Ehe f\u00fcr alle. "
+   ]
+  }, 
+  {
+   "begin": "27.280", 
+   "children": [], 
+   "end": "29.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD darf zwar die Ministerin stellen, "
+   ]
+  }, 
+  {
+   "begin": "29.360", 
+   "children": [], 
+   "end": "31.960", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "tanzt aber ansonsten nach der Pfeife der Union\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "31.960", 
+   "children": [], 
+   "end": "33.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "ein Schritt vor und zwei zur\u00fcck."
+   ]
+  }, 
+  {
+   "begin": "33.320", 
+   "children": [], 
+   "end": "35.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Parlament war kurz davor, "
+   ]
+  }, 
+  {
+   "begin": "35.160", 
+   "children": [], 
+   "end": "38.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und zwar trotz der Verweigerungshaltung von Union und AfD, "
+   ]
+  }, 
+  {
+   "begin": "38.520", 
+   "children": [], 
+   "end": "39.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Frauen, "
+   ]
+  }, 
+  {
+   "begin": "39.200", 
+   "children": [], 
+   "end": "41.320", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die \u00fcber einen Schwangerschaftsabbruch nachdenken, "
+   ]
+  }, 
+  {
+   "begin": "41.320", 
+   "children": [], 
+   "end": "45.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "den freien Zugang zu sachlichen Informationen, "
+   ]
+  }, 
+  {
+   "begin": "45.680", 
+   "children": [], 
+   "end": "46.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Frau Nahles, "
+   ]
+  }, 
+  {
+   "begin": "46.040", 
+   "children": [], 
+   "end": "47.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "zu erm\u00f6glichen. "
+   ]
+  }, 
+  {
+   "begin": "47.360", 
+   "children": [], 
+   "end": "49.200", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Sie sollten endlich wie m\u00fcndige B\u00fcrger behandelt werden."
+   ]
+  }, 
+  {
+   "begin": "49.200", 
+   "children": [], 
+   "end": "56.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Dann hat die SPD ihren Gesetzentwurf zu \u00a7\u00a0219a StGB zur\u00fcckgezogen. "
+   ]
+  }, 
+  {
+   "begin": "56.040", 
+   "children": [], 
+   "end": "56.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Ausgerechnet die SPD, "
+   ]
+  }, 
+  {
+   "begin": "56.320", 
+   "children": [], 
+   "end": "56.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die sich, "
+   ]
+  }, 
+  {
+   "begin": "56.720", 
+   "children": [], 
+   "end": "58.280", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "gar nicht so sehr zu Unrecht, "
+   ]
+  }, 
+  {
+   "begin": "58.280", 
+   "children": [], 
+   "end": "59.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr r\u00fchmt, "
+   ]
+  }, 
+  {
+   "begin": "59.000", 
+   "children": [], 
+   "end": "61.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "viel f\u00fcr die Emanzipation der Frau getan zu haben, "
+   ]
+  }, 
+  {
+   "begin": "61.440", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "ist an dieser Stelle eingeknickt."
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin Giffey, "
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "70.560", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wo war denn in Ihrer Rede die glasklare Absage an das \u00fcberholte Frauenbild\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "70.560", 
+   "children": [], 
+   "end": "71.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "die habe ich wirklich vermisst\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "71.760", 
+   "children": [], 
+   "end": "76.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "das der Gesundheitsminister am Wochenende gezeichnet hat? "
+   ]
+  }, 
+  {
+   "begin": "76.560", 
+   "children": [], 
+   "end": "77.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Mit der Geringsch\u00e4tzung, "
+   ]
+  }, 
+  {
+   "begin": "77.440", 
+   "children": [], 
+   "end": "82.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die da Frauen gegen\u00fcber zum Ausdruck gekommen ist, "
+   ]
+  }, 
+  {
+   "begin": "82.520", 
+   "children": [], 
+   "end": "84.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "muss endlich Schluss sein."
+   ]
+  }, 
+  {
+   "begin": "84.240", 
+   "children": [], 
+   "end": "88.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben heute eine ganze Reihe von familienpolitischen Ma\u00dfnahmen aufgelistet. "
+   ]
+  }, 
+  {
+   "begin": "88.000", 
+   "children": [], 
+   "end": "88.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Liste ist durchaus beachtlich; "
+   ]
+  }, 
+  {
+   "begin": "88.800", 
+   "children": [], 
+   "end": "89.880", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "aber viel hilft eben nicht viel. "
+   ]
+  }, 
+  {
+   "begin": "89.880", 
+   "children": [], 
+   "end": "91.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das hat sich bereits gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "91.880", 
+   "children": [], 
+   "end": "95.200", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "als wir vor wenigen Wochen das Elterngeld Plus an dieser Stelle debattiert haben. "
+   ]
+  }, 
+  {
+   "begin": "95.200", 
+   "children": [], 
+   "end": "101.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Es wurde eingef\u00fchrt zur Verbesserung der Vereinbarkeit von Familie und Beruf, "
+   ]
+  }, 
+  {
+   "begin": "101.360", 
+   "children": [], 
+   "end": "102.960", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "setzt aber h\u00e4ufig die falschen Anreize. "
+   ]
+  }, 
+  {
+   "begin": "102.960", 
+   "children": [], 
+   "end": "105.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Es f\u00fchrt bei vielen eben zum Ausstieg aus dem Beruf. "
+   ]
+  }, 
+  {
+   "begin": "105.600", 
+   "children": [], 
+   "end": "111.080", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Genau dieses Ph\u00e4nomen erleben wir in der Familienpolitik viel zu oft. "
+   ]
+  }, 
+  {
+   "begin": "111.080", 
+   "children": [], 
+   "end": "114.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Im Laufe der Jahrzehnte wurden immer mehr familienpolitische Leistungen eingef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "114.680", 
+   "children": [], 
+   "end": "115.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Inzwischen sind es \u00fcber 150. "
+   ]
+  }, 
+  {
+   "begin": "115.720", 
+   "children": [], 
+   "end": "117.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das kostet den Steuerzahler richtig viel Geld, "
+   ]
+  }, 
+  {
+   "begin": "117.800", 
+   "children": [], 
+   "end": "121.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "fast 200\u00a0Milliarden Euro pro Jahr."
+   ]
+  }, 
+  {
+   "begin": "121.560", 
+   "children": [], 
+   "end": "124.280", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Trotzdem f\u00e4llt das Ergebnis verheerend aus. "
+   ]
+  }, 
+  {
+   "begin": "124.280", 
+   "children": [], 
+   "end": "127.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr Eltern ist es weiterhin schwer, "
+   ]
+  }, 
+  {
+   "begin": "127.240", 
+   "children": [], 
+   "end": "130.720", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Kinder und Karriere unter einen Hut zu bringen. "
+   ]
+  }, 
+  {
+   "begin": "130.720", 
+   "children": [], 
+   "end": "134.960", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Fast jedes f\u00fcnfte Kind lebt in Armut oder ist von Armut gef\u00e4hrdet. "
+   ]
+  }, 
+  {
+   "begin": "134.960", 
+   "children": [], 
+   "end": "146.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Die Bildungschancen dieser Kinder sind genauso eingeschr\u00e4nkt wie ihre gesundheitliche Entwicklung und ihre Teilnahme am kulturellen und sozialen Leben. "
+   ]
+  }, 
+  {
+   "begin": "146.840", 
+   "children": [], 
+   "end": "149.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Familienpolitik in Deutschland ist sehr teuer, "
+   ]
+  }, 
+  {
+   "begin": "149.200", 
+   "children": [], 
+   "end": "154.080", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "aber weder wirksam noch passgenau."
+   ]
+  }, 
+  {
+   "begin": "154.080", 
+   "children": [], 
+   "end": "155.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "155.360", 
+   "children": [], 
+   "end": "156.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "bringen Sie den Mut auf, "
+   ]
+  }, 
+  {
+   "begin": "156.400", 
+   "children": [], 
+   "end": "162.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die unglaubliche Vielzahl an familienpolitischen Leistungen in Zielen und Auswirkungen zu evaluieren. "
+   ]
+  }, 
+  {
+   "begin": "162.240", 
+   "children": [], 
+   "end": "163.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ziehen Sie daraus die richtigen Schl\u00fcsse, "
+   ]
+  }, 
+  {
+   "begin": "163.880", 
+   "children": [], 
+   "end": "165.280", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "und setzen Sie diese dann durch, "
+   ]
+  }, 
+  {
+   "begin": "165.280", 
+   "children": [], 
+   "end": "166.880", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "auch gegen Widerst\u00e4nde aus der Union. "
+   ]
+  }, 
+  {
+   "begin": "166.880", 
+   "children": [], 
+   "end": "173.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Tun Sie das im Interesse der Familien und im Interesse aller Steuerzahler."
+   ]
+  }, 
+  {
+   "begin": "173.400", 
+   "children": [], 
+   "end": "181.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Eines der zentralen Vorhaben der neuen Koalition ist der Rechtsanspruch auf Ganztagsbetreuung f\u00fcr Grundsch\u00fcler, "
+   ]
+  }, 
+  {
+   "begin": "181.840", 
+   "children": [], 
+   "end": "184.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "ein durchaus erstrebenswertes Ziel, "
+   ]
+  }, 
+  {
+   "begin": "184.360", 
+   "children": [], 
+   "end": "184.640", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wie ich finde. "
+   ]
+  }, 
+  {
+   "begin": "184.640", 
+   "children": [], 
+   "end": "185.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Aber absolut unehrlich ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "185.960", 
+   "children": [], 
+   "end": "187.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "deswegen muss ich es hier ansprechen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "187.440", 
+   "children": [], 
+   "end": "189.120", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie den Menschen versprochen haben, "
+   ]
+  }, 
+  {
+   "begin": "189.120", 
+   "children": [], 
+   "end": "193.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "der Rechtsanspruch sei bis 2025 umsetzbar. "
+   ]
+  }, 
+  {
+   "begin": "193.840", 
+   "children": [], 
+   "end": "195.320", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Sie wissen so gut wie ich, "
+   ]
+  }, 
+  {
+   "begin": "195.320", 
+   "children": [], 
+   "end": "200.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass an den Krippen und Kitas bereits heute 100\u00a0000\u00a0Erzieher fehlen; "
+   ]
+  }, 
+  {
+   "begin": "200.080", 
+   "children": [], 
+   "end": "206.240", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "100\u00a0000\u00a0Erzieher werden h\u00e4nderingend gesucht. "
+   ]
+  }, 
+  {
+   "begin": "206.240", 
+   "children": [], 
+   "end": "212.360", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wo sollen also die Erzieher f\u00fcr die Grundsch\u00fcler innerhalb weniger Jahre herkommen? "
+   ]
+  }, 
+  {
+   "begin": "212.360", 
+   "children": [], 
+   "end": "214.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Sie gibt es nicht auf dem Markt. "
+   ]
+  }, 
+  {
+   "begin": "214.680", 
+   "children": [], 
+   "end": "218.320", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Wollen Sie sie etwa aus den schon unterbesetzten Krippen und Kitas abziehen? "
+   ]
+  }, 
+  {
+   "begin": "218.320", 
+   "children": [], 
+   "end": "222.640", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Auch Marcus Weinberg hat darauf keine Antwort gegeben."
+   ]
+  }, 
+  {
+   "begin": "222.640", 
+   "children": [], 
+   "end": "226.720", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Die B\u00fcrger verdienen aber eine ehrliche Antwort auf diese Frage."
+   ]
+  }, 
+  {
+   "begin": "226.720", 
+   "children": [], 
+   "end": "227.120", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Klar ist: "
+   ]
+  }, 
+  {
+   "begin": "227.120", 
+   "children": [], 
+   "end": "230.160", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Der Rechtsanspruch bringt rein gar nichts, "
+   ]
+  }, 
+  {
+   "begin": "230.160", 
+   "children": [], 
+   "end": "233.560", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Erzieher fehlen. "
+   ]
+  }, 
+  {
+   "begin": "233.560", 
+   "children": [], 
+   "end": "236.400", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Ein Paragraf betreut keine Kinder. "
+   ]
+  }, 
+  {
+   "begin": "236.400", 
+   "children": [], 
+   "end": "237.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Die Einzigen, "
+   ]
+  }, 
+  {
+   "begin": "237.120", 
+   "children": [], 
+   "end": "244.320", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "denen Ihr Vorhaben eine Ganztagsbesch\u00e4ftigung sichert, "
+   ]
+  }, 
+  {
+   "begin": "244.320", 
+   "children": [], 
+   "end": "246.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "werden die Anw\u00e4lte sein; "
+   ]
+  }, 
+  {
+   "begin": "246.560", 
+   "children": [], 
+   "end": "249.200", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "die Klagewelle ist schon jetzt absehbar."
+   ]
+  }, 
+  {
+   "begin": "249.200", 
+   "children": [], 
+   "end": "251.520", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "251.520", 
+   "children": [], 
+   "end": "254.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "das Ziel von Familienpolitik muss sein, "
+   ]
+  }, 
+  {
+   "begin": "254.640", 
+   "children": [], 
+   "end": "260.240", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "den Familien in ihrer ganzen Vielfalt Chancen zu er\u00f6ffnen, "
+   ]
+  }, 
+  {
+   "begin": "260.240", 
+   "children": [], 
+   "end": "265.760", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "damit sie ihr Leben nach eigenen Vorstellungen gestalten k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "265.760", 
+   "children": [], 
+   "end": "268.760", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Vorschl\u00e4ge daf\u00fcr werden wir Ihnen gerne und zahlreich liefern."
+   ]
+  }, 
+  {
+   "begin": "268.760", 
+   "children": [], 
+   "end": "269.920", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "269.920", 
+   "children": [], 
+   "end": "273.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Der Kollege Norbert M\u00fcller spricht f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

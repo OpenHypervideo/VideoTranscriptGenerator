@@ -1,0 +1,744 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "5.000", 
+   "children": [], 
+   "end": "7.160", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "children": [], 
+   "end": "9.280", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr verehrte G\u00e4ste! "
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "children": [], 
+   "end": "15.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die Historie Afghanistans ist zuweilen ein d\u00fcsteres Kapitel unserer Zeitgeschichte. "
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "children": [], 
+   "end": "17.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich war 17\u00a0Jahre alt, "
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "children": [], 
+   "end": "24.360", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "als die Truppen der Sowjetunion 1979 in Afghanistan einmarschierten, "
+   ]
+  }, 
+  {
+   "begin": "24.360", 
+   "children": [], 
+   "end": "27.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und seitdem verfolge ich die leidvolle Entwicklung dieses Landes."
+   ]
+  }, 
+  {
+   "begin": "27.960", 
+   "children": [], 
+   "end": "34.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Mit Blick auf die aktuelle Lage m\u00f6chte ich Ihnen gerne zwei Szenarien offerieren."
+   ]
+  }, 
+  {
+   "begin": "34.480", 
+   "children": [], 
+   "end": "38.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Zum ersten Szenario geh\u00f6rt eine sehr traurige, "
+   ]
+  }, 
+  {
+   "begin": "38.280", 
+   "children": [], 
+   "end": "40.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "sehr tr\u00e4nenreiche Sichtweise; "
+   ]
+  }, 
+  {
+   "begin": "40.480", 
+   "children": [], 
+   "end": "44.920", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "denn wer wie ich die Geschichte von Shirin-Gol gelesen hat, "
+   ]
+  }, 
+  {
+   "begin": "44.920", 
+   "children": [], 
+   "end": "46.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "der wei\u00df: "
+   ]
+  }, 
+  {
+   "begin": "46.000", 
+   "children": [], 
+   "end": "49.280", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Nach Afghanistan kommt Gott nur noch, "
+   ]
+  }, 
+  {
+   "begin": "49.280", 
+   "children": [], 
+   "end": "50.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "um zu weinen."
+   ]
+  }, 
+  {
+   "begin": "50.840", 
+   "children": [], 
+   "end": "62.680", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Vom Einmarsch der Sowjetunion \u00fcber den Aufstieg der Taliban bis hin zur Intervention der NATO ist Afghanistan ein geschundenes Land mit zahlreichen Blessuren. "
+   ]
+  }, 
+  {
+   "begin": "62.680", 
+   "children": [], 
+   "end": "63.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Und wir wissen: "
+   ]
+  }, 
+  {
+   "begin": "63.880", 
+   "children": [], 
+   "end": "66.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Es bleiben riesige Herausforderungen. "
+   ]
+  }, 
+  {
+   "begin": "66.480", 
+   "children": [], 
+   "end": "70.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Das k\u00f6nnen wir auch an der anhaltenden Terrorserie erkennen, "
+   ]
+  }, 
+  {
+   "begin": "70.360", 
+   "children": [], 
+   "end": "72.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "von der wir selber betroffen sind. "
+   ]
+  }, 
+  {
+   "begin": "72.280", 
+   "children": [], 
+   "end": "84.240", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Ich meine den Anschlag auf die deutsche Botschaft in Kabul im Mai\u00a02017 und den Anschlag auf das deutsche Konsulat in Masar-i-Scharif im November\u00a02006. "
+   ]
+  }, 
+  {
+   "begin": "84.240", 
+   "children": [], 
+   "end": "91.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Den Betroffenen und ihren Angeh\u00f6rigen dieser verheerenden Terroranschl\u00e4ge mit vielen Toten geh\u00f6rt unser Beileid."
+   ]
+  }, 
+  {
+   "begin": "91.360", 
+   "children": [], 
+   "end": "91.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "91.760", 
+   "children": [], 
+   "end": "92.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "es stimmt, "
+   ]
+  }, 
+  {
+   "begin": "92.600", 
+   "children": [], 
+   "end": "96.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "immer noch ist die Menschenrechtslage in Afghanistan prek\u00e4r. "
+   ]
+  }, 
+  {
+   "begin": "96.920", 
+   "children": [], 
+   "end": "99.840", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Dies gilt insbesondere f\u00fcr die Rechte der Frauen, "
+   ]
+  }, 
+  {
+   "begin": "99.840", 
+   "children": [], 
+   "end": "105.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "das Leid der Kinder und den Einfluss der ultrakonservativen Kr\u00e4fte."
+   ]
+  }, 
+  {
+   "begin": "105.480", 
+   "children": [], 
+   "end": "107.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Ich will Ihnen aber ein zweites, "
+   ]
+  }, 
+  {
+   "begin": "107.440", 
+   "children": [], 
+   "end": "110.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "deutlich positiveres Szenario aufzeigen; "
+   ]
+  }, 
+  {
+   "begin": "110.560", 
+   "children": [], 
+   "end": "112.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "denn es gilt auch zu ber\u00fccksichtigen, "
+   ]
+  }, 
+  {
+   "begin": "112.960", 
+   "children": [], 
+   "end": "116.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass es inzwischen einen Silberstreif am Horizont gibt, "
+   ]
+  }, 
+  {
+   "begin": "116.520", 
+   "children": [], 
+   "end": "118.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "der deutlich erkennbar ist. "
+   ]
+  }, 
+  {
+   "begin": "118.280", 
+   "children": [], 
+   "end": "123.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ich will das an wenigen Befunden und Indikatoren deutlich machen: "
+   ]
+  }, 
+  {
+   "begin": "123.000", 
+   "children": [], 
+   "end": "127.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Nimmt man die Referenzjahre\u00a02005 bis 2007, "
+   ]
+  }, 
+  {
+   "begin": "127.320", 
+   "children": [], 
+   "end": "128.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "so kann man heute sagen, "
+   ]
+  }, 
+  {
+   "begin": "128.920", 
+   "children": [], 
+   "end": "134.960", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass die Alphabetisierungsrate bei den Frauen von 5\u00a0Prozent auf 18\u00a0Prozent gestiegen ist, "
+   ]
+  }, 
+  {
+   "begin": "134.960", 
+   "children": [], 
+   "end": "137.480", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "und das ist vergleichsweise sehr viel. "
+   ]
+  }, 
+  {
+   "begin": "137.480", 
+   "children": [], 
+   "end": "142.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Im gleichen Zeitraum ist die Kindersterblichkeit von 10\u00a0Prozent auf 7\u00a0Prozent gesunken, "
+   ]
+  }, 
+  {
+   "begin": "142.840", 
+   "children": [], 
+   "end": "149.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend die Lebenserwartung von 57 auf 61\u00a0Lebensjahre gestiegen ist. "
+   ]
+  }, 
+  {
+   "begin": "149.320", 
+   "children": [], 
+   "end": "150.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Auch l\u00e4sst hoffen, "
+   ]
+  }, 
+  {
+   "begin": "150.600", 
+   "children": [], 
+   "end": "153.680", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass das legale Bruttoinlandsprodukt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "153.680", 
+   "children": [], 
+   "end": "156.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "also jenseits des Drogenanbaus\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "156.320", 
+   "children": [], 
+   "end": "164.160", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "von 9\u00a0Milliarden Dollar auf 21\u00a0Milliarden Dollar gestiegen ist."
+   ]
+  }, 
+  {
+   "begin": "164.160", 
+   "children": [], 
+   "end": "164.600", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "164.600", 
+   "children": [], 
+   "end": "165.520", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ich wei\u00df: "
+   ]
+  }, 
+  {
+   "begin": "165.520", 
+   "children": [], 
+   "end": "169.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ein Silberstreif am Horizont ist noch keine Morgenr\u00f6te, "
+   ]
+  }, 
+  {
+   "begin": "169.920", 
+   "children": [], 
+   "end": "171.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen. "
+   ]
+  }, 
+  {
+   "begin": "171.640", 
+   "children": [], 
+   "end": "176.800", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir d\u00fcrfen uns die Erfolge unserer Mission nicht kaputtreden lassen, "
+   ]
+  }, 
+  {
+   "begin": "176.800", 
+   "children": [], 
+   "end": "179.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "und wir d\u00fcrfen keineswegs diejenigen im Stich lassen, "
+   ]
+  }, 
+  {
+   "begin": "179.840", 
+   "children": [], 
+   "end": "183.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr diese konstruktive Entwicklung verantwortlich zeichnen. "
+   ]
+  }, 
+  {
+   "begin": "183.960", 
+   "children": [], 
+   "end": "191.720", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist die Unterst\u00fctzung des afghanischen Sicherheitsapparates durch die Mission Resolute Support so wichtig. "
+   ]
+  }, 
+  {
+   "begin": "191.720", 
+   "children": [], 
+   "end": "197.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Soldatinnen und Soldaten bilden n\u00e4mlich afghanische Sicherheitskr\u00e4fte aus, "
+   ]
+  }, 
+  {
+   "begin": "197.560", 
+   "children": [], 
+   "end": "199.640", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "und nur im \u00e4u\u00dfersten Notfall, "
+   ]
+  }, 
+  {
+   "begin": "199.640", 
+   "children": [], 
+   "end": "201.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "also in extremis, "
+   ]
+  }, 
+  {
+   "begin": "201.040", 
+   "children": [], 
+   "end": "205.000", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnen und sollen sie selbst milit\u00e4risch eingreifen."
+   ]
+  }, 
+  {
+   "begin": "205.000", 
+   "children": [], 
+   "end": "210.960", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Der Auftrag der Mission liegt ebenfalls in der Beratung f\u00fcr den zivilen Wiederaufbau, "
+   ]
+  }, 
+  {
+   "begin": "210.960", 
+   "children": [], 
+   "end": "216.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und letztendlich dient er auch dem Schutz unserer Botschaft und unserer Konsulate. "
+   ]
+  }, 
+  {
+   "begin": "216.680", 
+   "children": [], 
+   "end": "221.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "1\u00a0300\u00a0Soldatinnen und Soldaten leisten einen riesigen, "
+   ]
+  }, 
+  {
+   "begin": "221.120", 
+   "children": [], 
+   "end": "230.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "ja substanziellen Beitrag f\u00fcr mehr Sicherheit und f\u00fcr mehr Schutz der zivilen Aufbauhilfe und damit eben auch der Zivilbev\u00f6lkerung."
+   ]
+  }, 
+  {
+   "begin": "230.880", 
+   "children": [], 
+   "end": "233.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich deshalb die Gelegenheit nutzen, "
+   ]
+  }, 
+  {
+   "begin": "233.960", 
+   "children": [], 
+   "end": "241.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "den Soldatinnen und Soldaten sowie den zivilen Aufbauhelferinnen und \u2011helfern und insbesondere auch den \u00dcbersetzerinnen, "
+   ]
+  }, 
+  {
+   "begin": "241.720", 
+   "children": [], 
+   "end": "242.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "die oft, "
+   ]
+  }, 
+  {
+   "begin": "242.160", 
+   "children": [], 
+   "end": "243.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie f\u00fcr uns t\u00e4tig sind, "
+   ]
+  }, 
+  {
+   "begin": "243.680", 
+   "children": [], 
+   "end": "244.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "ihr Leben riskieren, "
+   ]
+  }, 
+  {
+   "begin": "244.960", 
+   "children": [], 
+   "end": "246.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ausdr\u00fccklich danken."
+   ]
+  }, 
+  {
+   "begin": "246.960", 
+   "children": [], 
+   "end": "249.760", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Letztendlich gilt es hier, "
+   ]
+  }, 
+  {
+   "begin": "249.760", 
+   "children": [], 
+   "end": "254.160", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "auch das Mandat der Vereinten Nationen zu erf\u00fcllen. "
+   ]
+  }, 
+  {
+   "begin": "254.160", 
+   "children": [], 
+   "end": "260.560", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Bitte folgen Sie mir deshalb in der Fortschreibung dieses positiven Szenarios. "
+   ]
+  }, 
+  {
+   "begin": "260.560", 
+   "children": [], 
+   "end": "261.760", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte Sie daher ganz, "
+   ]
+  }, 
+  {
+   "begin": "261.760", 
+   "children": [], 
+   "end": "265.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "ganz dringend um Unterst\u00fctzung dieses Mandates."
+   ]
+  }, 
+  {
+   "begin": "265.000", 
+   "children": [], 
+   "end": "266.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "266.120", 
+   "children": [], 
+   "end": "268.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "268.280", 
+   "children": [], 
+   "end": "270.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Daniela De Ridder.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "270.440", 
+   "children": [], 
+   "end": "272.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner: "
+   ]
+  }, 
+  {
+   "begin": "272.000", 
+   "children": [], 
+   "end": "277.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Anton Friesen f\u00fcr die AfD-Fraktion."
+   ]
+  }
+ ]
+}

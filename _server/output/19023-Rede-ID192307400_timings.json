@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "children": [], 
+   "end": "9.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.840", 
+   "children": [], 
+   "end": "10.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "children": [], 
+   "end": "13.600", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "ich gratuliere Ihnen zu Ihrer neuen Aufgabe. "
+   ]
+  }, 
+  {
+   "begin": "13.600", 
+   "children": [], 
+   "end": "15.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich auf die Zusammenarbeit."
+   ]
+  }, 
+  {
+   "begin": "15.560", 
+   "children": [], 
+   "end": "17.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben vor Ihrem Amtsantritt gesagt, "
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "children": [], 
+   "end": "19.440", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollten in den n\u00e4chsten Monaten fragen, "
+   ]
+  }, 
+  {
+   "begin": "19.440", 
+   "children": [], 
+   "end": "20.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "fragen, "
+   ]
+  }, 
+  {
+   "begin": "20.040", 
+   "children": [], 
+   "end": "20.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "fragen. "
+   ]
+  }, 
+  {
+   "begin": "20.760", 
+   "children": [], 
+   "end": "21.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das ist gut. "
+   ]
+  }, 
+  {
+   "begin": "21.680", 
+   "children": [], 
+   "end": "22.520", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das lohnt sich. "
+   ]
+  }, 
+  {
+   "begin": "22.520", 
+   "children": [], 
+   "end": "23.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Das machen wir auch. "
+   ]
+  }, 
+  {
+   "begin": "23.560", 
+   "children": [], 
+   "end": "26.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben erst k\u00fcrzlich die Bundesregierung gefragt, "
+   ]
+  }, 
+  {
+   "begin": "26.360", 
+   "children": [], 
+   "end": "31.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "warum sie den Digitalpakt\u00a02016 vollmundig angek\u00fcndigt, "
+   ]
+  }, 
+  {
+   "begin": "31.000", 
+   "children": [], 
+   "end": "33.480", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "aber noch immer nicht unterzeichnet hat. "
+   ]
+  }, 
+  {
+   "begin": "33.480", 
+   "children": [], 
+   "end": "34.440", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Antwort: "
+   ]
+  }, 
+  {
+   "begin": "34.440", 
+   "children": [], 
+   "end": "35.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Haush\u00e4lterische, "
+   ]
+  }, 
+  {
+   "begin": "35.520", 
+   "children": [], 
+   "end": "41.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "sachliche und rechtliche Fragen sollten erst von der neuen Bundesregierung entschieden werden."
+   ]
+  }, 
+  {
+   "begin": "41.040", 
+   "children": [], 
+   "end": "42.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft aber doch, "
+   ]
+  }, 
+  {
+   "begin": "42.360", 
+   "children": [], 
+   "end": "43.840", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "es bestand nie die Absicht, "
+   ]
+  }, 
+  {
+   "begin": "43.840", 
+   "children": [], 
+   "end": "46.680", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "in der letzten Wahlperiode zu unterzeichnen. "
+   ]
+  }, 
+  {
+   "begin": "46.680", 
+   "children": [], 
+   "end": "48.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das waren blo\u00dfe Sonntagsreden."
+   ]
+  }, 
+  {
+   "begin": "48.880", 
+   "children": [], 
+   "end": "57.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "In Anbetracht der gro\u00dfen vor uns liegenden Herausforderungen ist das grob fahrl\u00e4ssig, "
+   ]
+  }, 
+  {
+   "begin": "57.720", 
+   "children": [], 
+   "end": "59.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "59.000", 
+   "children": [], 
+   "end": "61.560", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt soll es aber mit dem Digitalpakt wirklich losgehen. "
+   ]
+  }, 
+  {
+   "begin": "61.560", 
+   "children": [], 
+   "end": "63.200", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Das haben Sie uns heute versprochen, "
+   ]
+  }, 
+  {
+   "begin": "63.200", 
+   "children": [], 
+   "end": "64.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin. "
+   ]
+  }, 
+  {
+   "begin": "64.800", 
+   "children": [], 
+   "end": "66.600", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Doch die Sch\u00fclerinnen und Sch\u00fcler, "
+   ]
+  }, 
+  {
+   "begin": "66.600", 
+   "children": [], 
+   "end": "68.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Eltern und Lehrer sollten sich nicht zu fr\u00fch freuen. "
+   ]
+  }, 
+  {
+   "begin": "68.880", 
+   "children": [], 
+   "end": "72.280", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Obwohl Sie schon so viel Zeit vertr\u00f6delt haben, "
+   ]
+  }, 
+  {
+   "begin": "72.280", 
+   "children": [], 
+   "end": "79.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "sollen von den versprochenen 5\u00a0Milliarden Euro gerade einmal 3,5\u00a0Milliarden Euro in dieser Wahlperiode flie\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "79.560", 
+   "children": [], 
+   "end": "83.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ob diese 3,5\u00a0Milliarden Euro \u00fcberhaupt kommen, "
+   ]
+  }, 
+  {
+   "begin": "83.000", 
+   "children": [], 
+   "end": "83.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "steht in den Sternen. "
+   ]
+  }, 
+  {
+   "begin": "83.800", 
+   "children": [], 
+   "end": "88.000", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "In der Ausgabenplanung der neuen Regierung finden sich jede Menge Positionen; "
+   ]
+  }, 
+  {
+   "begin": "88.000", 
+   "children": [], 
+   "end": "89.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "diese Position findet sich da aber nicht. "
+   ]
+  }, 
+  {
+   "begin": "89.760", 
+   "children": [], 
+   "end": "93.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Letztendlich ist die Summe Experten zufolge auch viel zu niedrig. "
+   ]
+  }, 
+  {
+   "begin": "93.040", 
+   "children": [], 
+   "end": "96.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Ausstattung der Schulen br\u00e4uchten Sie das Dreifache."
+   ]
+  }, 
+  {
+   "begin": "96.920", 
+   "children": [], 
+   "end": "100.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben die Bundesregierung auch gefragt, "
+   ]
+  }, 
+  {
+   "begin": "100.880", 
+   "children": [], 
+   "end": "104.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "wie die Digitalisierung der Bildung mit so wenig Geld klappen soll. "
+   ]
+  }, 
+  {
+   "begin": "104.280", 
+   "children": [], 
+   "end": "105.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die Antwort lautete\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "105.360", 
+   "children": [], 
+   "end": "105.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "halten Sie sich fest\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "105.880", 
+   "children": [], 
+   "end": "108.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die Sch\u00fcler sollen ihre eigenen Ger\u00e4te mitbringen; "
+   ]
+  }, 
+  {
+   "begin": "108.480", 
+   "children": [], 
+   "end": "111.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dann reichen auch die Mittel vom Bund.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "111.440", 
+   "children": [], 
+   "end": "121.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung will also tats\u00e4chlich den Zugang zu digitaler Bildung vom Geldbeutel der Eltern abh\u00e4ngig machen. "
+   ]
+  }, 
+  {
+   "begin": "121.680", 
+   "children": [], 
+   "end": "124.160", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das ist einmal eine ehrliche Antwort, "
+   ]
+  }, 
+  {
+   "begin": "124.160", 
+   "children": [], 
+   "end": "126.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "und sie macht mich fassungslos."
+   ]
+  }, 
+  {
+   "begin": "126.040", 
+   "children": [], 
+   "end": "131.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Schon heute wird doch der Bildungserfolg unserer Kinder viel zu stark durch ihr Elternhaus bestimmt. "
+   ]
+  }, 
+  {
+   "begin": "131.560", 
+   "children": [], 
+   "end": "135.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung k\u00f6nnte allen Kindern Chancen er\u00f6ffnen, "
+   ]
+  }, 
+  {
+   "begin": "135.080", 
+   "children": [], 
+   "end": "137.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "unabh\u00e4ngig von ihrer Herkunft. "
+   ]
+  }, 
+  {
+   "begin": "137.320", 
+   "children": [], 
+   "end": "140.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Aber so bewirken Sie das genaue Gegenteil. "
+   ]
+  }, 
+  {
+   "begin": "140.200", 
+   "children": [], 
+   "end": "142.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Sie bewirken damit eine Spaltung der Gesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "142.720", 
+   "children": [], 
+   "end": "148.760", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeskanzlerin hat doch erst gestern in ihrer Regierungserkl\u00e4rung den gesellschaftlichen Zusammenhalt beschworen. "
+   ]
+  }, 
+  {
+   "begin": "148.760", 
+   "children": [], 
+   "end": "154.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das passt doch nicht zusammen."
+   ]
+  }, 
+  {
+   "begin": "154.640", 
+   "children": [], 
+   "end": "155.320", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "155.320", 
+   "children": [], 
+   "end": "156.760", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "ich bitte Sie ganz dringend: "
+   ]
+  }, 
+  {
+   "begin": "156.760", 
+   "children": [], 
+   "end": "157.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Geben Sie nicht diejenigen auf, "
+   ]
+  }, 
+  {
+   "begin": "157.760", 
+   "children": [], 
+   "end": "161.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die kein Tablet oder nur veraltete Ger\u00e4te zu Hause haben! "
+   ]
+  }, 
+  {
+   "begin": "161.520", 
+   "children": [], 
+   "end": "164.600", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Sparen Sie nicht auf Kosten der Schw\u00e4chsten der Gesellschaft! "
+   ]
+  }, 
+  {
+   "begin": "164.600", 
+   "children": [], 
+   "end": "168.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Jedes Kind hat die weltbeste Bildung und Chancen auf Aufstieg verdient."
+   ]
+  }, 
+  {
+   "begin": "168.800", 
+   "children": [], 
+   "end": "170.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Auch andere stellen kluge Fragen. "
+   ]
+  }, 
+  {
+   "begin": "170.320", 
+   "children": [], 
+   "end": "178.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Der Branchenverband Bitkom hat die Deutschen nach ihrer Haltung zum Bildungsf\u00f6deralismus befragt. "
+   ]
+  }, 
+  {
+   "begin": "178.360", 
+   "children": [], 
+   "end": "180.920", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Die Antworten lauteten: "
+   ]
+  }, 
+  {
+   "begin": "180.920", 
+   "children": [], 
+   "end": "184.200", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "79\u00a0Prozent halten es f\u00fcr nicht mehr zeitgem\u00e4\u00df, "
+   ]
+  }, 
+  {
+   "begin": "184.200", 
+   "children": [], 
+   "end": "187.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass sich jedes Bundesland ein eigenes Bildungssystem leistet. "
+   ]
+  }, 
+  {
+   "begin": "187.480", 
+   "children": [], 
+   "end": "188.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "90\u00a0Prozent finden, "
+   ]
+  }, 
+  {
+   "begin": "188.520", 
+   "children": [], 
+   "end": "192.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "der Bund m\u00fcsse Schulen finanziell unterst\u00fctzen d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "192.000", 
+   "children": [], 
+   "end": "194.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Die Menschen in unserem Land wissen: "
+   ]
+  }, 
+  {
+   "begin": "194.480", 
+   "children": [], 
+   "end": "200.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Bund und L\u00e4nder m\u00fcssen sich beim Thema Kooperationsverbot endlich bewegen. "
+   ]
+  }, 
+  {
+   "begin": "200.120", 
+   "children": [], 
+   "end": "201.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ich muss sagen: "
+   ]
+  }, 
+  {
+   "begin": "201.160", 
+   "children": [], 
+   "end": "202.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Respekt, "
+   ]
+  }, 
+  {
+   "begin": "202.240", 
+   "children": [], 
+   "end": "203.160", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "liebe SPD! "
+   ]
+  }, 
+  {
+   "begin": "203.160", 
+   "children": [], 
+   "end": "206.280", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Da haben Sie in den Verhandlungen mit der Union etwas geschafft, "
+   ]
+  }, 
+  {
+   "begin": "206.280", 
+   "children": [], 
+   "end": "209.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "was uns in den Jamaika-Sondierungen nicht gelungen ist. "
+   ]
+  }, 
+  {
+   "begin": "209.280", 
+   "children": [], 
+   "end": "211.760", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Das Kooperationsverbot wird aufgeweicht, "
+   ]
+  }, 
+  {
+   "begin": "211.760", 
+   "children": [], 
+   "end": "213.080", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "ein wenig jedenfalls. "
+   ]
+  }, 
+  {
+   "begin": "213.080", 
+   "children": [], 
+   "end": "218.040", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wir waren da noch am Veto der Herren Seehofer und Kretschmann gescheitert."
+   ]
+  }, 
+  {
+   "begin": "218.040", 
+   "children": [], 
+   "end": "220.560", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen aber noch mehr. "
+   ]
+  }, 
+  {
+   "begin": "220.560", 
+   "children": [], 
+   "end": "225.640", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr Familien mit schulpflichtigen Kindern ist jeder Umzug in ein anderes Bundesland eine Zumutung. "
+   ]
+  }, 
+  {
+   "begin": "225.640", 
+   "children": [], 
+   "end": "228.360", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Familien sind heute mobiler denn je. "
+   ]
+  }, 
+  {
+   "begin": "228.360", 
+   "children": [], 
+   "end": "231.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "In der Bildung aber erwartet sie Kleinstaaterei. "
+   ]
+  }, 
+  {
+   "begin": "231.440", 
+   "children": [], 
+   "end": "241.880", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen endlich f\u00fcr ganz Deutschland einheitliche und ambitionierte Bildungsstandards."
+   ]
+  }, 
+  {
+   "begin": "241.880", 
+   "children": [], 
+   "end": "244.240", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Sch\u00fcler stehen im globalen Wettbewerb. "
+   ]
+  }, 
+  {
+   "begin": "244.240", 
+   "children": [], 
+   "end": "245.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Es reicht l\u00e4ngst nicht aus, "
+   ]
+  }, 
+  {
+   "begin": "245.360", 
+   "children": [], 
+   "end": "248.840", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "dass der Bund in Beton und Kabel an den Schulen investieren darf. "
+   ]
+  }, 
+  {
+   "begin": "248.840", 
+   "children": [], 
+   "end": "255.960", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Er muss K\u00f6pfe und Konzepte und damit eine umfassende Modernisierung unseres Bildungssystems finanzieren d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "255.960", 
+   "children": [], 
+   "end": "259.360", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Bildung ist die soziale Frage in unserem Land. "
+   ]
+  }, 
+  {
+   "begin": "259.360", 
+   "children": [], 
+   "end": "260.600", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Packen wir sie an!"
+   ]
+  }, 
+  {
+   "begin": "260.600", 
+   "children": [], 
+   "end": "261.400", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "261.400", 
+   "children": [], 
+   "end": "273.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chster Rednerin erteile ich das Wort der Kollegin Dr.\u00a0Petra Sitte von der Fraktion Die Linke."
+   ]
+  }
+ ]
+}

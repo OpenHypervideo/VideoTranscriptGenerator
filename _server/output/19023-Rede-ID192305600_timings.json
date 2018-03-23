@@ -1,0 +1,784 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "children": [], 
+   "end": "6.480", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Andi Scheuer, "
+   ]
+  }, 
+  {
+   "begin": "6.480", 
+   "children": [], 
+   "end": "9.200", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "herzlichen Gl\u00fcckwunsch zur neuen Aufgabe! "
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "children": [], 
+   "end": "9.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich, "
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "children": [], 
+   "end": "10.200", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass jemand, "
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "children": [], 
+   "end": "12.000", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "der aus der Verkehrspolitik kommt, "
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "children": [], 
+   "end": "12.640", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Minister wird. "
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "children": [], 
+   "end": "15.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wir kennen uns aus der letzten Wahlperiode."
+   ]
+  }, 
+  {
+   "begin": "15.040", 
+   "children": [], 
+   "end": "16.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden dort, "
+   ]
+  }, 
+  {
+   "begin": "16.160", 
+   "children": [], 
+   "end": "16.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "wo es sinnvoll ist, "
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "children": [], 
+   "end": "18.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ver\u00e4nderungen herbeizuf\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "18.840", 
+   "children": [], 
+   "end": "19.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "konstruktiv begleiten. "
+   ]
+  }, 
+  {
+   "begin": "19.920", 
+   "children": [], 
+   "end": "26.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "In den letzten vier Jahren ist bei Gro\u00dfprojekten wie BER und Stuttgart\u00a021 nichts vorangekommen, "
+   ]
+  }, 
+  {
+   "begin": "26.920", 
+   "children": [], 
+   "end": "30.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und au\u00dferhalb Bayerns gibt es einen Investitionsstau. "
+   ]
+  }, 
+  {
+   "begin": "30.480", 
+   "children": [], 
+   "end": "34.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen m\u00fcssen unsere zwei Priorit\u00e4ten lauten: "
+   ]
+  }, 
+  {
+   "begin": "34.200", 
+   "children": [], 
+   "end": "40.040", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "g\u00fcnstiger und einfacher planen und bauen und innovative Mobilit\u00e4t voranbringen. "
+   ]
+  }, 
+  {
+   "begin": "40.040", 
+   "children": [], 
+   "end": "41.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Dabei werden wir Sie unterst\u00fctzen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "41.360", 
+   "children": [], 
+   "end": "46.200", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wenn von der Regierung gute Vorschl\u00e4ge kommen."
+   ]
+  }, 
+  {
+   "begin": "46.200", 
+   "children": [], 
+   "end": "50.040", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen mehr Innovation im Bereich Mobilit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "50.040", 
+   "children": [], 
+   "end": "52.080", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen nicht nur vernetztes Fahren, "
+   ]
+  }, 
+  {
+   "begin": "52.080", 
+   "children": [], 
+   "end": "55.960", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch nachhaltige Mobilit\u00e4t und innovative L\u00f6sungen."
+   ]
+  }, 
+  {
+   "begin": "55.960", 
+   "children": [], 
+   "end": "58.240", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt drohen in der Tat Fahrverbote, "
+   ]
+  }, 
+  {
+   "begin": "58.240", 
+   "children": [], 
+   "end": "60.440", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "weil die Bundesregierung vier Jahre lang nichts getan hat. "
+   ]
+  }, 
+  {
+   "begin": "60.440", 
+   "children": [], 
+   "end": "63.440", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Sie hat beim Abgasskandal zugeschaut. "
+   ]
+  }, 
+  {
+   "begin": "63.440", 
+   "children": [], 
+   "end": "67.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "S\u00f6ren Bartol hat das Thema Hardwarenachr\u00fcstung angesprochen. "
+   ]
+  }, 
+  {
+   "begin": "67.120", 
+   "children": [], 
+   "end": "68.120", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Sie kommt nicht. "
+   ]
+  }, 
+  {
+   "begin": "68.120", 
+   "children": [], 
+   "end": "72.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen haben jetzt Millionen Dieselfahrer ein Problem, "
+   ]
+  }, 
+  {
+   "begin": "72.400", 
+   "children": [], 
+   "end": "74.040", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "weil ihr Fahrzeug an Wert verliert. "
+   ]
+  }, 
+  {
+   "begin": "74.040", 
+   "children": [], 
+   "end": "75.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ich halte es f\u00fcr falsch, "
+   ]
+  }, 
+  {
+   "begin": "75.280", 
+   "children": [], 
+   "end": "78.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bundeskanzlerin gestern gesagt hat: "
+   ]
+  }, 
+  {
+   "begin": "78.120", 
+   "children": [], 
+   "end": "80.920", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Der Verbrennungsmotor ist eine Br\u00fcckentechnologie."
+   ]
+  }, 
+  {
+   "begin": "80.920", 
+   "children": [], 
+   "end": "82.920", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "82.920", 
+   "children": [], 
+   "end": "87.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "einmal abgesehen von Effizienzreserven und synthetischen Kraftstoffen: "
+   ]
+  }, 
+  {
+   "begin": "87.000", 
+   "children": [], 
+   "end": "89.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das ist doch industriepolitisch der v\u00f6llig falsche Weg, "
+   ]
+  }, 
+  {
+   "begin": "89.640", 
+   "children": [], 
+   "end": "93.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "was Fertigungstiefe und Wertsch\u00f6pfungsketten angeht. "
+   ]
+  }, 
+  {
+   "begin": "93.160", 
+   "children": [], 
+   "end": "96.640", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Bundesregierung auf einen Zwang zur Elektrifizierung setzt, "
+   ]
+  }, 
+  {
+   "begin": "96.640", 
+   "children": [], 
+   "end": "102.040", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "werden bis zu 50\u00a0Prozent der Arbeitspl\u00e4tze im Bereich Automobil und Zulieferer verloren gehen. "
+   ]
+  }, 
+  {
+   "begin": "102.040", 
+   "children": [], 
+   "end": "103.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der falsche Weg. "
+   ]
+  }, 
+  {
+   "begin": "103.120", 
+   "children": [], 
+   "end": "110.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Technologieoffenheit und kein Enddatum f\u00fcr den Verbrennungsmotor."
+   ]
+  }, 
+  {
+   "begin": "110.560", 
+   "children": [], 
+   "end": "113.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Andi Scheuer ist ein Freund des Oldtimers, "
+   ]
+  }, 
+  {
+   "begin": "113.520", 
+   "children": [], 
+   "end": "114.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "des automobilen Kulturguts. "
+   ]
+  }, 
+  {
+   "begin": "114.880", 
+   "children": [], 
+   "end": "115.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das finde ich gut. "
+   ]
+  }, 
+  {
+   "begin": "115.640", 
+   "children": [], 
+   "end": "118.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es wird jetzt zu Fahrverboten kommen. "
+   ]
+  }, 
+  {
+   "begin": "118.440", 
+   "children": [], 
+   "end": "120.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Schauen wir bei den Ausnahmen genau hin. "
+   ]
+  }, 
+  {
+   "begin": "120.920", 
+   "children": [], 
+   "end": "123.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht wird es Ausnahmen f\u00fcr Flugtaxis geben, "
+   ]
+  }, 
+  {
+   "begin": "123.600", 
+   "children": [], 
+   "end": "127.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "aber erst einmal sollte die Rechtsgrundlage daf\u00fcr geschaffen werden. "
+   ]
+  }, 
+  {
+   "begin": "127.200", 
+   "children": [], 
+   "end": "128.400", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Es ginge derzeit n\u00e4mlich gar nicht, "
+   ]
+  }, 
+  {
+   "begin": "128.400", 
+   "children": [], 
+   "end": "130.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "in Deutschland ein solches Fahrzeug auf den Markt zu bringen. "
+   ]
+  }, 
+  {
+   "begin": "130.440", 
+   "children": [], 
+   "end": "134.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Auch viele andere innovative Mobilit\u00e4tsformen m\u00fcssen erm\u00f6glicht werden. "
+   ]
+  }, 
+  {
+   "begin": "134.280", 
+   "children": [], 
+   "end": "139.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen fordern wir als Freie Demokraten eine Reform des Personenbef\u00f6rderungsgesetzes."
+   ]
+  }, 
+  {
+   "begin": "139.120", 
+   "children": [], 
+   "end": "142.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Weil es bald zu einem Verkehrsinfarkt kommt, "
+   ]
+  }, 
+  {
+   "begin": "142.560", 
+   "children": [], 
+   "end": "144.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland aber mobil bleiben muss, "
+   ]
+  }, 
+  {
+   "begin": "144.960", 
+   "children": [], 
+   "end": "146.000", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "146.000", 
+   "children": [], 
+   "end": "149.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass die vorhandenen Mittel in die Stra\u00dfe investiert werden. "
+   ]
+  }, 
+  {
+   "begin": "149.120", 
+   "children": [], 
+   "end": "153.640", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen brauchen wir nicht nur bei einigen wenigen Gro\u00dfprojekten \u00c4nderungen, "
+   ]
+  }, 
+  {
+   "begin": "153.640", 
+   "children": [], 
+   "end": "156.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir brauchen ein Planungsbeschleunigungsgesetz, "
+   ]
+  }, 
+  {
+   "begin": "156.280", 
+   "children": [], 
+   "end": "157.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "mit dem wir daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "157.400", 
+   "children": [], 
+   "end": "158.720", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass \u00fcberall schneller, "
+   ]
+  }, 
+  {
+   "begin": "158.720", 
+   "children": [], 
+   "end": "161.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "einfacher und g\u00fcnstiger gebaut werden kann."
+   ]
+  }, 
+  {
+   "begin": "161.400", 
+   "children": [], 
+   "end": "163.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine Infrastrukturgesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "163.640", 
+   "children": [], 
+   "end": "164.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "die gut aufgestellt wird. "
+   ]
+  }, 
+  {
+   "begin": "164.920", 
+   "children": [], 
+   "end": "168.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Dazu hat das BMVI noch keine Strategie. "
+   ]
+  }, 
+  {
+   "begin": "168.400", 
+   "children": [], 
+   "end": "169.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Da muss man dringend ran. "
+   ]
+  }, 
+  {
+   "begin": "169.960", 
+   "children": [], 
+   "end": "172.640", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "In den letzten vier Jahren wurde in Bayern viel gebaut\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "172.640", 
+   "children": [], 
+   "end": "173.320", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "das ist auch gut\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "173.320", 
+   "children": [], 
+   "end": "174.800", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "aber es gibt Engp\u00e4sse, "
+   ]
+  }, 
+  {
+   "begin": "174.800", 
+   "children": [], 
+   "end": "176.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel im Bereich Wasserstra\u00dfen und im Bereich Schiene; "
+   ]
+  }, 
+  {
+   "begin": "176.920", 
+   "children": [], 
+   "end": "177.880", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "denken wir an Rastatt, "
+   ]
+  }, 
+  {
+   "begin": "177.880", 
+   "children": [], 
+   "end": "180.200", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wo Gleise weggebrochen sind."
+   ]
+  }, 
+  {
+   "begin": "180.200", 
+   "children": [], 
+   "end": "185.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Nach vier Jahren Mautminister brauchen wir dringend einen Verkehrsminister, "
+   ]
+  }, 
+  {
+   "begin": "185.000", 
+   "children": [], 
+   "end": "187.040", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "der an ganz Deutschland denkt, "
+   ]
+  }, 
+  {
+   "begin": "187.040", 
+   "children": [], 
+   "end": "190.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "der die Engp\u00e4sse endlich beseitigt und daf\u00fcr sorgt, "
+   ]
+  }, 
+  {
+   "begin": "190.160", 
+   "children": [], 
+   "end": "192.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland mobil bleibt. "
+   ]
+  }, 
+  {
+   "begin": "192.280", 
+   "children": [], 
+   "end": "195.720", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Nach vier Jahren Bau von Umgehungsstra\u00dfen in Bayern ist es an der Zeit, "
+   ]
+  }, 
+  {
+   "begin": "195.720", 
+   "children": [], 
+   "end": "198.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "an ganz Deutschland zu denken. "
+   ]
+  }, 
+  {
+   "begin": "198.280", 
+   "children": [], 
+   "end": "201.560", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Da helfen wir gerne mit."
+   ]
+  }, 
+  {
+   "begin": "201.560", 
+   "children": [], 
+   "end": "204.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Patrick Schnieder, "
+   ]
+  }, 
+  {
+   "begin": "204.080", 
+   "children": [], 
+   "end": "205.960", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,854 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "children": [], 
+   "end": "6.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "children": [], 
+   "end": "8.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "8.480", 
+   "children": [], 
+   "end": "12.600", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung hat uns hier nicht ein Mandat vorgelegt, "
+   ]
+  }, 
+  {
+   "begin": "12.600", 
+   "children": [], 
+   "end": "14.200", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "sondern zwei. "
+   ]
+  }, 
+  {
+   "begin": "14.200", 
+   "children": [], 
+   "end": "16.640", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind zwar in einem Text verbunden, "
+   ]
+  }, 
+  {
+   "begin": "16.640", 
+   "children": [], 
+   "end": "23.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "aber es sind dem Auftrag nach zwei v\u00f6llig unterschiedliche Dinge. "
+   ]
+  }, 
+  {
+   "begin": "23.080", 
+   "children": [], 
+   "end": "27.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Auf der einen Seite haben wir den Kampf gegen den \u201eIslamischen Staat\u201c, "
+   ]
+  }, 
+  {
+   "begin": "27.320", 
+   "children": [], 
+   "end": "29.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "das alte Counter-Daesh-Mandat. "
+   ]
+  }, 
+  {
+   "begin": "29.160", 
+   "children": [], 
+   "end": "33.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Meine Fraktion unterst\u00fctzt dieses Mandat vorbehaltlos, "
+   ]
+  }, 
+  {
+   "begin": "33.120", 
+   "children": [], 
+   "end": "36.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "was die Soldaten in den AWACS-Maschinen angeht, "
+   ]
+  }, 
+  {
+   "begin": "36.240", 
+   "children": [], 
+   "end": "37.400", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "was die Tornados angeht, "
+   ]
+  }, 
+  {
+   "begin": "37.400", 
+   "children": [], 
+   "end": "38.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "was die Luftbetankung angeht."
+   ]
+  }, 
+  {
+   "begin": "38.640", 
+   "children": [], 
+   "end": "38.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Auf der anderen Seite geht es\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "38.960", 
+   "children": [], 
+   "end": "41.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "das ist der zweite Teil des Mandats\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "41.240", 
+   "children": [], 
+   "end": "42.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "um die Stabilisierung des Irak. "
+   ]
+  }, 
+  {
+   "begin": "42.920", 
+   "children": [], 
+   "end": "44.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Das ist etwas v\u00f6llig anderes. "
+   ]
+  }, 
+  {
+   "begin": "44.320", 
+   "children": [], 
+   "end": "50.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben hier bei der Einbringung des Antrags einige Unklarheiten herausgearbeitet, "
+   ]
+  }, 
+  {
+   "begin": "50.240", 
+   "children": [], 
+   "end": "52.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die bis heute nicht beseitigt sind. "
+   ]
+  }, 
+  {
+   "begin": "52.560", 
+   "children": [], 
+   "end": "59.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wie verh\u00e4lt sich der nationale Beitrag Deutschlands zu der gleichzeitig entwickelten, "
+   ]
+  }, 
+  {
+   "begin": "59.960", 
+   "children": [], 
+   "end": "61.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "inhaltlich nahezu identischen Mission, "
+   ]
+  }, 
+  {
+   "begin": "61.880", 
+   "children": [], 
+   "end": "67.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die die NATO gerade entwickelt und die im Juli\u00a02018 auf dem Gipfel verabschiedet werden soll? "
+   ]
+  }, 
+  {
+   "begin": "67.120", 
+   "children": [], 
+   "end": "68.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Keine Antworten. "
+   ]
+  }, 
+  {
+   "begin": "68.680", 
+   "children": [], 
+   "end": "73.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wie sieht unser nationaler Beitrag eigentlich im Detail aus? "
+   ]
+  }, 
+  {
+   "begin": "73.320", 
+   "children": [], 
+   "end": "74.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin dagegen, "
+   ]
+  }, 
+  {
+   "begin": "74.120", 
+   "children": [], 
+   "end": "77.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass wir als Deutscher Bundestag Mikromanagement machen, "
+   ]
+  }, 
+  {
+   "begin": "77.600", 
+   "children": [], 
+   "end": "80.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wenn unser Milit\u00e4r im Einsatz ist. "
+   ]
+  }, 
+  {
+   "begin": "80.080", 
+   "children": [], 
+   "end": "82.040", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Aber ein bisschen mehr als das, "
+   ]
+  }, 
+  {
+   "begin": "82.040", 
+   "children": [], 
+   "end": "85.240", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "was wir an Ungef\u00e4hrem in diesem Text haben, "
+   ]
+  }, 
+  {
+   "begin": "85.240", 
+   "children": [], 
+   "end": "86.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "kann es schon sein. "
+   ]
+  }, 
+  {
+   "begin": "86.000", 
+   "children": [], 
+   "end": "86.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Alles ist vage; "
+   ]
+  }, 
+  {
+   "begin": "86.800", 
+   "children": [], 
+   "end": "88.400", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "alles ist unscharf gehalten. "
+   ]
+  }, 
+  {
+   "begin": "88.400", 
+   "children": [], 
+   "end": "92.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das reicht einfach nicht aus."
+   ]
+  }, 
+  {
+   "begin": "92.240", 
+   "children": [], 
+   "end": "97.040", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die n\u00e4chste Frage: "
+   ]
+  }, 
+  {
+   "begin": "97.040", 
+   "children": [], 
+   "end": "105.920", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wie verh\u00e4lt sich dieses Mandat zu dem sehr engagierten deutschen Einsatz in der Region Kurdistan/Irak? "
+   ]
+  }, 
+  {
+   "begin": "105.920", 
+   "children": [], 
+   "end": "110.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wie gehen wir mit den Spannungen zwischen der Zentralregierung und Erbil um? "
+   ]
+  }, 
+  {
+   "begin": "110.560", 
+   "children": [], 
+   "end": "112.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Keine Aussagen. "
+   ]
+  }, 
+  {
+   "begin": "112.480", 
+   "children": [], 
+   "end": "113.680", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Und dann: "
+   ]
+  }, 
+  {
+   "begin": "113.680", 
+   "children": [], 
+   "end": "115.800", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wie entwickelt sich die innere Lage des Irak? "
+   ]
+  }, 
+  {
+   "begin": "115.800", 
+   "children": [], 
+   "end": "118.680", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die innere Entwicklung dort ist alles andere als klar. "
+   ]
+  }, 
+  {
+   "begin": "118.680", 
+   "children": [], 
+   "end": "119.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Keine Auskunft."
+   ]
+  }, 
+  {
+   "begin": "119.520", 
+   "children": [], 
+   "end": "120.360", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "120.360", 
+   "children": [], 
+   "end": "121.200", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "es gibt so viele Unklarheiten. "
+   ]
+  }, 
+  {
+   "begin": "121.200", 
+   "children": [], 
+   "end": "124.000", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben die Bundesregierung um Aufkl\u00e4rung gebeten: "
+   ]
+  }, 
+  {
+   "begin": "124.000", 
+   "children": [], 
+   "end": "126.960", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wo soll wer wie ausgebildet werden? "
+   ]
+  }, 
+  {
+   "begin": "126.960", 
+   "children": [], 
+   "end": "132.320", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wo kommen die M\u00e4nner und Frauen aus der deutschen Bundeswehr her, "
+   ]
+  }, 
+  {
+   "begin": "132.320", 
+   "children": [], 
+   "end": "134.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die diese Ausbildung leisten sollen? "
+   ]
+  }, 
+  {
+   "begin": "134.120", 
+   "children": [], 
+   "end": "137.040", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das sind ja ganz andere als vorher, "
+   ]
+  }, 
+  {
+   "begin": "137.040", 
+   "children": [], 
+   "end": "139.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "als es um die Ausbildung an Kleinwaffen- "
+   ]
+  }, 
+  {
+   "begin": "139.400", 
+   "children": [], 
+   "end": "141.160", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "und an Panzerabwehrwaffen ging. "
+   ]
+  }, 
+  {
+   "begin": "141.160", 
+   "children": [], 
+   "end": "142.800", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Hier geht es um Stabsoffiziere. "
+   ]
+  }, 
+  {
+   "begin": "142.800", 
+   "children": [], 
+   "end": "145.600", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Die hat die Bundeswehr schlicht nicht. "
+   ]
+  }, 
+  {
+   "begin": "145.600", 
+   "children": [], 
+   "end": "151.560", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wie verschafft man sich ein verl\u00e4ssliches Bild der Sicherheitslage im Zentralirak? "
+   ]
+  }, 
+  {
+   "begin": "151.560", 
+   "children": [], 
+   "end": "155.040", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Welche Entwicklung erwartet die Bundesregierung im Inneren? "
+   ]
+  }, 
+  {
+   "begin": "155.040", 
+   "children": [], 
+   "end": "156.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wie verhalten wir uns zu den Peschmerga?"
+   ]
+  }, 
+  {
+   "begin": "156.600", 
+   "children": [], 
+   "end": "159.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Dann gibt es eine besonders schwierige Frage, "
+   ]
+  }, 
+  {
+   "begin": "159.240", 
+   "children": [], 
+   "end": "161.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die es meiner Fraktion nahezu unm\u00f6glich macht, "
+   ]
+  }, 
+  {
+   "begin": "161.920", 
+   "children": [], 
+   "end": "163.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "diesem Teil des Mandats zuzustimmen. "
+   ]
+  }, 
+  {
+   "begin": "163.520", 
+   "children": [], 
+   "end": "164.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Sie beruht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "164.800", 
+   "children": [], 
+   "end": "168.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "da muss ich Herrn Wadephul leider direkt widersprechen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "168.080", 
+   "children": [], 
+   "end": "168.440", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "darauf, "
+   ]
+  }, 
+  {
+   "begin": "168.440", 
+   "children": [], 
+   "end": "177.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass mit dem Dekret vom 8.\u00a0M\u00e4rz 2018 die Popular Mobilization Forces formell Teil der regul\u00e4ren Streitkr\u00e4fte des Irak geworden sind. "
+   ]
+  }, 
+  {
+   "begin": "177.600", 
+   "children": [], 
+   "end": "180.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Das Mandat spricht von der Ausbildung der regul\u00e4ren Streitkr\u00e4fte. "
+   ]
+  }, 
+  {
+   "begin": "180.520", 
+   "children": [], 
+   "end": "186.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wollen wir wirklich eine vom Iran unterst\u00fctzte schiitische Miliz im Irak ausbilden? "
+   ]
+  }, 
+  {
+   "begin": "186.880", 
+   "children": [], 
+   "end": "191.640", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Das kann ich mir beim besten Willen nicht vorstellen."
+   ]
+  }, 
+  {
+   "begin": "191.640", 
+   "children": [], 
+   "end": "193.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wer glaubt, "
+   ]
+  }, 
+  {
+   "begin": "193.280", 
+   "children": [], 
+   "end": "195.120", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "das sei gar nicht so, "
+   ]
+  }, 
+  {
+   "begin": "195.120", 
+   "children": [], 
+   "end": "196.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "der muss nur einmal schauen, "
+   ]
+  }, 
+  {
+   "begin": "196.600", 
+   "children": [], 
+   "end": "198.920", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wie diese Popular Mobilization Forces finanziert werden: "
+   ]
+  }, 
+  {
+   "begin": "198.920", 
+   "children": [], 
+   "end": "201.160", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Aus dem irakischen Staatshaushalt! "
+   ]
+  }, 
+  {
+   "begin": "201.160", 
+   "children": [], 
+   "end": "202.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Es spricht also einiges daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "202.280", 
+   "children": [], 
+   "end": "205.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich hierbei nicht um eine Miliz handelt; "
+   ]
+  }, 
+  {
+   "begin": "205.520", 
+   "children": [], 
+   "end": "206.840", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "es spricht aber sehr viel daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "206.840", 
+   "children": [], 
+   "end": "209.880", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich um genau die regul\u00e4ren Streitkr\u00e4fte handelt, "
+   ]
+  }, 
+  {
+   "begin": "209.880", 
+   "children": [], 
+   "end": "212.520", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die wir ausbilden wollen."
+   ]
+  }, 
+  {
+   "begin": "212.520", 
+   "children": [], 
+   "end": "213.280", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "213.280", 
+   "children": [], 
+   "end": "217.640", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "die Fraktion der Freien Demokraten wird sich im Ergebnis enthalten. "
+   ]
+  }, 
+  {
+   "begin": "217.640", 
+   "children": [], 
+   "end": "223.560", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wir signalisieren eindeutig unsere Zustimmung zur Fortsetzung des Antiterrorkampfes, "
+   ]
+  }, 
+  {
+   "begin": "223.560", 
+   "children": [], 
+   "end": "226.840", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "aber genauso eindeutig unsere Ablehnung eines unausgegorenen, "
+   ]
+  }, 
+  {
+   "begin": "226.840", 
+   "children": [], 
+   "end": "227.760", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "unpr\u00e4zisen, "
+   ]
+  }, 
+  {
+   "begin": "227.760", 
+   "children": [], 
+   "end": "233.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "unklaren Mandats mit unabsehbarem Ende und ungewissem Ausgang. "
+   ]
+  }, 
+  {
+   "begin": "233.120", 
+   "children": [], 
+   "end": "236.520", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir tun das im Interesse unserer Bundeswehrsoldatinnen und -soldaten."
+   ]
+  }, 
+  {
+   "begin": "236.520", 
+   "children": [], 
+   "end": "237.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "237.560", 
+   "children": [], 
+   "end": "244.280", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat das Wort der Kollege Dr.\u00a0Alexander Neu, "
+   ]
+  }, 
+  {
+   "begin": "244.280", 
+   "children": [], 
+   "end": "246.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Fraktion Die Linke."
+   ]
+  }
+ ]
+}

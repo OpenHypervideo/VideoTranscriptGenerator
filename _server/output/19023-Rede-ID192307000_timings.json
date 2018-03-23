@@ -1,0 +1,1124 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.680", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Ich muss erst das Niveau ein bisschen heben."
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "children": [], 
+   "end": "8.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Nein!\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "children": [], 
+   "end": "10.160", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte um ein bisschen Geduld, "
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "children": [], 
+   "end": "16.800", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend das Rednerpult hochgefahren wird."
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "children": [], 
+   "end": "18.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "18.760", 
+   "children": [], 
+   "end": "22.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Ministerin! "
+   ]
+  }, 
+  {
+   "begin": "22.320", 
+   "children": [], 
+   "end": "24.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "24.600", 
+   "children": [], 
+   "end": "27.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte G\u00e4ste auf der Trib\u00fcne! "
+   ]
+  }, 
+  {
+   "begin": "27.600", 
+   "children": [], 
+   "end": "32.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Im Vergleich zu den Menschen in anderen L\u00e4ndern geht es den Menschen in Deutschland sehr gut. "
+   ]
+  }, 
+  {
+   "begin": "32.480", 
+   "children": [], 
+   "end": "35.200", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Dennoch k\u00f6nnen wir \u00fcberall h\u00f6ren und lesen, "
+   ]
+  }, 
+  {
+   "begin": "35.200", 
+   "children": [], 
+   "end": "36.120", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in einer Krise stecken, "
+   ]
+  }, 
+  {
+   "begin": "36.120", 
+   "children": [], 
+   "end": "38.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "allerdings nicht mehr in einer wirtschaftlichen Krise\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "38.480", 
+   "children": [], 
+   "end": "40.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "in diesem Bereich l\u00e4uft es prima\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "40.520", 
+   "children": [], 
+   "end": "44.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "sondern in einer gesellschaftlichen. "
+   ]
+  }, 
+  {
+   "begin": "44.520", 
+   "children": [], 
+   "end": "45.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "So weit w\u00fcrde ich nicht gehen, "
+   ]
+  }, 
+  {
+   "begin": "45.840", 
+   "children": [], 
+   "end": "48.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "aber ich w\u00fcrde schon sagen: "
+   ]
+  }, 
+  {
+   "begin": "48.680", 
+   "children": [], 
+   "end": "50.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Das Band, "
+   ]
+  }, 
+  {
+   "begin": "50.320", 
+   "children": [], 
+   "end": "53.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "das unsere Gesellschaft zusammenh\u00e4lt, "
+   ]
+  }, 
+  {
+   "begin": "53.280", 
+   "children": [], 
+   "end": "57.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "ist an der einen oder anderen Stelle etwas ausgeleiert. "
+   ]
+  }, 
+  {
+   "begin": "57.560", 
+   "children": [], 
+   "end": "61.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Das zeigt auch das Wahlergebnis vom September."
+   ]
+  }, 
+  {
+   "begin": "61.360", 
+   "children": [], 
+   "end": "62.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Das Ressort \u201eFamilie, "
+   ]
+  }, 
+  {
+   "begin": "62.640", 
+   "children": [], 
+   "end": "64.240", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Senioren, "
+   ]
+  }, 
+  {
+   "begin": "64.240", 
+   "children": [], 
+   "end": "69.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Frauen und Jugend\u201c hat eine besondere Verantwortung; "
+   ]
+  }, 
+  {
+   "begin": "69.200", 
+   "children": [], 
+   "end": "78.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "denn zentral f\u00fcr das Funktionieren unseres Gemeinwesens in Deutschland ist das Prinzip der Subsidiarit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "78.360", 
+   "children": [], 
+   "end": "79.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "das Prinzip also, "
+   ]
+  }, 
+  {
+   "begin": "79.400", 
+   "children": [], 
+   "end": "85.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "nach dem Aufgaben m\u00f6glichst vom B\u00fcrger selbst oder b\u00fcrgernah geregelt werden. "
+   ]
+  }, 
+  {
+   "begin": "85.720", 
+   "children": [], 
+   "end": "91.000", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Herausforderungen sollen auf der niedrigsten politischen Ebene oder von kleineren Einheiten gel\u00f6st werden. "
+   ]
+  }, 
+  {
+   "begin": "91.000", 
+   "children": [], 
+   "end": "91.840", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Funktioniert das nicht, "
+   ]
+  }, 
+  {
+   "begin": "91.840", 
+   "children": [], 
+   "end": "94.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dann versucht man es auf der n\u00e4chsth\u00f6heren Ebene. "
+   ]
+  }, 
+  {
+   "begin": "94.920", 
+   "children": [], 
+   "end": "100.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Subsidiarit\u00e4t kann aber nur funktionieren mit starken Familien, "
+   ]
+  }, 
+  {
+   "begin": "100.840", 
+   "children": [], 
+   "end": "105.600", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "mit einer ausgepr\u00e4gten Zivilgesellschaft und mit viel b\u00fcrgerschaftlichem Engagement. "
+   ]
+  }, 
+  {
+   "begin": "105.600", 
+   "children": [], 
+   "end": "108.720", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen, "
+   ]
+  }, 
+  {
+   "begin": "108.720", 
+   "children": [], 
+   "end": "109.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "meine Herren, "
+   ]
+  }, 
+  {
+   "begin": "109.800", 
+   "children": [], 
+   "end": "113.480", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "genau darum muss es im Ausschuss f\u00fcr Familie, "
+   ]
+  }, 
+  {
+   "begin": "113.480", 
+   "children": [], 
+   "end": "114.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Senioren, "
+   ]
+  }, 
+  {
+   "begin": "114.080", 
+   "children": [], 
+   "end": "121.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Frauen und Jugend und im zust\u00e4ndigen Ministerium in dieser Legislaturperiode gehen: "
+   ]
+  }, 
+  {
+   "begin": "121.160", 
+   "children": [], 
+   "end": "125.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Der Zusammenhalt in unserer Gesellschaft muss wieder wachsen. "
+   ]
+  }, 
+  {
+   "begin": "125.240", 
+   "children": [], 
+   "end": "129.360", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr muss man die zentralen Akteure st\u00e4rken. "
+   ]
+  }, 
+  {
+   "begin": "129.360", 
+   "children": [], 
+   "end": "133.480", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag sind einige Ma\u00dfnahmen festgehalten, "
+   ]
+  }, 
+  {
+   "begin": "133.480", 
+   "children": [], 
+   "end": "136.480", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "mit denen wir das bewerkstelligen wollen."
+   ]
+  }, 
+  {
+   "begin": "136.480", 
+   "children": [], 
+   "end": "137.800", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Erstens: "
+   ]
+  }, 
+  {
+   "begin": "137.800", 
+   "children": [], 
+   "end": "139.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "St\u00e4rkung der Familie. "
+   ]
+  }, 
+  {
+   "begin": "139.080", 
+   "children": [], 
+   "end": "143.720", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Meine Kolleginnen und Kollegen haben bereits viele Ma\u00dfnahmen genannt, "
+   ]
+  }, 
+  {
+   "begin": "143.720", 
+   "children": [], 
+   "end": "147.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "mit denen wir Familien das Leben erleichtern wollen: "
+   ]
+  }, 
+  {
+   "begin": "147.120", 
+   "children": [], 
+   "end": "149.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die Erh\u00f6hung des Kindergelds und des Kinderzuschlags, "
+   ]
+  }, 
+  {
+   "begin": "149.120", 
+   "children": [], 
+   "end": "153.440", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "der Ausbau und die Verbesserung der Kinderbetreuung. "
+   ]
+  }, 
+  {
+   "begin": "153.440", 
+   "children": [], 
+   "end": "158.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Auch das Baukindergeld wird die Situation junger Familien merklich verbessern. "
+   ]
+  }, 
+  {
+   "begin": "158.040", 
+   "children": [], 
+   "end": "166.520", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Ein Eigenheim macht unabh\u00e4ngiger und ist der Grundstein f\u00fcr eine gute Zukunft."
+   ]
+  }, 
+  {
+   "begin": "166.520", 
+   "children": [], 
+   "end": "167.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens: "
+   ]
+  }, 
+  {
+   "begin": "167.760", 
+   "children": [], 
+   "end": "171.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "St\u00e4rkung des ehrenamtlichen und b\u00fcrgerschaftlichen Engagements. "
+   ]
+  }, 
+  {
+   "begin": "171.600", 
+   "children": [], 
+   "end": "174.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ehrenamtliches Engagement, "
+   ]
+  }, 
+  {
+   "begin": "174.200", 
+   "children": [], 
+   "end": "175.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die Bereitschaft, "
+   ]
+  }, 
+  {
+   "begin": "175.120", 
+   "children": [], 
+   "end": "179.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "sich f\u00fcr andere und f\u00fcr die Gemeinschaft einzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "179.640", 
+   "children": [], 
+   "end": "182.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "ist in Deutschland besonders ausgepr\u00e4gt. "
+   ]
+  }, 
+  {
+   "begin": "182.880", 
+   "children": [], 
+   "end": "187.640", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Es ist vielleicht der wertvollste und wichtigste Teil unserer Leitkultur, "
+   ]
+  }, 
+  {
+   "begin": "189.680", 
+   "children": [], 
+   "end": "193.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "das Markenzeichen unserer Gesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "193.520", 
+   "children": [], 
+   "end": "202.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "An dieser Stelle m\u00f6chte ich den \u00fcber 30\u00a0Millionen freiwillig Engagierten in Deutschland f\u00fcr ihre Arbeit und f\u00fcr ihr Engagement danken."
+   ]
+  }, 
+  {
+   "begin": "202.840", 
+   "children": [], 
+   "end": "213.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Das b\u00fcrgerschaftliche Engagement verdient nicht nur Anerkennung und Wertsch\u00e4tzung, "
+   ]
+  }, 
+  {
+   "begin": "213.640", 
+   "children": [], 
+   "end": "216.240", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "es muss auch gef\u00f6rdert und gest\u00e4rkt werden. "
+   ]
+  }, 
+  {
+   "begin": "216.240", 
+   "children": [], 
+   "end": "219.160", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Ein wichtiger Beitrag der Politik wird sein, "
+   ]
+  }, 
+  {
+   "begin": "219.160", 
+   "children": [], 
+   "end": "222.000", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "bestehende Regelungen zu entb\u00fcrokratisieren. "
+   ]
+  }, 
+  {
+   "begin": "222.000", 
+   "children": [], 
+   "end": "223.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "In fast jedem Gespr\u00e4ch, "
+   ]
+  }, 
+  {
+   "begin": "223.280", 
+   "children": [], 
+   "end": "224.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "das ich mit Ehrenamtlichen f\u00fchre, "
+   ]
+  }, 
+  {
+   "begin": "224.720", 
+   "children": [], 
+   "end": "229.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ist die zunehmende B\u00fcrokratie ein Hauptkritikpunkt. "
+   ]
+  }, 
+  {
+   "begin": "229.680", 
+   "children": [], 
+   "end": "233.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich selbst war jahrelang im Vorstand eines kleinen Sportvereins t\u00e4tig, "
+   ]
+  }, 
+  {
+   "begin": "233.360", 
+   "children": [], 
+   "end": "233.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "und ich wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "233.960", 
+   "children": [], 
+   "end": "234.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "wovon ich spreche. "
+   ]
+  }, 
+  {
+   "begin": "234.760", 
+   "children": [], 
+   "end": "237.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Viele Vereine, "
+   ]
+  }, 
+  {
+   "begin": "237.040", 
+   "children": [], 
+   "end": "239.720", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "vor allem die ehrenamtlich T\u00e4tigen, "
+   ]
+  }, 
+  {
+   "begin": "239.720", 
+   "children": [], 
+   "end": "242.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "sind teilweise an ihrer Belastungsgrenze. "
+   ]
+  }, 
+  {
+   "begin": "242.280", 
+   "children": [], 
+   "end": "245.720", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Hier m\u00fcssen wir etwas tun."
+   ]
+  }, 
+  {
+   "begin": "245.720", 
+   "children": [], 
+   "end": "257.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Auch den rechtlichen Rahmen f\u00fcr ehrenamtliche Bet\u00e4tigung und das Gemeinn\u00fctzigkeitsrecht m\u00fcssen wir in diesem Zusammenhang verbessern."
+   ]
+  }, 
+  {
+   "begin": "257.560", 
+   "children": [], 
+   "end": "265.240", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Ein weiterer wesentlicher Punkt wird in den kommenden Jahren die St\u00e4rkung der Freiwilligendienste sein. "
+   ]
+  }, 
+  {
+   "begin": "265.240", 
+   "children": [], 
+   "end": "271.080", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Der Bundesfreiwilligendienst und die Jugendfreiwilligendienste sind ein Erfolgsmodell."
+   ]
+  }, 
+  {
+   "begin": "271.080", 
+   "children": [], 
+   "end": "274.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Nach Wegfall des Wehr- "
+   ]
+  }, 
+  {
+   "begin": "274.280", 
+   "children": [], 
+   "end": "277.880", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "und des Zivildienstes sind sie noch wichtiger geworden. "
+   ]
+  }, 
+  {
+   "begin": "277.880", 
+   "children": [], 
+   "end": "282.040", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Die Dienste leisten einen immensen Beitrag f\u00fcr das Zusammenleben, "
+   ]
+  }, 
+  {
+   "begin": "282.040", 
+   "children": [], 
+   "end": "284.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "egal ob im sozialen, "
+   ]
+  }, 
+  {
+   "begin": "284.200", 
+   "children": [], 
+   "end": "286.840", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "im \u00f6kologischen oder im kulturellen Bereich."
+   ]
+  }, 
+  {
+   "begin": "286.840", 
+   "children": [], 
+   "end": "289.680", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Zusammengefasst: "
+   ]
+  }, 
+  {
+   "begin": "289.680", 
+   "children": [], 
+   "end": "296.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Gesellschaft werden k\u00fcnftig weiter und auch st\u00e4rker auf b\u00fcrgerschaftliches Engagement setzen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "296.840", 
+   "children": [], 
+   "end": "301.680", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Politik m\u00fcssen daf\u00fcr die entsprechenden Rahmenbedingungen setzen. "
+   ]
+  }, 
+  {
+   "begin": "301.680", 
+   "children": [], 
+   "end": "307.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Familien und Zivilgesellschaft sind bei der L\u00f6sung gesellschaftlicher Herausforderungen \u00e4u\u00dferst wichtig. "
+   ]
+  }, 
+  {
+   "begin": "307.560", 
+   "children": [], 
+   "end": "310.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Doch eines muss auch klar sein: "
+   ]
+  }, 
+  {
+   "begin": "310.360", 
+   "children": [], 
+   "end": "314.480", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wir in der Politik d\u00fcrfen die Verantwortung nicht einfach abschieben. "
+   ]
+  }, 
+  {
+   "begin": "314.480", 
+   "children": [], 
+   "end": "315.880", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Denn sehr oft, "
+   ]
+  }, 
+  {
+   "begin": "315.880", 
+   "children": [], 
+   "end": "322.360", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "wenn \u201eZivilgesellschaft\u201c und \u201eb\u00fcrgerschaftliches Engagement\u201c gesagt wird, "
+   ]
+  }, 
+  {
+   "begin": "322.360", 
+   "children": [], 
+   "end": "324.080", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "ist damit die Hoffnung verbunden, "
+   ]
+  }, 
+  {
+   "begin": "324.080", 
+   "children": [], 
+   "end": "327.360", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "dass damit alle Probleme und Herausforderungen verschwinden, "
+   ]
+  }, 
+  {
+   "begin": "327.360", 
+   "children": [], 
+   "end": "328.840", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "vor allem jene, "
+   ]
+  }, 
+  {
+   "begin": "328.840", 
+   "children": [], 
+   "end": "332.160", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "mit denen sich der Staat vielleicht etwas schwerer tut."
+   ]
+  }, 
+  {
+   "begin": "332.160", 
+   "children": [], 
+   "end": "334.440", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte ein Beispiel daf\u00fcr anf\u00fchren: "
+   ]
+  }, 
+  {
+   "begin": "334.440", 
+   "children": [], 
+   "end": "336.120", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "den demografischen Wandel. "
+   ]
+  }, 
+  {
+   "begin": "336.120", 
+   "children": [], 
+   "end": "339.320", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Hier kann durch b\u00fcrgerschaftliches Engagement, "
+   ]
+  }, 
+  {
+   "begin": "339.320", 
+   "children": [], 
+   "end": "342.680", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "durch eigenst\u00e4ndige Verantwortungs\u00fcbernahme sehr, "
+   ]
+  }, 
+  {
+   "begin": "342.680", 
+   "children": [], 
+   "end": "345.120", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "sehr viel erreicht werden. "
+   ]
+  }, 
+  {
+   "begin": "345.120", 
+   "children": [], 
+   "end": "347.440", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Aber genauso bleibt der Staat gefordert\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "347.440", 
+   "children": [], 
+   "end": "349.000", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "das haben wir heute auch geh\u00f6rt\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "349.000", 
+   "children": [], 
+   "end": "350.160", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "bei der Pflege, "
+   ]
+  }, 
+  {
+   "begin": "350.160", 
+   "children": [], 
+   "end": "351.440", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "bei der Rente, "
+   ]
+  }, 
+  {
+   "begin": "351.440", 
+   "children": [], 
+   "end": "356.240", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "bei der Barrierefreiheit und beim generationengerechten Wirtschaften."
+   ]
+  }, 
+  {
+   "begin": "356.240", 
+   "children": [], 
+   "end": "358.360", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Die Herausforderungen, "
+   ]
+  }, 
+  {
+   "begin": "358.360", 
+   "children": [], 
+   "end": "359.200", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "denen wir gegen\u00fcberstehen, "
+   ]
+  }, 
+  {
+   "begin": "359.200", 
+   "children": [], 
+   "end": "363.640", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen also Hand in Hand mit den engagierten B\u00fcrgern gestaltet werden. "
+   ]
+  }, 
+  {
+   "begin": "363.640", 
+   "children": [], 
+   "end": "364.640", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Das Band, "
+   ]
+  }, 
+  {
+   "begin": "364.640", 
+   "children": [], 
+   "end": "366.720", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "das unsere Gesellschaft zusammenh\u00e4lt, "
+   ]
+  }, 
+  {
+   "begin": "366.720", 
+   "children": [], 
+   "end": "369.040", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnen wir nur so wieder straffer ziehen, "
+   ]
+  }, 
+  {
+   "begin": "369.040", 
+   "children": [], 
+   "end": "372.320", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "und nur so k\u00f6nnen wir den Zusammenhalt in unserem Land wieder st\u00e4rken."
+   ]
+  }, 
+  {
+   "begin": "372.320", 
+   "children": [], 
+   "end": "374.920", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Zu diesem Themenbereich liegen keine weiteren Wortmeldungen vor. "
+   ]
+  }, 
+  {
+   "begin": "374.920", 
+   "children": [], 
+   "end": "377.000", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe deswegen den Bereich Familie, "
+   ]
+  }, 
+  {
+   "begin": "377.000", 
+   "children": [], 
+   "end": "377.840", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Senioren, "
+   ]
+  }, 
+  {
+   "begin": "377.840", 
+   "children": [], 
+   "end": "379.000", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Frauen und Jugend ab."
+   ]
+  }
+ ]
+}

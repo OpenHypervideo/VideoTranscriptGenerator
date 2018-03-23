@@ -1,0 +1,1414 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.080", 
+   "children": [], 
+   "end": "2.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "2.880", 
+   "children": [], 
+   "end": "6.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Herr Altmaier, "
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "children": [], 
+   "end": "7.480", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "herzlichen Gl\u00fcckwunsch zu Ihrem Job! "
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich fand den philosophischen \u00dcberbau Ihrer Rede durchaus spannend und hatte auch den Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "12.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie, "
+   ]
+  }, 
+  {
+   "begin": "12.800", 
+   "children": [], 
+   "end": "14.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "im Gegensatz zu dem Minister, "
+   ]
+  }, 
+  {
+   "begin": "14.720", 
+   "children": [], 
+   "end": "15.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "der vor Ihnen geredet hat, "
+   ]
+  }, 
+  {
+   "begin": "15.800", 
+   "children": [], 
+   "end": "17.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "richtig Lust auf diesen Job haben. "
+   ]
+  }, 
+  {
+   "begin": "17.880", 
+   "children": [], 
+   "end": "19.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das finde ich erst einmal gut; "
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "children": [], 
+   "end": "20.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "das finden wir erst einmal gut."
+   ]
+  }, 
+  {
+   "begin": "20.560", 
+   "children": [], 
+   "end": "25.720", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "\u201eErfolgreiche Wirtschaft f\u00fcr den Wohlstand von morgen\u201c, "
+   ]
+  }, 
+  {
+   "begin": "25.720", 
+   "children": [], 
+   "end": "28.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "so hei\u00dft ein Kapitel im Koalitionsvertrag. "
+   ]
+  }, 
+  {
+   "begin": "28.440", 
+   "children": [], 
+   "end": "30.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Aber um morgen im Wohlstand zu leben, "
+   ]
+  }, 
+  {
+   "begin": "30.000", 
+   "children": [], 
+   "end": "32.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "muss man heute an die Zukunft denken. "
+   ]
+  }, 
+  {
+   "begin": "32.560", 
+   "children": [], 
+   "end": "33.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Meine G\u00fcte! "
+   ]
+  }, 
+  {
+   "begin": "33.520", 
+   "children": [], 
+   "end": "40.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben dem Klimaschutz mit der Verabschiedung von dem Klimaziel\u00a02020 einen B\u00e4rendienst erwiesen. "
+   ]
+  }, 
+  {
+   "begin": "40.040", 
+   "children": [], 
+   "end": "43.480", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben ein verheerendes Signal an die Wirtschaft gesendet."
+   ]
+  }, 
+  {
+   "begin": "43.480", 
+   "children": [], 
+   "end": "44.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Was machen Sie jetzt? "
+   ]
+  }, 
+  {
+   "begin": "44.640", 
+   "children": [], 
+   "end": "47.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt nehmen Sie das Jahr\u00a02030 ins Visier. "
+   ]
+  }, 
+  {
+   "begin": "47.480", 
+   "children": [], 
+   "end": "49.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Man braucht aber wenigstens konkrete Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "49.280", 
+   "children": [], 
+   "end": "51.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "damit dieses Ziel erreicht werden kann."
+   ]
+  }, 
+  {
+   "begin": "51.040", 
+   "children": [], 
+   "end": "54.440", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben gestern im Ausschuss den Monitoring-Bericht behandelt: "
+   ]
+  }, 
+  {
+   "begin": "54.440", 
+   "children": [], 
+   "end": "54.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Von elf Zielen, "
+   ]
+  }, 
+  {
+   "begin": "54.960", 
+   "children": [], 
+   "end": "56.080", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "den Indikatoren, "
+   ]
+  }, 
+  {
+   "begin": "56.080", 
+   "children": [], 
+   "end": "57.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wird ein Ziel erreicht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "57.880", 
+   "children": [], 
+   "end": "59.640", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "zehn nicht. "
+   ]
+  }, 
+  {
+   "begin": "59.640", 
+   "children": [], 
+   "end": "62.080", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wo sind denn Ihre konkreten Ma\u00dfnahmen? "
+   ]
+  }, 
+  {
+   "begin": "62.080", 
+   "children": [], 
+   "end": "65.680", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Energiewende Mobilit\u00e4t einschlie\u00dfen w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "65.680", 
+   "children": [], 
+   "end": "66.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4rme einschlie\u00dfen w\u00fcrde, "
+   ]
+  }, 
+  {
+   "begin": "66.760", 
+   "children": [], 
+   "end": "68.520", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dann w\u00fcrden wir ja ein St\u00fcck weiterkommen. "
+   ]
+  }, 
+  {
+   "begin": "68.520", 
+   "children": [], 
+   "end": "70.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Aber wo ist denn die Verkehrswende? "
+   ]
+  }, 
+  {
+   "begin": "70.520", 
+   "children": [], 
+   "end": "73.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wo ist denn der massive Einstieg in die Geb\u00e4udesanierung? "
+   ]
+  }, 
+  {
+   "begin": "73.240", 
+   "children": [], 
+   "end": "77.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wo ist denn die Strategie f\u00fcr Energieeffizienz und Substitution? "
+   ]
+  }, 
+  {
+   "begin": "77.120", 
+   "children": [], 
+   "end": "80.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wo ist der dringend notwendige Kohleausstieg?"
+   ]
+  }, 
+  {
+   "begin": "80.000", 
+   "children": [], 
+   "end": "81.840", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Sie trauen sich einfach nicht. "
+   ]
+  }, 
+  {
+   "begin": "81.840", 
+   "children": [], 
+   "end": "88.360", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen Klimapolitik nicht nur aus der Wohlf\u00fchlzone heraus machen. "
+   ]
+  }, 
+  {
+   "begin": "88.360", 
+   "children": [], 
+   "end": "91.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Da muss man auch einmal mutige Entscheidungen treffen."
+   ]
+  }, 
+  {
+   "begin": "91.560", 
+   "children": [], 
+   "end": "95.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Dieses gro\u00dfartige Land hat doch immer wieder gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "95.720", 
+   "children": [], 
+   "end": "100.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass es mit seinen T\u00fcftlern und seinen Denkern in der Lage ist, "
+   ]
+  }, 
+  {
+   "begin": "100.240", 
+   "children": [], 
+   "end": "101.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "nach vorne zu gehen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "101.320", 
+   "children": [], 
+   "end": "102.280", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "durch Innovationen, "
+   ]
+  }, 
+  {
+   "begin": "102.280", 
+   "children": [], 
+   "end": "102.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "durch Erfindungen, "
+   ]
+  }, 
+  {
+   "begin": "102.880", 
+   "children": [], 
+   "end": "103.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "durch Forschergeist. "
+   ]
+  }, 
+  {
+   "begin": "103.800", 
+   "children": [], 
+   "end": "105.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Man kann doch einmal in die Geschichte schauen: "
+   ]
+  }, 
+  {
+   "begin": "105.840", 
+   "children": [], 
+   "end": "109.520", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Als der Ausstieg aus der Atomenergie beschlossen wurde, "
+   ]
+  }, 
+  {
+   "begin": "109.520", 
+   "children": [], 
+   "end": "110.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "hie\u00df es: "
+   ]
+  }, 
+  {
+   "begin": "110.240", 
+   "children": [], 
+   "end": "111.800", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das Licht geht aus. "
+   ]
+  }, 
+  {
+   "begin": "111.800", 
+   "children": [], 
+   "end": "114.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Bei der Einf\u00fchrung des Katalysators hie\u00df es: "
+   ]
+  }, 
+  {
+   "begin": "114.800", 
+   "children": [], 
+   "end": "117.080", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das Ende der Automobilindustrie. "
+   ]
+  }, 
+  {
+   "begin": "117.080", 
+   "children": [], 
+   "end": "121.600", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Mit der Einf\u00fchrung von REACH wurde der Untergang der chemischen Industrie vorhergesagt. "
+   ]
+  }, 
+  {
+   "begin": "121.600", 
+   "children": [], 
+   "end": "123.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Nichts von alledem ist passiert. "
+   ]
+  }, 
+  {
+   "begin": "123.680", 
+   "children": [], 
+   "end": "129.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben heute einen Siegeszug der erneuerbaren Energien und eine dezentrale Energieversorgung. "
+   ]
+  }, 
+  {
+   "begin": "129.360", 
+   "children": [], 
+   "end": "132.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ein Auto ohne Katalysator ist nicht einmal denkbar. "
+   ]
+  }, 
+  {
+   "begin": "132.760", 
+   "children": [], 
+   "end": "134.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Der VCI spricht vom besten Jahr, "
+   ]
+  }, 
+  {
+   "begin": "134.920", 
+   "children": [], 
+   "end": "135.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "das er je hatte. "
+   ]
+  }, 
+  {
+   "begin": "135.640", 
+   "children": [], 
+   "end": "137.760", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen von Ihnen keine Tr\u00e4gheit, "
+   ]
+  }, 
+  {
+   "begin": "137.760", 
+   "children": [], 
+   "end": "138.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir wollen Mut, "
+   ]
+  }, 
+  {
+   "begin": "138.840", 
+   "children": [], 
+   "end": "140.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Kraft und Engagement von Ihnen haben."
+   ]
+  }, 
+  {
+   "begin": "140.960", 
+   "children": [], 
+   "end": "146.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Zu den Herausforderungen der Zukunft geh\u00f6rt auch die Gewinnung der n\u00f6tigen Anzahl an Fachkr\u00e4ften. "
+   ]
+  }, 
+  {
+   "begin": "146.760", 
+   "children": [], 
+   "end": "148.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Was sagen uns denn die Mittelst\u00e4ndler? "
+   ]
+  }, 
+  {
+   "begin": "148.160", 
+   "children": [], 
+   "end": "149.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben das gro\u00dfe Problem, "
+   ]
+  }, 
+  {
+   "begin": "149.560", 
+   "children": [], 
+   "end": "151.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Fachkr\u00e4fte zu finden, "
+   ]
+  }, 
+  {
+   "begin": "151.120", 
+   "children": [], 
+   "end": "152.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "vor allem im IT-Bereich. "
+   ]
+  }, 
+  {
+   "begin": "152.840", 
+   "children": [], 
+   "end": "155.600", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Fehlende Fachkr\u00e4fte kosten viel Geld. "
+   ]
+  }, 
+  {
+   "begin": "155.600", 
+   "children": [], 
+   "end": "160.120", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Insgesamt entgehen dem Mittelstand mehr als 53\u00a0Milliarden Euro pro Jahr. "
+   ]
+  }, 
+  {
+   "begin": "160.120", 
+   "children": [], 
+   "end": "162.080", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt machen Sie viel f\u00fcr Bildung, "
+   ]
+  }, 
+  {
+   "begin": "162.080", 
+   "children": [], 
+   "end": "163.000", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr Qualifizierung. "
+   ]
+  }, 
+  {
+   "begin": "163.000", 
+   "children": [], 
+   "end": "164.240", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Sie versuchen zumindest, "
+   ]
+  }, 
+  {
+   "begin": "164.240", 
+   "children": [], 
+   "end": "165.600", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "mehr Frauen in den Arbeitsmarkt zu holen. "
+   ]
+  }, 
+  {
+   "begin": "165.600", 
+   "children": [], 
+   "end": "167.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Sie tun auch etwas f\u00fcr \u00e4ltere Arbeitnehmerinnen und Arbeitnehmer. "
+   ]
+  }, 
+  {
+   "begin": "167.560", 
+   "children": [], 
+   "end": "169.600", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Das schauen wir uns alles ganz genau an. "
+   ]
+  }, 
+  {
+   "begin": "169.600", 
+   "children": [], 
+   "end": "172.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Aber solange Sie ein Einwanderungsgesetz wollen, "
+   ]
+  }, 
+  {
+   "begin": "172.040", 
+   "children": [], 
+   "end": "173.080", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "das nicht erm\u00f6glicht, "
+   ]
+  }, 
+  {
+   "begin": "173.080", 
+   "children": [], 
+   "end": "176.920", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass Menschen hierherkommen und hier vor Ort nach einem Job suchen, "
+   ]
+  }, 
+  {
+   "begin": "176.920", 
+   "children": [], 
+   "end": "178.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "solange Sie davon ausgehen, "
+   ]
+  }, 
+  {
+   "begin": "178.400", 
+   "children": [], 
+   "end": "180.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass die Unternehmen in der Lage sind, "
+   ]
+  }, 
+  {
+   "begin": "180.080", 
+   "children": [], 
+   "end": "183.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "in Vietnam oder in Ghana Arbeitnehmerinnen und Arbeitnehmer zu finden,"
+   ]
+  }, 
+  {
+   "begin": "183.440", 
+   "children": [], 
+   "end": "187.000", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "so lange haben Sie keine vern\u00fcnftige Einwanderungsstrategie. "
+   ]
+  }, 
+  {
+   "begin": "187.000", 
+   "children": [], 
+   "end": "189.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4ndern Sie diesen Punkt in Ihrem Einwanderungsgesetz; "
+   ]
+  }, 
+  {
+   "begin": "189.600", 
+   "children": [], 
+   "end": "192.040", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "dann sind wir an Ihrer Seite."
+   ]
+  }, 
+  {
+   "begin": "192.040", 
+   "children": [], 
+   "end": "195.440", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt waren Sie in Amerika. "
+   ]
+  }, 
+  {
+   "begin": "195.440", 
+   "children": [], 
+   "end": "196.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir finden es gut, "
+   ]
+  }, 
+  {
+   "begin": "196.440", 
+   "children": [], 
+   "end": "200.240", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie in Amerika gesprochen haben. "
+   ]
+  }, 
+  {
+   "begin": "200.240", 
+   "children": [], 
+   "end": "201.120", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wir finden es gut, "
+   ]
+  }, 
+  {
+   "begin": "201.120", 
+   "children": [], 
+   "end": "203.960", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dass es keine Eskalationsstrategie gibt. "
+   ]
+  }, 
+  {
+   "begin": "203.960", 
+   "children": [], 
+   "end": "204.840", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Aber die Ank\u00fcndigung, "
+   ]
+  }, 
+  {
+   "begin": "204.840", 
+   "children": [], 
+   "end": "208.280", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "dass die Europ\u00e4ische Union und einzelne L\u00e4nder vielleicht ausgenommen werden, "
+   ]
+  }, 
+  {
+   "begin": "208.280", 
+   "children": [], 
+   "end": "210.080", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "betrachten auch wir sehr genau. "
+   ]
+  }, 
+  {
+   "begin": "210.080", 
+   "children": [], 
+   "end": "212.440", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wir warnen vor schlechten Deals. "
+   ]
+  }, 
+  {
+   "begin": "212.440", 
+   "children": [], 
+   "end": "214.520", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden sehr genau schauen, "
+   ]
+  }, 
+  {
+   "begin": "214.520", 
+   "children": [], 
+   "end": "217.880", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "was die Gegenleistung f\u00fcr eine potenzielle Ausnahme ist; "
+   ]
+  }, 
+  {
+   "begin": "217.880", 
+   "children": [], 
+   "end": "220.480", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "da gebe ich dem Kollegen Ernst absolut recht. "
+   ]
+  }, 
+  {
+   "begin": "220.480", 
+   "children": [], 
+   "end": "223.360", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Wir warnen Sie vor schlechten Deals."
+   ]
+  }, 
+  {
+   "begin": "223.360", 
+   "children": [], 
+   "end": "228.440", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Eines ist auch klar: "
+   ]
+  }, 
+  {
+   "begin": "228.440", 
+   "children": [], 
+   "end": "231.600", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden im Welthandel nur eine Rolle spielen, "
+   ]
+  }, 
+  {
+   "begin": "231.600", 
+   "children": [], 
+   "end": "233.800", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir als Europa zusammenbleiben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "233.800", 
+   "children": [], 
+   "end": "235.600", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "mit den Werten der Aufkl\u00e4rung: "
+   ]
+  }, 
+  {
+   "begin": "235.600", 
+   "children": [], 
+   "end": "236.480", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "der Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "236.480", 
+   "children": [], 
+   "end": "239.560", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "der Offenheit und des Respekts. "
+   ]
+  }, 
+  {
+   "begin": "239.560", 
+   "children": [], 
+   "end": "242.200", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Der R\u00fcckzug ins Nationale ist keine Antwort. "
+   ]
+  }, 
+  {
+   "begin": "242.200", 
+   "children": [], 
+   "end": "248.480", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist jede Schlagbaumfantasie auch einzelner Mitglieder dieser Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "248.480", 
+   "children": [], 
+   "end": "249.560", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "ist die Idee, "
+   ]
+  }, 
+  {
+   "begin": "249.560", 
+   "children": [], 
+   "end": "250.920", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Schengen aufzugeben, "
+   ]
+  }, 
+  {
+   "begin": "250.920", 
+   "children": [], 
+   "end": "257.360", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "eine Leitkultur zu definieren oder eine Glaubensgemeinschaft als nicht zugeh\u00f6rig zu brandmarken, "
+   ]
+  }, 
+  {
+   "begin": "257.360", 
+   "children": [], 
+   "end": "258.400", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Gift\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "258.400", 
+   "children": [], 
+   "end": "261.560", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Gift f\u00fcr den Wirtschaftsstandort Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "261.560", 
+   "children": [], 
+   "end": "267.320", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Gift f\u00fcr die dringend notwendige Zuwanderung und auch Gift f\u00fcr unser gemeinsames Zusammenleben."
+   ]
+  }, 
+  {
+   "begin": "267.320", 
+   "children": [], 
+   "end": "271.960", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "In einer Regierung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "271.960", 
+   "children": [], 
+   "end": "272.880", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "ich sage es Ihnen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "272.880", 
+   "children": [], 
+   "end": "275.480", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "ist es wie in Beziehungen: "
+   ]
+  }, 
+  {
+   "begin": "275.480", 
+   "children": [], 
+   "end": "276.880", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "So wie es anf\u00e4ngt, "
+   ]
+  }, 
+  {
+   "begin": "276.880", 
+   "children": [], 
+   "end": "278.120", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "so geht es weiter."
+   ]
+  }, 
+  {
+   "begin": "278.120", 
+   "children": [], 
+   "end": "281.760", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist Ihre Aufgabe als Wirtschaftsminister, "
+   ]
+  }, 
+  {
+   "begin": "281.760", 
+   "children": [], 
+   "end": "283.680", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "die Toleranz und die Offenheit, "
+   ]
+  }, 
+  {
+   "begin": "283.680", 
+   "children": [], 
+   "end": "287.680", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "die Liberalit\u00e4t gegen den Innenminister Seehofer zu verteidigen. "
+   ]
+  }, 
+  {
+   "begin": "287.680", 
+   "children": [], 
+   "end": "291.920", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Das erwarten wir von Ihnen als Wirtschaftsminister dieser Bundesrepublik Deutschland."
+   ]
+  }, 
+  {
+   "begin": "291.920", 
+   "children": [], 
+   "end": "298.320", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Was geh\u00f6rt noch zu den Herausforderungen der Zukunft? "
+   ]
+  }, 
+  {
+   "begin": "298.320", 
+   "children": [], 
+   "end": "299.960", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Eine Strategie f\u00fcr Digitalisierung, "
+   ]
+  }, 
+  {
+   "begin": "299.960", 
+   "children": [], 
+   "end": "302.320", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "die weit \u00fcber den Breitbandausbau hinausgeht, "
+   ]
+  }, 
+  {
+   "begin": "302.320", 
+   "children": [], 
+   "end": "305.080", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Bildung f\u00fcr die Arbeit von morgen, "
+   ]
+  }, 
+  {
+   "begin": "305.080", 
+   "children": [], 
+   "end": "308.280", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Unterst\u00fctzung von KMU bei der Digitalisierung, "
+   ]
+  }, 
+  {
+   "begin": "308.280", 
+   "children": [], 
+   "end": "309.640", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "F\u00f6rderung von Gr\u00fcndern, "
+   ]
+  }, 
+  {
+   "begin": "309.640", 
+   "children": [], 
+   "end": "310.960", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Forschungsf\u00f6rderung, "
+   ]
+  }, 
+  {
+   "begin": "310.960", 
+   "children": [], 
+   "end": "316.960", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "eine europ\u00e4ische industriepolitische Strategie im Hinblick auf Zukunftstechnologien und Forschung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "316.960", 
+   "children": [], 
+   "end": "319.480", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "das sind die Herausforderungen der Zukunft."
+   ]
+  }, 
+  {
+   "begin": "319.480", 
+   "children": [], 
+   "end": "322.000", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden die n\u00e4chsten Jahre regieren. "
+   ]
+  }, 
+  {
+   "begin": "322.000", 
+   "children": [], 
+   "end": "325.800", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben uns hier eine Charta der sozialen Marktwirtschaft angeboten. "
+   ]
+  }, 
+  {
+   "begin": "325.800", 
+   "children": [], 
+   "end": "327.280", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Da machen wir mit. "
+   ]
+  }, 
+  {
+   "begin": "327.280", 
+   "children": [], 
+   "end": "328.640", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Beweisen Sie uns eines: "
+   ]
+  }, 
+  {
+   "begin": "328.640", 
+   "children": [], 
+   "end": "329.800", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Beweisen Sie uns, "
+   ]
+  }, 
+  {
+   "begin": "329.800", 
+   "children": [], 
+   "end": "333.120", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "dass Zukunftsvergessenheit Sache der AfD bleibt! "
+   ]
+  }, 
+  {
+   "begin": "333.120", 
+   "children": [], 
+   "end": "335.760", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "K\u00e4mpfen wir gemeinsam f\u00fcr Nachhaltigkeit, "
+   ]
+  }, 
+  {
+   "begin": "335.760", 
+   "children": [], 
+   "end": "338.000", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "Innovation und ein Morgen, "
+   ]
+  }, 
+  {
+   "begin": "338.000", 
+   "children": [], 
+   "end": "340.360", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "das wir unseren Kindern gern hinterlassen! "
+   ]
+  }, 
+  {
+   "begin": "340.360", 
+   "children": [], 
+   "end": "348.240", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne bieten wir Ihnen unsere konstruktive Auseinandersetzung an und freuen uns auf die Einladungen ins Wirtschaftsministerium."
+   ]
+  }, 
+  {
+   "begin": "348.240", 
+   "children": [], 
+   "end": "353.000", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "353.000", 
+   "children": [], 
+   "end": "353.960", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "353.960", 
+   "children": [], 
+   "end": "355.600", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Kerstin Andreae.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "355.600", 
+   "children": [], 
+   "end": "356.360", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner: "
+   ]
+  }, 
+  {
+   "begin": "356.360", 
+   "children": [], 
+   "end": "360.000", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Carsten Linnemann f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

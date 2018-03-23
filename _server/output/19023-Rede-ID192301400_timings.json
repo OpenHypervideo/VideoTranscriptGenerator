@@ -1,0 +1,434 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "0.120", 
+   "children": [], 
+   "end": "2.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Binding, "
+   ]
+  }, 
+  {
+   "begin": "2.520", 
+   "children": [], 
+   "end": "7.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "nachdem Sie erst eine Frage gestellt haben, "
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "children": [], 
+   "end": "16.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "den Service dann aber gar nicht annehmen wollten, "
+   ]
+  }, 
+  {
+   "begin": "16.200", 
+   "children": [], 
+   "end": "26.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "greife ich jetzt zu einem in Ihren Reihen eigentlich sehr beliebten Instrument, "
+   ]
+  }, 
+  {
+   "begin": "26.520", 
+   "children": [], 
+   "end": "28.360", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich dem der Zwangsbegl\u00fcckung. "
+   ]
+  }, 
+  {
+   "begin": "28.360", 
+   "children": [], 
+   "end": "32.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ich biete Ihnen den Service einfach ungefragt."
+   ]
+  }, 
+  {
+   "begin": "32.200", 
+   "children": [], 
+   "end": "34.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben die Frage gestellt: "
+   ]
+  }, 
+  {
+   "begin": "34.680", 
+   "children": [], 
+   "end": "38.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Was ist der Kritikpunkt an dem Steuerzuschuss zur Rentenversicherung? "
+   ]
+  }, 
+  {
+   "begin": "38.160", 
+   "children": [], 
+   "end": "39.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Er wird im Jahr\u00a02020, "
+   ]
+  }, 
+  {
+   "begin": "39.520", 
+   "children": [], 
+   "end": "40.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "also in dieser Wahlperiode, "
+   ]
+  }, 
+  {
+   "begin": "40.760", 
+   "children": [], 
+   "end": "43.440", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "den Betrag von 100\u00a0Milliarden Euro \u00fcbersteigen, "
+   ]
+  }, 
+  {
+   "begin": "43.440", 
+   "children": [], 
+   "end": "46.680", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und zwar ergibt sich das auf der Basis des geltenden Rentenrechts. "
+   ]
+  }, 
+  {
+   "begin": "46.680", 
+   "children": [], 
+   "end": "51.640", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die letzte Gro\u00dfe Koalition hat n\u00e4mlich neue versicherungsfremde Leistungen eingef\u00fchrt: "
+   ]
+  }, 
+  {
+   "begin": "51.640", 
+   "children": [], 
+   "end": "55.320", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "M\u00fctterrente und Rente mit 63. "
+   ]
+  }, 
+  {
+   "begin": "55.320", 
+   "children": [], 
+   "end": "56.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Bereits das hat dazu gef\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "56.880", 
+   "children": [], 
+   "end": "59.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dass ein Steuerzuschuss von \u00fcber 100\u00a0Milliarden Euro gebraucht wird."
+   ]
+  }, 
+  {
+   "begin": "59.840", 
+   "children": [], 
+   "end": "61.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt haben Sie noch mehr beschlossen, "
+   ]
+  }, 
+  {
+   "begin": "61.120", 
+   "children": [], 
+   "end": "63.680", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich noch mehr versicherungsfremde Leistungen: "
+   ]
+  }, 
+  {
+   "begin": "63.680", 
+   "children": [], 
+   "end": "66.120", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Grundrente nach 35\u00a0Beitragsjahren,"
+   ]
+  }, 
+  {
+   "begin": "66.120", 
+   "children": [], 
+   "end": "72.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Abkehr vom demografischen Faktor ab 2024 und noch einmal eine Verbesserung der M\u00fctterrente."
+   ]
+  }, 
+  {
+   "begin": "72.080", 
+   "children": [], 
+   "end": "73.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das Interessante ist, "
+   ]
+  }, 
+  {
+   "begin": "73.160", 
+   "children": [], 
+   "end": "75.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass in Ihrer Koalitionsvereinbarung genau steht, "
+   ]
+  }, 
+  {
+   "begin": "75.760", 
+   "children": [], 
+   "end": "77.600", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "und zwar bis auf die Stelle hinter dem Komma genau, "
+   ]
+  }, 
+  {
+   "begin": "77.600", 
+   "children": [], 
+   "end": "80.560", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "was Sie f\u00fcr das BAf\u00f6G oder f\u00fcr die Kinderbetreuung ausgeben wollen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "80.560", 
+   "children": [], 
+   "end": "82.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "das ist ja auch gut und richtig\u00a0\u2013; "
+   ]
+  }, 
+  {
+   "begin": "82.440", 
+   "children": [], 
+   "end": "84.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "je gr\u00f6\u00dfer aber die Ausgaben sind, "
+   ]
+  }, 
+  {
+   "begin": "84.160", 
+   "children": [], 
+   "end": "85.120", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die Sie produzieren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "85.120", 
+   "children": [], 
+   "end": "86.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die sind bei der Rente riesengro\u00df\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "86.960", 
+   "children": [], 
+   "end": "88.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "umso weniger konkret sind Sie, "
+   ]
+  }, 
+  {
+   "begin": "88.680", 
+   "children": [], 
+   "end": "89.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "was die Finanzierung angeht. "
+   ]
+  }, 
+  {
+   "begin": "89.880", 
+   "children": [], 
+   "end": "91.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine Leerstelle. "
+   ]
+  }, 
+  {
+   "begin": "91.320", 
+   "children": [], 
+   "end": "92.560", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "92.560", 
+   "children": [], 
+   "end": "93.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "die nicht sagen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "93.960", 
+   "children": [], 
+   "end": "99.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie alle diese auf Jahrzehnte hinaus teuren Leistungen eigentlich finanzieren wollen."
+   ]
+  }, 
+  {
+   "begin": "99.080", 
+   "children": [], 
+   "end": "101.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen w\u00e4re die Frage eigentlich an Sie zur\u00fcckzugeben: "
+   ]
+  }, 
+  {
+   "begin": "101.600", 
+   "children": [], 
+   "end": "103.280", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wollen Sie Beitr\u00e4ge erh\u00f6hen, "
+   ]
+  }, 
+  {
+   "begin": "103.280", 
+   "children": [], 
+   "end": "105.680", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "kommen zus\u00e4tzliche Steuermittel ins System, "
+   ]
+  }, 
+  {
+   "begin": "105.680", 
+   "children": [], 
+   "end": "106.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "oder wollen Sie Renten k\u00fcrzen? "
+   ]
+  }, 
+  {
+   "begin": "106.960", 
+   "children": [], 
+   "end": "110.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00fcrde ich sehr gern von Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "110.240", 
+   "children": [], 
+   "end": "112.240", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Binding, "
+   ]
+  }, 
+  {
+   "begin": "112.240", 
+   "children": [], 
+   "end": "112.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wissen."
+   ]
+  }, 
+  {
+   "begin": "112.960", 
+   "children": [], 
+   "end": "115.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Binding."
+   ]
+  }
+ ]
+}

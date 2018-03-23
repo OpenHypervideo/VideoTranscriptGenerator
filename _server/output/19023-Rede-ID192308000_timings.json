@@ -1,0 +1,954 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "11.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "11.520", 
+   "children": [], 
+   "end": "14.160", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "children": [], 
+   "end": "16.160", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin Karliczek, "
+   ]
+  }, 
+  {
+   "begin": "16.160", 
+   "children": [], 
+   "end": "17.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sie wurden ja kritisiert, "
+   ]
+  }, 
+  {
+   "begin": "17.760", 
+   "children": [], 
+   "end": "21.120", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Sie h\u00e4tten von Bildung und Forschung keine Ahnung. "
+   ]
+  }, 
+  {
+   "begin": "21.120", 
+   "children": [], 
+   "end": "22.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Keine Sorge: "
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "children": [], 
+   "end": "24.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Auch ich bin Quereinsteiger. "
+   ]
+  }, 
+  {
+   "begin": "24.480", 
+   "children": [], 
+   "end": "25.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Nur: "
+   ]
+  }, 
+  {
+   "begin": "25.000", 
+   "children": [], 
+   "end": "28.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Quereinsteiger m\u00fcssen dann auch die richtigen Fragen stellen, "
+   ]
+  }, 
+  {
+   "begin": "28.760", 
+   "children": [], 
+   "end": "30.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und das m\u00fcssen Sie jetzt, "
+   ]
+  }, 
+  {
+   "begin": "30.760", 
+   "children": [], 
+   "end": "34.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Frau Karliczek."
+   ]
+  }, 
+  {
+   "begin": "34.000", 
+   "children": [], 
+   "end": "39.360", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Das Forschungsbudget Ihres Hauses liegt bei 10\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "39.360", 
+   "children": [], 
+   "end": "42.480", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das Resultat ist jedoch ungen\u00fcgend. "
+   ]
+  }, 
+  {
+   "begin": "42.480", 
+   "children": [], 
+   "end": "43.440", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Nicht \u00fcberall, "
+   ]
+  }, 
+  {
+   "begin": "43.440", 
+   "children": [], 
+   "end": "44.800", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wo man Geld reinsteckt, "
+   ]
+  }, 
+  {
+   "begin": "44.800", 
+   "children": [], 
+   "end": "46.720", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "kommt auch etwas raus."
+   ]
+  }, 
+  {
+   "begin": "46.720", 
+   "children": [], 
+   "end": "51.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ein weltweit renommiertes Ranking, "
+   ]
+  }, 
+  {
+   "begin": "51.600", 
+   "children": [], 
+   "end": "54.680", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "das des IMD in Lausanne, "
+   ]
+  }, 
+  {
+   "begin": "54.680", 
+   "children": [], 
+   "end": "57.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "legt schonungslos offen: "
+   ]
+  }, 
+  {
+   "begin": "57.400", 
+   "children": [], 
+   "end": "59.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Was Innovation angeht, "
+   ]
+  }, 
+  {
+   "begin": "59.360", 
+   "children": [], 
+   "end": "62.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "f\u00e4llt unser Land immer weiter zur\u00fcck. "
+   ]
+  }, 
+  {
+   "begin": "62.640", 
+   "children": [], 
+   "end": "64.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Herr Seehofer w\u00fcrde jetzt sagen: "
+   ]
+  }, 
+  {
+   "begin": "64.640", 
+   "children": [], 
+   "end": "67.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Die Heimat br\u00f6ckelt."
+   ]
+  }, 
+  {
+   "begin": "67.400", 
+   "children": [], 
+   "end": "74.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "2014 lag diese Heimat bei der Innovationskraft noch auf Platz\u00a06, "
+   ]
+  }, 
+  {
+   "begin": "74.480", 
+   "children": [], 
+   "end": "77.080", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "heute auf Platz\u00a013. "
+   ]
+  }, 
+  {
+   "begin": "77.080", 
+   "children": [], 
+   "end": "81.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Bei der Digitalisierung liegen wir gar auf Platz\u00a017. "
+   ]
+  }, 
+  {
+   "begin": "81.480", 
+   "children": [], 
+   "end": "83.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Systematischer Sinkflug! "
+   ]
+  }, 
+  {
+   "begin": "83.760", 
+   "children": [], 
+   "end": "86.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Drei Schieflagen machen mir gro\u00dfe Sorgen: "
+   ]
+  }, 
+  {
+   "begin": "86.440", 
+   "children": [], 
+   "end": "88.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "erstens Spitzentechnologie, "
+   ]
+  }, 
+  {
+   "begin": "88.720", 
+   "children": [], 
+   "end": "93.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "zweitens Mittelstand und drittens Sprunginnovation."
+   ]
+  }, 
+  {
+   "begin": "93.680", 
+   "children": [], 
+   "end": "95.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Spitzentechnologie. "
+   ]
+  }, 
+  {
+   "begin": "95.400", 
+   "children": [], 
+   "end": "96.680", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir laufen Gefahr\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "96.680", 
+   "children": [], 
+   "end": "98.440", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die Experten sagen es\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "98.440", 
+   "children": [], 
+   "end": "105.800", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass wir bei Technologien wie Cloud-Computing und K\u00fcnstlicher Intelligenz massiv zur\u00fcckfallen. "
+   ]
+  }, 
+  {
+   "begin": "105.800", 
+   "children": [], 
+   "end": "109.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Was unser Juwel Industrie\u00a04.0 betrifft: "
+   ]
+  }, 
+  {
+   "begin": "109.400", 
+   "children": [], 
+   "end": "118.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Bei den \u00fcberlebenswichtigen transnationalen Patenten f\u00fcr smarte Produktion haben uns die USA und Japan abgeh\u00e4ngt. "
+   ]
+  }, 
+  {
+   "begin": "118.040", 
+   "children": [], 
+   "end": "122.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Herr Altmaier hat heute Morgen \u00fcber das Thema Patent bei anderen geklagt. "
+   ]
+  }, 
+  {
+   "begin": "122.120", 
+   "children": [], 
+   "end": "124.160", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Er soll einmal ins eigene Land schauen."
+   ]
+  }, 
+  {
+   "begin": "124.160", 
+   "children": [], 
+   "end": "127.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "127.360", 
+   "children": [], 
+   "end": "130.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "eine Frau Bundeskanzlerin, "
+   ]
+  }, 
+  {
+   "begin": "130.880", 
+   "children": [], 
+   "end": "131.680", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Physikerin, "
+   ]
+  }, 
+  {
+   "begin": "131.680", 
+   "children": [], 
+   "end": "132.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "zw\u00f6lf Jahre im Amt: "
+   ]
+  }, 
+  {
+   "begin": "132.840", 
+   "children": [], 
+   "end": "134.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Da h\u00e4tte man anderes erwartet. "
+   ]
+  }, 
+  {
+   "begin": "134.920", 
+   "children": [], 
+   "end": "141.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Land droht n\u00e4mlich heute von einer einstigen Gr\u00fcnderschmiede in einen Oldtimerpark zu mutieren. "
+   ]
+  }, 
+  {
+   "begin": "141.720", 
+   "children": [], 
+   "end": "142.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage \u201ePark\u201c, "
+   ]
+  }, 
+  {
+   "begin": "142.600", 
+   "children": [], 
+   "end": "143.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Herr Seehofer, "
+   ]
+  }, 
+  {
+   "begin": "143.600", 
+   "children": [], 
+   "end": "146.800", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "um einmal vom Heimatmuseum wegzukommen."
+   ]
+  }, 
+  {
+   "begin": "146.800", 
+   "children": [], 
+   "end": "150.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wir ruhen uns auf Industrien aus, "
+   ]
+  }, 
+  {
+   "begin": "150.440", 
+   "children": [], 
+   "end": "155.120", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "deren Ursprung in der Kaiserzeit liegt. "
+   ]
+  }, 
+  {
+   "begin": "155.120", 
+   "children": [], 
+   "end": "156.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Wissen Sie eigentlich, "
+   ]
+  }, 
+  {
+   "begin": "156.400", 
+   "children": [], 
+   "end": "160.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "was das f\u00fcr die beruflichen Perspektiven der jungen Menschen hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "160.680", 
+   "children": [], 
+   "end": "164.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wenn man technologisch so zur\u00fcckf\u00e4llt?"
+   ]
+  }, 
+  {
+   "begin": "164.720", 
+   "children": [], 
+   "end": "166.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Meine zweite gro\u00dfe Sorge: "
+   ]
+  }, 
+  {
+   "begin": "166.360", 
+   "children": [], 
+   "end": "168.240", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "unser Mittelstand. "
+   ]
+  }, 
+  {
+   "begin": "168.240", 
+   "children": [], 
+   "end": "172.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Die Innovatorenquote im Mittelstand hat sich seit zehn Jahren halbiert; "
+   ]
+  }, 
+  {
+   "begin": "172.360", 
+   "children": [], 
+   "end": "180.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "bei neuartigen Produkten oder gar bei innovativen Gesch\u00e4ftsmodellen leider ein Tal der Tr\u00e4nen. "
+   ]
+  }, 
+  {
+   "begin": "180.640", 
+   "children": [], 
+   "end": "185.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich nicht bei den 1\u00a0600\u00a0Hidden Champions in diesem Lande, "
+   ]
+  }, 
+  {
+   "begin": "185.320", 
+   "children": [], 
+   "end": "187.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die als Leuchtt\u00fcrme gelten; "
+   ]
+  }, 
+  {
+   "begin": "187.440", 
+   "children": [], 
+   "end": "189.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "aber Hunderttausende von Mittelst\u00e4ndlern, "
+   ]
+  }, 
+  {
+   "begin": "189.960", 
+   "children": [], 
+   "end": "192.440", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "oft Zulieferer im l\u00e4ndlichen Raum, "
+   ]
+  }, 
+  {
+   "begin": "192.440", 
+   "children": [], 
+   "end": "194.680", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "leiden unter Fachkr\u00e4ftemangel, "
+   ]
+  }, 
+  {
+   "begin": "194.680", 
+   "children": [], 
+   "end": "198.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Digitalisierungsdefiziten und Investitionsschw\u00e4che. "
+   ]
+  }, 
+  {
+   "begin": "198.240", 
+   "children": [], 
+   "end": "199.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "199.240", 
+   "children": [], 
+   "end": "201.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "da tut einem das Herz weh."
+   ]
+  }, 
+  {
+   "begin": "201.840", 
+   "children": [], 
+   "end": "212.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Die exzellent besetzte Expertenkommission \u201eForschung und Innovation\u201c adressiert im Parlament Jahr f\u00fcr Jahr dieselben M\u00e4ngel. "
+   ]
+  }, 
+  {
+   "begin": "212.920", 
+   "children": [], 
+   "end": "219.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Zum zehnten Mal in Folge fordert die EFI steuerliche Forschungsf\u00f6rderung f\u00fcr den Mittelstand. "
+   ]
+  }, 
+  {
+   "begin": "219.600", 
+   "children": [], 
+   "end": "221.440", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Ein trauriges Jubil\u00e4um! "
+   ]
+  }, 
+  {
+   "begin": "221.440", 
+   "children": [], 
+   "end": "224.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freien Demokraten werden helfen, "
+   ]
+  }, 
+  {
+   "begin": "224.240", 
+   "children": [], 
+   "end": "229.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "ein richtig gutes Gesetz mit auf den Weg zu bringen, "
+   ]
+  }, 
+  {
+   "begin": "229.600", 
+   "children": [], 
+   "end": "235.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "von dem die Republik sprechen wird."
+   ]
+  }, 
+  {
+   "begin": "235.080", 
+   "children": [], 
+   "end": "235.720", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "235.720", 
+   "children": [], 
+   "end": "240.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag bekennen Sie sich zur F\u00f6rderung von Sprunginnovationen: "
+   ]
+  }, 
+  {
+   "begin": "240.160", 
+   "children": [], 
+   "end": "241.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Tesla, "
+   ]
+  }, 
+  {
+   "begin": "241.000", 
+   "children": [], 
+   "end": "243.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "iPhone oder Genomeditierung. "
+   ]
+  }, 
+  {
+   "begin": "243.640", 
+   "children": [], 
+   "end": "244.840", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "244.840", 
+   "children": [], 
+   "end": "247.040", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "das ist nat\u00fcrlich \u00fcberf\u00e4llig. "
+   ]
+  }, 
+  {
+   "begin": "247.040", 
+   "children": [], 
+   "end": "251.280", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Aber warum wird nicht wie in der Schweiz, "
+   ]
+  }, 
+  {
+   "begin": "251.280", 
+   "children": [], 
+   "end": "256.560", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "wie in den USA in eine Agentur f\u00fcr radikale Innovation investiert? "
+   ]
+  }, 
+  {
+   "begin": "256.560", 
+   "children": [], 
+   "end": "259.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Das ist in diesem Lande schon l\u00e4ngst \u00fcberf\u00e4llig."
+   ]
+  }, 
+  {
+   "begin": "259.280", 
+   "children": [], 
+   "end": "261.280", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Sattelberger, "
+   ]
+  }, 
+  {
+   "begin": "261.280", 
+   "children": [], 
+   "end": "263.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "achten Sie auf die Redezeit, "
+   ]
+  }, 
+  {
+   "begin": "263.520", 
+   "children": [], 
+   "end": "264.960", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "die ist schon ziemlich \u00fcberschritten."
+   ]
+  }, 
+  {
+   "begin": "264.960", 
+   "children": [], 
+   "end": "265.200", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "265.200", 
+   "children": [], 
+   "end": "267.960", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "ich bin als Erstling gerade gut in Fahrt."
+   ]
+  }, 
+  {
+   "begin": "267.960", 
+   "children": [], 
+   "end": "268.520", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "268.520", 
+   "children": [], 
+   "end": "269.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "das n\u00fctzt nichts. "
+   ]
+  }, 
+  {
+   "begin": "269.320", 
+   "children": [], 
+   "end": "272.640", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben Ihre Redezeit schon um mehr als ein Drittel \u00fcberzogen. "
+   ]
+  }, 
+  {
+   "begin": "272.640", 
+   "children": [], 
+   "end": "274.400", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Kommen Sie also bitte zum Schluss."
+   ]
+  }, 
+  {
+   "begin": "274.400", 
+   "children": [], 
+   "end": "277.360", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Frau Karliczek, "
+   ]
+  }, 
+  {
+   "begin": "277.360", 
+   "children": [], 
+   "end": "280.000", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "machen Sie aus Ihrem Hause, "
+   ]
+  }, 
+  {
+   "begin": "280.000", 
+   "children": [], 
+   "end": "285.240", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "aus diesem riesigen Geldverteilungstanker eine Kreativschmiede. "
+   ]
+  }, 
+  {
+   "begin": "285.240", 
+   "children": [], 
+   "end": "287.160", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Wir helfen mit."
+   ]
+  }, 
+  {
+   "begin": "287.160", 
+   "children": [], 
+   "end": "292.680", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt erteile ich das Wort dem Kollegen S\u00f6ren Pellmann, "
+   ]
+  }, 
+  {
+   "begin": "292.680", 
+   "children": [], 
+   "end": "294.080", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Fraktion Die Linke, "
+   ]
+  }, 
+  {
+   "begin": "294.080", 
+   "children": [], 
+   "end": "298.000", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "ebenfalls zu seiner ersten Rede im Deutschen Bundestag."
+   ]
+  }
+ ]
+}
