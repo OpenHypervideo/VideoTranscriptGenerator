@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.320", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "children": [], 
+   "end": "11.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.680", 
+   "children": [], 
+   "end": "15.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Rechtsstaat ist eine tragende S\u00e4ule der liberalen Demokratie. "
+   ]
+  }, 
+  {
+   "begin": "15.840", 
+   "children": [], 
+   "end": "17.240", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wer in andere Staaten, "
+   ]
+  }, 
+  {
+   "begin": "17.240", 
+   "children": [], 
+   "end": "19.200", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "auch in der Europ\u00e4ischen Union, "
+   ]
+  }, 
+  {
+   "begin": "19.200", 
+   "children": [], 
+   "end": "19.680", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "schaut, "
+   ]
+  }, 
+  {
+   "begin": "19.680", 
+   "children": [], 
+   "end": "20.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "der sieht, "
+   ]
+  }, 
+  {
+   "begin": "20.960", 
+   "children": [], 
+   "end": "26.960", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass die Erosion des Rechtsstaats eine m\u00f6gliche Gef\u00e4hrdung der Demokratie darstellt. "
+   ]
+  }, 
+  {
+   "begin": "26.960", 
+   "children": [], 
+   "end": "30.200", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind in Deutschland zum Gl\u00fcck davor gefeit; "
+   ]
+  }, 
+  {
+   "begin": "30.200", 
+   "children": [], 
+   "end": "30.960", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "denn es gibt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "30.960", 
+   "children": [], 
+   "end": "32.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "ganz im Gegenteil\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "32.640", 
+   "children": [], 
+   "end": "37.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "ein Vertrauen der gro\u00dfen Mehrheit der Bev\u00f6lkerung in den Rechtsstaat. "
+   ]
+  }, 
+  {
+   "begin": "37.160", 
+   "children": [], 
+   "end": "37.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Es ist wichtig, "
+   ]
+  }, 
+  {
+   "begin": "37.840", 
+   "children": [], 
+   "end": "39.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "heute zum Ausdruck zu bringen, "
+   ]
+  }, 
+  {
+   "begin": "39.800", 
+   "children": [], 
+   "end": "42.320", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "dass wir hinter diesem Rechtsstaat stehen, "
+   ]
+  }, 
+  {
+   "begin": "42.320", 
+   "children": [], 
+   "end": "43.360", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "hinter den Richtern, "
+   ]
+  }, 
+  {
+   "begin": "43.360", 
+   "children": [], 
+   "end": "45.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "den Staatsanw\u00e4lten und den Polizisten, "
+   ]
+  }, 
+  {
+   "begin": "45.520", 
+   "children": [], 
+   "end": "49.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die Tag f\u00fcr Tag Ordnung und Recht in diesem Land durchsetzen."
+   ]
+  }, 
+  {
+   "begin": "49.360", 
+   "children": [], 
+   "end": "51.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "51.480", 
+   "children": [], 
+   "end": "61.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "der Schutz vor Kriminalit\u00e4t und der Schutz der Opfer geh\u00f6ren zu den wichtigsten Anliegen unserer Rechtspolitik. "
+   ]
+  }, 
+  {
+   "begin": "61.960", 
+   "children": [], 
+   "end": "63.680", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt nach wie vor, "
+   ]
+  }, 
+  {
+   "begin": "63.680", 
+   "children": [], 
+   "end": "66.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass die Justiz ordentlich ausgestattet ist. "
+   ]
+  }, 
+  {
+   "begin": "66.320", 
+   "children": [], 
+   "end": "70.160", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen mehr Stellen im Bereich von Polizei, "
+   ]
+  }, 
+  {
+   "begin": "70.160", 
+   "children": [], 
+   "end": "71.880", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Staatsanwaltschaften und Richtern, "
+   ]
+  }, 
+  {
+   "begin": "71.880", 
+   "children": [], 
+   "end": "77.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "um die Verfahren im Interesse aller Verfahrensbeteiligten zu beschleunigen. "
+   ]
+  }, 
+  {
+   "begin": "77.040", 
+   "children": [], 
+   "end": "78.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "78.520", 
+   "children": [], 
+   "end": "84.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "inwieweit die gro\u00dfen Chancen der Digitalisierung dem Recht dienstbar zur Seite stehen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "84.240", 
+   "children": [], 
+   "end": "86.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Es wird eine der gro\u00dfen Herausforderungen sein, "
+   ]
+  }, 
+  {
+   "begin": "86.800", 
+   "children": [], 
+   "end": "91.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "das zuk\u00fcnftig zu regeln."
+   ]
+  }, 
+  {
+   "begin": "91.120", 
+   "children": [], 
+   "end": "93.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns auch \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "93.080", 
+   "children": [], 
+   "end": "97.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wie wir den Vollzug des Rechts noch besser gestalten k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "97.880", 
+   "children": [], 
+   "end": "104.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in der letzten Wahlperiode in vielen Bereichen des Strafrechts den Opferschutz gest\u00e4rkt. "
+   ]
+  }, 
+  {
+   "begin": "104.120", 
+   "children": [], 
+   "end": "105.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt kommt es darauf an, "
+   ]
+  }, 
+  {
+   "begin": "105.760", 
+   "children": [], 
+   "end": "106.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass das Strafrecht, "
+   ]
+  }, 
+  {
+   "begin": "106.680", 
+   "children": [], 
+   "end": "107.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "das wir durchgesetzt haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "107.840", 
+   "children": [], 
+   "end": "109.760", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "beispielsweise in den Bereichen der Raserei, "
+   ]
+  }, 
+  {
+   "begin": "109.760", 
+   "children": [], 
+   "end": "114.160", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "des Schutzes von Polizeibeamten und des versch\u00e4rften Sexualstrafrechts\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "114.160", 
+   "children": [], 
+   "end": "116.840", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "auch angewandt wird, "
+   ]
+  }, 
+  {
+   "begin": "116.840", 
+   "children": [], 
+   "end": "119.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass die Menschen wissen, "
+   ]
+  }, 
+  {
+   "begin": "119.160", 
+   "children": [], 
+   "end": "123.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "sie sind vor diesen Kriminalit\u00e4tsformen gesch\u00fctzt."
+   ]
+  }, 
+  {
+   "begin": "123.360", 
+   "children": [], 
+   "end": "124.720", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "124.720", 
+   "children": [], 
+   "end": "127.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen uns auch \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "127.480", 
+   "children": [], 
+   "end": "131.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wie wir im Bereich des Verbraucherschutzes noch besser werden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "131.520", 
+   "children": [], 
+   "end": "132.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Der traurige Anlass, "
+   ]
+  }, 
+  {
+   "begin": "132.400", 
+   "children": [], 
+   "end": "133.760", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "warum wir \u00fcber dieses Thema diskutieren, "
+   ]
+  }, 
+  {
+   "begin": "133.760", 
+   "children": [], 
+   "end": "135.120", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "ist das gro\u00dfe Datenleck bei Facebook, "
+   ]
+  }, 
+  {
+   "begin": "135.120", 
+   "children": [], 
+   "end": "136.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "das in dieser Woche publik wurde."
+   ]
+  }, 
+  {
+   "begin": "136.440", 
+   "children": [], 
+   "end": "137.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte darauf zur\u00fcckkommen, "
+   ]
+  }, 
+  {
+   "begin": "137.840", 
+   "children": [], 
+   "end": "140.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "was Datenschutz eigentlich bedeutet. "
+   ]
+  }, 
+  {
+   "begin": "140.640", 
+   "children": [], 
+   "end": "143.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Wir sch\u00fctzen nicht irgendwelche Datens\u00e4tze, "
+   ]
+  }, 
+  {
+   "begin": "143.400", 
+   "children": [], 
+   "end": "145.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir sch\u00fctzen die Menschen, "
+   ]
+  }, 
+  {
+   "begin": "145.200", 
+   "children": [], 
+   "end": "147.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die hinter diesen Daten stehen. "
+   ]
+  }, 
+  {
+   "begin": "147.200", 
+   "children": [], 
+   "end": "150.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Gesch\u00fctzt ist die Unversehrtheit, "
+   ]
+  }, 
+  {
+   "begin": "150.360", 
+   "children": [], 
+   "end": "152.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "aber auch die W\u00fcrde des Menschen; "
+   ]
+  }, 
+  {
+   "begin": "152.640", 
+   "children": [], 
+   "end": "154.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die W\u00fcrde deswegen, "
+   ]
+  }, 
+  {
+   "begin": "154.400", 
+   "children": [], 
+   "end": "155.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "weil es nicht sein darf, "
+   ]
+  }, 
+  {
+   "begin": "155.400", 
+   "children": [], 
+   "end": "159.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass man \u00fcber seine Daten ausgeforscht und durchgeleuchtet wird. "
+   ]
+  }, 
+  {
+   "begin": "159.520", 
+   "children": [], 
+   "end": "163.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Der Kernbereich der Lebensgestaltung muss gesch\u00fctzt bleiben. "
+   ]
+  }, 
+  {
+   "begin": "163.640", 
+   "children": [], 
+   "end": "165.480", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen m\u00fcssen wir uns \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "165.480", 
+   "children": [], 
+   "end": "170.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "ob wir zuk\u00fcnftig auf europ\u00e4ischer Ebene durch die E-Privacy-Verordnung deutlich machen, "
+   ]
+  }, 
+  {
+   "begin": "170.720", 
+   "children": [], 
+   "end": "175.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass die Verfehlungen von sozialen Netzwerken auch tats\u00e4chlich Konsequenzen haben. "
+   ]
+  }, 
+  {
+   "begin": "175.360", 
+   "children": [], 
+   "end": "176.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wir sch\u00fctzen die Menschen, "
+   ]
+  }, 
+  {
+   "begin": "176.680", 
+   "children": [], 
+   "end": "179.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die in diesen Netzwerken unterwegs sind."
+   ]
+  }, 
+  {
+   "begin": "179.520", 
+   "children": [], 
+   "end": "184.280", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen auch eine bessere Rechtsdurchsetzung f\u00fcr Verbraucher, "
+   ]
+  }, 
+  {
+   "begin": "184.280", 
+   "children": [], 
+   "end": "185.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "gerade bei Kleinsch\u00e4den. "
+   ]
+  }, 
+  {
+   "begin": "185.960", 
+   "children": [], 
+   "end": "190.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen heute \u00fcber Apps vielf\u00e4ltige Angebote buchen, "
+   ]
+  }, 
+  {
+   "begin": "190.280", 
+   "children": [], 
+   "end": "192.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Fahrkarten kaufen und vieles mehr. "
+   ]
+  }, 
+  {
+   "begin": "192.360", 
+   "children": [], 
+   "end": "194.480", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Aber wenn die Leistung nicht erf\u00fcllt wird, "
+   ]
+  }, 
+  {
+   "begin": "194.480", 
+   "children": [], 
+   "end": "203.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen sie oftmals zu einem Formular greifen und auf schriftliche Art und Weise ihren Widerspruch einlegen oder ihre Regressforderung geltend machen. "
+   ]
+  }, 
+  {
+   "begin": "203.480", 
+   "children": [], 
+   "end": "204.920", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Auch das wollen wir \u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "204.920", 
+   "children": [], 
+   "end": "205.240", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "205.240", 
+   "children": [], 
+   "end": "210.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass die Erstattung \u00e4hnlich unkompliziert funktioniert wie der Abschluss von Vertr\u00e4gen."
+   ]
+  }, 
+  {
+   "begin": "210.840", 
+   "children": [], 
+   "end": "213.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme auf ein sensibles Thema zu sprechen, "
+   ]
+  }, 
+  {
+   "begin": "213.760", 
+   "children": [], 
+   "end": "215.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "das den pers\u00f6nlichen Bereich betrifft. "
+   ]
+  }, 
+  {
+   "begin": "215.680", 
+   "children": [], 
+   "end": "225.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ein Ehepartner ins Krankenhaus kommt oder handlungsunf\u00e4hig wird und keine Vorsorgevollmacht vorliegt, "
+   ]
+  }, 
+  {
+   "begin": "225.280", 
+   "children": [], 
+   "end": "228.520", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dann hat der andere Ehepartner derzeit kaum Handhabe, "
+   ]
+  }, 
+  {
+   "begin": "228.520", 
+   "children": [], 
+   "end": "232.920", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "einzugreifen oder rechtlich an der Seite des anderen zu stehen; "
+   ]
+  }, 
+  {
+   "begin": "232.920", 
+   "children": [], 
+   "end": "235.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "aber die Laiensph\u00e4re geht davon aus, "
+   ]
+  }, 
+  {
+   "begin": "235.440", 
+   "children": [], 
+   "end": "238.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass dem so ist. "
+   ]
+  }, 
+  {
+   "begin": "238.480", 
+   "children": [], 
+   "end": "240.040", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Das wollen wir \u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "240.040", 
+   "children": [], 
+   "end": "241.600", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "und zwar zugunsten der Familie, "
+   ]
+  }, 
+  {
+   "begin": "241.600", 
+   "children": [], 
+   "end": "243.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "zugunsten derjenigen, "
+   ]
+  }, 
+  {
+   "begin": "243.200", 
+   "children": [], 
+   "end": "246.640", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "die sich in Notsituationen gegenseitig helfen wollen."
+   ]
+  }, 
+  {
+   "begin": "246.640", 
+   "children": [], 
+   "end": "249.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Das sind nur einige Aspekte der Rechtspolitik, "
+   ]
+  }, 
+  {
+   "begin": "249.360", 
+   "children": [], 
+   "end": "252.160", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die wir in den n\u00e4chsten Jahren umsetzen werden. "
+   ]
+  }, 
+  {
+   "begin": "252.160", 
+   "children": [], 
+   "end": "253.400", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Eines ist ganz gewiss: "
+   ]
+  }, 
+  {
+   "begin": "253.400", 
+   "children": [], 
+   "end": "256.400", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden gro\u00dfe Sorgfalt walten lassen; "
+   ]
+  }, 
+  {
+   "begin": "256.400", 
+   "children": [], 
+   "end": "262.800", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "denn die Qualit\u00e4t des Rechts entscheidet \u00fcber die Qualit\u00e4t des Zusammenlebens und des Zusammenhalts. "
+   ]
+  }, 
+  {
+   "begin": "262.800", 
+   "children": [], 
+   "end": "263.680", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr stehen wir ein."
+   ]
+  }, 
+  {
+   "begin": "263.680", 
+   "children": [], 
+   "end": "264.520", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "264.520", 
+   "children": [], 
+   "end": "273.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Wortmeldungen zu diesen Themenbereichen liegen mir nicht vor."
+   ]
+  }
+ ]
+}

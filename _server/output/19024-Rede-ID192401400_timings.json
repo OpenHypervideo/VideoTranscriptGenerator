@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "10.880", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "20.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Mit den Herausforderungen Bau und Heimat hat das bisherige Bundesinnenministerium zwei wertvolle Aufgaben bekommen. "
+   ]
+  }, 
+  {
+   "begin": "20.760", 
+   "children": [], 
+   "end": "24.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Denn die Begriffe \u201eBau\u201c und \u201eHeimat\u201c verk\u00f6rpern Erwartungen, "
+   ]
+  }, 
+  {
+   "begin": "24.960", 
+   "children": [], 
+   "end": "30.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "die mit W\u00fcnschen und Hoffnungen der Menschen in Deutschland verbunden sind. "
+   ]
+  }, 
+  {
+   "begin": "30.000", 
+   "children": [], 
+   "end": "32.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Hier geht es um das Zuhause, "
+   ]
+  }, 
+  {
+   "begin": "32.040", 
+   "children": [], 
+   "end": "34.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "das jeder Mensch braucht. "
+   ]
+  }, 
+  {
+   "begin": "34.040", 
+   "children": [], 
+   "end": "37.080", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "In der Kombination mit der Wohnungs- "
+   ]
+  }, 
+  {
+   "begin": "37.080", 
+   "children": [], 
+   "end": "45.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "und St\u00e4dtebauf\u00f6rderung ergibt die neue Struktur im Bundesinnenministerium einen \u00fcberzeugenden Zusammenhang."
+   ]
+  }, 
+  {
+   "begin": "45.280", 
+   "children": [], 
+   "end": "50.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Bayern und Nordrhein-Westfalen sind Vorreiter dieser Entwicklung."
+   ]
+  }, 
+  {
+   "begin": "50.040", 
+   "children": [], 
+   "end": "53.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wir erleben in unseren Wahlkreisen doch immer wieder, "
+   ]
+  }, 
+  {
+   "begin": "53.080", 
+   "children": [], 
+   "end": "56.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wie stark die Menschen sich mit ihrem Dorf, "
+   ]
+  }, 
+  {
+   "begin": "56.000", 
+   "children": [], 
+   "end": "60.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "mit ihrer Stadt und den \u00f6rtlichen Vereinen identifizieren, "
+   ]
+  }, 
+  {
+   "begin": "60.760", 
+   "children": [], 
+   "end": "75.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "wie engagiert sie sich f\u00fcr attraktive Lebensbedingungen in ihrer Region einsetzen und wie deutlich die Frage des gesellschaftlichen Zusammenhalts im Dorf und im Stadtteil die politischen Debatten vor Ort pr\u00e4gt. "
+   ]
+  }, 
+  {
+   "begin": "75.680", 
+   "children": [], 
+   "end": "84.520", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Mit der Schaffung des Heimatministeriums auf Bundesebene nehmen wir uns der Lebenswirklichkeit und der Bed\u00fcrfnisse der Menschen an."
+   ]
+  }, 
+  {
+   "begin": "84.520", 
+   "children": [], 
+   "end": "89.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Ganz eng mit dem Heimatthema verkn\u00fcpft ist das Wohnen. "
+   ]
+  }, 
+  {
+   "begin": "89.200", 
+   "children": [], 
+   "end": "93.000", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Es geh\u00f6rt zu den Grundbed\u00fcrfnissen der Menschen. "
+   ]
+  }, 
+  {
+   "begin": "93.000", 
+   "children": [], 
+   "end": "93.600", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Dort, "
+   ]
+  }, 
+  {
+   "begin": "93.600", 
+   "children": [], 
+   "end": "94.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wo man wohnt, "
+   ]
+  }, 
+  {
+   "begin": "94.800", 
+   "children": [], 
+   "end": "96.520", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "ist man zu Hause."
+   ]
+  }, 
+  {
+   "begin": "96.520", 
+   "children": [], 
+   "end": "97.800", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wie wir wohnen, "
+   ]
+  }, 
+  {
+   "begin": "97.800", 
+   "children": [], 
+   "end": "105.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "sagt oft auch viel \u00fcber unseren Bezug zur Heimat aus. "
+   ]
+  }, 
+  {
+   "begin": "105.280", 
+   "children": [], 
+   "end": "108.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Man sieht das besonders deutlich bei jenen, "
+   ]
+  }, 
+  {
+   "begin": "108.120", 
+   "children": [], 
+   "end": "110.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "die sich Wohneigentum geschaffen haben. "
+   ]
+  }, 
+  {
+   "begin": "110.840", 
+   "children": [], 
+   "end": "115.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Wohneigentum ist ein Anker f\u00fcr die regionale Verbundenheit. "
+   ]
+  }, 
+  {
+   "begin": "115.760", 
+   "children": [], 
+   "end": "120.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wer ein Haus baut oder sich eine Wohnung kauft, "
+   ]
+  }, 
+  {
+   "begin": "120.000", 
+   "children": [], 
+   "end": "120.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte das Haus bzw. "
+   ]
+  }, 
+  {
+   "begin": "120.760", 
+   "children": [], 
+   "end": "128.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die Wohnung im Normalfall in den n\u00e4chsten Jahrzehnten nutzen und plant seine Zukunft an diesem Ort."
+   ]
+  }, 
+  {
+   "begin": "128.520", 
+   "children": [], 
+   "end": "136.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ein sicheres und ansprechendes Zuhause muss in einem wohlhabenden Staat wie Deutschland grunds\u00e4tzlich m\u00f6glich sein. "
+   ]
+  }, 
+  {
+   "begin": "136.280", 
+   "children": [], 
+   "end": "137.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland geht es gut. "
+   ]
+  }, 
+  {
+   "begin": "137.680", 
+   "children": [], 
+   "end": "139.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die B\u00fcrger haben das erarbeitet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "139.760", 
+   "children": [], 
+   "end": "142.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber mehrere Generationen hinweg. "
+   ]
+  }, 
+  {
+   "begin": "142.440", 
+   "children": [], 
+   "end": "143.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wirtschaftswachstum, "
+   ]
+  }, 
+  {
+   "begin": "143.680", 
+   "children": [], 
+   "end": "145.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "gestiegene Einkommen, "
+   ]
+  }, 
+  {
+   "begin": "145.240", 
+   "children": [], 
+   "end": "148.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "deutlich gesunkene Arbeitslosenzahlen, "
+   ]
+  }, 
+  {
+   "begin": "148.000", 
+   "children": [], 
+   "end": "148.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Binnenwanderung, "
+   ]
+  }, 
+  {
+   "begin": "148.920", 
+   "children": [], 
+   "end": "155.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "demografischer Wandel und Zuwanderung haben auf dem Wohnungsmarkt die Nachfrage sp\u00fcrbar belebt. "
+   ]
+  }, 
+  {
+   "begin": "155.800", 
+   "children": [], 
+   "end": "157.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Es ist daher richtig, "
+   ]
+  }, 
+  {
+   "begin": "157.040", 
+   "children": [], 
+   "end": "163.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "den erarbeiteten Wohlstand auch f\u00fcr die Sicherung des Wohnens zum Einsatz zu bringen."
+   ]
+  }, 
+  {
+   "begin": "163.240", 
+   "children": [], 
+   "end": "163.760", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "163.760", 
+   "children": [], 
+   "end": "169.360", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass j\u00e4hrlich 350\u00a0000 bis 400\u00a0000\u00a0Wohnungen gebaut werden. "
+   ]
+  }, 
+  {
+   "begin": "169.360", 
+   "children": [], 
+   "end": "175.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Der Koalitionsvertrag sieht dazu ein umfassendes Ma\u00dfnahmenb\u00fcndel vor. "
+   ]
+  }, 
+  {
+   "begin": "175.680", 
+   "children": [], 
+   "end": "180.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es geht noch deutlich \u00fcber die Ergebnisse des B\u00fcndnisses f\u00fcr Wohnen hinaus. "
+   ]
+  }, 
+  {
+   "begin": "180.440", 
+   "children": [], 
+   "end": "186.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Das geplante Baukindergeld und die Ideen zur Baulandgewinnung erg\u00e4nzen sie sinnvoll. "
+   ]
+  }, 
+  {
+   "begin": "186.640", 
+   "children": [], 
+   "end": "187.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Aber: "
+   ]
+  }, 
+  {
+   "begin": "187.400", 
+   "children": [], 
+   "end": "192.240", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Bew\u00e4ltigung dieser Aufgabe m\u00fcssen wir die L\u00e4nder ins Boot holen. "
+   ]
+  }, 
+  {
+   "begin": "192.240", 
+   "children": [], 
+   "end": "200.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Das effektive Zusammenwirken von Bund und L\u00e4ndern ist unverzichtbar f\u00fcr den wohnungspolitischen Erfolg der Bundesregierung."
+   ]
+  }, 
+  {
+   "begin": "200.320", 
+   "children": [], 
+   "end": "207.520", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Mir gef\u00e4llt vieles an der Haltung einiger L\u00e4nder bei der Wohnungsbaupolitik nicht. "
+   ]
+  }, 
+  {
+   "begin": "207.520", 
+   "children": [], 
+   "end": "209.880", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Berlin ist da eines der Beispiele: "
+   ]
+  }, 
+  {
+   "begin": "209.880", 
+   "children": [], 
+   "end": "211.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber Jahre kassiert, "
+   ]
+  }, 
+  {
+   "begin": "211.400", 
+   "children": [], 
+   "end": "213.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "und nichts ist passiert. "
+   ]
+  }, 
+  {
+   "begin": "213.120", 
+   "children": [], 
+   "end": "214.080", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Es wird Zeit, "
+   ]
+  }, 
+  {
+   "begin": "214.080", 
+   "children": [], 
+   "end": "215.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "das zu \u00e4ndern."
+   ]
+  }, 
+  {
+   "begin": "215.320", 
+   "children": [], 
+   "end": "224.600", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Die L\u00e4nder m\u00fcssen wegen ihrer grundgesetzlichen Zust\u00e4ndigkeit f\u00fcr die Wohnraumf\u00f6rderung wirksam in die Pflicht genommen werden. "
+   ]
+  }, 
+  {
+   "begin": "224.600", 
+   "children": [], 
+   "end": "225.880", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das gilt insbesondere, "
+   ]
+  }, 
+  {
+   "begin": "225.880", 
+   "children": [], 
+   "end": "229.840", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "wenn der Bund sich auch k\u00fcnftig an den Kosten beteiligen soll. "
+   ]
+  }, 
+  {
+   "begin": "229.840", 
+   "children": [], 
+   "end": "235.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wenn der Bund Geld f\u00fcr den sozialen Wohnungsbau zur Verf\u00fcgung stellt, "
+   ]
+  }, 
+  {
+   "begin": "235.120", 
+   "children": [], 
+   "end": "239.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "ist es dort auch vollst\u00e4ndig zum Einsatz zu bringen."
+   ]
+  }, 
+  {
+   "begin": "239.080", 
+   "children": [], 
+   "end": "250.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Der geplante Wohnungsgipfel muss der Auftakt f\u00fcr ein vertrauensvolles Miteinander von Bund und L\u00e4ndern in der Wohnungspolitik sein, "
+   ]
+  }, 
+  {
+   "begin": "250.760", 
+   "children": [], 
+   "end": "254.840", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "das \u00fcber die Ressortgrenzen der Bauminister hinausgeht. "
+   ]
+  }, 
+  {
+   "begin": "254.840", 
+   "children": [], 
+   "end": "261.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Mit einer Neujustierung in der Wohnungsbaupolitik wollen wir schneller ans Ziel kommen. "
+   ]
+  }, 
+  {
+   "begin": "261.080", 
+   "children": [], 
+   "end": "262.120", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Das Eigenheim, "
+   ]
+  }, 
+  {
+   "begin": "262.120", 
+   "children": [], 
+   "end": "272.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die Eigentumswohnung und der private Kleininvestor beim Mietwohnungsbau f\u00fcr Normalverdiener werden st\u00e4rker als bisher Teil der L\u00f6sung sein."
+   ]
+  }, 
+  {
+   "begin": "272.920", 
+   "children": [], 
+   "end": "275.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Es ist nicht ausschlie\u00dflich der soziale Wohnungsbau, "
+   ]
+  }, 
+  {
+   "begin": "275.840", 
+   "children": [], 
+   "end": "277.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "um den wir uns k\u00fcmmern wollen, "
+   ]
+  }, 
+  {
+   "begin": "277.120", 
+   "children": [], 
+   "end": "284.560", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch die Menschen mit Durchschnittseinkommen brauchen unsere Unterst\u00fctzung auf dem Wohnungsmarkt. "
+   ]
+  }, 
+  {
+   "begin": "284.560", 
+   "children": [], 
+   "end": "287.560", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Mit einem Baukindergeld werden wir jungen Familien helfen, "
+   ]
+  }, 
+  {
+   "begin": "287.560", 
+   "children": [], 
+   "end": "291.080", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "den Traum vom eigenen Heim schneller zu realisieren. "
+   ]
+  }, 
+  {
+   "begin": "291.080", 
+   "children": [], 
+   "end": "298.720", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen das zus\u00e4tzlich mit einer h\u00f6heren Wohnungsbaupr\u00e4mie und einem B\u00fcrgschaftsprogramm flankieren. "
+   ]
+  }, 
+  {
+   "begin": "298.720", 
+   "children": [], 
+   "end": "301.800", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Viele Menschen warten auf das Baukindergeld. "
+   ]
+  }, 
+  {
+   "begin": "301.800", 
+   "children": [], 
+   "end": "310.120", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Das eigene Heim bietet Geborgenheit f\u00fcr die Familie und ist gleichzeitig private Altersvorsorge."
+   ]
+  }, 
+  {
+   "begin": "310.120", 
+   "children": [], 
+   "end": "311.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Ich gehe davon aus, "
+   ]
+  }, 
+  {
+   "begin": "311.560", 
+   "children": [], 
+   "end": "317.120", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bundesregierung in den kommenden Wochen hier Klarheit und Planungssicherheit schaffen wird."
+   ]
+  }, 
+  {
+   "begin": "317.120", 
+   "children": [], 
+   "end": "322.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Eine weitere wichtige Ma\u00dfnahme soll die steuerliche F\u00f6rderung des Mietwohnungsneubaus sein. "
+   ]
+  }, 
+  {
+   "begin": "322.640", 
+   "children": [], 
+   "end": "325.120", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Hier m\u00fcssen die L\u00e4nder Farbe bekennen. "
+   ]
+  }, 
+  {
+   "begin": "325.120", 
+   "children": [], 
+   "end": "326.240", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Stets zu nehmen, "
+   ]
+  }, 
+  {
+   "begin": "326.240", 
+   "children": [], 
+   "end": "327.400", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "ohne zu geben, "
+   ]
+  }, 
+  {
+   "begin": "327.400", 
+   "children": [], 
+   "end": "329.400", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "darf nicht belohnt werden."
+   ]
+  }, 
+  {
+   "begin": "329.400", 
+   "children": [], 
+   "end": "335.920", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen begr\u00fc\u00dfe ich die Vereinbarung im Koalitionsvertrag zu einer Wohnraumoffensive."
+   ]
+  }, 
+  {
+   "begin": "335.920", 
+   "children": [], 
+   "end": "343.760", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank f\u00fcr die Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "343.760", 
+   "children": [], 
+   "end": "347.200", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Burkhard Lischka, "
+   ]
+  }, 
+  {
+   "begin": "347.200", 
+   "children": [], 
+   "end": "348.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "SPD."
+   ]
+  }
+ ]
+}

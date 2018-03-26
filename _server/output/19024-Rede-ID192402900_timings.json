@@ -1,0 +1,714 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.720", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "children": [], 
+   "end": "5.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "5.760", 
+   "children": [], 
+   "end": "8.520", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben diesem Haus vier Jahre nicht angeh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "children": [], 
+   "end": "12.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die Debatten haben sich in diesen vier Jahren massiv ver\u00e4ndert. "
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "children": [], 
+   "end": "16.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die repr\u00e4sentative Demokratie ist unter Druck geraten, "
+   ]
+  }, 
+  {
+   "begin": "16.440", 
+   "children": [], 
+   "end": "20.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "das Vertrauen in Institutionen und Recht hat abgenommen, "
+   ]
+  }, 
+  {
+   "begin": "20.600", 
+   "children": [], 
+   "end": "22.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und wir haben erleben m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "children": [], 
+   "end": "24.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass die Menschen das Gef\u00fchl hatten, "
+   ]
+  }, 
+  {
+   "begin": "24.120", 
+   "children": [], 
+   "end": "30.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass sich ihr Recht nicht mehr ausreichend durchsetzen l\u00e4sst."
+   ]
+  }, 
+  {
+   "begin": "30.280", 
+   "children": [], 
+   "end": "33.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Herr Seehofer hat das mit den Worten, "
+   ]
+  }, 
+  {
+   "begin": "33.000", 
+   "children": [], 
+   "end": "35.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "es gebe eine Herrschaft des Unrechts, "
+   ]
+  }, 
+  {
+   "begin": "35.240", 
+   "children": [], 
+   "end": "36.360", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "beschrieben. "
+   ]
+  }, 
+  {
+   "begin": "36.360", 
+   "children": [], 
+   "end": "38.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das ist mindestens eine analytische Unsch\u00e4rfe. "
+   ]
+  }, 
+  {
+   "begin": "38.760", 
+   "children": [], 
+   "end": "40.040", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wenn \u00fcberhaupt, "
+   ]
+  }, 
+  {
+   "begin": "40.040", 
+   "children": [], 
+   "end": "44.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "gibt es ein Problem nicht durchgesetzten Rechts in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "44.440", 
+   "children": [], 
+   "end": "46.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und die Menschen haben Angst, "
+   ]
+  }, 
+  {
+   "begin": "46.240", 
+   "children": [], 
+   "end": "49.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dass der Staat in alle Lebensbereiche eingreift, "
+   ]
+  }, 
+  {
+   "begin": "49.520", 
+   "children": [], 
+   "end": "52.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "sich durch B\u00fcrokratisierung, "
+   ]
+  }, 
+  {
+   "begin": "52.160", 
+   "children": [], 
+   "end": "55.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "G\u00e4ngelung und Bevormundung um jedes Detail k\u00fcmmert, "
+   ]
+  }, 
+  {
+   "begin": "55.720", 
+   "children": [], 
+   "end": "62.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht um die Durchsetzung seines Gewaltmonopols und die Erf\u00fcllung seiner wesentlichen Aufgaben."
+   ]
+  }, 
+  {
+   "begin": "62.480", 
+   "children": [], 
+   "end": "63.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Ich muss sagen: "
+   ]
+  }, 
+  {
+   "begin": "63.520", 
+   "children": [], 
+   "end": "64.400", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich, "
+   ]
+  }, 
+  {
+   "begin": "64.400", 
+   "children": [], 
+   "end": "67.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass Katarina Barley Justizministerin geworden ist. "
+   ]
+  }, 
+  {
+   "begin": "67.680", 
+   "children": [], 
+   "end": "69.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe die Hoffnung, "
+   ]
+  }, 
+  {
+   "begin": "69.240", 
+   "children": [], 
+   "end": "72.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass mir ihr ein Stil der Sachlichkeit, "
+   ]
+  }, 
+  {
+   "begin": "72.760", 
+   "children": [], 
+   "end": "78.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "der b\u00fcrgerrechtlichen Orientierung und \u00fcberhaupt des Zuh\u00f6rens einkehrt. "
+   ]
+  }, 
+  {
+   "begin": "78.520", 
+   "children": [], 
+   "end": "90.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Ihrem Vorg\u00e4nger waren meiner Meinung nach Boulevard und \u201eBunte\u201c sowie ein schlechter Umgang mit seinen eigenen Mitarbeitern h\u00e4ufig wichtiger als das Thema B\u00fcrgerrechte."
+   ]
+  }, 
+  {
+   "begin": "90.080", 
+   "children": [], 
+   "end": "91.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Es war, "
+   ]
+  }, 
+  {
+   "begin": "91.560", 
+   "children": [], 
+   "end": "92.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wie ich finde, "
+   ]
+  }, 
+  {
+   "begin": "92.400", 
+   "children": [], 
+   "end": "94.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "guter Stil von Frau Barley, "
+   ]
+  }, 
+  {
+   "begin": "94.600", 
+   "children": [], 
+   "end": "97.960", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "sich die Debatte zur Innenpolitik anzuh\u00f6ren; "
+   ]
+  }, 
+  {
+   "begin": "97.960", 
+   "children": [], 
+   "end": "102.160", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "denn beide Verfassungsressorts haben in dieser Frage etwas zu sagen. "
+   ]
+  }, 
+  {
+   "begin": "102.160", 
+   "children": [], 
+   "end": "106.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das Innenministerium scheint es hingegen nicht f\u00fcr n\u00f6tig zu halten, "
+   ]
+  }, 
+  {
+   "begin": "106.640", 
+   "children": [], 
+   "end": "108.360", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dieser Debatte zu folgen; "
+   ]
+  }, 
+  {
+   "begin": "108.360", 
+   "children": [], 
+   "end": "111.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "denn der Minister ist nicht anwesend. "
+   ]
+  }, 
+  {
+   "begin": "111.440", 
+   "children": [], 
+   "end": "117.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eigentlich schon bezeichnend."
+   ]
+  }, 
+  {
+   "begin": "117.600", 
+   "children": [], 
+   "end": "118.440", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir sp\u00fcren, "
+   ]
+  }, 
+  {
+   "begin": "118.440", 
+   "children": [], 
+   "end": "119.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wie gesagt, "
+   ]
+  }, 
+  {
+   "begin": "119.440", 
+   "children": [], 
+   "end": "119.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Druck. "
+   ]
+  }, 
+  {
+   "begin": "119.720", 
+   "children": [], 
+   "end": "124.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden das Vertrauen in die repr\u00e4sentative Demokratie nicht dadurch wiederherstellen, "
+   ]
+  }, 
+  {
+   "begin": "124.200", 
+   "children": [], 
+   "end": "133.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass wir den Menschen wie ein Versuchsobjekt behandeln und mittels Gesetzen als eine Art Sozialingenieure daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "133.200", 
+   "children": [], 
+   "end": "134.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass er sich besser, "
+   ]
+  }, 
+  {
+   "begin": "134.080", 
+   "children": [], 
+   "end": "136.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "schlechter oder anders verh\u00e4lt, "
+   ]
+  }, 
+  {
+   "begin": "136.120", 
+   "children": [], 
+   "end": "138.520", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und wir ihn zum Wohlverhalten zwingen. "
+   ]
+  }, 
+  {
+   "begin": "138.520", 
+   "children": [], 
+   "end": "139.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "139.000", 
+   "children": [], 
+   "end": "140.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen Recht durchsetzen. "
+   ]
+  }, 
+  {
+   "begin": "140.680", 
+   "children": [], 
+   "end": "142.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Aber Menschen sind m\u00fcndig. "
+   ]
+  }, 
+  {
+   "begin": "142.520", 
+   "children": [], 
+   "end": "144.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00fcmmern sich schon um das, "
+   ]
+  }, 
+  {
+   "begin": "144.160", 
+   "children": [], 
+   "end": "145.360", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "was ihnen wichtig ist. "
+   ]
+  }, 
+  {
+   "begin": "145.360", 
+   "children": [], 
+   "end": "148.440", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Ein bisschen mehr Vertrauen in das Individuum, "
+   ]
+  }, 
+  {
+   "begin": "148.440", 
+   "children": [], 
+   "end": "149.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "in seine F\u00e4higkeit, "
+   ]
+  }, 
+  {
+   "begin": "149.720", 
+   "children": [], 
+   "end": "151.360", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "sein Leben in die Hand zu nehmen, "
+   ]
+  }, 
+  {
+   "begin": "151.360", 
+   "children": [], 
+   "end": "152.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4re mir wichtig."
+   ]
+  }, 
+  {
+   "begin": "152.360", 
+   "children": [], 
+   "end": "154.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Bei Ihnen tauchen h\u00e4ufig Begriffe wie Pr\u00e4vention, "
+   ]
+  }, 
+  {
+   "begin": "154.720", 
+   "children": [], 
+   "end": "155.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Steuerung, "
+   ]
+  }, 
+  {
+   "begin": "155.800", 
+   "children": [], 
+   "end": "156.880", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Beeinflussung, "
+   ]
+  }, 
+  {
+   "begin": "156.880", 
+   "children": [], 
+   "end": "157.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Anreiz auf. "
+   ]
+  }, 
+  {
+   "begin": "157.880", 
+   "children": [], 
+   "end": "158.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Das sind Vokabeln, "
+   ]
+  }, 
+  {
+   "begin": "158.640", 
+   "children": [], 
+   "end": "167.120", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die zum Teil auch einen kleinen manipulativen und die Freiheit beschr\u00e4nkenden Kern haben. "
+   ]
+  }, 
+  {
+   "begin": "167.120", 
+   "children": [], 
+   "end": "171.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Eine solche Politik k\u00f6nnen wir als Freie Demokraten nicht mittragen."
+   ]
+  }, 
+  {
+   "begin": "171.640", 
+   "children": [], 
+   "end": "172.600", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Im Ergebnis: "
+   ]
+  }, 
+  {
+   "begin": "172.600", 
+   "children": [], 
+   "end": "174.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "St\u00e4rken Sie also den freien, "
+   ]
+  }, 
+  {
+   "begin": "174.840", 
+   "children": [], 
+   "end": "176.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "eigenverantwortlichen Menschen. "
+   ]
+  }, 
+  {
+   "begin": "176.560", 
+   "children": [], 
+   "end": "177.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "G\u00e4ngeln Sie ihn nicht. "
+   ]
+  }, 
+  {
+   "begin": "177.680", 
+   "children": [], 
+   "end": "182.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Nerven Sie ihn nicht mit \u00fcberfl\u00fcssigen Gesetzen wie dem zur unwirksamen Mietpreisbremse, "
+   ]
+  }, 
+  {
+   "begin": "182.280", 
+   "children": [], 
+   "end": "184.080", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "mit einer Vorratsdatenspeicherung, "
+   ]
+  }, 
+  {
+   "begin": "184.080", 
+   "children": [], 
+   "end": "186.200", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die nirgends durchgesetzt werden kann, "
+   ]
+  }, 
+  {
+   "begin": "186.200", 
+   "children": [], 
+   "end": "189.160", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und anderen \u00fcberfl\u00fcssigen Details mehr. "
+   ]
+  }, 
+  {
+   "begin": "189.160", 
+   "children": [], 
+   "end": "192.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "K\u00fcmmern Sie sich vielmehr um die wesentlichen Dinge wie die Herrschaft des Rechts in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "192.760", 
+   "children": [], 
+   "end": "202.320", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Dann finden Sie uns an Ihrer Seite."
+   ]
+  }, 
+  {
+   "begin": "202.320", 
+   "children": [], 
+   "end": "205.960", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die SPD-Fraktion hat die Kollegin Sarah Ryglewski das Wort."
+   ]
+  }
+ ]
+}

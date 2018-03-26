@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "children": [], 
+   "end": "9.600", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Ministerin! "
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "children": [], 
+   "end": "10.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben geh\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "children": [], 
+   "end": "16.080", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass der Bereich Umwelt eines der zentralen Politikfelder ist. "
+   ]
+  }, 
+  {
+   "begin": "16.080", 
+   "children": [], 
+   "end": "17.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wenn dem so ist, "
+   ]
+  }, 
+  {
+   "begin": "17.920", 
+   "children": [], 
+   "end": "18.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dann frage ich mich, "
+   ]
+  }, 
+  {
+   "begin": "18.960", 
+   "children": [], 
+   "end": "28.680", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "warum sich gerade einmal 3\u00a0Prozent des Koalitionsvertrages mit Umweltthemen besch\u00e4ftigen und wir im Rahmen dieser Debatte der vorletzte Bereich auf der Tagesordnung sind."
+   ]
+  }, 
+  {
+   "begin": "28.680", 
+   "children": [], 
+   "end": "37.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Christian Lindner hat an Dreik\u00f6nig das Thema \u201eErhalt des Lebensraums\u201c an die allererste Stelle der Zukunftsherausforderungen gesetzt. "
+   ]
+  }, 
+  {
+   "begin": "37.280", 
+   "children": [], 
+   "end": "38.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcrde mir w\u00fcnschen, "
+   ]
+  }, 
+  {
+   "begin": "38.280", 
+   "children": [], 
+   "end": "40.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass dem Thema Umwelt auch in diesem Haus diese Bedeutung zugerechnet werden w\u00fcrde."
+   ]
+  }, 
+  {
+   "begin": "40.680", 
+   "children": [], 
+   "end": "40.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Dass dem nicht so ist, "
+   ]
+  }, 
+  {
+   "begin": "40.880", 
+   "children": [], 
+   "end": "46.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "liegt vielleicht auch daran, "
+   ]
+  }, 
+  {
+   "begin": "46.480", 
+   "children": [], 
+   "end": "50.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass Naturschutz und Artenschutz bei den Menschen vor Ort nicht immer positiv konnotiert sind. "
+   ]
+  }, 
+  {
+   "begin": "50.960", 
+   "children": [], 
+   "end": "52.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein schwieriges Thema. "
+   ]
+  }, 
+  {
+   "begin": "52.480", 
+   "children": [], 
+   "end": "54.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Beispielsweise sind die Kleine Hufeisennase, "
+   ]
+  }, 
+  {
+   "begin": "54.840", 
+   "children": [], 
+   "end": "58.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "der Rotmilan oder der Juchtenk\u00e4fer nicht daf\u00fcr bekannt, "
+   ]
+  }, 
+  {
+   "begin": "58.920", 
+   "children": [], 
+   "end": "61.000", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dass sie besonders selten und sch\u00fctzenswert sind, "
+   ]
+  }, 
+  {
+   "begin": "61.000", 
+   "children": [], 
+   "end": "61.720", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "sondern daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "61.720", 
+   "children": [], 
+   "end": "62.600", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass sie den Bau von Br\u00fccken, "
+   ]
+  }, 
+  {
+   "begin": "62.600", 
+   "children": [], 
+   "end": "66.240", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Windr\u00e4dern und Bahnh\u00f6fen verz\u00f6gern, "
+   ]
+  }, 
+  {
+   "begin": "66.240", 
+   "children": [], 
+   "end": "69.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "verhindern oder verteuern k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "69.600", 
+   "children": [], 
+   "end": "71.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das liegt eventuell auch daran, "
+   ]
+  }, 
+  {
+   "begin": "71.640", 
+   "children": [], 
+   "end": "76.840", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass Naturschutz und Umweltschutz in den letzten 60\u00a0Jahren zwar engagiert gemacht worden sind, "
+   ]
+  }, 
+  {
+   "begin": "76.840", 
+   "children": [], 
+   "end": "80.440", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "aber zumeist von oben nach unten diktiert wurden, "
+   ]
+  }, 
+  {
+   "begin": "80.440", 
+   "children": [], 
+   "end": "87.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "die Akzeptanz der Menschen vor Ort f\u00fcr den Naturschutz und den Umweltschutz aber nicht in gleichem Ma\u00dfe mitgegangen ist. "
+   ]
+  }, 
+  {
+   "begin": "87.200", 
+   "children": [], 
+   "end": "88.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Das f\u00fchrt dazu, "
+   ]
+  }, 
+  {
+   "begin": "88.480", 
+   "children": [], 
+   "end": "89.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Kinder, "
+   ]
+  }, 
+  {
+   "begin": "89.720", 
+   "children": [], 
+   "end": "93.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die in den kommenden Jahren auch die Weltmeere und das Klima sch\u00fctzen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "93.960", 
+   "children": [], 
+   "end": "96.840", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "heute noch nicht einmal Heu und Stroh voneinander unterscheiden k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "96.840", 
+   "children": [], 
+   "end": "102.360", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen brauchen wir neue Wege in den Naturschutz. "
+   ]
+  }, 
+  {
+   "begin": "102.360", 
+   "children": [], 
+   "end": "103.640", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen einen Naturschutz\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "103.640", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "das haben Sie sehr richtig gesagt\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "107.120", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "der die Gesellschaft mitnimmt, "
+   ]
+  }, 
+  {
+   "begin": "107.120", 
+   "children": [], 
+   "end": "109.040", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "der tats\u00e4chlich f\u00fcr die Menschen gemacht ist, "
+   ]
+  }, 
+  {
+   "begin": "109.040", 
+   "children": [], 
+   "end": "111.720", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "zusammen mit den Landwirten und in den Kommunen. "
+   ]
+  }, 
+  {
+   "begin": "111.720", 
+   "children": [], 
+   "end": "113.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen einen Naturschutz, "
+   ]
+  }, 
+  {
+   "begin": "113.600", 
+   "children": [], 
+   "end": "115.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "der nicht von oben kommt, "
+   ]
+  }, 
+  {
+   "begin": "115.920", 
+   "children": [], 
+   "end": "117.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "sondern von unten, "
+   ]
+  }, 
+  {
+   "begin": "117.240", 
+   "children": [], 
+   "end": "119.760", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "der nicht gro\u00dfe Schutzfl\u00e4chen in Deutschland installiert, "
+   ]
+  }, 
+  {
+   "begin": "119.760", 
+   "children": [], 
+   "end": "120.480", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die isoliert sind, "
+   ]
+  }, 
+  {
+   "begin": "120.480", 
+   "children": [], 
+   "end": "124.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "sondern f\u00fcr kleine fl\u00e4chendeckende und vernetzte Biotope sorgt. "
+   ]
+  }, 
+  {
+   "begin": "124.520", 
+   "children": [], 
+   "end": "127.280", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Diese neuen Wege des Naturschutzes w\u00fcrden uns freuen, "
+   ]
+  }, 
+  {
+   "begin": "127.280", 
+   "children": [], 
+   "end": "132.360", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und auf diesen Wegen w\u00fcrden wir gerne mit Ihnen gemeinsam mitgehen."
+   ]
+  }, 
+  {
+   "begin": "132.360", 
+   "children": [], 
+   "end": "133.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Weil wir die Partei sind, "
+   ]
+  }, 
+  {
+   "begin": "133.760", 
+   "children": [], 
+   "end": "134.680", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die rechnen kann\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "134.680", 
+   "children": [], 
+   "end": "136.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "ich h\u00f6re schon unsere Haush\u00e4lter fragen, "
+   ]
+  }, 
+  {
+   "begin": "136.600", 
+   "children": [], 
+   "end": "137.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "was das kostet\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "137.120", 
+   "children": [], 
+   "end": "140.240", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "habe ich sogar einen Sparvorschlag f\u00fcr Sie\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "140.240", 
+   "children": [], 
+   "end": "141.720", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Nehmen Sie einfach das Geld, "
+   ]
+  }, 
+  {
+   "begin": "141.720", 
+   "children": [], 
+   "end": "144.440", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "das Sie sonst j\u00e4hrlich an die Deutsche Umwelthilfe zahlen w\u00fcrden!"
+   ]
+  }, 
+  {
+   "begin": "144.440", 
+   "children": [], 
+   "end": "145.400", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Tats\u00e4chlich ist es so, "
+   ]
+  }, 
+  {
+   "begin": "145.400", 
+   "children": [], 
+   "end": "146.800", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass das Geld, "
+   ]
+  }, 
+  {
+   "begin": "146.800", 
+   "children": [], 
+   "end": "148.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "das dort investiert wird, "
+   ]
+  }, 
+  {
+   "begin": "148.880", 
+   "children": [], 
+   "end": "151.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "im Wesentlichen in Veranstaltungen und Papiere flie\u00dft. "
+   ]
+  }, 
+  {
+   "begin": "151.880", 
+   "children": [], 
+   "end": "153.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Was wir brauchen, "
+   ]
+  }, 
+  {
+   "begin": "153.280", 
+   "children": [], 
+   "end": "156.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "ist mehr Geld f\u00fcr konkrete Naturschutzprojekte. "
+   ]
+  }, 
+  {
+   "begin": "156.520", 
+   "children": [], 
+   "end": "157.440", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen w\u00e4re es gut, "
+   ]
+  }, 
+  {
+   "begin": "157.440", 
+   "children": [], 
+   "end": "161.200", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir statt elit\u00e4rer Lobby f\u00fcr den Naturschutz vor Ort zahlen w\u00fcrden."
+   ]
+  }, 
+  {
+   "begin": "161.200", 
+   "children": [], 
+   "end": "168.320", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Eines erkenne ich aber neidlos an: "
+   ]
+  }, 
+  {
+   "begin": "168.320", 
+   "children": [], 
+   "end": "171.440", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Die Deutsche Umwelthilfe macht manche Sachen schon richtig gut, "
+   ]
+  }, 
+  {
+   "begin": "171.440", 
+   "children": [], 
+   "end": "173.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich den Menschen Angst. "
+   ]
+  }, 
+  {
+   "begin": "173.160", 
+   "children": [], 
+   "end": "174.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ja so, "
+   ]
+  }, 
+  {
+   "begin": "174.240", 
+   "children": [], 
+   "end": "176.640", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass die Nachhaltigkeit drei S\u00e4ulen hat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "176.640", 
+   "children": [], 
+   "end": "177.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "eine \u00f6kologische, "
+   ]
+  }, 
+  {
+   "begin": "177.520", 
+   "children": [], 
+   "end": "179.480", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "eine \u00f6konomische und eine soziale S\u00e4ule\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "179.480", 
+   "children": [], 
+   "end": "181.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "und jede S\u00e4ule sozusagen an ihrem Ende zieht. "
+   ]
+  }, 
+  {
+   "begin": "181.480", 
+   "children": [], 
+   "end": "183.320", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Gerade beim Umweltschutz versuchen wir, "
+   ]
+  }, 
+  {
+   "begin": "183.320", 
+   "children": [], 
+   "end": "185.760", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "seine Bedeutung dadurch besonders zu betonen, "
+   ]
+  }, 
+  {
+   "begin": "185.760", 
+   "children": [], 
+   "end": "189.960", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass wir \u00c4ngste sch\u00fcren wie zuletzt in der Stickoxiddebatte dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "189.960", 
+   "children": [], 
+   "end": "193.480", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass wir wegen der Luft in den deutschen St\u00e4dten Todes\u00e4ngste haben."
+   ]
+  }, 
+  {
+   "begin": "193.480", 
+   "children": [], 
+   "end": "195.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind daher der \u00dcberzeugung, "
+   ]
+  }, 
+  {
+   "begin": "195.000", 
+   "children": [], 
+   "end": "199.680", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass wir auch im politischen Stil eine Trendwende brauchen. "
+   ]
+  }, 
+  {
+   "begin": "199.680", 
+   "children": [], 
+   "end": "202.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Seit den 70er-Jahren werden Luft, "
+   ]
+  }, 
+  {
+   "begin": "202.000", 
+   "children": [], 
+   "end": "205.480", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "B\u00f6den und Gew\u00e4sser in Deutschland sauberer."
+   ]
+  }, 
+  {
+   "begin": "205.480", 
+   "children": [], 
+   "end": "212.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Die gr\u00f6\u00dften Errungenschaften in diesem Bereich sind mit der Technik und mit den Menschen geschaffen worden."
+   ]
+  }, 
+  {
+   "begin": "212.280", 
+   "children": [], 
+   "end": "213.720", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wir denken daher, "
+   ]
+  }, 
+  {
+   "begin": "213.720", 
+   "children": [], 
+   "end": "218.720", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass auch in der Umweltpolitik Angstmache kein Stilmittel mehr sein sollte, "
+   ]
+  }, 
+  {
+   "begin": "218.720", 
+   "children": [], 
+   "end": "221.840", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "sondern dass wir gemeinsam in einen offenen, "
+   ]
+  }, 
+  {
+   "begin": "221.840", 
+   "children": [], 
+   "end": "225.200", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "fairen und angstfreien Dialog mit den Menschen, "
+   ]
+  }, 
+  {
+   "begin": "225.200", 
+   "children": [], 
+   "end": "227.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "den Kommunen und der Wirtschaft treten m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "227.440", 
+   "children": [], 
+   "end": "235.480", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "um den Umweltschutz in Deutschland weiter zu verbessern."
+   ]
+  }, 
+  {
+   "begin": "235.480", 
+   "children": [], 
+   "end": "237.280", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin Schulze, "
+   ]
+  }, 
+  {
+   "begin": "237.280", 
+   "children": [], 
+   "end": "240.840", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "in der Umweltszene sind Sie bislang noch ein unbeschriebenes Blatt. "
+   ]
+  }, 
+  {
+   "begin": "240.840", 
+   "children": [], 
+   "end": "242.600", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Das er\u00f6ffnet Chancen. "
+   ]
+  }, 
+  {
+   "begin": "242.600", 
+   "children": [], 
+   "end": "243.640", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wir hoffen, "
+   ]
+  }, 
+  {
+   "begin": "243.640", 
+   "children": [], 
+   "end": "246.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Sie gehen beim Artenschutz mit uns neue Wege, "
+   ]
+  }, 
+  {
+   "begin": "246.320", 
+   "children": [], 
+   "end": "253.600", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "leiten die Gelder von der Lobby weg in konkrete Projekte und machen den Menschen Mut zu Umweltschutz. "
+   ]
+  }, 
+  {
+   "begin": "253.600", 
+   "children": [], 
+   "end": "260.440", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Denn Mut schafft Chancen."
+   ]
+  }, 
+  {
+   "begin": "260.440", 
+   "children": [], 
+   "end": "264.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Linke hat das Wort der Kollege Ralph Lenkert."
+   ]
+  }
+ ]
+}

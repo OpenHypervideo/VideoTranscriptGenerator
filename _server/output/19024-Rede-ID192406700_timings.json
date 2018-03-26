@@ -1,0 +1,1414 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "children": [], 
+   "end": "7.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "children": [], 
+   "end": "8.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "children": [], 
+   "end": "10.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Werte G\u00e4ste! "
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "children": [], 
+   "end": "12.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Politik lebt bekanntlich davon, "
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "children": [], 
+   "end": "14.120", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Menschen zu \u00fcberzeugen. "
+   ]
+  }, 
+  {
+   "begin": "14.120", 
+   "children": [], 
+   "end": "15.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb reicht es nicht, "
+   ]
+  }, 
+  {
+   "begin": "15.720", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "nur zu wiederholen, "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "19.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass wir ein gutes Gesundheitssystem haben, "
+   ]
+  }, 
+  {
+   "begin": "19.360", 
+   "children": [], 
+   "end": "21.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir m\u00fcssen dort, "
+   ]
+  }, 
+  {
+   "begin": "21.400", 
+   "children": [], 
+   "end": "23.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wo Verbesserungsbedarf besteht, "
+   ]
+  }, 
+  {
+   "begin": "23.240", 
+   "children": [], 
+   "end": "27.720", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "unser System auch im Sinne der Patienten weiterentwickeln."
+   ]
+  }, 
+  {
+   "begin": "27.720", 
+   "children": [], 
+   "end": "32.600", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Dabei m\u00f6chte ich mit dem Zugang zur ambulanten Versorgung beginnen. "
+   ]
+  }, 
+  {
+   "begin": "32.600", 
+   "children": [], 
+   "end": "37.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ein niedergelassener Arzt den privat versicherten Patienten schneller drannimmt, "
+   ]
+  }, 
+  {
+   "begin": "37.840", 
+   "children": [], 
+   "end": "42.480", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "dann wird das zu Recht als \u00c4rgernis empfunden. "
+   ]
+  }, 
+  {
+   "begin": "42.480", 
+   "children": [], 
+   "end": "46.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Aber Politik war da nicht etwa unt\u00e4tig. "
+   ]
+  }, 
+  {
+   "begin": "46.520", 
+   "children": [], 
+   "end": "54.560", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben der Selbstverwaltung bereits einiges an M\u00f6glichkeiten an die Hand gegeben; "
+   ]
+  }, 
+  {
+   "begin": "54.560", 
+   "children": [], 
+   "end": "57.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die Umsetzung erfolgt leider eher schleppend. "
+   ]
+  }, 
+  {
+   "begin": "57.880", 
+   "children": [], 
+   "end": "62.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Seit Juli\u00a02015 gibt es die gesetzliche Verpflichtung zur Einrichtung von Terminservicestellen. "
+   ]
+  }, 
+  {
+   "begin": "62.160", 
+   "children": [], 
+   "end": "67.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Innerhalb von vier Wochen k\u00f6nnen Patienten dort einen Facharzttermin erhalten. "
+   ]
+  }, 
+  {
+   "begin": "67.360", 
+   "children": [], 
+   "end": "72.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Diese Terminservicestellen m\u00fcssen vor allem bekannter und besser werden. "
+   ]
+  }, 
+  {
+   "begin": "72.400", 
+   "children": [], 
+   "end": "77.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das gelingt mit einer einheitlichen Telefonnummer und l\u00e4ngeren Ansprechzeiten."
+   ]
+  }, 
+  {
+   "begin": "77.320", 
+   "children": [], 
+   "end": "77.920", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Neu ist, "
+   ]
+  }, 
+  {
+   "begin": "77.920", 
+   "children": [], 
+   "end": "82.280", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass man dort nicht nur Facharzttermine innerhalb dieser vier Wochen bekommen kann, "
+   ]
+  }, 
+  {
+   "begin": "82.280", 
+   "children": [], 
+   "end": "88.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "sondern k\u00fcnftig auch Hausarzttermine und Kinderarzttermine. "
+   ]
+  }, 
+  {
+   "begin": "88.040", 
+   "children": [], 
+   "end": "89.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Bereits seit 2011, "
+   ]
+  }, 
+  {
+   "begin": "89.840", 
+   "children": [], 
+   "end": "90.640", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Herr Schlund, "
+   ]
+  }, 
+  {
+   "begin": "90.640", 
+   "children": [], 
+   "end": "92.160", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "ist geregelt, "
+   ]
+  }, 
+  {
+   "begin": "92.160", 
+   "children": [], 
+   "end": "94.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dass der Erstkontakt beim Haus- "
+   ]
+  }, 
+  {
+   "begin": "94.400", 
+   "children": [], 
+   "end": "97.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und beim Facharzt besser verg\u00fctet werden soll, "
+   ]
+  }, 
+  {
+   "begin": "97.840", 
+   "children": [], 
+   "end": "99.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "um Anreize zu setzen, "
+   ]
+  }, 
+  {
+   "begin": "99.560", 
+   "children": [], 
+   "end": "100.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "damit Haus- "
+   ]
+  }, 
+  {
+   "begin": "100.240", 
+   "children": [], 
+   "end": "104.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und Fach\u00e4rzte auch neue Patienten aufnehmen."
+   ]
+  }, 
+  {
+   "begin": "104.160", 
+   "children": [], 
+   "end": "110.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Leider hat meines Wissens \u00fcberhaupt nur die Kassen\u00e4rztliche Vereinigung Sachsen diese Regelung umgesetzt."
+   ]
+  }, 
+  {
+   "begin": "110.920", 
+   "children": [], 
+   "end": "113.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Neu ist zum Beispiel auch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "113.080", 
+   "children": [], 
+   "end": "115.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "der Kollege hat es erw\u00e4hnt\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "115.200", 
+   "children": [], 
+   "end": "123.160", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass wir mit einer besseren Verg\u00fctung f\u00fcr die sprechende Medizin und mit regionalen Zuschl\u00e4gen f\u00fcr \u00c4rzte daf\u00fcr sorgen wollen, "
+   ]
+  }, 
+  {
+   "begin": "123.160", 
+   "children": [], 
+   "end": "128.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass diese weiterhin auch in wirtschaftlich schwachen Regionen oder l\u00e4ndlichen R\u00e4umen praktizieren. "
+   ]
+  }, 
+  {
+   "begin": "128.760", 
+   "children": [], 
+   "end": "129.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Ich hoffe, "
+   ]
+  }, 
+  {
+   "begin": "129.400", 
+   "children": [], 
+   "end": "131.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "das wird diesmal umgesetzt."
+   ]
+  }, 
+  {
+   "begin": "131.640", 
+   "children": [], 
+   "end": "144.600", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Beim Thema \u201eZugang zur Versorgung\u201c reden wir in der Union \u00fcbrigens auch mit den privat versicherten Patienten \u00fcber den Reformstau in der PKV, "
+   ]
+  }, 
+  {
+   "begin": "144.600", 
+   "children": [], 
+   "end": "147.520", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber sprunghafte Beitragssteigerungen, "
+   ]
+  }, 
+  {
+   "begin": "147.520", 
+   "children": [], 
+   "end": "152.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber Probleme durch steigende Beitr\u00e4ge im Alter und \u00fcber \u00dcberversorgung. "
+   ]
+  }, 
+  {
+   "begin": "152.680", 
+   "children": [], 
+   "end": "153.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Herr Lauterbach, "
+   ]
+  }, 
+  {
+   "begin": "153.880", 
+   "children": [], 
+   "end": "157.680", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wir sollten es uns dabei gemeinsam nicht leisten, "
+   ]
+  }, 
+  {
+   "begin": "157.680", 
+   "children": [], 
+   "end": "162.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die Sorgen von rund 10\u00a0Prozent der Bev\u00f6lkerung schlicht zu ignorieren."
+   ]
+  }, 
+  {
+   "begin": "162.800", 
+   "children": [], 
+   "end": "167.360", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Kommen wir zur station\u00e4ren Versorgung. "
+   ]
+  }, 
+  {
+   "begin": "167.360", 
+   "children": [], 
+   "end": "170.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Viele Menschen treibt die Sorge um, "
+   ]
+  }, 
+  {
+   "begin": "170.000", 
+   "children": [], 
+   "end": "175.680", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass insbesondere in den l\u00e4ndlichen R\u00e4umen das kleine \u00f6rtliche Krankenhaus verschwindet. "
+   ]
+  }, 
+  {
+   "begin": "175.680", 
+   "children": [], 
+   "end": "178.960", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden die Existenz dieser notwendigen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "178.960", 
+   "children": [], 
+   "end": "179.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "ich betone: "
+   ]
+  }, 
+  {
+   "begin": "179.720", 
+   "children": [], 
+   "end": "180.760", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "notwendigen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "180.760", 
+   "children": [], 
+   "end": "184.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Krankenh\u00e4user auch in d\u00fcnn besiedelten Gebieten, "
+   ]
+  }, 
+  {
+   "begin": "184.360", 
+   "children": [], 
+   "end": "191.920", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wo die Krankenh\u00e4user sich eben nicht \u00fcber hohe Fallzahlen selbst finanzieren k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "191.920", 
+   "children": [], 
+   "end": "193.240", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "finanziell absichern."
+   ]
+  }, 
+  {
+   "begin": "193.240", 
+   "children": [], 
+   "end": "198.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Patienten wollen aber auch mit den neuesten Methoden, "
+   ]
+  }, 
+  {
+   "begin": "198.680", 
+   "children": [], 
+   "end": "203.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "den neuesten Ger\u00e4ten und nach neuesten wissenschaftlichen Erkenntnissen behandelt werden. "
+   ]
+  }, 
+  {
+   "begin": "203.400", 
+   "children": [], 
+   "end": "209.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Der Schlaganfallpatient muss in ein Krankenhaus mit Stroke Unit eingeliefert werden. "
+   ]
+  }, 
+  {
+   "begin": "209.080", 
+   "children": [], 
+   "end": "212.920", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Der Darmkrebspatient hat deutlich h\u00f6here \u00dcberlebenschancen, "
+   ]
+  }, 
+  {
+   "begin": "212.920", 
+   "children": [], 
+   "end": "215.200", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wenn er in einem Zentrum behandelt wird. "
+   ]
+  }, 
+  {
+   "begin": "215.200", 
+   "children": [], 
+   "end": "220.600", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb werden wir die Zentrumsbildung noch st\u00e4rker vorantreiben. "
+   ]
+  }, 
+  {
+   "begin": "220.600", 
+   "children": [], 
+   "end": "223.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch dort haben wir schon einiges geregelt. "
+   ]
+  }, 
+  {
+   "begin": "223.880", 
+   "children": [], 
+   "end": "227.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Leider werden 180\u00a0Millionen Euro\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "227.360", 
+   "children": [], 
+   "end": "229.640", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die Zentrumszuschl\u00e4ge, "
+   ]
+  }, 
+  {
+   "begin": "229.640", 
+   "children": [], 
+   "end": "231.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "die die Krankenkassen zur Verf\u00fcgung stellen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "231.920", 
+   "children": [], 
+   "end": "234.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "derzeit schlicht nicht abgerufen, "
+   ]
+  }, 
+  {
+   "begin": "234.000", 
+   "children": [], 
+   "end": "235.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "weil sich die Selbstverwaltung streitet, "
+   ]
+  }, 
+  {
+   "begin": "235.800", 
+   "children": [], 
+   "end": "237.880", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "was ein Zentrum ist."
+   ]
+  }, 
+  {
+   "begin": "237.880", 
+   "children": [], 
+   "end": "239.520", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wir sorgen nun daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "239.520", 
+   "children": [], 
+   "end": "245.720", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass Kommunen auch dann ein gutes \u00e4rztliches Angebot am Standort vorhalten k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "245.720", 
+   "children": [], 
+   "end": "248.480", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wenn ihr kleines \u00f6rtliches Krankenhaus\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "248.480", 
+   "children": [], 
+   "end": "252.040", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "weil es nicht mehr in die moderne Versorgungskette passt, "
+   ]
+  }, 
+  {
+   "begin": "252.040", 
+   "children": [], 
+   "end": "254.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "weil es nicht mehr notwendig ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "254.560", 
+   "children": [], 
+   "end": "255.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "schlie\u00dft. "
+   ]
+  }, 
+  {
+   "begin": "255.560", 
+   "children": [], 
+   "end": "261.080", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Auch daf\u00fcr werden wir weiterhin finanzielle Mittel zur Verf\u00fcgung stellen."
+   ]
+  }, 
+  {
+   "begin": "261.080", 
+   "children": [], 
+   "end": "262.320", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "262.320", 
+   "children": [], 
+   "end": "269.640", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "zur guten Versorgung geh\u00f6rt untrennbar die Apotheke vor Ort."
+   ]
+  }, 
+  {
+   "begin": "269.640", 
+   "children": [], 
+   "end": "272.880", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Da gibt es Beratung, "
+   ]
+  }, 
+  {
+   "begin": "272.880", 
+   "children": [], 
+   "end": "274.440", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wochenenddienst, "
+   ]
+  }, 
+  {
+   "begin": "274.440", 
+   "children": [], 
+   "end": "276.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Nachtdienst und Notdienst. "
+   ]
+  }, 
+  {
+   "begin": "276.600", 
+   "children": [], 
+   "end": "289.920", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Nach einem Urteil des Europ\u00e4ischen Gerichtshofes d\u00fcrfen aber ausl\u00e4ndische Versandapotheken ihre Abgabepreise f\u00fcr verschreibungspflichtige Medikamente frei festlegen und Boni gew\u00e4hren, "
+   ]
+  }, 
+  {
+   "begin": "289.920", 
+   "children": [], 
+   "end": "297.160", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend f\u00fcr die deutsche Pr\u00e4senzapotheke weiterhin die Arzneimittelpreisverordnung gilt und Rabatte verboten sind. "
+   ]
+  }, 
+  {
+   "begin": "297.160", 
+   "children": [], 
+   "end": "306.640", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden mit einem Versandhandelsverbot bez\u00fcglich verschreibungspflichtiger Medikamente die Gleichbehandlung wiederherstellen, "
+   ]
+  }, 
+  {
+   "begin": "306.640", 
+   "children": [], 
+   "end": "313.280", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "damit das \u00dcberleben der Apotheken vor Ort gesichert wird."
+   ]
+  }, 
+  {
+   "begin": "313.280", 
+   "children": [], 
+   "end": "314.680", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "314.680", 
+   "children": [], 
+   "end": "316.120", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur, "
+   ]
+  }, 
+  {
+   "begin": "316.120", 
+   "children": [], 
+   "end": "321.600", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "aber besonders \u00e4ltere und kranke Menschen haben ein Recht auf ein Leben in W\u00fcrde. "
+   ]
+  }, 
+  {
+   "begin": "321.600", 
+   "children": [], 
+   "end": "322.040", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "322.040", 
+   "children": [], 
+   "end": "324.520", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "es wurde heute mehrfach erw\u00e4hnt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "324.520", 
+   "children": [], 
+   "end": "329.920", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "haben wir viel f\u00fcr die von Pflege Betroffenen und f\u00fcr ihre Familien getan. "
+   ]
+  }, 
+  {
+   "begin": "329.920", 
+   "children": [], 
+   "end": "332.400", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Selbstverst\u00e4ndlich haben wir die Menschen, "
+   ]
+  }, 
+  {
+   "begin": "332.400", 
+   "children": [], 
+   "end": "334.200", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "die in der Pflege arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "334.200", 
+   "children": [], 
+   "end": "335.400", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "nicht vergessen. "
+   ]
+  }, 
+  {
+   "begin": "335.400", 
+   "children": [], 
+   "end": "337.240", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen werden wir die Ausbildungs- "
+   ]
+  }, 
+  {
+   "begin": "337.240", 
+   "children": [], 
+   "end": "342.120", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "und Arbeitsbedingungen deutlich verbessern und f\u00fcr eine tarifvertragliche Durchdringung sorgen. "
+   ]
+  }, 
+  {
+   "begin": "342.120", 
+   "children": [], 
+   "end": "345.160", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Auch hier waren wir nicht unt\u00e4tig. "
+   ]
+  }, 
+  {
+   "begin": "345.160", 
+   "children": [], 
+   "end": "364.400", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Zum Beispiel sollten rund\u00a018 von j\u00e4hrlich insgesamt 75\u00a0Milliarden Euro GKV-Ausgaben f\u00fcr Krankenh\u00e4user \u00fcber den Pflegeanteil bei den Fallpauschalen eigentlich bereits heute bei der Pflege ankommen. "
+   ]
+  }, 
+  {
+   "begin": "364.400", 
+   "children": [], 
+   "end": "369.160", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Hinzu kommt eine knappe Milliarde Euro aus dem Pflegestellen-F\u00f6rderprogramm. "
+   ]
+  }, 
+  {
+   "begin": "369.160", 
+   "children": [], 
+   "end": "370.760", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Hinsichtlich der Frage, "
+   ]
+  }, 
+  {
+   "begin": "370.760", 
+   "children": [], 
+   "end": "373.200", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "ob das auch so geschieht, "
+   ]
+  }, 
+  {
+   "begin": "373.200", 
+   "children": [], 
+   "end": "374.360", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "haben wir gro\u00dfe Zweifel. "
+   ]
+  }, 
+  {
+   "begin": "374.360", 
+   "children": [], 
+   "end": "377.080", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Genau deswegen brauchen wir Transparenz. "
+   ]
+  }, 
+  {
+   "begin": "377.080", 
+   "children": [], 
+   "end": "378.200", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00f6chten endlich sicher sein, "
+   ]
+  }, 
+  {
+   "begin": "378.200", 
+   "children": [], 
+   "end": "382.800", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "dass das Geld dort ankommt und dass wir mit diesem Geld keine Aufz\u00fcge, "
+   ]
+  }, 
+  {
+   "begin": "382.800", 
+   "children": [], 
+   "end": "386.640", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Fenster und D\u00e4cher in den Krankenh\u00e4usern finanzieren."
+   ]
+  }, 
+  {
+   "begin": "386.640", 
+   "children": [], 
+   "end": "387.880", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Grund, "
+   ]
+  }, 
+  {
+   "begin": "387.880", 
+   "children": [], 
+   "end": "392.000", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "warum wir die Pflege auch k\u00fcnftig gesondert finanzieren wollen."
+   ]
+  }, 
+  {
+   "begin": "392.000", 
+   "children": [], 
+   "end": "394.360", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Mir ist ein zweiter Gedanke wichtig. "
+   ]
+  }, 
+  {
+   "begin": "394.360", 
+   "children": [], 
+   "end": "398.600", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4rzte und Pflegekr\u00e4fte behandeln gemeinsam. "
+   ]
+  }, 
+  {
+   "begin": "398.600", 
+   "children": [], 
+   "end": "407.920", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Mit der neuen Pflegepauschale wird die Pflege endlich auch ein Teil der Wertsch\u00f6pfungskette im Krankenhaus und nicht mehr nur als\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "407.920", 
+   "children": [], 
+   "end": "410.080", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "ich sage es einmal so\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "410.080", 
+   "children": [], 
+   "end": "412.080", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Kostenfaktor bezeichnet."
+   ]
+  }, 
+  {
+   "begin": "412.080", 
+   "children": [], 
+   "end": "413.640", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Ein letzter Gedanke. "
+   ]
+  }, 
+  {
+   "begin": "413.640", 
+   "children": [], 
+   "end": "416.960", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "In der Medizin haben Daten einen hohen Stellenwert. "
+   ]
+  }, 
+  {
+   "begin": "416.960", 
+   "children": [], 
+   "end": "418.200", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Sie tragen dazu bei, "
+   ]
+  }, 
+  {
+   "begin": "418.200", 
+   "children": [], 
+   "end": "419.680", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "dass neue Medikamente, "
+   ]
+  }, 
+  {
+   "begin": "419.680", 
+   "children": [], 
+   "end": "426.440", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Diagnostika und Medizinprodukte erfolgreich entwickelt und operative Verfahren verbessert werden. "
+   ]
+  }, 
+  {
+   "begin": "426.440", 
+   "children": [], 
+   "end": "432.720", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Die Forschung an Krebs wird heutzutage unmittelbar in Behandlungsstrategien \u00fcberf\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "432.720", 
+   "children": [], 
+   "end": "435.640", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Ein Gro\u00dfteil der Daten kann allerdings, "
+   ]
+  }, 
+  {
+   "begin": "435.640", 
+   "children": [], 
+   "end": "441.920", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel aufgrund der Barrieren in der Daten\u00fcbermittlung zwischen den unterschiedlichen Leistungserbringern, "
+   ]
+  }, 
+  {
+   "begin": "441.920", 
+   "children": [], 
+   "end": "443.560", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "nicht abgerufen werden. "
+   ]
+  }, 
+  {
+   "begin": "443.560", 
+   "children": [], 
+   "end": "446.560", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Digitalisierung ist deshalb kein Selbstzweck, "
+   ]
+  }, 
+  {
+   "begin": "446.560", 
+   "children": [], 
+   "end": "449.000", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "sondern ein Prozess und ein Mittel, "
+   ]
+  }, 
+  {
+   "begin": "449.000", 
+   "children": [], 
+   "end": "451.560", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "um die Versorgung zu verbessern."
+   ]
+  }, 
+  {
+   "begin": "451.560", 
+   "children": [], 
+   "end": "454.520", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Jede Behandlung bringt neue Erkenntnisse zutage. "
+   ]
+  }, 
+  {
+   "begin": "454.520", 
+   "children": [], 
+   "end": "456.600", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen eine verbesserte Vernetzung, "
+   ]
+  }, 
+  {
+   "begin": "456.600", 
+   "children": [], 
+   "end": "463.320", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel den einheitlichen Behandlungsweg von der Universit\u00e4tsmedizin bis hin zur ambulanten Schwerpunktpraxis. "
+   ]
+  }, 
+  {
+   "begin": "463.320", 
+   "children": [], 
+   "end": "467.360", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Genau deswegen brauchen wir eine elektronische Patientenakte. "
+   ]
+  }, 
+  {
+   "begin": "467.360", 
+   "children": [], 
+   "end": "471.320", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Einzelne Krankenkassen entwickeln eine solche Patientenakte bereits. "
+   ]
+  }, 
+  {
+   "begin": "471.320", 
+   "children": [], 
+   "end": "472.160", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Gut so! "
+   ]
+  }, 
+  {
+   "begin": "472.160", 
+   "children": [], 
+   "end": "474.240", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden das Rad nicht zur\u00fcckdrehen, "
+   ]
+  }, 
+  {
+   "begin": "474.240", 
+   "children": [], 
+   "end": "475.200", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "sondern darauf achten, "
+   ]
+  }, 
+  {
+   "begin": "475.200", 
+   "children": [], 
+   "end": "479.680", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "dass die Schnittstellen zusammenpassen und die Interoperabilit\u00e4t gew\u00e4hrleistet ist. "
+   ]
+  }, 
+  {
+   "begin": "479.680", 
+   "children": [], 
+   "end": "481.240", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt also viel zu tun, "
+   ]
+  }, 
+  {
+   "begin": "481.240", 
+   "children": [], 
+   "end": "483.760", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere f\u00fcr die Selbstverwaltung, "
+   ]
+  }, 
+  {
+   "begin": "483.760", 
+   "children": [], 
+   "end": "486.040", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "die ich noch einmal herzlich einlade."
+   ]
+  }, 
+  {
+   "begin": "486.040", 
+   "children": [], 
+   "end": "489.720", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich auf die gute Zusammenarbeit in den n\u00e4chsten vier Jahren."
+   ]
+  }, 
+  {
+   "begin": "489.720", 
+   "children": [], 
+   "end": "490.800", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "490.800", 
+   "children": [], 
+   "end": "492.320", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Letzter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "492.320", 
+   "children": [], 
+   "end": "495.920", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "wirklich allerletzter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "495.920", 
+   "children": [], 
+   "end": "499.960", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Redner in dieser Debatte ist Dr.\u00a0Edgar Franke f\u00fcr die SPD."
+   ]
+  }
+ ]
+}

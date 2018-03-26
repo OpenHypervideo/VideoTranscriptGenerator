@@ -1,0 +1,594 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.040", 
+   "children": [], 
+   "end": "7.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "children": [], 
+   "end": "8.720", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Haben Bauen, "
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "children": [], 
+   "end": "14.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Stadtentwicklung und Wohnen mit Heimat zu tun? "
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "children": [], 
+   "end": "15.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "15.640", 
+   "children": [], 
+   "end": "18.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "sogar ziemlich viel. "
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "children": [], 
+   "end": "18.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Aber, "
+   ]
+  }, 
+  {
+   "begin": "18.600", 
+   "children": [], 
+   "end": "22.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "verehrte Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "22.440", 
+   "children": [], 
+   "end": "25.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Heimat ist mehr als Baukindergeld, "
+   ]
+  }, 
+  {
+   "begin": "25.480", 
+   "children": [], 
+   "end": "34.640", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "mehr als Einfamilienh\u00e4user auf der gr\u00fcnen Wiese mit Geranien am Balkon und m\u00f6glichst keinen Muslimen unter den Nachbarn."
+   ]
+  }, 
+  {
+   "begin": "34.640", 
+   "children": [], 
+   "end": "41.520", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das sind auch die sozialen Brennpunkte in unseren St\u00e4dten, "
+   ]
+  }, 
+  {
+   "begin": "41.520", 
+   "children": [], 
+   "end": "44.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die schwierigen Wohngebiete, "
+   ]
+  }, 
+  {
+   "begin": "44.800", 
+   "children": [], 
+   "end": "47.480", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die Geschosswohnungsbauten. "
+   ]
+  }, 
+  {
+   "begin": "47.480", 
+   "children": [], 
+   "end": "49.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen einen Heimat- "
+   ]
+  }, 
+  {
+   "begin": "49.720", 
+   "children": [], 
+   "end": "51.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "und Wohnungsbauminister, "
+   ]
+  }, 
+  {
+   "begin": "51.960", 
+   "children": [], 
+   "end": "53.040", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "der alle meint, "
+   ]
+  }, 
+  {
+   "begin": "53.040", 
+   "children": [], 
+   "end": "54.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Herr Seehofer, "
+   ]
+  }, 
+  {
+   "begin": "54.120", 
+   "children": [], 
+   "end": "56.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "der wirklich alle meint."
+   ]
+  }, 
+  {
+   "begin": "56.160", 
+   "children": [], 
+   "end": "61.680", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Angesichts der 850\u00a0000\u00a0Wohnungslosen in Deutschland\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "61.680", 
+   "children": [], 
+   "end": "64.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "darunter sind \u00fcbrigens zunehmend auch Familien mit Kindern\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "64.720", 
+   "children": [], 
+   "end": "71.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "der endlosen Wartelisten bei unseren Wohnungs\u00e4mtern und der wachsenden Schar von Mieterinnen und Mietern, "
+   ]
+  }, 
+  {
+   "begin": "71.040", 
+   "children": [], 
+   "end": "74.520", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die aus ihren preisg\u00fcnstigen Wohnungen heraussaniert werden, "
+   ]
+  }, 
+  {
+   "begin": "74.520", 
+   "children": [], 
+   "end": "76.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ist es geradezu absurd, "
+   ]
+  }, 
+  {
+   "begin": "76.720", 
+   "children": [], 
+   "end": "79.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Herrn Seehofer in diesen Zeiten seine Wunsch- "
+   ]
+  }, 
+  {
+   "begin": "79.960", 
+   "children": [], 
+   "end": "82.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und Heimatspielwiese zurechtzuzimmern, "
+   ]
+  }, 
+  {
+   "begin": "82.760", 
+   "children": [], 
+   "end": "90.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "indem ein weiteres Mal das wichtige Thema zu einem Wanderpokal zwischen den H\u00e4usern gemacht wird."
+   ]
+  }, 
+  {
+   "begin": "90.160", 
+   "children": [], 
+   "end": "92.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Das kostet Zeit und Geld, "
+   ]
+  }, 
+  {
+   "begin": "92.720", 
+   "children": [], 
+   "end": "94.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "94.440", 
+   "children": [], 
+   "end": "98.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und es ist das Gegenteil von Ernsthaftigkeit. "
+   ]
+  }, 
+  {
+   "begin": "98.640", 
+   "children": [], 
+   "end": "102.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Eine Heimatabteilung mit 100\u00a0neuen Stellen im Ministerium\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "102.400", 
+   "children": [], 
+   "end": "113.200", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "ob das eine zeitgem\u00e4\u00dfe Antwort auf die Fragen dieser Tage ist oder nicht eher eine Jobb\u00f6rse f\u00fcr verdiente Christsoziale, "
+   ]
+  }, 
+  {
+   "begin": "113.200", 
+   "children": [], 
+   "end": "114.840", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "fragt man sich da."
+   ]
+  }, 
+  {
+   "begin": "114.840", 
+   "children": [], 
+   "end": "123.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Bezahlbares Wohnen und st\u00e4dtebauliche Entwicklung werden zu Recht zu den gro\u00dfen Herausforderungen des 21.\u00a0Jahrhunderts gez\u00e4hlt. "
+   ]
+  }, 
+  {
+   "begin": "123.920", 
+   "children": [], 
+   "end": "127.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind zu gro\u00df f\u00fcr einen Mann, "
+   ]
+  }, 
+  {
+   "begin": "127.640", 
+   "children": [], 
+   "end": "129.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "der doch eigentlich nicht mehr will, "
+   ]
+  }, 
+  {
+   "begin": "129.840", 
+   "children": [], 
+   "end": "133.960", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "als noch einmal eine Landtagswahl in Bayern zu gewinnen."
+   ]
+  }, 
+  {
+   "begin": "133.960", 
+   "children": [], 
+   "end": "140.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man Aussagen von Teilen der Koalition in diesen Tagen so h\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "140.520", 
+   "children": [], 
+   "end": "142.360", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dann stellt sich einem die Frage, "
+   ]
+  }, 
+  {
+   "begin": "142.360", 
+   "children": [], 
+   "end": "146.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "wer hier eigentlich in den letzten zw\u00f6lf Jahren regiert hat."
+   ]
+  }, 
+  {
+   "begin": "146.280", 
+   "children": [], 
+   "end": "148.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Sie benennen die Probleme\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "148.360", 
+   "children": [], 
+   "end": "149.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "das ist sehr ehrenwert\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "149.920", 
+   "children": [], 
+   "end": "154.400", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die Sie in den zur\u00fcckliegenden zw\u00f6lf Jahren nicht gel\u00f6st haben,"
+   ]
+  }, 
+  {
+   "begin": "154.400", 
+   "children": [], 
+   "end": "156.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und nennen jetzt neue Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "156.320", 
+   "children": [], 
+   "end": "158.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "die Sie jetzt ergreifen wollen."
+   ]
+  }, 
+  {
+   "begin": "158.240", 
+   "children": [], 
+   "end": "159.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin sicher: "
+   ]
+  }, 
+  {
+   "begin": "159.560", 
+   "children": [], 
+   "end": "161.000", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind guten Willens. "
+   ]
+  }, 
+  {
+   "begin": "161.000", 
+   "children": [], 
+   "end": "163.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Das ist gar keine Frage. "
+   ]
+  }, 
+  {
+   "begin": "163.000", 
+   "children": [], 
+   "end": "166.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden Sie kritisch-konstruktiv dabei begleiten, "
+   ]
+  }, 
+  {
+   "begin": "166.160", 
+   "children": [], 
+   "end": "169.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie 1,5\u00a0Millionen neue Sozialwohnungen bauen, "
+   ]
+  }, 
+  {
+   "begin": "169.920", 
+   "children": [], 
+   "end": "172.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie das Mietrecht endlich so reformieren, "
+   ]
+  }, 
+  {
+   "begin": "172.560", 
+   "children": [], 
+   "end": "176.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass tats\u00e4chlich etwas f\u00fcr die Mieterinnen und Mieter dabei herausspringt. "
+   ]
+  }, 
+  {
+   "begin": "176.080", 
+   "children": [], 
+   "end": "178.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Und wir werden Sie bei vielen anderen Ma\u00dfnahmen begleiten, "
+   ]
+  }, 
+  {
+   "begin": "178.200", 
+   "children": [], 
+   "end": "182.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die der Integration in unsere Gesellschaft dienen und nicht zur Spaltung f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "182.200", 
+   "children": [], 
+   "end": "184.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Dabei haben Sie uns immer an Ihrer Seite, "
+   ]
+  }, 
+  {
+   "begin": "184.440", 
+   "children": [], 
+   "end": "185.320", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Herr Minister."
+   ]
+  }, 
+  {
+   "begin": "185.320", 
+   "children": [], 
+   "end": "189.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir w\u00fcnschen eine gl\u00fcckliche Hand und gutes Gelingen."
+   ]
+  }, 
+  {
+   "begin": "189.680", 
+   "children": [], 
+   "end": "200.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat die Kollegin Marie-Luise D\u00f6tt, "
+   ]
+  }, 
+  {
+   "begin": "200.360", 
+   "children": [], 
+   "end": "201.200", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU-Fraktion, "
+   ]
+  }, 
+  {
+   "begin": "201.200", 
+   "children": [], 
+   "end": "202.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "das Wort."
+   ]
+  }
+ ]
+}

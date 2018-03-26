@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.800", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.800", 
+   "children": [], 
+   "end": "6.280", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "children": [], 
+   "end": "9.240", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Spaniel, "
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "children": [], 
+   "end": "11.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "ich muss mich schon sehr wundern. "
+   ]
+  }, 
+  {
+   "begin": "11.360", 
+   "children": [], 
+   "end": "14.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Meine Kollegen aus dem Umweltausschuss sagen mir, "
+   ]
+  }, 
+  {
+   "begin": "14.360", 
+   "children": [], 
+   "end": "20.080", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass die AfD bei diesem Tagesordnungspunkt gar nicht das Wort ergriffen hat."
+   ]
+  }, 
+  {
+   "begin": "20.080", 
+   "children": [], 
+   "end": "22.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Und dann stellen Sie sich hierhin und sagen, "
+   ]
+  }, 
+  {
+   "begin": "22.040", 
+   "children": [], 
+   "end": "24.640", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "der Bundestag w\u00fcrde das ohne Debatte durchwinken. "
+   ]
+  }, 
+  {
+   "begin": "24.640", 
+   "children": [], 
+   "end": "43.400", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Antrag h\u00e4tte nach Aufsetzung auf die Tagesordnung ja auch ohne Debatte behandelt werden sollen. "
+   ]
+  }, 
+  {
+   "begin": "43.400", 
+   "children": [], 
+   "end": "46.200", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "So war es doch von Ihnen beantragt. "
+   ]
+  }, 
+  {
+   "begin": "46.200", 
+   "children": [], 
+   "end": "48.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es ist doch unglaubw\u00fcrdig, "
+   ]
+  }, 
+  {
+   "begin": "48.240", 
+   "children": [], 
+   "end": "57.720", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "uns vorzuwerfen, "
+   ]
+  }, 
+  {
+   "begin": "57.720", 
+   "children": [], 
+   "end": "60.600", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass wir keine Debatte wollen, "
+   ]
+  }, 
+  {
+   "begin": "60.600", 
+   "children": [], 
+   "end": "61.840", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie selber es nicht wollen."
+   ]
+  }, 
+  {
+   "begin": "61.840", 
+   "children": [], 
+   "end": "63.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "63.760", 
+   "children": [], 
+   "end": "66.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "die AfD beantragt jetzt also kurzfristig,"
+   ]
+  }, 
+  {
+   "begin": "66.920", 
+   "children": [], 
+   "end": "71.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dieses Thema auf die Tagesordnung zu setzen, "
+   ]
+  }, 
+  {
+   "begin": "71.240", 
+   "children": [], 
+   "end": "73.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "und betont, "
+   ]
+  }, 
+  {
+   "begin": "73.760", 
+   "children": [], 
+   "end": "78.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "es sei besonders dringlich, "
+   ]
+  }, 
+  {
+   "begin": "78.400", 
+   "children": [], 
+   "end": "85.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns heute mit diesem Punkt befassen. "
+   ]
+  }, 
+  {
+   "begin": "85.800", 
+   "children": [], 
+   "end": "86.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Richtig ist, "
+   ]
+  }, 
+  {
+   "begin": "86.720", 
+   "children": [], 
+   "end": "95.080", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass die Frist f\u00fcr das Aussprechen einer Subsidiarit\u00e4tsr\u00fcge am Dienstag abl\u00e4uft. "
+   ]
+  }, 
+  {
+   "begin": "95.080", 
+   "children": [], 
+   "end": "97.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Richtig ist auch, "
+   ]
+  }, 
+  {
+   "begin": "97.240", 
+   "children": [], 
+   "end": "99.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass heute die letzte Gelegenheit ist, "
+   ]
+  }, 
+  {
+   "begin": "99.240", 
+   "children": [], 
+   "end": "102.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dar\u00fcber in einer Sitzung zu debattieren."
+   ]
+  }, 
+  {
+   "begin": "102.200", 
+   "children": [], 
+   "end": "108.680", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Das scheint den Kolleginnen und Kollegen von der AfD aber erst gestern Abend aufgefallen zu sein,"
+   ]
+  }, 
+  {
+   "begin": "108.680", 
+   "children": [], 
+   "end": "119.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "weil der Antrag auf Aufsetzung erst gestern Abend um 17.54\u00a0Uhr beim Parlamentssekretariat eingegangen ist,"
+   ]
+  }, 
+  {
+   "begin": "119.680", 
+   "children": [], 
+   "end": "129.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "also zu einem Zeitpunkt, "
+   ]
+  }, 
+  {
+   "begin": "129.960", 
+   "children": [], 
+   "end": "133.800", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wo wir hier mit Wahlen und Abstimmungen besch\u00e4ftigt waren, "
+   ]
+  }, 
+  {
+   "begin": "133.800", 
+   "children": [], 
+   "end": "138.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "wo also f\u00fcr alle anderen Fraktionen keine M\u00f6glichkeit bestand, "
+   ]
+  }, 
+  {
+   "begin": "138.200", 
+   "children": [], 
+   "end": "141.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "sich sorgf\u00e4ltig mit diesem Antrag auseinanderzusetzen."
+   ]
+  }, 
+  {
+   "begin": "141.800", 
+   "children": [], 
+   "end": "146.560", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Eine sinnvolle Beratung war jedenfalls nicht mehr m\u00f6glich."
+   ]
+  }, 
+  {
+   "begin": "146.560", 
+   "children": [], 
+   "end": "149.280", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen von der AfD, "
+   ]
+  }, 
+  {
+   "begin": "151.400", 
+   "children": [], 
+   "end": "155.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Sie h\u00e4tten ja Zeit genug gehabt."
+   ]
+  }, 
+  {
+   "begin": "155.240", 
+   "children": [], 
+   "end": "163.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Der Verordnungsentwurf ist am 8.\u00a0November 2017 von der EU-Kommission vorgelegt worden."
+   ]
+  }, 
+  {
+   "begin": "163.080", 
+   "children": [], 
+   "end": "166.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Sie h\u00e4tten mehr als vier Monate Zeit gehabt, "
+   ]
+  }, 
+  {
+   "begin": "166.320", 
+   "children": [], 
+   "end": "168.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "hier einen Antrag einzureichen, "
+   ]
+  }, 
+  {
+   "begin": "168.520", 
+   "children": [], 
+   "end": "178.960", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "damit sich der Bundestag damit ordentlich besch\u00e4ftigen kann."
+   ]
+  }, 
+  {
+   "begin": "178.960", 
+   "children": [], 
+   "end": "183.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wir hatten allein in diesem Jahr sechs Sitzungswochen, "
+   ]
+  }, 
+  {
+   "begin": "183.360", 
+   "children": [], 
+   "end": "185.400", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "wo wir das h\u00e4tten tun k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "185.400", 
+   "children": [], 
+   "end": "190.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie einen Antrag eingebracht h\u00e4tten."
+   ]
+  }, 
+  {
+   "begin": "190.920", 
+   "children": [], 
+   "end": "192.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Nun wei\u00df ich ja nicht, "
+   ]
+  }, 
+  {
+   "begin": "192.480", 
+   "children": [], 
+   "end": "194.840", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "was bei Ihnen schiefgelaufen ist. "
+   ]
+  }, 
+  {
+   "begin": "194.840", 
+   "children": [], 
+   "end": "198.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Aber vier Monate lang passiert bei einem Thema, "
+   ]
+  }, 
+  {
+   "begin": "198.720", 
+   "children": [], 
+   "end": "200.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "das Ihnen offensichtlich sehr wichtig ist, "
+   ]
+  }, 
+  {
+   "begin": "200.520", 
+   "children": [], 
+   "end": "201.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "nichts, "
+   ]
+  }, 
+  {
+   "begin": "201.040", 
+   "children": [], 
+   "end": "204.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "und dann kommen Sie auf den letzten Dr\u00fccker, "
+   ]
+  }, 
+  {
+   "begin": "204.320", 
+   "children": [], 
+   "end": "211.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "ohne dass die anderen Fraktionen Gelegenheit haben, "
+   ]
+  }, 
+  {
+   "begin": "211.000", 
+   "children": [], 
+   "end": "219.560", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "sich damit auseinanderzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "219.560", 
+   "children": [], 
+   "end": "221.160", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Da machen wir nicht mit!"
+   ]
+  }, 
+  {
+   "begin": "221.160", 
+   "children": [], 
+   "end": "227.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ganz abgesehen davon hatten Sie es ja noch nicht einmal n\u00f6tig, "
+   ]
+  }, 
+  {
+   "begin": "227.120", 
+   "children": [], 
+   "end": "230.000", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "uns dar\u00fcber zu informieren, "
+   ]
+  }, 
+  {
+   "begin": "230.000", 
+   "children": [], 
+   "end": "230.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie planen, "
+   ]
+  }, 
+  {
+   "begin": "230.920", 
+   "children": [], 
+   "end": "233.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "einen solchen Antrag einzureichen. "
+   ]
+  }, 
+  {
+   "begin": "233.800", 
+   "children": [], 
+   "end": "237.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Gelegenheit dazu h\u00e4tten Sie ja gehabt."
+   ]
+  }, 
+  {
+   "begin": "237.680", 
+   "children": [], 
+   "end": "260.480", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Letzte Woche Mittwoch haben wir in einer interfraktionellen Runde zusammengesessen und \u00fcber die Tagesordnung dieser Woche beraten. "
+   ]
+  }, 
+  {
+   "begin": "260.480", 
+   "children": [], 
+   "end": "262.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wort von der AfD, "
+   ]
+  }, 
+  {
+   "begin": "262.400", 
+   "children": [], 
+   "end": "264.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "einen solchen Antrag einzubringen!"
+   ]
+  }, 
+  {
+   "begin": "264.080", 
+   "children": [], 
+   "end": "274.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Letzte Woche Donnerstag haben wir im \u00c4ltestenrat die Tagesordnung f\u00fcr diese Sitzungswoche beschlossen. "
+   ]
+  }, 
+  {
+   "begin": "274.880", 
+   "children": [], 
+   "end": "276.560", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wort der AfD, "
+   ]
+  }, 
+  {
+   "begin": "276.560", 
+   "children": [], 
+   "end": "278.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "einen solchen Antrag einzubringen!"
+   ]
+  }, 
+  {
+   "begin": "278.400", 
+   "children": [], 
+   "end": "287.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Diese Woche Dienstag haben wir in der Runde der Parlamentarischen Gesch\u00e4ftsf\u00fchrer zusammengesessen. "
+   ]
+  }, 
+  {
+   "begin": "287.800", 
+   "children": [], 
+   "end": "291.120", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wort der AfD zu diesem Antrag!"
+   ]
+  }, 
+  {
+   "begin": "291.120", 
+   "children": [], 
+   "end": "299.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Am Mittwoch sa\u00df eine Runde von Fraktionsmitarbeitern zusammen. "
+   ]
+  }, 
+  {
+   "begin": "299.480", 
+   "children": [], 
+   "end": "305.720", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wort der AfD zu diesem Antrag!"
+   ]
+  }, 
+  {
+   "begin": "305.720", 
+   "children": [], 
+   "end": "310.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Gestern Nachmittag haben wir im \u00c4ltestenrat zusammengesessen. "
+   ]
+  }, 
+  {
+   "begin": "310.960", 
+   "children": [], 
+   "end": "312.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden es schon wissen: "
+   ]
+  }, 
+  {
+   "begin": "312.360", 
+   "children": [], 
+   "end": "316.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wort der AfD zu diesem Antrag!"
+   ]
+  }, 
+  {
+   "begin": "316.040", 
+   "children": [], 
+   "end": "321.320", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Stunden bevor Sie diesen Antrag eingereicht haben, "
+   ]
+  }, 
+  {
+   "begin": "321.320", 
+   "children": [], 
+   "end": "322.760", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "haben wir noch zusammengesessen, "
+   ]
+  }, 
+  {
+   "begin": "322.760", 
+   "children": [], 
+   "end": "323.640", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "und Sie haben es nicht f\u00fcr n\u00f6tig gehalten, "
+   ]
+  }, 
+  {
+   "begin": "323.640", 
+   "children": [], 
+   "end": "324.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "uns dar\u00fcber zu informieren. "
+   ]
+  }, 
+  {
+   "begin": "324.840", 
+   "children": [], 
+   "end": "324.960", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Das ist schlechter Stil, "
+   ]
+  }, 
+  {
+   "begin": "324.960", 
+   "children": [], 
+   "end": "326.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "auch gegen\u00fcber allen anderen Fraktionen, "
+   ]
+  }, 
+  {
+   "begin": "326.680", 
+   "children": [], 
+   "end": "327.880", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "327.880", 
+   "children": [], 
+   "end": "329.440", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege M\u00fcller, "
+   ]
+  }, 
+  {
+   "begin": "329.440", 
+   "children": [], 
+   "end": "332.920", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "auch bei Gesch\u00e4ftsordnungsdebatten gibt es eine Begrenzung der Redezeit."
+   ]
+  }, 
+  {
+   "begin": "332.920", 
+   "children": [], 
+   "end": "334.520", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Ich fasse zusammen: "
+   ]
+  }, 
+  {
+   "begin": "334.520", 
+   "children": [], 
+   "end": "336.680", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben vier Monate nichts gemacht. "
+   ]
+  }, 
+  {
+   "begin": "336.680", 
+   "children": [], 
+   "end": "337.760", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben vier Monate geschlafen,"
+   ]
+  }, 
+  {
+   "begin": "337.760", 
+   "children": [], 
+   "end": "339.320", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "kommen jetzt auf den letzten Dr\u00fccker, "
+   ]
+  }, 
+  {
+   "begin": "339.320", 
+   "children": [], 
+   "end": "340.320", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "ohne dass wir Gelegenheit hatten, "
+   ]
+  }, 
+  {
+   "begin": "340.320", 
+   "children": [], 
+   "end": "341.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "uns damit zu besch\u00e4ftigen. "
+   ]
+  }, 
+  {
+   "begin": "341.360", 
+   "children": [], 
+   "end": "342.920", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir lehnen den Antrag auf Aufsetzung ab."
+   ]
+  }, 
+  {
+   "begin": "342.920", 
+   "children": [], 
+   "end": "345.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Wortmeldungen zu diesem Gesch\u00e4ftsordnungsantrag liegen mir nicht vor."
+   ]
+  }, 
+  {
+   "begin": "345.760", 
+   "children": [], 
+   "end": "347.280", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Wir kommen damit zur Abstimmung. "
+   ]
+  }, 
+  {
+   "begin": "347.280", 
+   "children": [], 
+   "end": "348.200", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr den Aufsetzungsantrag?\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "348.200", 
+   "children": [], 
+   "end": "348.201", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "348.201", 
+   "children": [], 
+   "end": "348.202", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "348.202", 
+   "children": [], 
+   "end": "348.600", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "348.600", 
+   "children": [], 
+   "end": "350.440", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "wir sind mitten in einer Abstimmung. "
+   ]
+  }, 
+  {
+   "begin": "350.440", 
+   "children": [], 
+   "end": "351.640", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf Sie bitten, "
+   ]
+  }, 
+  {
+   "begin": "351.640", 
+   "children": [], 
+   "end": "360.480", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "die Abstimmung \u00fcber einen von Ihnen gestellten Antrag nicht zu behindern."
+   ]
+  }, 
+  {
+   "begin": "360.480", 
+   "children": [], 
+   "end": "366.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag ist gegen die Stimmen der AfD mit den Stimmen der \u00fcbrigen Fraktionen abgelehnt."
+   ]
+  }
+ ]
+}
