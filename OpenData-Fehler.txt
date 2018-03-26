@@ -1,0 +1,29 @@
+Fehler:
+
+WP 19, 1. Sitzung, Rede: Alterspräsident Dr. Hermann Otto Solms (ID19100200)
+- Rede Node (<rede id="ID19100200">) endet vor der eigentlichen Rede
+
+WP 19, 4. Sitzung, Rede: Niels Annen (ID19401700)
+- ist im Sitzungsverlauf TOP 2 zugeordnet, tatsächlich und nach Inhaltsverzeichnis wäre TOP 3 korrekt.
+
+WP 19, 16. Sitzung, TOP 2
+- Sonderzeichen Fehler (kann nicht nach Unicode UTF-8 dekodiert werden)
+
+WP 19, 18. Sitzung, Reden: Gerald Ullrich, Stefan Rouenhoff, Bernd Westphal, Hansjörg Müller, Klaus Ernst, Heribert Hirte, Katharina Dröge, Fabio De Masi, Heribert Hirte, Markus Töns 
+- sind im Sitzungsverlauf TOP 14 zugeordnet, tatsächlich und nach Inhaltsverzeichnis wäre TOP 15 korrekt.
+
+Inkonsistenzen:
+
+WP 19, 22. Sitzung, TOP 3
+- wird im Inhaltsverzeichnis als ein TOP mit Unterpunkten aufgeführt, im Sitzungsverlauf mehrfach identisch mit top-id="Tagesordnungspunkt 3" referenziert, in der Mediathek mit Nummerierung 3.1, 3.2, 3.3, 3.4.
+
+WP 19, 23. Sitzung, TOP 3
+- wird im Inhaltsverzeichnis als ein TOP mit Unterpunkten aufgeführt, im Sitzungsverlauf mehrfach identisch mit top-id="Tagesordnungspunkt 3" referenziert, in der Mediathek mit Nummerierung 3.5, 3.6, 3.7, 3.8, 3.9, 3.10.
+
+WP 19, 24. Sitzung, TOP 3
+- wird im Inhaltsverzeichnis als ein TOP mit Unterpunkten aufgeführt, im Sitzungsverlauf mehrfach identisch mit top-id="Tagesordnungspunkt 3" referenziert, in der Mediathek mit Nummerierung 3.11, 3.12, 3.13, 3.14, 3.15.
+
+Allgemein (in Bezug auf die Videoaufzeichnungen): 
+
+- Die letzten Redebeiträge (<rede>) eines Tagesordnungpunktes enden oftmals nicht am Ende der Rede, sondern beinhalten auch noch den weiteren Text des Bundestagspräsidenten (welcher nicht in den Videoaufzeichnungen enthalten ist)
+- Selbiges gilt für die letzten Tagesordnungspunkte einer Sitzung
