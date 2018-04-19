@@ -43,7 +43,7 @@
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Eidesleistung der Bundeskanzlerin </ivz-eintrag-inhalt>
         </ivz-eintrag>
-        <ivz-eintrag>
+        <ivz-eintrag media-id="7209666">
           <ivz-eintrag-inhalt><redner id="11001938"><name><vorname>Dr. Wolfgang</vorname><nachname>Schäuble</nachname><rolle><rolle_lang>Präsident</rolle_lang><rolle_kurz>Präsident</rolle_kurz></rolle></name></redner>Präsident Dr. Wolfgang Schäuble</ivz-eintrag-inhalt>
           <xref div="B" pnr="1596" ref-type="rede" rid="ID191900300">
             <a href="S1596" typ="druckseitennummer"><seite>1596</seite> <seitenbereich>B</seitenbereich></a>
@@ -61,7 +61,7 @@
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Bekanntgabe der Bildung der Bundesregierung </ivz-eintrag-inhalt>
         </ivz-eintrag>
-        <ivz-eintrag>
+        <ivz-eintrag media-id="7209681">
           <ivz-eintrag-inhalt><redner id="11001938"><name><vorname>Dr. Wolfgang</vorname><nachname>Schäuble</nachname><rolle><rolle_lang>Präsident</rolle_lang><rolle_kurz>Präsident</rolle_kurz></rolle></name></redner>Präsident Dr. Wolfgang Schäuble</ivz-eintrag-inhalt>
           <xref div="A" pnr="1597" ref-type="rede" rid="ID191900500">
             <a href="S1597" typ="druckseitennummer"><seite>1597</seite> <seitenbereich>A</seitenbereich></a>
@@ -73,7 +73,7 @@
         <ivz-eintrag>
           <ivz-eintrag-inhalt>Eidesleistung der Bundesminister </ivz-eintrag-inhalt>
         </ivz-eintrag>
-        <ivz-eintrag>
+        <ivz-eintrag media-id="7209682">
           <ivz-eintrag-inhalt><redner id="11001938"><name><vorname>Dr. Wolfgang</vorname><nachname>Schäuble</nachname><rolle><rolle_lang>Präsident</rolle_lang><rolle_kurz>Präsident</rolle_kurz></rolle></name></redner>Präsident Dr. Wolfgang Schäuble</ivz-eintrag-inhalt>
           <xref div="C" pnr="1597" ref-type="rede" rid="ID191900600">
             <a href="S1597" typ="druckseitennummer"><seite>1597</seite> <seitenbereich>C</seitenbereich></a>
@@ -242,7 +242,7 @@
       <p klasse="T">Ich rufe d en Tagesordnungspunkt 2 auf:</p>
     </tagesordnungspunkt>
     <tagesordnungspunkt top-id="Tagesordnungspunkt 2" media-id="7209664">
-      <rede id="ID191900300">
+      <rede id="ID191900300" media-id="7209666">
         <p klasse="redner"><redner id="11001938"><name><vorname>Dr. Wolfgang</vorname><nachname>Schäuble</nachname><rolle><rolle_lang>Präsident</rolle_lang><rolle_kurz>Präsident</rolle_kurz></rolle></name></redner>Präsident Dr. Wolfgang Schäuble:</p>
         <p klasse="T_fett">Eidesleistung der Bundeskanzlerin</p>
         <p klasse="J">Der Herr Bundespräsident hat mir mit Schreiben vom heutigen Tage mitgeteilt:</p>
@@ -279,7 +279,7 @@
       <p klasse="T">Ich eröffne die unterbrochene Sitzung wieder und rufe den Tagesordnungspunkt 3 auf:</p>
     </tagesordnungspunkt>
     <tagesordnungspunkt top-id="Tagesordnungspunkt 3" media-id="7209677">
-      <rede id="ID191900500">
+      <rede id="ID191900500" media-id="7209681">
         <p klasse="redner"><redner id="11001938"><name><vorname>Dr. Wolfgang</vorname><nachname>Schäuble</nachname><rolle><rolle_lang>Präsident</rolle_lang><rolle_kurz>Präsident</rolle_kurz></rolle></name></redner>Präsident Dr. Wolfgang Schäuble:</p>
         <p klasse="T_fett">Bekanntgabe der Bildung der Bundesregierung</p>
         <p klasse="J">Der Herr Bundespräsident hat mir hierzu mit Schreiben vom heutigen Tage mitgeteilt:</p>
@@ -304,7 +304,7 @@
       </rede>
     </tagesordnungspunkt>
     <tagesordnungspunkt top-id="Tagesordnungspunkt 4" media-id="7209678">
-      <rede id="ID191900600">
+      <rede id="ID191900600" media-id="7209682">
         <p klasse="redner"><redner id="11001938"><name><vorname>Dr. Wolfgang</vorname><nachname>Schäuble</nachname><rolle><rolle_lang>Präsident</rolle_lang><rolle_kurz>Präsident</rolle_kurz></rolle></name></redner>Präsident Dr. Wolfgang Schäuble:</p>
         <p klasse="T_fett">Eidesleistung der Bundesminister</p>
         <p klasse="J">Nach Artikel 64 Absatz 2 des Grundgesetzes leisten die Bundesministerinnen und Bundesminister bei der Amtsübernahme vor dem Deutschen Bundestag den in Artikel 56 des Grundgesetzes vorgesehenen Eid. Die Eidesformel lautet:</p>
