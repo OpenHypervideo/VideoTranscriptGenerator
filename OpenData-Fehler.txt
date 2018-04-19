@@ -25,5 +25,12 @@ WP 19, 24. Sitzung, TOP 3
 
 Allgemein (in Bezug auf die Videoaufzeichnungen): 
 
-- Die letzten Redebeiträge (<rede>) eines Tagesordnungpunktes enden oftmals nicht am Ende der Rede, sondern beinhalten auch noch den weiteren Text des Bundestagspräsidenten (welcher nicht in den Videoaufzeichnungen enthalten ist)
+- Die letzten Redebeiträge (<rede>) eines Tagesordnungpunktes enden oftmals nicht am Ende der Rede, sondern beinhalten auch noch den weiteren Text des Bundestagspräsidenten (welcher nicht in den Videoaufzeichnungen enthalten ist).
 - Selbiges gilt für die letzten Tagesordnungspunkte einer Sitzung
+- In der Open Data XML Struktur sind alle Redebeiträge als "<rede>" notiert. Hier wäre eine Unterscheidung zwischen tatsächlichen Reden, Fragen (Fragestunde, Befragung der Bundesregierung), Zwischenfragen und Kurzinterventionen hilfreich (auch wenn sich dies z.T. aus dem Kontext ergibt und ggf. automatisiert erkannt werden kann).
+- Die Namensbezeichnung der MdBs folgt keiner einheitlichen Logik. Dies macht es sehr umständlich zwischen Protokoll und Mediathek ergänzende Informationen abzurufen (z.T. wird dies bereits in den Skripten behoben: https://github.com/OpenHypervideo/VideoTranscriptGenerator/blob/master/_server/scrapeMediaIDs.php#L262).
+- Auch die Bezeichnung von Tagesordnungspunkten und Zusatzpunkten variiert zwischen Mediathek und XML Protokollen (Beispiel: "ZP 4-6"-> "ZP 4,5,6"). Auch dies wird bereits teilweise behoben (siehe https://github.com/OpenHypervideo/VideoTranscriptGenerator/blob/master/_server/scrapeMediaIDs.php#L401), erschwert jedoch nach wie vor die Identifikation des korrekten Videobeitrags in der Mediathek (ausgehend vom XML Protokoll).
+
+Allgemein (in Bezug auf die Text & Video Synchronisation)
+- Insb. Wahlvorgänge enthalten oftmals im Video zusätzlichen gesprochenen Text, welcher aber nicht zu Protokoll gegeben wird (siehe bspw. 19. Sitzung, TOP 1 Wahl der Bundeskanzlerin: "(Namensaufruf und Wahl)"). Dies erschwert die Synchronisation bzw. macht z.T. manuelle Korrekturen notwendig.
+- Selbiges gilt für längere Sitzungspausen, hier muss aber nur die Konfiguration des "Forced Alignment" Tools angepasst werden.
