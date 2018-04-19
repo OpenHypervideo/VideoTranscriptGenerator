@@ -1,0 +1,634 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.560", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Lieber Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "children": [], 
+   "end": "5.480", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr mich stellt sich die Frage, "
+   ]
+  }, 
+  {
+   "begin": "5.480", 
+   "children": [], 
+   "end": "7.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "welchen Kampf Sie hier k\u00e4mpfen."
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "children": [], 
+   "end": "9.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Herr Gauland, "
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "children": [], 
+   "end": "14.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben gerade v\u00f6llig daneben gelangt, "
+   ]
+  }, 
+  {
+   "begin": "14.440", 
+   "children": [], 
+   "end": "15.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "weil Sie unterstellt haben, "
+   ]
+  }, 
+  {
+   "begin": "15.960", 
+   "children": [], 
+   "end": "18.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Saddam Hussein w\u00e4re nicht \u00fcberf\u00fchrt worden, "
+   ]
+  }, 
+  {
+   "begin": "18.360", 
+   "children": [], 
+   "end": "20.200", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass er Giftgas verwendet hat."
+   ]
+  }, 
+  {
+   "begin": "20.200", 
+   "children": [], 
+   "end": "22.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Es ist ja so daneben, "
+   ]
+  }, 
+  {
+   "begin": "22.320", 
+   "children": [], 
+   "end": "23.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "was Sie sagen! "
+   ]
+  }, 
+  {
+   "begin": "23.760", 
+   "children": [], 
+   "end": "25.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Bitte setzen, "
+   ]
+  }, 
+  {
+   "begin": "25.080", 
+   "children": [], 
+   "end": "25.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "sechs! "
+   ]
+  }, 
+  {
+   "begin": "25.640", 
+   "children": [], 
+   "end": "31.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "1988 waren Sie 30\u00a0Jahre j\u00fcnger. "
+   ]
+  }, 
+  {
+   "begin": "31.240", 
+   "children": [], 
+   "end": "32.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Damals h\u00e4tten Sie verfolgen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "32.520", 
+   "children": [], 
+   "end": "34.680", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "was wirklich passiert ist."
+   ]
+  }, 
+  {
+   "begin": "34.680", 
+   "children": [], 
+   "end": "37.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen in aller Ruhe, "
+   ]
+  }, 
+  {
+   "begin": "37.280", 
+   "children": [], 
+   "end": "38.880", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "aber in aller Klarheit: "
+   ]
+  }, 
+  {
+   "begin": "38.880", 
+   "children": [], 
+   "end": "40.400", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Gehen Sie davon aus\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "40.400", 
+   "children": [], 
+   "end": "42.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "auch ich gehe davon aus\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "42.160", 
+   "children": [], 
+   "end": "43.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass die Erkenntnisse, "
+   ]
+  }, 
+  {
+   "begin": "43.480", 
+   "children": [], 
+   "end": "44.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die da sind, "
+   ]
+  }, 
+  {
+   "begin": "44.520", 
+   "children": [], 
+   "end": "47.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "aus guten Gr\u00fcnden so bewertet werden, "
+   ]
+  }, 
+  {
+   "begin": "47.120", 
+   "children": [], 
+   "end": "55.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn vonseiten Syriens alle M\u00f6glichkeiten der Vertuschung und T\u00e4uschung genutzt werden und neuerdings sogar die Einladung ausgesprochen wird, "
+   ]
+  }, 
+  {
+   "begin": "55.960", 
+   "children": [], 
+   "end": "58.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass die Zeugen ausgeflogen werden k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "58.680", 
+   "children": [], 
+   "end": "61.440", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie vielleicht entsprechend pr\u00e4pariert worden sind. "
+   ]
+  }, 
+  {
+   "begin": "61.440", 
+   "children": [], 
+   "end": "67.200", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00fcrde man bei uns nicht als Weg der Wahrheitsfindung ansehen. "
+   ]
+  }, 
+  {
+   "begin": "67.200", 
+   "children": [], 
+   "end": "69.360", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Wahrheit ist da, "
+   ]
+  }, 
+  {
+   "begin": "69.360", 
+   "children": [], 
+   "end": "75.000", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "und die Wahrheit muss gefunden werden k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "75.000", 
+   "children": [], 
+   "end": "81.440", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Es geht da so viel durcheinander, "
+   ]
+  }, 
+  {
+   "begin": "81.440", 
+   "children": [], 
+   "end": "89.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und es wird so viel Quatsch erz\u00e4hlt."
+   ]
+  }, 
+  {
+   "begin": "89.840", 
+   "children": [], 
+   "end": "98.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Erstens ist Syrien Mitglied des Chemiewaffen\u00fcbereinkommens 2013 geworden. "
+   ]
+  }, 
+  {
+   "begin": "98.880", 
+   "children": [], 
+   "end": "101.920", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens hat Syrien selbst eingestanden, "
+   ]
+  }, 
+  {
+   "begin": "101.920", 
+   "children": [], 
+   "end": "107.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass es erhebliche Mengen an Giftgas hatte, "
+   ]
+  }, 
+  {
+   "begin": "107.000", 
+   "children": [], 
+   "end": "110.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "das dann in einer gemeinsamen Aktion\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "110.080", 
+   "children": [], 
+   "end": "111.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "es wurde darauf hingewiesen, "
+   ]
+  }, 
+  {
+   "begin": "111.840", 
+   "children": [], 
+   "end": "113.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass wir dar\u00fcber debattiert haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "113.800", 
+   "children": [], 
+   "end": "115.600", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "vernichtet worden ist. "
+   ]
+  }, 
+  {
+   "begin": "115.600", 
+   "children": [], 
+   "end": "118.920", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden jetzt nicht \u00fcber die Frage, "
+   ]
+  }, 
+  {
+   "begin": "118.920", 
+   "children": [], 
+   "end": "122.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "ob Syrien Giftgas hat."
+   ]
+  }, 
+  {
+   "begin": "122.440", 
+   "children": [], 
+   "end": "125.800", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Syrien hat selbst eingestanden, "
+   ]
+  }, 
+  {
+   "begin": "125.800", 
+   "children": [], 
+   "end": "127.360", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Giftgas zu haben. "
+   ]
+  }, 
+  {
+   "begin": "127.360", 
+   "children": [], 
+   "end": "128.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die Frage, "
+   ]
+  }, 
+  {
+   "begin": "128.040", 
+   "children": [], 
+   "end": "129.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die wir im Augenblick reden, "
+   ]
+  }, 
+  {
+   "begin": "129.440", 
+   "children": [], 
+   "end": "129.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ist, "
+   ]
+  }, 
+  {
+   "begin": "129.640", 
+   "children": [], 
+   "end": "133.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "ob es da und dort noch kleine Verstecke angelegt hat."
+   ]
+  }, 
+  {
+   "begin": "133.080", 
+   "children": [], 
+   "end": "136.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Wir sind hier nicht beim Amtsgericht."
+   ]
+  }, 
+  {
+   "begin": "136.640", 
+   "children": [], 
+   "end": "138.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Es geht hier um die Rettung von Menschen, "
+   ]
+  }, 
+  {
+   "begin": "138.560", 
+   "children": [], 
+   "end": "142.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die mit brutalsten Mitteln ums Leben gebracht werden sollen und dahinr\u00f6cheln."
+   ]
+  }, 
+  {
+   "begin": "142.640", 
+   "children": [], 
+   "end": "143.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das, "
+   ]
+  }, 
+  {
+   "begin": "143.240", 
+   "children": [], 
+   "end": "145.240", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "was Sie unterst\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "145.240", 
+   "children": [], 
+   "end": "149.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Ich wundere mich \u00fcber die AfD."
+   ]
+  }, 
+  {
+   "begin": "149.160", 
+   "children": [], 
+   "end": "149.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Sollte der Zwischenruf, "
+   ]
+  }, 
+  {
+   "begin": "149.960", 
+   "children": [], 
+   "end": "154.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "der eben undeutlich an mein Ohr drang\u00a0\u2013\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "154.080", 
+   "children": [], 
+   "end": "154.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Gut, "
+   ]
+  }, 
+  {
+   "begin": "154.480", 
+   "children": [], 
+   "end": "155.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dann ist er hier gefallen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "155.600", 
+   "children": [], 
+   "end": "155.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Ich stelle fest, "
+   ]
+  }, 
+  {
+   "begin": "155.760", 
+   "children": [], 
+   "end": "160.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass der AfD-Abgeordnete Seitz den Abgeordneten Schmidt hier als \u201eKriegstreiber\u201c betitelt hat. "
+   ]
+  }, 
+  {
+   "begin": "160.320", 
+   "children": [], 
+   "end": "162.960", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Das ist zumindest ein unparlamentarischer Ausdruck. "
+   ]
+  }, 
+  {
+   "begin": "162.960", 
+   "children": [], 
+   "end": "164.120", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Eine weitere Bewertung werden wir, "
+   ]
+  }, 
+  {
+   "begin": "164.120", 
+   "children": [], 
+   "end": "171.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "sollte sich der Abgeordnete Schmidt an seinen Parlamentarischen Gesch\u00e4ftsf\u00fchrer und an den \u00c4ltestenrat wenden, "
+   ]
+  }, 
+  {
+   "begin": "171.360", 
+   "children": [], 
+   "end": "173.720", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dann sicherlich an anderer Stelle vornehmen."
+   ]
+  }, 
+  {
+   "begin": "173.720", 
+   "children": [], 
+   "end": "175.960", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wir fahren jetzt aber erst einmal in der Debatte fort. "
+   ]
+  }, 
+  {
+   "begin": "175.960", 
+   "children": [], 
+   "end": "180.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Kollege Bijan Djir-Sarai f\u00fcr die FDP-Fraktion."
+   ]
+  }
+ ]
+}
