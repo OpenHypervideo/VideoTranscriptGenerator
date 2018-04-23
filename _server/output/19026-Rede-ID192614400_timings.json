@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "children": [], 
+   "end": "12.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "children": [], 
+   "end": "19.120", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Das Anliegen des vorliegenden Gesetzentwurfes ist durchaus nachvollziehbar und auch zu begr\u00fc\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "children": [], 
+   "end": "27.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Zwischen 2015 und 2017 haben sich die Eingangszahlen bei den Verwaltungsgerichten deutlich erh\u00f6ht. "
+   ]
+  }, 
+  {
+   "begin": "27.280", 
+   "children": [], 
+   "end": "34.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4hrend in den anderen Bereichen die Eing\u00e4nge relativ stabil bei 100\u00a0000 im Jahr liegen, "
+   ]
+  }, 
+  {
+   "begin": "34.400", 
+   "children": [], 
+   "end": "37.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "haben sie sich bei Asylsachen vervierfacht, "
+   ]
+  }, 
+  {
+   "begin": "37.480", 
+   "children": [], 
+   "end": "42.000", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "von 50\u00a0000 auf jetzt 200\u00a0000 im Jahr. "
+   ]
+  }, 
+  {
+   "begin": "42.000", 
+   "children": [], 
+   "end": "47.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Rund 365\u00a0000\u00a0Asylklagen sind derzeit anh\u00e4ngig. "
+   ]
+  }, 
+  {
+   "begin": "47.840", 
+   "children": [], 
+   "end": "57.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Mit den 1\u00a0700\u00a0Verwaltungsrichtern in der ersten Instanz kann man aber nur 200\u00a0000\u00a0F\u00e4lle j\u00e4hrlich erledigen. "
+   ]
+  }, 
+  {
+   "begin": "57.320", 
+   "children": [], 
+   "end": "64.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Selbst wenn die Zahl der Neuzug\u00e4nge auf das Niveau des Jahres 2015 zur\u00fcckginge, "
+   ]
+  }, 
+  {
+   "begin": "64.080", 
+   "children": [], 
+   "end": "67.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "was wir derzeit aber nicht absehen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "67.840", 
+   "children": [], 
+   "end": "72.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrde der R\u00fcckstand j\u00e4hrlich um nur 50\u00a0000\u00a0F\u00e4lle reduziert werden. "
+   ]
+  }, 
+  {
+   "begin": "72.200", 
+   "children": [], 
+   "end": "73.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das Ganze ist also ein Projekt, "
+   ]
+  }, 
+  {
+   "begin": "73.880", 
+   "children": [], 
+   "end": "78.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "das uns in jedem Fall noch \u00fcber Jahre begleiten wird."
+   ]
+  }, 
+  {
+   "begin": "78.000", 
+   "children": [], 
+   "end": "85.520", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Verwaltungsgerichte wenden derzeit drei Viertel ihrer Energie nur f\u00fcr die Asylverfahren auf, "
+   ]
+  }, 
+  {
+   "begin": "85.520", 
+   "children": [], 
+   "end": "88.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "obwohl das ein Teilaspekt ihrer Zust\u00e4ndigkeit ist. "
+   ]
+  }, 
+  {
+   "begin": "88.880", 
+   "children": [], 
+   "end": "92.000", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ganz wichtige Bereiche sind auch Ausbildungsf\u00f6rderung, "
+   ]
+  }, 
+  {
+   "begin": "92.000", 
+   "children": [], 
+   "end": "92.600", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Baurecht, "
+   ]
+  }, 
+  {
+   "begin": "92.600", 
+   "children": [], 
+   "end": "93.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Beamtenrecht, "
+   ]
+  }, 
+  {
+   "begin": "93.520", 
+   "children": [], 
+   "end": "94.360", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Gewerberecht, "
+   ]
+  }, 
+  {
+   "begin": "94.360", 
+   "children": [], 
+   "end": "94.560", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Kinder- "
+   ]
+  }, 
+  {
+   "begin": "94.560", 
+   "children": [], 
+   "end": "96.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und Jugendhilferecht, "
+   ]
+  }, 
+  {
+   "begin": "96.160", 
+   "children": [], 
+   "end": "97.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Kommunalrecht, "
+   ]
+  }, 
+  {
+   "begin": "97.320", 
+   "children": [], 
+   "end": "97.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Polizei- "
+   ]
+  }, 
+  {
+   "begin": "97.920", 
+   "children": [], 
+   "end": "98.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und Ordnungsrecht, "
+   ]
+  }, 
+  {
+   "begin": "98.800", 
+   "children": [], 
+   "end": "99.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Pr\u00fcfungsrecht, "
+   ]
+  }, 
+  {
+   "begin": "99.600", 
+   "children": [], 
+   "end": "100.360", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Schulrecht, "
+   ]
+  }, 
+  {
+   "begin": "100.360", 
+   "children": [], 
+   "end": "103.040", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wohngeldrecht usw. "
+   ]
+  }, 
+  {
+   "begin": "103.040", 
+   "children": [], 
+   "end": "103.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "usf. "
+   ]
+  }, 
+  {
+   "begin": "103.720", 
+   "children": [], 
+   "end": "106.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt also noch viele weitere Zust\u00e4ndigkeiten. "
+   ]
+  }, 
+  {
+   "begin": "106.640", 
+   "children": [], 
+   "end": "107.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "107.560", 
+   "children": [], 
+   "end": "110.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "an dieser Stelle ein Lob an die Verwaltungsrichter. "
+   ]
+  }, 
+  {
+   "begin": "110.080", 
+   "children": [], 
+   "end": "110.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ich bedenke, "
+   ]
+  }, 
+  {
+   "begin": "110.840", 
+   "children": [], 
+   "end": "117.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "was diese im Moment zu bearbeiten haben und wie hoch dennoch die Qualit\u00e4t der Arbeit ist, "
+   ]
+  }, 
+  {
+   "begin": "117.200", 
+   "children": [], 
+   "end": "119.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "kann man nur den Hut vor ihnen ziehen."
+   ]
+  }, 
+  {
+   "begin": "119.280", 
+   "children": [], 
+   "end": "125.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Aber eines muss doch klar sein: "
+   ]
+  }, 
+  {
+   "begin": "125.560", 
+   "children": [], 
+   "end": "137.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Auch mit dem h\u00f6chsten Einsatz und Ver\u00e4nderungen des Prozessrechts wird man das aktuelle Problem nicht l\u00f6sen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "137.920", 
+   "children": [], 
+   "end": "138.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "sprich: "
+   ]
+  }, 
+  {
+   "begin": "138.720", 
+   "children": [], 
+   "end": "140.520", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "zu z\u00fcgigen Verfahren kommen, "
+   ]
+  }, 
+  {
+   "begin": "140.520", 
+   "children": [], 
+   "end": "144.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die auch unseren rechtsstaatlichen Anforderungen entsprechen. "
+   ]
+  }, 
+  {
+   "begin": "144.520", 
+   "children": [], 
+   "end": "146.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Es sind Ma\u00dfnahmen erforderlich. "
+   ]
+  }, 
+  {
+   "begin": "146.760", 
+   "children": [], 
+   "end": "148.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die Frage ist nur, "
+   ]
+  }, 
+  {
+   "begin": "148.120", 
+   "children": [], 
+   "end": "150.240", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "welche."
+   ]
+  }, 
+  {
+   "begin": "150.240", 
+   "children": [], 
+   "end": "152.480", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4nderungen am Prozessrecht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "152.480", 
+   "children": [], 
+   "end": "154.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dar\u00fcber kann man diskutieren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "154.520", 
+   "children": [], 
+   "end": "158.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "werden das Grundproblem der personellen Unterbesetzung nicht beheben. "
+   ]
+  }, 
+  {
+   "begin": "158.680", 
+   "children": [], 
+   "end": "160.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "400 zus\u00e4tzliche Stellen reichen nicht. "
+   ]
+  }, 
+  {
+   "begin": "160.640", 
+   "children": [], 
+   "end": "166.280", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Hier m\u00fcssen die L\u00e4nder bei der ersten Instanz noch einmal deutlich nachbessern."
+   ]
+  }, 
+  {
+   "begin": "166.280", 
+   "children": [], 
+   "end": "170.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Im vorliegenden Gesetzentwurf geht es im Kern darum, "
+   ]
+  }, 
+  {
+   "begin": "170.160", 
+   "children": [], 
+   "end": "177.160", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "in Fragen von grunds\u00e4tzlicher Bedeutung auch die Berufung durch die Verwaltungsgerichte zuzulassen. "
+   ]
+  }, 
+  {
+   "begin": "177.160", 
+   "children": [], 
+   "end": "186.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Weiterhin sollen Verwaltungsgerichte bei Fragen von grunds\u00e4tzlicher Bedeutung die Beschwerde gegen Beschl\u00fcsse im einstweiligen Rechtsschutz zulassen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "186.120", 
+   "children": [], 
+   "end": "191.600", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Um fall\u00fcbergreifende allgemeine Tatsachenfragen der Entscheidung in h\u00f6chster Instanz zuzuf\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "191.600", 
+   "children": [], 
+   "end": "196.240", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "sehen Sie die M\u00f6glichkeit der Revision vor."
+   ]
+  }, 
+  {
+   "begin": "196.240", 
+   "children": [], 
+   "end": "197.160", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Richtig ist, "
+   ]
+  }, 
+  {
+   "begin": "197.160", 
+   "children": [], 
+   "end": "204.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass obergerichtliche Entscheidungen bei schwierigen und streitigen Fragen nicht nur den Gerichten, "
+   ]
+  }, 
+  {
+   "begin": "204.000", 
+   "children": [], 
+   "end": "208.600", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "sondern sicherlich auch dem BAMF Orientierung geben werden. "
+   ]
+  }, 
+  {
+   "begin": "208.600", 
+   "children": [], 
+   "end": "210.480", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Aber es ist doch zweifelhaft, "
+   ]
+  }, 
+  {
+   "begin": "210.480", 
+   "children": [], 
+   "end": "216.280", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "ob es tats\u00e4chlich zu der gew\u00fcnschten Verfahrensbeschleunigung kommt. "
+   ]
+  }, 
+  {
+   "begin": "216.280", 
+   "children": [], 
+   "end": "218.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Niemand kann vorhersehen, "
+   ]
+  }, 
+  {
+   "begin": "218.400", 
+   "children": [], 
+   "end": "223.520", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "in wie vielen F\u00e4llen von der M\u00f6glichkeit der Berufung, "
+   ]
+  }, 
+  {
+   "begin": "223.520", 
+   "children": [], 
+   "end": "227.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Beschwerde und Revision Gebrauch gemacht wird. "
+   ]
+  }, 
+  {
+   "begin": "227.960", 
+   "children": [], 
+   "end": "229.640", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Eines ist doch klar: "
+   ]
+  }, 
+  {
+   "begin": "229.640", 
+   "children": [], 
+   "end": "231.800", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wer zus\u00e4tzliche Rechtsmittel einf\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "231.800", 
+   "children": [], 
+   "end": "234.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wird zun\u00e4chst einmal erreichen, "
+   ]
+  }, 
+  {
+   "begin": "234.440", 
+   "children": [], 
+   "end": "237.040", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass die Verfahren l\u00e4nger dauern, "
+   ]
+  }, 
+  {
+   "begin": "237.040", 
+   "children": [], 
+   "end": "240.040", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass sie in jedem Fall komplizierter werden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "240.040", 
+   "children": [], 
+   "end": "243.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "zumindest vorr\u00fcbergehend\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "243.480", 
+   "children": [], 
+   "end": "249.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und dass die Verfahren insgesamt nicht so schnell der Erledigung zugef\u00fchrt werden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "249.560", 
+   "children": [], 
+   "end": "253.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die Entscheidung wird nicht so schnell rechtskr\u00e4ftig werden. "
+   ]
+  }, 
+  {
+   "begin": "253.000", 
+   "children": [], 
+   "end": "257.920", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Der Aufenthaltsstatus der Betroffenen wird sich sogar noch verfestigen. "
+   ]
+  }, 
+  {
+   "begin": "257.920", 
+   "children": [], 
+   "end": "264.960", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "In letzter Instanz k\u00f6nnte das auch zu fehlender Akzeptanz der aktuellen Politik, "
+   ]
+  }, 
+  {
+   "begin": "264.960", 
+   "children": [], 
+   "end": "266.360", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die wir machen, "
+   ]
+  }, 
+  {
+   "begin": "266.360", 
+   "children": [], 
+   "end": "267.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fchren."
+   ]
+  }, 
+  {
+   "begin": "267.560", 
+   "children": [], 
+   "end": "270.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Heute findet die erste Lesung statt. "
+   ]
+  }, 
+  {
+   "begin": "270.160", 
+   "children": [], 
+   "end": "271.840", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht der Ort, "
+   ]
+  }, 
+  {
+   "begin": "271.840", 
+   "children": [], 
+   "end": "274.640", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "an dem man einen Korb gibt. "
+   ]
+  }, 
+  {
+   "begin": "274.640", 
+   "children": [], 
+   "end": "275.480", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe gesagt, "
+   ]
+  }, 
+  {
+   "begin": "275.480", 
+   "children": [], 
+   "end": "277.040", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass es ein guter Ansatz ist. "
+   ]
+  }, 
+  {
+   "begin": "277.040", 
+   "children": [], 
+   "end": "280.240", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir m\u00fcssen die Risiken mit dem abw\u00e4gen, "
+   ]
+  }, 
+  {
+   "begin": "280.240", 
+   "children": [], 
+   "end": "283.520", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "was wir m\u00f6glicherweise erreichen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "283.520", 
+   "children": [], 
+   "end": "286.160", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung pr\u00fcft aktuell, "
+   ]
+  }, 
+  {
+   "begin": "286.160", 
+   "children": [], 
+   "end": "286.960", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "ob und wenn ja, "
+   ]
+  }, 
+  {
+   "begin": "286.960", 
+   "children": [], 
+   "end": "290.840", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "welche Gesetzes\u00e4nderungen zur weiteren Verfahrensbeschleunigung, "
+   ]
+  }, 
+  {
+   "begin": "290.840", 
+   "children": [], 
+   "end": "294.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "-vereinfachung und -vereinheitlichung m\u00f6glich sind. "
+   ]
+  }, 
+  {
+   "begin": "294.720", 
+   "children": [], 
+   "end": "300.040", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Es ist auch eine Vorabentscheidung beim Bundesverwaltungsgericht im Gespr\u00e4ch. "
+   ]
+  }, 
+  {
+   "begin": "300.040", 
+   "children": [], 
+   "end": "302.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Das ist vielleicht ein guter Ansatz, "
+   ]
+  }, 
+  {
+   "begin": "302.520", 
+   "children": [], 
+   "end": "308.680", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "um durch eine entsprechende Gesetzes\u00e4nderung die Einheitlichkeit herbeizuf\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "308.680", 
+   "children": [], 
+   "end": "313.800", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Egal wie das Ergebnis der weiteren Beratung aussehen wird, "
+   ]
+  }, 
+  {
+   "begin": "313.800", 
+   "children": [], 
+   "end": "319.280", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "am Schluss muss die Beschleunigung der Verfahren stehen."
+   ]
+  }, 
+  {
+   "begin": "319.280", 
+   "children": [], 
+   "end": "320.520", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "320.520", 
+   "children": [], 
+   "end": "321.520", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "321.520", 
+   "children": [], 
+   "end": "322.760", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Seif.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "322.760", 
+   "children": [], 
+   "end": "328.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster spricht zu uns der Abgeordnete Tobias Peterka von der AfD."
+   ]
+  }
+ ]
+}

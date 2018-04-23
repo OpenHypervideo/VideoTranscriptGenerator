@@ -1,0 +1,914 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr verehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "children": [], 
+   "end": "9.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "children": [], 
+   "end": "12.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.400", 
+   "children": [], 
+   "end": "19.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Zum wiederholten Male debattieren wir heute einen Antrag der Linken zum Thema Diesel-Pkw. "
+   ]
+  }, 
+  {
+   "begin": "19.560", 
+   "children": [], 
+   "end": "24.720", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Nach dem Urteil des Bundesverwaltungsgerichts ist es die Aufgabe der betroffenen Kommunen, "
+   ]
+  }, 
+  {
+   "begin": "24.720", 
+   "children": [], 
+   "end": "26.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "vor Ort zu handeln. "
+   ]
+  }, 
+  {
+   "begin": "26.480", 
+   "children": [], 
+   "end": "30.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Eine bundeseinheitliche Regelung ist nicht erforderlich. "
+   ]
+  }, 
+  {
+   "begin": "30.120", 
+   "children": [], 
+   "end": "36.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Grenz\u00adwert\u00fcberschreitungen k\u00f6nnen nur von den punktuell betroffenen Kommunen gel\u00f6st werden. "
+   ]
+  }, 
+  {
+   "begin": "36.000", 
+   "children": [], 
+   "end": "37.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen aber einen Weg finden, "
+   ]
+  }, 
+  {
+   "begin": "37.840", 
+   "children": [], 
+   "end": "44.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "die negative Berichterstattung und das Schlechtreden des Dieselkraftstoffes zu beenden."
+   ]
+  }, 
+  {
+   "begin": "44.240", 
+   "children": [], 
+   "end": "47.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Hier ist auch die Industrie gefordert, "
+   ]
+  }, 
+  {
+   "begin": "47.320", 
+   "children": [], 
+   "end": "48.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "dort, "
+   ]
+  }, 
+  {
+   "begin": "48.000", 
+   "children": [], 
+   "end": "49.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "wo geschummelt worden ist, "
+   ]
+  }, 
+  {
+   "begin": "49.240", 
+   "children": [], 
+   "end": "54.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "im Sinne der betroffenen Autofahrer anzupacken und L\u00f6sungen anzubieten. "
+   ]
+  }, 
+  {
+   "begin": "54.560", 
+   "children": [], 
+   "end": "59.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Erforderliche Umr\u00fcstungen m\u00fcssen schnell und effektiv durchgef\u00fchrt werden. "
+   ]
+  }, 
+  {
+   "begin": "59.920", 
+   "children": [], 
+   "end": "64.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es m\u00fcssen auch L\u00f6sungen f\u00fcr die vielen Kfz-H\u00e4ndler gefunden werden,"
+   ]
+  }, 
+  {
+   "begin": "64.080", 
+   "children": [], 
+   "end": "70.960", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die aufgrund eingebrochener Preise und der allgemeinen Verunsicherung keinen Absatzmarkt mehr f\u00fcr ihre gebrauchten, "
+   ]
+  }, 
+  {
+   "begin": "70.960", 
+   "children": [], 
+   "end": "74.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "auf dem Hof stehenden Diesel-Kfz haben."
+   ]
+  }, 
+  {
+   "begin": "74.280", 
+   "children": [], 
+   "end": "75.600", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Es geht hier um Existenzen, "
+   ]
+  }, 
+  {
+   "begin": "75.600", 
+   "children": [], 
+   "end": "78.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "78.400", 
+   "children": [], 
+   "end": "81.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Das Thema \u201esaubere Luft\u201c verfolgen wir seit Jahren. "
+   ]
+  }, 
+  {
+   "begin": "81.880", 
+   "children": [], 
+   "end": "87.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Durch die bisherigen Ma\u00dfnahmen haben sich die Werte in den vergangenen Jahren deutlich verbessert; "
+   ]
+  }, 
+  {
+   "begin": "87.200", 
+   "children": [], 
+   "end": "90.000", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und sie werden sich weiter verbessern. "
+   ]
+  }, 
+  {
+   "begin": "90.000", 
+   "children": [], 
+   "end": "93.880", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "In immer weniger St\u00e4dten werden die Grenzwerte \u00fcberschritten. "
+   ]
+  }, 
+  {
+   "begin": "93.880", 
+   "children": [], 
+   "end": "95.160", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die allgemeinen Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "95.160", 
+   "children": [], 
+   "end": "97.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die wir schon vor Jahren eingef\u00fchrt haben, "
+   ]
+  }, 
+  {
+   "begin": "97.160", 
+   "children": [], 
+   "end": "99.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "zeigen Wirkung. "
+   ]
+  }, 
+  {
+   "begin": "99.400", 
+   "children": [], 
+   "end": "107.600", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Bevor irgendwelche noch nicht ausgereiften Umr\u00fcstungen von Millionen von Dieselfahrzeugen mit einem Milliardenaufwand durchgef\u00fchrt werden, "
+   ]
+  }, 
+  {
+   "begin": "107.600", 
+   "children": [], 
+   "end": "110.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir neben der F\u00f6rderung der Elektromobilit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "110.960", 
+   "children": [], 
+   "end": "120.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "der F\u00f6rderung von gasbetriebenen Pkws und Lkws auch die Entwicklung von alternativen Dieselkraftstoffen forcieren."
+   ]
+  }, 
+  {
+   "begin": "120.240", 
+   "children": [], 
+   "end": "124.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Unter alternativem Dieselkraftstoff verstehe ich den synthetischen Diesel, "
+   ]
+  }, 
+  {
+   "begin": "124.800", 
+   "children": [], 
+   "end": "127.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "der aus Erdgas gewonnen wird. "
+   ]
+  }, 
+  {
+   "begin": "127.440", 
+   "children": [], 
+   "end": "134.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Dieser alternative Dieselkraftstoff verbrennt deutlich sauberer als der herk\u00f6mmliche Diesel auf Erd\u00f6lbasis. "
+   ]
+  }, 
+  {
+   "begin": "134.200", 
+   "children": [], 
+   "end": "137.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Er produziert weniger Emissionen vor Ort, "
+   ]
+  }, 
+  {
+   "begin": "137.400", 
+   "children": [], 
+   "end": "139.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "weniger Partikel, "
+   ]
+  }, 
+  {
+   "begin": "139.280", 
+   "children": [], 
+   "end": "143.880", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "weniger Stickoxide und weniger Schwefeloxide. "
+   ]
+  }, 
+  {
+   "begin": "143.880", 
+   "children": [], 
+   "end": "147.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Der aus Erdgas gewonnene Diesel ist zudem nicht giftig, "
+   ]
+  }, 
+  {
+   "begin": "147.520", 
+   "children": [], 
+   "end": "152.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "nahezu geruchslos und leichter biologisch abbaubar. "
+   ]
+  }, 
+  {
+   "begin": "152.440", 
+   "children": [], 
+   "end": "157.200", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Dieser neue Diesel kann ohne jegliche \u00c4nderung des Fahrzeugs eingesetzt werden, "
+   ]
+  }, 
+  {
+   "begin": "157.200", 
+   "children": [], 
+   "end": "161.560", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "also ohne Umr\u00fcstung und ohne Umbau am Fahrzeug."
+   ]
+  }, 
+  {
+   "begin": "161.560", 
+   "children": [], 
+   "end": "170.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Warum also nicht diesen neuen Dieselkraftstoff in den betroffenen St\u00e4dten oder bundesweit auf den Markt bringen? "
+   ]
+  }, 
+  {
+   "begin": "170.280", 
+   "children": [], 
+   "end": "178.760", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Ein mittelst\u00e4ndischer Fuhrunternehmer aus meinem Heimatort nutzt diesen synthetischen Diesel seit einigen Wochen in seinen Lkws. "
+   ]
+  }, 
+  {
+   "begin": "178.760", 
+   "children": [], 
+   "end": "188.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Die \u00c4nderungen gegen\u00fcber dem herk\u00f6mmlichen Diesel auf Roh\u00f6lbasis werden zurzeit mit einem aufwendigen Messverfahren ausgewertet. "
+   ]
+  }, 
+  {
+   "begin": "188.120", 
+   "children": [], 
+   "end": "191.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Der verwendete neue synthetische Diesel ist sehr klar, "
+   ]
+  }, 
+  {
+   "begin": "191.760", 
+   "children": [], 
+   "end": "197.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "nahezu geruchslos und daher f\u00fcr den erprobten Dieselfahrer eigenartig. "
+   ]
+  }, 
+  {
+   "begin": "197.640", 
+   "children": [], 
+   "end": "201.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Die Reaktion der Lkw-Fahrer beim erstmaligen Tanken lautete: "
+   ]
+  }, 
+  {
+   "begin": "201.960", 
+   "children": [], 
+   "end": "203.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Chef, "
+   ]
+  }, 
+  {
+   "begin": "203.000", 
+   "children": [], 
+   "end": "205.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wir haben Wasser im Tank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "205.160", 
+   "children": [], 
+   "end": "205.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Die Firma, "
+   ]
+  }, 
+  {
+   "begin": "205.960", 
+   "children": [], 
+   "end": "207.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "207.560", 
+   "children": [], 
+   "end": "211.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "f\u00e4hrt die saubersten Diesel-Lkw in ganz Deutschland."
+   ]
+  }, 
+  {
+   "begin": "211.720", 
+   "children": [], 
+   "end": "219.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Berliner Verkehrsbetriebe haben in einem Test die Vorteile dieses synthetischen Diesels bei Bussen im \u00d6PNV nachgewiesen. "
+   ]
+  }, 
+  {
+   "begin": "219.560", 
+   "children": [], 
+   "end": "222.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die Senkung der NO X -Emissionen lag bei mehr als 6\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "222.760", 
+   "children": [], 
+   "end": "227.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "der Aussto\u00df von Kohlenstoffmonoxid wurde sogar um 20\u00a0Prozent reduziert, "
+   ]
+  }, 
+  {
+   "begin": "227.360", 
+   "children": [], 
+   "end": "231.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "allein durch den Wechsel von einem Standarddieselkraftstoff auf einen Dieselkraftstoff aus Erdgas, "
+   ]
+  }, 
+  {
+   "begin": "231.400", 
+   "children": [], 
+   "end": "233.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "ohne an den Fahrzeiten etwas zu ver\u00e4ndern."
+   ]
+  }, 
+  {
+   "begin": "233.320", 
+   "children": [], 
+   "end": "240.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Bevor ich also die deutsche Wirtschaft mit irgendwelchen Nachr\u00fcstungsverpflichtungen stranguliere oder unsere Dieselfahrer in Deutschland \u00fcber Nacht enteigne, "
+   ]
+  }, 
+  {
+   "begin": "240.840", 
+   "children": [], 
+   "end": "243.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "setze ich auf den soeben beschriebenen alternativen Weg, "
+   ]
+  }, 
+  {
+   "begin": "243.080", 
+   "children": [], 
+   "end": "244.560", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "um die Luft in den St\u00e4dten sauberer zu machen. "
+   ]
+  }, 
+  {
+   "begin": "244.560", 
+   "children": [], 
+   "end": "245.600", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen viele Wege beschreiten, "
+   ]
+  }, 
+  {
+   "begin": "245.600", 
+   "children": [], 
+   "end": "246.680", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr verehrten Damen und Herren. "
+   ]
+  }, 
+  {
+   "begin": "246.680", 
+   "children": [], 
+   "end": "247.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Alternative Antriebe wie Elektro- "
+   ]
+  }, 
+  {
+   "begin": "247.880", 
+   "children": [], 
+   "end": "249.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "und \u00adGasantriebe oder der eben genannte neue Dieselkraftstoff geh\u00f6ren dazu."
+   ]
+  }, 
+  {
+   "begin": "249.720", 
+   "children": [], 
+   "end": "250.160", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Holmeier, "
+   ]
+  }, 
+  {
+   "begin": "250.160", 
+   "children": [], 
+   "end": "251.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "nun kommen Sie zum Schluss, "
+   ]
+  }, 
+  {
+   "begin": "251.240", 
+   "children": [], 
+   "end": "251.241", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "bitte."
+   ]
+  }, 
+  {
+   "begin": "251.241", 
+   "children": [], 
+   "end": "251.520", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "251.520", 
+   "children": [], 
+   "end": "252.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "sofort."
+   ]
+  }, 
+  {
+   "begin": "252.120", 
+   "children": [], 
+   "end": "252.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "252.800", 
+   "children": [], 
+   "end": "253.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "das meine ich auch so."
+   ]
+  }, 
+  {
+   "begin": "253.440", 
+   "children": [], 
+   "end": "257.720", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind mit dem von der Bundesregierung vorgelegten Programm auf einem guten Weg, "
+   ]
+  }, 
+  {
+   "begin": "257.720", 
+   "children": [], 
+   "end": "260.280", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die Luftwerte in unseren St\u00e4dten zu verbessern. "
+   ]
+  }, 
+  {
+   "begin": "260.280", 
+   "children": [], 
+   "end": "262.120", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Den Diesel zu verteufeln, "
+   ]
+  }, 
+  {
+   "begin": "262.120", 
+   "children": [], 
+   "end": "263.240", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "ist nicht der richtige Weg. "
+   ]
+  }, 
+  {
+   "begin": "263.240", 
+   "children": [], 
+   "end": "264.800", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Den Antrag der Linken lehnen wir ab; "
+   ]
+  }, 
+  {
+   "begin": "264.800", 
+   "children": [], 
+   "end": "266.120", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "er ist zu einseitig und zu kurz gesprungen."
+   ]
+  }, 
+  {
+   "begin": "266.120", 
+   "children": [], 
+   "end": "266.400", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "266.400", 
+   "children": [], 
+   "end": "267.280", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Holmeier, "
+   ]
+  }, 
+  {
+   "begin": "267.280", 
+   "children": [], 
+   "end": "268.080", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "herzlichen Dank. "
+   ]
+  }, 
+  {
+   "begin": "268.080", 
+   "children": [], 
+   "end": "268.960", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe gro\u00dfes Verst\u00e4ndnis daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "268.960", 
+   "children": [], 
+   "end": "269.640", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie stolz darauf sind, "
+   ]
+  }, 
+  {
+   "begin": "269.640", 
+   "children": [], 
+   "end": "271.400", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass in Ihrem Wohnort der sauberste Diesel f\u00e4hrt; "
+   ]
+  }, 
+  {
+   "begin": "271.400", 
+   "children": [], 
+   "end": "272.800", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "aber wenn ich Sie bitte, "
+   ]
+  }, 
+  {
+   "begin": "272.800", 
+   "children": [], 
+   "end": "273.440", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "zum Ende zu kommen, "
+   ]
+  }, 
+  {
+   "begin": "273.440", 
+   "children": [], 
+   "end": "274.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "dann meine ich das ernst."
+   ]
+  }, 
+  {
+   "begin": "274.080", 
+   "children": [], 
+   "end": "275.760", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe damit die Aussprache."
+   ]
+  }, 
+  {
+   "begin": "275.760", 
+   "children": [], 
+   "end": "277.920", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "277.920", 
+   "children": [], 
+   "end": "287.520", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "interfraktionell wird \u00dcberweisung der Vorlagen auf den Drucksachen\u00a019/1360 und 19/1695 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
+   ]
+  }, 
+  {
+   "begin": "287.520", 
+   "children": [], 
+   "end": "288.480", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Sind Sie damit einverstanden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "288.480", 
+   "children": [], 
+   "end": "289.400", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Fall. "
+   ]
+  }, 
+  {
+   "begin": "289.400", 
+   "children": [], 
+   "end": "291.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Dann sind die \u00dcberweisungen so beschlossen."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1314 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "3.840", 
+   "children": [], 
+   "end": "6.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "children": [], 
+   "end": "10.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung ist mehr als eine Frage der Technik. "
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "children": [], 
+   "end": "12.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um die Frage, "
+   ]
+  }, 
+  {
+   "begin": "12.440", 
+   "children": [], 
+   "end": "15.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "wie sich unsere Lebensbereiche in jeglicher Hinsicht ver\u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "15.960", 
+   "children": [], 
+   "end": "17.240", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Es wird Ver\u00e4nderungen geben, "
+   ]
+  }, 
+  {
+   "begin": "17.240", 
+   "children": [], 
+   "end": "18.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "gewollt oder ungewollt: "
+   ]
+  }, 
+  {
+   "begin": "18.600", 
+   "children": [], 
+   "end": "19.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "wie wir leben, "
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "children": [], 
+   "end": "20.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wie wir arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "20.480", 
+   "children": [], 
+   "end": "21.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "wie wir streiten, "
+   ]
+  }, 
+  {
+   "begin": "21.160", 
+   "children": [], 
+   "end": "23.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "was der Wahrheit entspricht und was nicht. "
+   ]
+  }, 
+  {
+   "begin": "23.720", 
+   "children": [], 
+   "end": "26.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Wir erleben damit neue Chancen und neue M\u00f6glichkeiten, "
+   ]
+  }, 
+  {
+   "begin": "26.280", 
+   "children": [], 
+   "end": "27.600", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "noch ungeahnt. "
+   ]
+  }, 
+  {
+   "begin": "27.600", 
+   "children": [], 
+   "end": "33.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Pl\u00f6tzlich sind wir auch konfrontiert mit neuen Problemen und neuen Gefahren, "
+   ]
+  }, 
+  {
+   "begin": "33.600", 
+   "children": [], 
+   "end": "34.480", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die uns begegnen."
+   ]
+  }, 
+  {
+   "begin": "34.480", 
+   "children": [], 
+   "end": "38.000", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht nur eine Frage der Sicherheit in der Informationstechnik; "
+   ]
+  }, 
+  {
+   "begin": "38.000", 
+   "children": [], 
+   "end": "40.560", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die Digitalisierung betrifft viel mehr: "
+   ]
+  }, 
+  {
+   "begin": "40.560", 
+   "children": [], 
+   "end": "43.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wie wir arbeiten und wie wir im Privaten gesch\u00fctzt werden wollen. "
+   ]
+  }, 
+  {
+   "begin": "43.800", 
+   "children": [], 
+   "end": "48.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist die IT-Sicherheit automatisch das R\u00fcckgrat einer erfolgreichen Digitalisierung. "
+   ]
+  }, 
+  {
+   "begin": "48.800", 
+   "children": [], 
+   "end": "55.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Sie muss aber gleichzeitig ein harter Schild sein und ein flexibel atmender Schutzpanzer, "
+   ]
+  }, 
+  {
+   "begin": "55.480", 
+   "children": [], 
+   "end": "58.160", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "der immer wieder aufs Neue verst\u00e4rkt wird, "
+   ]
+  }, 
+  {
+   "begin": "58.160", 
+   "children": [], 
+   "end": "60.400", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "um die Daten zu sichern, "
+   ]
+  }, 
+  {
+   "begin": "60.400", 
+   "children": [], 
+   "end": "62.840", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "die Daten zu sch\u00fctzen und die Art und Weise, "
+   ]
+  }, 
+  {
+   "begin": "62.840", 
+   "children": [], 
+   "end": "64.200", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "wie wir in unserem Land leben, "
+   ]
+  }, 
+  {
+   "begin": "64.200", 
+   "children": [], 
+   "end": "65.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "abzusichern."
+   ]
+  }, 
+  {
+   "begin": "65.000", 
+   "children": [], 
+   "end": "70.040", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD betrachtet das als ein Thema der progressiven Entwicklung unseres Staates. "
+   ]
+  }, 
+  {
+   "begin": "70.040", 
+   "children": [], 
+   "end": "75.640", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist das f\u00fcr uns eine Frage nicht nur der Digitalpolitik, "
+   ]
+  }, 
+  {
+   "begin": "75.640", 
+   "children": [], 
+   "end": "77.640", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch der Gesellschaftspolitik. "
+   ]
+  }, 
+  {
+   "begin": "77.640", 
+   "children": [], 
+   "end": "80.560", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe jetzt die Rede des Kollegen von Notz geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "80.560", 
+   "children": [], 
+   "end": "82.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Eigentlich hat uns vieles von dem, "
+   ]
+  }, 
+  {
+   "begin": "82.600", 
+   "children": [], 
+   "end": "84.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "was Sie in Ihrem Antrag dargelegt haben, "
+   ]
+  }, 
+  {
+   "begin": "84.760", 
+   "children": [], 
+   "end": "85.160", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Herr von Notz, "
+   ]
+  }, 
+  {
+   "begin": "85.160", 
+   "children": [], 
+   "end": "85.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "gefreut. "
+   ]
+  }, 
+  {
+   "begin": "85.320", 
+   "children": [], 
+   "end": "86.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcrde es nicht ganz so kritisch sagen, "
+   ]
+  }, 
+  {
+   "begin": "86.280", 
+   "children": [], 
+   "end": "88.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wie der Kollege Schuster es formuliert hat."
+   ]
+  }, 
+  {
+   "begin": "88.680", 
+   "children": [], 
+   "end": "89.760", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Was schadet es denn, "
+   ]
+  }, 
+  {
+   "begin": "89.760", 
+   "children": [], 
+   "end": "94.000", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "wenn man etwas aus unserem guten Koalitionsvertrag abschreibt und sagt: "
+   ]
+  }, 
+  {
+   "begin": "94.000", 
+   "children": [], 
+   "end": "94.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDas wollen wir auch\u201c? "
+   ]
+  }, 
+  {
+   "begin": "94.720", 
+   "children": [], 
+   "end": "96.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re doch eine Basis, "
+   ]
+  }, 
+  {
+   "begin": "96.400", 
+   "children": [], 
+   "end": "97.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "um gemeinsam vorzugehen. "
+   ]
+  }, 
+  {
+   "begin": "97.640", 
+   "children": [], 
+   "end": "98.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden, "
+   ]
+  }, 
+  {
+   "begin": "98.400", 
+   "children": [], 
+   "end": "99.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht mithilfe der Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "99.840", 
+   "children": [], 
+   "end": "102.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "den Koalitionspartner etwas bremsen, "
+   ]
+  }, 
+  {
+   "begin": "102.640", 
+   "children": [], 
+   "end": "104.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wenn er deutlich \u00fcber das hinausgeht, "
+   ]
+  }, 
+  {
+   "begin": "104.240", 
+   "children": [], 
+   "end": "106.360", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "was wir im Koalitionsvertrag festgelegt haben,"
+   ]
+  }, 
+  {
+   "begin": "106.360", 
+   "children": [], 
+   "end": "108.560", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "und hier schon den n\u00e4chsten Cyberwar ank\u00fcndigt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "108.560", 
+   "children": [], 
+   "end": "110.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "plus das Zur\u00fcckverfolgen von Daten, "
+   ]
+  }, 
+  {
+   "begin": "110.720", 
+   "children": [], 
+   "end": "112.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die man nach Hause bringen m\u00f6chte. "
+   ]
+  }, 
+  {
+   "begin": "112.120", 
+   "children": [], 
+   "end": "112.840", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "112.840", 
+   "children": [], 
+   "end": "113.960", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "so wird es nicht funktionieren."
+   ]
+  }, 
+  {
+   "begin": "113.960", 
+   "children": [], 
+   "end": "119.640", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben uns im Koalitionsvertrag auf die Fortentwicklung dessen verst\u00e4ndigt, "
+   ]
+  }, 
+  {
+   "begin": "119.640", 
+   "children": [], 
+   "end": "122.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "was wir in der letzten Wahlperiode begonnen haben. "
+   ]
+  }, 
+  {
+   "begin": "122.720", 
+   "children": [], 
+   "end": "124.560", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das IT-Sicherheitsgesetz\u00a02.0, "
+   ]
+  }, 
+  {
+   "begin": "124.560", 
+   "children": [], 
+   "end": "126.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "das der Kollege von den Gr\u00fcnen angek\u00fcndigt hat, "
+   ]
+  }, 
+  {
+   "begin": "126.440", 
+   "children": [], 
+   "end": "127.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "werden wir verantwortlich umsetzen, "
+   ]
+  }, 
+  {
+   "begin": "127.920", 
+   "children": [], 
+   "end": "128.800", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und zwar so, "
+   ]
+  }, 
+  {
+   "begin": "128.800", 
+   "children": [], 
+   "end": "138.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass es im Einklang mit unserem geltenden Datenschutzrecht ist und nicht zu einem neuen Einfallstor oder gar zur Bedrohung unserer B\u00fcrgerinnen und B\u00fcrger wird."
+   ]
+  }, 
+  {
+   "begin": "138.840", 
+   "children": [], 
+   "end": "139.480", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Umgekehrt: "
+   ]
+  }, 
+  {
+   "begin": "139.480", 
+   "children": [], 
+   "end": "142.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben die entsprechenden Infrastrukturen geschaffen, "
+   ]
+  }, 
+  {
+   "begin": "142.520", 
+   "children": [], 
+   "end": "144.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "mit dem BSI im Mittelpunkt, "
+   ]
+  }, 
+  {
+   "begin": "144.080", 
+   "children": [], 
+   "end": "147.680", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "um zum Beispiel B\u00fcrgerinnen und B\u00fcrgern oder auch kleineren Unternehmen zu helfen, "
+   ]
+  }, 
+  {
+   "begin": "147.680", 
+   "children": [], 
+   "end": "154.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "um Dienstleister der Verwaltung zu sein und \u00fcber den Schutz der kritischen Infrastrukturen hinauszugehen. "
+   ]
+  }, 
+  {
+   "begin": "154.280", 
+   "children": [], 
+   "end": "155.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Genau da wollen wir ansetzen. "
+   ]
+  }, 
+  {
+   "begin": "155.960", 
+   "children": [], 
+   "end": "164.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben die Instrumente geschaffen und werden sie auf der Basis der Rechtsstaatlichkeit zu einem schlagkr\u00e4ftigen Instrument zum Zusammenhalt unserer Gesellschaft organisieren."
+   ]
+  }, 
+  {
+   "begin": "164.560", 
+   "children": [], 
+   "end": "167.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesl\u00e4nder haben sich auch auf den Weg gemacht. "
+   ]
+  }, 
+  {
+   "begin": "167.080", 
+   "children": [], 
+   "end": "173.360", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "In unserem f\u00f6deralen Staatsaufbau werden wir auf Bundesebene gar nicht alle Punkte allein regeln k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "173.360", 
+   "children": [], 
+   "end": "177.400", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin f\u00fcr die Punkte zur IT-Sicherheit dankbar, "
+   ]
+  }, 
+  {
+   "begin": "177.400", 
+   "children": [], 
+   "end": "183.240", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die die alte rot-gr\u00fcne Landesregierung in Nordrhein-Westfalen aufgenommen und dort formuliert hat, "
+   ]
+  }, 
+  {
+   "begin": "183.240", 
+   "children": [], 
+   "end": "186.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "allen voran die jetzige Bundesministerin Svenja Schulze. "
+   ]
+  }, 
+  {
+   "begin": "186.480", 
+   "children": [], 
+   "end": "188.880", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Die jetzige Landesregierung hat es unterlassen, "
+   ]
+  }, 
+  {
+   "begin": "188.880", 
+   "children": [], 
+   "end": "192.120", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "das in ihrem Koalitionsvertrag auch nur ansatzweise darzulegen. "
+   ]
+  }, 
+  {
+   "begin": "192.120", 
+   "children": [], 
+   "end": "194.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wenn das BSI jetzt sagt: "
+   ]
+  }, 
+  {
+   "begin": "194.000", 
+   "children": [], 
+   "end": "196.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "\u201eWir helfen dem sch\u00f6nen Land Nordrhein-Westfalen; "
+   ]
+  }, 
+  {
+   "begin": "196.560", 
+   "children": [], 
+   "end": "198.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "wir bringen es auf den Pfad der Tugend zur\u00fcck, "
+   ]
+  }, 
+  {
+   "begin": "198.600", 
+   "children": [], 
+   "end": "200.520", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "was die IT-Sicherheit angeht, "
+   ]
+  }, 
+  {
+   "begin": "200.520", 
+   "children": [], 
+   "end": "204.200", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "und schreiben eine gemeinsame Allianz f\u00fcr die IT-Sicherheit\u201c, "
+   ]
+  }, 
+  {
+   "begin": "204.200", 
+   "children": [], 
+   "end": "204.920", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dann meine ich: "
+   ]
+  }, 
+  {
+   "begin": "204.920", 
+   "children": [], 
+   "end": "209.720", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Genau da muss der Bund mit den L\u00e4ndern kooperieren und als Verbund auch mit den Kommunen arbeiten."
+   ]
+  }, 
+  {
+   "begin": "209.720", 
+   "children": [], 
+   "end": "210.600", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "210.600", 
+   "children": [], 
+   "end": "211.840", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "das ist die Chance, "
+   ]
+  }, 
+  {
+   "begin": "211.840", 
+   "children": [], 
+   "end": "213.760", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "gemeinsam vorzugehen. "
+   ]
+  }, 
+  {
+   "begin": "213.760", 
+   "children": [], 
+   "end": "215.840", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden es uns nicht so einfach machen, "
+   ]
+  }, 
+  {
+   "begin": "215.840", 
+   "children": [], 
+   "end": "222.120", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "den Koalitionsvertrag als Grundlage zu nehmen und alles andere in Bausch und Bogen zu verdammen. "
+   ]
+  }, 
+  {
+   "begin": "222.120", 
+   "children": [], 
+   "end": "223.440", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben uns darauf verst\u00e4ndigt, "
+   ]
+  }, 
+  {
+   "begin": "223.440", 
+   "children": [], 
+   "end": "225.320", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "jetzt Verantwortung zu \u00fcbernehmen. "
+   ]
+  }, 
+  {
+   "begin": "225.320", 
+   "children": [], 
+   "end": "227.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir wollen auch dar\u00fcber hinausgehen. "
+   ]
+  }, 
+  {
+   "begin": "227.240", 
+   "children": [], 
+   "end": "228.440", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Es ist aber auch richtig, "
+   ]
+  }, 
+  {
+   "begin": "228.440", 
+   "children": [], 
+   "end": "230.360", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "dass wir nicht \u00fcber das hinausgehen werden, "
+   ]
+  }, 
+  {
+   "begin": "230.360", 
+   "children": [], 
+   "end": "231.600", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "was wir vereinbart haben, "
+   ]
+  }, 
+  {
+   "begin": "231.600", 
+   "children": [], 
+   "end": "233.640", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "wenn es mit dem Bruch von Grundrechten oder\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "233.640", 
+   "children": [], 
+   "end": "234.960", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "die Ank\u00fcndigung, "
+   ]
+  }, 
+  {
+   "begin": "234.960", 
+   "children": [], 
+   "end": "237.520", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "die unserem Koalitionspartner da herausgerutscht ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "237.520", 
+   "children": [], 
+   "end": "239.400", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "einem unkontrollierten Cyberwar einherginge. "
+   ]
+  }, 
+  {
+   "begin": "239.400", 
+   "children": [], 
+   "end": "239.720", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "239.720", 
+   "children": [], 
+   "end": "240.240", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Herr Schuster, "
+   ]
+  }, 
+  {
+   "begin": "240.240", 
+   "children": [], 
+   "end": "241.840", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir das noch einmal in Ruhe diskutieren,"
+   ]
+  }, 
+  {
+   "begin": "241.840", 
+   "children": [], 
+   "end": "242.200", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "dann werden wir einsehen: "
+   ]
+  }, 
+  {
+   "begin": "242.200", 
+   "children": [], 
+   "end": "244.120", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Das wollte man eigentlich nicht machen. "
+   ]
+  }, 
+  {
+   "begin": "244.120", 
+   "children": [], 
+   "end": "246.080", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Es war doch ein sch\u00f6ner sonniger Tag; "
+   ]
+  }, 
+  {
+   "begin": "246.080", 
+   "children": [], 
+   "end": "248.320", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "da sollten Sie sich noch einmal besinnen, "
+   ]
+  }, 
+  {
+   "begin": "248.320", 
+   "children": [], 
+   "end": "250.040", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "ob das hier wirklich der richtige Ort ist, "
+   ]
+  }, 
+  {
+   "begin": "250.040", 
+   "children": [], 
+   "end": "251.120", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "so etwas anzubringen."
+   ]
+  }, 
+  {
+   "begin": "251.120", 
+   "children": [], 
+   "end": "253.800", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Umgekehrt lade ich die Gr\u00fcnen ein: "
+   ]
+  }, 
+  {
+   "begin": "253.800", 
+   "children": [], 
+   "end": "257.000", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns aus dem Schema \u201eOpposition\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "257.000", 
+   "children": [], 
+   "end": "258.160", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Koalition\u201c heraustreten. "
+   ]
+  }, 
+  {
+   "begin": "258.160", 
+   "children": [], 
+   "end": "259.680", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben doch Ans\u00e4tze aufgegriffen, "
+   ]
+  }, 
+  {
+   "begin": "259.680", 
+   "children": [], 
+   "end": "262.160", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "die wir mit dem IT-Sicherheitsgesetz umgesetzt haben. "
+   ]
+  }, 
+  {
+   "begin": "262.160", 
+   "children": [], 
+   "end": "263.800", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Damit meine ich auch die M\u00f6glichkeiten, "
+   ]
+  }, 
+  {
+   "begin": "263.800", 
+   "children": [], 
+   "end": "267.840", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "dass wir Herstellerinnen und Hersteller von Produkten in die Verantwortung nehmen, "
+   ]
+  }, 
+  {
+   "begin": "267.840", 
+   "children": [], 
+   "end": "269.680", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "dass wir Dinge auch weiterentwickeln, "
+   ]
+  }, 
+  {
+   "begin": "269.680", 
+   "children": [], 
+   "end": "271.960", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "um dadurch einen guten Standort in dieser Frage in Deutschland zu schaffen."
+   ]
+  }, 
+  {
+   "begin": "271.960", 
+   "children": [], 
+   "end": "272.920", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege von Notz, "
+   ]
+  }, 
+  {
+   "begin": "272.920", 
+   "children": [], 
+   "end": "273.960", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "ich habe Sie angesprochen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "273.960", 
+   "children": [], 
+   "end": "276.120", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn Sie jetzt schon wieder weiter sind. "
+   ]
+  }, 
+  {
+   "begin": "276.120", 
+   "children": [], 
+   "end": "276.880", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Das ist doch etwas, "
+   ]
+  }, 
+  {
+   "begin": "276.880", 
+   "children": [], 
+   "end": "278.600", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "was man gemeinsam bewegen kann, "
+   ]
+  }, 
+  {
+   "begin": "278.600", 
+   "children": [], 
+   "end": "282.400", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "ohne in dem alten Schema \u201eOpposition gegen Koalition\u201c zu arbeiten."
+   ]
+  }, 
+  {
+   "begin": "282.400", 
+   "children": [], 
+   "end": "284.440", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe Sie als progressiven Teil begriffen. "
+   ]
+  }, 
+  {
+   "begin": "284.440", 
+   "children": [], 
+   "end": "286.480", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine herzliche Einladung, "
+   ]
+  }, 
+  {
+   "begin": "286.480", 
+   "children": [], 
+   "end": "289.080", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "und dar\u00fcber d\u00fcrften Sie sich doch freuen. "
+   ]
+  }, 
+  {
+   "begin": "289.080", 
+   "children": [], 
+   "end": "291.600", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Dann werden wir es gemeinsam schaffen, "
+   ]
+  }, 
+  {
+   "begin": "291.600", 
+   "children": [], 
+   "end": "293.360", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "dass Deutschland ein guter Standort ist, "
+   ]
+  }, 
+  {
+   "begin": "293.360", 
+   "children": [], 
+   "end": "298.880", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "und k\u00f6nnen die Digitalisierung unter Beachtung unserer Grundrechte und mit der starken Infrastruktur, "
+   ]
+  }, 
+  {
+   "begin": "298.880", 
+   "children": [], 
+   "end": "301.240", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "die wir auf Bundesebene organisiert haben, "
+   ]
+  }, 
+  {
+   "begin": "301.240", 
+   "children": [], 
+   "end": "302.320", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "voranbringen."
+   ]
+  }, 
+  {
+   "begin": "302.320", 
+   "children": [], 
+   "end": "306.840", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "306.840", 
+   "children": [], 
+   "end": "307.320", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "307.320", 
+   "children": [], 
+   "end": "308.480", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Sebastian Hartmann.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "308.480", 
+   "children": [], 
+   "end": "309.720", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner, "
+   ]
+  }, 
+  {
+   "begin": "309.720", 
+   "children": [], 
+   "end": "314.080", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "der jetzt seine erste Rede im Deutschen Bundestag h\u00e4lt, "
+   ]
+  }, 
+  {
+   "begin": "314.080", 
+   "children": [], 
+   "end": "317.000", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "ist Mario Brandenburg f\u00fcr die FDP-Fraktion."
+   ]
+  }
+ ]
+}

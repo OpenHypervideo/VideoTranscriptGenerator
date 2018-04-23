@@ -1,0 +1,794 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "children": [], 
+   "end": "3.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "3.960", 
+   "children": [], 
+   "end": "5.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "5.080", 
+   "children": [], 
+   "end": "11.800", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freien Demokraten sehen den Antrag der Gr\u00fcnen durchaus als gute Diskussionsbasis an. "
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "children": [], 
+   "end": "15.040", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die FDP-Fraktion unterst\u00fctzt einige Forderungen, "
+   ]
+  }, 
+  {
+   "begin": "15.040", 
+   "children": [], 
+   "end": "17.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "die in diesem Antrag enthalten sind. "
+   ]
+  }, 
+  {
+   "begin": "17.440", 
+   "children": [], 
+   "end": "23.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ein Beispiel ist die Korrektur der un\u00fcbersichtlichen Cybersicherheitslandschaft auf Bundes- "
+   ]
+  }, 
+  {
+   "begin": "23.480", 
+   "children": [], 
+   "end": "24.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "und Landesebene, "
+   ]
+  }, 
+  {
+   "begin": "24.440", 
+   "children": [], 
+   "end": "31.760", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "in der weder eindeutige Zust\u00e4ndigkeiten noch eine transparente Koordination und Kompetenz existieren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "31.760", 
+   "children": [], 
+   "end": "35.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "im Prinzip das gleiche Chaos wie bei der Digitalisierung."
+   ]
+  }, 
+  {
+   "begin": "35.520", 
+   "children": [], 
+   "end": "41.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Des Weiteren steht f\u00fcr uns Freie Demokraten fest, "
+   ]
+  }, 
+  {
+   "begin": "41.840", 
+   "children": [], 
+   "end": "45.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "dass B\u00fcrgerrechte auch im Internet gewahrt werden m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "45.800", 
+   "children": [], 
+   "end": "47.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Gesetzliche Beschr\u00e4nkungen, "
+   ]
+  }, 
+  {
+   "begin": "47.440", 
+   "children": [], 
+   "end": "55.080", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Verbote oder kryptografische Sicherheitsverfahren lehnen wir genauso ab wie den Einsatz von Backdoors in Software. "
+   ]
+  }, 
+  {
+   "begin": "55.080", 
+   "children": [], 
+   "end": "57.520", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Auch Hackback ist der falsche Weg, "
+   ]
+  }, 
+  {
+   "begin": "57.520", 
+   "children": [], 
+   "end": "59.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "um zuk\u00fcnftige Cyberangriffe zu vermeiden."
+   ]
+  }, 
+  {
+   "begin": "59.840", 
+   "children": [], 
+   "end": "68.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Gerne diskutieren wir Freie Demokraten daher konstruktiv mit."
+   ]
+  }, 
+  {
+   "begin": "68.680", 
+   "children": [], 
+   "end": "72.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Eher skeptisch bin ich pers\u00f6nlich jedoch, "
+   ]
+  }, 
+  {
+   "begin": "72.120", 
+   "children": [], 
+   "end": "75.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "was den Adressaten dieses Antrags betrifft; "
+   ]
+  }, 
+  {
+   "begin": "75.480", 
+   "children": [], 
+   "end": "78.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "denn jeder sollte erst einmal in seinem eigenen Hof kehren. "
+   ]
+  }, 
+  {
+   "begin": "78.640", 
+   "children": [], 
+   "end": "81.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Leider vermittelt unsere Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "81.360", 
+   "children": [], 
+   "end": "85.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "was den Umgang mit dem Datenschutz bzw. "
+   ]
+  }, 
+  {
+   "begin": "85.160", 
+   "children": [], 
+   "end": "87.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "der Datenverarbeitung \u00fcberhaupt betrifft, "
+   ]
+  }, 
+  {
+   "begin": "87.760", 
+   "children": [], 
+   "end": "89.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "nicht gerade den Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "89.320", 
+   "children": [], 
+   "end": "91.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass es ihre Spezialdisziplin w\u00e4re."
+   ]
+  }, 
+  {
+   "begin": "91.720", 
+   "children": [], 
+   "end": "94.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ob es die fehlenden Kabel f\u00fcr die Datenleitungen, "
+   ]
+  }, 
+  {
+   "begin": "94.760", 
+   "children": [], 
+   "end": "97.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "die Funkmaste zur \u00dcbertragung sind, "
+   ]
+  }, 
+  {
+   "begin": "97.160", 
+   "children": [], 
+   "end": "105.640", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die gescheiterte De-Mail im Versand oder die nicht vorhandene E-Akte als Bestandteil des niemals realisierten E-Government ist: "
+   ]
+  }, 
+  {
+   "begin": "105.640", 
+   "children": [], 
+   "end": "115.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "All dies hat das Vertrauen der deutschen Bev\u00f6lkerung in die IT-Kompetenz ihrer Regierung auf ein Minimum reduziert."
+   ]
+  }, 
+  {
+   "begin": "115.040", 
+   "children": [], 
+   "end": "119.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Warum sonst geben Menschen ihre Daten freiwillig Internetkonzernen? "
+   ]
+  }, 
+  {
+   "begin": "119.240", 
+   "children": [], 
+   "end": "119.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Und: "
+   ]
+  }, 
+  {
+   "begin": "119.400", 
+   "children": [], 
+   "end": "124.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Start-ups trauen ihrer eigenen Regierung keine sichere zentrale Datenhaltung, "
+   ]
+  }, 
+  {
+   "begin": "124.600", 
+   "children": [], 
+   "end": "128.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "etwa bei den elektronischen Gesundheitskarten oder bei Personalausweisen, "
+   ]
+  }, 
+  {
+   "begin": "128.840", 
+   "children": [], 
+   "end": "129.160", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "zu."
+   ]
+  }, 
+  {
+   "begin": "129.160", 
+   "children": [], 
+   "end": "130.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann Ihnen sagen, "
+   ]
+  }, 
+  {
+   "begin": "130.160", 
+   "children": [], 
+   "end": "131.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "warum das so ist: "
+   ]
+  }, 
+  {
+   "begin": "131.560", 
+   "children": [], 
+   "end": "135.160", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die B\u00fcrgerinnen und B\u00fcrger des Landes leben in der Gegenwart, "
+   ]
+  }, 
+  {
+   "begin": "135.160", 
+   "children": [], 
+   "end": "135.920", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend hier, "
+   ]
+  }, 
+  {
+   "begin": "135.920", 
+   "children": [], 
+   "end": "137.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "in diesem Hohen Hause, "
+   ]
+  }, 
+  {
+   "begin": "137.320", 
+   "children": [], 
+   "end": "139.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "noch gegen die Zukunft angefaxt wird:"
+   ]
+  }, 
+  {
+   "begin": "139.720", 
+   "children": [], 
+   "end": "142.040", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Faxger\u00e4te, "
+   ]
+  }, 
+  {
+   "begin": "142.040", 
+   "children": [], 
+   "end": "145.560", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "vergilbte Siemens-Telefone, "
+   ]
+  }, 
+  {
+   "begin": "145.560", 
+   "children": [], 
+   "end": "147.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "VGA-Anschl\u00fcsse, "
+   ]
+  }, 
+  {
+   "begin": "147.040", 
+   "children": [], 
+   "end": "149.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Videotext und Verwaltungsmitarbeiter, "
+   ]
+  }, 
+  {
+   "begin": "149.680", 
+   "children": [], 
+   "end": "152.280", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die im Jahre\u00a02018 mit der Schreibmaschine\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "152.280", 
+   "children": [], 
+   "end": "153.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "ich wiederhole: "
+   ]
+  }, 
+  {
+   "begin": "153.160", 
+   "children": [], 
+   "end": "155.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "mit der Schreibmaschine\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "155.440", 
+   "children": [], 
+   "end": "158.280", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "eine Schl\u00fcsselverwaltung organisieren m\u00fcssen:"
+   ]
+  }, 
+  {
+   "begin": "158.280", 
+   "children": [], 
+   "end": "164.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "All dies ist traurige Realit\u00e4t im Deutschen Bundestag. "
+   ]
+  }, 
+  {
+   "begin": "164.920", 
+   "children": [], 
+   "end": "166.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "All dies f\u00fchrt dazu, "
+   ]
+  }, 
+  {
+   "begin": "166.800", 
+   "children": [], 
+   "end": "168.760", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass ich mich als neuer Abgeordneter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "168.760", 
+   "children": [], 
+   "end": "170.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "sogenannter Digital Native\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.240", 
+   "children": [], 
+   "end": "170.440", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "immer, "
+   ]
+  }, 
+  {
+   "begin": "170.440", 
+   "children": [], 
+   "end": "172.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wenn ich diese heiligen Hallen betrete, "
+   ]
+  }, 
+  {
+   "begin": "172.840", 
+   "children": [], 
+   "end": "173.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "eher f\u00fchle, "
+   ]
+  }, 
+  {
+   "begin": "173.800", 
+   "children": [], 
+   "end": "181.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "als w\u00fcrde ich zu einem Exponat im Technikmuseum gehen als in die moderne Schaltzentrale eines innovativen Landes."
+   ]
+  }, 
+  {
+   "begin": "181.280", 
+   "children": [], 
+   "end": "186.080", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Bei allem Optimismus, "
+   ]
+  }, 
+  {
+   "begin": "186.080", 
+   "children": [], 
+   "end": "189.680", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "den ich als Freier Demokrat durchaus im \u00dcberfluss besitze: "
+   ]
+  }, 
+  {
+   "begin": "189.680", 
+   "children": [], 
+   "end": "195.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Die IT-Sicherheitsprobleme unserer Regierung nur durch Gesetze beseitigen zu wollen, "
+   ]
+  }, 
+  {
+   "begin": "195.800", 
+   "children": [], 
+   "end": "202.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "ohne den fl\u00e4chendeckenden Einsatz von und den Umgang mit zeitgem\u00e4\u00dfen Medien selbst zu praktizieren, "
+   ]
+  }, 
+  {
+   "begin": "202.000", 
+   "children": [], 
+   "end": "203.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "ist ungef\u00e4hr so, "
+   ]
+  }, 
+  {
+   "begin": "203.240", 
+   "children": [], 
+   "end": "206.920", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wie f\u00fcr die Tour de France durch das Lesen des Regelwerks zu trainieren, "
+   ]
+  }, 
+  {
+   "begin": "206.920", 
+   "children": [], 
+   "end": "208.800", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "aber kein Fahrrad fahren zu wollen, "
+   ]
+  }, 
+  {
+   "begin": "208.800", 
+   "children": [], 
+   "end": "211.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "211.240", 
+   "children": [], 
+   "end": "213.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Abschlie\u00dfend bleibt zu erw\u00e4hnen, "
+   ]
+  }, 
+  {
+   "begin": "213.880", 
+   "children": [], 
+   "end": "216.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass auch wir Abgeordnete uns an die eigene Nase fassen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "216.960", 
+   "children": [], 
+   "end": "218.840", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Nur wenn alle Ebenen zusammenarbeiten, "
+   ]
+  }, 
+  {
+   "begin": "218.840", 
+   "children": [], 
+   "end": "219.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "schaffen wir es, "
+   ]
+  }, 
+  {
+   "begin": "219.320", 
+   "children": [], 
+   "end": "223.360", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass umfangreicher IT-Schutz bei uns selbst beginnt und vorgelebt wird."
+   ]
+  }, 
+  {
+   "begin": "223.360", 
+   "children": [], 
+   "end": "231.920", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne freue ich mich auf die Beratung im Ausschuss und bedanke mich f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "231.920", 
+   "children": [], 
+   "end": "232.480", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "232.480", 
+   "children": [], 
+   "end": "234.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "lieber Mario Brandenburg.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "234.520", 
+   "children": [], 
+   "end": "236.160", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin ein bisschen irritiert; "
+   ]
+  }, 
+  {
+   "begin": "236.160", 
+   "children": [], 
+   "end": "238.280", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "denn nicht nur im Hohen Haus stehen Faxger\u00e4te, "
+   ]
+  }, 
+  {
+   "begin": "238.280", 
+   "children": [], 
+   "end": "240.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch in meinem Haus. "
+   ]
+  }, 
+  {
+   "begin": "240.360", 
+   "children": [], 
+   "end": "243.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen mich ja mal aufkl\u00e4ren. "
+   ]
+  }, 
+  {
+   "begin": "243.400", 
+   "children": [], 
+   "end": "247.880", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Ich schreibe n\u00e4mlich immer noch Briefe mit der Hand."
+   ]
+  }, 
+  {
+   "begin": "247.880", 
+   "children": [], 
+   "end": "252.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner in der sehr lebendigen Debatte: "
+   ]
+  }, 
+  {
+   "begin": "252.440", 
+   "children": [], 
+   "end": "256.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Andr\u00e9 Hahn f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

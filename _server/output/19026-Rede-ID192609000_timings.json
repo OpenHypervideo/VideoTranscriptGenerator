@@ -1,0 +1,854 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "children": [], 
+   "end": "9.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "children": [], 
+   "end": "12.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Seit f\u00fcnf Jahren ist die Bundeswehr nun in Mali. "
+   ]
+  }, 
+  {
+   "begin": "12.840", 
+   "children": [], 
+   "end": "14.040", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Anfangs hie\u00df es, "
+   ]
+  }, 
+  {
+   "begin": "14.040", 
+   "children": [], 
+   "end": "16.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "es gehe um die Unterst\u00fctzung der franz\u00f6sischen Armee, "
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "children": [], 
+   "end": "21.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "um den Vormarsch einiger Hundert Dschihadisten auf die Hauptstadt Bamako zu stoppen. "
+   ]
+  }, 
+  {
+   "begin": "21.840", 
+   "children": [], 
+   "end": "23.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Das ist geschehen, "
+   ]
+  }, 
+  {
+   "begin": "23.200", 
+   "children": [], 
+   "end": "25.960", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "doch die deutschen Soldaten sind geblieben. "
+   ]
+  }, 
+  {
+   "begin": "25.960", 
+   "children": [], 
+   "end": "27.000", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Mehr noch: "
+   ]
+  }, 
+  {
+   "begin": "27.000", 
+   "children": [], 
+   "end": "36.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die Gro\u00dfe Koalition hat die Eins\u00e4tze in Mali best\u00e4ndig ausgeweitet und zu einer zentralen Intervention in Afrika gemacht."
+   ]
+  }, 
+  {
+   "begin": "36.360", 
+   "children": [], 
+   "end": "37.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wir sagen: "
+   ]
+  }, 
+  {
+   "begin": "37.680", 
+   "children": [], 
+   "end": "42.600", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Bei den Eins\u00e4tzen geht es nicht um Mali oder die malische Bev\u00f6lkerung. "
+   ]
+  }, 
+  {
+   "begin": "42.600", 
+   "children": [], 
+   "end": "45.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Es geht im Wesentlichen um zweierlei: "
+   ]
+  }, 
+  {
+   "begin": "45.160", 
+   "children": [], 
+   "end": "46.640", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "zum einen darum, "
+   ]
+  }, 
+  {
+   "begin": "46.640", 
+   "children": [], 
+   "end": "54.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die Interessen der deutschen Wirtschaft in der rohstoffreichen Region mit einer milit\u00e4rischen Dauerpr\u00e4senz zu sichern, "
+   ]
+  }, 
+  {
+   "begin": "54.200", 
+   "children": [], 
+   "end": "57.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und zum anderen um Fl\u00fcchtlingsabwehr. "
+   ]
+  }, 
+  {
+   "begin": "57.280", 
+   "children": [], 
+   "end": "59.960", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Beides hat mit den edlen Motiven, "
+   ]
+  }, 
+  {
+   "begin": "59.960", 
+   "children": [], 
+   "end": "61.720", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die hier von der Regierungsbank ge\u00e4u\u00dfert werden, "
+   ]
+  }, 
+  {
+   "begin": "61.720", 
+   "children": [], 
+   "end": "62.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "nichts zu tun."
+   ]
+  }, 
+  {
+   "begin": "62.720", 
+   "children": [], 
+   "end": "71.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wir diskutieren jetzt den Bundeswehreinsatz im Rahmen der europ\u00e4ischen Ausbildungsmission EUTM Mali. "
+   ]
+  }, 
+  {
+   "begin": "71.640", 
+   "children": [], 
+   "end": "73.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Aber der Name t\u00e4uscht. "
+   ]
+  }, 
+  {
+   "begin": "73.080", 
+   "children": [], 
+   "end": "75.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "L\u00e4ngst werden nicht mehr nur malische Soldaten ausgebildet, "
+   ]
+  }, 
+  {
+   "begin": "75.600", 
+   "children": [], 
+   "end": "78.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch die Soldaten von vier anderen Sahelstaaten. "
+   ]
+  }, 
+  {
+   "begin": "78.680", 
+   "children": [], 
+   "end": "83.400", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr will die Bundesregierung nun erneut das Einsatzgebiet der Bundeswehr ausweiten, "
+   ]
+  }, 
+  {
+   "begin": "83.400", 
+   "children": [], 
+   "end": "87.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und zwar auf die Sektorhauptquartiere der neuen G-5-Saheltruppe in Niger, "
+   ]
+  }, 
+  {
+   "begin": "87.400", 
+   "children": [], 
+   "end": "90.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Mauretanien und Tschad\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "90.000", 
+   "children": [], 
+   "end": "91.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wohlgemerkt der Tschad, "
+   ]
+  }, 
+  {
+   "begin": "91.600", 
+   "children": [], 
+   "end": "98.160", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "der seit nahezu 30\u00a0Jahren von dem allm\u00e4chtigen Generalleutnant Idriss D\u00e9by beherrscht wird."
+   ]
+  }, 
+  {
+   "begin": "98.160", 
+   "children": [], 
+   "end": "103.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "EUTM Mali erweist sich als eine Milit\u00e4rmission zur Stabilisierung von Regierungen, "
+   ]
+  }, 
+  {
+   "begin": "103.040", 
+   "children": [], 
+   "end": "104.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "die h\u00e4ufig korrupt, "
+   ]
+  }, 
+  {
+   "begin": "104.640", 
+   "children": [], 
+   "end": "107.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "manchmal direkt diktatorisch sind. "
+   ]
+  }, 
+  {
+   "begin": "107.400", 
+   "children": [], 
+   "end": "108.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine Au\u00dfenpolitik, "
+   ]
+  }, 
+  {
+   "begin": "108.800", 
+   "children": [], 
+   "end": "113.080", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "gegen die sich Die Linke stellt."
+   ]
+  }, 
+  {
+   "begin": "113.080", 
+   "children": [], 
+   "end": "114.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Es waren \u00fcbrigens Frankreich und Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "114.960", 
+   "children": [], 
+   "end": "119.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die auf die Bildung dieser sogenannten G-5-Truppe aus f\u00fcnf Staaten gedr\u00e4ngt haben. "
+   ]
+  }, 
+  {
+   "begin": "119.600", 
+   "children": [], 
+   "end": "126.520", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die EU wird einen Gro\u00dfteil des k\u00fcnftigen Jahresetats von bis zu 400\u00a0Millionen Euro bereitstellen. "
+   ]
+  }, 
+  {
+   "begin": "126.520", 
+   "children": [], 
+   "end": "127.160", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Doch: "
+   ]
+  }, 
+  {
+   "begin": "127.160", 
+   "children": [], 
+   "end": "129.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Mehr Milit\u00e4r ist wirklich das Letzte, "
+   ]
+  }, 
+  {
+   "begin": "129.440", 
+   "children": [], 
+   "end": "132.880", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "was diese bitterarmen Menschen in der Sahelzone brauchen."
+   ]
+  }, 
+  {
+   "begin": "132.880", 
+   "children": [], 
+   "end": "136.440", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Dort operieren bereits\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "136.440", 
+   "children": [], 
+   "end": "137.240", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "ich z\u00e4hle auf\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "137.240", 
+   "children": [], 
+   "end": "140.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die franz\u00f6sische Kampfoperation Barkhane, "
+   ]
+  }, 
+  {
+   "begin": "140.040", 
+   "children": [], 
+   "end": "142.360", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "amerikanische Spezialkommandos, "
+   ]
+  }, 
+  {
+   "begin": "142.360", 
+   "children": [], 
+   "end": "147.160", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "die UN-Truppe der MINUSMA und schlie\u00dflich die europ\u00e4ischen Milit\u00e4rausbilder. "
+   ]
+  }, 
+  {
+   "begin": "147.160", 
+   "children": [], 
+   "end": "152.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Mit der G-5-Truppe kommt nun eine f\u00fcnfte internationale Armee dazu. "
+   ]
+  }, 
+  {
+   "begin": "152.080", 
+   "children": [], 
+   "end": "156.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Und das bezeichnet die Bundesregierung in ihrem Antrag ernsthaft als\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "156.360", 
+   "children": [], 
+   "end": "157.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Zitat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "157.000", 
+   "children": [], 
+   "end": "160.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "\u201eSchl\u00fcssel zur Stabilisierung des Sahelraums\u201c? "
+   ]
+  }, 
+  {
+   "begin": "160.080", 
+   "children": [], 
+   "end": "161.440", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Das ist doch blanker Unsinn. "
+   ]
+  }, 
+  {
+   "begin": "161.440", 
+   "children": [], 
+   "end": "169.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Die neue Saheltruppe stellt nichts anderes dar als die von Europa vorangetriebene Militarisierung der Sahelzone."
+   ]
+  }, 
+  {
+   "begin": "169.520", 
+   "children": [], 
+   "end": "175.920", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen darf diese Truppe nicht durch uns finanziert und auch nicht durch EUTM Mali ausgebildet werden."
+   ]
+  }, 
+  {
+   "begin": "175.920", 
+   "children": [], 
+   "end": "181.800", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Zu mehr Sicherheit haben die internationalen Milit\u00e4r\u00adinterventionen \u00fcbrigens auch nicht gef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "181.800", 
+   "children": [], 
+   "end": "182.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Herr Maas, "
+   ]
+  }, 
+  {
+   "begin": "182.640", 
+   "children": [], 
+   "end": "183.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie hier sagen, "
+   ]
+  }, 
+  {
+   "begin": "183.760", 
+   "children": [], 
+   "end": "186.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass das bisher ein gelungener Einsatz war, "
+   ]
+  }, 
+  {
+   "begin": "186.360", 
+   "children": [], 
+   "end": "189.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dann bitte ich um eine ehrliche Bilanz. "
+   ]
+  }, 
+  {
+   "begin": "189.240", 
+   "children": [], 
+   "end": "192.600", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Mittlerweile h\u00f6ren wir w\u00f6chentlich von Anschl\u00e4gen und Entf\u00fchrungen. "
+   ]
+  }, 
+  {
+   "begin": "192.600", 
+   "children": [], 
+   "end": "193.800", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Die malische Armee, "
+   ]
+  }, 
+  {
+   "begin": "193.800", 
+   "children": [], 
+   "end": "195.680", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die von der Bundeswehr ausgebildet wird, "
+   ]
+  }, 
+  {
+   "begin": "195.680", 
+   "children": [], 
+   "end": "198.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "ist ein Teil des Problems und nicht ein Teil der L\u00f6sung."
+   ]
+  }, 
+  {
+   "begin": "198.760", 
+   "children": [], 
+   "end": "205.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Erst vor zwei Monaten wurden in der Region Mopti die Leichen von sechs Personen gefunden, "
+   ]
+  }, 
+  {
+   "begin": "205.240", 
+   "children": [], 
+   "end": "208.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "die Tage zuvor von der Armee festgenommen worden sind. "
+   ]
+  }, 
+  {
+   "begin": "208.880", 
+   "children": [], 
+   "end": "214.760", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Amnesty International beklagt zahlreiche \u00e4hnliche \u00dcbergriffe durch malische Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "214.760", 
+   "children": [], 
+   "end": "218.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die sich vornehmlich gegen die Ethnie der Peul richten. "
+   ]
+  }, 
+  {
+   "begin": "218.480", 
+   "children": [], 
+   "end": "219.040", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir sagen: "
+   ]
+  }, 
+  {
+   "begin": "219.040", 
+   "children": [], 
+   "end": "220.720", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wer eine Armee weiter ausr\u00fcstet, "
+   ]
+  }, 
+  {
+   "begin": "220.720", 
+   "children": [], 
+   "end": "222.440", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "ber\u00e4t und milit\u00e4risch ausbildet, "
+   ]
+  }, 
+  {
+   "begin": "222.440", 
+   "children": [], 
+   "end": "225.280", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die solche \u00dcbergriffe begeht, "
+   ]
+  }, 
+  {
+   "begin": "225.280", 
+   "children": [], 
+   "end": "230.160", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "macht sich mitverantwortlich."
+   ]
+  }, 
+  {
+   "begin": "230.160", 
+   "children": [], 
+   "end": "230.480", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Es ist gut, "
+   ]
+  }, 
+  {
+   "begin": "230.480", 
+   "children": [], 
+   "end": "234.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass sich in Mali aktiver Widerstand gegen die eigene Regierung, "
+   ]
+  }, 
+  {
+   "begin": "234.400", 
+   "children": [], 
+   "end": "237.960", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "aber auch gegen die internationale Milit\u00e4rpr\u00e4senz regt. "
+   ]
+  }, 
+  {
+   "begin": "237.960", 
+   "children": [], 
+   "end": "240.080", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Widerstand wird st\u00e4rker. "
+   ]
+  }, 
+  {
+   "begin": "240.080", 
+   "children": [], 
+   "end": "243.920", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Im Januar kam es in der Hauptstadt Bamako zu einer Demonstration, "
+   ]
+  }, 
+  {
+   "begin": "243.920", 
+   "children": [], 
+   "end": "246.560", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "bei der der Abzug der franz\u00f6sischen Armee gefordert wurde. "
+   ]
+  }, 
+  {
+   "begin": "246.560", 
+   "children": [], 
+   "end": "251.040", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Die Polizei l\u00f6ste die Demonstration gewaltsam auf."
+   ]
+  }, 
+  {
+   "begin": "251.040", 
+   "children": [], 
+   "end": "252.160", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Es ist dieser Protest, "
+   ]
+  }, 
+  {
+   "begin": "252.160", 
+   "children": [], 
+   "end": "254.920", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "der unsere Unterst\u00fctzung verdient\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "254.920", 
+   "children": [], 
+   "end": "256.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "nicht die malische Regierung, "
+   ]
+  }, 
+  {
+   "begin": "256.040", 
+   "children": [], 
+   "end": "258.080", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "nicht ihre Armee oder Polizei. "
+   ]
+  }, 
+  {
+   "begin": "258.080", 
+   "children": [], 
+   "end": "258.800", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Also, "
+   ]
+  }, 
+  {
+   "begin": "258.800", 
+   "children": [], 
+   "end": "261.760", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "ziehen Sie endlich die Bundeswehr aus Mali ab."
+   ]
+  }, 
+  {
+   "begin": "261.760", 
+   "children": [], 
+   "end": "266.600", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "266.600", 
+   "children": [], 
+   "end": "269.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin ist die Kollegin Agnieszka Brugger, "
+   ]
+  }, 
+  {
+   "begin": "269.720", 
+   "children": [], 
+   "end": "272.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

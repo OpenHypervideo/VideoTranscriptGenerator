@@ -1,0 +1,1254 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "children": [], 
+   "end": "8.600", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "children": [], 
+   "end": "9.520", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "children": [], 
+   "end": "13.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich geh\u00f6re dem Verkehrsausschuss des Deutschen Bundestags erst wenige Wochen an, "
+   ]
+  }, 
+  {
+   "begin": "13.440", 
+   "children": [], 
+   "end": "18.240", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "kenne aber nat\u00fcrlich die Diskussionen aus meiner Zeit im Landtag von Baden-W\u00fcrttemberg schon intensiv. "
+   ]
+  }, 
+  {
+   "begin": "18.240", 
+   "children": [], 
+   "end": "19.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "19.480", 
+   "children": [], 
+   "end": "20.640", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "es ist nichts Neues, "
+   ]
+  }, 
+  {
+   "begin": "20.640", 
+   "children": [], 
+   "end": "29.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass die B\u00fcrgerinnen und B\u00fcrger zu Recht von uns als Parlamentariern im Deutschen Bundestag Antworten auf ganz konkrete Fragen erwarten."
+   ]
+  }, 
+  {
+   "begin": "29.280", 
+   "children": [], 
+   "end": "35.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Die Diskussion \u00fcber die Nutzbarkeit von Dieselfahrzeugen ist keine abstrakte. "
+   ]
+  }, 
+  {
+   "begin": "35.160", 
+   "children": [], 
+   "end": "36.960", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Sie wird ganz konkret. "
+   ]
+  }, 
+  {
+   "begin": "36.960", 
+   "children": [], 
+   "end": "41.960", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Da kommt bei mir im Schwarzwald der junge Azubi zu mir, "
+   ]
+  }, 
+  {
+   "begin": "41.960", 
+   "children": [], 
+   "end": "44.720", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "der sich ein gebrauchtes Auto gekauft hat, "
+   ]
+  }, 
+  {
+   "begin": "44.720", 
+   "children": [], 
+   "end": "50.040", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "weil er zu seiner Ausbildungsst\u00e4tte fahren muss und kein \u00d6PNV vorhanden ist und fr\u00e4gt: "
+   ]
+  }, 
+  {
+   "begin": "50.040", 
+   "children": [], 
+   "end": "51.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wie kann ich das Auto weiter nutzen? "
+   ]
+  }, 
+  {
+   "begin": "51.960", 
+   "children": [], 
+   "end": "54.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Da kommt der Familienvater mit seinem Familienvan, "
+   ]
+  }, 
+  {
+   "begin": "54.960", 
+   "children": [], 
+   "end": "60.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "der jeden Monat beim Autoh\u00e4ndler sein Auto abstottert und fr\u00e4gt: "
+   ]
+  }, 
+  {
+   "begin": "60.520", 
+   "children": [], 
+   "end": "61.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wie geht es weiter? "
+   ]
+  }, 
+  {
+   "begin": "61.760", 
+   "children": [], 
+   "end": "63.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Da kommt der Handwerksmeister aus Stuttgart und fr\u00e4gt: "
+   ]
+  }, 
+  {
+   "begin": "63.960", 
+   "children": [], 
+   "end": "66.840", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe drei Pritschenwagen auf meinem Hof stehen. "
+   ]
+  }, 
+  {
+   "begin": "66.840", 
+   "children": [], 
+   "end": "68.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wie kann ich diese weiter einsetzen? "
+   ]
+  }, 
+  {
+   "begin": "68.160", 
+   "children": [], 
+   "end": "71.200", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wie kann ich meine Leute zur Arbeit schicken? "
+   ]
+  }, 
+  {
+   "begin": "71.200", 
+   "children": [], 
+   "end": "73.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Oder ist das in Zukunft gar nicht mehr m\u00f6glich, "
+   ]
+  }, 
+  {
+   "begin": "73.040", 
+   "children": [], 
+   "end": "74.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "wenn ihr mir verbietet, "
+   ]
+  }, 
+  {
+   "begin": "74.600", 
+   "children": [], 
+   "end": "76.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "mit meinem Auto in die Stadt zu fahren?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "76.120", 
+   "children": [], 
+   "end": "78.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das sind alles konkrete Fragen, "
+   ]
+  }, 
+  {
+   "begin": "78.400", 
+   "children": [], 
+   "end": "81.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "mit denen wir uns hier zu besch\u00e4ftigen haben."
+   ]
+  }, 
+  {
+   "begin": "81.920", 
+   "children": [], 
+   "end": "84.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb m\u00f6chte ich vorwegschicken, "
+   ]
+  }, 
+  {
+   "begin": "84.480", 
+   "children": [], 
+   "end": "86.160", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass wir als Unionsfraktion, "
+   ]
+  }, 
+  {
+   "begin": "86.160", 
+   "children": [], 
+   "end": "87.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "CDU und CSU, "
+   ]
+  }, 
+  {
+   "begin": "87.080", 
+   "children": [], 
+   "end": "89.920", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "hier immensen Handlungsbedarf sehen. "
+   ]
+  }, 
+  {
+   "begin": "89.920", 
+   "children": [], 
+   "end": "91.600", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ich betone vorweg: "
+   ]
+  }, 
+  {
+   "begin": "91.600", 
+   "children": [], 
+   "end": "92.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Denjenigen, "
+   ]
+  }, 
+  {
+   "begin": "92.200", 
+   "children": [], 
+   "end": "95.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die betrogen haben, "
+   ]
+  }, 
+  {
+   "begin": "95.760", 
+   "children": [], 
+   "end": "100.160", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "die bei den Schadstoffbescheinigungen den kleinen Mann hinters Licht gef\u00fchrt haben, "
+   ]
+  }, 
+  {
+   "begin": "100.160", 
+   "children": [], 
+   "end": "102.640", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "geh\u00f6rt klar gesagt: "
+   ]
+  }, 
+  {
+   "begin": "102.640", 
+   "children": [], 
+   "end": "111.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ihr m\u00fcsst einen Beitrag f\u00fcr die Nachr\u00fcstung der vielen Dieselfahrzeuge in Deutschland leisten."
+   ]
+  }, 
+  {
+   "begin": "111.680", 
+   "children": [], 
+   "end": "114.080", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Aber wer sich den Antrag der Linken anschaut, "
+   ]
+  }, 
+  {
+   "begin": "114.080", 
+   "children": [], 
+   "end": "117.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wer sich damit im Detail besch\u00e4ftigt, "
+   ]
+  }, 
+  {
+   "begin": "117.040", 
+   "children": [], 
+   "end": "120.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "der kann beinahe den Eindruck bekommen, "
+   ]
+  }, 
+  {
+   "begin": "120.320", 
+   "children": [], 
+   "end": "124.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass in den vergangenen Monaten \u00fcberhaupt nichts geschehen w\u00e4re."
+   ]
+  }, 
+  {
+   "begin": "124.280", 
+   "children": [], 
+   "end": "126.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Das Gegenteil ist der Fall."
+   ]
+  }, 
+  {
+   "begin": "126.400", 
+   "children": [], 
+   "end": "128.880", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Als Sofortma\u00dfnahme wurde beschlossen, "
+   ]
+  }, 
+  {
+   "begin": "128.880", 
+   "children": [], 
+   "end": "133.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die 5,3\u00a0Millionen betroffenen Dieselfahrzeuge nachzur\u00fcsten. "
+   ]
+  }, 
+  {
+   "begin": "133.640", 
+   "children": [], 
+   "end": "135.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Anfang 2018: "
+   ]
+  }, 
+  {
+   "begin": "135.800", 
+   "children": [], 
+   "end": "137.440", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das Ergebnis ist positiv. "
+   ]
+  }, 
+  {
+   "begin": "137.440", 
+   "children": [], 
+   "end": "143.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "92\u00a0Prozent der betroffenen VW-Fahrzeuge sind nachger\u00fcstet. "
+   ]
+  }, 
+  {
+   "begin": "143.760", 
+   "children": [], 
+   "end": "147.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Bei den freiwilligen Fahrzeugumr\u00fcstungen sind es 72\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "147.720", 
+   "children": [], 
+   "end": "151.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das sind in der Summe 2,5\u00a0Millionen Fahrzeuge,"
+   ]
+  }, 
+  {
+   "begin": "151.640", 
+   "children": [], 
+   "end": "157.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die insgesamt zu einer Reduzierung der Stickoxidemissionen um 30\u00a0Prozent bis Ende des Jahres beitragen. "
+   ]
+  }, 
+  {
+   "begin": "157.640", 
+   "children": [], 
+   "end": "158.320", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "158.320", 
+   "children": [], 
+   "end": "160.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "auch dar\u00fcber kann man an dieser Stelle reden, "
+   ]
+  }, 
+  {
+   "begin": "160.880", 
+   "children": [], 
+   "end": "167.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "sehr geehrte Damen und Herren von der Linksfraktion."
+   ]
+  }, 
+  {
+   "begin": "167.480", 
+   "children": [], 
+   "end": "168.240", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Es ist uns gelungen, "
+   ]
+  }, 
+  {
+   "begin": "168.240", 
+   "children": [], 
+   "end": "172.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "seit 2000 die Stickoxidbelastung um 60\u00a0Prozent zu reduzieren. "
+   ]
+  }, 
+  {
+   "begin": "172.840", 
+   "children": [], 
+   "end": "173.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben es vorhin\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "173.600", 
+   "children": [], 
+   "end": "176.960", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Kollege Grundmann hat es in der anderen Debatte gesagt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "176.960", 
+   "children": [], 
+   "end": "178.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "schon geh\u00f6rt: "
+   ]
+  }, 
+  {
+   "begin": "178.320", 
+   "children": [], 
+   "end": "181.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt das \u201eSofortprogramm Saubere Luft\u201c. "
+   ]
+  }, 
+  {
+   "begin": "181.400", 
+   "children": [], 
+   "end": "181.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "181.800", 
+   "children": [], 
+   "end": "182.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren: "
+   ]
+  }, 
+  {
+   "begin": "182.720", 
+   "children": [], 
+   "end": "188.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "500\u00a0Millionen Euro f\u00fcr die Digitalisierung der kommunalen Verkehrssysteme, "
+   ]
+  }, 
+  {
+   "begin": "188.040", 
+   "children": [], 
+   "end": "192.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "390\u00a0Millionen Euro f\u00fcr die Elektrifizierung des Verkehrs, "
+   ]
+  }, 
+  {
+   "begin": "192.880", 
+   "children": [], 
+   "end": "197.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "107\u00a0Millionen Euro f\u00fcr die Nachr\u00fcstung von Dieselbussen im \u00d6PNV, "
+   ]
+  }, 
+  {
+   "begin": "197.360", 
+   "children": [], 
+   "end": "198.600", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "also die Busse, "
+   ]
+  }, 
+  {
+   "begin": "198.600", 
+   "children": [], 
+   "end": "201.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "die in den St\u00e4dten f\u00fcr die Verschmutzung verantwortlich sind. "
+   ]
+  }, 
+  {
+   "begin": "201.880", 
+   "children": [], 
+   "end": "203.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wer da nicht von Erfolgen spricht, "
+   ]
+  }, 
+  {
+   "begin": "203.600", 
+   "children": [], 
+   "end": "208.680", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "der verkennt schlicht und ergreifend die Wahrheit, "
+   ]
+  }, 
+  {
+   "begin": "208.680", 
+   "children": [], 
+   "end": "209.360", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "209.360", 
+   "children": [], 
+   "end": "210.200", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wissen Sie, "
+   ]
+  }, 
+  {
+   "begin": "210.200", 
+   "children": [], 
+   "end": "211.000", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Frau Remmers, "
+   ]
+  }, 
+  {
+   "begin": "211.000", 
+   "children": [], 
+   "end": "216.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "das ist eben der Unterschied zwischen der linken H\u00e4lfte dieses Hauses und uns."
+   ]
+  }, 
+  {
+   "begin": "216.200", 
+   "children": [], 
+   "end": "218.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Sie fordern pauschal: "
+   ]
+  }, 
+  {
+   "begin": "218.160", 
+   "children": [], 
+   "end": "222.640", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen einen Zwang zur Umr\u00fcstung auf Kosten der Industrie.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "222.640", 
+   "children": [], 
+   "end": "223.480", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Sie fordern das, "
+   ]
+  }, 
+  {
+   "begin": "223.480", 
+   "children": [], 
+   "end": "224.840", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "obwohl Sie ganz genau wissen, "
+   ]
+  }, 
+  {
+   "begin": "224.840", 
+   "children": [], 
+   "end": "229.520", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dass das rechtlich hochumstritten ist und dass sich damit gerade eine Kommission besch\u00e4ftigt."
+   ]
+  }, 
+  {
+   "begin": "229.520", 
+   "children": [], 
+   "end": "237.600", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "In der Politik geht es auch immer um die Verh\u00e4ltnism\u00e4\u00dfigkeit und um die Betrachtung der Wirklichkeit."
+   ]
+  }, 
+  {
+   "begin": "237.600", 
+   "children": [], 
+   "end": "239.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Da sage ich Ihnen ganz offen: "
+   ]
+  }, 
+  {
+   "begin": "239.200", 
+   "children": [], 
+   "end": "240.320", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "H\u00f6ren Sie auf, "
+   ]
+  }, 
+  {
+   "begin": "240.320", 
+   "children": [], 
+   "end": "243.280", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "pauschal auf eine Industrie zu schimpfen. "
+   ]
+  }, 
+  {
+   "begin": "243.280", 
+   "children": [], 
+   "end": "245.680", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Sie gef\u00e4hrden damit den Wirtschaftsstandort Deutschland,"
+   ]
+  }, 
+  {
+   "begin": "245.680", 
+   "children": [], 
+   "end": "250.480", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "und Sie gef\u00e4hrden damit 1,8\u00a0Millionen Arbeitspl\u00e4tze in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "250.480", 
+   "children": [], 
+   "end": "253.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "die von der Automobilindustrie direkt abh\u00e4ngig sind, "
+   ]
+  }, 
+  {
+   "begin": "253.360", 
+   "children": [], 
+   "end": "257.480", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "257.480", 
+   "children": [], 
+   "end": "259.200", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Klar ist auch: "
+   ]
+  }, 
+  {
+   "begin": "259.200", 
+   "children": [], 
+   "end": "261.040", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Die Mobilit\u00e4t der Zukunft, "
+   ]
+  }, 
+  {
+   "begin": "261.040", 
+   "children": [], 
+   "end": "263.080", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "ein Umdenken hin zu schadstoffarmen, "
+   ]
+  }, 
+  {
+   "begin": "263.080", 
+   "children": [], 
+   "end": "266.080", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "ja vielleicht sogar schadstofffreien Fahrzeugen, "
+   ]
+  }, 
+  {
+   "begin": "266.080", 
+   "children": [], 
+   "end": "270.320", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "wird uns nur dann gelingen und uns werden nur dann L\u00e4nder auf der Welt folgen, "
+   ]
+  }, 
+  {
+   "begin": "270.320", 
+   "children": [], 
+   "end": "271.880", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir beides schaffen: "
+   ]
+  }, 
+  {
+   "begin": "271.880", 
+   "children": [], 
+   "end": "287.400", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "auf der einen Seite die Nachr\u00fcstung und die Weiterentwicklung der Dieselfahrzeuge und der Fahrzeugflotten insgesamt und auf der anderen Seite die Erhaltung der Wettbewerbsf\u00e4higkeit in Deutschland und damit eine starke Automobilindustrie."
+   ]
+  }, 
+  {
+   "begin": "287.400", 
+   "children": [], 
+   "end": "289.560", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Abschlie\u00dfend muss ich sagen: "
+   ]
+  }, 
+  {
+   "begin": "289.560", 
+   "children": [], 
+   "end": "292.160", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Es ist das Ziel und sollte das Ziel von uns allen sein, "
+   ]
+  }, 
+  {
+   "begin": "292.160", 
+   "children": [], 
+   "end": "294.880", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Fahrverbote in Deutschland zu verhindern. "
+   ]
+  }, 
+  {
+   "begin": "294.880", 
+   "children": [], 
+   "end": "298.520", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Dazu brauchen wir einen Schulterschluss mit der Automobilindustrie."
+   ]
+  }, 
+  {
+   "begin": "298.520", 
+   "children": [], 
+   "end": "300.040", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Gastel\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "300.040", 
+   "children": [], 
+   "end": "305.720", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "wir kennen uns schon aus den Koalitionsverhandlungen in Baden-W\u00fcrttemberg\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "305.720", 
+   "children": [], 
+   "end": "307.160", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "dazu muss ich Ihnen sagen: "
+   ]
+  }, 
+  {
+   "begin": "307.160", 
+   "children": [], 
+   "end": "311.880", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "In der Stadt Stuttgart gibt es einen Oberb\u00fcrgermeister der Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "311.880", 
+   "children": [], 
+   "end": "313.520", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "und es gibt Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "313.520", 
+   "children": [], 
+   "end": "316.800", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "die er sofort von seinem Schreibtisch aus beschlie\u00dfen k\u00f6nnte. "
+   ]
+  }, 
+  {
+   "begin": "316.800", 
+   "children": [], 
+   "end": "319.280", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Dabei geht es um die intelligente Ampelsteuerung: "
+   ]
+  }, 
+  {
+   "begin": "319.280", 
+   "children": [], 
+   "end": "320.320", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "nicht umgesetzt. "
+   ]
+  }, 
+  {
+   "begin": "320.320", 
+   "children": [], 
+   "end": "324.200", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um die Flottenerneuerung f\u00fcr die Kommune in Stuttgart und um die \u00d6PNV-Erneuerung: "
+   ]
+  }, 
+  {
+   "begin": "324.200", 
+   "children": [], 
+   "end": "325.200", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "alles nicht gemacht."
+   ]
+  }, 
+  {
+   "begin": "325.200", 
+   "children": [], 
+   "end": "328.400", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Stattdessen macht man es sich leicht und sagt: "
+   ]
+  }, 
+  {
+   "begin": "328.400", 
+   "children": [], 
+   "end": "329.920", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Berlin soll es richten.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "329.920", 
+   "children": [], 
+   "end": "331.360", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Es sind aber alles Ma\u00dfnahmen, "
+   ]
+  }, 
+  {
+   "begin": "331.360", 
+   "children": [], 
+   "end": "335.800", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "die vor Ort in der Stadt ganz schnell erledigt werden k\u00f6nnten."
+   ]
+  }, 
+  {
+   "begin": "335.800", 
+   "children": [], 
+   "end": "338.480", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "338.480", 
+   "children": [], 
+   "end": "338.920", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "338.920", 
+   "children": [], 
+   "end": "340.440", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "es geht um Vertrauen, "
+   ]
+  }, 
+  {
+   "begin": "340.440", 
+   "children": [], 
+   "end": "342.000", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "das wir zur\u00fcckgewinnen m\u00f6chten. "
+   ]
+  }, 
+  {
+   "begin": "342.000", 
+   "children": [], 
+   "end": "343.360", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte Sie herzlich: "
+   ]
+  }, 
+  {
+   "begin": "343.360", 
+   "children": [], 
+   "end": "346.680", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns eine Versachlichung der Diskussion herbeif\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "346.680", 
+   "children": [], 
+   "end": "353.080", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns dem Handwerksmeister in Stuttgart wie dem Azubi bei mir im Schwarzwald klipp und klar sagen, "
+   ]
+  }, 
+  {
+   "begin": "353.080", 
+   "children": [], 
+   "end": "355.000", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "was wir f\u00fcr Ma\u00dfnahmen ergreifen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "355.000", 
+   "children": [], 
+   "end": "357.120", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "damit auch in Zukunft Vertrauen m\u00f6glich ist."
+   ]
+  }, 
+  {
+   "begin": "357.120", 
+   "children": [], 
+   "end": "357.880", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "357.880", 
+   "children": [], 
+   "end": "358.520", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "358.520", 
+   "children": [], 
+   "end": "361.000", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Schreiner. "
+   ]
+  }, 
+  {
+   "begin": "361.000", 
+   "children": [], 
+   "end": "363.240", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Es war Ihre erste Bundestagsrede, "
+   ]
+  }, 
+  {
+   "begin": "363.240", 
+   "children": [], 
+   "end": "364.680", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "nicht Ihre erste Parlamentsrede; "
+   ]
+  }, 
+  {
+   "begin": "364.680", 
+   "children": [], 
+   "end": "366.760", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "ich muss mich insoweit korrigieren.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "366.760", 
+   "children": [], 
+   "end": "370.960", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster der Kollege Dr.\u00a0Dirk Spaniel f\u00fcr die AfD."
+   ]
+  }
+ ]
+}

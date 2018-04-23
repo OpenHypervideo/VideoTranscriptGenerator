@@ -1,0 +1,854 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.280", 
+   "children": [], 
+   "end": "7.080", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "7.080", 
+   "children": [], 
+   "end": "9.120", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die B\u00fcrgerinnen und B\u00fcrger, "
+   ]
+  }, 
+  {
+   "begin": "9.120", 
+   "children": [], 
+   "end": "15.400", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "aber auch die Unternehmen in unserem Land haben Anspruch auf Schutz vor Cyberangriffen jeglicher Art. "
+   ]
+  }, 
+  {
+   "begin": "15.400", 
+   "children": [], 
+   "end": "17.600", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Parlament wie Bundesregierung stehen in der Pflicht, "
+   ]
+  }, 
+  {
+   "begin": "17.600", 
+   "children": [], 
+   "end": "20.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "die entsprechenden Voraussetzungen daf\u00fcr zu schaffen. "
+   ]
+  }, 
+  {
+   "begin": "20.560", 
+   "children": [], 
+   "end": "24.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Zu diesem Zweck braucht es weit mehr als die 20\u00a0Punkte, "
+   ]
+  }, 
+  {
+   "begin": "24.280", 
+   "children": [], 
+   "end": "27.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die im Antrag der Gr\u00fcnen gefordert werden. "
+   ]
+  }, 
+  {
+   "begin": "27.680", 
+   "children": [], 
+   "end": "31.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Aber dieser Antrag geht in die richtige Richtung. "
+   ]
+  }, 
+  {
+   "begin": "31.440", 
+   "children": [], 
+   "end": "36.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb wird Die Linke ihn unterst\u00fctzen."
+   ]
+  }, 
+  {
+   "begin": "36.480", 
+   "children": [], 
+   "end": "39.040", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Nicht zuletzt die Enth\u00fcllungen von Edward Snowden, "
+   ]
+  }, 
+  {
+   "begin": "39.040", 
+   "children": [], 
+   "end": "41.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "der NSA/BND-Untersuchungsausschuss, "
+   ]
+  }, 
+  {
+   "begin": "41.200", 
+   "children": [], 
+   "end": "43.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die Hackerangriffe auf den Bundestag, "
+   ]
+  }, 
+  {
+   "begin": "43.400", 
+   "children": [], 
+   "end": "47.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "das Au\u00dfenministerium und viele andere Institutionen haben gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "47.280", 
+   "children": [], 
+   "end": "50.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wie verletzlich wir im IT-Bereich sind. "
+   ]
+  }, 
+  {
+   "begin": "50.240", 
+   "children": [], 
+   "end": "52.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Aus Zeitgr\u00fcnden kann ich hier nur vier Punkte nennen, "
+   ]
+  }, 
+  {
+   "begin": "52.120", 
+   "children": [], 
+   "end": "55.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr Die Linke in puncto IT-Sicherheit von zentraler Bedeutung sind."
+   ]
+  }, 
+  {
+   "begin": "55.760", 
+   "children": [], 
+   "end": "56.920", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "56.920", 
+   "children": [], 
+   "end": "59.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das Bundesamt f\u00fcr Sicherheit in der Informationstechnik, "
+   ]
+  }, 
+  {
+   "begin": "59.720", 
+   "children": [], 
+   "end": "60.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "BSI, "
+   ]
+  }, 
+  {
+   "begin": "60.720", 
+   "children": [], 
+   "end": "62.160", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "muss eine eigenst\u00e4ndige, "
+   ]
+  }, 
+  {
+   "begin": "62.160", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "tats\u00e4chlich unabh\u00e4ngige und neutrale Beh\u00f6rde werden, "
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "72.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "deren Kern\u00adaufgabe die sp\u00fcrbare Erh\u00f6hung des digitalen Schutzes f\u00fcr alle B\u00fcrgerinnen und B\u00fcrger ist."
+   ]
+  }, 
+  {
+   "begin": "72.560", 
+   "children": [], 
+   "end": "73.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "73.120", 
+   "children": [], 
+   "end": "76.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "76.040", 
+   "children": [], 
+   "end": "81.040", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "muss das BSI zwingend aus der Zuordnung zum Bundesinnenministerium herausgel\u00f6st werden. "
+   ]
+  }, 
+  {
+   "begin": "81.040", 
+   "children": [], 
+   "end": "85.840", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Vor allem aber muss sich das BSI aus dem Dunstkreis der deutschen Inlands- "
+   ]
+  }, 
+  {
+   "begin": "85.840", 
+   "children": [], 
+   "end": "87.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "und Auslandsgeheimdienste befreien."
+   ]
+  }, 
+  {
+   "begin": "87.680", 
+   "children": [], 
+   "end": "91.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Das Amt muss endlich Servicedienstleister f\u00fcr B\u00fcrger, "
+   ]
+  }, 
+  {
+   "begin": "91.600", 
+   "children": [], 
+   "end": "101.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "\u00f6ffentliche Infrastruktur und Unternehmen und darf nicht l\u00e4nger auch Zulieferer f\u00fcr die Geheimdienste sein."
+   ]
+  }, 
+  {
+   "begin": "101.000", 
+   "children": [], 
+   "end": "108.480", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens fordert Die Linke den Verzicht auf den Ankauf und die Nutzung von Sicherheitsl\u00fccken durch staatliche Einrichtungen. "
+   ]
+  }, 
+  {
+   "begin": "108.480", 
+   "children": [], 
+   "end": "110.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Es muss Schluss damit sein, "
+   ]
+  }, 
+  {
+   "begin": "110.200", 
+   "children": [], 
+   "end": "118.360", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass deutsche Beh\u00f6rden und Geheimdienste technische und Softwareschwachstellen ausnutzen und Verschl\u00fcsselungsstandards gezielt unterwandern, "
+   ]
+  }, 
+  {
+   "begin": "118.360", 
+   "children": [], 
+   "end": "120.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "um Kommunikation auszusp\u00e4hen, "
+   ]
+  }, 
+  {
+   "begin": "120.080", 
+   "children": [], 
+   "end": "125.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und Staatstrojaner zur Strafverfolgung oder zur Informationsbeschaffung einsetzen. "
+   ]
+  }, 
+  {
+   "begin": "125.000", 
+   "children": [], 
+   "end": "132.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Damit tritt der Staat neben Kriminellen letztlich als ein Gef\u00e4hrder von IT-Sicherheit auf."
+   ]
+  }, 
+  {
+   "begin": "132.560", 
+   "children": [], 
+   "end": "133.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "133.520", 
+   "children": [], 
+   "end": "135.480", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Einige bei CDU und CSU\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "135.480", 
+   "children": [], 
+   "end": "138.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Herr Schuster war heute wieder bestes Beispiel\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "138.240", 
+   "children": [], 
+   "end": "144.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "wollen den Geheimdiensten und der Bundeswehr sogar sogenannte Hackbacks erlauben, "
+   ]
+  }, 
+  {
+   "begin": "144.000", 
+   "children": [], 
+   "end": "147.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "also Cybergegenangriffe auf fremde Server und Computer, "
+   ]
+  }, 
+  {
+   "begin": "147.320", 
+   "children": [], 
+   "end": "150.880", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "um dort Daten oder gar die ganze Technik zu zerst\u00f6ren. "
+   ]
+  }, 
+  {
+   "begin": "150.880", 
+   "children": [], 
+   "end": "155.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Dadurch k\u00f6nnte die Sicherheitslage dramatisch eskalieren. "
+   ]
+  }, 
+  {
+   "begin": "155.520", 
+   "children": [], 
+   "end": "162.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Die allermeisten Cyberangriffe sind nicht eindeutig zuzuordnen und laufen h\u00e4ufig \u00fcber Systeme von Dritten, "
+   ]
+  }, 
+  {
+   "begin": "162.680", 
+   "children": [], 
+   "end": "165.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "ohne deren Wissen oder gar Einverst\u00e4ndnis. "
+   ]
+  }, 
+  {
+   "begin": "165.720", 
+   "children": [], 
+   "end": "172.400", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Dadurch k\u00f6nnen bei Gegenangriffen sogenannte Kollateralsch\u00e4den nicht ausgeschlossen oder sogar provoziert werden. "
+   ]
+  }, 
+  {
+   "begin": "172.400", 
+   "children": [], 
+   "end": "177.000", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Was das im milit\u00e4rischen Bereich alles an Gefahren bedeuten kann, "
+   ]
+  }, 
+  {
+   "begin": "177.000", 
+   "children": [], 
+   "end": "179.280", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "will ich hier gar nicht ausmalen. "
+   ]
+  }, 
+  {
+   "begin": "179.280", 
+   "children": [], 
+   "end": "187.080", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb lehnen wir als Linke die Hackback-Forderungen entschieden ab."
+   ]
+  }, 
+  {
+   "begin": "187.080", 
+   "children": [], 
+   "end": "191.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Viertens fordert Die Linke die Ausweitung der Produkthaftung f\u00fcr IT-Hersteller. "
+   ]
+  }, 
+  {
+   "begin": "191.600", 
+   "children": [], 
+   "end": "194.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Das ist vor allem f\u00fcr Nutzer von Smartphones von Bedeutung; "
+   ]
+  }, 
+  {
+   "begin": "194.680", 
+   "children": [], 
+   "end": "198.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "denn diese k\u00f6nnen zu Cyberangriffen genutzt werden, "
+   ]
+  }, 
+  {
+   "begin": "198.240", 
+   "children": [], 
+   "end": "201.000", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "ohne dass deren Nutzer es jemals bemerken. "
+   ]
+  }, 
+  {
+   "begin": "201.000", 
+   "children": [], 
+   "end": "206.080", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das IT-Sicherheitsgesetz von 2015 sieht dazu leider nichts vor. "
+   ]
+  }, 
+  {
+   "begin": "206.080", 
+   "children": [], 
+   "end": "208.520", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein zentrales Defizit, "
+   ]
+  }, 
+  {
+   "begin": "208.520", 
+   "children": [], 
+   "end": "210.480", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "das dringend behoben werden muss."
+   ]
+  }, 
+  {
+   "begin": "210.480", 
+   "children": [], 
+   "end": "213.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Zwei weitere Themen kann ich hier nur anrei\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "213.920", 
+   "children": [], 
+   "end": "215.960", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Das Betriebssystem Windows\u00a010, "
+   ]
+  }, 
+  {
+   "begin": "215.960", 
+   "children": [], 
+   "end": "218.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "das in Deutschland millionenfach genutzt wird, "
+   ]
+  }, 
+  {
+   "begin": "218.880", 
+   "children": [], 
+   "end": "224.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "leitet selbst bei den besten Sicherheitsprogrammen Daten auf Serversysteme in den USA aus. "
+   ]
+  }, 
+  {
+   "begin": "224.680", 
+   "children": [], 
+   "end": "225.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Was genau, "
+   ]
+  }, 
+  {
+   "begin": "225.560", 
+   "children": [], 
+   "end": "229.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "ist selbst dem BSI und der Bundesdatenschutzbeauftragten nicht bekannt, "
+   ]
+  }, 
+  {
+   "begin": "229.800", 
+   "children": [], 
+   "end": "232.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "da die Daten verschl\u00fcsselt ausgeleitet werden. "
+   ]
+  }, 
+  {
+   "begin": "232.240", 
+   "children": [], 
+   "end": "234.320", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "US-Router haben eingebaute Sicherheitsl\u00fccken, "
+   ]
+  }, 
+  {
+   "begin": "234.320", 
+   "children": [], 
+   "end": "236.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "jene aus China vermutlich auch. "
+   ]
+  }, 
+  {
+   "begin": "236.880", 
+   "children": [], 
+   "end": "244.120", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb brauchen wir eine R\u00fcckgewinnung an technologischer Souver\u00e4nit\u00e4t durch die F\u00f6rderung der Entwicklung von eigener Hard- "
+   ]
+  }, 
+  {
+   "begin": "244.120", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "und Software."
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "246.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Letzter Punkt. "
+   ]
+  }, 
+  {
+   "begin": "246.960", 
+   "children": [], 
+   "end": "248.840", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ein Journalist hat mich k\u00fcrzlich gefragt, "
+   ]
+  }, 
+  {
+   "begin": "248.840", 
+   "children": [], 
+   "end": "250.200", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "ob es denn stimme, "
+   ]
+  }, 
+  {
+   "begin": "250.200", 
+   "children": [], 
+   "end": "257.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass jede dritte oder vierte Planstelle im Bereich der Cyberabwehr in Deutschland unbesetzt sei. "
+   ]
+  }, 
+  {
+   "begin": "257.200", 
+   "children": [], 
+   "end": "258.360", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wenn das so stimmt, "
+   ]
+  }, 
+  {
+   "begin": "258.360", 
+   "children": [], 
+   "end": "261.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dann w\u00e4re das ein unhaltbarer Zustand. "
+   ]
+  }, 
+  {
+   "begin": "261.280", 
+   "children": [], 
+   "end": "262.960", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ich erwarte vom Innenminister, "
+   ]
+  }, 
+  {
+   "begin": "262.960", 
+   "children": [], 
+   "end": "264.840", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass er dazu baldm\u00f6glichst Stellung bezieht."
+   ]
+  }, 
+  {
+   "begin": "264.840", 
+   "children": [], 
+   "end": "268.280", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "268.280", 
+   "children": [], 
+   "end": "271.400", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen \u00fcber die Chancen von IT reden, "
+   ]
+  }, 
+  {
+   "begin": "271.400", 
+   "children": [], 
+   "end": "276.680", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "aber eben auch \u00fcber die Probleme und die damit einhergehenden Risiken, "
+   ]
+  }, 
+  {
+   "begin": "276.680", 
+   "children": [], 
+   "end": "279.800", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "und wir m\u00fcssen Ma\u00dfnahmen zur St\u00e4rkung der IT-Sicherheit ergreifen. "
+   ]
+  }, 
+  {
+   "begin": "279.800", 
+   "children": [], 
+   "end": "284.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Die heutige Debatte kann dazu sicher nur ein Anfang sein."
+   ]
+  }, 
+  {
+   "begin": "284.360", 
+   "children": [], 
+   "end": "287.560", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "287.560", 
+   "children": [], 
+   "end": "288.520", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "288.520", 
+   "children": [], 
+   "end": "290.320", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Hahn.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "290.320", 
+   "children": [], 
+   "end": "292.880", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner f\u00fcr die CDU/CSU-Fraktion: "
+   ]
+  }, 
+  {
+   "begin": "292.880", 
+   "children": [], 
+   "end": "295.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Christoph Bernstiel."
+   ]
+  }
+ ]
+}

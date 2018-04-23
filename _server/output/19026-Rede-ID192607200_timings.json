@@ -1,0 +1,844 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.360", 
+   "children": [], 
+   "end": "16.920", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "children": [], 
+   "end": "21.200", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Operation Atalanta hat tats\u00e4chlich zwei Seiten: "
+   ]
+  }, 
+  {
+   "begin": "21.200", 
+   "children": [], 
+   "end": "24.040", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Kurzfristig sichert sie die Hilfslieferungen, "
+   ]
+  }, 
+  {
+   "begin": "24.040", 
+   "children": [], 
+   "end": "25.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "auf die die Menschen in Somalia, "
+   ]
+  }, 
+  {
+   "begin": "25.480", 
+   "children": [], 
+   "end": "28.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "aber auch in \u00c4thiopien, "
+   ]
+  }, 
+  {
+   "begin": "28.040", 
+   "children": [], 
+   "end": "31.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "im Jemen und im S\u00fcdsudan angewiesen sind;"
+   ]
+  }, 
+  {
+   "begin": "31.960", 
+   "children": [], 
+   "end": "37.960", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "aber mittelfristig hat sie keinen Effekt auf die Ursachen der Pirateriekriminalit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "37.960", 
+   "children": [], 
+   "end": "43.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Nachdem die Anzahl der Vorf\u00e4lle vor der K\u00fcste Somalias in den letzten Jahren sehr niedrig war, "
+   ]
+  }, 
+  {
+   "begin": "43.280", 
+   "children": [], 
+   "end": "46.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "ist sie im vergangenen Jahr wieder deutlich gestiegen. "
+   ]
+  }, 
+  {
+   "begin": "46.240", 
+   "children": [], 
+   "end": "53.920", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Bislang sind diese Anschl\u00e4ge zwar glimpflich verlaufen, "
+   ]
+  }, 
+  {
+   "begin": "53.920", 
+   "children": [], 
+   "end": "56.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "aber sie lassen doch schon bef\u00fcrchten, "
+   ]
+  }, 
+  {
+   "begin": "56.240", 
+   "children": [], 
+   "end": "57.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass es schlimmer kommen k\u00f6nnte."
+   ]
+  }, 
+  {
+   "begin": "57.840", 
+   "children": [], 
+   "end": "61.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die Gr\u00fcnde f\u00fcr den erneuten Anstieg der Piraterie sind klar: "
+   ]
+  }, 
+  {
+   "begin": "61.480", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "fortdauernde Korruption, "
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "65.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "schwache staatliche Strukturen in Somalia, "
+   ]
+  }, 
+  {
+   "begin": "65.880", 
+   "children": [], 
+   "end": "68.960", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Einfluss von islamistischen Gruppierungen, "
+   ]
+  }, 
+  {
+   "begin": "68.960", 
+   "children": [], 
+   "end": "72.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die Schwemme an Waffen in der Region. "
+   ]
+  }, 
+  {
+   "begin": "72.240", 
+   "children": [], 
+   "end": "78.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Die Hungerkrise am Horn von Afrika treibt zus\u00e4tzlich Menschen in die Kriminalit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "78.520", 
+   "children": [], 
+   "end": "86.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Vor diesem Hintergrund ist der Einsatz der Bundeswehr vor der K\u00fcste Somalias genau genommen lediglich eine Symptombek\u00e4mpfung. "
+   ]
+  }, 
+  {
+   "begin": "86.400", 
+   "children": [], 
+   "end": "89.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Es ist kein Beitrag f\u00fcr eine nachhaltige L\u00f6sung. "
+   ]
+  }, 
+  {
+   "begin": "89.440", 
+   "children": [], 
+   "end": "90.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Man kann jetzt zwar sagen: "
+   ]
+  }, 
+  {
+   "begin": "90.880", 
+   "children": [], 
+   "end": "91.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "\u201eJa gut, "
+   ]
+  }, 
+  {
+   "begin": "91.520", 
+   "children": [], 
+   "end": "92.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "das ist besser als nichts\u201c, "
+   ]
+  }, 
+  {
+   "begin": "92.800", 
+   "children": [], 
+   "end": "99.600", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "aber dann muss es von anderen Ma\u00dfnahmen flankiert werden und Teil einer umfassenden, "
+   ]
+  }, 
+  {
+   "begin": "99.600", 
+   "children": [], 
+   "end": "101.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "ganzheitlichen Strategie werden."
+   ]
+  }, 
+  {
+   "begin": "101.920", 
+   "children": [], 
+   "end": "102.520", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Herr Tauber, "
+   ]
+  }, 
+  {
+   "begin": "102.520", 
+   "children": [], 
+   "end": "104.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben eine Strategie angesprochen. "
+   ]
+  }, 
+  {
+   "begin": "104.960", 
+   "children": [], 
+   "end": "106.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Sie soll bis Ende 2020 stehen; "
+   ]
+  }, 
+  {
+   "begin": "106.920", 
+   "children": [], 
+   "end": "111.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "aber bis Ende 2020 ist es tats\u00e4chlich noch sehr weit hin."
+   ]
+  }, 
+  {
+   "begin": "111.320", 
+   "children": [], 
+   "end": "114.000", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Und dann die Sache mit dem Einsatz an Land. "
+   ]
+  }, 
+  {
+   "begin": "114.000", 
+   "children": [], 
+   "end": "116.200", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das Mandat sieht Eins\u00e4tze an Land vor. "
+   ]
+  }, 
+  {
+   "begin": "116.200", 
+   "children": [], 
+   "end": "124.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeswehr d\u00fcrfte bis zu 2\u00a0Kilometer weit im Inland gelegene logistische Einrichtungen der Piraten angreifen. "
+   ]
+  }, 
+  {
+   "begin": "124.000", 
+   "children": [], 
+   "end": "129.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das ist doch keine rein maritime Mission mehr."
+   ]
+  }, 
+  {
+   "begin": "129.280", 
+   "children": [], 
+   "end": "131.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Das hat auch Eskalationspotenzial. "
+   ]
+  }, 
+  {
+   "begin": "131.520", 
+   "children": [], 
+   "end": "132.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das ist auch einer der Gr\u00fcnde, "
+   ]
+  }, 
+  {
+   "begin": "132.680", 
+   "children": [], 
+   "end": "139.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "warum viele meiner Fraktionskolleginnen und -kollegen dem Mandat in der Vergangenheit nicht zustimmen konnten. "
+   ]
+  }, 
+  {
+   "begin": "139.120", 
+   "children": [], 
+   "end": "140.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4re ich Pirat, "
+   ]
+  }, 
+  {
+   "begin": "140.320", 
+   "children": [], 
+   "end": "144.760", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrde ich meine logistische Einrichtung 3\u00a0Kilometer weit ins Landesinnere legen. "
+   ]
+  }, 
+  {
+   "begin": "144.760", 
+   "children": [], 
+   "end": "145.560", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Herr Roth, "
+   ]
+  }, 
+  {
+   "begin": "145.560", 
+   "children": [], 
+   "end": "150.240", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "streichen Sie endlich diesen sinnlosen Landeinsatz aus dem Mandatstext."
+   ]
+  }, 
+  {
+   "begin": "150.240", 
+   "children": [], 
+   "end": "156.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Fatal f\u00fcr die Gesamtstrategie ist die somalische Aufr\u00fcstung mit deutschen Waffen. "
+   ]
+  }, 
+  {
+   "begin": "156.120", 
+   "children": [], 
+   "end": "161.360", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Die Waffen gelangen unter anderem \u00fcber Lizenzfabriken in Saudi-Arabien und im Iran dorthin. "
+   ]
+  }, 
+  {
+   "begin": "161.360", 
+   "children": [], 
+   "end": "166.000", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Hinzu kommen unendlich viele alte Waffen in die Region, "
+   ]
+  }, 
+  {
+   "begin": "166.000", 
+   "children": [], 
+   "end": "168.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel aus den libyschen Armeebest\u00e4nden. "
+   ]
+  }, 
+  {
+   "begin": "168.840", 
+   "children": [], 
+   "end": "170.840", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen endlich mehr daf\u00fcr tun, "
+   ]
+  }, 
+  {
+   "begin": "170.840", 
+   "children": [], 
+   "end": "172.920", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "diese Waffen aus dem Verkehr zu ziehen. "
+   ]
+  }, 
+  {
+   "begin": "172.920", 
+   "children": [], 
+   "end": "176.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re eine nachhaltige und wirksame Ma\u00dfnahme."
+   ]
+  }, 
+  {
+   "begin": "176.920", 
+   "children": [], 
+   "end": "184.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Gegen die Piraterie vor der K\u00fcste Somalias braucht es eine Strategie zur Bek\u00e4mpfung der Ursachen, "
+   ]
+  }, 
+  {
+   "begin": "184.280", 
+   "children": [], 
+   "end": "187.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "beispielsweise gegen die Raubfischerei in den somalischen Gew\u00e4ssern, "
+   ]
+  }, 
+  {
+   "begin": "187.600", 
+   "children": [], 
+   "end": "191.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "gegen die illegale M\u00fcllverklappung in den Fischereigebieten. "
+   ]
+  }, 
+  {
+   "begin": "191.080", 
+   "children": [], 
+   "end": "194.600", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Vor allem muss der Friedensprozess in Somalia vorangetrieben werden. "
+   ]
+  }, 
+  {
+   "begin": "194.600", 
+   "children": [], 
+   "end": "197.560", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die Menschen dort brauchen eine Lebensperspektive. "
+   ]
+  }, 
+  {
+   "begin": "197.560", 
+   "children": [], 
+   "end": "198.680", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das Einzige, "
+   ]
+  }, 
+  {
+   "begin": "198.680", 
+   "children": [], 
+   "end": "200.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "was wirklich hilft."
+   ]
+  }, 
+  {
+   "begin": "200.400", 
+   "children": [], 
+   "end": "206.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Die Piraterie kann nicht nur mit milit\u00e4rischen Instrumenten bek\u00e4mpft werden. "
+   ]
+  }, 
+  {
+   "begin": "206.080", 
+   "children": [], 
+   "end": "207.440", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Etwa 7\u00a0Millionen Menschen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "207.440", 
+   "children": [], 
+   "end": "207.920", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Herr Tauber, "
+   ]
+  }, 
+  {
+   "begin": "207.920", 
+   "children": [], 
+   "end": "209.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Sie sprachen von 6\u00a0Millionen; "
+   ]
+  }, 
+  {
+   "begin": "209.760", 
+   "children": [], 
+   "end": "212.160", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die tats\u00e4chliche Zahl ist eigentlich unerheblich, "
+   ]
+  }, 
+  {
+   "begin": "212.160", 
+   "children": [], 
+   "end": "213.320", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "es sind sehr viele\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "213.320", 
+   "children": [], 
+   "end": "214.520", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "leiden an Hunger, "
+   ]
+  }, 
+  {
+   "begin": "214.520", 
+   "children": [], 
+   "end": "216.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die H\u00e4lfte der Bev\u00f6lkerung. "
+   ]
+  }, 
+  {
+   "begin": "216.480", 
+   "children": [], 
+   "end": "218.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Entwicklungszusammenarbeit ausbauen. "
+   ]
+  }, 
+  {
+   "begin": "218.760", 
+   "children": [], 
+   "end": "220.680", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Die bisherigen Projekte sind zwar gut, "
+   ]
+  }, 
+  {
+   "begin": "220.680", 
+   "children": [], 
+   "end": "227.160", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "erreichen aber bei weitem nicht genug Leute und werden zus\u00e4tzlich durch D\u00fcrre und Hungersnot oftmals zunichtegemacht. "
+   ]
+  }, 
+  {
+   "begin": "227.160", 
+   "children": [], 
+   "end": "235.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Im Fl\u00fcchtlingslager Dadaab im Nachbarland Kenia leben 250\u00a0000\u00a0Somalier unter schweren Bedingungen. "
+   ]
+  }, 
+  {
+   "begin": "235.800", 
+   "children": [], 
+   "end": "236.640", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "236.640", 
+   "children": [], 
+   "end": "237.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "die zur\u00fcckkehren, "
+   ]
+  }, 
+  {
+   "begin": "237.760", 
+   "children": [], 
+   "end": "240.160", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "weil sie es dort nicht aushalten, "
+   ]
+  }, 
+  {
+   "begin": "240.160", 
+   "children": [], 
+   "end": "242.960", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "erwartet eine unsichere Zukunft. "
+   ]
+  }, 
+  {
+   "begin": "242.960", 
+   "children": [], 
+   "end": "245.240", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen doch nicht einfach dabei zusehen, "
+   ]
+  }, 
+  {
+   "begin": "245.240", 
+   "children": [], 
+   "end": "252.720", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "wie sich die R\u00fcckkehrerinnen und R\u00fcckkehrer v\u00f6llig desillusioniert bald nach anderen Einkommensquellen umsehen werden."
+   ]
+  }, 
+  {
+   "begin": "252.720", 
+   "children": [], 
+   "end": "253.840", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "253.840", 
+   "children": [], 
+   "end": "255.960", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "der Mandatsverl\u00e4ngerung sollte man zustimmen, "
+   ]
+  }, 
+  {
+   "begin": "255.960", 
+   "children": [], 
+   "end": "261.840", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "wenn man der Sache mit den unsicheren Wegen f\u00fcr die Hilfsg\u00fcter ein besonderes Gewicht beimisst. "
+   ]
+  }, 
+  {
+   "begin": "261.840", 
+   "children": [], 
+   "end": "264.600", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe aber auch gro\u00dfes Verst\u00e4ndnis f\u00fcr alle diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "264.600", 
+   "children": [], 
+   "end": "266.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "die der Verl\u00e4ngerung nicht zustimmen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "266.200", 
+   "children": [], 
+   "end": "272.240", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "weil es an der Gesamtstrategie fehlt und das Mandat nicht zur Bek\u00e4mpfung der Ursachen der Piraterie beitr\u00e4gt."
+   ]
+  }, 
+  {
+   "begin": "272.240", 
+   "children": [], 
+   "end": "274.440", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "274.440", 
+   "children": [], 
+   "end": "275.280", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "275.280", 
+   "children": [], 
+   "end": "277.400", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Ottmar von Holtz.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "277.400", 
+   "children": [], 
+   "end": "278.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner: "
+   ]
+  }, 
+  {
+   "begin": "278.560", 
+   "children": [], 
+   "end": "281.000", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Ingo G\u00e4dechens f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

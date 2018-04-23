@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.001", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "0.001", 
+   "children": [], 
+   "end": "7.480", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.480", 
+   "children": [], 
+   "end": "10.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "children": [], 
+   "end": "13.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Stuxnet 2010, "
+   ]
+  }, 
+  {
+   "begin": "13.120", 
+   "children": [], 
+   "end": "16.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "die Snowden-Ver\u00f6ffentlichungen 2013, "
+   ]
+  }, 
+  {
+   "begin": "16.560", 
+   "children": [], 
+   "end": "19.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "WannaCry 2017, "
+   ]
+  }, 
+  {
+   "begin": "19.280", 
+   "children": [], 
+   "end": "21.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "der Angriff auf den Deutschen Bundestag oder, "
+   ]
+  }, 
+  {
+   "begin": "21.560", 
+   "children": [], 
+   "end": "23.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "ganz frisch, "
+   ]
+  }, 
+  {
+   "begin": "23.040", 
+   "children": [], 
+   "end": "24.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "der Regierungshack: "
+   ]
+  }, 
+  {
+   "begin": "24.120", 
+   "children": [], 
+   "end": "35.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Seit vielen Jahren diskutieren wir hier \u00fcber IT-Sicherheit und die Integrit\u00e4t von Netzwerken und Ger\u00e4ten in unserer durchdigitalisierten Welt. "
+   ]
+  }, 
+  {
+   "begin": "35.160", 
+   "children": [], 
+   "end": "37.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Die Vorf\u00e4lle verdichten sich immer st\u00e4rker. "
+   ]
+  }, 
+  {
+   "begin": "37.720", 
+   "children": [], 
+   "end": "39.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Man kann nur konstatieren: "
+   ]
+  }, 
+  {
+   "begin": "39.640", 
+   "children": [], 
+   "end": "43.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Im Bereich der IT-Sicherheit brennt die H\u00fctte lichterloh."
+   ]
+  }, 
+  {
+   "begin": "43.920", 
+   "children": [], 
+   "end": "51.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland ist nach 13\u00a0Regierungsjahren der Union, "
+   ]
+  }, 
+  {
+   "begin": "51.600", 
+   "children": [], 
+   "end": "54.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "nach drei Innenministern von CDU und CSU, "
+   ]
+  }, 
+  {
+   "begin": "54.640", 
+   "children": [], 
+   "end": "58.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "digital unsicherer als jemals zuvor. "
+   ]
+  }, 
+  {
+   "begin": "58.640", 
+   "children": [], 
+   "end": "60.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Es ist zwingend, "
+   ]
+  }, 
+  {
+   "begin": "60.360", 
+   "children": [], 
+   "end": "66.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass dieses Thema ein ganz zentrales Thema dieser Legislatur wird. "
+   ]
+  }, 
+  {
+   "begin": "66.040", 
+   "children": [], 
+   "end": "68.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir nicht alles unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "68.240", 
+   "children": [], 
+   "end": "74.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "um unsere digitalen Infrastrukturen und unsere private Kommunikation bestm\u00f6glich zu sch\u00fctzen, "
+   ]
+  }, 
+  {
+   "begin": "74.480", 
+   "children": [], 
+   "end": "77.400", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dann sind die ganzen sch\u00f6nen IT-Gipfel, "
+   ]
+  }, 
+  {
+   "begin": "77.400", 
+   "children": [], 
+   "end": "83.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "all die Sonntagsreden zur Digitalpolitik nicht das analoge Papier wert, "
+   ]
+  }, 
+  {
+   "begin": "83.200", 
+   "children": [], 
+   "end": "83.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "auf dem sie stehen, "
+   ]
+  }, 
+  {
+   "begin": "83.880", 
+   "children": [], 
+   "end": "84.880", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren. "
+   ]
+  }, 
+  {
+   "begin": "84.880", 
+   "children": [], 
+   "end": "86.440", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen m\u00fcssen wir etwas tun."
+   ]
+  }, 
+  {
+   "begin": "86.440", 
+   "children": [], 
+   "end": "86.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "86.760", 
+   "children": [], 
+   "end": "93.360", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Risiken sind gro\u00df. "
+   ]
+  }, 
+  {
+   "begin": "93.360", 
+   "children": [], 
+   "end": "97.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen brauchen wir so gro\u00dfe Antworten. "
+   ]
+  }, 
+  {
+   "begin": "97.400", 
+   "children": [], 
+   "end": "98.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Diese vermisst man leider bei Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "98.960", 
+   "children": [], 
+   "end": "99.920", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "bei der GroKo, "
+   ]
+  }, 
+  {
+   "begin": "99.920", 
+   "children": [], 
+   "end": "100.920", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "bis heute. "
+   ]
+  }, 
+  {
+   "begin": "100.920", 
+   "children": [], 
+   "end": "111.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Von dem neuen f\u00fcr die IT-Sicherheit und den Datenschutz zust\u00e4ndigen Minister gab es bisher kein \u00f6ffentliches Wort zu den weitreichenden IT-Angriffen, "
+   ]
+  }, 
+  {
+   "begin": "111.120", 
+   "children": [], 
+   "end": "118.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "zu m\u00f6glichen Wahlmanipulationen und zu den aktuell beispiellosen Datenskandalen. "
+   ]
+  }, 
+  {
+   "begin": "118.000", 
+   "children": [], 
+   "end": "123.040", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das ist im Jahr\u00a02018 einfach zu wenig."
+   ]
+  }, 
+  {
+   "begin": "123.040", 
+   "children": [], 
+   "end": "128.320", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Eine gro\u00dfe Antwort hat das Bundesverfassungsgericht schon vor Jahren gegeben: "
+   ]
+  }, 
+  {
+   "begin": "128.320", 
+   "children": [], 
+   "end": "134.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "das Recht auf Integrit\u00e4t und Vertraulichkeit informationstechnischer Systeme. "
+   ]
+  }, 
+  {
+   "begin": "134.320", 
+   "children": [], 
+   "end": "140.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Lange schon weisen f\u00fchrende Staatsrechtler darauf hin, "
+   ]
+  }, 
+  {
+   "begin": "140.800", 
+   "children": [], 
+   "end": "144.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass dem Staat hier eine direkte Schutzverantwortung zukommt. "
+   ]
+  }, 
+  {
+   "begin": "144.280", 
+   "children": [], 
+   "end": "148.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Statt dieser Verantwortung nach zehn Jahren gerecht zu werden, "
+   ]
+  }, 
+  {
+   "begin": "148.640", 
+   "children": [], 
+   "end": "154.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "ist die inkoh\u00e4rente Politik der Gro\u00dfen Koalition selbst zu einer Gefahr geworden: "
+   ]
+  }, 
+  {
+   "begin": "154.720", 
+   "children": [], 
+   "end": "160.240", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Sicherheit der Daten von Unternehmen und f\u00fcr die Vertraulichkeit der Kommunikation. "
+   ]
+  }, 
+  {
+   "begin": "160.240", 
+   "children": [], 
+   "end": "163.200", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist aber auch Gift f\u00fcr die Digitalwirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "163.200", 
+   "children": [], 
+   "end": "165.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Denn wo Vertrauen erodiert, "
+   ]
+  }, 
+  {
+   "begin": "165.040", 
+   "children": [], 
+   "end": "166.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "kann keine Wirtschaft wachsen."
+   ]
+  }, 
+  {
+   "begin": "166.840", 
+   "children": [], 
+   "end": "169.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Nur drei Beispiele daf\u00fcr: "
+   ]
+  }, 
+  {
+   "begin": "169.520", 
+   "children": [], 
+   "end": "176.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt erstens eine v\u00f6llige Konfusion der Zust\u00e4ndigkeiten und Befugnisse der Sicherheitsbeh\u00f6rden in diesem Bereich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "176.600", 
+   "children": [], 
+   "end": "178.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Beispiel \u00adZITiS: "
+   ]
+  }, 
+  {
+   "begin": "178.440", 
+   "children": [], 
+   "end": "180.680", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "eine Beh\u00f6rde ohne Rechtsgrundlage, "
+   ]
+  }, 
+  {
+   "begin": "180.680", 
+   "children": [], 
+   "end": "184.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "mit der der Staat selbst zum Hacker verschl\u00fcsselter Kommunikation wird\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "184.400", 
+   "children": [], 
+   "end": "189.760", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "zweitens das bewusste Offenhalten und die Nutzung von IT-Sicherheitsl\u00fccken, "
+   ]
+  }, 
+  {
+   "begin": "189.760", 
+   "children": [], 
+   "end": "194.440", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "mit der eine massive Gef\u00e4hrdung der IT-Sicherheit f\u00fcr alle einhergeht, "
+   ]
+  }, 
+  {
+   "begin": "194.440", 
+   "children": [], 
+   "end": "200.640", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "und drittens die anhaltende Zusammenarbeit deutscher Beh\u00f6rden mit obskuren IT-Sicherheitsfirmen, "
+   ]
+  }, 
+  {
+   "begin": "200.640", 
+   "children": [], 
+   "end": "204.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die ihre Software in alle Despotenh\u00e4nde dieser Welt liefern.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "204.640", 
+   "children": [], 
+   "end": "208.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "All das hat die Gro\u00dfe Koalition direkt zu verantworten, "
+   ]
+  }, 
+  {
+   "begin": "208.760", 
+   "children": [], 
+   "end": "212.960", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "und durch ihr Vorgehen entstehen g\u00e4nzlich neue Gef\u00e4hrdungslagen, "
+   ]
+  }, 
+  {
+   "begin": "212.960", 
+   "children": [], 
+   "end": "215.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und die k\u00f6nnen wir uns schlicht nicht leisten, "
+   ]
+  }, 
+  {
+   "begin": "215.080", 
+   "children": [], 
+   "end": "218.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "218.880", 
+   "children": [], 
+   "end": "223.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen endlich weg vom cyberpolitischen Bullshit-\u00adBingo"
+   ]
+  }, 
+  {
+   "begin": "223.520", 
+   "children": [], 
+   "end": "231.680", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "hin zu klaren Zust\u00e4ndigkeiten innerhalb der Bundesregierung und der Beh\u00f6rden, "
+   ]
+  }, 
+  {
+   "begin": "231.680", 
+   "children": [], 
+   "end": "246.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "weg vom starren Festhalten an der Vorratsdatenspeicherung und anderen Massen\u00fcberwachungen und den damit verbundenen unkontrollierbaren Datenanh\u00e4ufungen, "
+   ]
+  }, 
+  {
+   "begin": "246.680", 
+   "children": [], 
+   "end": "250.280", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "weg von der Missachtung klarer rechtlicher Vorgaben, "
+   ]
+  }, 
+  {
+   "begin": "250.280", 
+   "children": [], 
+   "end": "255.200", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel zur \u00dcberpr\u00fcfung von Quellcodes durch die Datenschutzbeauftragten, "
+   ]
+  }, 
+  {
+   "begin": "255.200", 
+   "children": [], 
+   "end": "259.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "und weg von der Politik des digitalen Wettr\u00fcstens, "
+   ]
+  }, 
+  {
+   "begin": "259.240", 
+   "children": [], 
+   "end": "265.720", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die auch \u00fcber verfassungsrechtlich hochumstrittene Hackbacks und einen neuen Cyberwar fantasiert."
+   ]
+  }, 
+  {
+   "begin": "265.720", 
+   "children": [], 
+   "end": "269.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Stattdessen brauchen wir eine entschlossene wie besonnene, "
+   ]
+  }, 
+  {
+   "begin": "269.120", 
+   "children": [], 
+   "end": "272.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "an realen Bedrohungslagen orientierte Politik, "
+   ]
+  }, 
+  {
+   "begin": "272.280", 
+   "children": [], 
+   "end": "276.640", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die auf effektiv gesch\u00fctzte digitale Infrastrukturen, "
+   ]
+  }, 
+  {
+   "begin": "276.640", 
+   "children": [], 
+   "end": "285.800", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "auf innovative und zivile IT-Sicherheitsl\u00f6sungen und auf starke Institutionen zum Schutz der Verbraucherinnen und Verbraucher setzt. "
+   ]
+  }, 
+  {
+   "begin": "285.800", 
+   "children": [], 
+   "end": "289.280", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wie eine solche Politik konkret aussehen kann, "
+   ]
+  }, 
+  {
+   "begin": "289.280", 
+   "children": [], 
+   "end": "292.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "legen wir Ihnen heute noch einmal dar."
+   ]
+  }, 
+  {
+   "begin": "292.280", 
+   "children": [], 
+   "end": "300.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine Offensive f\u00fcr eine durchgehende Ende-zu-Ende-Verschl\u00fcsselung bei allen IT-Gro\u00dfprojekten. "
+   ]
+  }, 
+  {
+   "begin": "300.200", 
+   "children": [], 
+   "end": "305.040", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen klare Zust\u00e4ndigkeiten in der Bundesregierung und ein neues IT-Sicherheitsgesetz, "
+   ]
+  }, 
+  {
+   "begin": "305.040", 
+   "children": [], 
+   "end": "307.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "das nicht nur auf KRITIS abzielt, "
+   ]
+  }, 
+  {
+   "begin": "307.280", 
+   "children": [], 
+   "end": "311.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "sondern proaktive Anreize f\u00fcr Unternehmen setzt, "
+   ]
+  }, 
+  {
+   "begin": "311.200", 
+   "children": [], 
+   "end": "315.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die in gute und innovative IT-Sicherheitsl\u00f6sungen investieren wollen."
+   ]
+  }, 
+  {
+   "begin": "315.760", 
+   "children": [], 
+   "end": "318.760", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem brauchen wir klare Rechtsgrundlagen, "
+   ]
+  }, 
+  {
+   "begin": "318.760", 
+   "children": [], 
+   "end": "323.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel f\u00fcr die Zusammenarbeit im Cyber-Abwehrzen\u00adtrum, "
+   ]
+  }, 
+  {
+   "begin": "323.080", 
+   "children": [], 
+   "end": "327.080", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "und wir brauchen eine Meldepflicht f\u00fcr Sicherheitsl\u00fccken, "
+   ]
+  }, 
+  {
+   "begin": "327.080", 
+   "children": [], 
+   "end": "329.320", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "ein unabh\u00e4ngiges BSI, "
+   ]
+  }, 
+  {
+   "begin": "329.320", 
+   "children": [], 
+   "end": "331.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "neue Haftungsregelungen, "
+   ]
+  }, 
+  {
+   "begin": "331.000", 
+   "children": [], 
+   "end": "333.640", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "mehr freie und offene Software und vieles, "
+   ]
+  }, 
+  {
+   "begin": "333.640", 
+   "children": [], 
+   "end": "334.520", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "vieles mehr."
+   ]
+  }, 
+  {
+   "begin": "334.520", 
+   "children": [], 
+   "end": "337.520", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "337.520", 
+   "children": [], 
+   "end": "345.080", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "eine gute IT-Sicherheit ist die zentrale Bedingung f\u00fcr das Gelingen der Digitalisierung, "
+   ]
+  }, 
+  {
+   "begin": "345.080", 
+   "children": [], 
+   "end": "352.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die Schaffung von Vertrauen in die digitalen Angebote und den Erhalt von Freiheit und Frieden. "
+   ]
+  }, 
+  {
+   "begin": "352.000", 
+   "children": [], 
+   "end": "353.200", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen sage ich: "
+   ]
+  }, 
+  {
+   "begin": "353.200", 
+   "children": [], 
+   "end": "355.360", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Bedienen Sie sich bei unseren Vorschl\u00e4gen! "
+   ]
+  }, 
+  {
+   "begin": "355.360", 
+   "children": [], 
+   "end": "357.480", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Machen Sie eine gute IT-Sicherheitspolitik!"
+   ]
+  }, 
+  {
+   "begin": "357.480", 
+   "children": [], 
+   "end": "362.560", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "362.560", 
+   "children": [], 
+   "end": "363.080", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "363.080", 
+   "children": [], 
+   "end": "364.320", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Konstantin von Notz.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "364.320", 
+   "children": [], 
+   "end": "365.160", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner: "
+   ]
+  }, 
+  {
+   "begin": "365.160", 
+   "children": [], 
+   "end": "370.000", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Armin Schuster f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

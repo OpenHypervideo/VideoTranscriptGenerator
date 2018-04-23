@@ -1,0 +1,1434 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.760", 
+   "children": [], 
+   "end": "13.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "children": [], 
+   "end": "22.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sage und schreibe 25\u00a0000\u00a0Menschen waren am Wochenende bei der Demo gegen Mietenwahnsinn hier in Berlin. "
+   ]
+  }, 
+  {
+   "begin": "22.440", 
+   "children": [], 
+   "end": "25.080", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein riesiger Erfolg der Mieterbewegung. "
+   ]
+  }, 
+  {
+   "begin": "25.080", 
+   "children": [], 
+   "end": "26.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank an alle, "
+   ]
+  }, 
+  {
+   "begin": "26.280", 
+   "children": [], 
+   "end": "27.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "die da waren!"
+   ]
+  }, 
+  {
+   "begin": "27.480", 
+   "children": [], 
+   "end": "30.680", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Es hat Spa\u00df gemacht, "
+   ]
+  }, 
+  {
+   "begin": "30.680", 
+   "children": [], 
+   "end": "32.200", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dabei zu sein und zu sehen, "
+   ]
+  }, 
+  {
+   "begin": "32.200", 
+   "children": [], 
+   "end": "34.000", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wie viel Kreativit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "34.000", 
+   "children": [], 
+   "end": "36.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "wie viele Ideen mitgebracht werden. "
+   ]
+  }, 
+  {
+   "begin": "36.160", 
+   "children": [], 
+   "end": "39.040", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das gibt uns wirklich Hoffnung f\u00fcr die Zukunft."
+   ]
+  }, 
+  {
+   "begin": "39.040", 
+   "children": [], 
+   "end": "40.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "40.480", 
+   "children": [], 
+   "end": "46.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die Mieten in Gro\u00dfst\u00e4dten und Ballungszentren sind seit 2004 um fast 50\u00a0Prozent gestiegen. "
+   ]
+  }, 
+  {
+   "begin": "46.360", 
+   "children": [], 
+   "end": "52.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Von einer entsprechenden Lohnerh\u00f6hung im gleichen Zeitraum sind wir meilenweit entfernt. "
+   ]
+  }, 
+  {
+   "begin": "52.600", 
+   "children": [], 
+   "end": "55.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Erwerbslose und Alte werden aus ihren Wohnungen gedr\u00e4ngt, "
+   ]
+  }, 
+  {
+   "begin": "55.840", 
+   "children": [], 
+   "end": "58.480", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "in denen sie jahrzehntelang gewohnt haben. "
+   ]
+  }, 
+  {
+   "begin": "58.480", 
+   "children": [], 
+   "end": "62.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wer in M\u00fcnchen Altenpfleger oder in Stuttgart Verk\u00e4uferin ist, "
+   ]
+  }, 
+  {
+   "begin": "62.160", 
+   "children": [], 
+   "end": "65.600", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "der findet in der Innenstadt bald keine Wohnung mehr. "
+   ]
+  }, 
+  {
+   "begin": "65.600", 
+   "children": [], 
+   "end": "71.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Arme Haushalte m\u00fcssen fast 50\u00a0Prozent ihres Einkommens f\u00fcr das Wohnen ausgeben. "
+   ]
+  }, 
+  {
+   "begin": "71.720", 
+   "children": [], 
+   "end": "78.400", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Internationale Finanzkonzerne und Hedgefonds kaufen ganze H\u00e4userblocks in den St\u00e4dten auf, "
+   ]
+  }, 
+  {
+   "begin": "78.400", 
+   "children": [], 
+   "end": "83.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "aber zu Semesterbeginn schlafen Studenten in Turnhallen, "
+   ]
+  }, 
+  {
+   "begin": "83.040", 
+   "children": [], 
+   "end": "87.240", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und die Zahl der Wohnungslosen erreicht Rekordniveau. "
+   ]
+  }, 
+  {
+   "begin": "87.240", 
+   "children": [], 
+   "end": "88.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "88.880", 
+   "children": [], 
+   "end": "90.480", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "90.480", 
+   "children": [], 
+   "end": "93.560", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "ist Deutschland im Fr\u00fchjahr\u00a02018. "
+   ]
+  }, 
+  {
+   "begin": "93.560", 
+   "children": [], 
+   "end": "94.120", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "94.120", 
+   "children": [], 
+   "end": "97.200", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "da ist m\u00e4chtig etwas schiefgelaufen."
+   ]
+  }, 
+  {
+   "begin": "97.200", 
+   "children": [], 
+   "end": "99.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die aktuelle Wohnungsfrage; "
+   ]
+  }, 
+  {
+   "begin": "99.680", 
+   "children": [], 
+   "end": "101.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "es geht um Mietenexplosion, "
+   ]
+  }, 
+  {
+   "begin": "101.160", 
+   "children": [], 
+   "end": "103.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "es geht um Wohnungsspekulation. "
+   ]
+  }, 
+  {
+   "begin": "103.240", 
+   "children": [], 
+   "end": "109.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Und da kommt heute die FDP und legt einen Antrag zur Muster-Garagenverordnung vor. "
+   ]
+  }, 
+  {
+   "begin": "109.280", 
+   "children": [], 
+   "end": "109.520", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Also, "
+   ]
+  }, 
+  {
+   "begin": "109.520", 
+   "children": [], 
+   "end": "110.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "ich muss wirklich sagen: "
+   ]
+  }, 
+  {
+   "begin": "110.920", 
+   "children": [], 
+   "end": "112.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das wird der Reichweite, "
+   ]
+  }, 
+  {
+   "begin": "112.280", 
+   "children": [], 
+   "end": "113.880", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "der Brisanz, "
+   ]
+  }, 
+  {
+   "begin": "113.880", 
+   "children": [], 
+   "end": "117.280", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "der Bedeutung dieses Themas in keiner Weise gerecht. "
+   ]
+  }, 
+  {
+   "begin": "117.280", 
+   "children": [], 
+   "end": "122.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das k\u00f6nnen wir hier gemeinsam festhalten."
+   ]
+  }, 
+  {
+   "begin": "122.800", 
+   "children": [], 
+   "end": "123.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "123.400", 
+   "children": [], 
+   "end": "125.760", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "auch wir Linke sind gegen sinnlose demokratische H\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "125.760", 
+   "children": [], 
+   "end": "129.080", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen nicht 16 verschiedene Bauordnungen, "
+   ]
+  }, 
+  {
+   "begin": "129.080", 
+   "children": [], 
+   "end": "131.160", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "in jedem Bundesland eine eigene."
+   ]
+  }, 
+  {
+   "begin": "131.160", 
+   "children": [], 
+   "end": "132.880", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Tats\u00e4chlich finden auch wir, "
+   ]
+  }, 
+  {
+   "begin": "132.880", 
+   "children": [], 
+   "end": "137.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dass Neubauvorhaben nicht an einer Stellplatzverordnung scheitern sollten; "
+   ]
+  }, 
+  {
+   "begin": "137.800", 
+   "children": [], 
+   "end": "143.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "denn das Leitbild der autogerechten Stadt sollte sowieso der Vergangenheit angeh\u00f6ren."
+   ]
+  }, 
+  {
+   "begin": "143.880", 
+   "children": [], 
+   "end": "145.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Aber viel schlimmer, "
+   ]
+  }, 
+  {
+   "begin": "145.040", 
+   "children": [], 
+   "end": "146.280", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "146.280", 
+   "children": [], 
+   "end": "148.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "ist doch die deutsche B\u00fcrokratie, "
+   ]
+  }, 
+  {
+   "begin": "148.320", 
+   "children": [], 
+   "end": "152.480", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wenn das Amt Hartz-IV-Betroffenen ein Zimmer verriegelt, "
+   ]
+  }, 
+  {
+   "begin": "152.480", 
+   "children": [], 
+   "end": "158.080", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "weil die Wohnung nach irgendwelchen b\u00fcrokratischen Bestimmungen 2\u00a0Quadratmeter zu gro\u00df ist, "
+   ]
+  }, 
+  {
+   "begin": "158.080", 
+   "children": [], 
+   "end": "162.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wenn aus dem gleichen Grund Erwerbslose nach Jahren aus ihrer Wohnung geschmissen werden. "
+   ]
+  }, 
+  {
+   "begin": "162.560", 
+   "children": [], 
+   "end": "165.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Das ist B\u00fcrokratie in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "165.360", 
+   "children": [], 
+   "end": "170.920", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "und damit muss endlich Schluss sein."
+   ]
+  }, 
+  {
+   "begin": "170.920", 
+   "children": [], 
+   "end": "176.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Von dieser sozialen Frage in der Wohnungspolitik findet sich im Antrag der FDP kein einziges Wort. "
+   ]
+  }, 
+  {
+   "begin": "176.400", 
+   "children": [], 
+   "end": "179.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber sollten Sie vielleicht einmal nachdenken."
+   ]
+  }, 
+  {
+   "begin": "179.840", 
+   "children": [], 
+   "end": "183.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Zu viele Vorschriften machen das Wohnen teuer. "
+   ]
+  }, 
+  {
+   "begin": "183.720", 
+   "children": [], 
+   "end": "186.480", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Auch wenn es die FDP verwundert, "
+   ]
+  }, 
+  {
+   "begin": "186.480", 
+   "children": [], 
+   "end": "192.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "wollen wir als Linke das Bauen und das Wohnen selbstverst\u00e4ndlich g\u00fcnstiger machen. "
+   ]
+  }, 
+  {
+   "begin": "192.880", 
+   "children": [], 
+   "end": "197.320", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich machen die entsprechenden Vorschriften das Wohnen teurer; "
+   ]
+  }, 
+  {
+   "begin": "197.320", 
+   "children": [], 
+   "end": "197.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "das sehen wir, "
+   ]
+  }, 
+  {
+   "begin": "197.960", 
+   "children": [], 
+   "end": "199.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "und dar\u00fcber m\u00fcssen wir diskutieren. "
+   ]
+  }, 
+  {
+   "begin": "199.760", 
+   "children": [], 
+   "end": "205.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Aber vor allen Dingen werden die Preise doch durch Spekulation mit Grundst\u00fccken und Wohnungen nach oben getrieben."
+   ]
+  }, 
+  {
+   "begin": "205.800", 
+   "children": [], 
+   "end": "210.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "In Berlin sind die Bodenpreise in zehn Jahren um 1\u00a0000\u00a0Prozent gestiegen. "
+   ]
+  }, 
+  {
+   "begin": "210.280", 
+   "children": [], 
+   "end": "213.320", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wer Wohnen und Bauen bezahlbar machen will, "
+   ]
+  }, 
+  {
+   "begin": "213.320", 
+   "children": [], 
+   "end": "214.440", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "der muss daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "214.440", 
+   "children": [], 
+   "end": "216.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass Spekulation mit H\u00e4usern, "
+   ]
+  }, 
+  {
+   "begin": "216.120", 
+   "children": [], 
+   "end": "218.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "mit Grund und Boden gestoppt wird. "
+   ]
+  }, 
+  {
+   "begin": "218.240", 
+   "children": [], 
+   "end": "220.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Darauf kommt es an."
+   ]
+  }, 
+  {
+   "begin": "220.040", 
+   "children": [], 
+   "end": "225.640", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Das schaffen wir nicht durch Entb\u00fcrokratisierung, "
+   ]
+  }, 
+  {
+   "begin": "225.640", 
+   "children": [], 
+   "end": "229.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "sondern nur durch eine soziale Kehrtwende in der Wohnungspolitik. "
+   ]
+  }, 
+  {
+   "begin": "229.000", 
+   "children": [], 
+   "end": "232.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen einen Neustart im sozialen Wohnungsbau, "
+   ]
+  }, 
+  {
+   "begin": "232.120", 
+   "children": [], 
+   "end": "236.000", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "mit 250\u00a0000 neuen Sozialwohnungen im Jahr."
+   ]
+  }, 
+  {
+   "begin": "236.000", 
+   "children": [], 
+   "end": "238.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Bundesregierung jetzt das Grundgesetz \u00e4ndern will, "
+   ]
+  }, 
+  {
+   "begin": "238.560", 
+   "children": [], 
+   "end": "242.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "damit der Bund auch in Zukunft Sozialwohnungen f\u00f6rdern kann, "
+   ]
+  }, 
+  {
+   "begin": "242.400", 
+   "children": [], 
+   "end": "244.320", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dann freut uns das. "
+   ]
+  }, 
+  {
+   "begin": "244.320", 
+   "children": [], 
+   "end": "245.640", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Es freut mich auch pers\u00f6nlich au\u00dferordentlich; "
+   ]
+  }, 
+  {
+   "begin": "245.640", 
+   "children": [], 
+   "end": "250.080", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "denn als ich noch vor zehn Monaten an dieser Stelle gesprochen habe, "
+   ]
+  }, 
+  {
+   "begin": "250.080", 
+   "children": [], 
+   "end": "254.560", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "gab es f\u00fcr diese Forderung von weiten Teilen des Hauses keinerlei Unterst\u00fctzung. "
+   ]
+  }, 
+  {
+   "begin": "254.560", 
+   "children": [], 
+   "end": "255.400", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Sie sehen also, "
+   ]
+  }, 
+  {
+   "begin": "255.400", 
+   "children": [], 
+   "end": "256.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren: "
+   ]
+  }, 
+  {
+   "begin": "256.040", 
+   "children": [], 
+   "end": "257.320", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke wirkt."
+   ]
+  }, 
+  {
+   "begin": "257.320", 
+   "children": [], 
+   "end": "264.880", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Auch eine neue Wohngemeinn\u00fctzigkeit w\u00fcrde daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "264.880", 
+   "children": [], 
+   "end": "267.080", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass Bauen endlich wieder deutlich g\u00fcnstiger wird. "
+   ]
+  }, 
+  {
+   "begin": "267.080", 
+   "children": [], 
+   "end": "271.080", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Auch dar\u00fcber m\u00fcssen wir in dieser Legislatur weiter sprechen. "
+   ]
+  }, 
+  {
+   "begin": "271.080", 
+   "children": [], 
+   "end": "272.640", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Es geht nicht nur\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "272.640", 
+   "children": [], 
+   "end": "274.480", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "hier unterscheiden wir uns von dem, "
+   ]
+  }, 
+  {
+   "begin": "274.480", 
+   "children": [], 
+   "end": "275.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "was Union, "
+   ]
+  }, 
+  {
+   "begin": "275.240", 
+   "children": [], 
+   "end": "277.480", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "FDP und AfD erz\u00e4hlen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "277.480", 
+   "children": [], 
+   "end": "277.960", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "um Bauen, "
+   ]
+  }, 
+  {
+   "begin": "277.960", 
+   "children": [], 
+   "end": "278.640", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Bauen, "
+   ]
+  }, 
+  {
+   "begin": "278.640", 
+   "children": [], 
+   "end": "279.320", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Bauen. "
+   ]
+  }, 
+  {
+   "begin": "279.320", 
+   "children": [], 
+   "end": "280.640", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Viel entscheidender ist doch die Frage, "
+   ]
+  }, 
+  {
+   "begin": "280.640", 
+   "children": [], 
+   "end": "282.000", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr wen gebaut wird."
+   ]
+  }, 
+  {
+   "begin": "282.000", 
+   "children": [], 
+   "end": "283.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Wollen wir weiterhin Lofthouses haben, "
+   ]
+  }, 
+  {
+   "begin": "283.960", 
+   "children": [], 
+   "end": "289.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "oder wollen wir endlich f\u00fcr die Normalverdiener bezahlbaren Wohnraum in den St\u00e4dten bauen? "
+   ]
+  }, 
+  {
+   "begin": "289.000", 
+   "children": [], 
+   "end": "292.200", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Das schaffen wir nur durch ein gro\u00df angelegtes, "
+   ]
+  }, 
+  {
+   "begin": "292.200", 
+   "children": [], 
+   "end": "293.920", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "\u00f6ffentliches Wohnungsbauprogramm, "
+   ]
+  }, 
+  {
+   "begin": "293.920", 
+   "children": [], 
+   "end": "295.960", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "dadurch dass Wohnungen von Kommunen, "
+   ]
+  }, 
+  {
+   "begin": "295.960", 
+   "children": [], 
+   "end": "299.160", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "L\u00e4ndern und auch vom Bund neu gebaut werden. "
+   ]
+  }, 
+  {
+   "begin": "299.160", 
+   "children": [], 
+   "end": "300.080", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Die Steuergeschenke, "
+   ]
+  }, 
+  {
+   "begin": "300.080", 
+   "children": [], 
+   "end": "302.640", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "die die GroKo jetzt privaten Investoren verspricht, "
+   ]
+  }, 
+  {
+   "begin": "302.640", 
+   "children": [], 
+   "end": "303.160", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "sind nicht der richtige Weg."
+   ]
+  }, 
+  {
+   "begin": "303.160", 
+   "children": [], 
+   "end": "303.840", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "303.840", 
+   "children": [], 
+   "end": "311.120", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "die Mietpreisbremse muss deutlich nachgebessert werden; "
+   ]
+  }, 
+  {
+   "begin": "311.120", 
+   "children": [], 
+   "end": "313.800", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "wenn es nach uns geht, "
+   ]
+  }, 
+  {
+   "begin": "313.800", 
+   "children": [], 
+   "end": "316.000", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "zu einem echten Mietendeckel. "
+   ]
+  }, 
+  {
+   "begin": "316.000", 
+   "children": [], 
+   "end": "317.800", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin wirklich gespannt. "
+   ]
+  }, 
+  {
+   "begin": "317.800", 
+   "children": [], 
+   "end": "323.960", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Als Reaktion auf die Mieterdemo vom vergangenen Wochenende hat Katarina Barley, "
+   ]
+  }, 
+  {
+   "begin": "323.960", 
+   "children": [], 
+   "end": "324.480", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "SPD, "
+   ]
+  }, 
+  {
+   "begin": "324.480", 
+   "children": [], 
+   "end": "325.320", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "angek\u00fcndigt, "
+   ]
+  }, 
+  {
+   "begin": "325.320", 
+   "children": [], 
+   "end": "329.320", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "dass die Mietpreisbremse schnellstm\u00f6glich nachgebessert wird. "
+   ]
+  }, 
+  {
+   "begin": "329.320", 
+   "children": [], 
+   "end": "329.880", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Nun finde ich, "
+   ]
+  }, 
+  {
+   "begin": "329.880", 
+   "children": [], 
+   "end": "330.160", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "dass das, "
+   ]
+  }, 
+  {
+   "begin": "330.160", 
+   "children": [], 
+   "end": "331.800", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "was im Koalitionsvertrag steht, "
+   ]
+  }, 
+  {
+   "begin": "331.800", 
+   "children": [], 
+   "end": "334.520", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "bei weitem nicht ausreicht. "
+   ]
+  }, 
+  {
+   "begin": "334.520", 
+   "children": [], 
+   "end": "337.160", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Aber ich nehme das Signal wahr, "
+   ]
+  }, 
+  {
+   "begin": "337.160", 
+   "children": [], 
+   "end": "340.520", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "dass die neugew\u00e4hlte Justizministerin daf\u00fcr sorgen will, "
+   ]
+  }, 
+  {
+   "begin": "340.520", 
+   "children": [], 
+   "end": "344.840", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "dass die GroKo endlich aus ihrem wohnungspolitischen Winterschlaf erwacht. "
+   ]
+  }, 
+  {
+   "begin": "344.840", 
+   "children": [], 
+   "end": "346.880", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Der Mietenexperte der Union, "
+   ]
+  }, 
+  {
+   "begin": "346.880", 
+   "children": [], 
+   "end": "348.080", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Herr Luczak\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "348.080", 
+   "children": [], 
+   "end": "349.320", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "ich sehe ihn gerade gar nicht\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "349.320", 
+   "children": [], 
+   "end": "351.320", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "hatte jedoch nichts Besseres zu tun, "
+   ]
+  }, 
+  {
+   "begin": "351.320", 
+   "children": [], 
+   "end": "356.760", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "als ihr noch am gleichen Tag in die Parade zu fahren und alles infrage zu stellen, "
+   ]
+  }, 
+  {
+   "begin": "356.760", 
+   "children": [], 
+   "end": "360.200", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "was Sie noch vor ein paar Wochen im Koalitionsvertrag vereinbart haben. "
+   ]
+  }, 
+  {
+   "begin": "360.200", 
+   "children": [], 
+   "end": "361.280", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Ich muss sagen: "
+   ]
+  }, 
+  {
+   "begin": "361.280", 
+   "children": [], 
+   "end": "362.840", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Das ist wirklich ein starkes St\u00fcck. "
+   ]
+  }, 
+  {
+   "begin": "362.840", 
+   "children": [], 
+   "end": "366.960", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Dass die Union jemanden f\u00fcr das Mietrecht zust\u00e4ndig erkl\u00e4rt, "
+   ]
+  }, 
+  {
+   "begin": "366.960", 
+   "children": [], 
+   "end": "368.480", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "der offenbar den Auftrag hat, "
+   ]
+  }, 
+  {
+   "begin": "368.480", 
+   "children": [], 
+   "end": "372.560", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "jede Verbesserung zugunsten von Mieterinnen und Mietern h\u00f6chstpers\u00f6nlich zu verhindern, "
+   ]
+  }, 
+  {
+   "begin": "372.560", 
+   "children": [], 
+   "end": "374.720", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "das ist Heuchelei erster G\u00fcte. "
+   ]
+  }, 
+  {
+   "begin": "374.720", 
+   "children": [], 
+   "end": "376.600", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Das lassen wir Ihnen nicht durchgehen."
+   ]
+  }, 
+  {
+   "begin": "376.600", 
+   "children": [], 
+   "end": "379.840", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "379.840", 
+   "children": [], 
+   "end": "381.120", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "ich komme zum Schluss. "
+   ]
+  }, 
+  {
+   "begin": "381.120", 
+   "children": [], 
+   "end": "385.320", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Bei der Union hilft offenbar nur \u00f6ffentlicher Druck, "
+   ]
+  }, 
+  {
+   "begin": "385.320", 
+   "children": [], 
+   "end": "387.920", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "es hilft nur au\u00dferparlamentarischer Druck. "
+   ]
+  }, 
+  {
+   "begin": "387.920", 
+   "children": [], 
+   "end": "389.960", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ich mir eines w\u00fcnschen darf: "
+   ]
+  }, 
+  {
+   "begin": "389.960", 
+   "children": [], 
+   "end": "391.320", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "Ich hoffe wirklich, "
+   ]
+  }, 
+  {
+   "begin": "391.320", 
+   "children": [], 
+   "end": "395.760", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "dass es eine bundesweite Demo geben wird und dass wir zweimal, "
+   ]
+  }, 
+  {
+   "begin": "395.760", 
+   "children": [], 
+   "end": "399.720", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "dreimal oder viermal so viele Menschen sein werden. "
+   ]
+  }, 
+  {
+   "begin": "399.720", 
+   "children": [], 
+   "end": "401.120", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Dazu werde ich Sie, "
+   ]
+  }, 
+  {
+   "begin": "401.120", 
+   "children": [], 
+   "end": "402.000", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "Herr Wegner, "
+   ]
+  }, 
+  {
+   "begin": "402.000", 
+   "children": [], 
+   "end": "409.000", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "dann auch h\u00f6chstpers\u00f6nlich einladen."
+   ]
+  }, 
+  {
+   "begin": "409.000", 
+   "children": [], 
+   "end": "409.360", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "409.360", 
+   "children": [], 
+   "end": "413.000", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Abgeordnete Christian K\u00fchn f\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "children": [], 
+   "end": "8.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.960", 
+   "children": [], 
+   "end": "10.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "children": [], 
+   "end": "13.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen von der Partei Die Linke, "
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "children": [], 
+   "end": "16.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben uns mal wieder einen Bauchladenantrag vorgelegt. "
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "children": [], 
+   "end": "19.760", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Der Nachteil eines solchen Antrags ist, "
+   ]
+  }, 
+  {
+   "begin": "19.760", 
+   "children": [], 
+   "end": "22.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass er einen Bauchladen an Forderungen und Themen enth\u00e4lt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "22.200", 
+   "children": [], 
+   "end": "23.760", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "alle nur angerissen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "23.760", 
+   "children": [], 
+   "end": "26.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "die einzeln schon diskutiert wurden"
+   ]
+  }, 
+  {
+   "begin": "26.840", 
+   "children": [], 
+   "end": "28.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "oder noch diskutiert werden, "
+   ]
+  }, 
+  {
+   "begin": "28.240", 
+   "children": [], 
+   "end": "32.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "zusammengenommen allerdings noch lange kein Gesamtkonzept darstellen. "
+   ]
+  }, 
+  {
+   "begin": "32.880", 
+   "children": [], 
+   "end": "35.960", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Der Vorteil eines solchen Antrags ist, "
+   ]
+  }, 
+  {
+   "begin": "35.960", 
+   "children": [], 
+   "end": "38.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass man sich gut ein Thema herausgreifen kann. "
+   ]
+  }, 
+  {
+   "begin": "38.800", 
+   "children": [], 
+   "end": "39.880", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das m\u00f6chte ich tun."
+   ]
+  }, 
+  {
+   "begin": "39.880", 
+   "children": [], 
+   "end": "42.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das Thema hei\u00dft \u201eKinderarmut bek\u00e4mpfen\u201c, "
+   ]
+  }, 
+  {
+   "begin": "42.200", 
+   "children": [], 
+   "end": "44.040", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "weil ich es besch\u00e4mend finde, "
+   ]
+  }, 
+  {
+   "begin": "44.040", 
+   "children": [], 
+   "end": "49.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dass immer noch jedes siebte Kind in Deutschland in Armut gro\u00df wird."
+   ]
+  }, 
+  {
+   "begin": "49.200", 
+   "children": [], 
+   "end": "55.680", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen haben wir schon in der letzten Legislatur zahlreiche Ma\u00dfnahmen beschlossen: "
+   ]
+  }, 
+  {
+   "begin": "55.680", 
+   "children": [], 
+   "end": "57.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Investitionen in die Kitas, "
+   ]
+  }, 
+  {
+   "begin": "57.160", 
+   "children": [], 
+   "end": "58.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "in die Kommunen insgesamt, "
+   ]
+  }, 
+  {
+   "begin": "58.800", 
+   "children": [], 
+   "end": "60.920", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Erh\u00f6hung von Kindergeld und Kinderzuschlag, "
+   ]
+  }, 
+  {
+   "begin": "60.920", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitsmarktprogramm f\u00fcr Alleinerziehende, "
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Reform des Unterhaltsvorschusses. "
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "69.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "All das reicht aber definitiv noch nicht. "
+   ]
+  }, 
+  {
+   "begin": "69.640", 
+   "children": [], 
+   "end": "77.520", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen haben wir f\u00fcr diese Legislatur erneut ein Ma\u00dfnahmenpaket zur Bek\u00e4mpfung der Kinderarmut im Koalitionsvertrag beschlossen. "
+   ]
+  }, 
+  {
+   "begin": "77.520", 
+   "children": [], 
+   "end": "82.360", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen den Kinderzuschlag zusammen mit dem Kindergeld auf 399\u00a0Euro, "
+   ]
+  }, 
+  {
+   "begin": "82.360", 
+   "children": [], 
+   "end": "85.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "das sogenannte s\u00e4chliche Existenzminimum, "
+   ]
+  }, 
+  {
+   "begin": "85.280", 
+   "children": [], 
+   "end": "86.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "erh\u00f6hen. "
+   ]
+  }, 
+  {
+   "begin": "86.680", 
+   "children": [], 
+   "end": "87.680", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wichtig ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "87.680", 
+   "children": [], 
+   "end": "90.520", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "das ist schon gesagt worden\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "90.520", 
+   "children": [], 
+   "end": "94.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass wir dabei auch an den B\u00fcrokratieabbau denken; "
+   ]
+  }, 
+  {
+   "begin": "94.280", 
+   "children": [], 
+   "end": "98.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "denn bisher nehmen nur 30\u00a0Prozent der Eltern ihr Recht auf Kinderzuschlag wahr, "
+   ]
+  }, 
+  {
+   "begin": "98.760", 
+   "children": [], 
+   "end": "103.480", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und das ist eines sozialen Rechtsstaates unw\u00fcrdig."
+   ]
+  }, 
+  {
+   "begin": "103.480", 
+   "children": [], 
+   "end": "105.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen w\u00e4re es klug, "
+   ]
+  }, 
+  {
+   "begin": "105.080", 
+   "children": [], 
+   "end": "109.800", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "den Kinderzuschlag gemeinsam mit dem Kindergeld auszuzahlen. "
+   ]
+  }, 
+  {
+   "begin": "109.800", 
+   "children": [], 
+   "end": "111.640", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Dann kann das nicht mehr passieren. "
+   ]
+  }, 
+  {
+   "begin": "111.640", 
+   "children": [], 
+   "end": "114.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Insgesamt wollen wir uns darum bem\u00fchen, "
+   ]
+  }, 
+  {
+   "begin": "114.240", 
+   "children": [], 
+   "end": "118.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die Beantragung sozialer Leistungen zu vereinfachen."
+   ]
+  }, 
+  {
+   "begin": "118.440", 
+   "children": [], 
+   "end": "121.360", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Ein weiterer Baustein, "
+   ]
+  }, 
+  {
+   "begin": "121.360", 
+   "children": [], 
+   "end": "123.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "um den Menschen das Leben leichter zu machen, "
+   ]
+  }, 
+  {
+   "begin": "123.520", 
+   "children": [], 
+   "end": "123.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "ist es, "
+   ]
+  }, 
+  {
+   "begin": "123.840", 
+   "children": [], 
+   "end": "132.560", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "den Eigenanteil beim Mittagessen in Kitas und Schulen f\u00fcr einkommensschwache Kinder abzuschaffen und die Sch\u00fclerbef\u00f6rderung kostenlos zu gestalten."
+   ]
+  }, 
+  {
+   "begin": "132.560", 
+   "children": [], 
+   "end": "136.840", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Allein f\u00fcr das Mittagessen fallen 20\u00a0Euro im Monat an, "
+   ]
+  }, 
+  {
+   "begin": "136.840", 
+   "children": [], 
+   "end": "139.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und f\u00fcr die Sch\u00fclerbef\u00f6rderung kommen 5\u00a0Euro obendrauf. "
+   ]
+  }, 
+  {
+   "begin": "139.760", 
+   "children": [], 
+   "end": "142.360", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "25\u00a0Euro sind f\u00fcr diese Familien nicht wenig Geld."
+   ]
+  }, 
+  {
+   "begin": "142.360", 
+   "children": [], 
+   "end": "147.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden die Mittel f\u00fcr das Schulstarterpaket f\u00fcr arme Kinder, "
+   ]
+  }, 
+  {
+   "begin": "147.760", 
+   "children": [], 
+   "end": "152.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "das f\u00fcr Ranzen und Material zu Schuljahresbeginn gedacht ist, "
+   ]
+  }, 
+  {
+   "begin": "152.240", 
+   "children": [], 
+   "end": "153.320", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "aufstocken. "
+   ]
+  }, 
+  {
+   "begin": "153.320", 
+   "children": [], 
+   "end": "154.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Bisher erh\u00e4lt man 100\u00a0Euro. "
+   ]
+  }, 
+  {
+   "begin": "154.960", 
+   "children": [], 
+   "end": "159.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Der Kinderschutzbund erwartet 214\u00a0Euro. "
+   ]
+  }, 
+  {
+   "begin": "159.040", 
+   "children": [], 
+   "end": "160.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber die H\u00f6he werden wir noch diskutieren. "
+   ]
+  }, 
+  {
+   "begin": "160.880", 
+   "children": [], 
+   "end": "161.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Ich hoffe, "
+   ]
+  }, 
+  {
+   "begin": "161.240", 
+   "children": [], 
+   "end": "163.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass wir zu einem guten Ergebnis kommen."
+   ]
+  }, 
+  {
+   "begin": "163.760", 
+   "children": [], 
+   "end": "169.320", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ganz besonders wichtig am Koalitionsvertrag ist mir der Punkt, "
+   ]
+  }, 
+  {
+   "begin": "169.320", 
+   "children": [], 
+   "end": "173.480", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "in dem es um die Nachhilfe f\u00fcr arme Kinder geht. "
+   ]
+  }, 
+  {
+   "begin": "173.480", 
+   "children": [], 
+   "end": "175.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Gerade arme Kinder haben es schwerer, "
+   ]
+  }, 
+  {
+   "begin": "175.520", 
+   "children": [], 
+   "end": "178.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "aufzusteigen und ihr Potenzial zu entfalten. "
+   ]
+  }, 
+  {
+   "begin": "178.400", 
+   "children": [], 
+   "end": "179.480", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Bisher war es so, "
+   ]
+  }, 
+  {
+   "begin": "179.480", 
+   "children": [], 
+   "end": "181.720", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass sie nur dann ein Recht auf Nachhilfe hatten, "
+   ]
+  }, 
+  {
+   "begin": "181.720", 
+   "children": [], 
+   "end": "182.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie davon bedroht waren, "
+   ]
+  }, 
+  {
+   "begin": "182.920", 
+   "children": [], 
+   "end": "184.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "sitzen zu bleiben. "
+   ]
+  }, 
+  {
+   "begin": "184.120", 
+   "children": [], 
+   "end": "185.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt haben sie die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "185.880", 
+   "children": [], 
+   "end": "187.040", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "auch dann unterst\u00fctzt zu werden, "
+   ]
+  }, 
+  {
+   "begin": "187.040", 
+   "children": [], 
+   "end": "188.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie von der Haupt- "
+   ]
+  }, 
+  {
+   "begin": "188.080", 
+   "children": [], 
+   "end": "192.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "auf die Realschule oder auf das Gymnasium wechseln wollen. "
+   ]
+  }, 
+  {
+   "begin": "192.080", 
+   "children": [], 
+   "end": "193.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein kleiner, "
+   ]
+  }, 
+  {
+   "begin": "193.440", 
+   "children": [], 
+   "end": "195.240", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "aber ganz wichtiger Punkt, "
+   ]
+  }, 
+  {
+   "begin": "195.240", 
+   "children": [], 
+   "end": "198.280", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "der uns im Koalitionsvertrag gelungen ist."
+   ]
+  }, 
+  {
+   "begin": "198.280", 
+   "children": [], 
+   "end": "199.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Hinzu kommen: "
+   ]
+  }, 
+  {
+   "begin": "199.480", 
+   "children": [], 
+   "end": "202.840", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ausbau und Qualit\u00e4tsverbesserungen im Bereich der Kinderbetreuung, "
+   ]
+  }, 
+  {
+   "begin": "202.840", 
+   "children": [], 
+   "end": "205.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Abbau der Kitageb\u00fchren bis zur Geb\u00fchrenfreiheit, "
+   ]
+  }, 
+  {
+   "begin": "205.400", 
+   "children": [], 
+   "end": "215.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Rechtsanspruch auf Ganztagsbetreuung in der Grundschule und viele Ma\u00dfnahmen wie der hier schon vielzitierte soziale Arbeitsmarkt zur Bek\u00e4mpfung der Elternarmut. "
+   ]
+  }, 
+  {
+   "begin": "215.800", 
+   "children": [], 
+   "end": "218.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Aber das reicht immer noch nicht. "
+   ]
+  }, 
+  {
+   "begin": "218.760", 
+   "children": [], 
+   "end": "220.960", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen werde ich mich weiter daf\u00fcr einsetzen, "
+   ]
+  }, 
+  {
+   "begin": "220.960", 
+   "children": [], 
+   "end": "223.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "perspektivisch zu einer Kindergrundsicherung zu kommen, "
+   ]
+  }, 
+  {
+   "begin": "223.440", 
+   "children": [], 
+   "end": "226.240", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die ein einheitliches kindliches Existenzminimum, "
+   ]
+  }, 
+  {
+   "begin": "226.240", 
+   "children": [], 
+   "end": "227.480", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "und zwar f\u00fcr alle Kinder, "
+   ]
+  }, 
+  {
+   "begin": "227.480", 
+   "children": [], 
+   "end": "228.080", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "garantiert."
+   ]
+  }, 
+  {
+   "begin": "228.080", 
+   "children": [], 
+   "end": "233.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Niemand darf wegen seiner Kinder arm werden. "
+   ]
+  }, 
+  {
+   "begin": "233.480", 
+   "children": [], 
+   "end": "236.200", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Jedes Kind muss uns gleich viel wert sein. "
+   ]
+  }, 
+  {
+   "begin": "236.200", 
+   "children": [], 
+   "end": "242.800", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Jedes Kind muss in einem der reichsten L\u00e4nder der Welt gute und gleiche Startchancen in sein Leben haben. "
+   ]
+  }, 
+  {
+   "begin": "242.800", 
+   "children": [], 
+   "end": "246.680", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Kein Kind ist f\u00fcr seine soziale Lage selbst verantwortlich. "
+   ]
+  }, 
+  {
+   "begin": "246.680", 
+   "children": [], 
+   "end": "250.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Kein Kind kann sich allein aus seiner Armut befreien. "
+   ]
+  }, 
+  {
+   "begin": "250.360", 
+   "children": [], 
+   "end": "252.480", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Die meisten von Ihnen wissen aus vielen Debatten, "
+   ]
+  }, 
+  {
+   "begin": "252.480", 
+   "children": [], 
+   "end": "254.040", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Anh\u00f6rungen und Studien, "
+   ]
+  }, 
+  {
+   "begin": "254.040", 
+   "children": [], 
+   "end": "255.600", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "was Armut mit Kindern macht: "
+   ]
+  }, 
+  {
+   "begin": "255.600", 
+   "children": [], 
+   "end": "259.360", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben schlechtere Entwicklungschancen und \u00f6fter gesundheitliche Probleme, "
+   ]
+  }, 
+  {
+   "begin": "259.360", 
+   "children": [], 
+   "end": "262.320", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "und sie werden mit der Erfahrung sozialer Ausgrenzung gro\u00df. "
+   ]
+  }, 
+  {
+   "begin": "262.320", 
+   "children": [], 
+   "end": "267.440", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb haben wir hier eine ganz besonders gro\u00dfe \u00f6ffentliche Verantwortung."
+   ]
+  }, 
+  {
+   "begin": "267.440", 
+   "children": [], 
+   "end": "270.520", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Winston Churchill hat gesagt:"
+   ]
+  }, 
+  {
+   "begin": "270.520", 
+   "children": [], 
+   "end": "272.800", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Eine Gemeinde kann ihr Geld nicht besser anlegen, "
+   ]
+  }, 
+  {
+   "begin": "272.800", 
+   "children": [], 
+   "end": "275.920", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "als indem sie Geld in Babys steckt."
+   ]
+  }, 
+  {
+   "begin": "275.920", 
+   "children": [], 
+   "end": "280.520", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns aus der Gemeinde Deutschland und aus den Babys Kinder und Jugendliche machen, "
+   ]
+  }, 
+  {
+   "begin": "280.520", 
+   "children": [], 
+   "end": "281.200", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "und wir wissen: "
+   ]
+  }, 
+  {
+   "begin": "281.200", 
+   "children": [], 
+   "end": "283.440", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Eine bessere Geldanlage gibt es nicht."
+   ]
+  }, 
+  {
+   "begin": "283.440", 
+   "children": [], 
+   "end": "294.000", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat die Kollegin Sabine Zimmermann f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,864 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "14.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "14.040", 
+   "children": [], 
+   "end": "21.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "21.400", 
+   "children": [], 
+   "end": "25.240", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir beraten heute einen Antrag, "
+   ]
+  }, 
+  {
+   "begin": "25.240", 
+   "children": [], 
+   "end": "29.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "der ein zentrales Anliegen der AfD seit ihrer Gr\u00fcndung enth\u00e4lt, "
+   ]
+  }, 
+  {
+   "begin": "29.120", 
+   "children": [], 
+   "end": "32.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die Einf\u00fchrung direkter Demokratie auf Bundesebene. "
+   ]
+  }, 
+  {
+   "begin": "32.800", 
+   "children": [], 
+   "end": "35.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Aber nicht nur der AfD ist dieses Thema wichtig. "
+   ]
+  }, 
+  {
+   "begin": "35.440", 
+   "children": [], 
+   "end": "37.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wie Umfragen seit Jahren belegen, "
+   ]
+  }, 
+  {
+   "begin": "37.280", 
+   "children": [], 
+   "end": "43.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "spricht sich eine \u00fcberw\u00e4ltigende Mehrheit der Deutschen f\u00fcr die Einf\u00fchrung bundesweiter Volksabstimmungen aus."
+   ]
+  }, 
+  {
+   "begin": "43.240", 
+   "children": [], 
+   "end": "43.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Dahinter steht der Wunsch, "
+   ]
+  }, 
+  {
+   "begin": "43.840", 
+   "children": [], 
+   "end": "50.720", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur alle vier Jahre seine Stimme bei Wahlen abzugeben, "
+   ]
+  }, 
+  {
+   "begin": "50.720", 
+   "children": [], 
+   "end": "55.440", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "sondern bei wichtigen politischen Fragen in der Sache mitbestimmen zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "55.440", 
+   "children": [], 
+   "end": "56.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Auf Kommunal- "
+   ]
+  }, 
+  {
+   "begin": "56.800", 
+   "children": [], 
+   "end": "62.680", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und Landesebene hat es seit den 90er-Jahren einen wahren Boom der direkten Demokratie gegeben. "
+   ]
+  }, 
+  {
+   "begin": "62.680", 
+   "children": [], 
+   "end": "67.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "In den Verfassungen aller Bundesl\u00e4nder ist die Volksgesetzgebung mittlerweile verankert, "
+   ]
+  }, 
+  {
+   "begin": "67.000", 
+   "children": [], 
+   "end": "70.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wenn auch sicherlich die Regelungen in vielen L\u00e4ndern verbesserungsw\u00fcrdig sind. "
+   ]
+  }, 
+  {
+   "begin": "70.960", 
+   "children": [], 
+   "end": "75.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Und in den Kommunen stehen bundesweit B\u00fcrgerbegehren und B\u00fcrgerentscheide zur Verf\u00fcgung."
+   ]
+  }, 
+  {
+   "begin": "75.120", 
+   "children": [], 
+   "end": "77.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Lediglich auf Bundesebene, "
+   ]
+  }, 
+  {
+   "begin": "77.200", 
+   "children": [], 
+   "end": "77.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "gerade dort, "
+   ]
+  }, 
+  {
+   "begin": "77.840", 
+   "children": [], 
+   "end": "80.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wo die Schicksalsfragen der Nation entschieden werden, "
+   ]
+  }, 
+  {
+   "begin": "80.520", 
+   "children": [], 
+   "end": "84.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "ist den B\u00fcrgern die konkrete Mitbestimmung bis heute verwehrt. "
+   ]
+  }, 
+  {
+   "begin": "84.000", 
+   "children": [], 
+   "end": "87.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Weder wurden die Deutschen zur Einf\u00fchrung des Euro befragt, "
+   ]
+  }, 
+  {
+   "begin": "87.040", 
+   "children": [], 
+   "end": "97.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "noch hat jemals eine Volksabstimmung bei der Abgabe von nationaler Souver\u00e4nit\u00e4t an die Europ\u00e4ische Union stattgefunden."
+   ]
+  }, 
+  {
+   "begin": "97.480", 
+   "children": [], 
+   "end": "100.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Dies steht im Gegensatz zu vielen anderen europ\u00e4ischen L\u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "100.320", 
+   "children": [], 
+   "end": "106.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "in denen Elemente direkter Demokratie auf nationaler Ebene zum festen Bestandteil des politischen Systems geh\u00f6ren. "
+   ]
+  }, 
+  {
+   "begin": "106.360", 
+   "children": [], 
+   "end": "109.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das deutsche Staatsvolk ist aber nicht weniger m\u00fcndig als das schweizerische, "
+   ]
+  }, 
+  {
+   "begin": "109.720", 
+   "children": [], 
+   "end": "112.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "das irische oder das d\u00e4nische."
+   ]
+  }, 
+  {
+   "begin": "112.840", 
+   "children": [], 
+   "end": "114.880", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Um es an dieser Stelle klarzustellen: "
+   ]
+  }, 
+  {
+   "begin": "114.880", 
+   "children": [], 
+   "end": "116.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Es geht nicht darum, "
+   ]
+  }, 
+  {
+   "begin": "116.200", 
+   "children": [], 
+   "end": "120.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die repr\u00e4sentative Demokratie durch direkte Demokratie zu ersetzen. "
+   ]
+  }, 
+  {
+   "begin": "120.640", 
+   "children": [], 
+   "end": "124.880", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Direkte Demokratie soll vielmehr die repr\u00e4sentative sinnvoll erg\u00e4nzen. "
+   ]
+  }, 
+  {
+   "begin": "124.880", 
+   "children": [], 
+   "end": "127.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Dass eine solche Erg\u00e4nzung positive Effekte erzielt, "
+   ]
+  }, 
+  {
+   "begin": "127.800", 
+   "children": [], 
+   "end": "130.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "zeigen international vergleichende Untersuchungen. "
+   ]
+  }, 
+  {
+   "begin": "130.600", 
+   "children": [], 
+   "end": "136.360", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Direkte Demokratie f\u00fchrt zu einer besseren Informiertheit der B\u00fcrger \u00fcber politische Sachverhalte. "
+   ]
+  }, 
+  {
+   "begin": "136.360", 
+   "children": [], 
+   "end": "137.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Dies ist auch einsichtig; "
+   ]
+  }, 
+  {
+   "begin": "137.840", 
+   "children": [], 
+   "end": "138.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wer wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "138.440", 
+   "children": [], 
+   "end": "141.240", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass er bei einer konkreten Frage mitbestimmen kann, "
+   ]
+  }, 
+  {
+   "begin": "141.240", 
+   "children": [], 
+   "end": "142.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dessen Bereitschaft ist deutlich erh\u00f6ht, "
+   ]
+  }, 
+  {
+   "begin": "142.840", 
+   "children": [], 
+   "end": "145.800", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "sich \u00fcber die Thematik umfangreich zu informieren. "
+   ]
+  }, 
+  {
+   "begin": "145.800", 
+   "children": [], 
+   "end": "150.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Direkte Demokratie st\u00e4rkt die generelle Identifikation der B\u00fcrger mit dem Gemeinwesen. "
+   ]
+  }, 
+  {
+   "begin": "150.240", 
+   "children": [], 
+   "end": "150.440", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Und, "
+   ]
+  }, 
+  {
+   "begin": "150.440", 
+   "children": [], 
+   "end": "151.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "nicht zuletzt: "
+   ]
+  }, 
+  {
+   "begin": "151.400", 
+   "children": [], 
+   "end": "162.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Direktdemokratische Verfahren f\u00fchren zu einer h\u00f6heren Akzeptanz der konkret getroffenen Entscheidung."
+   ]
+  }, 
+  {
+   "begin": "162.040", 
+   "children": [], 
+   "end": "166.240", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir als AfD fordern Volksabstimmungen im Wesentlichen in drei Konstellationen:"
+   ]
+  }, 
+  {
+   "begin": "166.240", 
+   "children": [], 
+   "end": "167.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "167.240", 
+   "children": [], 
+   "end": "176.760", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ohne Zustimmung des Volkes darf es keine \u00c4nderung des Grundgesetzes und keine Abgabe nationaler Souver\u00e4nit\u00e4t an die Europ\u00e4ische Union oder andere internationale Organisationen geben."
+   ]
+  }, 
+  {
+   "begin": "176.760", 
+   "children": [], 
+   "end": "176.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "176.800", 
+   "children": [], 
+   "end": "184.280", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Es muss f\u00fcr die B\u00fcrger die M\u00f6glichkeit geben, "
+   ]
+  }, 
+  {
+   "begin": "184.280", 
+   "children": [], 
+   "end": "187.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber vom Parlament beschlossene Gesetze eine Abstimmung herbeizuf\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "187.640", 
+   "children": [], 
+   "end": "194.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Dieses sogenannte fakultative Referendum hat sich speziell in der Schweiz als Vetorecht der B\u00fcrger bew\u00e4hrt."
+   ]
+  }, 
+  {
+   "begin": "194.240", 
+   "children": [], 
+   "end": "195.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "195.040", 
+   "children": [], 
+   "end": "197.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Die B\u00fcrger sollten auch die M\u00f6glichkeit haben, "
+   ]
+  }, 
+  {
+   "begin": "197.080", 
+   "children": [], 
+   "end": "201.000", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "eigene Gesetzesinitiativen auf Bundesebene einzureichen."
+   ]
+  }, 
+  {
+   "begin": "201.000", 
+   "children": [], 
+   "end": "204.600", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die neue Bundesregierung hat nun in ihrem Koalitionsvertrag angek\u00fcndigt, "
+   ]
+  }, 
+  {
+   "begin": "204.600", 
+   "children": [], 
+   "end": "207.200", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "man wolle eine Expertenkommission einsetzen, "
+   ]
+  }, 
+  {
+   "begin": "207.200", 
+   "children": [], 
+   "end": "207.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "207.600", 
+   "children": [], 
+   "end": "208.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Zitat\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "208.640", 
+   "children": [], 
+   "end": "210.600", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Vorschl\u00e4ge erarbeiten soll, "
+   ]
+  }, 
+  {
+   "begin": "210.600", 
+   "children": [], 
+   "end": "220.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "ob und in welcher Form unsere bew\u00e4hrte parlamentarisch-repr\u00e4sentative Demokratie durch weitere Elemente der B\u00fcrgerbeteiligung und direkter Demokratie erg\u00e4nzt werden kann."
+   ]
+  }, 
+  {
+   "begin": "220.840", 
+   "children": [], 
+   "end": "223.640", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Zun\u00e4chst ist hierzu positiv zu bemerken, "
+   ]
+  }, 
+  {
+   "begin": "223.640", 
+   "children": [], 
+   "end": "226.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass sich nun auch die CDU bei diesem Thema bewegt. "
+   ]
+  }, 
+  {
+   "begin": "226.680", 
+   "children": [], 
+   "end": "229.840", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Aber es kann doch bei einer Kommission nicht mehr um die Frage gehen, "
+   ]
+  }, 
+  {
+   "begin": "229.840", 
+   "children": [], 
+   "end": "232.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "ob wir direkte Demokratie auf Bundesebene brauchen. "
+   ]
+  }, 
+  {
+   "begin": "232.800", 
+   "children": [], 
+   "end": "234.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Es muss um die Frage gehen, "
+   ]
+  }, 
+  {
+   "begin": "234.000", 
+   "children": [], 
+   "end": "235.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wie wir sie ausgestalten wollen."
+   ]
+  }, 
+  {
+   "begin": "235.840", 
+   "children": [], 
+   "end": "243.160", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wie wichtig der Koalition bzw. "
+   ]
+  }, 
+  {
+   "begin": "243.160", 
+   "children": [], 
+   "end": "246.160", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "der Kanzlerin das Thema \u201edirekte Demokratie\u201c wirklich ist, "
+   ]
+  }, 
+  {
+   "begin": "246.160", 
+   "children": [], 
+   "end": "249.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "sah man dann sp\u00e4ter bei der Regierungserkl\u00e4rung hier im Bundestag. "
+   ]
+  }, 
+  {
+   "begin": "249.760", 
+   "children": [], 
+   "end": "256.080", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeskanzlerin stellte in ihrer 60-min\u00fctigen Erkl\u00e4rung die Vorhaben und Pl\u00e4ne der Regierung f\u00fcr die Legislaturperiode vor. "
+   ]
+  }, 
+  {
+   "begin": "256.080", 
+   "children": [], 
+   "end": "257.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Und was h\u00f6ren wir? "
+   ]
+  }, 
+  {
+   "begin": "257.400", 
+   "children": [], 
+   "end": "259.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Nicht ein Wort zu direkter Demokratie. "
+   ]
+  }, 
+  {
+   "begin": "259.960", 
+   "children": [], 
+   "end": "264.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Tage sp\u00e4ter gab der zust\u00e4ndige Bundesminister Horst Seehofer seine Erkl\u00e4rung ab. "
+   ]
+  }, 
+  {
+   "begin": "264.840", 
+   "children": [], 
+   "end": "265.480", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Auch hier\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "265.480", 
+   "children": [], 
+   "end": "266.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden es ahnen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "266.680", 
+   "children": [], 
+   "end": "269.360", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "nicht ein Wort zu direkter Demokratie. "
+   ]
+  }, 
+  {
+   "begin": "269.360", 
+   "children": [], 
+   "end": "276.720", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Alle bisherigen Gesetzentw\u00fcrfe zur Einf\u00fchrung direkter Demokratie auf Bundesebene sind an der erforderlichen Zweidrittelmehrheit gescheitert."
+   ]
+  }, 
+  {
+   "begin": "276.720", 
+   "children": [], 
+   "end": "280.880", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "In einer Enquete-Kommission k\u00f6nnen die Grundlagen f\u00fcr einen Gesetzentwurf erarbeitet werden, "
+   ]
+  }, 
+  {
+   "begin": "280.880", 
+   "children": [], 
+   "end": "283.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "der fraktions\u00fcbergreifend mehrheitsf\u00e4hig ist. "
+   ]
+  }, 
+  {
+   "begin": "283.440", 
+   "children": [], 
+   "end": "285.000", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Das muss das Ziel sein."
+   ]
+  }, 
+  {
+   "begin": "285.000", 
+   "children": [], 
+   "end": "291.920", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Zeigen Sie, "
+   ]
+  }, 
+  {
+   "begin": "291.920", 
+   "children": [], 
+   "end": "293.160", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie es ernst meinen, "
+   ]
+  }, 
+  {
+   "begin": "293.160", 
+   "children": [], 
+   "end": "296.920", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "und unterst\u00fctzen Sie unseren Antrag auf Einsetzung einer Enquete-Kommission! "
+   ]
+  }, 
+  {
+   "begin": "296.920", 
+   "children": [], 
+   "end": "299.400", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns dieses wichtige Thema gemeinsam angehen! "
+   ]
+  }, 
+  {
+   "begin": "299.400", 
+   "children": [], 
+   "end": "300.680", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind dazu bereit."
+   ]
+  }, 
+  {
+   "begin": "300.680", 
+   "children": [], 
+   "end": "301.280", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "301.280", 
+   "children": [], 
+   "end": "317.440", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin ist die Kollegin Andrea Lindholz, "
+   ]
+  }, 
+  {
+   "begin": "317.440", 
+   "children": [], 
+   "end": "319.000", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU."
+   ]
+  }
+ ]
+}

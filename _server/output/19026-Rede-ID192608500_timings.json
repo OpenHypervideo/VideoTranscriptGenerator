@@ -1,0 +1,1274 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "children": [], 
+   "end": "11.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.200", 
+   "children": [], 
+   "end": "14.240", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Kollegin Dagmar Schmidt hat Churchill zitiert. "
+   ]
+  }, 
+  {
+   "begin": "14.240", 
+   "children": [], 
+   "end": "18.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf mit einem Zitat von Abraham Lincoln anfangen, "
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "children": [], 
+   "end": "19.200", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "das besagt: "
+   ]
+  }, 
+  {
+   "begin": "19.200", 
+   "children": [], 
+   "end": "21.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "\u201eJedes Haus, "
+   ]
+  }, 
+  {
+   "begin": "21.160", 
+   "children": [], 
+   "end": "23.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "das in sich uneins ist, "
+   ]
+  }, 
+  {
+   "begin": "23.240", 
+   "children": [], 
+   "end": "26.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "wird nicht bestehen.\u201c Es ist richtig, "
+   ]
+  }, 
+  {
+   "begin": "26.240", 
+   "children": [], 
+   "end": "28.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass dies auch f\u00fcr die Frage von Einkommens- "
+   ]
+  }, 
+  {
+   "begin": "28.360", 
+   "children": [], 
+   "end": "30.640", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und Verm\u00f6gensverteilungen gilt, "
+   ]
+  }, 
+  {
+   "begin": "30.640", 
+   "children": [], 
+   "end": "33.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wenngleich ich hier f\u00fcr Alarmismus wenig Anlass sehe; "
+   ]
+  }, 
+  {
+   "begin": "33.480", 
+   "children": [], 
+   "end": "37.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "einige Vorredner sind darauf bereits eingegangen."
+   ]
+  }, 
+  {
+   "begin": "37.320", 
+   "children": [], 
+   "end": "44.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Lincoln macht aber auf den gro\u00dfen Wert gesellschaftlichen Zusammenhalts aufmerksam. "
+   ]
+  }, 
+  {
+   "begin": "44.080", 
+   "children": [], 
+   "end": "44.440", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "44.440", 
+   "children": [], 
+   "end": "48.800", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "dieser ist auch eine Quelle des Reichtums einer Gesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "48.800", 
+   "children": [], 
+   "end": "51.560", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Aber hier sind wir in der Tat verarmt. "
+   ]
+  }, 
+  {
+   "begin": "51.560", 
+   "children": [], 
+   "end": "53.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben eine Partei in unserer Mitte, "
+   ]
+  }, 
+  {
+   "begin": "53.280", 
+   "children": [], 
+   "end": "54.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "genauer gesagt am rechten Rand, "
+   ]
+  }, 
+  {
+   "begin": "54.520", 
+   "children": [], 
+   "end": "56.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die nicht das Gemeinsame, "
+   ]
+  }, 
+  {
+   "begin": "56.400", 
+   "children": [], 
+   "end": "58.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "den Reichtum beschw\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "58.160", 
+   "children": [], 
+   "end": "59.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "sondern das Trennende. "
+   ]
+  }, 
+  {
+   "begin": "59.640", 
+   "children": [], 
+   "end": "63.360", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Sie pflegen ein Denken in Freund-Feind-Kategorien. "
+   ]
+  }, 
+  {
+   "begin": "63.360", 
+   "children": [], 
+   "end": "65.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Populismus lebt davon, "
+   ]
+  }, 
+  {
+   "begin": "65.560", 
+   "children": [], 
+   "end": "71.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "sich selbst in einer Geste gegen den Pluralismus als das Allgemeine zu verkaufen."
+   ]
+  }, 
+  {
+   "begin": "71.360", 
+   "children": [], 
+   "end": "72.440", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Sie grenzen aus: "
+   ]
+  }, 
+  {
+   "begin": "72.440", 
+   "children": [], 
+   "end": "73.280", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ausl\u00e4nder, "
+   ]
+  }, 
+  {
+   "begin": "73.280", 
+   "children": [], 
+   "end": "74.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Deutsche falschen Glaubens, "
+   ]
+  }, 
+  {
+   "begin": "74.680", 
+   "children": [], 
+   "end": "75.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "den Feminismus, "
+   ]
+  }, 
+  {
+   "begin": "75.520", 
+   "children": [], 
+   "end": "77.000", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die Gutmenschen, "
+   ]
+  }, 
+  {
+   "begin": "77.000", 
+   "children": [], 
+   "end": "78.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Gewerkschafter, "
+   ]
+  }, 
+  {
+   "begin": "78.080", 
+   "children": [], 
+   "end": "79.680", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "LGBTI, "
+   ]
+  }, 
+  {
+   "begin": "79.680", 
+   "children": [], 
+   "end": "81.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "ja alles irgendwie Undeutsche. "
+   ]
+  }, 
+  {
+   "begin": "81.760", 
+   "children": [], 
+   "end": "83.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Richtig an dieser Ausgrenzung, "
+   ]
+  }, 
+  {
+   "begin": "83.320", 
+   "children": [], 
+   "end": "84.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "84.120", 
+   "children": [], 
+   "end": "85.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "ist nur eines: "
+   ]
+  }, 
+  {
+   "begin": "85.440", 
+   "children": [], 
+   "end": "98.440", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass jeder anst\u00e4ndige Demokrat in Deutschland diesen K\u00fcndern des inneren B\u00fcrgerkriegs den Kampf ansagen muss."
+   ]
+  }, 
+  {
+   "begin": "98.440", 
+   "children": [], 
+   "end": "101.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Arm ist Ihr Verst\u00e4ndnis von Kultur. "
+   ]
+  }, 
+  {
+   "begin": "101.800", 
+   "children": [], 
+   "end": "103.160", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Spricht man \u00fcber Bachmann, "
+   ]
+  }, 
+  {
+   "begin": "103.160", 
+   "children": [], 
+   "end": "105.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "denken Sie nicht an die Dichterin der leisen Worte, "
+   ]
+  }, 
+  {
+   "begin": "105.680", 
+   "children": [], 
+   "end": "109.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "sondern an den Lautsprecher aus der Unterwelt des Ostens,"
+   ]
+  }, 
+  {
+   "begin": "109.240", 
+   "children": [], 
+   "end": "113.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dessen R\u00fccksichtslosigkeit und Brutalit\u00e4t Sie bewundern. "
+   ]
+  }, 
+  {
+   "begin": "113.400", 
+   "children": [], 
+   "end": "114.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen sein wie er. "
+   ]
+  }, 
+  {
+   "begin": "114.680", 
+   "children": [], 
+   "end": "117.760", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "So stellen Sie sich die konservative Revolution vor: "
+   ]
+  }, 
+  {
+   "begin": "117.760", 
+   "children": [], 
+   "end": "118.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "kalt, "
+   ]
+  }, 
+  {
+   "begin": "118.240", 
+   "children": [], 
+   "end": "119.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "radikal, "
+   ]
+  }, 
+  {
+   "begin": "119.520", 
+   "children": [], 
+   "end": "120.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "ohne Mitleid."
+   ]
+  }, 
+  {
+   "begin": "120.600", 
+   "children": [], 
+   "end": "121.200", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Derjenige, "
+   ]
+  }, 
+  {
+   "begin": "121.200", 
+   "children": [], 
+   "end": "123.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "der es besser wissen m\u00fcsste, "
+   ]
+  }, 
+  {
+   "begin": "123.000", 
+   "children": [], 
+   "end": "128.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "der eigentlich Ma\u00df und Mitte als konservative Grundwahrheiten verteidigen m\u00fcsste, "
+   ]
+  }, 
+  {
+   "begin": "128.280", 
+   "children": [], 
+   "end": "129.000", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "der auch wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "129.000", 
+   "children": [], 
+   "end": "138.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wie Stil und Haltung als kultureller Reichtum eines Landes den wahren Konservativen immer gepr\u00e4gt und vom Barbaren abgegrenzt haben, "
+   ]
+  }, 
+  {
+   "begin": "138.560", 
+   "children": [], 
+   "end": "140.400", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "l\u00e4sst sie gew\u00e4hren. "
+   ]
+  }, 
+  {
+   "begin": "140.400", 
+   "children": [], 
+   "end": "144.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Er stilisiert sich dabei als den leisen Melancholiker, "
+   ]
+  }, 
+  {
+   "begin": "144.200", 
+   "children": [], 
+   "end": "147.960", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "als gealterten J\u00fcngling der nationalen Erneuerung."
+   ]
+  }, 
+  {
+   "begin": "147.960", 
+   "children": [], 
+   "end": "153.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Und doch denkt man hier weniger an Karl Gutzkow und Heinrich Heine, "
+   ]
+  }, 
+  {
+   "begin": "153.120", 
+   "children": [], 
+   "end": "164.360", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "sondern eher an Wolf Biermanns Ballade von den verdorbenen Greisen."
+   ]
+  }, 
+  {
+   "begin": "164.360", 
+   "children": [], 
+   "end": "165.560", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Die moralische Armut, "
+   ]
+  }, 
+  {
+   "begin": "165.560", 
+   "children": [], 
+   "end": "166.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "der Sie uns aussetzen, "
+   ]
+  }, 
+  {
+   "begin": "166.760", 
+   "children": [], 
+   "end": "167.480", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wird deutlich, "
+   ]
+  }, 
+  {
+   "begin": "167.480", 
+   "children": [], 
+   "end": "169.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie Ihren Fantasien freien Lauf lassen, "
+   ]
+  }, 
+  {
+   "begin": "169.960", 
+   "children": [], 
+   "end": "175.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie sogenannte \u201elinksextreme Lumpen\u201c von der Universit\u00e4t in die Produktion stecken wollen, "
+   ]
+  }, 
+  {
+   "begin": "175.360", 
+   "children": [], 
+   "end": "180.200", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie eine Staatsministerin f\u00fcr Integration in Anatolien entsorgen wollen, "
+   ]
+  }, 
+  {
+   "begin": "180.200", 
+   "children": [], 
+   "end": "183.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie von \u201eSchmarotzern\u201c und \u201eParasiten\u201c faseln, "
+   ]
+  }, 
+  {
+   "begin": "183.560", 
+   "children": [], 
+   "end": "185.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die das deutsche Volk verseuchen,"
+   ]
+  }, 
+  {
+   "begin": "185.680", 
+   "children": [], 
+   "end": "191.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie f\u00fcr die \u201egr\u00fcnen Bolschewisten\u201c eine \u201eGrube ausheben\u201c und darauf L\u00f6schkalk kippen wollen. "
+   ]
+  }, 
+  {
+   "begin": "191.960", 
+   "children": [], 
+   "end": "192.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "192.600", 
+   "children": [], 
+   "end": "195.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "diesen Hass kann man nicht erfinden. "
+   ]
+  }, 
+  {
+   "begin": "195.720", 
+   "children": [], 
+   "end": "197.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Man kann ihn nicht ignorieren. "
+   ]
+  }, 
+  {
+   "begin": "197.720", 
+   "children": [], 
+   "end": "202.360", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Sie fluten uns tagt\u00e4glich mithilfe Ihrer digitalen Schwadronen damit."
+   ]
+  }, 
+  {
+   "begin": "202.360", 
+   "children": [], 
+   "end": "203.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Mit einem Mal, "
+   ]
+  }, 
+  {
+   "begin": "203.120", 
+   "children": [], 
+   "end": "203.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "203.760", 
+   "children": [], 
+   "end": "212.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "wird klar, "
+   ]
+  }, 
+  {
+   "begin": "212.160", 
+   "children": [], 
+   "end": "214.640", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "was Karl Kraus meinte: "
+   ]
+  }, 
+  {
+   "begin": "214.640", 
+   "children": [], 
+   "end": "216.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDas Wort entschlief, "
+   ]
+  }, 
+  {
+   "begin": "216.560", 
+   "children": [], 
+   "end": "220.480", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "als jene Welt erwachte.\u201c Jedes Tabu wird gebrochen, "
+   ]
+  }, 
+  {
+   "begin": "220.480", 
+   "children": [], 
+   "end": "221.480", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "bis man glaubt, "
+   ]
+  }, 
+  {
+   "begin": "221.480", 
+   "children": [], 
+   "end": "223.600", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnten es nicht ernst meinen. "
+   ]
+  }, 
+  {
+   "begin": "223.600", 
+   "children": [], 
+   "end": "225.720", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Und doch ist es Ihnen todernst mit dem, "
+   ]
+  }, 
+  {
+   "begin": "225.720", 
+   "children": [], 
+   "end": "227.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "was Sie wollen. "
+   ]
+  }, 
+  {
+   "begin": "227.040", 
+   "children": [], 
+   "end": "229.720", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Todernst ist keine Phrase. "
+   ]
+  }, 
+  {
+   "begin": "229.720", 
+   "children": [], 
+   "end": "230.400", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Man ahnt, "
+   ]
+  }, 
+  {
+   "begin": "230.400", 
+   "children": [], 
+   "end": "230.840", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "was wird, "
+   ]
+  }, 
+  {
+   "begin": "230.840", 
+   "children": [], 
+   "end": "234.200", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "wenn es zu einem Wettlauf von Wort und Tat kommt. "
+   ]
+  }, 
+  {
+   "begin": "234.200", 
+   "children": [], 
+   "end": "237.160", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Hinter Ihrer Rede steckt der Wille zur Tat; "
+   ]
+  }, 
+  {
+   "begin": "237.160", 
+   "children": [], 
+   "end": "237.560", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "der Wille, "
+   ]
+  }, 
+  {
+   "begin": "237.560", 
+   "children": [], 
+   "end": "241.200", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "das Denken in Lagern zur blutigen Wirklichkeit werden zu lassen."
+   ]
+  }, 
+  {
+   "begin": "241.200", 
+   "children": [], 
+   "end": "242.880", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "242.880", 
+   "children": [], 
+   "end": "247.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie uns im Deutschen Bundestag \u00fcber Arm und Reich diskutieren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "247.240", 
+   "children": [], 
+   "end": "247.680", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die, "
+   ]
+  }, 
+  {
+   "begin": "247.680", 
+   "children": [], 
+   "end": "249.880", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "die lediglich reich an Hass und H\u00e4me sind, "
+   ]
+  }, 
+  {
+   "begin": "249.880", 
+   "children": [], 
+   "end": "252.560", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "arm aber an b\u00fcrgerlichen Tugenden. "
+   ]
+  }, 
+  {
+   "begin": "252.560", 
+   "children": [], 
+   "end": "254.040", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns \u00fcber die reden, "
+   ]
+  }, 
+  {
+   "begin": "254.040", 
+   "children": [], 
+   "end": "256.520", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "die den Deutschen gegen den Ausl\u00e4nder, "
+   ]
+  }, 
+  {
+   "begin": "256.520", 
+   "children": [], 
+   "end": "257.960", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "den Christen gegen den Moslem, "
+   ]
+  }, 
+  {
+   "begin": "257.960", 
+   "children": [], 
+   "end": "259.520", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "den Armen gegen den Reichen, "
+   ]
+  }, 
+  {
+   "begin": "259.520", 
+   "children": [], 
+   "end": "266.480", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "die Jungen gegen die Alten und alle gegen unseren Staat und unsere Grundwerte aufzuhetzen versuchen. "
+   ]
+  }, 
+  {
+   "begin": "266.480", 
+   "children": [], 
+   "end": "267.680", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns dar\u00fcber reden, "
+   ]
+  }, 
+  {
+   "begin": "267.680", 
+   "children": [], 
+   "end": "270.480", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "was eine offene Gesellschaft auszeichnet, "
+   ]
+  }, 
+  {
+   "begin": "270.480", 
+   "children": [], 
+   "end": "274.320", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "welche Formen der affektiven Selbstkontrolle, "
+   ]
+  }, 
+  {
+   "begin": "274.320", 
+   "children": [], 
+   "end": "279.480", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Haltung und Werteorientierung mit dem Begriff des Konservativen einhergehen. "
+   ]
+  }, 
+  {
+   "begin": "279.480", 
+   "children": [], 
+   "end": "281.120", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns die gute Ordnung, "
+   ]
+  }, 
+  {
+   "begin": "281.120", 
+   "children": [], 
+   "end": "283.560", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die zumindest ich k\u00e4mpfe, "
+   ]
+  }, 
+  {
+   "begin": "283.560", 
+   "children": [], 
+   "end": "285.760", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "mit der Zumutung vergleichen, "
+   ]
+  }, 
+  {
+   "begin": "285.760", 
+   "children": [], 
+   "end": "288.720", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "die von der rechten Seite des Hauses ausgeht."
+   ]
+  }, 
+  {
+   "begin": "288.720", 
+   "children": [], 
+   "end": "290.000", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Lassen wir nicht zu, "
+   ]
+  }, 
+  {
+   "begin": "290.000", 
+   "children": [], 
+   "end": "292.480", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "dass das Deutsche auf Missgunst, "
+   ]
+  }, 
+  {
+   "begin": "292.480", 
+   "children": [], 
+   "end": "295.600", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Ausgrenzung und Menschenfeindlichkeit reduziert wird. "
+   ]
+  }, 
+  {
+   "begin": "295.600", 
+   "children": [], 
+   "end": "298.480", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns stattdessen \u00fcber ein Deutschland reden, "
+   ]
+  }, 
+  {
+   "begin": "298.480", 
+   "children": [], 
+   "end": "299.520", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "wie ich es sehe: "
+   ]
+  }, 
+  {
+   "begin": "299.520", 
+   "children": [], 
+   "end": "300.720", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "weltoffen, "
+   ]
+  }, 
+  {
+   "begin": "300.720", 
+   "children": [], 
+   "end": "302.040", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "europ\u00e4isch, "
+   ]
+  }, 
+  {
+   "begin": "302.040", 
+   "children": [], 
+   "end": "303.400", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "ein Ort der Chancen, "
+   ]
+  }, 
+  {
+   "begin": "303.400", 
+   "children": [], 
+   "end": "305.840", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "ein Ort der Kultur und des Miteinanders, "
+   ]
+  }, 
+  {
+   "begin": "305.840", 
+   "children": [], 
+   "end": "307.160", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "ein Land, "
+   ]
+  }, 
+  {
+   "begin": "307.160", 
+   "children": [], 
+   "end": "313.680", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "dessen Reichtum genau darin liegt und dessen Armut in einer Geisteshaltung gr\u00fcndet, "
+   ]
+  }, 
+  {
+   "begin": "313.680", 
+   "children": [], 
+   "end": "317.920", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "wie sie von der rechten Seite mit geradezu v\u00f6lkischer Inbrunst vertreten wird."
+   ]
+  }, 
+  {
+   "begin": "317.920", 
+   "children": [], 
+   "end": "321.280", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Schon einmal hat uns diese Denkweise ins Verderben gest\u00fcrzt. "
+   ]
+  }, 
+  {
+   "begin": "321.280", 
+   "children": [], 
+   "end": "328.240", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Schon einmal ist aus Hass Ausgrenzung und Hetze,"
+   ]
+  }, 
+  {
+   "begin": "328.240", 
+   "children": [], 
+   "end": "329.840", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "aus der Armut des Geistes"
+   ]
+  }, 
+  {
+   "begin": "329.840", 
+   "children": [], 
+   "end": "332.800", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "bittere materielle Armut f\u00fcr das deutsche Volk geworden. "
+   ]
+  }, 
+  {
+   "begin": "332.800", 
+   "children": [], 
+   "end": "332.880", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Nie wieder! "
+   ]
+  }, 
+  {
+   "begin": "332.880", 
+   "children": [], 
+   "end": "333.400", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Nie wieder!"
+   ]
+  }, 
+  {
+   "begin": "333.400", 
+   "children": [], 
+   "end": "336.640", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe die Aussprache zu diesem Tagesordnungspunkt."
+   ]
+  }, 
+  {
+   "begin": "336.640", 
+   "children": [], 
+   "end": "350.600", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/1687 an den Ausschuss f\u00fcr Arbeit und Soziales vorgeschlagen. "
+   ]
+  }, 
+  {
+   "begin": "350.600", 
+   "children": [], 
+   "end": "350.880", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Sind Sie damit einverstanden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "350.880", 
+   "children": [], 
+   "end": "351.200", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Fall. "
+   ]
+  }, 
+  {
+   "begin": "351.200", 
+   "children": [], 
+   "end": "352.000", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist die \u00dcberweisung so beschlossen."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "children": [], 
+   "end": "6.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "children": [], 
+   "end": "11.880", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Antrag der FDP ist meines Erachtens von gravierenden Widerspr\u00fcchen gekennzeichnet; "
+   ]
+  }, 
+  {
+   "begin": "11.880", 
+   "children": [], 
+   "end": "14.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "das ist schon angeklungen. "
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "children": [], 
+   "end": "21.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Einerseits wird ein dickes Bekenntnis zu Vertr\u00e4gen mit Schiedsklauseln abgegeben. "
+   ]
+  }, 
+  {
+   "begin": "21.400", 
+   "children": [], 
+   "end": "30.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Andererseits begr\u00fc\u00dfen Sie das Mandat zur Aufnahme von Verhandlungen \u00fcber einen Multilateralen Investitionsgerichtshof. "
+   ]
+  }, 
+  {
+   "begin": "30.200", 
+   "children": [], 
+   "end": "31.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Das ist, "
+   ]
+  }, 
+  {
+   "begin": "31.240", 
+   "children": [], 
+   "end": "31.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "denke ich, "
+   ]
+  }, 
+  {
+   "begin": "31.600", 
+   "children": [], 
+   "end": "33.000", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "ein Widerspruch in sich. "
+   ]
+  }, 
+  {
+   "begin": "33.000", 
+   "children": [], 
+   "end": "35.920", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Sie halten am Alten fest, "
+   ]
+  }, 
+  {
+   "begin": "35.920", 
+   "children": [], 
+   "end": "38.120", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wollen aber trotzdem etwas Neues."
+   ]
+  }, 
+  {
+   "begin": "38.120", 
+   "children": [], 
+   "end": "40.840", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Mir scheint es so zu sein, "
+   ]
+  }, 
+  {
+   "begin": "40.840", 
+   "children": [], 
+   "end": "44.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass nicht richtig durchdrungen wurde, "
+   ]
+  }, 
+  {
+   "begin": "44.440", 
+   "children": [], 
+   "end": "50.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "welche Z\u00e4sur das Achmea-Urteil des EuGH bedeutet. "
+   ]
+  }, 
+  {
+   "begin": "50.360", 
+   "children": [], 
+   "end": "52.400", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte darauf im Detail eingehen. "
+   ]
+  }, 
+  {
+   "begin": "52.400", 
+   "children": [], 
+   "end": "55.000", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Herr Heider hat gerade schon einiges dazu gesagt. "
+   ]
+  }, 
+  {
+   "begin": "55.000", 
+   "children": [], 
+   "end": "55.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ich meine aber, "
+   ]
+  }, 
+  {
+   "begin": "55.360", 
+   "children": [], 
+   "end": "57.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "man muss noch ein bisschen tiefer ins Detail gehen. "
+   ]
+  }, 
+  {
+   "begin": "57.360", 
+   "children": [], 
+   "end": "61.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Es ist von der Anwendung und Auslegung die Rede. "
+   ]
+  }, 
+  {
+   "begin": "61.360", 
+   "children": [], 
+   "end": "67.640", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Dabei geht es dem EuGH in seiner Begr\u00fcndung im Kern darum, "
+   ]
+  }, 
+  {
+   "begin": "67.640", 
+   "children": [], 
+   "end": "75.000", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass sowohl in der Anwendung als auch in der Auslegung von EU-Recht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "75.000", 
+   "children": [], 
+   "end": "76.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "das ist nie auszuschlie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "76.880", 
+   "children": [], 
+   "end": "80.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "wenn es um Investitionsschutzstreitigkeiten geht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "80.600", 
+   "children": [], 
+   "end": "90.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "niemand anderes als eine europ\u00e4ische \u00f6ffentlich-rechtliche Gerichtsbarkeit zu entscheiden hat."
+   ]
+  }, 
+  {
+   "begin": "90.240", 
+   "children": [], 
+   "end": "98.480", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es Investitionsschutz und eine Schiedsgerichtsbarkeit \u00fcber den Investitionsschutz gibt, "
+   ]
+  }, 
+  {
+   "begin": "98.480", 
+   "children": [], 
+   "end": "107.680", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "man europ\u00e4isches Recht auch nur streift und hierbei nicht das europ\u00e4ische Gericht als Instanz hat, "
+   ]
+  }, 
+  {
+   "begin": "107.680", 
+   "children": [], 
+   "end": "109.640", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "sondern eben die Schiedsgerichtsbarkeit, "
+   ]
+  }, 
+  {
+   "begin": "109.640", 
+   "children": [], 
+   "end": "113.880", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "so sieht der EuGH hierin eine Unzul\u00e4ssigkeit und einen Versto\u00df gegen EU-Recht. "
+   ]
+  }, 
+  {
+   "begin": "113.880", 
+   "children": [], 
+   "end": "114.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen denke ich, "
+   ]
+  }, 
+  {
+   "begin": "114.880", 
+   "children": [], 
+   "end": "116.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "das ist sehr wohl \u00fcbertragbar, "
+   ]
+  }, 
+  {
+   "begin": "116.000", 
+   "children": [], 
+   "end": "122.680", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "und zwar auf sehr viele andere Investitionsschutzvertr\u00e4ge und die darin enthaltenen Schiedsklauseln. "
+   ]
+  }, 
+  {
+   "begin": "122.680", 
+   "children": [], 
+   "end": "124.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das ist \u00f6fter der Fall, "
+   ]
+  }, 
+  {
+   "begin": "124.120", 
+   "children": [], 
+   "end": "129.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "als wir uns momentan vor Augen f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "129.320", 
+   "children": [], 
+   "end": "131.000", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Insofern ist auch die Sorge, "
+   ]
+  }, 
+  {
+   "begin": "131.000", 
+   "children": [], 
+   "end": "131.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die Sie, "
+   ]
+  }, 
+  {
+   "begin": "131.520", 
+   "children": [], 
+   "end": "133.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Herr Heider, "
+   ]
+  }, 
+  {
+   "begin": "133.200", 
+   "children": [], 
+   "end": "134.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "zum Ausdruck gebracht haben, "
+   ]
+  }, 
+  {
+   "begin": "134.920", 
+   "children": [], 
+   "end": "141.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass man jetzt alles im Detail \u00fcberpr\u00fcfen und wahrscheinlich zu einer Neuordnung kommen muss, "
+   ]
+  }, 
+  {
+   "begin": "141.440", 
+   "children": [], 
+   "end": "141.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "schon berechtigt."
+   ]
+  }, 
+  {
+   "begin": "141.960", 
+   "children": [], 
+   "end": "146.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte kurz etwas zu dieser Neuordnung sagen. "
+   ]
+  }, 
+  {
+   "begin": "146.360", 
+   "children": [], 
+   "end": "149.160", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Es ist schon angeklungen, "
+   ]
+  }, 
+  {
+   "begin": "149.160", 
+   "children": [], 
+   "end": "151.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass uns zurzeit das Vattenfall-Urteil besch\u00e4ftigt. "
+   ]
+  }, 
+  {
+   "begin": "151.680", 
+   "children": [], 
+   "end": "154.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es weist insofern eine Parallele auf\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "154.880", 
+   "children": [], 
+   "end": "155.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ich finde, "
+   ]
+  }, 
+  {
+   "begin": "155.240", 
+   "children": [], 
+   "end": "157.200", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "eine sehr anschauliche Parallele\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "157.200", 
+   "children": [], 
+   "end": "160.000", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "als auch hier eine Schiedsgerichtsbarkeit vorgesehen ist. "
+   ]
+  }, 
+  {
+   "begin": "160.000", 
+   "children": [], 
+   "end": "161.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Auch hier ist Investitionsschutz vorgesehen. "
+   ]
+  }, 
+  {
+   "begin": "161.760", 
+   "children": [], 
+   "end": "164.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Es ist gekennzeichnet durch Intransparenz. "
+   ]
+  }, 
+  {
+   "begin": "164.200", 
+   "children": [], 
+   "end": "164.560", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Gut, "
+   ]
+  }, 
+  {
+   "begin": "164.560", 
+   "children": [], 
+   "end": "167.240", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "gegen die Intransparenz kann man m\u00f6glicherweise etwas tun. "
+   ]
+  }, 
+  {
+   "begin": "167.240", 
+   "children": [], 
+   "end": "169.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Aber es ist eben auch dadurch gekennzeichnet, "
+   ]
+  }, 
+  {
+   "begin": "169.200", 
+   "children": [], 
+   "end": "171.520", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass es keine ordentliche Gerichtsbarkeit gibt. "
+   ]
+  }, 
+  {
+   "begin": "171.520", 
+   "children": [], 
+   "end": "174.480", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Vor allem ist es gekennzeichnet durch unbestimmte Rechtsbegriffe. "
+   ]
+  }, 
+  {
+   "begin": "174.480", 
+   "children": [], 
+   "end": "175.400", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das alles sind \u00fcbrigens Dinge, "
+   ]
+  }, 
+  {
+   "begin": "175.400", 
+   "children": [], 
+   "end": "178.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die die SPD in den letzten Jahren aufgegriffen und \u00fcber die sie intensiv diskutiert hat. "
+   ]
+  }, 
+  {
+   "begin": "178.840", 
+   "children": [], 
+   "end": "181.600", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in Konventbeschl\u00fcssen hinterlegt, "
+   ]
+  }, 
+  {
+   "begin": "181.600", 
+   "children": [], 
+   "end": "191.280", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass das definitiv nicht unser Verst\u00e4ndnis von Gerichtsbarkeit und Rechtssicherheit und auch nicht unser Verst\u00e4ndnis von modernem Handelsrecht und Investitionsschutzrecht ist."
+   ]
+  }, 
+  {
+   "begin": "191.280", 
+   "children": [], 
+   "end": "192.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Insofern war es die SPD, "
+   ]
+  }, 
+  {
+   "begin": "192.840", 
+   "children": [], 
+   "end": "194.600", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die es geschafft hat, "
+   ]
+  }, 
+  {
+   "begin": "194.600", 
+   "children": [], 
+   "end": "206.120", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "einige Neuerungen in die laufenden Verhandlungen zu bringen und eine Abkehr vom bisherigen System zu erreichen, "
+   ]
+  }, 
+  {
+   "begin": "206.120", 
+   "children": [], 
+   "end": "211.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und zwar in Form des schon erw\u00e4hnten Multilateralen Investitionsgerichtshofes, "
+   ]
+  }, 
+  {
+   "begin": "211.920", 
+   "children": [], 
+   "end": "213.520", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "den es zu etablieren gilt. "
+   ]
+  }, 
+  {
+   "begin": "213.520", 
+   "children": [], 
+   "end": "216.200", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Auch da muss man nat\u00fcrlich schauen, "
+   ]
+  }, 
+  {
+   "begin": "216.200", 
+   "children": [], 
+   "end": "224.120", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "inwieweit uns die Aussagen des EuGH im Achmea-Urteil nun zu weiteren Entwicklungen f\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "224.120", 
+   "children": [], 
+   "end": "225.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "225.080", 
+   "children": [], 
+   "end": "230.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass wir als SPD in der Tat einen guten Ansatz verfolgen und einen guten ersten Schritt unternommen haben, "
+   ]
+  }, 
+  {
+   "begin": "230.480", 
+   "children": [], 
+   "end": "232.320", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "um dieses System aufzubrechen. "
+   ]
+  }, 
+  {
+   "begin": "232.320", 
+   "children": [], 
+   "end": "236.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Schritte m\u00fcssen nun auf Grundlage des Achmea-Urteils folgen. "
+   ]
+  }, 
+  {
+   "begin": "236.960", 
+   "children": [], 
+   "end": "237.520", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "237.520", 
+   "children": [], 
+   "end": "240.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass man sehr wohl alles auf den Pr\u00fcfstand stellen muss, "
+   ]
+  }, 
+  {
+   "begin": "240.280", 
+   "children": [], 
+   "end": "242.920", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "was nicht \u00f6ffentlich-rechtliche Gerichtsbarkeit ist. "
+   ]
+  }, 
+  {
+   "begin": "242.920", 
+   "children": [], 
+   "end": "246.360", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Denn nur durch Letztere kann man dem Anspruch an eine demokratiekonforme Marktwirtschaft gerecht werden und Rechtssicherheit, "
+   ]
+  }, 
+  {
+   "begin": "246.360", 
+   "children": [], 
+   "end": "246.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die ja gew\u00fcnscht wird, "
+   ]
+  }, 
+  {
+   "begin": "246.760", 
+   "children": [], 
+   "end": "247.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "und zwar auch von der FDP, "
+   ]
+  }, 
+  {
+   "begin": "247.520", 
+   "children": [], 
+   "end": "248.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "tats\u00e4chlich gew\u00e4hrleisten."
+   ]
+  }, 
+  {
+   "begin": "248.360", 
+   "children": [], 
+   "end": "249.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "249.600", 
+   "children": [], 
+   "end": "250.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "250.080", 
+   "children": [], 
+   "end": "251.320", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Damit schlie\u00dfe ich die Aussprache."
+   ]
+  }, 
+  {
+   "begin": "251.320", 
+   "children": [], 
+   "end": "257.680", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/1694 an den Ausschuss f\u00fcr Wirtschaft und Energie vorgeschlagen. "
+   ]
+  }, 
+  {
+   "begin": "257.680", 
+   "children": [], 
+   "end": "260.080", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Sind Sie damit einverstanden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "260.080", 
+   "children": [], 
+   "end": "261.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Fall. "
+   ]
+  }, 
+  {
+   "begin": "261.120", 
+   "children": [], 
+   "end": "263.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist die \u00dcberweisung so beschlossen."
+   ]
+  }
+ ]
+}

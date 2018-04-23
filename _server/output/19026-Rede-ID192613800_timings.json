@@ -1,0 +1,844 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "children": [], 
+   "end": "11.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "11.200", 
+   "children": [], 
+   "end": "12.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.440", 
+   "children": [], 
+   "end": "16.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden heute \u00fcber die technische Umr\u00fcstung von schmutzigen Diesel-Pkw, "
+   ]
+  }, 
+  {
+   "begin": "16.280", 
+   "children": [], 
+   "end": "17.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "und zwar nicht deshalb, "
+   ]
+  }, 
+  {
+   "begin": "17.640", 
+   "children": [], 
+   "end": "25.240", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "weil das Bundesverwaltungsgericht f\u00fcr das Recht auf saubere Luft und damit auch f\u00fcr den Gesundheitsschutz der B\u00fcrgerinnen und B\u00fcrger geurteilt hat, "
+   ]
+  }, 
+  {
+   "begin": "25.240", 
+   "children": [], 
+   "end": "26.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "sondern vor allem deshalb, "
+   ]
+  }, 
+  {
+   "begin": "26.480", 
+   "children": [], 
+   "end": "37.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "weil die Automobilhersteller beim Schadstoffaustausch von Diesel-Pkw jahrelang getrickst und betrogen haben und die letzten Bundesregierungen die Grenzwerte f\u00fcr Luftschadstoffe ignoriert haben."
+   ]
+  }, 
+  {
+   "begin": "37.400", 
+   "children": [], 
+   "end": "46.560", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Verkehrsminister Scheuer spricht mit Blick auf drohende Fahrverbote von einer Quasienteignung der Dieselbesitzer."
+   ]
+  }, 
+  {
+   "begin": "46.560", 
+   "children": [], 
+   "end": "47.200", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "47.200", 
+   "children": [], 
+   "end": "51.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "diese Quasienteignung findet aber schon durch den Wertverlust der Autos statt, "
+   ]
+  }, 
+  {
+   "begin": "51.000", 
+   "children": [], 
+   "end": "56.720", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "weil diese Bundesregierung die Autohersteller nicht zu einer Hardwarenachr\u00fcstung verpflichtet."
+   ]
+  }, 
+  {
+   "begin": "56.720", 
+   "children": [], 
+   "end": "62.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Hardwareumr\u00fcstungen k\u00f6nnten weitere Wertverluste f\u00fcr die Fahrzeughalter vermeiden. "
+   ]
+  }, 
+  {
+   "begin": "62.720", 
+   "children": [], 
+   "end": "67.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Damit w\u00fcrden die gesch\u00e4digten Verbraucherinnen und Verbraucher endlich die \u00fcberf\u00e4llige Unterst\u00fctzung bekommen, "
+   ]
+  }, 
+  {
+   "begin": "67.800", 
+   "children": [], 
+   "end": "71.280", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die ihnen bisher von dieser Bundesregierung verwehrt wurde."
+   ]
+  }, 
+  {
+   "begin": "71.280", 
+   "children": [], 
+   "end": "72.720", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Es ist schon bemerkenswert, "
+   ]
+  }, 
+  {
+   "begin": "72.720", 
+   "children": [], 
+   "end": "75.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "welche Fahrzeuge Andreas Scheuer einfallen, "
+   ]
+  }, 
+  {
+   "begin": "75.400", 
+   "children": [], 
+   "end": "78.440", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "um vom eigentlichen Problem abzulenken. "
+   ]
+  }, 
+  {
+   "begin": "78.440", 
+   "children": [], 
+   "end": "80.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Dieselautos von Paketzustellern, "
+   ]
+  }, 
+  {
+   "begin": "80.480", 
+   "children": [], 
+   "end": "81.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "M\u00fcllfahrzeuge, "
+   ]
+  }, 
+  {
+   "begin": "81.280", 
+   "children": [], 
+   "end": "82.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Krankenwagen, "
+   ]
+  }, 
+  {
+   "begin": "82.040", 
+   "children": [], 
+   "end": "82.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Taxen, "
+   ]
+  }, 
+  {
+   "begin": "82.640", 
+   "children": [], 
+   "end": "84.920", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Busse will er sauber machen. "
+   ]
+  }, 
+  {
+   "begin": "84.920", 
+   "children": [], 
+   "end": "86.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Das ist sch\u00f6n und gut, "
+   ]
+  }, 
+  {
+   "begin": "86.240", 
+   "children": [], 
+   "end": "92.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "aber zum Beispiel Dieselbusse sind nur f\u00fcr lediglich 4\u00a0Prozent der Schadstoffbelastung verantwortlich. "
+   ]
+  }, 
+  {
+   "begin": "92.120", 
+   "children": [], 
+   "end": "100.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Der Diesel-Pkw aber ist f\u00fcr 72,5\u00a0Prozent der verkehrsbedingten Stickoxidbelastung in den St\u00e4dten verantwortlich. "
+   ]
+  }, 
+  {
+   "begin": "100.840", 
+   "children": [], 
+   "end": "103.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wer die wahren Problemverursacher verschont, "
+   ]
+  }, 
+  {
+   "begin": "103.480", 
+   "children": [], 
+   "end": "105.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "macht sich zum Buddy der Automobilindustrie, "
+   ]
+  }, 
+  {
+   "begin": "105.680", 
+   "children": [], 
+   "end": "106.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "106.480", 
+   "children": [], 
+   "end": "113.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Man muss auch nicht h\u00f6here Mathematik studiert haben, "
+   ]
+  }, 
+  {
+   "begin": "113.600", 
+   "children": [], 
+   "end": "114.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "um zu erkennen, "
+   ]
+  }, 
+  {
+   "begin": "114.160", 
+   "children": [], 
+   "end": "118.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass Softwareupdates f\u00fcr Dieselautos nicht ausreichen."
+   ]
+  }, 
+  {
+   "begin": "118.080", 
+   "children": [], 
+   "end": "120.880", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das Umweltbundesamt hat im letzten Jahr festgestellt, "
+   ]
+  }, 
+  {
+   "begin": "120.880", 
+   "children": [], 
+   "end": "128.320", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass Euro-5-Diesel auf der Stra\u00dfe durchschnittlich 906\u00a0Milligramm Stickoxid pro Kilometer aussto\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "128.320", 
+   "children": [], 
+   "end": "131.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Damit haben sie f\u00fcnfmal so hohe Emissionen, "
+   ]
+  }, 
+  {
+   "begin": "133.800", 
+   "children": [], 
+   "end": "137.880", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "als nach dem Grenzwert von 180\u00a0Milligramm erlaubt sind. "
+   ]
+  }, 
+  {
+   "begin": "137.880", 
+   "children": [], 
+   "end": "142.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die Softwareupdates sollen eine Verbesserung um 25 bis 30\u00a0Prozent bringen. "
+   ]
+  }, 
+  {
+   "begin": "142.760", 
+   "children": [], 
+   "end": "145.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Nachgewiesen ist das allerdings nicht. "
+   ]
+  }, 
+  {
+   "begin": "145.600", 
+   "children": [], 
+   "end": "161.200", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Selbst mit diesen Softwareupdates sind die Emissionen eines durchschnittlichen Euro-5-Diesels im besten Fall immer noch 3,5-mal so hoch wie der Grenzwert."
+   ]
+  }, 
+  {
+   "begin": "161.200", 
+   "children": [], 
+   "end": "163.080", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Diese Reduktion setzt \u00fcbrigens voraus, "
+   ]
+  }, 
+  {
+   "begin": "163.080", 
+   "children": [], 
+   "end": "165.600", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass \u00fcberhaupt Updates aufgespielt werden. "
+   ]
+  }, 
+  {
+   "begin": "165.600", 
+   "children": [], 
+   "end": "168.360", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Verkehrsminister Scheuer t\u00f6nt, "
+   ]
+  }, 
+  {
+   "begin": "168.360", 
+   "children": [], 
+   "end": "174.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "es seien schon 2,5\u00a0Millionen der 5,3\u00a0Millionen Diesel-Pkw umger\u00fcstet. "
+   ]
+  }, 
+  {
+   "begin": "174.120", 
+   "children": [], 
+   "end": "175.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Das sind\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "175.760", 
+   "children": [], 
+   "end": "178.640", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "fast ausschlie\u00dflich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "178.640", 
+   "children": [], 
+   "end": "180.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die Fahrzeuge von Volkswagen, "
+   ]
+  }, 
+  {
+   "begin": "180.600", 
+   "children": [], 
+   "end": "182.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die die Betrugssoftware hatten; "
+   ]
+  }, 
+  {
+   "begin": "182.520", 
+   "children": [], 
+   "end": "184.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "da war VW verpflichtet, "
+   ]
+  }, 
+  {
+   "begin": "184.160", 
+   "children": [], 
+   "end": "186.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "eine Software\u00e4nderung vorzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "186.240", 
+   "children": [], 
+   "end": "187.760", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft andersherum, "
+   ]
+  }, 
+  {
+   "begin": "187.760", 
+   "children": [], 
+   "end": "192.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass bei den 2,8\u00a0Millionen Diesel-Pkw der anderen Hersteller, "
+   ]
+  }, 
+  {
+   "begin": "192.080", 
+   "children": [], 
+   "end": "194.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die freiwillig umger\u00fcstet werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "194.280", 
+   "children": [], 
+   "end": "196.000", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "fast nichts passiert ist. "
+   ]
+  }, 
+  {
+   "begin": "196.000", 
+   "children": [], 
+   "end": "204.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Seit der Vereinbarung vom Dieselgipfel im August letzten Jahres wurde gerade mal 1\u00a0Prozent dieser Fahrzeuge umger\u00fcstet. "
+   ]
+  }, 
+  {
+   "begin": "204.520", 
+   "children": [], 
+   "end": "206.640", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Nur Ank\u00fcndigungen der Automobilindustrie, "
+   ]
+  }, 
+  {
+   "begin": "206.640", 
+   "children": [], 
+   "end": "207.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "nicht mehr! "
+   ]
+  }, 
+  {
+   "begin": "207.240", 
+   "children": [], 
+   "end": "208.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Das ist v\u00f6llig indiskutabel, "
+   ]
+  }, 
+  {
+   "begin": "208.520", 
+   "children": [], 
+   "end": "212.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "212.400", 
+   "children": [], 
+   "end": "217.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Der ADAC hat mit Unterst\u00fctzung des Verkehrsministeriums in Baden-W\u00fcrttemberg nachgewiesen, "
+   ]
+  }, 
+  {
+   "begin": "217.360", 
+   "children": [], 
+   "end": "220.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass Hardwarenachr\u00fcstungen bei Euro-5-Dieselautos\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "220.280", 
+   "children": [], 
+   "end": "222.320", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "da reden wir nicht von alten Karren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "222.320", 
+   "children": [], 
+   "end": "223.000", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur m\u00f6glich, "
+   ]
+  }, 
+  {
+   "begin": "223.000", 
+   "children": [], 
+   "end": "225.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch extrem wirksam sind. "
+   ]
+  }, 
+  {
+   "begin": "225.000", 
+   "children": [], 
+   "end": "228.040", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Bis zu 70\u00a0Prozent innerorts bzw. "
+   ]
+  }, 
+  {
+   "begin": "228.040", 
+   "children": [], 
+   "end": "233.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "90\u00a0Prozent au\u00dferorts weniger Emissionen lassen sich durch Nachr\u00fcstung erreichen. "
+   ]
+  }, 
+  {
+   "begin": "233.240", 
+   "children": [], 
+   "end": "236.520", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Es w\u00e4re ein weiterer Kniefall vor der Automobilindustrie, "
+   ]
+  }, 
+  {
+   "begin": "236.520", 
+   "children": [], 
+   "end": "240.240", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Bundesregierung diese Hardwarenachr\u00fcstung nicht durchsetzt."
+   ]
+  }, 
+  {
+   "begin": "240.240", 
+   "children": [], 
+   "end": "245.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Klar ist auch: "
+   ]
+  }, 
+  {
+   "begin": "245.200", 
+   "children": [], 
+   "end": "249.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die Zeche hat die Automobilindustrie als Verursacher des Problems zu zahlen, "
+   ]
+  }, 
+  {
+   "begin": "249.600", 
+   "children": [], 
+   "end": "251.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "nicht die Steuerzahlerinnen und Steuerzahler."
+   ]
+  }, 
+  {
+   "begin": "251.960", 
+   "children": [], 
+   "end": "253.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "253.080", 
+   "children": [], 
+   "end": "255.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "lassen Sie mich zum Schluss sagen: "
+   ]
+  }, 
+  {
+   "begin": "255.560", 
+   "children": [], 
+   "end": "261.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Das Urteil des Bundesverwaltungsgericht muss der Startpunkt f\u00fcr die Verkehrswende sein. "
+   ]
+  }, 
+  {
+   "begin": "261.280", 
+   "children": [], 
+   "end": "265.840", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ein einmaliges \u201eSofortprogramm Saubere Luft\u201c f\u00fcr die Kommunen reicht nicht, "
+   ]
+  }, 
+  {
+   "begin": "265.840", 
+   "children": [], 
+   "end": "268.240", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "um den Herausforderungen der st\u00e4dtischen Mobilit\u00e4t zu gen\u00fcgen."
+   ]
+  }, 
+  {
+   "begin": "268.240", 
+   "children": [], 
+   "end": "268.640", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "268.640", 
+   "children": [], 
+   "end": "269.320", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "kommen Sie zum Schluss."
+   ]
+  }, 
+  {
+   "begin": "269.320", 
+   "children": [], 
+   "end": "273.600", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Unsere St\u00e4dte brauchen zus\u00e4tzliche Milliarden vom Bund f\u00fcr den Ausbau des Nahverkehrs, "
+   ]
+  }, 
+  {
+   "begin": "273.600", 
+   "children": [], 
+   "end": "274.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr Rad- "
+   ]
+  }, 
+  {
+   "begin": "274.280", 
+   "children": [], 
+   "end": "275.640", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "und Fu\u00dfverkehr. "
+   ]
+  }, 
+  {
+   "begin": "275.640", 
+   "children": [], 
+   "end": "277.960", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Nur so sorgen wir f\u00fcr saubere Luft, "
+   ]
+  }, 
+  {
+   "begin": "277.960", 
+   "children": [], 
+   "end": "280.680", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr emissionsfreie Mobilit\u00e4t und f\u00fcr lebenswerte St\u00e4dte."
+   ]
+  }, 
+  {
+   "begin": "280.680", 
+   "children": [], 
+   "end": "280.880", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "280.880", 
+   "children": [], 
+   "end": "289.000", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chster Redner f\u00fcr die CDU/CSU der Kollege Markus Uhl."
+   ]
+  }
+ ]
+}

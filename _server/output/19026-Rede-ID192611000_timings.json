@@ -1,0 +1,764 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "0.040", 
+   "children": [], 
+   "end": "9.480", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "9.480", 
+   "children": [], 
+   "end": "18.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in den letzten Wochen und Monaten viel \u00fcber Schadstoffe in der Luft, "
+   ]
+  }, 
+  {
+   "begin": "18.400", 
+   "children": [], 
+   "end": "19.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber Stickoxide, "
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "children": [], 
+   "end": "21.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Fahrverbote, "
+   ]
+  }, 
+  {
+   "begin": "21.320", 
+   "children": [], 
+   "end": "28.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Grenzwerte und auch \u00fcber eine sogenannte Studie mit hochgerechneten angeblichen Todesf\u00e4llen gesprochen. "
+   ]
+  }, 
+  {
+   "begin": "28.280", 
+   "children": [], 
+   "end": "36.440", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Aber ging es denn bei dieser ganzen Debatte wirklich um eine ges\u00fcndere Umwelt und um eine bessere Volksgesundheit? "
+   ]
+  }, 
+  {
+   "begin": "36.440", 
+   "children": [], 
+   "end": "37.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "37.280", 
+   "children": [], 
+   "end": "41.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "es ging vor allem um die Abschaffung des Individualverkehrs."
+   ]
+  }, 
+  {
+   "begin": "41.120", 
+   "children": [], 
+   "end": "49.520", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Auch die derzeit in Deutschland g\u00fcltigen Grenzwerte f\u00fcr Stickoxide dienen letztlich nur diesem einen Ziel: "
+   ]
+  }, 
+  {
+   "begin": "49.520", 
+   "children": [], 
+   "end": "55.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "das Automobil zu verteufeln und damit Millionen von Arbeitspl\u00e4tze in Deutschland zu gef\u00e4hrden."
+   ]
+  }, 
+  {
+   "begin": "55.640", 
+   "children": [], 
+   "end": "60.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf in diesem Zusammenhang daran erinnern, "
+   ]
+  }, 
+  {
+   "begin": "60.240", 
+   "children": [], 
+   "end": "66.560", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass es das klare Ergebnis des Diesel-Untersuchungsausschusses hier im Deutschen Bundestag war, "
+   ]
+  }, 
+  {
+   "begin": "66.560", 
+   "children": [], 
+   "end": "77.400", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass keine Gesundheitsbeeintr\u00e4chtigungen durch Stickstoffdioxid in Konzentrationen unter 900\u00a0Mikrogramm pro Kubikmeter nachweisbar sind."
+   ]
+  }, 
+  {
+   "begin": "77.400", 
+   "children": [], 
+   "end": "84.320", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Der Stickoxidgrenzwert f\u00fcr Arbeitspl\u00e4tze betr\u00e4gt dementsprechend auch 950\u00a0Mikrogramm. "
+   ]
+  }, 
+  {
+   "begin": "84.320", 
+   "children": [], 
+   "end": "88.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Wo liegen die Grenzwerte f\u00fcr Stickstoffdioxid in der Au\u00dfenluft? "
+   ]
+  }, 
+  {
+   "begin": "88.520", 
+   "children": [], 
+   "end": "91.640", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Bei gerade einmal 40\u00a0Mikrogramm. "
+   ]
+  }, 
+  {
+   "begin": "91.640", 
+   "children": [], 
+   "end": "92.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Dort also, "
+   ]
+  }, 
+  {
+   "begin": "92.280", 
+   "children": [], 
+   "end": "98.960", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wo sich die Menschen in diesem Land acht Stunden und mehr jeden Arbeitstag aufhalten, "
+   ]
+  }, 
+  {
+   "begin": "98.960", 
+   "children": [], 
+   "end": "102.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "d\u00fcrfen sie mehr als das 20-Fache dessen einatmen, "
+   ]
+  }, 
+  {
+   "begin": "102.720", 
+   "children": [], 
+   "end": "104.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "das sie an einer Kreuzung, "
+   ]
+  }, 
+  {
+   "begin": "104.040", 
+   "children": [], 
+   "end": "107.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wo sie nur wenige Minuten am Tag sind, "
+   ]
+  }, 
+  {
+   "begin": "107.960", 
+   "children": [], 
+   "end": "108.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "einatmen."
+   ]
+  }, 
+  {
+   "begin": "108.560", 
+   "children": [], 
+   "end": "109.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Daran sieht man: "
+   ]
+  }, 
+  {
+   "begin": "109.520", 
+   "children": [], 
+   "end": "112.480", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Hier geht es nicht um die Gesundheit der Menschen, "
+   ]
+  }, 
+  {
+   "begin": "112.480", 
+   "children": [], 
+   "end": "114.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "sondern hier ist jedes Augenma\u00df, "
+   ]
+  }, 
+  {
+   "begin": "114.880", 
+   "children": [], 
+   "end": "116.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "jede Abw\u00e4gung, "
+   ]
+  }, 
+  {
+   "begin": "116.400", 
+   "children": [], 
+   "end": "124.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "jede Verh\u00e4ltnism\u00e4\u00dfigkeit und Zweckm\u00e4\u00dfigkeit auf dem Altar eine irrationalen Autoabschaffungsideologie geopfert worden."
+   ]
+  }, 
+  {
+   "begin": "124.400", 
+   "children": [], 
+   "end": "134.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Eurokratisch gr\u00fcne Grenzwertfanatiker wollen nicht die Umwelt oder die Gesundheit schonen. "
+   ]
+  }, 
+  {
+   "begin": "134.480", 
+   "children": [], 
+   "end": "135.720", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen g\u00e4ngeln, "
+   ]
+  }, 
+  {
+   "begin": "135.720", 
+   "children": [], 
+   "end": "137.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "und sie wollen \u00fcberwachen. "
+   ]
+  }, 
+  {
+   "begin": "137.320", 
+   "children": [], 
+   "end": "141.720", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Kein Fleisch in den Kantinen und kein Auto auf den Stra\u00dfen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "141.720", 
+   "children": [], 
+   "end": "143.400", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "das ist das gr\u00fcne Leitmotiv, "
+   ]
+  }, 
+  {
+   "begin": "143.400", 
+   "children": [], 
+   "end": "147.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "mit dem ganz offensichtlich auch die EU-B\u00fcrokraten gehirngewaschen wurden."
+   ]
+  }, 
+  {
+   "begin": "147.840", 
+   "children": [], 
+   "end": "150.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Selbst in Kalifornien, "
+   ]
+  }, 
+  {
+   "begin": "150.760", 
+   "children": [], 
+   "end": "154.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "das mit die strengsten Umweltvorschriften der Welt hat, "
+   ]
+  }, 
+  {
+   "begin": "154.360", 
+   "children": [], 
+   "end": "160.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "gibt es wie im Rest der USA einen Grenzwert von 100\u00a0Mikrogramm pro Kubikmeter; "
+   ]
+  }, 
+  {
+   "begin": "160.240", 
+   "children": [], 
+   "end": "163.480", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "das ist das Zweieinhalbfache des Wertes in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "163.480", 
+   "children": [], 
+   "end": "169.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Die US-Umweltbeh\u00f6rden haben diesen Grenzwert erst k\u00fcrzlich noch einmal ausdr\u00fccklich best\u00e4tigt, "
+   ]
+  }, 
+  {
+   "begin": "169.600", 
+   "children": [], 
+   "end": "171.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und zwar mit der Begr\u00fcndung, "
+   ]
+  }, 
+  {
+   "begin": "171.600", 
+   "children": [], 
+   "end": "172.160", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass dieser\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "172.160", 
+   "children": [], 
+   "end": "172.920", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "so w\u00f6rtlich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "172.920", 
+   "children": [], 
+   "end": "177.760", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "einen angemessenen Schutz der \u00f6ffentlichen Gesundheit gew\u00e4hrleistet und insbesondere\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "177.760", 
+   "children": [], 
+   "end": "179.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "h\u00f6ren Sie da mal gut zu!\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "179.040", 
+   "children": [], 
+   "end": "182.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "eine ausreichende Sicherheitsmarge auch f\u00fcr \u00e4ltere Menschen, "
+   ]
+  }, 
+  {
+   "begin": "182.320", 
+   "children": [], 
+   "end": "185.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Kinder und Menschen mit Asthma ber\u00fccksichtigt. "
+   ]
+  }, 
+  {
+   "begin": "185.360", 
+   "children": [], 
+   "end": "190.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Dass Europa und Deutschland diesen Grenzwert noch einmal auf weniger als die H\u00e4lfte herabgesetzt haben, "
+   ]
+  }, 
+  {
+   "begin": "190.320", 
+   "children": [], 
+   "end": "194.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "kann nicht ernsthaft mit Gesundheitsbedenken begr\u00fcndet werden, "
+   ]
+  }, 
+  {
+   "begin": "194.000", 
+   "children": [], 
+   "end": "202.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "sondern zielt vielmehr auf eine weitere Drangsalierung der Automobilindustrie und der Dieselbesitzer ab."
+   ]
+  }, 
+  {
+   "begin": "202.280", 
+   "children": [], 
+   "end": "206.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Und so werden dann auch statistische Hochrechnungen, "
+   ]
+  }, 
+  {
+   "begin": "206.200", 
+   "children": [], 
+   "end": "216.040", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die Durchforstung ganzer Datenberge nach allen m\u00f6glichen Korrelationen als wissenschaftlich seri\u00f6s dargestellt und als epidemiologische Studien bezeichnet, "
+   ]
+  }, 
+  {
+   "begin": "216.040", 
+   "children": [], 
+   "end": "220.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "mit denen sich angeblich 6\u00a0000 vorzeitige Dieseltote nachweisen lassen, "
+   ]
+  }, 
+  {
+   "begin": "220.720", 
+   "children": [], 
+   "end": "224.280", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "um dies dann medienwirksam auszuschlachten. "
+   ]
+  }, 
+  {
+   "begin": "224.280", 
+   "children": [], 
+   "end": "229.280", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Dass das Umweltministerium im Nachhinein jedoch kleinlaut einr\u00e4umen musste, "
+   ]
+  }, 
+  {
+   "begin": "229.280", 
+   "children": [], 
+   "end": "241.760", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass die urs\u00e4chliche Wirkung von Stickoxiden hinsichtlich dieser angeblichen Todesf\u00e4lle mit einer solchen Studie gar nicht belegt werden kann, "
+   ]
+  }, 
+  {
+   "begin": "241.760", 
+   "children": [], 
+   "end": "244.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "wird dagegen gerne verschwiegen."
+   ]
+  }, 
+  {
+   "begin": "244.640", 
+   "children": [], 
+   "end": "256.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Selbst die sagenumwobene WHO-Empfehlung eines Grenzwertes von 40\u00a0Mikrogramm pro Kubikmeter aus dem Jahr\u00a01997 basiert nur auf epidemiologischen Untersuchungen, "
+   ]
+  }, 
+  {
+   "begin": "256.520", 
+   "children": [], 
+   "end": "259.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "also auf rein statistischen Hochrechnungen. "
+   ]
+  }, 
+  {
+   "begin": "259.880", 
+   "children": [], 
+   "end": "264.720", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Versuche der WHO in den Jahren\u00a02000 und 2005, "
+   ]
+  }, 
+  {
+   "begin": "264.720", 
+   "children": [], 
+   "end": "267.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "diesen Grenzwert mit klinischen Studien zu best\u00e4tigen, "
+   ]
+  }, 
+  {
+   "begin": "267.640", 
+   "children": [], 
+   "end": "270.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "sind krachend gescheitert."
+   ]
+  }, 
+  {
+   "begin": "270.040", 
+   "children": [], 
+   "end": "283.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Der damalige Verhandlungsf\u00fchrer in Br\u00fcssel und Abteilungsleiter im Bundeswirtschaftsministerium hat v\u00f6llig zu Recht in seiner Stellungnahme f\u00fcr das Bundesverwaltungsgericht im Zusammenhang mit dem Dieselurteil klargestellt, "
+   ]
+  }, 
+  {
+   "begin": "283.680", 
+   "children": [], 
+   "end": "288.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass der EU-Grenzwert willk\u00fcrlich gew\u00e4hlt wurde. "
+   ]
+  }, 
+  {
+   "begin": "288.240", 
+   "children": [], 
+   "end": "298.120", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir schlie\u00dfen uns dieser Expertenmeinung an und fordern das Ende der Verteufelung des Individualverkehrs und die unverz\u00fcgliche \u00dcberpr\u00fcfung der Stick\u00adoxidgrenzwerte."
+   ]
+  }, 
+  {
+   "begin": "298.120", 
+   "children": [], 
+   "end": "300.720", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Denn diese Grenzwerte sind ungerechtfertigt, "
+   ]
+  }, 
+  {
+   "begin": "300.720", 
+   "children": [], 
+   "end": "303.120", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "sagt der Diesel-Untersuchungsausschuss, "
+   ]
+  }, 
+  {
+   "begin": "303.120", 
+   "children": [], 
+   "end": "304.880", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "diese Grenzwerte sind unsinnig, "
+   ]
+  }, 
+  {
+   "begin": "304.880", 
+   "children": [], 
+   "end": "306.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "sagen die Fachmediziner, "
+   ]
+  }, 
+  {
+   "begin": "306.600", 
+   "children": [], 
+   "end": "310.000", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "diese Grenzwerte sind willk\u00fcrlich festgelegt, "
+   ]
+  }, 
+  {
+   "begin": "310.000", 
+   "children": [], 
+   "end": "313.200", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "sagt der damals im Wirtschaftsministerium Zust\u00e4ndige. "
+   ]
+  }, 
+  {
+   "begin": "313.200", 
+   "children": [], 
+   "end": "315.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "H\u00f6ren Sie deshalb endlich damit auf, "
+   ]
+  }, 
+  {
+   "begin": "315.680", 
+   "children": [], 
+   "end": "323.480", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "ohne haltbare wissenschaftliche Basis in rein ideologischer Verblendung Millionen von Dieselbesitzern kalt zu enteignen, "
+   ]
+  }, 
+  {
+   "begin": "323.480", 
+   "children": [], 
+   "end": "348.920", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die Existenz vieler kleiner Handwerksbetriebe zu gef\u00e4hrden und Millionen von Arbeitspl\u00e4tze in der deutschen Automobilindustrie zu vernichten."
+   ]
+  }, 
+  {
+   "begin": "348.920", 
+   "children": [], 
+   "end": "349.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "349.600", 
+   "children": [], 
+   "end": "350.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner in der Debatte: "
+   ]
+  }, 
+  {
+   "begin": "350.760", 
+   "children": [], 
+   "end": "352.960", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Oliver Grundmann f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

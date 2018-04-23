@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.600", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "children": [], 
+   "end": "11.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "children": [], 
+   "end": "21.160", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Nachr\u00fcstung von \u00e4lteren Fahrzeugen ist nach Ihren Ausf\u00fchrungen die einzig zielf\u00fchrende Ma\u00dfnahme zur Luftreinhaltung und Vermeidung von Fahrverboten. "
+   ]
+  }, 
+  {
+   "begin": "21.160", 
+   "children": [], 
+   "end": "30.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Alle diese Fahrzeuge stellen Ihren Ausf\u00fchrungen nach ein unmittelbares Problem f\u00fcr die Gesundheit der Halter und der Gesamtbev\u00f6lkerung dar."
+   ]
+  }, 
+  {
+   "begin": "30.840", 
+   "children": [], 
+   "end": "33.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "In der Regierungskoalition gibt es ebenfalls Stimmen, "
+   ]
+  }, 
+  {
+   "begin": "33.800", 
+   "children": [], 
+   "end": "40.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel die CDU-Generalsekret\u00e4rin oder die SPD-Umweltministerin, "
+   ]
+  }, 
+  {
+   "begin": "40.200", 
+   "children": [], 
+   "end": "44.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "die eine Kosten\u00fcbernahme der Nachr\u00fcstung durch die Hersteller fordern."
+   ]
+  }, 
+  {
+   "begin": "44.120", 
+   "children": [], 
+   "end": "45.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Der Reihe nach: "
+   ]
+  }, 
+  {
+   "begin": "45.600", 
+   "children": [], 
+   "end": "49.920", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Luftschadstoffe werden seit mehr als 25\u00a0Jahren gemessen. "
+   ]
+  }, 
+  {
+   "begin": "49.920", 
+   "children": [], 
+   "end": "55.560", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die Europ\u00e4ische Union hat vor circa 20\u00a0Jahren Grenzwerte f\u00fcr Schadstoffe definiert. "
+   ]
+  }, 
+  {
+   "begin": "55.560", 
+   "children": [], 
+   "end": "58.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Diese Grenzwerte wurden mit Studien begr\u00fcndet, "
+   ]
+  }, 
+  {
+   "begin": "58.600", 
+   "children": [], 
+   "end": "60.960", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die bis zu 25\u00a0Jahre alt sind. "
+   ]
+  }, 
+  {
+   "begin": "60.960", 
+   "children": [], 
+   "end": "66.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "In der Zwischenzeit haben sich die Messwerte f\u00fcr Stickoxide drastisch verringert."
+   ]
+  }, 
+  {
+   "begin": "66.520", 
+   "children": [], 
+   "end": "68.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Warum erz\u00e4hle ich das? "
+   ]
+  }, 
+  {
+   "begin": "68.360", 
+   "children": [], 
+   "end": "73.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt \u00fcberhaupt keinen akuten Handlungsbedarf."
+   ]
+  }, 
+  {
+   "begin": "73.640", 
+   "children": [], 
+   "end": "79.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die ganze Diskussion um Stickoxide ist reine Panikmache, "
+   ]
+  }, 
+  {
+   "begin": "79.120", 
+   "children": [], 
+   "end": "85.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "gesteuert von dubiosen Umweltverb\u00e4nden wie der Deutschen Umwelthilfe."
+   ]
+  }, 
+  {
+   "begin": "85.040", 
+   "children": [], 
+   "end": "89.920", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt wollen Sie die Autohersteller zur Kosten\u00fcbernahme bei der Nachr\u00fcstung verpflichten. "
+   ]
+  }, 
+  {
+   "begin": "89.920", 
+   "children": [], 
+   "end": "91.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das hat einen technischen, "
+   ]
+  }, 
+  {
+   "begin": "91.400", 
+   "children": [], 
+   "end": "94.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "einen praktischen und einen juristischen Aspekt."
+   ]
+  }, 
+  {
+   "begin": "94.920", 
+   "children": [], 
+   "end": "96.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Technisch sieht es so aus, "
+   ]
+  }, 
+  {
+   "begin": "96.600", 
+   "children": [], 
+   "end": "100.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass man in gebrauchte Fahrzeuge einen SCR-Katalysator, "
+   ]
+  }, 
+  {
+   "begin": "100.320", 
+   "children": [], 
+   "end": "101.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "eine Einspritzleitung, "
+   ]
+  }, 
+  {
+   "begin": "101.200", 
+   "children": [], 
+   "end": "101.760", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "eine Pumpe, "
+   ]
+  }, 
+  {
+   "begin": "101.760", 
+   "children": [], 
+   "end": "106.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "gegebenenfalls ein Steuerger\u00e4t und einen ziemlich gro\u00dfen Tank einbauen muss. "
+   ]
+  }, 
+  {
+   "begin": "106.800", 
+   "children": [], 
+   "end": "108.920", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Damit das Ganze auch dauerhaft funktioniert, "
+   ]
+  }, 
+  {
+   "begin": "108.920", 
+   "children": [], 
+   "end": "114.520", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "testen Autohersteller \u00fcber Zigtausende Kilometer die Befestigung und die Funktion. "
+   ]
+  }, 
+  {
+   "begin": "114.520", 
+   "children": [], 
+   "end": "118.600", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Dazu muss man \u00fcbrigens noch die Einspritzzeiten des Motors anpassen. "
+   ]
+  }, 
+  {
+   "begin": "118.600", 
+   "children": [], 
+   "end": "119.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Sonst k\u00f6nnte es sein, "
+   ]
+  }, 
+  {
+   "begin": "119.480", 
+   "children": [], 
+   "end": "122.880", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass es zu Fehlfunktionen oder drastischen Mehrverbr\u00e4uchen kommt."
+   ]
+  }, 
+  {
+   "begin": "122.880", 
+   "children": [], 
+   "end": "124.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Kurz gesagt: "
+   ]
+  }, 
+  {
+   "begin": "124.040", 
+   "children": [], 
+   "end": "124.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Keiner wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "124.800", 
+   "children": [], 
+   "end": "127.480", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "wie lange so eine Nachr\u00fcstungsl\u00f6sung jemals funktioniert. "
+   ]
+  }, 
+  {
+   "begin": "127.480", 
+   "children": [], 
+   "end": "132.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Der Kunde verliert die Garantieanspr\u00fcche und hat gegebenenfalls Nachteile bez\u00fcglich Haltbarkeit, "
+   ]
+  }, 
+  {
+   "begin": "132.640", 
+   "children": [], 
+   "end": "135.720", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Mehrverbrauch und Funktionssicherheit."
+   ]
+  }, 
+  {
+   "begin": "135.720", 
+   "children": [], 
+   "end": "139.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Rein praktisch betrachtet stellt sich die Frage: "
+   ]
+  }, 
+  {
+   "begin": "139.000", 
+   "children": [], 
+   "end": "142.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wer soll denn die Millionen Fahrzeuge umbauen, "
+   ]
+  }, 
+  {
+   "begin": "142.840", 
+   "children": [], 
+   "end": "145.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "und wie lange dauert das?"
+   ]
+  }, 
+  {
+   "begin": "145.400", 
+   "children": [], 
+   "end": "146.800", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Und juristisch ist die Frage: "
+   ]
+  }, 
+  {
+   "begin": "146.800", 
+   "children": [], 
+   "end": "148.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wie kann es sein, "
+   ]
+  }, 
+  {
+   "begin": "148.000", 
+   "children": [], 
+   "end": "150.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass man den Hersteller eines Produktes, "
+   ]
+  }, 
+  {
+   "begin": "150.280", 
+   "children": [], 
+   "end": "152.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "das ordnungsgem\u00e4\u00df zugelassen wurde, "
+   ]
+  }, 
+  {
+   "begin": "152.440", 
+   "children": [], 
+   "end": "154.280", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "nachtr\u00e4glich verpflichtet, "
+   ]
+  }, 
+  {
+   "begin": "154.280", 
+   "children": [], 
+   "end": "156.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Anpassungen an seinem Produkt vorzunehmen, "
+   ]
+  }, 
+  {
+   "begin": "156.640", 
+   "children": [], 
+   "end": "164.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "nur weil der Gesetzgeber die Zulassungsbedingungen Jahre nach der Zulassung v\u00f6llig \u00fcberraschend \u00e4ndert?"
+   ]
+  }, 
+  {
+   "begin": "164.520", 
+   "children": [], 
+   "end": "168.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben es gerade geh\u00f6rt: "
+   ]
+  }, 
+  {
+   "begin": "168.880", 
+   "children": [], 
+   "end": "174.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Zu den wichtigsten Kriterien in einem modernen Industriestaat geh\u00f6ren die Rechtssicherheit und der Investitionsschutz. "
+   ]
+  }, 
+  {
+   "begin": "174.560", 
+   "children": [], 
+   "end": "177.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Unternehmer und K\u00e4ufer m\u00fcssen sich darauf verlassen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "177.760", 
+   "children": [], 
+   "end": "184.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass Investitionen auch in der Zukunft vom Staat gesch\u00fctzt und nicht gesch\u00e4digt werden."
+   ]
+  }, 
+  {
+   "begin": "184.320", 
+   "children": [], 
+   "end": "186.080", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Alle drei Aspekte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "186.080", 
+   "children": [], 
+   "end": "186.800", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "der technische, "
+   ]
+  }, 
+  {
+   "begin": "186.800", 
+   "children": [], 
+   "end": "188.600", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "der praktische und der juristische Aspekt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "188.600", 
+   "children": [], 
+   "end": "189.440", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "zeigen, "
+   ]
+  }, 
+  {
+   "begin": "189.440", 
+   "children": [], 
+   "end": "198.000", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass die technische Nachr\u00fcstung von Dieselfahrzeugen ein fiktives Problem angeht und viele reale Probleme erst neu schafft."
+   ]
+  }, 
+  {
+   "begin": "198.000", 
+   "children": [], 
+   "end": "203.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen kein Experte f\u00fcr Motorentechnik sein, "
+   ]
+  }, 
+  {
+   "begin": "203.120", 
+   "children": [], 
+   "end": "204.920", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "um das zu verstehen. "
+   ]
+  }, 
+  {
+   "begin": "204.920", 
+   "children": [], 
+   "end": "205.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Sie, "
+   ]
+  }, 
+  {
+   "begin": "205.360", 
+   "children": [], 
+   "end": "206.920", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die Damen und Herren von Linken, "
+   ]
+  }, 
+  {
+   "begin": "206.920", 
+   "children": [], 
+   "end": "207.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Gr\u00fcnen und SPD, "
+   ]
+  }, 
+  {
+   "begin": "207.840", 
+   "children": [], 
+   "end": "209.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "sollten aber bereit sein, "
+   ]
+  }, 
+  {
+   "begin": "209.000", 
+   "children": [], 
+   "end": "211.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Expertenmeinungen zu akzeptieren, "
+   ]
+  }, 
+  {
+   "begin": "211.360", 
+   "children": [], 
+   "end": "215.160", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn diese nicht in Ihr politisches Weltbild passen."
+   ]
+  }, 
+  {
+   "begin": "215.160", 
+   "children": [], 
+   "end": "218.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Und an die realit\u00e4tsnahen Damen und Herren der Union:"
+   ]
+  }, 
+  {
+   "begin": "218.680", 
+   "children": [], 
+   "end": "219.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Es gen\u00fcgt nicht, "
+   ]
+  }, 
+  {
+   "begin": "219.760", 
+   "children": [], 
+   "end": "222.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "im stillen K\u00e4mmerlein der AfD zuzustimmen."
+   ]
+  }, 
+  {
+   "begin": "222.440", 
+   "children": [], 
+   "end": "224.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen endlich auch bereit sein, "
+   ]
+  }, 
+  {
+   "begin": "224.240", 
+   "children": [], 
+   "end": "231.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "vern\u00fcnftige und klare Positionen zu beziehen und diese in Ihrer Partei durchzusetzen."
+   ]
+  }, 
+  {
+   "begin": "231.480", 
+   "children": [], 
+   "end": "232.960", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wenn das nicht geht, "
+   ]
+  }, 
+  {
+   "begin": "232.960", 
+   "children": [], 
+   "end": "235.880", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dann sind Sie vielleicht in der falschen Partei."
+   ]
+  }, 
+  {
+   "begin": "235.880", 
+   "children": [], 
+   "end": "240.480", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte gerne noch auf den Antrag der FDP-Fraktion eingehen. "
+   ]
+  }, 
+  {
+   "begin": "240.480", 
+   "children": [], 
+   "end": "245.320", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Das Umweltministerium des Landes Baden-W\u00fcrttemberg hat eine Studie f\u00fcr Stuttgart erstellt, "
+   ]
+  }, 
+  {
+   "begin": "245.320", 
+   "children": [], 
+   "end": "245.720", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die besagt, "
+   ]
+  }, 
+  {
+   "begin": "245.720", 
+   "children": [], 
+   "end": "247.520", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass die Nachr\u00fcstung bzw. "
+   ]
+  }, 
+  {
+   "begin": "247.520", 
+   "children": [], 
+   "end": "252.800", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "die Elektrifizierung der Dieselbusse im Hinblick auf die Stickoxide in der Luft fast nichts nutzen. "
+   ]
+  }, 
+  {
+   "begin": "252.800", 
+   "children": [], 
+   "end": "253.640", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Eine plausible Studie, "
+   ]
+  }, 
+  {
+   "begin": "253.640", 
+   "children": [], 
+   "end": "256.480", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "wonach die Digitalisierung die Luftschadstoffe reduziert, "
+   ]
+  }, 
+  {
+   "begin": "256.480", 
+   "children": [], 
+   "end": "259.040", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "ist mir \u00fcbrigens auch nicht bekannt. "
+   ]
+  }, 
+  {
+   "begin": "259.040", 
+   "children": [], 
+   "end": "261.000", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wenn eine Ma\u00dfnahme keinen Effekt hat, "
+   ]
+  }, 
+  {
+   "begin": "261.000", 
+   "children": [], 
+   "end": "264.000", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dann sollte man sie auch nicht fordern."
+   ]
+  }, 
+  {
+   "begin": "264.000", 
+   "children": [], 
+   "end": "265.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Es gibt keine Studie, "
+   ]
+  }, 
+  {
+   "begin": "265.600", 
+   "children": [], 
+   "end": "266.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "die das best\u00e4tigt."
+   ]
+  }, 
+  {
+   "begin": "266.840", 
+   "children": [], 
+   "end": "269.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Das Problem sind nicht die Abgase der Fahrzeuge, "
+   ]
+  }, 
+  {
+   "begin": "269.600", 
+   "children": [], 
+   "end": "273.840", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "sondern die absurd niedrigen Grenzwerte f\u00fcr Stickoxide."
+   ]
+  }, 
+  {
+   "begin": "273.840", 
+   "children": [], 
+   "end": "275.640", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Diese Vorgaben der EU h\u00e4tten Sie, "
+   ]
+  }, 
+  {
+   "begin": "275.640", 
+   "children": [], 
+   "end": "279.600", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "sehr geehrte Damen und Herren von der Gro\u00dfen Koalition, "
+   ]
+  }, 
+  {
+   "begin": "279.600", 
+   "children": [], 
+   "end": "282.200", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "in den letzten zehn Jahren infrage stellen sollen. "
+   ]
+  }, 
+  {
+   "begin": "282.200", 
+   "children": [], 
+   "end": "285.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt haben Sie sich argumentativ in die Sackgasse man\u00f6vriert. "
+   ]
+  }, 
+  {
+   "begin": "285.760", 
+   "children": [], 
+   "end": "294.600", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Die fehlende klare Linie in den Regierungsparteien zu diesem Thema und diesen offensichtlich sinnlosen Antr\u00e4gen ist ein Symbol daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "294.600", 
+   "children": [], 
+   "end": "300.600", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "wie sehr Sie mit der F\u00fchrung eines modernen Industriestaates \u00fcberfordert sind."
+   ]
+  }, 
+  {
+   "begin": "300.600", 
+   "children": [], 
+   "end": "308.360", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Unter vern\u00fcnftigen Politikern w\u00fcrde es eine solche Diskussion zur Nachr\u00fcstung \u00fcberhaupt nicht geben."
+   ]
+  }, 
+  {
+   "begin": "308.360", 
+   "children": [], 
+   "end": "311.520", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Die AfD-Fraktion stimmt der \u00dcberweisung in beiden F\u00e4llen zu, "
+   ]
+  }, 
+  {
+   "begin": "311.520", 
+   "children": [], 
+   "end": "313.320", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "lehnt aber die beiden Antr\u00e4ge inhaltlich ab."
+   ]
+  }, 
+  {
+   "begin": "313.320", 
+   "children": [], 
+   "end": "314.000", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "314.000", 
+   "children": [], 
+   "end": "315.480", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Dr.\u00a0Spaniel, "
+   ]
+  }, 
+  {
+   "begin": "315.480", 
+   "children": [], 
+   "end": "318.800", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "318.800", 
+   "children": [], 
+   "end": "323.000", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die SPD-Fraktion der Kollege Arno Klare."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1104 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.400", 
+   "children": [], 
+   "end": "6.600", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "children": [], 
+   "end": "10.520", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Debatte bekommt immer mehr die Z\u00fcge einer Generaldebatte zum Freihandel. "
+   ]
+  }, 
+  {
+   "begin": "10.520", 
+   "children": [], 
+   "end": "13.240", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte in diesem Zusammenhang zumindest darauf hinweisen, "
+   ]
+  }, 
+  {
+   "begin": "13.240", 
+   "children": [], 
+   "end": "24.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass es der Fraktion der FDP in ihrem Antrag eigentlich um Rechtssicherheit und um die Reichweite von Schutzklauseln im internationalen Investitionsbereich geht."
+   ]
+  }, 
+  {
+   "begin": "24.520", 
+   "children": [], 
+   "end": "27.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ich will einige Punkte klarstellen, "
+   ]
+  }, 
+  {
+   "begin": "27.600", 
+   "children": [], 
+   "end": "28.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "um zu verdeutlichen, "
+   ]
+  }, 
+  {
+   "begin": "28.360", 
+   "children": [], 
+   "end": "35.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass der EuGH mit der Achmea-Entscheidung im M\u00e4rz ein Machtwort zur Auslegung europ\u00e4ischen Rechts gesprochen hat. "
+   ]
+  }, 
+  {
+   "begin": "35.560", 
+   "children": [], 
+   "end": "38.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Schiedsklauseln in bilateralen Vertr\u00e4gen, "
+   ]
+  }, 
+  {
+   "begin": "38.320", 
+   "children": [], 
+   "end": "43.200", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "in Investitionsschutzabkommen zwischen zwei europ\u00e4ischen Mitgliedstaaten, "
+   ]
+  }, 
+  {
+   "begin": "43.200", 
+   "children": [], 
+   "end": "44.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "sind unzul\u00e4ssig. "
+   ]
+  }, 
+  {
+   "begin": "44.800", 
+   "children": [], 
+   "end": "51.720", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber die Auslegung und Anwendung des europ\u00e4ischen Rechts muss man schon ein bisschen l\u00e4nger nachdenken. "
+   ]
+  }, 
+  {
+   "begin": "51.720", 
+   "children": [], 
+   "end": "59.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist gewisserma\u00dfen \u00fcber Nacht eine Reihe anderer Vertr\u00e4ge infrage gestellt worden. "
+   ]
+  }, 
+  {
+   "begin": "59.840", 
+   "children": [], 
+   "end": "60.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Dabei geht es, "
+   ]
+  }, 
+  {
+   "begin": "60.560", 
+   "children": [], 
+   "end": "62.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "62.560", 
+   "children": [], 
+   "end": "65.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "um eine Kernfrage des europ\u00e4ischen Binnenmarktes."
+   ]
+  }, 
+  {
+   "begin": "65.520", 
+   "children": [], 
+   "end": "69.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Die meisten der bilateralen Schutzabkommen, "
+   ]
+  }, 
+  {
+   "begin": "69.400", 
+   "children": [], 
+   "end": "71.200", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die auch Deutschland abgeschlossen hat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "71.200", 
+   "children": [], 
+   "end": "74.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel 1961 mit Griechenland, "
+   ]
+  }, 
+  {
+   "begin": "74.520", 
+   "children": [], 
+   "end": "77.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "mit Malta 1973, "
+   ]
+  }, 
+  {
+   "begin": "77.920", 
+   "children": [], 
+   "end": "81.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "mit Lettland 1993; "
+   ]
+  }, 
+  {
+   "begin": "81.120", 
+   "children": [], 
+   "end": "82.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbrigens wie alle anderen europ\u00e4ischen L\u00e4nder\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "82.200", 
+   "children": [], 
+   "end": "84.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "sind jetzt infrage gestellt. "
+   ]
+  }, 
+  {
+   "begin": "84.960", 
+   "children": [], 
+   "end": "90.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen sie f\u00fcr den europ\u00e4ischen Binnenmarkt eigentlich auch nicht; "
+   ]
+  }, 
+  {
+   "begin": "90.160", 
+   "children": [], 
+   "end": "92.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "denn mit dem 1.\u00a0Januar 1993\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "92.360", 
+   "children": [], 
+   "end": "95.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Stichwort \u201eEinheitliche Europ\u00e4ische Akte\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "95.520", 
+   "children": [], 
+   "end": "98.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "haben wir gewisserma\u00dfen den Wendepunkt markiert. "
+   ]
+  }, 
+  {
+   "begin": "98.560", 
+   "children": [], 
+   "end": "101.360", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben Marktfreiheiten definiert, "
+   ]
+  }, 
+  {
+   "begin": "101.360", 
+   "children": [], 
+   "end": "104.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und diese Marktfreiheiten m\u00fcssen wir entwickeln. "
+   ]
+  }, 
+  {
+   "begin": "104.920", 
+   "children": [], 
+   "end": "109.920", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Harmonisierung von Rechtsvorschriften in der Europ\u00e4ischen Union dient dazu, "
+   ]
+  }, 
+  {
+   "begin": "109.920", 
+   "children": [], 
+   "end": "112.600", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "den Binnenmarkt zu vollenden. "
+   ]
+  }, 
+  {
+   "begin": "112.600", 
+   "children": [], 
+   "end": "114.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Mit anderen Worten: "
+   ]
+  }, 
+  {
+   "begin": "114.240", 
+   "children": [], 
+   "end": "118.400", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die Rechtsangleichung in der Europ\u00e4ischen Union muss weitergehen. "
+   ]
+  }, 
+  {
+   "begin": "118.400", 
+   "children": [], 
+   "end": "124.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Sie erfasst nat\u00fcrlich auch Anwendungsvorschriften aus alten v\u00f6lkerrechtlichen Vertr\u00e4gen."
+   ]
+  }, 
+  {
+   "begin": "124.640", 
+   "children": [], 
+   "end": "132.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Der Europ\u00e4ische Gerichtshof hat in Bezug auf die zugrundeliegenden Fragen einfach Nein gesagt. "
+   ]
+  }, 
+  {
+   "begin": "132.120", 
+   "children": [], 
+   "end": "133.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Darauf hat er sich beschr\u00e4nkt; "
+   ]
+  }, 
+  {
+   "begin": "133.920", 
+   "children": [], 
+   "end": "135.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "er ist nicht dar\u00fcber hinausgegangen. "
+   ]
+  }, 
+  {
+   "begin": "135.840", 
+   "children": [], 
+   "end": "137.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "137.040", 
+   "children": [], 
+   "end": "147.840", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass Klauseln \u00fcber Investor-Staat-Streitverfahren zwischen Mitgliedstaaten nicht per se mit dem Prim\u00e4rrecht unvereinbar sind. "
+   ]
+  }, 
+  {
+   "begin": "147.840", 
+   "children": [], 
+   "end": "149.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr stellt sich die Frage, "
+   ]
+  }, 
+  {
+   "begin": "149.600", 
+   "children": [], 
+   "end": "156.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "ob deren Ausgestaltung im Einzelnen die Autonomie der Unionsrechtsordnung wahrt. "
+   ]
+  }, 
+  {
+   "begin": "156.000", 
+   "children": [], 
+   "end": "160.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das wird wahrscheinlich auch bei anderen Vertr\u00e4gen festgestellt werden."
+   ]
+  }, 
+  {
+   "begin": "160.440", 
+   "children": [], 
+   "end": "163.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich noch zu ein paar anderen Punkten dieser Debatte etwas sagen. "
+   ]
+  }, 
+  {
+   "begin": "163.960", 
+   "children": [], 
+   "end": "165.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Ich fand es bemerkenswert, "
+   ]
+  }, 
+  {
+   "begin": "165.640", 
+   "children": [], 
+   "end": "171.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass sich ganz links und ganz rechts in diesem Hohen Hause bei bestimmten Punkten einig waren, "
+   ]
+  }, 
+  {
+   "begin": "171.840", 
+   "children": [], 
+   "end": "173.280", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass da Schnittpunkte zum Vorschein kamen: "
+   ]
+  }, 
+  {
+   "begin": "173.280", 
+   "children": [], 
+   "end": "177.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind gemeinsam gegen Freihandel und f\u00fcr Protektionismus. "
+   ]
+  }, 
+  {
+   "begin": "177.880", 
+   "children": [], 
+   "end": "182.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das muss man sich einmal auf der Zunge zergehen lassen."
+   ]
+  }, 
+  {
+   "begin": "182.120", 
+   "children": [], 
+   "end": "185.680", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Union will ich an dieser Stelle klarstellen, "
+   ]
+  }, 
+  {
+   "begin": "185.680", 
+   "children": [], 
+   "end": "190.720", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "weil die Kollegin Dr\u00f6ge das mit Blick auf die CETA-Vertr\u00e4ge gerade noch einmal infrage gestellt hat: "
+   ]
+  }, 
+  {
+   "begin": "190.720", 
+   "children": [], 
+   "end": "194.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Das Recht zur Regulierung ist in diesen Vertr\u00e4gen gew\u00e4hrleistet. "
+   ]
+  }, 
+  {
+   "begin": "194.120", 
+   "children": [], 
+   "end": "196.640", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Ein Investitionsschutz zielt nicht darauf ab, "
+   ]
+  }, 
+  {
+   "begin": "196.640", 
+   "children": [], 
+   "end": "199.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Staaten zur \u00c4nderung ihrer Gesetze zu zwingen, "
+   ]
+  }, 
+  {
+   "begin": "199.640", 
+   "children": [], 
+   "end": "200.920", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "ganz und gar nicht. "
+   ]
+  }, 
+  {
+   "begin": "200.920", 
+   "children": [], 
+   "end": "203.520", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Es entsteht vielmehr ein Schadenersatzanspruch, "
+   ]
+  }, 
+  {
+   "begin": "203.520", 
+   "children": [], 
+   "end": "206.160", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "wenn Rechte durch willk\u00fcrliche, "
+   ]
+  }, 
+  {
+   "begin": "206.160", 
+   "children": [], 
+   "end": "210.760", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "unverh\u00e4ltnism\u00e4\u00dfige oder diskriminierende Ma\u00dfnahmen verletzt werden. "
+   ]
+  }, 
+  {
+   "begin": "210.760", 
+   "children": [], 
+   "end": "218.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Im \u00dcbrigen gibt es auch keine \u00d6ffnungsverpflichtungen bei der \u00f6ffentlichen Daseinsvorsorge zulasten der Kommunen. "
+   ]
+  }, 
+  {
+   "begin": "218.120", 
+   "children": [], 
+   "end": "220.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Gerade das ist bei CETA ausgeschlossen."
+   ]
+  }, 
+  {
+   "begin": "220.960", 
+   "children": [], 
+   "end": "227.240", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich noch einen Satz zum Thema \u201eParalleljustiz\u201c sagen. "
+   ]
+  }, 
+  {
+   "begin": "227.240", 
+   "children": [], 
+   "end": "233.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "In jeder Debatte \u00fcber dieses Thema in diesem Hohen Hause kommt es vor, "
+   ]
+  }, 
+  {
+   "begin": "233.560", 
+   "children": [], 
+   "end": "237.640", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass Schiedsgerichte als abnormale, "
+   ]
+  }, 
+  {
+   "begin": "237.640", 
+   "children": [], 
+   "end": "238.800", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "unsoziale, "
+   ]
+  }, 
+  {
+   "begin": "238.800", 
+   "children": [], 
+   "end": "244.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "undemokratische Elemente neben der ordentlichen Gerichtsbarkeit dargestellt werden. "
+   ]
+  }, 
+  {
+   "begin": "244.080", 
+   "children": [], 
+   "end": "246.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich will einfach einmal deutlich machen: "
+   ]
+  }, 
+  {
+   "begin": "246.360", 
+   "children": [], 
+   "end": "250.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Schiedsgerichte sind unserer Rechtsordnung immanent. "
+   ]
+  }, 
+  {
+   "begin": "250.640", 
+   "children": [], 
+   "end": "253.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind Instrumente der Streitbeilegung, "
+   ]
+  }, 
+  {
+   "begin": "253.360", 
+   "children": [], 
+   "end": "255.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die eine lange Tradition haben."
+   ]
+  }, 
+  {
+   "begin": "255.120", 
+   "children": [], 
+   "end": "260.960", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "In der Zivilprozessordnung steht das Schiedsgericht seit 1879."
+   ]
+  }, 
+  {
+   "begin": "260.960", 
+   "children": [], 
+   "end": "263.040", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie es ein bisschen sportlicher machen wollen, "
+   ]
+  }, 
+  {
+   "begin": "263.040", 
+   "children": [], 
+   "end": "270.480", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dann gucken Sie sich einmal das Sportgericht des Deutschen Fu\u00dfball-Bundes an: "
+   ]
+  }, 
+  {
+   "begin": "270.480", 
+   "children": [], 
+   "end": "272.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Letzte Instanz dort ist ein Schiedsgericht. "
+   ]
+  }, 
+  {
+   "begin": "272.640", 
+   "children": [], 
+   "end": "274.600", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie Streitbeilegungen nicht trauen, "
+   ]
+  }, 
+  {
+   "begin": "274.600", 
+   "children": [], 
+   "end": "278.280", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dann schauen Sie von den Linken und der AfD mal in die Satzungen Ihrer Parteien: "
+   ]
+  }, 
+  {
+   "begin": "278.280", 
+   "children": [], 
+   "end": "279.920", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Auch Sie haben ein Schiedsgericht. "
+   ]
+  }, 
+  {
+   "begin": "279.920", 
+   "children": [], 
+   "end": "280.080", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "280.080", 
+   "children": [], 
+   "end": "282.400", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Schiedsgerichte sind \u00fcberhaupt nicht zu verteufeln. "
+   ]
+  }, 
+  {
+   "begin": "282.400", 
+   "children": [], 
+   "end": "287.400", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Streitbeilegungen geh\u00f6ren ganz selbstverst\u00e4ndlich zur Kultur."
+   ]
+  }, 
+  {
+   "begin": "287.400", 
+   "children": [], 
+   "end": "292.840", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Das gilt umso mehr im internationalen Handel zwischen Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "292.840", 
+   "children": [], 
+   "end": "302.480", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "aber eben auch zwischen Staaten und f\u00fcr die Beziehungen zwischen Staaten und Unternehmen. "
+   ]
+  }, 
+  {
+   "begin": "302.480", 
+   "children": [], 
+   "end": "305.360", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Gerade im letzteren Fall kommt es darauf an, "
+   ]
+  }, 
+  {
+   "begin": "305.360", 
+   "children": [], 
+   "end": "315.080", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass man sich gegenseitig bei Investitionen im jeweils anderen Land einen besonderen Rechtsgew\u00e4hrleistungsanspruch einr\u00e4umt. "
+   ]
+  }, 
+  {
+   "begin": "315.080", 
+   "children": [], 
+   "end": "316.880", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Unternehmer und Kaufleute, "
+   ]
+  }, 
+  {
+   "begin": "316.880", 
+   "children": [], 
+   "end": "318.440", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "die das nicht machen, "
+   ]
+  }, 
+  {
+   "begin": "318.440", 
+   "children": [], 
+   "end": "319.440", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "laufen Gefahr, "
+   ]
+  }, 
+  {
+   "begin": "319.440", 
+   "children": [], 
+   "end": "324.280", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dass sie ihrer Investitionen durch staatliche Ma\u00dfnahmen verlustig gehen. "
+   ]
+  }, 
+  {
+   "begin": "324.280", 
+   "children": [], 
+   "end": "328.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie in einem anderen Staat zehn Jahre lang auf ein Gerichtsurteil warten m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "328.760", 
+   "children": [], 
+   "end": "330.880", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "dann sind Sie als Kaufmann pleite, "
+   ]
+  }, 
+  {
+   "begin": "330.880", 
+   "children": [], 
+   "end": "333.440", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen Sie Ihre Arbeitnehmer nach Hause schicken. "
+   ]
+  }, 
+  {
+   "begin": "333.440", 
+   "children": [], 
+   "end": "338.400", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Das wollen wir schon allein mit Blick auf die Interessen der Besch\u00e4ftigten in unserem Land nicht."
+   ]
+  }, 
+  {
+   "begin": "338.400", 
+   "children": [], 
+   "end": "339.720", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Im Ergebnis ist festzustellen: "
+   ]
+  }, 
+  {
+   "begin": "339.720", 
+   "children": [], 
+   "end": "341.840", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Das Anliegen der FDP, "
+   ]
+  }, 
+  {
+   "begin": "341.840", 
+   "children": [], 
+   "end": "344.400", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "das sie in ihrem Antrag formuliert, "
+   ]
+  }, 
+  {
+   "begin": "344.400", 
+   "children": [], 
+   "end": "345.280", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "ist berechtigt, "
+   ]
+  }, 
+  {
+   "begin": "345.280", 
+   "children": [], 
+   "end": "347.120", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "und es ist richtig beschrieben. "
+   ]
+  }, 
+  {
+   "begin": "347.120", 
+   "children": [], 
+   "end": "350.400", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Aber das Gras w\u00e4chst eben auch nicht schneller, "
+   ]
+  }, 
+  {
+   "begin": "350.400", 
+   "children": [], 
+   "end": "352.400", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "wenn man hier heute Abend daran zieht. "
+   ]
+  }, 
+  {
+   "begin": "352.400", 
+   "children": [], 
+   "end": "357.080", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb m\u00fcssen wir bei der Rechtsangleichung im Binnenmarkt weiter Gas geben. "
+   ]
+  }, 
+  {
+   "begin": "357.080", 
+   "children": [], 
+   "end": "359.400", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen daran weiterarbeiten."
+   ]
+  }, 
+  {
+   "begin": "359.400", 
+   "children": [], 
+   "end": "362.160", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank f\u00fcr Ihre Aufmerksamkeit"
+   ]
+  }, 
+  {
+   "begin": "362.160", 
+   "children": [], 
+   "end": "363.000", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "363.000", 
+   "children": [], 
+   "end": "366.440", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Dr.\u00a0Heider.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "366.440", 
+   "children": [], 
+   "end": "367.920", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich eine Bemerkung machen, "
+   ]
+  }, 
+  {
+   "begin": "367.920", 
+   "children": [], 
+   "end": "370.240", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "weil wir mit dem Finger immer auf andere L\u00e4nder zeigen: "
+   ]
+  }, 
+  {
+   "begin": "370.240", 
+   "children": [], 
+   "end": "371.320", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Auch in Deutschland kann es vorkommen, "
+   ]
+  }, 
+  {
+   "begin": "371.320", 
+   "children": [], 
+   "end": "375.400", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie bis zu zehn Jahre und l\u00e4nger auf eine rechtskr\u00e4ftige Entscheidung warten m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "375.400", 
+   "children": [], 
+   "end": "377.640", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ja eines unserer Probleme."
+   ]
+  }, 
+  {
+   "begin": "377.640", 
+   "children": [], 
+   "end": "382.440", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Wir reden jetzt nicht \u00fcber das Verh\u00e4ltnis zwischen CDU und CSU, "
+   ]
+  }, 
+  {
+   "begin": "382.440", 
+   "children": [], 
+   "end": "384.160", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "sondern \u00fcber die zivile Justiz."
+   ]
+  }, 
+  {
+   "begin": "384.160", 
+   "children": [], 
+   "end": "390.960", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Als letzte Rednerin zu diesem Tagesordnungspunkt f\u00fcr die SPD die Kollegin Dr.\u00a0Nina Scheer."
+   ]
+  }
+ ]
+}

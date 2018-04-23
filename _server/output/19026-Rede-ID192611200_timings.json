@@ -1,0 +1,874 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "0.640", 
+   "children": [], 
+   "end": "0.641", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "0.641", 
+   "children": [], 
+   "end": "0.642", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Dieselfahrer darf nicht zum Bauernopfer der Nation werden. "
+   ]
+  }, 
+  {
+   "begin": "0.642", 
+   "children": [], 
+   "end": "0.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die EU-Grenzwerte wurden 2008 auf Basis von Korrelationsstudien festgelegt. "
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "children": [], 
+   "end": "1.120", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte Ihnen einmal zeigen, "
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "children": [], 
+   "end": "1.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "was Korrelationsstudien k\u00f6nnen: "
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "children": [], 
+   "end": "2.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wissenschaftler haben festgestellt, "
+   ]
+  }, 
+  {
+   "begin": "2.720", 
+   "children": [], 
+   "end": "3.360", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass die Ehedauer korreliert, "
+   ]
+  }, 
+  {
+   "begin": "3.360", 
+   "children": [], 
+   "end": "3.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "das hei\u00dft zusammenh\u00e4ngt, "
+   ]
+  }, 
+  {
+   "begin": "3.680", 
+   "children": [], 
+   "end": "4.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Umfang der B\u00e4uche der Ehem\u00e4nner."
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "children": [], 
+   "end": "4.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "children": [], 
+   "end": "4.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "je l\u00e4nger eine Ehe dauert, "
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "children": [], 
+   "end": "5.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "desto gr\u00f6\u00dfer wird der Bauch. "
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "children": [], 
+   "end": "6.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft aber im Umkehrschluss nicht unbedingt, "
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "children": [], 
+   "end": "8.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "dass der ausschlaggebende Punkt f\u00fcr den Bauch\u00adumfang tats\u00e4chlich die Tatsache der Ehe ist. "
+   ]
+  }, 
+  {
+   "begin": "8.560", 
+   "children": [], 
+   "end": "9.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr sind andere Tatsachen wie ein ver\u00e4nderter Stoffwechsel, "
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "children": [], 
+   "end": "9.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "das Alter, "
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "children": [], 
+   "end": "10.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "mangelnder Sport und eine andere Ern\u00e4hrung Grund daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "children": [], 
+   "end": "10.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass der Bauch ein bisschen gr\u00f6\u00dfer wird."
+   ]
+  }, 
+  {
+   "begin": "10.920", 
+   "children": [], 
+   "end": "12.880", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Genauso wie man bei Ehe und Bauchumfang nicht eins zu eins R\u00fcckschl\u00fcsse ziehen kann, "
+   ]
+  }, 
+  {
+   "begin": "12.880", 
+   "children": [], 
+   "end": "15.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "ist auch das Stickoxid bei der Frage der Herz-Kreislauf-Erkrankungen das geringste der auftretenden Risiken. "
+   ]
+  }, 
+  {
+   "begin": "15.280", 
+   "children": [], 
+   "end": "16.360", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Nach wie vor sind die gr\u00f6\u00dften Risiken f\u00fcr Herz-Kreislauf-Erkrankungen in Deutschland \u00dcbergewicht, "
+   ]
+  }, 
+  {
+   "begin": "16.360", 
+   "children": [], 
+   "end": "16.361", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Rauchen, "
+   ]
+  }, 
+  {
+   "begin": "16.361", 
+   "children": [], 
+   "end": "16.400", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "mangelnder Sport und falsche Ern\u00e4hrung. "
+   ]
+  }, 
+  {
+   "begin": "16.400", 
+   "children": [], 
+   "end": "17.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das sollten wir den Menschen da drau\u00dfen noch einmal sagen."
+   ]
+  }, 
+  {
+   "begin": "17.120", 
+   "children": [], 
+   "end": "17.240", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Aber nicht nur das: "
+   ]
+  }, 
+  {
+   "begin": "17.240", 
+   "children": [], 
+   "end": "18.640", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wir Deutschen sind auch so ein bisschen die Messidioten Europas. "
+   ]
+  }, 
+  {
+   "begin": "18.640", 
+   "children": [], 
+   "end": "20.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4hrend andere vollkommen im Rahmen der europ\u00e4ischen Gesetzgebung ihre Messstationen ein St\u00fcck weit weg von den Stra\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "20.920", 
+   "children": [], 
+   "end": "20.921", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "teilweise unter Palmen, "
+   ]
+  }, 
+  {
+   "begin": "20.921", 
+   "children": [], 
+   "end": "20.922", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "aufstellen, "
+   ]
+  }, 
+  {
+   "begin": "20.922", 
+   "children": [], 
+   "end": "20.923", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "hat man das Gef\u00fchl, "
+   ]
+  }, 
+  {
+   "begin": "20.923", 
+   "children": [], 
+   "end": "20.924", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass die L\u00e4nder und St\u00e4dte in Deutschland bem\u00fcht sind, "
+   ]
+  }, 
+  {
+   "begin": "20.924", 
+   "children": [], 
+   "end": "20.925", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "H\u00f6chstergebnisse zu messen. "
+   ]
+  }, 
+  {
+   "begin": "20.925", 
+   "children": [], 
+   "end": "20.926", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage es einmal mit Dieter Nuhr, "
+   ]
+  }, 
+  {
+   "begin": "20.926", 
+   "children": [], 
+   "end": "20.927", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "der gesagt hat: "
+   ]
+  }, 
+  {
+   "begin": "20.927", 
+   "children": [], 
+   "end": "20.928", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das ist so, "
+   ]
+  }, 
+  {
+   "begin": "20.928", 
+   "children": [], 
+   "end": "20.929", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "wie wenn man versucht, "
+   ]
+  }, 
+  {
+   "begin": "20.929", 
+   "children": [], 
+   "end": "20.930", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "den K\u00f6rpergeruch eines Menschen an seinem Hintern zu messen."
+   ]
+  }, 
+  {
+   "begin": "20.930", 
+   "children": [], 
+   "end": "20.931", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Gemengelage von superstrengen Grenzwerten der EU und radikalen Messmethoden in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "20.931", 
+   "children": [], 
+   "end": "20.932", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Genau in dieser Gemengelage drohen die deutschen Dieselfahrer zum Opfer der Politik zu werden."
+   ]
+  }, 
+  {
+   "begin": "20.932", 
+   "children": [], 
+   "end": "20.933", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Eines m\u00f6chte ich sagen: "
+   ]
+  }, 
+  {
+   "begin": "20.933", 
+   "children": [], 
+   "end": "20.934", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Nachhaltig ist das nicht. "
+   ]
+  }, 
+  {
+   "begin": "20.934", 
+   "children": [], 
+   "end": "20.935", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Nachhaltig ist ein ausgewogenes Ma\u00df von \u00f6kologisch, "
+   ]
+  }, 
+  {
+   "begin": "20.935", 
+   "children": [], 
+   "end": "21.000", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "\u00f6konomisch und sozial. "
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "children": [], 
+   "end": "21.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Schauen wir einmal, "
+   ]
+  }, 
+  {
+   "begin": "21.560", 
+   "children": [], 
+   "end": "22.920", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "was ein Fahrverbot f\u00fcr Dieselfahrzeuge bewirken w\u00fcrde: "
+   ]
+  }, 
+  {
+   "begin": "22.920", 
+   "children": [], 
+   "end": "23.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Damit w\u00fcrden die wirtschaftlichen und sozialen Belange derer, "
+   ]
+  }, 
+  {
+   "begin": "23.640", 
+   "children": [], 
+   "end": "23.960", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die kalt enteignet werden, "
+   ]
+  }, 
+  {
+   "begin": "23.960", 
+   "children": [], 
+   "end": "23.961", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "derer, "
+   ]
+  }, 
+  {
+   "begin": "23.961", 
+   "children": [], 
+   "end": "23.962", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "die Familie und Beruf vereinbaren wollen, "
+   ]
+  }, 
+  {
+   "begin": "23.962", 
+   "children": [], 
+   "end": "24.040", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "derer, "
+   ]
+  }, 
+  {
+   "begin": "24.040", 
+   "children": [], 
+   "end": "25.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die im Handwerk und Mittelstand wirtschaften m\u00f6chten, "
+   ]
+  }, 
+  {
+   "begin": "25.120", 
+   "children": [], 
+   "end": "25.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dem geringen \u00f6kologischen Nutzen einer leichten Senkung geopfert werden."
+   ]
+  }, 
+  {
+   "begin": "25.400", 
+   "children": [], 
+   "end": "26.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "In Deutschland m\u00fcssen wir drei Dinge noch viel entschlossener angehen."
+   ]
+  }, 
+  {
+   "begin": "26.360", 
+   "children": [], 
+   "end": "26.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "26.840", 
+   "children": [], 
+   "end": "28.160", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Die Messstellen m\u00fcssen wir bundeseinheitlich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "28.160", 
+   "children": [], 
+   "end": "29.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "weil auch die Bundesb\u00fcrger die Konsequenzen tragen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "29.120", 
+   "children": [], 
+   "end": "30.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "innerhalb des europ\u00e4ischen Rechtsrahmens, "
+   ]
+  }, 
+  {
+   "begin": "30.560", 
+   "children": [], 
+   "end": "31.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "aber unter Ausnutzung der Toleranzen aufstellen."
+   ]
+  }, 
+  {
+   "begin": "31.360", 
+   "children": [], 
+   "end": "32.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen zweitens bez\u00fcglich des Vertragsverletzungsverfahrens mit der EU im Gespr\u00e4ch bleiben. "
+   ]
+  }, 
+  {
+   "begin": "32.960", 
+   "children": [], 
+   "end": "33.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen zeigen, "
+   ]
+  }, 
+  {
+   "begin": "33.520", 
+   "children": [], 
+   "end": "35.360", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass wir durchaus noch nachhaltige Ma\u00dfnahmen haben, "
+   ]
+  }, 
+  {
+   "begin": "35.360", 
+   "children": [], 
+   "end": "36.160", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die wir anwenden k\u00f6nnen und m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "36.160", 
+   "children": [], 
+   "end": "37.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "um die Grenzwerte einzuhalten. "
+   ]
+  }, 
+  {
+   "begin": "37.560", 
+   "children": [], 
+   "end": "37.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen zeigen, "
+   ]
+  }, 
+  {
+   "begin": "37.880", 
+   "children": [], 
+   "end": "38.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass wir nach den Erfolgen, "
+   ]
+  }, 
+  {
+   "begin": "38.480", 
+   "children": [], 
+   "end": "39.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die wir bereits erzielt haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "39.000", 
+   "children": [], 
+   "end": "39.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die Luft in Deutschland ist so gut wie seit 30\u00a0Jahren nicht\u00a0\u2013,"
+   ]
+  }, 
+  {
+   "begin": "39.200", 
+   "children": [], 
+   "end": "39.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "nur noch etwas mehr Zeit brauchen, "
+   ]
+  }, 
+  {
+   "begin": "39.760", 
+   "children": [], 
+   "end": "40.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "um die Grenzwerte einzuhalten."
+   ]
+  }, 
+  {
+   "begin": "40.520", 
+   "children": [], 
+   "end": "40.521", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Drittens\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "40.521", 
+   "children": [], 
+   "end": "40.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "das unterscheidet uns\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "40.560", 
+   "children": [], 
+   "end": "41.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Auch bei der Luftreinhaltung ist Stillstand ein R\u00fcckschritt. "
+   ]
+  }, 
+  {
+   "begin": "41.760", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich wollen wir besser werden. "
+   ]
+  }, 
+  {
+   "begin": "42.760", 
+   "children": [], 
+   "end": "43.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt eine Ma\u00dfnahme, "
+   ]
+  }, 
+  {
+   "begin": "43.600", 
+   "children": [], 
+   "end": "45.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "mit der wir ganz einfach den gesellschaftlichen Belangen und den \u00f6kologischen Belangen Rechnung tragen k\u00f6nnen: "
+   ]
+  }, 
+  {
+   "begin": "45.600", 
+   "children": [], 
+   "end": "46.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen unsere Fahrzeuge zum Fahren bringen, "
+   ]
+  }, 
+  {
+   "begin": "46.360", 
+   "children": [], 
+   "end": "47.320", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "und wir m\u00fcssen den Verkehr zum Flie\u00dfen bringen. "
+   ]
+  }, 
+  {
+   "begin": "47.320", 
+   "children": [], 
+   "end": "49.440", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Dann sind die geringsten Schadstoffausst\u00f6\u00dfe vorhanden."
+   ]
+  }, 
+  {
+   "begin": "49.440", 
+   "children": [], 
+   "end": "50.160", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Umgehungsstra\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "50.160", 
+   "children": [], 
+   "end": "51.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "bessere Infrastruktur, "
+   ]
+  }, 
+  {
+   "begin": "51.120", 
+   "children": [], 
+   "end": "51.480", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "digitalisierte Verkehrslenkung und ein attraktiver \u00d6PNV: "
+   ]
+  }, 
+  {
+   "begin": "51.480", 
+   "children": [], 
+   "end": "54.200", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "So betreibt man nachhaltigen Luftschutz."
+   ]
+  }, 
+  {
+   "begin": "54.200", 
+   "children": [], 
+   "end": "54.320", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "54.320", 
+   "children": [], 
+   "end": "54.400", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Skudelny.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "54.400", 
+   "children": [], 
+   "end": "54.680", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin: "
+   ]
+  }, 
+  {
+   "begin": "54.680", 
+   "children": [], 
+   "end": "55.000", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ulli Nissen f\u00fcr die SPD-Fraktion."
+   ]
+  }
+ ]
+}

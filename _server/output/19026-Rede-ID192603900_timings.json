@@ -1,0 +1,974 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "1.200", 
+   "children": [], 
+   "end": "2.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "children": [], 
+   "end": "10.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.440", 
+   "children": [], 
+   "end": "14.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Mit dieser Aktuellen Stunde soll offenbar der Eindruck erweckt werden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "14.720", 
+   "children": [], 
+   "end": "15.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "so haben Sie es gesagt, "
+   ]
+  }, 
+  {
+   "begin": "15.400", 
+   "children": [], 
+   "end": "16.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Kollege Hebner\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "16.200", 
+   "children": [], 
+   "end": "25.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "die Vereinten Nationen wollten mit dem Global Compact for Migration eine nie da gewesene V\u00f6lkerwanderung in Richtung Europa und in unsere Sozialsysteme in Gang setzen."
+   ]
+  }, 
+  {
+   "begin": "27.880", 
+   "children": [], 
+   "end": "32.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die Stichworte \u201eMigration\u201c und \u201einternationale Zusammenarbeit\u201c reichen offenbar schon aus, "
+   ]
+  }, 
+  {
+   "begin": "32.280", 
+   "children": [], 
+   "end": "36.000", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "um bei Ihnen entsprechende Reflexe auszul\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "36.000", 
+   "children": [], 
+   "end": "39.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das genaue Gegenteil ist in Wahrheit der Fall: "
+   ]
+  }, 
+  {
+   "begin": "39.160", 
+   "children": [], 
+   "end": "41.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Es ist das erkl\u00e4rte Ziel des Pakts, "
+   ]
+  }, 
+  {
+   "begin": "41.480", 
+   "children": [], 
+   "end": "44.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "ungeregelte Migrationsstr\u00f6me zu verringern. "
+   ]
+  }, 
+  {
+   "begin": "44.560", 
+   "children": [], 
+   "end": "51.000", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um globale L\u00f6sungen im Umgang mit Fluchtbewegungen und um geordnete Migration. "
+   ]
+  }, 
+  {
+   "begin": "51.000", 
+   "children": [], 
+   "end": "52.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Es geht an keiner Stelle darum\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "52.360", 
+   "children": [], 
+   "end": "55.640", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "das ist jedenfalls die klare Position der Bundesregierung\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "55.640", 
+   "children": [], 
+   "end": "58.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "staatliche Souver\u00e4nit\u00e4tsrechte einzuschr\u00e4nken."
+   ]
+  }, 
+  {
+   "begin": "58.920", 
+   "children": [], 
+   "end": "63.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "63.400", 
+   "children": [], 
+   "end": "65.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wir wollen Migration ordnen, "
+   ]
+  }, 
+  {
+   "begin": "65.960", 
+   "children": [], 
+   "end": "68.960", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "steuern und begrenzen."
+   ]
+  }, 
+  {
+   "begin": "68.960", 
+   "children": [], 
+   "end": "77.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb wollen wir die Bek\u00e4mpfung der eigentlichen Fluchtursachen in den Ursprungsl\u00e4ndern in den Vordergrund r\u00fccken. "
+   ]
+  }, 
+  {
+   "begin": "77.280", 
+   "children": [], 
+   "end": "82.000", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb setzen wir uns f\u00fcr die nachhaltige Verbesserung der Lebenssituation in den Herkunfts- "
+   ]
+  }, 
+  {
+   "begin": "82.000", 
+   "children": [], 
+   "end": "83.840", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und Transitl\u00e4ndern ein. "
+   ]
+  }, 
+  {
+   "begin": "83.840", 
+   "children": [], 
+   "end": "89.640", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb bek\u00e4mpfen wir illegale Migration und Schleuserkriminalit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "89.640", 
+   "children": [], 
+   "end": "96.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Und deshalb wollen wir auch funktionierende R\u00fccknahmeabkommen mit m\u00f6glichst zahlreichen Herkunftsl\u00e4ndern in Afrika und anderswo. "
+   ]
+  }, 
+  {
+   "begin": "98.480", 
+   "children": [], 
+   "end": "102.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Und im Rahmen von Migrationspartnerschaften mag es an der einen oder anderen Stelle sinnvoll sein, "
+   ]
+  }, 
+  {
+   "begin": "102.760", 
+   "children": [], 
+   "end": "107.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "im Gegenzug auch klar definierte Kontingente f\u00fcr begrenzte Zuwanderung zu er\u00f6ffnen, "
+   ]
+  }, 
+  {
+   "begin": "107.000", 
+   "children": [], 
+   "end": "108.840", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel \u00fcber Studenten- "
+   ]
+  }, 
+  {
+   "begin": "108.840", 
+   "children": [], 
+   "end": "110.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "und Arbeitsvisa. "
+   ]
+  }, 
+  {
+   "begin": "110.200", 
+   "children": [], 
+   "end": "116.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben alles im \u00dcbrigen im Bereich des westlichen Balkan mit gro\u00dfem Erfolg praktiziert. "
+   ]
+  }, 
+  {
+   "begin": "116.760", 
+   "children": [], 
+   "end": "118.360", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Denn kluge Einwanderungspolitik, "
+   ]
+  }, 
+  {
+   "begin": "118.360", 
+   "children": [], 
+   "end": "120.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wie es im Koalitionsvertrag hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "120.440", 
+   "children": [], 
+   "end": "125.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "verringert \u201edie Attraktivit\u00e4t von illegaler und ungesteuerter Einwanderung\u201c. "
+   ]
+  }, 
+  {
+   "begin": "125.800", 
+   "children": [], 
+   "end": "128.480", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Gesteuerte Einwanderung muss nach festen, "
+   ]
+  }, 
+  {
+   "begin": "128.480", 
+   "children": [], 
+   "end": "132.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "von den Ziell\u00e4ndern festgelegten Kriterien erfolgen. "
+   ]
+  }, 
+  {
+   "begin": "132.200", 
+   "children": [], 
+   "end": "136.880", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb beteiligen wir uns im Rahmen der UN auch an den Verhandlungen zum Migrationspakt."
+   ]
+  }, 
+  {
+   "begin": "136.880", 
+   "children": [], 
+   "end": "149.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Resettlement-Programme mit dem UNHCR nach humanit\u00e4ren Kriterien sind eine klare Erg\u00e4nzung f\u00fcr das, "
+   ]
+  }, 
+  {
+   "begin": "149.800", 
+   "children": [], 
+   "end": "151.080", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "was in diesem Bereich zu tun ist, "
+   ]
+  }, 
+  {
+   "begin": "151.080", 
+   "children": [], 
+   "end": "154.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wie wir es auch im EU-T\u00fcrkei-Abkommen dargelegt haben."
+   ]
+  }, 
+  {
+   "begin": "154.880", 
+   "children": [], 
+   "end": "155.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "155.320", 
+   "children": [], 
+   "end": "158.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "wer eine Steuerung und Begrenzung der Migration erreichen will, "
+   ]
+  }, 
+  {
+   "begin": "158.200", 
+   "children": [], 
+   "end": "159.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "kann nicht ignorieren: "
+   ]
+  }, 
+  {
+   "begin": "159.520", 
+   "children": [], 
+   "end": "162.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Fluchtbewegungen und Migrationsdruck sind weltweit eine Realit\u00e4t\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "162.440", 
+   "children": [], 
+   "end": "163.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "und das mehr denn je. "
+   ]
+  }, 
+  {
+   "begin": "163.640", 
+   "children": [], 
+   "end": "168.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "260\u00a0Millionen Menschen leben heute in einem anderen Land als ihrem Geburtsland\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "168.040", 
+   "children": [], 
+   "end": "169.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "mehr als jemals zuvor. "
+   ]
+  }, 
+  {
+   "begin": "169.920", 
+   "children": [], 
+   "end": "173.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Weltweit sind derzeit rund 65\u00a0Millionen Menschen auf der Flucht, "
+   ]
+  }, 
+  {
+   "begin": "173.480", 
+   "children": [], 
+   "end": "176.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "davon \u00fcber 40\u00a0Millionen Binnenvertriebene."
+   ]
+  }, 
+  {
+   "begin": "176.720", 
+   "children": [], 
+   "end": "179.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die meisten Fl\u00fcchtlinge finden Aufnahme in Nachbarl\u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "179.840", 
+   "children": [], 
+   "end": "181.680", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die h\u00e4ufig selbst Entwicklungsl\u00e4nder sind. "
+   ]
+  }, 
+  {
+   "begin": "181.680", 
+   "children": [], 
+   "end": "187.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Mehr als 80\u00a0Prozent der Fl\u00fcchtlinge weltweit halten sich in Staaten mit niedrigem oder mittlerem Einkommen auf. "
+   ]
+  }, 
+  {
+   "begin": "187.200", 
+   "children": [], 
+   "end": "189.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Diese Aufnahmel\u00e4nder ben\u00f6tigen Unterst\u00fctzung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "189.880", 
+   "children": [], 
+   "end": "190.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "auch, "
+   ]
+  }, 
+  {
+   "begin": "190.320", 
+   "children": [], 
+   "end": "194.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "um ihre eigene Stabilit\u00e4t weiterhin gew\u00e4hrleisten zu k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "194.400", 
+   "children": [], 
+   "end": "197.200", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Wer globale Wanderungsbewegungen begrenzen und steuern will, "
+   ]
+  }, 
+  {
+   "begin": "197.200", 
+   "children": [], 
+   "end": "199.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "der muss auch hier ansetzen. "
+   ]
+  }, 
+  {
+   "begin": "199.120", 
+   "children": [], 
+   "end": "200.960", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Denn es ist sinnvoll, "
+   ]
+  }, 
+  {
+   "begin": "200.960", 
+   "children": [], 
+   "end": "205.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass Fl\u00fcchtlinge m\u00f6glichst in der Region oder den Nachbarl\u00e4ndern verbleiben k\u00f6nnen; "
+   ]
+  }, 
+  {
+   "begin": "205.200", 
+   "children": [], 
+   "end": "209.200", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "das wahrt am besten ihre Chance auf R\u00fcckkehr in ihr Heimatland. "
+   ]
+  }, 
+  {
+   "begin": "209.200", 
+   "children": [], 
+   "end": "213.200", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Dort muss selbstverst\u00e4ndlich ihre elementare Versorgung sichergestellt werden. "
+   ]
+  }, 
+  {
+   "begin": "213.200", 
+   "children": [], 
+   "end": "216.200", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht nur eine humanit\u00e4re Verantwortung; "
+   ]
+  }, 
+  {
+   "begin": "216.200", 
+   "children": [], 
+   "end": "219.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Lastenteilung in dieser Hinsicht ist auch wirtschaftlich sinnvoll."
+   ]
+  }, 
+  {
+   "begin": "219.800", 
+   "children": [], 
+   "end": "226.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Die Versorgung und Unterbringung eines Fl\u00fcchtlings in Europa kostet nach manchen Berechnungen mehr als das Hundertfache des Betrages, "
+   ]
+  }, 
+  {
+   "begin": "226.560", 
+   "children": [], 
+   "end": "227.320", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "den man br\u00e4uchte, "
+   ]
+  }, 
+  {
+   "begin": "227.320", 
+   "children": [], 
+   "end": "234.680", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "um ihm in der Region seiner Herkunft sichere Perspektiven zu er\u00f6ffnen."
+   ]
+  }, 
+  {
+   "begin": "236.880", 
+   "children": [], 
+   "end": "237.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Es reicht aber nicht aus, "
+   ]
+  }, 
+  {
+   "begin": "237.880", 
+   "children": [], 
+   "end": "240.080", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "sie dort nur mit Lebensmitteln oder einer Unterkunft zu versorgen. "
+   ]
+  }, 
+  {
+   "begin": "240.080", 
+   "children": [], 
+   "end": "242.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Viele Menschen bleiben heute l\u00e4nger\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "242.000", 
+   "children": [], 
+   "end": "243.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "oft f\u00fcr mehrere Jahre\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "243.040", 
+   "children": [], 
+   "end": "244.840", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "in ihrem Zufluchtsland. "
+   ]
+  }, 
+  {
+   "begin": "244.840", 
+   "children": [], 
+   "end": "246.160", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sie brauchen auch die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "246.160", 
+   "children": [], 
+   "end": "248.440", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dort Geld f\u00fcr ihren Lebensunterhalt zu verdienen, "
+   ]
+  }, 
+  {
+   "begin": "248.440", 
+   "children": [], 
+   "end": "248.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "um, "
+   ]
+  }, 
+  {
+   "begin": "248.560", 
+   "children": [], 
+   "end": "251.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "wie es der \u00d6konom Paul Collier formuliert hat, "
+   ]
+  }, 
+  {
+   "begin": "251.760", 
+   "children": [], 
+   "end": "255.280", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "\u201eaus Arbeit W\u00fcrde zu beziehen und ihre Familien zusammenzuhalten\u201c. "
+   ]
+  }, 
+  {
+   "begin": "255.280", 
+   "children": [], 
+   "end": "259.640", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Dabei ist auch der Zugang zu Bildung f\u00fcr ihre Kinder ein ganz zentrales Thema; "
+   ]
+  }, 
+  {
+   "begin": "259.640", 
+   "children": [], 
+   "end": "262.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "auch das haben wir im EU-T\u00fcrkei-Abkommen ber\u00fccksichtigt. "
+   ]
+  }, 
+  {
+   "begin": "262.400", 
+   "children": [], 
+   "end": "263.840", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "\u201eCash for Work\u201c, "
+   ]
+  }, 
+  {
+   "begin": "263.840", 
+   "children": [], 
+   "end": "265.120", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "die Initiative des BMZ, "
+   ]
+  }, 
+  {
+   "begin": "265.120", 
+   "children": [], 
+   "end": "266.240", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "ist ein gutes Beispiel, "
+   ]
+  }, 
+  {
+   "begin": "266.240", 
+   "children": [], 
+   "end": "270.120", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "mit der wir in Jordanien und im Libanon rund 31\u00a0000\u00a0Jobs in Bildung, "
+   ]
+  }, 
+  {
+   "begin": "270.120", 
+   "children": [], 
+   "end": "273.960", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "im Handwerk und in der Infrastruktur f\u00fcr Fl\u00fcchtlinge geschaffen haben."
+   ]
+  }, 
+  {
+   "begin": "273.960", 
+   "children": [], 
+   "end": "275.440", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "275.440", 
+   "children": [], 
+   "end": "280.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "die deutsche Beteiligung an den Verhandlungen zum globalen Migrationspakt ist sinnvoll und notwendig. "
+   ]
+  }, 
+  {
+   "begin": "280.400", 
+   "children": [], 
+   "end": "282.560", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir nehmen diese Verantwortung an. "
+   ]
+  }, 
+  {
+   "begin": "282.560", 
+   "children": [], 
+   "end": "284.240", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Und wer den Menschen in Deutschland einreden will, "
+   ]
+  }, 
+  {
+   "begin": "284.240", 
+   "children": [], 
+   "end": "290.080", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "wir br\u00e4uchten uns nur hinter Mauern und Stacheldraht zu verschanzen und uns dann um die Probleme in der Welt nicht mehr zu k\u00fcmmern, "
+   ]
+  }, 
+  {
+   "begin": "290.080", 
+   "children": [], 
+   "end": "292.400", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "der handelt schlichtweg verantwortungslos."
+   ]
+  }, 
+  {
+   "begin": "292.400", 
+   "children": [], 
+   "end": "299.440", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Und im Zentrum steht f\u00fcr uns auch beim globalen Migrations- "
+   ]
+  }, 
+  {
+   "begin": "299.440", 
+   "children": [], 
+   "end": "303.320", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "und Fluchtpakt die W\u00fcrde des Menschen."
+   ]
+  }, 
+  {
+   "begin": "303.320", 
+   "children": [], 
+   "end": "306.760", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wer sich gerne als Retter des christlichen Abendlandes stilisiert, "
+   ]
+  }, 
+  {
+   "begin": "306.760", 
+   "children": [], 
+   "end": "310.280", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "der sollte sich vielleicht auch die Worte des Vatikanvertreters zu Herzen nehmen: "
+   ]
+  }, 
+  {
+   "begin": "310.280", 
+   "children": [], 
+   "end": "312.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Fl\u00fcchtlinge sind nicht einfach nur Zahlen, "
+   ]
+  }, 
+  {
+   "begin": "312.360", 
+   "children": [], 
+   "end": "314.120", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "die verschoben und zugeteilt werden, "
+   ]
+  }, 
+  {
+   "begin": "314.120", 
+   "children": [], 
+   "end": "317.480", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "sondern jeder Einzelne ist eine individuelle Pers\u00f6nlichkeit mit einem Namen, "
+   ]
+  }, 
+  {
+   "begin": "317.480", 
+   "children": [], 
+   "end": "321.480", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "einer Geschichte und mit seinen ganz pers\u00f6nlichen Hoffnungen und Sehns\u00fcchten."
+   ]
+  }, 
+  {
+   "begin": "321.480", 
+   "children": [], 
+   "end": "330.120", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "330.120", 
+   "children": [], 
+   "end": "333.000", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Kollege Christoph Matschie f\u00fcr die SPD-Fraktion."
+   ]
+  }
+ ]
+}
