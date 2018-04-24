@@ -1,0 +1,634 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "children": [], 
+   "end": "9.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "children": [], 
+   "end": "13.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Zuschauer hier im Hohen Haus! "
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "children": [], 
+   "end": "25.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die Debatte um das Freilandverbot der von der Ministerin angesprochenen Wirkstoffe ist in meinen Augen der Beweis f\u00fcr die Kraft der besseren Argumente und wirklicher Verantwortung in der Politik."
+   ]
+  }, 
+  {
+   "begin": "25.360", 
+   "children": [], 
+   "end": "31.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Meine Fraktion hatte sich in der Ausschusssitzung am 14.\u00a0M\u00e4rz 2018 noch gegen diesen Antrag ausgesprochen. "
+   ]
+  }, 
+  {
+   "begin": "31.680", 
+   "children": [], 
+   "end": "34.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Wir hatten damals unsere Gr\u00fcnde daf\u00fcr. "
+   ]
+  }, 
+  {
+   "begin": "34.560", 
+   "children": [], 
+   "end": "40.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Als Anw\u00e4lte unserer kleinen und mittelst\u00e4ndischen Bauern ist es unsere Pflicht, "
+   ]
+  }, 
+  {
+   "begin": "40.560", 
+   "children": [], 
+   "end": "46.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "bei Verboten wirkkr\u00e4ftiger Mittel mehr als einmal hinzuschauen und genau zu \u00fcberlegen. "
+   ]
+  }, 
+  {
+   "begin": "46.600", 
+   "children": [], 
+   "end": "47.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben aber erkannt, "
+   ]
+  }, 
+  {
+   "begin": "47.880", 
+   "children": [], 
+   "end": "50.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass wir damals falsch lagen."
+   ]
+  }, 
+  {
+   "begin": "50.000", 
+   "children": [], 
+   "end": "54.680", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Im Nachgang zu unserem Votum im Ausschuss haben wir die Gelegenheit wahrgenommen, "
+   ]
+  }, 
+  {
+   "begin": "54.680", 
+   "children": [], 
+   "end": "56.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "mit Vertretern beider Seiten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "56.560", 
+   "children": [], 
+   "end": "58.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr und gegen dieses Verbot\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "58.160", 
+   "children": [], 
+   "end": "59.400", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "zu sprechen. "
+   ]
+  }, 
+  {
+   "begin": "59.400", 
+   "children": [], 
+   "end": "61.280", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben erkennen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "61.280", 
+   "children": [], 
+   "end": "63.400", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "dass sich der Einsatz dieser Wirkstoffe, "
+   ]
+  }, 
+  {
+   "begin": "63.400", 
+   "children": [], 
+   "end": "68.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "gerade im Hinblick auf den massiven R\u00fcckgang der Artenvielfalt, "
+   ]
+  }, 
+  {
+   "begin": "68.600", 
+   "children": [], 
+   "end": "70.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "verheerend ausgewirkt hat."
+   ]
+  }, 
+  {
+   "begin": "70.880", 
+   "children": [], 
+   "end": "73.880", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Besonders betroffen sind nicht nur die Honigbienen, "
+   ]
+  }, 
+  {
+   "begin": "73.880", 
+   "children": [], 
+   "end": "78.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "sondern vor allen Dingen die Solit\u00e4rbienen. "
+   ]
+  }, 
+  {
+   "begin": "78.160", 
+   "children": [], 
+   "end": "83.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden aufgrund ihrer Lebensweise noch st\u00e4rker von diesen Pestiziden beeinflusst. "
+   ]
+  }, 
+  {
+   "begin": "83.720", 
+   "children": [], 
+   "end": "94.400", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Durch ihre gro\u00dfe Spezialisierung auf bestimmte Zeitabschnitte im Jahreslauf sind sie f\u00fcr die Best\u00e4ubung bestimmter Pflanzen von enormer Wichtigkeit. "
+   ]
+  }, 
+  {
+   "begin": "94.400", 
+   "children": [], 
+   "end": "101.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Bei einer weiteren Verwendung der angesprochenen Wirkstoffe im Freiland sehen wir in Zukunft chinesischen Verh\u00e4ltnissen entgegen, "
+   ]
+  }, 
+  {
+   "begin": "101.880", 
+   "children": [], 
+   "end": "105.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "bei denen der Bauer mit dem Pinsel die Best\u00e4ubungsarbeit verrichten muss, "
+   ]
+  }, 
+  {
+   "begin": "105.720", 
+   "children": [], 
+   "end": "109.840", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "weil kaum gen\u00fcgend Insekten verblieben sind."
+   ]
+  }, 
+  {
+   "begin": "109.840", 
+   "children": [], 
+   "end": "115.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wir stimmen daher dem Verbot und ausdr\u00fccklich dem Antrag der Gr\u00fcnen zu, "
+   ]
+  }, 
+  {
+   "begin": "115.600", 
+   "children": [], 
+   "end": "119.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "schlie\u00dflich ist Umweltschutz immer auch Heimatschutz. "
+   ]
+  }, 
+  {
+   "begin": "119.280", 
+   "children": [], 
+   "end": "123.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Zumindest Letzteres hat mittlerweile in Deutschland ein eigenes Ministerium erhalten."
+   ]
+  }, 
+  {
+   "begin": "123.760", 
+   "children": [], 
+   "end": "130.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings bleibt das Grundproblem bestehen: "
+   ]
+  }, 
+  {
+   "begin": "130.880", 
+   "children": [], 
+   "end": "133.040", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wer eine Wirkgruppe verbietet, "
+   ]
+  }, 
+  {
+   "begin": "133.040", 
+   "children": [], 
+   "end": "135.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "muss Alternativen schaffen. "
+   ]
+  }, 
+  {
+   "begin": "135.400", 
+   "children": [], 
+   "end": "142.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Schlie\u00dflich beeinflusst die Politik die Entscheidungen der Landwirte hinsichtlich der Schwerpunktbildung. "
+   ]
+  }, 
+  {
+   "begin": "142.280", 
+   "children": [], 
+   "end": "150.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wenn von staatlicher Seite nicht in den 90er-Jahren vom Einsatz des Pfluges abgeraten worden w\u00e4re, "
+   ]
+  }, 
+  {
+   "begin": "150.800", 
+   "children": [], 
+   "end": "155.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4tte es den Herbizid-Boom in den letzten Jahren vielleicht gar nicht gegeben."
+   ]
+  }, 
+  {
+   "begin": "155.280", 
+   "children": [], 
+   "end": "162.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Abgeordnete dieses Hauses sind also gerade im Bereich der Landwirtschaft ganz besonders in der Pflicht, "
+   ]
+  }, 
+  {
+   "begin": "162.480", 
+   "children": [], 
+   "end": "165.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "die Folgen unserer Entscheidungen abzufedern. "
+   ]
+  }, 
+  {
+   "begin": "165.560", 
+   "children": [], 
+   "end": "166.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir fordern daher, "
+   ]
+  }, 
+  {
+   "begin": "166.520", 
+   "children": [], 
+   "end": "169.800", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "zusammen mit den Kollegen der Landesparlamente, "
+   ]
+  }, 
+  {
+   "begin": "169.800", 
+   "children": [], 
+   "end": "173.080", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "die landwirtschaftliche Beratungst\u00e4tigkeit vor Ort zu erhalten, "
+   ]
+  }, 
+  {
+   "begin": "173.080", 
+   "children": [], 
+   "end": "175.040", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "zu f\u00f6rdern und gegebenenfalls auszubauen. "
+   ]
+  }, 
+  {
+   "begin": "175.040", 
+   "children": [], 
+   "end": "179.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Durch eine F\u00f6rderung der Anlaufstellen f\u00fcr Landwirte, "
+   ]
+  }, 
+  {
+   "begin": "179.520", 
+   "children": [], 
+   "end": "188.200", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die neben den Einsatzm\u00f6glichkeiten von Pflanzenschutzmitteln auch einen integrativen Pflanzenschutz vermitteln sollen, "
+   ]
+  }, 
+  {
+   "begin": "188.200", 
+   "children": [], 
+   "end": "200.160", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "kann das bereits bestehende gro\u00dfe ackerbauliche Wissen um eine gute fachliche Praxis der Landwirte nochmals erweitert werden."
+   ]
+  }, 
+  {
+   "begin": "200.160", 
+   "children": [], 
+   "end": "202.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wenn eine nachhaltige, "
+   ]
+  }, 
+  {
+   "begin": "202.040", 
+   "children": [], 
+   "end": "207.680", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "aber auch wettbewerbsf\u00e4hige Fl\u00e4chenbewirtschaftung im Fokus der Politik stehen soll, "
+   ]
+  }, 
+  {
+   "begin": "207.680", 
+   "children": [], 
+   "end": "212.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "muss man diesen Stellen weitere Kompetenzen zur Wissensvermittlung \u00fcbertragen. "
+   ]
+  }, 
+  {
+   "begin": "212.960", 
+   "children": [], 
+   "end": "221.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Neben einer erfolgten Beratungst\u00e4tigkeit vor Ort brauchen wir demnach im Sinne des integrierten Pflanzenschutzes Regelungen, "
+   ]
+  }, 
+  {
+   "begin": "221.520", 
+   "children": [], 
+   "end": "225.400", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die Strukturelemente in der Landwirtschaft wie Hecken, "
+   ]
+  }, 
+  {
+   "begin": "225.400", 
+   "children": [], 
+   "end": "228.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Felds\u00e4ume und bl\u00fchende Alleeb\u00e4ume f\u00f6rdern, "
+   ]
+  }, 
+  {
+   "begin": "228.320", 
+   "children": [], 
+   "end": "235.240", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "die wichtige Lebensr\u00e4ume f\u00fcr Antagonisten wie etwa Marienk\u00e4fer oder Florfliegen sind. "
+   ]
+  }, 
+  {
+   "begin": "235.240", 
+   "children": [], 
+   "end": "237.600", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Landwirtschaftspflege ist eben auch Pflanzenschutz; "
+   ]
+  }, 
+  {
+   "begin": "237.600", 
+   "children": [], 
+   "end": "247.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "eine Marienk\u00e4ferlarve vertilgt auch ihre 150\u00a0Blattl\u00e4use am Tag."
+   ]
+  }, 
+  {
+   "begin": "247.200", 
+   "children": [], 
+   "end": "251.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Schlussendlich m\u00fcssen alle diese Ma\u00dfnahmen f\u00fcr den Landwirt, "
+   ]
+  }, 
+  {
+   "begin": "251.200", 
+   "children": [], 
+   "end": "254.600", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber das Verbot der angesprochenen Wirkstoffe hinaus, "
+   ]
+  }, 
+  {
+   "begin": "254.600", 
+   "children": [], 
+   "end": "258.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "auch einen \u00f6konomischen Anreiz zur Nachhaltigkeit bieten; "
+   ]
+  }, 
+  {
+   "begin": "258.600", 
+   "children": [], 
+   "end": "267.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "denn am Ende muss dieser seine Entscheidungen zuvorderst mit Blick auf sein Portemonnaie treffen."
+   ]
+  }, 
+  {
+   "begin": "267.000", 
+   "children": [], 
+   "end": "267.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte darum, "
+   ]
+  }, 
+  {
+   "begin": "267.880", 
+   "children": [], 
+   "end": "272.680", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Landwirte nach dem Verbot weiter unterst\u00fctzt werden. "
+   ]
+  }, 
+  {
+   "begin": "272.680", 
+   "children": [], 
+   "end": "273.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wir stimmen dem Antrag zu."
+   ]
+  }, 
+  {
+   "begin": "273.960", 
+   "children": [], 
+   "end": "274.800", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "274.800", 
+   "children": [], 
+   "end": "275.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "275.480", 
+   "children": [], 
+   "end": "277.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Protschka.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "277.800", 
+   "children": [], 
+   "end": "282.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die sozialdemokratische Fraktion der Kollege Dr.\u00a0Matthias Miersch."
+   ]
+  }
+ ]
+}

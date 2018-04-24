@@ -1,0 +1,684 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.320", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n, "
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "children": [], 
+   "end": "11.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "11.960", 
+   "children": [], 
+   "end": "16.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "16.800", 
+   "children": [], 
+   "end": "18.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Alles ist gut, "
+   ]
+  }, 
+  {
+   "begin": "18.120", 
+   "children": [], 
+   "end": "20.160", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "alles ist bestens, "
+   ]
+  }, 
+  {
+   "begin": "20.160", 
+   "children": [], 
+   "end": "22.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "alles ist wunderbar im Bereich der Medien, "
+   ]
+  }, 
+  {
+   "begin": "22.320", 
+   "children": [], 
+   "end": "28.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "speziell im Bereich der Deutschen Welle. "
+   ]
+  }, 
+  {
+   "begin": "28.720", 
+   "children": [], 
+   "end": "34.880", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Aber ich sage Ihnen eins: "
+   ]
+  }, 
+  {
+   "begin": "34.880", 
+   "children": [], 
+   "end": "40.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben eine Vertrauenskrise bez\u00fcglich der Medien in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "40.680", 
+   "children": [], 
+   "end": "44.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht zu bestreiten und nicht zu \u00fcbersehen."
+   ]
+  }, 
+  {
+   "begin": "44.400", 
+   "children": [], 
+   "end": "47.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ich zitiere einmal den \u201eCicero\u201c; "
+   ]
+  }, 
+  {
+   "begin": "47.760", 
+   "children": [], 
+   "end": "53.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "dieses politische Magazin hat in seiner Januarausgabe dieses Jahres getitelt: "
+   ]
+  }, 
+  {
+   "begin": "53.200", 
+   "children": [], 
+   "end": "54.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "\u201eSchiffbruch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "54.320", 
+   "children": [], 
+   "end": "57.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die Vertrauenskrise der Medien\u201c. "
+   ]
+  }, 
+  {
+   "begin": "57.800", 
+   "children": [], 
+   "end": "63.120", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt k\u00f6nnen Sie nat\u00fcrlich die Kritik der Medien an den Medien beiseiteschieben. "
+   ]
+  }, 
+  {
+   "begin": "63.120", 
+   "children": [], 
+   "end": "65.000", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dann ziehen Sie halt die Wissenschaft heran; "
+   ]
+  }, 
+  {
+   "begin": "65.000", 
+   "children": [], 
+   "end": "67.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "ich verweise zum Beispiel auf zwei B\u00fccher, "
+   ]
+  }, 
+  {
+   "begin": "67.200", 
+   "children": [], 
+   "end": "69.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die Wissenschaftler dazu geschrieben haben: "
+   ]
+  }, 
+  {
+   "begin": "69.040", 
+   "children": [], 
+   "end": "69.960", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "\u201eMAINSTREAM\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "69.960", 
+   "children": [], 
+   "end": "78.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Warum wir den Medien nicht mehr trauen\u201c vom Leipziger Medienwissenschaftler Uwe Kr\u00fcger und \u201eDie Unbelangbaren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "78.280", 
+   "children": [], 
+   "end": "85.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wie politische Journalisten mitregieren\u201c des Politologen Professor Dr.\u00a0Thomas Meyer. "
+   ]
+  }, 
+  {
+   "begin": "85.080", 
+   "children": [], 
+   "end": "87.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ganz sicher kein AfD-Anh\u00e4nger. "
+   ]
+  }, 
+  {
+   "begin": "87.880", 
+   "children": [], 
+   "end": "92.080", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Er warnt vor einer Art Journalistendemokratie. "
+   ]
+  }, 
+  {
+   "begin": "92.080", 
+   "children": [], 
+   "end": "96.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Er bef\u00fcrwortet eine Trendumkehr im Journalismus. "
+   ]
+  }, 
+  {
+   "begin": "96.120", 
+   "children": [], 
+   "end": "99.320", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist dieses Thema heute so wichtig, "
+   ]
+  }, 
+  {
+   "begin": "99.320", 
+   "children": [], 
+   "end": "101.560", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass wir es besprechen."
+   ]
+  }, 
+  {
+   "begin": "101.560", 
+   "children": [], 
+   "end": "107.840", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Ich zitiere erneut einen eher linken Soziologen."
+   ]
+  }, 
+  {
+   "begin": "107.840", 
+   "children": [], 
+   "end": "109.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Renner, "
+   ]
+  }, 
+  {
+   "begin": "109.440", 
+   "children": [], 
+   "end": "110.840", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "darf ich Sie darauf aufmerksam machen, "
+   ]
+  }, 
+  {
+   "begin": "110.840", 
+   "children": [], 
+   "end": "113.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie eine Zwischenbemerkung machen."
+   ]
+  }, 
+  {
+   "begin": "113.480", 
+   "children": [], 
+   "end": "114.680", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Eine Kurzintervention, "
+   ]
+  }, 
+  {
+   "begin": "114.680", 
+   "children": [], 
+   "end": "115.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "ja."
+   ]
+  }, 
+  {
+   "begin": "115.080", 
+   "children": [], 
+   "end": "115.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ja. "
+   ]
+  }, 
+  {
+   "begin": "115.840", 
+   "children": [], 
+   "end": "120.800", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Und diese sollte sich eigentlich auf den Beitrag des vorangegangenen Redners beziehen."
+   ]
+  }, 
+  {
+   "begin": "120.800", 
+   "children": [], 
+   "end": "121.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Mache ich doch!"
+   ]
+  }, 
+  {
+   "begin": "121.600", 
+   "children": [], 
+   "end": "122.720", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem ist sie kurz; "
+   ]
+  }, 
+  {
+   "begin": "122.720", 
+   "children": [], 
+   "end": "123.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "123.120", 
+   "children": [], 
+   "end": "124.160", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die Zeit geht auch zu Ende."
+   ]
+  }, 
+  {
+   "begin": "124.160", 
+   "children": [], 
+   "end": "124.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Bitte."
+   ]
+  }, 
+  {
+   "begin": "124.280", 
+   "children": [], 
+   "end": "125.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "125.280", 
+   "children": [], 
+   "end": "126.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "mache ich doch; "
+   ]
+  }, 
+  {
+   "begin": "126.200", 
+   "children": [], 
+   "end": "127.760", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "denn der Vorredner hat ja dargestellt: "
+   ]
+  }, 
+  {
+   "begin": "127.760", 
+   "children": [], 
+   "end": "128.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Alles ist gut, "
+   ]
+  }, 
+  {
+   "begin": "128.520", 
+   "children": [], 
+   "end": "129.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "alles ist bestens.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "129.720", 
+   "children": [], 
+   "end": "131.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ich will eben darauf hinweisen, "
+   ]
+  }, 
+  {
+   "begin": "131.000", 
+   "children": [], 
+   "end": "134.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass nicht alles gut und nicht alles bestens ist."
+   ]
+  }, 
+  {
+   "begin": "134.200", 
+   "children": [], 
+   "end": "135.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "135.640", 
+   "children": [], 
+   "end": "139.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die Demokratie braucht die Kontrolle der Medien."
+   ]
+  }, 
+  {
+   "begin": "139.640", 
+   "children": [], 
+   "end": "141.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Und ich muss Sie darauf hinweisen, "
+   ]
+  }, 
+  {
+   "begin": "141.280", 
+   "children": [], 
+   "end": "143.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass die Zwischenbemerkung nicht l\u00e4nger als zwei Minuten dauern kann; "
+   ]
+  }, 
+  {
+   "begin": "143.680", 
+   "children": [], 
+   "end": "144.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die sind vor\u00fcber. "
+   ]
+  }, 
+  {
+   "begin": "144.880", 
+   "children": [], 
+   "end": "147.080", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Bitte kommen Sie zum Ende."
+   ]
+  }, 
+  {
+   "begin": "147.080", 
+   "children": [], 
+   "end": "147.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Ende.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "147.920", 
+   "children": [], 
+   "end": "150.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "150.120", 
+   "children": [], 
+   "end": "154.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die Deutsche Welle ist eine besondere Form des Rundfunks."
+   ]
+  }, 
+  {
+   "begin": "154.600", 
+   "children": [], 
+   "end": "156.040", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Dennoch ist es so, "
+   ]
+  }, 
+  {
+   "begin": "156.040", 
+   "children": [], 
+   "end": "159.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass es h\u00f6chste Zeit wird, "
+   ]
+  }, 
+  {
+   "begin": "159.520", 
+   "children": [], 
+   "end": "167.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass wir eine medienpolitische Grundsatzdiskussion auch hier in diesem Hause und hier in diesem Lande f\u00fchren."
+   ]
+  }, 
+  {
+   "begin": "167.080", 
+   "children": [], 
+   "end": "168.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Es wird Ihnen zwar nicht passen, "
+   ]
+  }, 
+  {
+   "begin": "168.880", 
+   "children": [], 
+   "end": "173.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "aber die Demokratie in unserem Lande wird das haben m\u00fcssen und haben wollen, "
+   ]
+  }, 
+  {
+   "begin": "173.760", 
+   "children": [], 
+   "end": "174.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und das wird guttun."
+   ]
+  }, 
+  {
+   "begin": "174.080", 
+   "children": [], 
+   "end": "175.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "175.040", 
+   "children": [], 
+   "end": "179.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "179.480", 
+   "children": [], 
+   "end": "180.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ich darf bitten, "
+   ]
+  }, 
+  {
+   "begin": "180.800", 
+   "children": [], 
+   "end": "184.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das Instrument der Zwischenbemerkung so nutzen, "
+   ]
+  }, 
+  {
+   "begin": "184.120", 
+   "children": [], 
+   "end": "186.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "wie es in der Gesch\u00e4ftsordnung vorgesehen ist."
+   ]
+  }, 
+  {
+   "begin": "186.600", 
+   "children": [], 
+   "end": "192.600", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt hat der Kollege Rabanus die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "192.600", 
+   "children": [], 
+   "end": "193.000", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "zu antworten."
+   ]
+  }
+ ]
+}

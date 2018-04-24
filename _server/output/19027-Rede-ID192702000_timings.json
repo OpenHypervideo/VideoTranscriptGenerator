@@ -1,0 +1,764 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.600", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "children": [], 
+   "end": "12.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "children": [], 
+   "end": "19.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Warum wohnen in den meisten europ\u00e4ischen L\u00e4ndern mehr Menschen in den eigenen vier W\u00e4nden als bei uns in Deutschland? "
+   ]
+  }, 
+  {
+   "begin": "19.480", 
+   "children": [], 
+   "end": "24.640", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Warum ist Deutschland innerhalb der EU das Schlusslicht bei der Wohnungseigentumsquote? "
+   ]
+  }, 
+  {
+   "begin": "24.640", 
+   "children": [], 
+   "end": "26.240", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Sicherlich doch nicht deshalb, "
+   ]
+  }, 
+  {
+   "begin": "26.240", 
+   "children": [], 
+   "end": "29.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "weil bei uns die Menschen hier viel lieber zur Miete wohnen, "
+   ]
+  }, 
+  {
+   "begin": "29.040", 
+   "children": [], 
+   "end": "40.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "sondern weil es unsere europ\u00e4ischen Nachbarstaaten den Menschen viel einfacher machen, "
+   ]
+  }, 
+  {
+   "begin": "40.480", 
+   "children": [], 
+   "end": "42.080", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wohnungseigentum zu erwerben."
+   ]
+  }, 
+  {
+   "begin": "42.080", 
+   "children": [], 
+   "end": "45.200", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "So betr\u00e4gt die Wohnungseigentumsquote in Frankreich knapp 58\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "45.200", 
+   "children": [], 
+   "end": "50.720", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "in Gro\u00dfbritannien 64\u00a0Prozent und in Italien gar 72\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "50.720", 
+   "children": [], 
+   "end": "56.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "In Deutschland liegt sie nach einer Studie von 2016 bei lediglich 45\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "56.320", 
+   "children": [], 
+   "end": "59.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Bei uns werden also offensichtlich H\u00fcrden aufgebaut, "
+   ]
+  }, 
+  {
+   "begin": "59.120", 
+   "children": [], 
+   "end": "61.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die es den B\u00fcrgerinnen und B\u00fcrgern erschweren, "
+   ]
+  }, 
+  {
+   "begin": "61.320", 
+   "children": [], 
+   "end": "63.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "in ihrer eigenen Immobilie zu leben."
+   ]
+  }, 
+  {
+   "begin": "63.760", 
+   "children": [], 
+   "end": "69.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Eine der gr\u00f6\u00dften H\u00fcrden ist hierbei die H\u00f6he der Erwerbsnebenkosten und hier vor allem die der Grunderwerbsteuer."
+   ]
+  }, 
+  {
+   "begin": "69.080", 
+   "children": [], 
+   "end": "78.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Gerade junge Familien mit mittleren und kleinen Einkommen bleibt es oft verwehrt, "
+   ]
+  }, 
+  {
+   "begin": "78.760", 
+   "children": [], 
+   "end": "80.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Eigentum zu bilden. "
+   ]
+  }, 
+  {
+   "begin": "80.160", 
+   "children": [], 
+   "end": "84.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Laut einer Studie ist die Wohnungseigentumsquote in der Altersgruppe der 25- "
+   ]
+  }, 
+  {
+   "begin": "84.160", 
+   "children": [], 
+   "end": "93.040", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "bis 35-J\u00e4hrigen von 23\u00a0Prozent im Jahr\u00a01998 auf 15,8\u00a0Prozent im Jahr\u00a02013 gesunken. "
+   ]
+  }, 
+  {
+   "begin": "93.040", 
+   "children": [], 
+   "end": "102.240", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr ist allerdings das Aufkommen bei der Grunderwerbsteuer seit 2005 von rund 4,7\u00a0Milliarden Euro auf 12,4\u00a0Milliarden Euro in 2016 gestiegen. "
+   ]
+  }, 
+  {
+   "begin": "102.240", 
+   "children": [], 
+   "end": "105.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Das ist mehr als das 2,5-Fache. "
+   ]
+  }, 
+  {
+   "begin": "105.480", 
+   "children": [], 
+   "end": "105.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Hier, "
+   ]
+  }, 
+  {
+   "begin": "105.880", 
+   "children": [], 
+   "end": "106.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "106.520", 
+   "children": [], 
+   "end": "108.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "l\u00e4uft nicht nur etwas in die falsche Richtung. "
+   ]
+  }, 
+  {
+   "begin": "108.680", 
+   "children": [], 
+   "end": "110.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Hier l\u00e4uft etwas gewaltig schief."
+   ]
+  }, 
+  {
+   "begin": "110.680", 
+   "children": [], 
+   "end": "115.960", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Es kann nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "115.960", 
+   "children": [], 
+   "end": "120.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass der Erwerb von Eigentum vielen unm\u00f6glich gemacht wird, "
+   ]
+  }, 
+  {
+   "begin": "120.480", 
+   "children": [], 
+   "end": "123.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend die Bundesl\u00e4nder hierbei noch ordentlich abkassieren. "
+   ]
+  }, 
+  {
+   "begin": "123.720", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Eigentlich m\u00fcsste es den Menschen angesichts der niedrigen Zinsen leichter fallen, "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "129.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Eigentum zu bilden. "
+   ]
+  }, 
+  {
+   "begin": "129.120", 
+   "children": [], 
+   "end": "131.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Das ist aber gerade nicht der Fall; "
+   ]
+  }, 
+  {
+   "begin": "131.320", 
+   "children": [], 
+   "end": "136.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "denn neben den Baukosten sind eben auch die Kaufnebenkosten seit Jahren gestiegen."
+   ]
+  }, 
+  {
+   "begin": "136.000", 
+   "children": [], 
+   "end": "143.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Gerade die in einigen L\u00e4ndern in wenigen Jahren verdoppelte Grunderwerbsteuer ist eine gro\u00dfe Belastung f\u00fcr die Finanzierung des Eigenheims, "
+   ]
+  }, 
+  {
+   "begin": "143.920", 
+   "children": [], 
+   "end": "144.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "vor allem, "
+   ]
+  }, 
+  {
+   "begin": "144.400", 
+   "children": [], 
+   "end": "149.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "weil sie aus dem Eigenkapital bezahlt werden muss und dann auch noch sofort zur Zahlung f\u00e4llig ist. "
+   ]
+  }, 
+  {
+   "begin": "149.440", 
+   "children": [], 
+   "end": "157.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Durch diesen hohen Eigenkapitalbedarf werden gerade junge Familien und Menschen aus einkommensschwachen Haushalten von der Eigentumsbildung ausgeschlossen."
+   ]
+  }, 
+  {
+   "begin": "157.000", 
+   "children": [], 
+   "end": "162.280", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Eigentum darf aber kein Luxus sein, "
+   ]
+  }, 
+  {
+   "begin": "162.280", 
+   "children": [], 
+   "end": "165.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "sondern muss f\u00fcr m\u00f6glichst viele Menschen endlich Normalit\u00e4t werden; "
+   ]
+  }, 
+  {
+   "begin": "165.200", 
+   "children": [], 
+   "end": "167.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "denn Eigentum ist die Basis f\u00fcr Wohlstand, "
+   ]
+  }, 
+  {
+   "begin": "167.240", 
+   "children": [], 
+   "end": "173.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und Wohneigentum ist au\u00dferdem ein wichtiger Beitrag zur Altersvorsorge und zur sozialen Sicherheit."
+   ]
+  }, 
+  {
+   "begin": "173.200", 
+   "children": [], 
+   "end": "182.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb wollen wir Freie Demokraten die Trendwende zur Eigent\u00fcmernation einleiten und in einem ersten Schritt bei der Grunderwerbsteuer einen Freibetrag bis 500\u00a0000\u00a0Euro einf\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "182.760", 
+   "children": [], 
+   "end": "184.920", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "damit die Menschen nicht nur vom Eigentum tr\u00e4umen, "
+   ]
+  }, 
+  {
+   "begin": "184.920", 
+   "children": [], 
+   "end": "186.760", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "sondern ihn auch verwirklichen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "186.760", 
+   "children": [], 
+   "end": "187.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und zwar, "
+   ]
+  }, 
+  {
+   "begin": "187.120", 
+   "children": [], 
+   "end": "189.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie wollen und wann sie wollen."
+   ]
+  }, 
+  {
+   "begin": "189.040", 
+   "children": [], 
+   "end": "195.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Der Freibetrag soll als Lebensfreibetrag ausgestaltet werden; "
+   ]
+  }, 
+  {
+   "begin": "195.640", 
+   "children": [], 
+   "end": "197.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "denn dann haben die Menschen die Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "197.600", 
+   "children": [], 
+   "end": "198.560", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "selbst zu bestimmen, "
+   ]
+  }, 
+  {
+   "begin": "198.560", 
+   "children": [], 
+   "end": "201.440", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "ob sie ihn auf einmal oder nach und nach verbrauchen, "
+   ]
+  }, 
+  {
+   "begin": "201.440", 
+   "children": [], 
+   "end": "204.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "je nach ihrer individuellen Lebensplanung."
+   ]
+  }, 
+  {
+   "begin": "204.520", 
+   "children": [], 
+   "end": "209.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Die Gro\u00dfe Koalition will durch das Baukindergeld die Eigentumsquote steigern. "
+   ]
+  }, 
+  {
+   "begin": "209.720", 
+   "children": [], 
+   "end": "214.880", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Laut einer aktuellen Studie des Pestel Instituts ist das Baukindergeld daf\u00fcr aber ungeeignet, "
+   ]
+  }, 
+  {
+   "begin": "214.880", 
+   "children": [], 
+   "end": "216.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "da es nur die anspricht, "
+   ]
+  }, 
+  {
+   "begin": "216.320", 
+   "children": [], 
+   "end": "219.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "die den Erwerb von Wohneigentum eh schon anstreben. "
+   ]
+  }, 
+  {
+   "begin": "219.440", 
+   "children": [], 
+   "end": "222.240", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Es verpufft also nahezu wirkungslos."
+   ]
+  }, 
+  {
+   "begin": "222.240", 
+   "children": [], 
+   "end": "224.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Es ist eher eine Art Familienf\u00f6rderung, "
+   ]
+  }, 
+  {
+   "begin": "224.320", 
+   "children": [], 
+   "end": "229.440", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "aber kein Schritt in die Richtung einer Eigent\u00fcmernation. "
+   ]
+  }, 
+  {
+   "begin": "229.440", 
+   "children": [], 
+   "end": "230.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem, "
+   ]
+  }, 
+  {
+   "begin": "230.240", 
+   "children": [], 
+   "end": "231.480", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "231.480", 
+   "children": [], 
+   "end": "233.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "darf doch jeder selber entscheiden, "
+   ]
+  }, 
+  {
+   "begin": "233.720", 
+   "children": [], 
+   "end": "242.640", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "ob er erst ein Nest baut und dann in die Familienplanung geht oder ob er das umgekehrt machen will."
+   ]
+  }, 
+  {
+   "begin": "242.640", 
+   "children": [], 
+   "end": "249.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wir halten deshalb den Freibetrag bei der Grunderwerbsteuer f\u00fcr wesentlich effektiver und nachhaltiger. "
+   ]
+  }, 
+  {
+   "begin": "249.400", 
+   "children": [], 
+   "end": "251.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Diese Einsicht gibt es auch bei der Bundesregierung. "
+   ]
+  }, 
+  {
+   "begin": "251.720", 
+   "children": [], 
+   "end": "254.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "In einer Antwort auf eine Kleine Antwort der Gr\u00fcnen steht:"
+   ]
+  }, 
+  {
+   "begin": "254.760", 
+   "children": [], 
+   "end": "256.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Erwerbsnebenkosten, "
+   ]
+  }, 
+  {
+   "begin": "256.080", 
+   "children": [], 
+   "end": "258.200", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "zu denen auch die Grunderwerbsteuer z\u00e4hlt, "
+   ]
+  }, 
+  {
+   "begin": "258.200", 
+   "children": [], 
+   "end": "260.320", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "erschweren den Erwerb von Wohneigentum. "
+   ]
+  }, 
+  {
+   "begin": "260.320", 
+   "children": [], 
+   "end": "265.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Freibetr\u00e4ge bei der Grunderwerbsteuer k\u00f6nnen Familien den Erwerb von Wohneigentum erleichtern."
+   ]
+  }, 
+  {
+   "begin": "265.120", 
+   "children": [], 
+   "end": "267.680", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen von Union und SPD, "
+   ]
+  }, 
+  {
+   "begin": "267.680", 
+   "children": [], 
+   "end": "271.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben in Ihrem Koalitionsvertrag einen entsprechenden Pr\u00fcfauftrag. "
+   ]
+  }, 
+  {
+   "begin": "271.240", 
+   "children": [], 
+   "end": "272.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Geben Sie sich einen Ruck! "
+   ]
+  }, 
+  {
+   "begin": "272.680", 
+   "children": [], 
+   "end": "276.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Stimmen Sie am Ende der Beratungen unserem Antrag zu! "
+   ]
+  }, 
+  {
+   "begin": "276.000", 
+   "children": [], 
+   "end": "278.920", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben als Serviceopposition schon einmal vorgearbeitet."
+   ]
+  }, 
+  {
+   "begin": "278.920", 
+   "children": [], 
+   "end": "289.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr die Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "289.160", 
+   "children": [], 
+   "end": "291.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin ist die Kollegin Antje Tillmann, "
+   ]
+  }, 
+  {
+   "begin": "291.440", 
+   "children": [], 
+   "end": "292.960", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU."
+   ]
+  }
+ ]
+}

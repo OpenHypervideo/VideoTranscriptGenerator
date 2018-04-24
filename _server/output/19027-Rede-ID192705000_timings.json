@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "6.520", 
+   "children": [], 
+   "end": "7.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "children": [], 
+   "end": "13.040", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Koalitionsvertrag tr\u00e4gt den Titel \u201eEin neuer Aufbruch f\u00fcr Europa\u201c. "
+   ]
+  }, 
+  {
+   "begin": "13.040", 
+   "children": [], 
+   "end": "18.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Gestern war Frankreichs Pr\u00e4sident Emmanuel Macron bei der Bundeskanzlerin \u201eMadame Non\u201c. "
+   ]
+  }, 
+  {
+   "begin": "18.680", 
+   "children": [], 
+   "end": "27.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Frau Merkel verk\u00fcndete die Idee eines neuen Stuhlkreises des Wirtschaftsministers Peter Altmaier und des Finanzministers Olaf Scholz. "
+   ]
+  }, 
+  {
+   "begin": "27.480", 
+   "children": [], 
+   "end": "30.080", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Wenn das Ihr Aufbruch f\u00fcr Europa ist, "
+   ]
+  }, 
+  {
+   "begin": "30.080", 
+   "children": [], 
+   "end": "33.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dann wecken Sie mich bitte auf bei der Endstation."
+   ]
+  }, 
+  {
+   "begin": "33.120", 
+   "children": [], 
+   "end": "38.360", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht sollten Sie Ihr Regierungsprogramm umbenennen: "
+   ]
+  }, 
+  {
+   "begin": "38.360", 
+   "children": [], 
+   "end": "42.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "\u201eMit dem Schlafwagen durch Europa\u201c oder \u201eGegen die Wand\u201c."
+   ]
+  }, 
+  {
+   "begin": "42.680", 
+   "children": [], 
+   "end": "44.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die Euro-Krise ist nicht vorbei, "
+   ]
+  }, 
+  {
+   "begin": "44.840", 
+   "children": [], 
+   "end": "48.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "vor allem nicht im Portemonnaie von Millionen Besch\u00e4ftigten, "
+   ]
+  }, 
+  {
+   "begin": "48.840", 
+   "children": [], 
+   "end": "51.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Rentnern und Arbeitslosen in Europa. "
+   ]
+  }, 
+  {
+   "begin": "51.880", 
+   "children": [], 
+   "end": "61.000", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland verkauft aufgrund seiner unzureichenden Investitionen und seiner unzureichenden Lohnentwicklung immer mehr und billiger an das Ausland, "
+   ]
+  }, 
+  {
+   "begin": "61.000", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "als es von dort einkauft. "
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "69.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Handelspartner in der Euro-Zone k\u00f6nnen sich nicht mehr durch die Abwertung ihrer W\u00e4hrung dagegen wehren; "
+   ]
+  }, 
+  {
+   "begin": "69.760", 
+   "children": [], 
+   "end": "71.400", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "denn diese ist der Euro. "
+   ]
+  }, 
+  {
+   "begin": "71.400", 
+   "children": [], 
+   "end": "76.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland hat einen Leistungsbilanz\u00fcberschuss von 8\u00a0Prozent des Bruttoinlandsproduktes. "
+   ]
+  }, 
+  {
+   "begin": "76.840", 
+   "children": [], 
+   "end": "80.080", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Euro-Zone sind es mittlerweile 4\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "80.080", 
+   "children": [], 
+   "end": "82.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Daher drohen neue Schuldenkrisen. "
+   ]
+  }, 
+  {
+   "begin": "82.480", 
+   "children": [], 
+   "end": "84.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ich immer mehr verkaufe, "
+   ]
+  }, 
+  {
+   "begin": "84.440", 
+   "children": [], 
+   "end": "86.240", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "als ich von anderen einkaufe, "
+   ]
+  }, 
+  {
+   "begin": "86.240", 
+   "children": [], 
+   "end": "89.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen die anderen bei mir anschreiben. "
+   ]
+  }, 
+  {
+   "begin": "89.040", 
+   "children": [], 
+   "end": "91.360", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Die Weisheit von Gary Lineker \u201eFu\u00dfball ist, "
+   ]
+  }, 
+  {
+   "begin": "91.360", 
+   "children": [], 
+   "end": "93.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "wenn 22\u00a0Leute dem Ball hinterherrennen, "
+   ]
+  }, 
+  {
+   "begin": "93.720", 
+   "children": [], 
+   "end": "99.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und am Ende gewinnt Deutschland\u201c ist ein denkbar schlechter Ratschlag f\u00fcr die W\u00e4hrungsunion."
+   ]
+  }, 
+  {
+   "begin": "99.000", 
+   "children": [], 
+   "end": "104.120", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Der Handelsstreit mit den USA schwelt deswegen weiter. "
+   ]
+  }, 
+  {
+   "begin": "104.120", 
+   "children": [], 
+   "end": "107.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die j\u00fcngsten Konjunkturdaten weisen abw\u00e4rts. "
+   ]
+  }, 
+  {
+   "begin": "107.720", 
+   "children": [], 
+   "end": "108.880", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Dem Finanzminister, "
+   ]
+  }, 
+  {
+   "begin": "108.880", 
+   "children": [], 
+   "end": "110.520", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "der heute nicht anwesend ist, "
+   ]
+  }, 
+  {
+   "begin": "110.520", 
+   "children": [], 
+   "end": "113.800", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "f\u00e4llt dazu nur die schwarze Null ein."
+   ]
+  }, 
+  {
+   "begin": "113.800", 
+   "children": [], 
+   "end": "119.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die Europ\u00e4ische Zentralbank hat die Finanzm\u00e4rkte mit viel billigem Geld stabilisiert. "
+   ]
+  }, 
+  {
+   "begin": "119.560", 
+   "children": [], 
+   "end": "122.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Aber das billige Geld kommt aufgrund der K\u00fcrzungen von L\u00f6hnen, "
+   ]
+  }, 
+  {
+   "begin": "122.600", 
+   "children": [], 
+   "end": "128.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Renten und \u00f6ffentlichen Investitionen nur auf den B\u00f6rsen und nicht in der realen Wirtschaft an. "
+   ]
+  }, 
+  {
+   "begin": "128.600", 
+   "children": [], 
+   "end": "131.560", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Daher drohen uns neue Finanzkrisen. "
+   ]
+  }, 
+  {
+   "begin": "131.560", 
+   "children": [], 
+   "end": "137.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Euro-Zone w\u00fcrde etwa eine Krise des italienischen Bankensektors nicht \u00fcberleben."
+   ]
+  }, 
+  {
+   "begin": "137.280", 
+   "children": [], 
+   "end": "142.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Nun herrscht Streit zwischen Berlin und Paris \u00fcber den Europ\u00e4ischen W\u00e4hrungsfonds. "
+   ]
+  }, 
+  {
+   "begin": "142.920", 
+   "children": [], 
+   "end": "149.640", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Dieser soll Euro-Staaten in einer Krise unterst\u00fctzen und auch ein doppeltes Netz f\u00fcr die Banken schaffen. "
+   ]
+  }, 
+  {
+   "begin": "149.640", 
+   "children": [], 
+   "end": "152.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Der ESM war faktisch eine Bankenrettung. "
+   ]
+  }, 
+  {
+   "begin": "152.600", 
+   "children": [], 
+   "end": "158.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Gerettet wurden nicht griechische Krankenschwestern oder irische Rentner. "
+   ]
+  }, 
+  {
+   "begin": "158.320", 
+   "children": [], 
+   "end": "160.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das Motto lautet nun: "
+   ]
+  }, 
+  {
+   "begin": "160.240", 
+   "children": [], 
+   "end": "161.680", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Raider hei\u00dft jetzt Twix.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "161.680", 
+   "children": [], 
+   "end": "165.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Der ESM soll in einen EWF \u00fcberf\u00fchrt werden. "
+   ]
+  }, 
+  {
+   "begin": "165.040", 
+   "children": [], 
+   "end": "172.360", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke ist selbstverst\u00e4ndlich f\u00fcr die parlamentarische Kontrolle des Europ\u00e4ischen W\u00e4hrungsfonds."
+   ]
+  }, 
+  {
+   "begin": "172.360", 
+   "children": [], 
+   "end": "177.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Aber viel wichtiger als der Streit \u00fcber die Rechtsgrundlage ist die Frage, "
+   ]
+  }, 
+  {
+   "begin": "177.240", 
+   "children": [], 
+   "end": "181.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "was wir mit diesem Europ\u00e4ischen W\u00e4hrungsfonds eigentlich anfangen wollen. "
+   ]
+  }, 
+  {
+   "begin": "181.120", 
+   "children": [], 
+   "end": "185.400", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Hier herrscht tats\u00e4chlich Einigkeit zwischen Herrn Macron und Frau Merkel. "
+   ]
+  }, 
+  {
+   "begin": "185.400", 
+   "children": [], 
+   "end": "186.280", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Herr Macron m\u00f6chte in Frankreich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "186.280", 
+   "children": [], 
+   "end": "188.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "genauso wie es in Deutschland der Fall war\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "188.760", 
+   "children": [], 
+   "end": "194.440", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "eine Agenda\u00a02010 einschlie\u00dflich der K\u00fcrzung von L\u00f6hnen und Renten durchsetzen. "
+   ]
+  }, 
+  {
+   "begin": "194.440", 
+   "children": [], 
+   "end": "196.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr braucht er etwas Taschengeld, "
+   ]
+  }, 
+  {
+   "begin": "196.600", 
+   "children": [], 
+   "end": "198.640", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "damit die Wirtschaft nicht abschmiert. "
+   ]
+  }, 
+  {
+   "begin": "198.640", 
+   "children": [], 
+   "end": "199.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Frau Merkel m\u00f6chte, "
+   ]
+  }, 
+  {
+   "begin": "199.960", 
+   "children": [], 
+   "end": "203.000", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass er diese Agenda in Frankreich durchsetzt, "
+   ]
+  }, 
+  {
+   "begin": "203.000", 
+   "children": [], 
+   "end": "206.600", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "will aber m\u00f6glichst nicht das Portemonnaie \u00f6ffnen."
+   ]
+  }, 
+  {
+   "begin": "206.600", 
+   "children": [], 
+   "end": "209.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wozu braucht man eigentlich einen W\u00e4hrungsfonds? "
+   ]
+  }, 
+  {
+   "begin": "209.560", 
+   "children": [], 
+   "end": "212.920", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcblicherweise braucht man einen W\u00e4hrungsfonds bei Devisenmangel. "
+   ]
+  }, 
+  {
+   "begin": "212.920", 
+   "children": [], 
+   "end": "215.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wenn beispielsweise Brasilien zu viel importiert, "
+   ]
+  }, 
+  {
+   "begin": "215.520", 
+   "children": [], 
+   "end": "216.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "seine W\u00e4hrung, "
+   ]
+  }, 
+  {
+   "begin": "216.400", 
+   "children": [], 
+   "end": "217.640", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "den Real, "
+   ]
+  }, 
+  {
+   "begin": "217.640", 
+   "children": [], 
+   "end": "222.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "abwertet und sich keine Dollar mehr leisten kann, "
+   ]
+  }, 
+  {
+   "begin": "222.000", 
+   "children": [], 
+   "end": "224.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dann soll ein W\u00e4hrungsfonds so lange helfen, "
+   ]
+  }, 
+  {
+   "begin": "224.120", 
+   "children": [], 
+   "end": "226.720", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "bis die Wirtschaft wieder im Lot ist. "
+   ]
+  }, 
+  {
+   "begin": "226.720", 
+   "children": [], 
+   "end": "230.280", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Aber ein Land mit eigener W\u00e4hrung kann niemals pleitegehen; "
+   ]
+  }, 
+  {
+   "begin": "230.280", 
+   "children": [], 
+   "end": "233.000", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "denn daf\u00fcr gibt es eine Zentralbank. "
+   ]
+  }, 
+  {
+   "begin": "233.000", 
+   "children": [], 
+   "end": "237.000", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Das Problem der Euro-Zone ist aber nicht der Mangel an Devisen, "
+   ]
+  }, 
+  {
+   "begin": "237.000", 
+   "children": [], 
+   "end": "238.240", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "an US-Dollar, "
+   ]
+  }, 
+  {
+   "begin": "238.240", 
+   "children": [], 
+   "end": "238.680", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "sondern, "
+   ]
+  }, 
+  {
+   "begin": "238.680", 
+   "children": [], 
+   "end": "240.400", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass die EZB sagt: "
+   ]
+  }, 
+  {
+   "begin": "240.400", 
+   "children": [], 
+   "end": "244.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ihr in einer Krise die L\u00f6hne oder die Renten nicht k\u00fcrzt, "
+   ]
+  }, 
+  {
+   "begin": "244.560", 
+   "children": [], 
+   "end": "250.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "akzeptieren wir eure Staatsanleihen nicht und drehen euch den Geldhahn zu.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "250.520", 
+   "children": [], 
+   "end": "253.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Ein EWF macht daher nur Sinn, "
+   ]
+  }, 
+  {
+   "begin": "253.280", 
+   "children": [], 
+   "end": "258.320", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "wenn er \u00fcber eine Banklizenz verf\u00fcgt und sich bei der EZB refinanzieren kann, "
+   ]
+  }, 
+  {
+   "begin": "258.320", 
+   "children": [], 
+   "end": "261.440", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "um \u00f6ffentliche Investitionen zu unterst\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "261.440", 
+   "children": [], 
+   "end": "268.320", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ohne eine solche Garantie w\u00fcrde er in einer Krise von Hedgefonds wieder sturmreif geschossen werden."
+   ]
+  }, 
+  {
+   "begin": "268.320", 
+   "children": [], 
+   "end": "272.920", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Bei einer Krise von Megabanken wie der Deutschen Bank, "
+   ]
+  }, 
+  {
+   "begin": "272.920", 
+   "children": [], 
+   "end": "276.680", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die immer noch zu gro\u00df und zu vernetzt zum Scheitern w\u00e4re, "
+   ]
+  }, 
+  {
+   "begin": "276.680", 
+   "children": [], 
+   "end": "280.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4re der IWF schnell nackt. "
+   ]
+  }, 
+  {
+   "begin": "280.080", 
+   "children": [], 
+   "end": "284.840", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen muss Schluss sein mit einem Bankensektor, "
+   ]
+  }, 
+  {
+   "begin": "284.840", 
+   "children": [], 
+   "end": "287.680", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "der die Steuerzahler immer wieder erpressen kann. "
+   ]
+  }, 
+  {
+   "begin": "287.680", 
+   "children": [], 
+   "end": "291.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen Megabanken wie die Deutsche Bank aufspalten."
+   ]
+  }, 
+  {
+   "begin": "291.600", 
+   "children": [], 
+   "end": "295.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Ein europ\u00e4ischer W\u00e4hrungsfonds, "
+   ]
+  }, 
+  {
+   "begin": "295.840", 
+   "children": [], 
+   "end": "298.080", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "der am Ende aber nur daf\u00fcr da ist, "
+   ]
+  }, 
+  {
+   "begin": "298.080", 
+   "children": [], 
+   "end": "300.520", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "weitere Strukturreformen, "
+   ]
+  }, 
+  {
+   "begin": "300.520", 
+   "children": [], 
+   "end": "302.960", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "die K\u00fcrzung von L\u00f6hnen und Renten, "
+   ]
+  }, 
+  {
+   "begin": "302.960", 
+   "children": [], 
+   "end": "304.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "durchzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "304.000", 
+   "children": [], 
+   "end": "305.800", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "ist v\u00f6llig kontraproduktiv. "
+   ]
+  }, 
+  {
+   "begin": "305.800", 
+   "children": [], 
+   "end": "306.880", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Das ist in etwa so, "
+   ]
+  }, 
+  {
+   "begin": "306.880", 
+   "children": [], 
+   "end": "313.000", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "als wenn man einem Komapatienten Blut abzapft und ihn gleichzeitig k\u00fcnstlich beatmet."
+   ]
+  }, 
+  {
+   "begin": "313.000", 
+   "children": [], 
+   "end": "314.400", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Ich fasse zusammen. "
+   ]
+  }, 
+  {
+   "begin": "314.400", 
+   "children": [], 
+   "end": "320.520", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Von der Bundesregierung h\u00f6rt man dieser Tage in der Debatte um die Reform der Euro-Zone nicht viel. "
+   ]
+  }, 
+  {
+   "begin": "320.520", 
+   "children": [], 
+   "end": "325.600", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Selten war eine Regierung in Deutschland schon bei Antritt so m\u00fcde und so fertig. "
+   ]
+  }, 
+  {
+   "begin": "325.600", 
+   "children": [], 
+   "end": "327.200", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Das ist gut f\u00fcr die Opposition. "
+   ]
+  }, 
+  {
+   "begin": "327.200", 
+   "children": [], 
+   "end": "339.880", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr dieses Land und f\u00fcr Europa ist das eine Katastrophe."
+   ]
+  }, 
+  {
+   "begin": "339.880", 
+   "children": [], 
+   "end": "345.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen hat der Kollege Sven-Christian Kindler das Wort."
+   ]
+  }
+ ]
+}

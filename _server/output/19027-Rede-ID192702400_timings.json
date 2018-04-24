@@ -1,0 +1,674 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.720", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.720", 
+   "children": [], 
+   "end": "9.720", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.720", 
+   "children": [], 
+   "end": "17.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Preise von Wohnimmobilien sind in Deutschland in den letzten f\u00fcnf Jahren durchschnittlich um 32\u00a0Prozent gestiegen, "
+   ]
+  }, 
+  {
+   "begin": "17.760", 
+   "children": [], 
+   "end": "22.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "in den sieben gr\u00f6\u00dften Ballungsr\u00e4umen sogar um 66\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "children": [], 
+   "end": "24.560", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Nur zum Vergleich: "
+   ]
+  }, 
+  {
+   "begin": "24.560", 
+   "children": [], 
+   "end": "29.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die Reall\u00f6hne stiegen im gleichen Zeitraum um 7\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "29.160", 
+   "children": [], 
+   "end": "31.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Die Reaktion der FDP\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "31.160", 
+   "children": [], 
+   "end": "34.720", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "zugegebenerma\u00dfen etwas zugespitzt\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "34.720", 
+   "children": [], 
+   "end": "35.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wunderbar, "
+   ]
+  }, 
+  {
+   "begin": "35.320", 
+   "children": [], 
+   "end": "37.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "der freie Markt funktioniert. "
+   ]
+  }, 
+  {
+   "begin": "37.240", 
+   "children": [], 
+   "end": "44.120", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Die Grunderwerbsteuer von 3\u00a0Prozent bis 6,5\u00a0Prozent ist das zentrale Problem.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "44.120", 
+   "children": [], 
+   "end": "45.040", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ganz offensichtlich, "
+   ]
+  }, 
+  {
+   "begin": "45.040", 
+   "children": [], 
+   "end": "47.280", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "47.280", 
+   "children": [], 
+   "end": "49.160", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "passt hier die L\u00f6sung nicht zum Problem."
+   ]
+  }, 
+  {
+   "begin": "49.160", 
+   "children": [], 
+   "end": "62.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Menschen mit niedrigen Einkommen und ohne Ersparnisse werden durch steigende Wohnkosten am h\u00e4rtesten getroffen. "
+   ]
+  }, 
+  {
+   "begin": "62.760", 
+   "children": [], 
+   "end": "65.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben gar nicht erst die Chance, "
+   ]
+  }, 
+  {
+   "begin": "65.120", 
+   "children": [], 
+   "end": "66.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "eine Wohnung zu kaufen. "
+   ]
+  }, 
+  {
+   "begin": "66.760", 
+   "children": [], 
+   "end": "72.560", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Diesen Menschen hilft ein Freibetrag bei der Grunderwerbsteuer \u00fcberhaupt nichts."
+   ]
+  }, 
+  {
+   "begin": "72.560", 
+   "children": [], 
+   "end": "83.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Ich erspare mir jetzt die Polemik zu Herrn Lambsdorffs Rat an die alleinerziehende Mutter, "
+   ]
+  }, 
+  {
+   "begin": "83.800", 
+   "children": [], 
+   "end": "86.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie die Miete nicht bezahlen k\u00f6nne, "
+   ]
+  }, 
+  {
+   "begin": "86.000", 
+   "children": [], 
+   "end": "87.920", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "solle sie eine Wohnung kaufen."
+   ]
+  }, 
+  {
+   "begin": "87.920", 
+   "children": [], 
+   "end": "93.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Die H\u00e4lfte der Bev\u00f6lkerung verf\u00fcgt \u00fcber gar kein oder \u00fcber nur wenig Verm\u00f6gen. "
+   ]
+  }, 
+  {
+   "begin": "93.640", 
+   "children": [], 
+   "end": "98.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie es ernst meinen mit der Eigent\u00fcmernation Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "98.400", 
+   "children": [], 
+   "end": "100.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "werden Sie eine L\u00f6sung finden m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "100.720", 
+   "children": [], 
+   "end": "105.840", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wie diese H\u00e4lfte \u00fcberhaupt Eigentum finanzieren soll. "
+   ]
+  }, 
+  {
+   "begin": "105.840", 
+   "children": [], 
+   "end": "107.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Falls Sie mal \u00fcber h\u00f6here L\u00f6hne, "
+   ]
+  }, 
+  {
+   "begin": "107.440", 
+   "children": [], 
+   "end": "109.880", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Abschaffung des Niedriglohnsektors, "
+   ]
+  }, 
+  {
+   "begin": "109.880", 
+   "children": [], 
+   "end": "113.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "eine Verm\u00f6gensteuer oder h\u00f6here Steuern auf hohe Einkommen reden wollen: "
+   ]
+  }, 
+  {
+   "begin": "113.920", 
+   "children": [], 
+   "end": "115.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind gern gespr\u00e4chsbereit."
+   ]
+  }, 
+  {
+   "begin": "115.960", 
+   "children": [], 
+   "end": "121.560", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "121.560", 
+   "children": [], 
+   "end": "130.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die hohen Preissteigerungen bei Immobilien gehen in gro\u00dfem Umfang auf institutionelle Investoren und Immobilienspekulanten zur\u00fcck. "
+   ]
+  }, 
+  {
+   "begin": "130.400", 
+   "children": [], 
+   "end": "134.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Diese sind dank des Steuerschlupflochs namens \u201eShare Deals\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "134.280", 
+   "children": [], 
+   "end": "135.840", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "davon war hier schon die Rede\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "135.840", 
+   "children": [], 
+   "end": "136.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "in der Lage, "
+   ]
+  }, 
+  {
+   "begin": "136.920", 
+   "children": [], 
+   "end": "139.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die Grunderwerbsteuer komplett zu umgehen. "
+   ]
+  }, 
+  {
+   "begin": "139.280", 
+   "children": [], 
+   "end": "142.640", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen ganze Stadtviertel aufkaufen; "
+   ]
+  }, 
+  {
+   "begin": "142.640", 
+   "children": [], 
+   "end": "144.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "solange sie nur jemanden finden, "
+   ]
+  }, 
+  {
+   "begin": "144.920", 
+   "children": [], 
+   "end": "153.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "der 5\u00a0Prozent der zum Verkauf angebotenen Wohnungen \u00fcbernimmt und ihnen m\u00f6glichst nicht in die Quere kommt, "
+   ]
+  }, 
+  {
+   "begin": "153.880", 
+   "children": [], 
+   "end": "161.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "entf\u00e4llt die Steuerpflicht vollst\u00e4ndig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "161.920", 
+   "children": [], 
+   "end": "163.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "eine v\u00f6llig absurde Regelung!"
+   ]
+  }, 
+  {
+   "begin": "163.240", 
+   "children": [], 
+   "end": "166.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die Share Deals endlich unterbinden. "
+   ]
+  }, 
+  {
+   "begin": "166.000", 
+   "children": [], 
+   "end": "173.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die Grunderwerbsteuer f\u00fcr nicht selbstgenutztes Wohneigentum wollen wir erh\u00f6hen. "
+   ]
+  }, 
+  {
+   "begin": "173.600", 
+   "children": [], 
+   "end": "176.600", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das hilft sogar den jungen Familien, "
+   ]
+  }, 
+  {
+   "begin": "176.600", 
+   "children": [], 
+   "end": "178.280", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "die Eigentum kaufen wollen; "
+   ]
+  }, 
+  {
+   "begin": "178.280", 
+   "children": [], 
+   "end": "185.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "denn dadurch k\u00f6nnte die Preistreiberei durch die gro\u00dfen Immobilienunternehmen zumindest gebremst werden."
+   ]
+  }, 
+  {
+   "begin": "185.520", 
+   "children": [], 
+   "end": "191.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "191.200", 
+   "children": [], 
+   "end": "199.480", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "wenn Mieten und Immobilienpreise in kurzer Zeit dramatisch ansteigen und gleichzeitig Hunderttausende Wohnungen fehlen, "
+   ]
+  }, 
+  {
+   "begin": "199.480", 
+   "children": [], 
+   "end": "202.960", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dann hat der Wohnungsmarkt offensichtlich versagt. "
+   ]
+  }, 
+  {
+   "begin": "202.960", 
+   "children": [], 
+   "end": "207.000", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Steuerliche Ma\u00dfnahmen alleine helfen hier nicht weiter. "
+   ]
+  }, 
+  {
+   "begin": "207.000", 
+   "children": [], 
+   "end": "211.440", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr brauchen wir einen kompletten Neustart beim sozialen Wohnungsbau."
+   ]
+  }, 
+  {
+   "begin": "211.440", 
+   "children": [], 
+   "end": "217.960", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wir erreichen einen kompletten Neustart dadurch, "
+   ]
+  }, 
+  {
+   "begin": "217.960", 
+   "children": [], 
+   "end": "226.160", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass \u00f6ffentliche und private Unternehmen ohne Gewinnorientierung und steuerlich beg\u00fcnstigt Wohnraum zu bezahlbaren Preisen schaffen. "
+   ]
+  }, 
+  {
+   "begin": "226.160", 
+   "children": [], 
+   "end": "234.560", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die Versorgung mit bezahlbarem Wohnraum muss wieder eine Aufgabe der \u00f6ffentlichen Hand werden; "
+   ]
+  }, 
+  {
+   "begin": "234.560", 
+   "children": [], 
+   "end": "238.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "sie muss Teil der Daseinsvorsorge sein."
+   ]
+  }, 
+  {
+   "begin": "238.360", 
+   "children": [], 
+   "end": "243.080", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Sozialwohnungen sollen auf Dauer als gef\u00f6rderter Wohnraum zur Verf\u00fcgung stehen. "
+   ]
+  }, 
+  {
+   "begin": "243.080", 
+   "children": [], 
+   "end": "244.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "\u201eEinmal Sozialwohnung, "
+   ]
+  }, 
+  {
+   "begin": "244.680", 
+   "children": [], 
+   "end": "246.800", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "immer Sozialwohnung\u201c ist der Grundsatz, "
+   ]
+  }, 
+  {
+   "begin": "246.800", 
+   "children": [], 
+   "end": "248.800", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "der gelten muss."
+   ]
+  }, 
+  {
+   "begin": "248.800", 
+   "children": [], 
+   "end": "252.040", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Der Bestand muss best\u00e4ndig erweitert werden. "
+   ]
+  }, 
+  {
+   "begin": "252.040", 
+   "children": [], 
+   "end": "257.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Der \u00f6ffentliche Grund und Boden ist daf\u00fcr zu nutzen und darf nicht privatisiert werden."
+   ]
+  }, 
+  {
+   "begin": "257.320", 
+   "children": [], 
+   "end": "260.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Das Beispiel der Stadt Wien zeigt, "
+   ]
+  }, 
+  {
+   "begin": "260.360", 
+   "children": [], 
+   "end": "270.000", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass bei einer konsequenten Umsetzung die Verteuerung von Wohnraum und die Spekulation mit Grund und Boden zumindest in Schach gehalten werden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "270.000", 
+   "children": [], 
+   "end": "273.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Ein Freibetrag bei der Grunderwerbsteuer hilft dabei leider nicht."
+   ]
+  }, 
+  {
+   "begin": "273.000", 
+   "children": [], 
+   "end": "274.280", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "274.280", 
+   "children": [], 
+   "end": "274.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "274.920", 
+   "children": [], 
+   "end": "278.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "278.840", 
+   "children": [], 
+   "end": "283.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen die Kollegin Lisa Paus."
+   ]
+  }
+ ]
+}

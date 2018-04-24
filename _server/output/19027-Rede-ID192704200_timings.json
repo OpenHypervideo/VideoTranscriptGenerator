@@ -1,0 +1,1074 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.880", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.880", 
+   "children": [], 
+   "end": "10.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin! "
+   ]
+  }, 
+  {
+   "begin": "10.000", 
+   "children": [], 
+   "end": "12.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "12.440", 
+   "children": [], 
+   "end": "13.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste! "
+   ]
+  }, 
+  {
+   "begin": "13.840", 
+   "children": [], 
+   "end": "17.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "In dieser Debatte geht es um die \u00f6kologischen Risiken von Pflanzenschutz, "
+   ]
+  }, 
+  {
+   "begin": "17.320", 
+   "children": [], 
+   "end": "23.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "konkret um das Verbot von drei besonders bienengef\u00e4hrlichen Wirkstoffen aus der Gruppe der Neonikotinoide, "
+   ]
+  }, 
+  {
+   "begin": "23.440", 
+   "children": [], 
+   "end": "25.000", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "kurz Neoniks genannt, "
+   ]
+  }, 
+  {
+   "begin": "25.000", 
+   "children": [], 
+   "end": "25.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "im Freiland, "
+   ]
+  }, 
+  {
+   "begin": "25.840", 
+   "children": [], 
+   "end": "27.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "und das in einer Zeit, "
+   ]
+  }, 
+  {
+   "begin": "27.440", 
+   "children": [], 
+   "end": "31.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "in der die selbst im Sommer saubere Windschutzscheibe ahnen l\u00e4sst, "
+   ]
+  }, 
+  {
+   "begin": "31.760", 
+   "children": [], 
+   "end": "34.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "was die Wissenschaft mit Insektenschwund meint."
+   ]
+  }, 
+  {
+   "begin": "34.840", 
+   "children": [], 
+   "end": "39.600", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Als Tier\u00e4rztin begleitet mich die Sorge um die Honigbiene schon sehr lange. "
+   ]
+  }, 
+  {
+   "begin": "39.600", 
+   "children": [], 
+   "end": "44.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "1985 wurde ich im Staatsexamen zur Varroamilbe gepr\u00fcft, "
+   ]
+  }, 
+  {
+   "begin": "44.160", 
+   "children": [], 
+   "end": "48.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "damals ein kaum bekannter Bienenparasit, "
+   ]
+  }, 
+  {
+   "begin": "48.000", 
+   "children": [], 
+   "end": "50.520", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "der heute eine Gei\u00dfel der Imkerei ist. "
+   ]
+  }, 
+  {
+   "begin": "50.520", 
+   "children": [], 
+   "end": "53.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "2007 ging das Schlagwort \u201eBienen-Aids\u201c durch die Medien, "
+   ]
+  }, 
+  {
+   "begin": "53.920", 
+   "children": [], 
+   "end": "57.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "2008 gab es ein verheerendes Bienensterben in Baden-W\u00fcrttemberg. "
+   ]
+  }, 
+  {
+   "begin": "57.840", 
+   "children": [], 
+   "end": "59.080", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Schon lange ist klar, "
+   ]
+  }, 
+  {
+   "begin": "59.080", 
+   "children": [], 
+   "end": "61.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass es der Honigbiene nicht wirklich gut geht."
+   ]
+  }, 
+  {
+   "begin": "61.400", 
+   "children": [], 
+   "end": "63.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Gerade als Epidemiologin wei\u00df ich, "
+   ]
+  }, 
+  {
+   "begin": "63.440", 
+   "children": [], 
+   "end": "64.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "dass es nicht die eine, "
+   ]
+  }, 
+  {
+   "begin": "64.520", 
+   "children": [], 
+   "end": "66.000", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "sondern viele Ursachen gibt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "66.000", 
+   "children": [], 
+   "end": "71.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbrigens hat auch der Befall durch die Varroamilbe etwas mit einer vorgesch\u00e4digten Biene zu tun\u00a0\u2013; "
+   ]
+  }, 
+  {
+   "begin": "71.120", 
+   "children": [], 
+   "end": "75.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "aber Pflanzenschutzmittel geh\u00f6ren definitiv dazu. "
+   ]
+  }, 
+  {
+   "begin": "75.320", 
+   "children": [], 
+   "end": "75.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "75.760", 
+   "children": [], 
+   "end": "80.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "ihre Schadwirkung kann nicht immer im Bienenstock oder im Honig nachgewiesen werden. "
+   ]
+  }, 
+  {
+   "begin": "80.000", 
+   "children": [], 
+   "end": "85.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Aber wenn Bienen durch die Neoniks die Orientierung verlieren und gar nicht mehr in den Stock zur\u00fcckfinden, "
+   ]
+  }, 
+  {
+   "begin": "85.600", 
+   "children": [], 
+   "end": "88.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dann findet man dort nat\u00fcrlich auch keine Hinweise auf eine Schadwirkung. "
+   ]
+  }, 
+  {
+   "begin": "88.720", 
+   "children": [], 
+   "end": "89.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eigentlich logisch."
+   ]
+  }, 
+  {
+   "begin": "89.760", 
+   "children": [], 
+   "end": "91.920", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Insofern muss man schon an der richtigen Stelle suchen, "
+   ]
+  }, 
+  {
+   "begin": "91.920", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wenn man ein Problem erkennen und auch l\u00f6sen will."
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "97.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Dass Neoniks bienengef\u00e4hrlich sind, "
+   ]
+  }, 
+  {
+   "begin": "97.080", 
+   "children": [], 
+   "end": "98.360", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "ist unterdessen unstrittig. "
+   ]
+  }, 
+  {
+   "begin": "98.360", 
+   "children": [], 
+   "end": "100.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Selbst die EFSA, "
+   ]
+  }, 
+  {
+   "begin": "100.200", 
+   "children": [], 
+   "end": "104.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die in der EU f\u00fcr die Risikobewertung zust\u00e4ndig ist, "
+   ]
+  }, 
+  {
+   "begin": "104.120", 
+   "children": [], 
+   "end": "106.720", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "hat das 2013 festgestellt. "
+   ]
+  }, 
+  {
+   "begin": "106.720", 
+   "children": [], 
+   "end": "109.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das Schadspektrum ist \u00fcbrigens sehr breit; "
+   ]
+  }, 
+  {
+   "begin": "109.200", 
+   "children": [], 
+   "end": "110.920", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "verk\u00fcrzte Lebensdauer, "
+   ]
+  }, 
+  {
+   "begin": "110.920", 
+   "children": [], 
+   "end": "112.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "reduzierter Bruterfolg, "
+   ]
+  }, 
+  {
+   "begin": "112.320", 
+   "children": [], 
+   "end": "119.120", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcberwinterungsverluste und St\u00f6rung der im Bienenstock so extrem wichtigen Kommunikation seien hier genannt. "
+   ]
+  }, 
+  {
+   "begin": "119.120", 
+   "children": [], 
+   "end": "123.720", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Pflanzen mit Neonik-Kontakt werden \u00fcbrigens besonders h\u00e4ufig angeflogen. "
+   ]
+  }, 
+  {
+   "begin": "123.720", 
+   "children": [], 
+   "end": "125.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Ein tabak\u00e4hnlicher Suchteffekt, "
+   ]
+  }, 
+  {
+   "begin": "125.840", 
+   "children": [], 
+   "end": "127.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "auf den der Name schon hinweist, "
+   ]
+  }, 
+  {
+   "begin": "127.640", 
+   "children": [], 
+   "end": "130.160", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ist die Ursache."
+   ]
+  }, 
+  {
+   "begin": "130.160", 
+   "children": [], 
+   "end": "133.960", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Insofern sind die Neoniks besonders gef\u00e4hrlich. "
+   ]
+  }, 
+  {
+   "begin": "133.960", 
+   "children": [], 
+   "end": "136.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb fordert Die Linke schon lange: "
+   ]
+  }, 
+  {
+   "begin": "136.680", 
+   "children": [], 
+   "end": "139.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen runter vom Acker!"
+   ]
+  }, 
+  {
+   "begin": "139.600", 
+   "children": [], 
+   "end": "143.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die neue Agrarministerin Julia Kl\u00f6ckner hat in ihrer Antrittsrede gesagt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "143.920", 
+   "children": [], 
+   "end": "144.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Sie hat es gerade wiederholt\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "144.800", 
+   "children": [], 
+   "end": "146.280", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Was f\u00fcr Bienen sch\u00e4dlich ist, "
+   ]
+  }, 
+  {
+   "begin": "146.280", 
+   "children": [], 
+   "end": "147.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "muss weg vom Markt.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "147.880", 
+   "children": [], 
+   "end": "148.640", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Vollkommen richtig. "
+   ]
+  }, 
+  {
+   "begin": "148.640", 
+   "children": [], 
+   "end": "152.720", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wie ernst sie das gemeint hat und ob ihre Fraktion da mitspielt, "
+   ]
+  }, 
+  {
+   "begin": "152.720", 
+   "children": [], 
+   "end": "154.240", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "werden wir abwarten m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "154.240", 
+   "children": [], 
+   "end": "156.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden sie nat\u00fcrlich an ihren Taten messen. "
+   ]
+  }, 
+  {
+   "begin": "156.720", 
+   "children": [], 
+   "end": "161.800", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Immerhin will sie in Br\u00fcssel f\u00fcr das Verbot der drei Neoniks im Freiland stimmen."
+   ]
+  }, 
+  {
+   "begin": "161.800", 
+   "children": [], 
+   "end": "162.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Das ist gut so; "
+   ]
+  }, 
+  {
+   "begin": "162.880", 
+   "children": [], 
+   "end": "167.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "aber das ist nur ein erster und \u00fcbrigens l\u00e4ngst \u00fcberf\u00e4lliger Schritt."
+   ]
+  }, 
+  {
+   "begin": "167.120", 
+   "children": [], 
+   "end": "172.000", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Es geht n\u00e4mlich nicht nur um Pflanzenschutz und Honigbienen. "
+   ]
+  }, 
+  {
+   "begin": "172.000", 
+   "children": [], 
+   "end": "172.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Auch Wildbienen, "
+   ]
+  }, 
+  {
+   "begin": "172.720", 
+   "children": [], 
+   "end": "175.280", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Hummeln und Schmetterlinge werden immer rarer, "
+   ]
+  }, 
+  {
+   "begin": "175.280", 
+   "children": [], 
+   "end": "178.240", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "weil sie in der heutigen Agrarlandschaft oft hungern, "
+   ]
+  }, 
+  {
+   "begin": "178.240", 
+   "children": [], 
+   "end": "180.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "sobald die Rapsbl\u00fcte vorbei ist, "
+   ]
+  }, 
+  {
+   "begin": "180.720", 
+   "children": [], 
+   "end": "184.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "weil auch Weiden heute noch selten bl\u00fchende Insektenn\u00e4hrwiesen sind. "
+   ]
+  }, 
+  {
+   "begin": "184.840", 
+   "children": [], 
+   "end": "187.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wer schon einmal einen Kuhfladen in echt gesehen hat, "
+   ]
+  }, 
+  {
+   "begin": "187.440", 
+   "children": [], 
+   "end": "188.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "der wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "188.280", 
+   "children": [], 
+   "end": "191.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass weniger Weidetiere auch weniger Insekten bedeuten."
+   ]
+  }, 
+  {
+   "begin": "191.800", 
+   "children": [], 
+   "end": "193.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Umso erfreulicher finde ich, "
+   ]
+  }, 
+  {
+   "begin": "193.120", 
+   "children": [], 
+   "end": "201.960", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass in immer mehr ortsans\u00e4ssigen Landwirtschaftsbetrieben das Thema \u201einsektenfreundliche Landwirtschaft\u201c l\u00e4ngst angekommen ist. "
+   ]
+  }, 
+  {
+   "begin": "201.960", 
+   "children": [], 
+   "end": "204.400", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ohne das teilweise absurde Regelwerk, "
+   ]
+  }, 
+  {
+   "begin": "204.400", 
+   "children": [], 
+   "end": "206.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "das bienenfreundliche Ma\u00dfnahmen manchmal be- "
+   ]
+  }, 
+  {
+   "begin": "206.800", 
+   "children": [], 
+   "end": "208.240", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "oder gar verhindert, "
+   ]
+  }, 
+  {
+   "begin": "208.240", 
+   "children": [], 
+   "end": "210.240", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4ren es \u00fcbrigens sehr viel mehr, "
+   ]
+  }, 
+  {
+   "begin": "210.240", 
+   "children": [], 
+   "end": "221.400", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn sie bessere Erzeugerpreise gegen die Molkereikonzerne und Lebensmitteleinzelhandelskonzerne durchsetzen k\u00f6nnten und vor landwirtschaftsfremden Investoren gesch\u00fctzt w\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "221.400", 
+   "children": [], 
+   "end": "229.320", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die die Bodenpreise hochtreiben und denen Profit wichtiger ist als die Natur. "
+   ]
+  }, 
+  {
+   "begin": "229.320", 
+   "children": [], 
+   "end": "230.720", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es wichtig, "
+   ]
+  }, 
+  {
+   "begin": "230.720", 
+   "children": [], 
+   "end": "233.920", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die Bienen und die Effekte in der Landwirtschaft zu reden."
+   ]
+  }, 
+  {
+   "begin": "233.920", 
+   "children": [], 
+   "end": "239.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Nicht nur Nahrung fehlt Insekten und Schmetterlingen bzw. "
+   ]
+  }, 
+  {
+   "begin": "239.440", 
+   "children": [], 
+   "end": "240.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "den Wildinsekten, "
+   ]
+  }, 
+  {
+   "begin": "240.280", 
+   "children": [], 
+   "end": "244.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch Nistgelegenheiten und spezielle Futterpflanzen f\u00fcr ihre Raupen. "
+   ]
+  }, 
+  {
+   "begin": "244.360", 
+   "children": [], 
+   "end": "247.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4hrend bei den Honigbienen schnell auff\u00e4llt, "
+   ]
+  }, 
+  {
+   "begin": "247.080", 
+   "children": [], 
+   "end": "248.640", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wenn etwas schief\u00adl\u00e4uft, "
+   ]
+  }, 
+  {
+   "begin": "248.640", 
+   "children": [], 
+   "end": "250.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "schrillen bei Wildinsekten die Alarmglocken, "
+   ]
+  }, 
+  {
+   "begin": "250.560", 
+   "children": [], 
+   "end": "251.160", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "wenn \u00fcberhaupt, "
+   ]
+  }, 
+  {
+   "begin": "251.160", 
+   "children": [], 
+   "end": "253.120", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "erst kurz vor zw\u00f6lf. "
+   ]
+  }, 
+  {
+   "begin": "253.120", 
+   "children": [], 
+   "end": "254.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr manche Art, "
+   ]
+  }, 
+  {
+   "begin": "254.640", 
+   "children": [], 
+   "end": "257.200", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "die spezielle Anspr\u00fcche an den Lebensraum stellt, "
+   ]
+  }, 
+  {
+   "begin": "257.200", 
+   "children": [], 
+   "end": "260.400", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "ist die Uhr manchmal schon unbemerkt abgelaufen. "
+   ]
+  }, 
+  {
+   "begin": "260.400", 
+   "children": [], 
+   "end": "262.800", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wenn selbst Naturschutzgebiete betroffen sind, "
+   ]
+  }, 
+  {
+   "begin": "262.800", 
+   "children": [], 
+   "end": "264.200", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "ist Gefahr in Verzug."
+   ]
+  }, 
+  {
+   "begin": "264.200", 
+   "children": [], 
+   "end": "264.440", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "264.440", 
+   "children": [], 
+   "end": "265.760", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "auch Ihre Uhr ist abgelaufen."
+   ]
+  }, 
+  {
+   "begin": "265.760", 
+   "children": [], 
+   "end": "266.200", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "266.200", 
+   "children": [], 
+   "end": "266.920", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "ich komme zum Ende.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "266.920", 
+   "children": [], 
+   "end": "268.720", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Es muss endlich gehandelt werden, "
+   ]
+  }, 
+  {
+   "begin": "268.720", 
+   "children": [], 
+   "end": "273.800", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur wegen der Best\u00e4uber und weil Ernten in Gefahr sind, "
+   ]
+  }, 
+  {
+   "begin": "273.800", 
+   "children": [], 
+   "end": "277.120", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "sondern weil Insekten ein wichtiger Teil des \u00d6kosystems sind, "
+   ]
+  }, 
+  {
+   "begin": "277.120", 
+   "children": [], 
+   "end": "282.880", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel als Nahrungsgrundlage f\u00fcr insektenfressende V\u00f6gel oder S\u00e4ugetiere. "
+   ]
+  }, 
+  {
+   "begin": "282.880", 
+   "children": [], 
+   "end": "284.840", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Letzten Endes ist es eine Systemfrage."
+   ]
+  }, 
+  {
+   "begin": "284.840", 
+   "children": [], 
+   "end": "286.040", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "286.040", 
+   "children": [], 
+   "end": "286.640", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "bitte."
+   ]
+  }, 
+  {
+   "begin": "286.640", 
+   "children": [], 
+   "end": "286.880", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "286.880", 
+   "children": [], 
+   "end": "288.600", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "das ist der allerletzte Satz.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "288.600", 
+   "children": [], 
+   "end": "296.040", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "In einem System auf Kosten von Mensch und Natur wird auch Bienenschutz sehr schwierig."
+   ]
+  }, 
+  {
+   "begin": "296.040", 
+   "children": [], 
+   "end": "298.680", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "298.680", 
+   "children": [], 
+   "end": "299.720", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "299.720", 
+   "children": [], 
+   "end": "306.000", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster der Kollege Harald Ebner f\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}
