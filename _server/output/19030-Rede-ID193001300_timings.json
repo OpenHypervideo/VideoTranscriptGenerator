@@ -1,0 +1,704 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "children": [], 
+   "end": "6.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.880", 
+   "children": [], 
+   "end": "10.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "10.480", 
+   "children": [], 
+   "end": "12.400", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Der vorliegende Bericht der Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "12.400", 
+   "children": [], 
+   "end": "16.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "der zum zweiten Mal eine Debatte hier im Haus erfahren darf, "
+   ]
+  }, 
+  {
+   "begin": "16.440", 
+   "children": [], 
+   "end": "19.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "hat von seiner Aktualit\u00e4t nichts eingeb\u00fc\u00dft. "
+   ]
+  }, 
+  {
+   "begin": "19.320", 
+   "children": [], 
+   "end": "24.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte mich beim Ausw\u00e4rtigen Amt noch einmal f\u00fcr diesen interessanten und durchdachten Bericht bedanken."
+   ]
+  }, 
+  {
+   "begin": "24.320", 
+   "children": [], 
+   "end": "26.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "26.400", 
+   "children": [], 
+   "end": "31.040", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Religion ist etwas sehr Privates und gleichzeitig h\u00f6chst politisch. "
+   ]
+  }, 
+  {
+   "begin": "31.040", 
+   "children": [], 
+   "end": "34.320", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das erleben wir jeden Tag in den Debatten hier im Bundestag, "
+   ]
+  }, 
+  {
+   "begin": "34.320", 
+   "children": [], 
+   "end": "36.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "in Deutschland und weltweit. "
+   ]
+  }, 
+  {
+   "begin": "36.640", 
+   "children": [], 
+   "end": "38.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin konfessionslos. "
+   ]
+  }, 
+  {
+   "begin": "38.480", 
+   "children": [], 
+   "end": "42.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Die Religionsfreiheit erm\u00f6glicht mir diese Entscheidung. "
+   ]
+  }, 
+  {
+   "begin": "42.080", 
+   "children": [], 
+   "end": "44.160", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Sich gegen eine Religion zu entscheiden, "
+   ]
+  }, 
+  {
+   "begin": "44.160", 
+   "children": [], 
+   "end": "46.160", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "ist genauso Ausdruck der Religionsfreiheit, "
+   ]
+  }, 
+  {
+   "begin": "46.160", 
+   "children": [], 
+   "end": "48.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wie sich f\u00fcr eine Religion zu entscheiden."
+   ]
+  }, 
+  {
+   "begin": "48.280", 
+   "children": [], 
+   "end": "50.600", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Freiheit bedeutet auch, "
+   ]
+  }, 
+  {
+   "begin": "50.600", 
+   "children": [], 
+   "end": "56.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "sich gegen etwas entscheiden zu d\u00fcrfen und daf\u00fcr die gleiche Akzeptanz zu erfahren."
+   ]
+  }, 
+  {
+   "begin": "56.520", 
+   "children": [], 
+   "end": "61.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Religionsfreiheit wird jedoch nicht \u00fcberall und nicht von allen akzeptiert. "
+   ]
+  }, 
+  {
+   "begin": "61.160", 
+   "children": [], 
+   "end": "65.000", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Die Verfolgung der muslimischen Minderheit der Rohingya in Myanmar, "
+   ]
+  }, 
+  {
+   "begin": "65.000", 
+   "children": [], 
+   "end": "83.160", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die unertr\u00e4gliche humanit\u00e4re Situation von Christen und Jesiden in Syrien und der grassierende Antisemitismus in Deutschland und vielen Teilen der Welt sind nur drei Beispiele f\u00fcr den dringend notwendigen Einsatz f\u00fcr Religionsfreiheit."
+   ]
+  }, 
+  {
+   "begin": "83.160", 
+   "children": [], 
+   "end": "84.360", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Der Bericht zeigt, "
+   ]
+  }, 
+  {
+   "begin": "84.360", 
+   "children": [], 
+   "end": "90.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass religi\u00f6se Verfolgung und Diskriminierung mal direkter und mal subtiler auftreten, "
+   ]
+  }, 
+  {
+   "begin": "90.600", 
+   "children": [], 
+   "end": "92.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "ob beim Zugang zu Bildung, "
+   ]
+  }, 
+  {
+   "begin": "92.040", 
+   "children": [], 
+   "end": "97.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "beim Zugang zu politischen \u00c4mtern oder bei der Besetzung von Arbeitsstellen. "
+   ]
+  }, 
+  {
+   "begin": "97.280", 
+   "children": [], 
+   "end": "99.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Religionsfreiheit bedeutet nicht nur, "
+   ]
+  }, 
+  {
+   "begin": "99.480", 
+   "children": [], 
+   "end": "102.520", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "frei von lebensbedrohlicher Verfolgung zu sein, "
+   ]
+  }, 
+  {
+   "begin": "102.520", 
+   "children": [], 
+   "end": "103.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch, "
+   ]
+  }, 
+  {
+   "begin": "103.760", 
+   "children": [], 
+   "end": "107.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "immer und \u00fcberall Gleicher oder Gleiche unter Gleichen zu sein."
+   ]
+  }, 
+  {
+   "begin": "107.640", 
+   "children": [], 
+   "end": "111.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Um dieses Recht nachhaltig zu st\u00e4rken, "
+   ]
+  }, 
+  {
+   "begin": "111.200", 
+   "children": [], 
+   "end": "113.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "brauchen wir einen Kulturwandel, "
+   ]
+  }, 
+  {
+   "begin": "113.560", 
+   "children": [], 
+   "end": "116.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "weltweit und in unserer Gesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "116.120", 
+   "children": [], 
+   "end": "123.280", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen weg von einer Kultur des Unter-mir oder einer Kultur des \u00dcber-mir hin zu einer Kultur des Neben-mir, "
+   ]
+  }, 
+  {
+   "begin": "123.280", 
+   "children": [], 
+   "end": "127.520", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "einer Kultur der Augenh\u00f6he aller statt einer christlichen Leitkultur."
+   ]
+  }, 
+  {
+   "begin": "127.520", 
+   "children": [], 
+   "end": "135.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Statt religi\u00f6se Dominanz durch das Anbringen von Kreuzen in den medialen Fokus zu r\u00fccken, "
+   ]
+  }, 
+  {
+   "begin": "135.600", 
+   "children": [], 
+   "end": "137.080", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "ist es unsere Aufgabe, "
+   ]
+  }, 
+  {
+   "begin": "137.080", 
+   "children": [], 
+   "end": "144.560", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die Kultur der Augenh\u00f6he aller mit unseren Mitteln zu begleiten und zu f\u00f6rdern."
+   ]
+  }, 
+  {
+   "begin": "144.560", 
+   "children": [], 
+   "end": "149.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Religion zu einer politischen Kategorie der Ausgrenzung wird, "
+   ]
+  }, 
+  {
+   "begin": "149.200", 
+   "children": [], 
+   "end": "151.800", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir dem entschieden entgegenwirken; "
+   ]
+  }, 
+  {
+   "begin": "151.800", 
+   "children": [], 
+   "end": "153.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "denn auch unser Grundgesetz ist, "
+   ]
+  }, 
+  {
+   "begin": "153.640", 
+   "children": [], 
+   "end": "154.040", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "wie ich, "
+   ]
+  }, 
+  {
+   "begin": "154.040", 
+   "children": [], 
+   "end": "155.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "nicht getauft."
+   ]
+  }, 
+  {
+   "begin": "155.680", 
+   "children": [], 
+   "end": "159.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Als wehrhafte Demokratinnen und Demokraten m\u00fcssen wir uns gegen den Versuch stemmen, "
+   ]
+  }, 
+  {
+   "begin": "159.960", 
+   "children": [], 
+   "end": "162.640", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass Religion zur Spaltung genutzt wird. "
+   ]
+  }, 
+  {
+   "begin": "162.640", 
+   "children": [], 
+   "end": "164.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das Gegenteil muss der Fall sein. "
+   ]
+  }, 
+  {
+   "begin": "164.600", 
+   "children": [], 
+   "end": "165.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr mich ist klar: "
+   ]
+  }, 
+  {
+   "begin": "165.640", 
+   "children": [], 
+   "end": "166.200", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Religions- "
+   ]
+  }, 
+  {
+   "begin": "166.200", 
+   "children": [], 
+   "end": "169.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "und Weltanschauungsfreiheit ist ein verbindendes Element, "
+   ]
+  }, 
+  {
+   "begin": "169.760", 
+   "children": [], 
+   "end": "171.560", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "eine Br\u00fccke des Miteinanders; "
+   ]
+  }, 
+  {
+   "begin": "171.560", 
+   "children": [], 
+   "end": "174.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "denn das Miteinander ist immer st\u00e4rker als das Gegeneinander. "
+   ]
+  }, 
+  {
+   "begin": "174.520", 
+   "children": [], 
+   "end": "176.480", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Es ist Aufgabe von Staaten, "
+   ]
+  }, 
+  {
+   "begin": "176.480", 
+   "children": [], 
+   "end": "179.000", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dieses Miteinander zu garantieren."
+   ]
+  }, 
+  {
+   "begin": "179.000", 
+   "children": [], 
+   "end": "186.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Doch der Missbrauch von Religion durch staatliche und nichtstaatliche Akteure zur Durchsetzung von Macht geschieht weltweit t\u00e4glich. "
+   ]
+  }, 
+  {
+   "begin": "186.840", 
+   "children": [], 
+   "end": "188.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Auch das zeigt uns der Bericht. "
+   ]
+  }, 
+  {
+   "begin": "188.800", 
+   "children": [], 
+   "end": "192.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Menschen vor diesem Missbrauch zu sch\u00fctzen und ihnen zur Seite zu stehen, "
+   ]
+  }, 
+  {
+   "begin": "192.560", 
+   "children": [], 
+   "end": "197.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "muss dabei Selbstverst\u00e4ndnis aller demokratischen Gesellschaften sein."
+   ]
+  }, 
+  {
+   "begin": "197.240", 
+   "children": [], 
+   "end": "202.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr mich hei\u00dft das vor allen Dingen, "
+   ]
+  }, 
+  {
+   "begin": "202.320", 
+   "children": [], 
+   "end": "206.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die universellen Menschenrechte national wie international in den Mittelpunkt zu stellen, "
+   ]
+  }, 
+  {
+   "begin": "206.760", 
+   "children": [], 
+   "end": "210.240", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "sie zu f\u00f6rdern und gerade dann an ihnen festzuhalten, "
+   ]
+  }, 
+  {
+   "begin": "210.240", 
+   "children": [], 
+   "end": "211.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wenn es unbequem wird. "
+   ]
+  }, 
+  {
+   "begin": "211.920", 
+   "children": [], 
+   "end": "218.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist das Engagement der Bundesregierung und der Abgeordneten in den multilateralen Dialogforen so wichtig; "
+   ]
+  }, 
+  {
+   "begin": "218.160", 
+   "children": [], 
+   "end": "219.480", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "ich denke dabei an den Europarat, "
+   ]
+  }, 
+  {
+   "begin": "219.480", 
+   "children": [], 
+   "end": "222.000", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "an die OSZE oder an die Vereinten Nationen. "
+   ]
+  }, 
+  {
+   "begin": "222.000", 
+   "children": [], 
+   "end": "226.320", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Auch wenn diese Zusammenarbeit kleinschrittig und m\u00fchevoll ist: "
+   ]
+  }, 
+  {
+   "begin": "226.320", 
+   "children": [], 
+   "end": "228.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Am Ende gilt es immer wieder, "
+   ]
+  }, 
+  {
+   "begin": "228.520", 
+   "children": [], 
+   "end": "229.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "die Reihen zu schlie\u00dfen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "229.640", 
+   "children": [], 
+   "end": "232.120", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Religionsfreiheit und f\u00fcr die Menschenrechte."
+   ]
+  }, 
+  {
+   "begin": "232.120", 
+   "children": [], 
+   "end": "233.160", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "233.160", 
+   "children": [], 
+   "end": "239.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt erh\u00e4lt das Wort der Kollege Sebastian Brehm, "
+   ]
+  }, 
+  {
+   "begin": "239.800", 
+   "children": [], 
+   "end": "241.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

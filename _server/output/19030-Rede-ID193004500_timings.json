@@ -1,0 +1,834 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.080", 
+   "children": [], 
+   "end": "12.560", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "children": [], 
+   "end": "14.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle sind uns einig, "
+   ]
+  }, 
+  {
+   "begin": "14.680", 
+   "children": [], 
+   "end": "17.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass Kinderarmut effektiv bek\u00e4mpft werden muss. "
+   ]
+  }, 
+  {
+   "begin": "17.720", 
+   "children": [], 
+   "end": "19.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Das gilt f\u00fcr alle Kinder. "
+   ]
+  }, 
+  {
+   "begin": "19.440", 
+   "children": [], 
+   "end": "25.720", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man regelm\u00e4\u00dfig vermeintlich falsch verstanden wird, "
+   ]
+  }, 
+  {
+   "begin": "25.720", 
+   "children": [], 
+   "end": "29.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "sollte man es vielleicht bei dem Begriff \u201ealle\u201c belassen. "
+   ]
+  }, 
+  {
+   "begin": "29.240", 
+   "children": [], 
+   "end": "32.840", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Das impliziert sowohl deutsche als auch nicht deutsche Kinder."
+   ]
+  }, 
+  {
+   "begin": "32.840", 
+   "children": [], 
+   "end": "38.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem scheinen wir uns grunds\u00e4tzlich dar\u00fcber einig zu sein, "
+   ]
+  }, 
+  {
+   "begin": "38.520", 
+   "children": [], 
+   "end": "43.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass die derzeitige Regelung des Kinderzuschlags das genannte Ziel viel zu selten erreicht. "
+   ]
+  }, 
+  {
+   "begin": "43.880", 
+   "children": [], 
+   "end": "47.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Der Kinderzuschlag kommt nicht dort an, "
+   ]
+  }, 
+  {
+   "begin": "47.880", 
+   "children": [], 
+   "end": "49.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wohin er geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "49.320", 
+   "children": [], 
+   "end": "51.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Die Regelungen und Berechnungen sind kompliziert, "
+   ]
+  }, 
+  {
+   "begin": "51.960", 
+   "children": [], 
+   "end": "54.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "b\u00fcrokratisch und ineffizient. "
+   ]
+  }, 
+  {
+   "begin": "54.800", 
+   "children": [], 
+   "end": "55.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Ohne alles wiederholen zu wollen, "
+   ]
+  }, 
+  {
+   "begin": "55.960", 
+   "children": [], 
+   "end": "59.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "was wir im Laufe dieser Debatte schon geh\u00f6rt haben, "
+   ]
+  }, 
+  {
+   "begin": "59.080", 
+   "children": [], 
+   "end": "61.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte ich unterstreichen, "
+   ]
+  }, 
+  {
+   "begin": "61.240", 
+   "children": [], 
+   "end": "67.400", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass lediglich 30\u00a0Prozent aller Antragsberechtigten den Kinderzuschlag beantragen. "
+   ]
+  }, 
+  {
+   "begin": "67.400", 
+   "children": [], 
+   "end": "69.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet im Umkehrschluss, "
+   ]
+  }, 
+  {
+   "begin": "69.280", 
+   "children": [], 
+   "end": "74.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dass bis zu 380\u00a0000\u00a0Berechtigte gar keinen Antrag stellen. "
+   ]
+  }, 
+  {
+   "begin": "74.160", 
+   "children": [], 
+   "end": "75.320", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet wiederum, "
+   ]
+  }, 
+  {
+   "begin": "75.320", 
+   "children": [], 
+   "end": "80.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass die betroffenen Kinder und Familien nachweislich unterhalb des Existenzminimums leben. "
+   ]
+  }, 
+  {
+   "begin": "80.680", 
+   "children": [], 
+   "end": "83.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Das ist f\u00fcr mich ein absolutes Unding."
+   ]
+  }, 
+  {
+   "begin": "83.600", 
+   "children": [], 
+   "end": "92.880", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Vor diesem Hintergrund halte ich die im Antrag vorgenommene Problembeschreibung f\u00fcr zutreffend. "
+   ]
+  }, 
+  {
+   "begin": "92.880", 
+   "children": [], 
+   "end": "94.560", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Auch ist der vorgelegte Antrag, "
+   ]
+  }, 
+  {
+   "begin": "94.560", 
+   "children": [], 
+   "end": "95.680", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie selber schreiben, "
+   ]
+  }, 
+  {
+   "begin": "95.680", 
+   "children": [], 
+   "end": "97.200", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kollegin Baerbock, "
+   ]
+  }, 
+  {
+   "begin": "97.200", 
+   "children": [], 
+   "end": "99.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "ein erster richtiger Schritt. "
+   ]
+  }, 
+  {
+   "begin": "99.480", 
+   "children": [], 
+   "end": "103.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4hnliches findet sich im \u00dcbrigen aber auch im Koalitionsvertrag. "
+   ]
+  }, 
+  {
+   "begin": "103.640", 
+   "children": [], 
+   "end": "104.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen hoffe ich, "
+   ]
+  }, 
+  {
+   "begin": "104.680", 
+   "children": [], 
+   "end": "113.240", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass die Koalition\u00e4re nun tats\u00e4chlich Taten folgen lassen und sich nicht im Klein-Klein oder im Herumdoktern an Symptomen verlieren. "
+   ]
+  }, 
+  {
+   "begin": "113.240", 
+   "children": [], 
+   "end": "114.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ich bef\u00fcrchte n\u00e4mlich, "
+   ]
+  }, 
+  {
+   "begin": "114.080", 
+   "children": [], 
+   "end": "117.640", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass wir sonst in einem oder in zwei Jahren wieder an gleicher Stelle zusammenkommen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "117.640", 
+   "children": [], 
+   "end": "123.160", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "um dann \u00fcber unerw\u00fcnschte Wechselwirkungen durch Neuregelungen reden zu m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "123.160", 
+   "children": [], 
+   "end": "125.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Somit w\u00e4re schlussendlich nichts gewonnen. "
+   ]
+  }, 
+  {
+   "begin": "125.400", 
+   "children": [], 
+   "end": "126.640", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ganz im Gegenteil: "
+   ]
+  }, 
+  {
+   "begin": "126.640", 
+   "children": [], 
+   "end": "133.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die guten Vors\u00e4tze h\u00e4tten das Ganze nur weiter verkompliziert."
+   ]
+  }, 
+  {
+   "begin": "133.480", 
+   "children": [], 
+   "end": "138.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir gemeinsam die Missst\u00e4nde erkannt haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "138.200", 
+   "children": [], 
+   "end": "141.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "das ist in vielen Reden gerade schon angeklungen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "141.280", 
+   "children": [], 
+   "end": "143.160", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und uns offensichtlich auch einig sind, "
+   ]
+  }, 
+  {
+   "begin": "143.160", 
+   "children": [], 
+   "end": "148.120", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass die Regelungen zum Kinderzuschlag grundlegend reformiert werden m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "148.120", 
+   "children": [], 
+   "end": "153.800", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "warum stellen wir dann nicht endlich wieder das Wohl der Kinder selbst in den Mittelpunkt? "
+   ]
+  }, 
+  {
+   "begin": "153.800", 
+   "children": [], 
+   "end": "156.280", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es geht doch in dieser gesamten Debatte nicht darum, "
+   ]
+  }, 
+  {
+   "begin": "156.280", 
+   "children": [], 
+   "end": "159.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "einen Verwaltungsakt oder ein Antragsverfahren nachzubessern; "
+   ]
+  }, 
+  {
+   "begin": "159.840", 
+   "children": [], 
+   "end": "161.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "es geht doch vielmehr darum, "
+   ]
+  }, 
+  {
+   "begin": "161.600", 
+   "children": [], 
+   "end": "163.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "den Kindern die Hilfe zu geben, "
+   ]
+  }, 
+  {
+   "begin": "163.600", 
+   "children": [], 
+   "end": "164.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die sie tats\u00e4chlich brauchen, "
+   ]
+  }, 
+  {
+   "begin": "164.880", 
+   "children": [], 
+   "end": "166.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "und zwar schnell, "
+   ]
+  }, 
+  {
+   "begin": "166.120", 
+   "children": [], 
+   "end": "169.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "direkt und unkompliziert."
+   ]
+  }, 
+  {
+   "begin": "169.920", 
+   "children": [], 
+   "end": "174.280", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "An dieser Stelle bieten wir Freien Demokraten eine klare L\u00f6sung an. "
+   ]
+  }, 
+  {
+   "begin": "174.280", 
+   "children": [], 
+   "end": "175.040", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben den Mut, "
+   ]
+  }, 
+  {
+   "begin": "175.040", 
+   "children": [], 
+   "end": "178.480", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "umzudenken und auch noch einen Schritt weiterzugehen: "
+   ]
+  }, 
+  {
+   "begin": "178.480", 
+   "children": [], 
+   "end": "181.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "ein einkommensunabh\u00e4ngiger Sockelbetrag f\u00fcr jedes Kind, "
+   ]
+  }, 
+  {
+   "begin": "181.760", 
+   "children": [], 
+   "end": "183.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "den wir mit Komponenten kombinieren, "
+   ]
+  }, 
+  {
+   "begin": "183.520", 
+   "children": [], 
+   "end": "188.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die die wirtschaftliche Situation der Eltern unb\u00fcrokratisch ber\u00fccksichtigen, "
+   ]
+  }, 
+  {
+   "begin": "188.000", 
+   "children": [], 
+   "end": "190.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "als eine Leistung aus einer Hand, "
+   ]
+  }, 
+  {
+   "begin": "190.520", 
+   "children": [], 
+   "end": "193.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die wir \u201eKindergeld\u00a02.0\u201c nennen. "
+   ]
+  }, 
+  {
+   "begin": "193.400", 
+   "children": [], 
+   "end": "195.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freien Demokraten streben an, "
+   ]
+  }, 
+  {
+   "begin": "195.400", 
+   "children": [], 
+   "end": "197.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "bestehende Leistungen noch mehr zu b\u00fcndeln, "
+   ]
+  }, 
+  {
+   "begin": "197.520", 
+   "children": [], 
+   "end": "199.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "als es im heutigen Antrag vorgesehen ist, "
+   ]
+  }, 
+  {
+   "begin": "199.760", 
+   "children": [], 
+   "end": "204.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "so wie es im \u00dcbrigen auch viele Verb\u00e4nde berechtigterweise vorschlagen und auch einfordern. "
+   ]
+  }, 
+  {
+   "begin": "204.800", 
+   "children": [], 
+   "end": "207.320", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Zu nennen sind hier beispielsweise das Sozialgeld, "
+   ]
+  }, 
+  {
+   "begin": "207.320", 
+   "children": [], 
+   "end": "211.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "das Wohngeld und auch eine umfassende Einbeziehung der Bildungs- "
+   ]
+  }, 
+  {
+   "begin": "211.720", 
+   "children": [], 
+   "end": "215.000", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "und Teilhabemittel."
+   ]
+  }, 
+  {
+   "begin": "215.000", 
+   "children": [], 
+   "end": "216.840", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir es wirklich ernst meinen, "
+   ]
+  }, 
+  {
+   "begin": "216.840", 
+   "children": [], 
+   "end": "220.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das Kind ins Zentrum unserer Betrachtungen stellen wollen, "
+   ]
+  }, 
+  {
+   "begin": "220.600", 
+   "children": [], 
+   "end": "227.440", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "warum sprechen wir den Kindern dann nicht einen eigenen konkreten Rechtsanspruch auf ihre Leistungen zu?"
+   ]
+  }, 
+  {
+   "begin": "227.440", 
+   "children": [], 
+   "end": "231.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Dies w\u00e4re meiner Meinung nach ein echter Schritt in Richtung Chancen und Teilhabe; "
+   ]
+  }, 
+  {
+   "begin": "231.600", 
+   "children": [], 
+   "end": "235.880", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "es w\u00e4re ein echter Schritt zur effektiven Bek\u00e4mpfung von Kinderarmut."
+   ]
+  }, 
+  {
+   "begin": "235.880", 
+   "children": [], 
+   "end": "239.200", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "239.200", 
+   "children": [], 
+   "end": "240.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "ich lade Sie herzlich ein, "
+   ]
+  }, 
+  {
+   "begin": "240.840", 
+   "children": [], 
+   "end": "245.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "in den kommenden Beratungen mit uns zusammen an einem solchen Umdenken zu arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "245.560", 
+   "children": [], 
+   "end": "247.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Nur so kommen wir zu einer effizienten, "
+   ]
+  }, 
+  {
+   "begin": "247.200", 
+   "children": [], 
+   "end": "251.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "zielgerichteten und unb\u00fcrokratischen L\u00f6sung im Sinne unserer Kinder und Jugendlichen; "
+   ]
+  }, 
+  {
+   "begin": "251.680", 
+   "children": [], 
+   "end": "253.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "denn es geht um nicht weniger als darum, "
+   ]
+  }, 
+  {
+   "begin": "253.440", 
+   "children": [], 
+   "end": "254.120", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "allen Kindern, "
+   ]
+  }, 
+  {
+   "begin": "254.120", 
+   "children": [], 
+   "end": "256.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "und zwar unabh\u00e4ngig von ihrer sozialen Herkunft, "
+   ]
+  }, 
+  {
+   "begin": "256.760", 
+   "children": [], 
+   "end": "259.320", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Chancen f\u00fcr die Zukunft zu erm\u00f6glichen; "
+   ]
+  }, 
+  {
+   "begin": "259.320", 
+   "children": [], 
+   "end": "260.600", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "das ist unsere Aufgabe."
+   ]
+  }, 
+  {
+   "begin": "260.600", 
+   "children": [], 
+   "end": "262.280", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "262.280", 
+   "children": [], 
+   "end": "263.000", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "263.000", 
+   "children": [], 
+   "end": "267.040", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Seestern-Pauly.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "267.040", 
+   "children": [], 
+   "end": "271.960", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Als vorletzter Rednerin erteile ich das Wort der Kollegin Sabine Zimmermann f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1384 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "7.920", 
+   "children": [], 
+   "end": "9.600", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "9.600", 
+   "children": [], 
+   "end": "10.280", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Jeder von uns, "
+   ]
+  }, 
+  {
+   "begin": "10.280", 
+   "children": [], 
+   "end": "11.000", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "der Kinder hat, "
+   ]
+  }, 
+  {
+   "begin": "11.000", 
+   "children": [], 
+   "end": "12.240", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "geht mit ihnen mal ins Kino, "
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "children": [], 
+   "end": "13.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "im Sommer ins Schwimmbad, "
+   ]
+  }, 
+  {
+   "begin": "13.520", 
+   "children": [], 
+   "end": "15.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "kauft neue Winterstiefel, "
+   ]
+  }, 
+  {
+   "begin": "15.360", 
+   "children": [], 
+   "end": "17.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "und die Kinder gehen auf Klassenfahrt. "
+   ]
+  }, 
+  {
+   "begin": "17.480", 
+   "children": [], 
+   "end": "19.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Das sind Selbstverst\u00e4ndlichkeiten, "
+   ]
+  }, 
+  {
+   "begin": "19.360", 
+   "children": [], 
+   "end": "21.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "denkt man als Mutter, "
+   ]
+  }, 
+  {
+   "begin": "21.160", 
+   "children": [], 
+   "end": "22.280", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "denkt man als Kind. "
+   ]
+  }, 
+  {
+   "begin": "22.280", 
+   "children": [], 
+   "end": "26.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Aber das ist eben nicht selbstverst\u00e4ndlich f\u00fcr alle Kinder in unserem Land. "
+   ]
+  }, 
+  {
+   "begin": "26.680", 
+   "children": [], 
+   "end": "30.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Jedes f\u00fcnfte Kind lebt in Armut und geht eben nicht ins Kino, "
+   ]
+  }, 
+  {
+   "begin": "30.760", 
+   "children": [], 
+   "end": "35.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "geht nicht mit auf Klassenfahrt und hat auch keine neuen Winterstiefel. "
+   ]
+  }, 
+  {
+   "begin": "35.680", 
+   "children": [], 
+   "end": "38.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein unhaltbarer Zustand. "
+   ]
+  }, 
+  {
+   "begin": "38.080", 
+   "children": [], 
+   "end": "39.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Den m\u00fcssen wir angehen."
+   ]
+  }, 
+  {
+   "begin": "39.600", 
+   "children": [], 
+   "end": "42.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Es war gut, "
+   ]
+  }, 
+  {
+   "begin": "42.520", 
+   "children": [], 
+   "end": "45.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass man vor 13\u00a0Jahren gesagt hat: "
+   ]
+  }, 
+  {
+   "begin": "45.960", 
+   "children": [], 
+   "end": "47.640", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen den Eltern, "
+   ]
+  }, 
+  {
+   "begin": "47.640", 
+   "children": [], 
+   "end": "51.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die arbeiten und nur durch ihre Kinder in Armut rutschen, "
+   ]
+  }, 
+  {
+   "begin": "51.720", 
+   "children": [], 
+   "end": "53.800", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "besonders unter die Arme greifen; "
+   ]
+  }, 
+  {
+   "begin": "53.800", 
+   "children": [], 
+   "end": "56.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "denn es kann nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "56.120", 
+   "children": [], 
+   "end": "58.160", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass Kinder ein Armutsrisiko sind. "
+   ]
+  }, 
+  {
+   "begin": "58.160", 
+   "children": [], 
+   "end": "61.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen hat man den Kinderzuschlag eingef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "61.360", 
+   "children": [], 
+   "end": "64.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Nach 13\u00a0Jahren m\u00fcssen wir aber feststellen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "64.800", 
+   "children": [], 
+   "end": "66.320", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "das ist das gro\u00dfe Problem\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "66.320", 
+   "children": [], 
+   "end": "67.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass das so b\u00fcrokratisch ist, "
+   ]
+  }, 
+  {
+   "begin": "67.320", 
+   "children": [], 
+   "end": "70.400", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass das Geld bei den Familien gar nicht ankommt. "
+   ]
+  }, 
+  {
+   "begin": "70.400", 
+   "children": [], 
+   "end": "76.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Nur ein Drittel der Berechtigten erh\u00e4lt \u00fcberhaupt den Kinderzuschlag. "
+   ]
+  }, 
+  {
+   "begin": "76.720", 
+   "children": [], 
+   "end": "78.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Riesenproblem."
+   ]
+  }, 
+  {
+   "begin": "78.760", 
+   "children": [], 
+   "end": "79.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "79.800", 
+   "children": [], 
+   "end": "85.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass Frieda eben nicht zum Kindergeburtstag gehen kann, "
+   ]
+  }, 
+  {
+   "begin": "85.320", 
+   "children": [], 
+   "end": "88.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "weil ihre Mutter sich am Ende des Monats das Geschenk nicht leisten kann. "
+   ]
+  }, 
+  {
+   "begin": "88.800", 
+   "children": [], 
+   "end": "89.720", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "89.720", 
+   "children": [], 
+   "end": "93.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass Yazan im Winter immer wieder Wasser in den Stiefeln hat, "
+   ]
+  }, 
+  {
+   "begin": "93.480", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "weil die Stiefel seiner Schwester, "
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "96.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die er auftr\u00e4gt, "
+   ]
+  }, 
+  {
+   "begin": "96.200", 
+   "children": [], 
+   "end": "97.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "nicht mehr wasser- "
+   ]
+  }, 
+  {
+   "begin": "97.720", 
+   "children": [], 
+   "end": "99.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "und matschfest sind. "
+   ]
+  }, 
+  {
+   "begin": "99.280", 
+   "children": [], 
+   "end": "104.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen m\u00fcssen wir an diesen Kinderzuschlag unbedingt heran."
+   ]
+  }, 
+  {
+   "begin": "104.720", 
+   "children": [], 
+   "end": "109.800", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt ein weiteres Problem: "
+   ]
+  }, 
+  {
+   "begin": "109.800", 
+   "children": [], 
+   "end": "114.800", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Mutter von Frieda oder von Yazan zus\u00e4tzlich einen Minijob annimmt, "
+   ]
+  }, 
+  {
+   "begin": "114.800", 
+   "children": [], 
+   "end": "116.720", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "weil sie es einfach nicht ertragen kann, "
+   ]
+  }, 
+  {
+   "begin": "116.720", 
+   "children": [], 
+   "end": "119.480", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass ihre Tochter oder ihr Sohn immer wieder au\u00dfen vor ist, "
+   ]
+  }, 
+  {
+   "begin": "119.480", 
+   "children": [], 
+   "end": "120.960", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dann arbeitet sie zwar mehr, "
+   ]
+  }, 
+  {
+   "begin": "120.960", 
+   "children": [], 
+   "end": "123.000", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "erreicht dadurch aber die H\u00f6chstgrenze. "
+   ]
+  }, 
+  {
+   "begin": "123.000", 
+   "children": [], 
+   "end": "123.680", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Am Ende hat sie, "
+   ]
+  }, 
+  {
+   "begin": "123.680", 
+   "children": [], 
+   "end": "127.480", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "weil sie dann nicht mehr den kompletten Kinderzuschlag bekommt, "
+   ]
+  }, 
+  {
+   "begin": "127.480", 
+   "children": [], 
+   "end": "129.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "sogar weniger, "
+   ]
+  }, 
+  {
+   "begin": "129.040", 
+   "children": [], 
+   "end": "131.000", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "obwohl sie mehr gearbeitet hat. "
+   ]
+  }, 
+  {
+   "begin": "131.000", 
+   "children": [], 
+   "end": "131.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Es kann nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "131.880", 
+   "children": [], 
+   "end": "138.520", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass Arbeit auch noch bestraft wird."
+   ]
+  }, 
+  {
+   "begin": "138.520", 
+   "children": [], 
+   "end": "139.520", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Es wird schon gerufen: "
+   ]
+  }, 
+  {
+   "begin": "139.520", 
+   "children": [], 
+   "end": "141.080", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDas \u00e4ndern wir!\u201c Das habe ich auch gedacht. "
+   ]
+  }, 
+  {
+   "begin": "141.080", 
+   "children": [], 
+   "end": "143.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wir Gr\u00fcne haben uns n\u00e4mlich richtig gefreut, "
+   ]
+  }, 
+  {
+   "begin": "143.600", 
+   "children": [], 
+   "end": "145.920", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "als wir den Koalitionsvertrag gelesen haben, "
+   ]
+  }, 
+  {
+   "begin": "145.920", 
+   "children": [], 
+   "end": "149.640", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "weil gleich im ersten Kapitel die Familien erw\u00e4hnt wurden. "
+   ]
+  }, 
+  {
+   "begin": "149.640", 
+   "children": [], 
+   "end": "151.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Doch wenn man sich ihn genau ansieht, "
+   ]
+  }, 
+  {
+   "begin": "151.840", 
+   "children": [], 
+   "end": "153.040", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "stellt man fest: "
+   ]
+  }, 
+  {
+   "begin": "153.040", 
+   "children": [], 
+   "end": "156.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Man darf nicht nur die Prosa im Familienkapitel lesen, "
+   ]
+  }, 
+  {
+   "begin": "156.680", 
+   "children": [], 
+   "end": "160.720", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "sondern muss sich auch Seite\u00a067 des Koalitionsvertrages anschauen. "
+   ]
+  }, 
+  {
+   "begin": "160.720", 
+   "children": [], 
+   "end": "162.440", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Dort ist aufgelistet, "
+   ]
+  }, 
+  {
+   "begin": "162.440", 
+   "children": [], 
+   "end": "164.960", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wie viel Geld in die Familienf\u00f6rderung flie\u00dft. "
+   ]
+  }, 
+  {
+   "begin": "164.960", 
+   "children": [], 
+   "end": "165.920", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Da steht, "
+   ]
+  }, 
+  {
+   "begin": "165.920", 
+   "children": [], 
+   "end": "170.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass f\u00fcr die Kindergelderh\u00f6hung 3,5\u00a0Milliarden Euro bereitgestellt werden. "
+   ]
+  }, 
+  {
+   "begin": "170.360", 
+   "children": [], 
+   "end": "171.680", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem steht da, "
+   ]
+  }, 
+  {
+   "begin": "171.680", 
+   "children": [], 
+   "end": "176.600", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass f\u00fcr die Bek\u00e4mpfung der Kinderarmut durch den Kinderzuschlag 1\u00a0Milliarde Euro zur Verf\u00fcgung gestellt wird. "
+   ]
+  }, 
+  {
+   "begin": "176.600", 
+   "children": [], 
+   "end": "176.800", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Union, "
+   ]
+  }, 
+  {
+   "begin": "176.800", 
+   "children": [], 
+   "end": "177.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "liebe SPD, "
+   ]
+  }, 
+  {
+   "begin": "177.560", 
+   "children": [], 
+   "end": "179.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "das ist der Status quo. "
+   ]
+  }, 
+  {
+   "begin": "179.080", 
+   "children": [], 
+   "end": "179.720", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "179.720", 
+   "children": [], 
+   "end": "183.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen an der Situation dieser Kinder nichts \u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "183.400", 
+   "children": [], 
+   "end": "184.160", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen nicht, "
+   ]
+  }, 
+  {
+   "begin": "184.160", 
+   "children": [], 
+   "end": "185.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass Frieda, "
+   ]
+  }, 
+  {
+   "begin": "185.160", 
+   "children": [], 
+   "end": "189.200", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Yazan und all die 520\u00a0000\u00a0Kinder, "
+   ]
+  }, 
+  {
+   "begin": "189.200", 
+   "children": [], 
+   "end": "192.320", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die der Kinderzuschlag derzeit nicht erreicht, "
+   ]
+  }, 
+  {
+   "begin": "192.320", 
+   "children": [], 
+   "end": "194.160", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "aus der Armut geholt werden. "
+   ]
+  }, 
+  {
+   "begin": "194.160", 
+   "children": [], 
+   "end": "195.680", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen eines: "
+   ]
+  }, 
+  {
+   "begin": "195.680", 
+   "children": [], 
+   "end": "197.120", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nicht mein Land, "
+   ]
+  }, 
+  {
+   "begin": "197.120", 
+   "children": [], 
+   "end": "199.680", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "in dem Kinder gut und gerne leben k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "199.680", 
+   "children": [], 
+   "end": "203.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie von der SPD jetzt sagen: "
+   ]
+  }, 
+  {
+   "begin": "203.520", 
+   "children": [], 
+   "end": "205.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDas ist uns irgendwie durchgerutscht\u201c, "
+   ]
+  }, 
+  {
+   "begin": "205.600", 
+   "children": [], 
+   "end": "206.800", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "kann ich das verstehen. "
+   ]
+  }, 
+  {
+   "begin": "206.800", 
+   "children": [], 
+   "end": "208.360", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Auch wir haben verhandelt, "
+   ]
+  }, 
+  {
+   "begin": "208.360", 
+   "children": [], 
+   "end": "210.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "und das war ziemlich stressig."
+   ]
+  }, 
+  {
+   "begin": "210.080", 
+   "children": [], 
+   "end": "211.200", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Die Ministerin sagt: "
+   ]
+  }, 
+  {
+   "begin": "211.200", 
+   "children": [], 
+   "end": "211.720", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe das auf dem Schirm; "
+   ]
+  }, 
+  {
+   "begin": "211.720", 
+   "children": [], 
+   "end": "212.840", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "ich werde das angehen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "212.840", 
+   "children": [], 
+   "end": "214.040", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Die gute Nachricht ist: "
+   ]
+  }, 
+  {
+   "begin": "214.040", 
+   "children": [], 
+   "end": "217.320", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wir bringen heute mit unserem Antrag genau diese Punkte ein. "
+   ]
+  }, 
+  {
+   "begin": "217.320", 
+   "children": [], 
+   "end": "221.440", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen die automatische Auszahlung des Kinderzuschlages. "
+   ]
+  }, 
+  {
+   "begin": "221.440", 
+   "children": [], 
+   "end": "222.320", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Es muss verhindert werden, "
+   ]
+  }, 
+  {
+   "begin": "222.320", 
+   "children": [], 
+   "end": "224.440", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "dass man sofort wieder in die Armut driftet, "
+   ]
+  }, 
+  {
+   "begin": "224.440", 
+   "children": [], 
+   "end": "226.800", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "wenn man 1\u00a0Euro dazuverdient. "
+   ]
+  }, 
+  {
+   "begin": "226.800", 
+   "children": [], 
+   "end": "227.880", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "227.880", 
+   "children": [], 
+   "end": "230.360", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "dass der Kinderzuschlag existenzsichernd ist. "
+   ]
+  }, 
+  {
+   "begin": "230.360", 
+   "children": [], 
+   "end": "231.400", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Vor allem wollen wir, "
+   ]
+  }, 
+  {
+   "begin": "231.400", 
+   "children": [], 
+   "end": "235.120", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "dass die Alleinerziehenden genauso unterst\u00fctzt werden wie Familien mit zwei Partnern. "
+   ]
+  }, 
+  {
+   "begin": "235.120", 
+   "children": [], 
+   "end": "236.000", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Wenn auch Sie das wollen, "
+   ]
+  }, 
+  {
+   "begin": "236.000", 
+   "children": [], 
+   "end": "238.880", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "dann stimmen Sie unserem Antrag heute zu."
+   ]
+  }, 
+  {
+   "begin": "238.880", 
+   "children": [], 
+   "end": "240.800", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Auch wir haben schon regiert. "
+   ]
+  }, 
+  {
+   "begin": "240.800", 
+   "children": [], 
+   "end": "241.520", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen, "
+   ]
+  }, 
+  {
+   "begin": "241.520", 
+   "children": [], 
+   "end": "244.440", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "dass man R\u00fccksicht auf den Koalitionsvertrag nehmen muss. "
+   ]
+  }, 
+  {
+   "begin": "244.440", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Das Gute ist: "
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "247.840", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Wir hatten all das schon mit der Union ausverhandelt. "
+   ]
+  }, 
+  {
+   "begin": "247.840", 
+   "children": [], 
+   "end": "248.440", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "All das, "
+   ]
+  }, 
+  {
+   "begin": "248.440", 
+   "children": [], 
+   "end": "250.160", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "wor\u00fcber wir heute abstimmen, "
+   ]
+  }, 
+  {
+   "begin": "250.160", 
+   "children": [], 
+   "end": "252.440", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "hat die Union schon einmal zugesagt. "
+   ]
+  }, 
+  {
+   "begin": "252.440", 
+   "children": [], 
+   "end": "254.600", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Damit k\u00f6nnen Sie sich am Ende also nicht herausreden."
+   ]
+  }, 
+  {
+   "begin": "254.600", 
+   "children": [], 
+   "end": "256.480", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Wenn jetzt das Argument kommt, "
+   ]
+  }, 
+  {
+   "begin": "256.480", 
+   "children": [], 
+   "end": "260.440", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "der Kinderzuschlag allein hole Kinder nicht aus der Armut, "
+   ]
+  }, 
+  {
+   "begin": "260.440", 
+   "children": [], 
+   "end": "261.480", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "muss ich sagen: "
+   ]
+  }, 
+  {
+   "begin": "261.480", 
+   "children": [], 
+   "end": "262.480", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Das stimmt. "
+   ]
+  }, 
+  {
+   "begin": "262.480", 
+   "children": [], 
+   "end": "264.280", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Er ist nur ein erster Schritt. "
+   ]
+  }, 
+  {
+   "begin": "264.280", 
+   "children": [], 
+   "end": "266.080", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine Kindergrundsicherung, "
+   ]
+  }, 
+  {
+   "begin": "266.080", 
+   "children": [], 
+   "end": "268.400", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "und wir brauchen soziale Teilhabe."
+   ]
+  }, 
+  {
+   "begin": "268.400", 
+   "children": [], 
+   "end": "270.000", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Aber ich sage Ihnen eines: "
+   ]
+  }, 
+  {
+   "begin": "270.000", 
+   "children": [], 
+   "end": "270.920", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Winterschuhe, "
+   ]
+  }, 
+  {
+   "begin": "270.920", 
+   "children": [], 
+   "end": "271.880", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Kindergeburtstag, "
+   ]
+  }, 
+  {
+   "begin": "271.880", 
+   "children": [], 
+   "end": "274.840", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Klassenfahrten und kostenloses Mittagessen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "274.840", 
+   "children": [], 
+   "end": "276.560", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "im Bundesrat haben Sie es gerade \u201egekillt\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "276.560", 
+   "children": [], 
+   "end": "278.520", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "sind keine Kleinigkeiten. "
+   ]
+  }, 
+  {
+   "begin": "278.520", 
+   "children": [], 
+   "end": "279.920", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr Kinder ist das die Welt. "
+   ]
+  }, 
+  {
+   "begin": "279.920", 
+   "children": [], 
+   "end": "281.400", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Es geht darum: "
+   ]
+  }, 
+  {
+   "begin": "281.400", 
+   "children": [], 
+   "end": "283.280", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Geh\u00f6ren diese Kinder dazu, "
+   ]
+  }, 
+  {
+   "begin": "283.280", 
+   "children": [], 
+   "end": "284.520", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "oder geh\u00f6ren sie nicht dazu: "
+   ]
+  }, 
+  {
+   "begin": "284.520", 
+   "children": [], 
+   "end": "285.680", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "beim Kindergeburtstag, "
+   ]
+  }, 
+  {
+   "begin": "285.680", 
+   "children": [], 
+   "end": "287.520", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "bei der Klassenfahrt, "
+   ]
+  }, 
+  {
+   "begin": "287.520", 
+   "children": [], 
+   "end": "292.120", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "beim Mittagessen und als Teil unserer Gesellschaft? "
+   ]
+  }, 
+  {
+   "begin": "292.120", 
+   "children": [], 
+   "end": "294.360", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Wenn sie 18\u00a0Jahre alt sind, "
+   ]
+  }, 
+  {
+   "begin": "294.360", 
+   "children": [], 
+   "end": "295.200", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "ist es zu sp\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "295.200", 
+   "children": [], 
+   "end": "296.000", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen: "
+   ]
+  }, 
+  {
+   "begin": "296.000", 
+   "children": [], 
+   "end": "299.560", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen hier und heute handeln. "
+   ]
+  }, 
+  {
+   "begin": "299.560", 
+   "children": [], 
+   "end": "310.000", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "\u201eMacht\u201c kommt von \u201emachen\u201c. "
+   ]
+  }, 
+  {
+   "begin": "310.000", 
+   "children": [], 
+   "end": "311.880", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Machen Sie also etwas daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "311.880", 
+   "children": [], 
+   "end": "313.040", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "dass die Kinder aus der Armut kommen!"
+   ]
+  }, 
+  {
+   "begin": "313.040", 
+   "children": [], 
+   "end": "313.680", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "313.680", 
+   "children": [], 
+   "end": "316.960", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Kollege Marcus Weinberg f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

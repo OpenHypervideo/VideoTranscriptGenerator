@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "children": [], 
+   "end": "11.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.200", 
+   "children": [], 
+   "end": "13.280", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich drei Vorbemerkungen machen."
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "children": [], 
+   "end": "14.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Erste Vorbemerkung. "
+   ]
+  }, 
+  {
+   "begin": "14.360", 
+   "children": [], 
+   "end": "18.040", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die AfD hat f\u00fcnf Monate gebraucht, "
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "children": [], 
+   "end": "19.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "um da anzukommen, "
+   ]
+  }, 
+  {
+   "begin": "19.600", 
+   "children": [], 
+   "end": "20.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "wo sie heute ist, "
+   ]
+  }, 
+  {
+   "begin": "20.960", 
+   "children": [], 
+   "end": "22.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich bei der Feststellung, "
+   ]
+  }, 
+  {
+   "begin": "22.440", 
+   "children": [], 
+   "end": "27.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass der Deutsche Bundestag mehr ist als eine Plenarsitzung"
+   ]
+  }, 
+  {
+   "begin": "27.520", 
+   "children": [], 
+   "end": "28.920", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und dass das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "28.920", 
+   "children": [], 
+   "end": "34.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass man ganz sch\u00f6n unter Dampf sein kann und im Dauerlauf und ziemlich gut organisiert sein muss, "
+   ]
+  }, 
+  {
+   "begin": "34.560", 
+   "children": [], 
+   "end": "38.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wenn man als Abgeordneter seinen vielf\u00e4ltigen Aufgaben, "
+   ]
+  }, 
+  {
+   "begin": "38.560", 
+   "children": [], 
+   "end": "39.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die man hat, "
+   ]
+  }, 
+  {
+   "begin": "39.960", 
+   "children": [], 
+   "end": "41.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "nachkommen will."
+   ]
+  }, 
+  {
+   "begin": "41.680", 
+   "children": [], 
+   "end": "43.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Immerhin f\u00fcnf Monate! "
+   ]
+  }, 
+  {
+   "begin": "43.000", 
+   "children": [], 
+   "end": "46.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Vor f\u00fcnf Monaten haben wir die Aussch\u00fcsse eingesetzt. "
+   ]
+  }, 
+  {
+   "begin": "46.880", 
+   "children": [], 
+   "end": "49.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ab da sickerte so langsam durch, "
+   ]
+  }, 
+  {
+   "begin": "49.720", 
+   "children": [], 
+   "end": "52.680", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass der Deutsche Bundestag ein Arbeitsparlament ist."
+   ]
+  }, 
+  {
+   "begin": "52.680", 
+   "children": [], 
+   "end": "55.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Zweite Vorbemerkung. "
+   ]
+  }, 
+  {
+   "begin": "55.280", 
+   "children": [], 
+   "end": "58.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Ich lasse mir von einem Abgeordneten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "58.800", 
+   "children": [], 
+   "end": "59.240", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "59.240", 
+   "children": [], 
+   "end": "61.720", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "das sehen die meisten von Ihnen so\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "61.720", 
+   "children": [], 
+   "end": "70.160", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "der den Abstimmungszettel zur geheimen Wahl der Kanzlerin auf dem Herrenklo fotografiert"
+   ]
+  }, 
+  {
+   "begin": "70.160", 
+   "children": [], 
+   "end": "73.400", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "und sich damit bei Twitter br\u00fcstet, "
+   ]
+  }, 
+  {
+   "begin": "73.400", 
+   "children": [], 
+   "end": "81.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "zum Thema \u201eW\u00fcrde des Hauses\u201c gar nichts sagen."
+   ]
+  }, 
+  {
+   "begin": "81.760", 
+   "children": [], 
+   "end": "85.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Dritte kurze Vorbemerkung. "
+   ]
+  }, 
+  {
+   "begin": "85.440", 
+   "children": [], 
+   "end": "89.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Ein Rechtsausschussvorsitzender sollte eigentlich wissen, "
+   ]
+  }, 
+  {
+   "begin": "89.160", 
+   "children": [], 
+   "end": "90.040", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass der Antrag, "
+   ]
+  }, 
+  {
+   "begin": "90.040", 
+   "children": [], 
+   "end": "91.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "den wir gerade beraten, "
+   ]
+  }, 
+  {
+   "begin": "91.720", 
+   "children": [], 
+   "end": "94.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "kein Gesch\u00e4ftsordnungsantrag ist,"
+   ]
+  }, 
+  {
+   "begin": "94.400", 
+   "children": [], 
+   "end": "101.200", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "sondern ein Antrag an den Deutschen Bundestag zur \u00c4nderung der Gesch\u00e4ftsordnung."
+   ]
+  }, 
+  {
+   "begin": "101.200", 
+   "children": [], 
+   "end": "103.640", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "So weit meine Vorbemerkungen. "
+   ]
+  }, 
+  {
+   "begin": "103.640", 
+   "children": [], 
+   "end": "106.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Da ist noch Luft nach oben,"
+   ]
+  }, 
+  {
+   "begin": "106.160", 
+   "children": [], 
+   "end": "112.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "das ist f\u00fcr mich an diesem Abend wieder einmal klar geworden."
+   ]
+  }, 
+  {
+   "begin": "112.240", 
+   "children": [], 
+   "end": "113.320", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt zur Sache. "
+   ]
+  }, 
+  {
+   "begin": "113.320", 
+   "children": [], 
+   "end": "116.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben 24 ordentliche Aussch\u00fcsse, "
+   ]
+  }, 
+  {
+   "begin": "116.200", 
+   "children": [], 
+   "end": "119.160", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "17 davon tagen vormittags, "
+   ]
+  }, 
+  {
+   "begin": "119.160", 
+   "children": [], 
+   "end": "127.520", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "7 tagen am Nachmittag und d\u00fcrfen laut Gesch\u00e4ftsordnung nicht parallel zur Regierungsbefragung stattfinden, "
+   ]
+  }, 
+  {
+   "begin": "127.520", 
+   "children": [], 
+   "end": "130.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "da alle Abgeordneten die M\u00f6glichkeit haben sollen, "
+   ]
+  }, 
+  {
+   "begin": "130.240", 
+   "children": [], 
+   "end": "132.120", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "an der Regierungsbefragung teilzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "132.120", 
+   "children": [], 
+   "end": "135.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben einen parlamentarischen Untersuchungsausschuss. "
+   ]
+  }, 
+  {
+   "begin": "135.200", 
+   "children": [], 
+   "end": "139.920", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben elf Unteraussch\u00fcsse des Deutschen Bundestages. "
+   ]
+  }, 
+  {
+   "begin": "139.920", 
+   "children": [], 
+   "end": "143.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben eine Reihe von Kommissionen und Beir\u00e4ten."
+   ]
+  }, 
+  {
+   "begin": "143.920", 
+   "children": [], 
+   "end": "148.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Nun zum sehr inhaltslosen Antrag, "
+   ]
+  }, 
+  {
+   "begin": "148.400", 
+   "children": [], 
+   "end": "149.880", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "der uns vorliegt. "
+   ]
+  }, 
+  {
+   "begin": "149.880", 
+   "children": [], 
+   "end": "156.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Als Erg\u00e4nzung zu \u00a7\u00a020 der Gesch\u00e4ftsordnung schl\u00e4gt die AfD vor, "
+   ]
+  }, 
+  {
+   "begin": "156.680", 
+   "children": [], 
+   "end": "163.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Sitzungen des Bundestages nicht zeitlich mit Ausschusssitzungen \u00fcberschneiden d\u00fcrfen."
+   ]
+  }, 
+  {
+   "begin": "163.320", 
+   "children": [], 
+   "end": "166.800", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "In \u00a7\u00a060 der Gesch\u00e4ftsordnung soll ge\u00e4ndert werden, "
+   ]
+  }, 
+  {
+   "begin": "166.800", 
+   "children": [], 
+   "end": "171.520", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass Ausschusssitzungen nicht gleichzeitig mit Plenarsitzungen stattfinden d\u00fcrfen."
+   ]
+  }, 
+  {
+   "begin": "171.520", 
+   "children": [], 
+   "end": "174.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Wer sich nun mit der Frage besch\u00e4ftigt: "
+   ]
+  }, 
+  {
+   "begin": "174.120", 
+   "children": [], 
+   "end": "176.280", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "\u201eWas sollen wir denn dann tun?\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "176.280", 
+   "children": [], 
+   "end": "177.360", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Sie verstehen: "
+   ]
+  }, 
+  {
+   "begin": "177.360", 
+   "children": [], 
+   "end": "182.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ausschusssitzungen sollen nicht parallel zum Plenum und Plenum nicht parallel zu Ausschusssitzungen stattfinden\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "182.640", 
+   "children": [], 
+   "end": "183.560", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "und erwartet, "
+   ]
+  }, 
+  {
+   "begin": "183.560", 
+   "children": [], 
+   "end": "188.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass eine Fraktion dieses Hauses zu diesem komplexen Vorgang einen Vorschlag macht, "
+   ]
+  }, 
+  {
+   "begin": "188.400", 
+   "children": [], 
+   "end": "189.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "hat sich geirrt."
+   ]
+  }, 
+  {
+   "begin": "189.640", 
+   "children": [], 
+   "end": "194.400", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Das einzig Substanzielle ist, "
+   ]
+  }, 
+  {
+   "begin": "194.400", 
+   "children": [], 
+   "end": "199.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "diese beiden Paragrafen der Gesch\u00e4ftsordnung aufzuf\u00fchren und zu sagen: "
+   ]
+  }, 
+  {
+   "begin": "199.880", 
+   "children": [], 
+   "end": "201.240", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Das muss ge\u00e4ndert werden."
+   ]
+  }, 
+  {
+   "begin": "201.240", 
+   "children": [], 
+   "end": "203.040", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt zum Ernst der Sache: "
+   ]
+  }, 
+  {
+   "begin": "203.040", 
+   "children": [], 
+   "end": "204.720", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "204.720", 
+   "children": [], 
+   "end": "207.480", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen sich demn\u00e4chst ein flotteres Tempo angew\u00f6hnen, "
+   ]
+  }, 
+  {
+   "begin": "207.480", 
+   "children": [], 
+   "end": "209.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dann schaffen Sie es vielleicht auch, "
+   ]
+  }, 
+  {
+   "begin": "209.360", 
+   "children": [], 
+   "end": "210.320", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Ausschussarbeit, "
+   ]
+  }, 
+  {
+   "begin": "210.320", 
+   "children": [], 
+   "end": "211.680", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Kommissionsarbeit, "
+   ]
+  }, 
+  {
+   "begin": "211.680", 
+   "children": [], 
+   "end": "212.800", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Beiratsarbeit, "
+   ]
+  }, 
+  {
+   "begin": "212.800", 
+   "children": [], 
+   "end": "214.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Plenararbeit, "
+   ]
+  }, 
+  {
+   "begin": "214.040", 
+   "children": [], 
+   "end": "217.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Fragestunde und Kontrolle der Regierung unter einen Hut zu kriegen. "
+   ]
+  }, 
+  {
+   "begin": "217.840", 
+   "children": [], 
+   "end": "219.360", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcrde mich auch fragen: "
+   ]
+  }, 
+  {
+   "begin": "219.360", 
+   "children": [], 
+   "end": "222.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wollen Sie eigentlich auch Wahlkreisarbeit machen?"
+   ]
+  }, 
+  {
+   "begin": "222.120", 
+   "children": [], 
+   "end": "226.440", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Denn Wahlkreisarbeit umfasst die Fragen: "
+   ]
+  }, 
+  {
+   "begin": "226.440", 
+   "children": [], 
+   "end": "232.240", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wie gehen wir eigentlich mit der Vermittlung unserer Arbeit nach au\u00dfen um? "
+   ]
+  }, 
+  {
+   "begin": "232.240", 
+   "children": [], 
+   "end": "236.600", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wie stehen wir Rede und Antwort in unseren Wahlkreisen f\u00fcr das, "
+   ]
+  }, 
+  {
+   "begin": "236.600", 
+   "children": [], 
+   "end": "237.040", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "was wir tun? "
+   ]
+  }, 
+  {
+   "begin": "237.040", 
+   "children": [], 
+   "end": "238.680", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Machen wir B\u00fcrgersprechstunden?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "238.680", 
+   "children": [], 
+   "end": "241.560", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wer von Ihnen hat eigentlich ein Wahlkreisb\u00fcro?"
+   ]
+  }, 
+  {
+   "begin": "241.560", 
+   "children": [], 
+   "end": "248.520", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Oder konzentrieren Sie sich voll auf den Laden hier?"
+   ]
+  }, 
+  {
+   "begin": "248.520", 
+   "children": [], 
+   "end": "251.720", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wenn eine Fraktion versucht, "
+   ]
+  }, 
+  {
+   "begin": "251.720", 
+   "children": [], 
+   "end": "257.560", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "das Parlament und die Arbeit des Parlaments ver\u00e4chtlich zu machen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "257.560", 
+   "children": [], 
+   "end": "258.560", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "das ist im Kern das, "
+   ]
+  }, 
+  {
+   "begin": "258.560", 
+   "children": [], 
+   "end": "262.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "was der Kollege vorhin versucht hat\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "262.520", 
+   "children": [], 
+   "end": "263.440", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dann sage ich: "
+   ]
+  }, 
+  {
+   "begin": "263.440", 
+   "children": [], 
+   "end": "266.240", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr gibt es keinen Anlass. "
+   ]
+  }, 
+  {
+   "begin": "266.240", 
+   "children": [], 
+   "end": "267.200", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir versuchen, "
+   ]
+  }, 
+  {
+   "begin": "267.200", 
+   "children": [], 
+   "end": "272.760", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die Arbeit hier im Plenum und die Arbeit im Wahlkreis unter einen Hut zu kriegen. "
+   ]
+  }, 
+  {
+   "begin": "272.760", 
+   "children": [], 
+   "end": "274.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Das ist verdammt schwer. "
+   ]
+  }, 
+  {
+   "begin": "274.320", 
+   "children": [], 
+   "end": "278.160", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Man muss immer wieder neu nachdenken und reflektieren, "
+   ]
+  }, 
+  {
+   "begin": "278.160", 
+   "children": [], 
+   "end": "279.680", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "wie man das schafft."
+   ]
+  }, 
+  {
+   "begin": "279.680", 
+   "children": [], 
+   "end": "283.760", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine Herausforderung f\u00fcr jede und jeden von uns. "
+   ]
+  }, 
+  {
+   "begin": "283.760", 
+   "children": [], 
+   "end": "284.760", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin froh, "
+   ]
+  }, 
+  {
+   "begin": "284.760", 
+   "children": [], 
+   "end": "285.720", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "dass wir gemeinsam\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "285.720", 
+   "children": [], 
+   "end": "288.640", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "bei aller Unterschiedlichkeit in den Positionen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "288.640", 
+   "children": [], 
+   "end": "290.480", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "diese Art, "
+   ]
+  }, 
+  {
+   "begin": "290.480", 
+   "children": [], 
+   "end": "293.760", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "die Arbeit der Abgeordneten l\u00e4cherlich machen zu wollen, "
+   ]
+  }, 
+  {
+   "begin": "293.760", 
+   "children": [], 
+   "end": "294.520", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "nicht zulassen."
+   ]
+  }, 
+  {
+   "begin": "294.520", 
+   "children": [], 
+   "end": "313.960", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chster Redner hat das Wort der Kollege J\u00fcrgen Braun f\u00fcr die AfD."
+   ]
+  }
+ ]
+}

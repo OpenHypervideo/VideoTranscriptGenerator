@@ -1,0 +1,924 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Guten Tag, "
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "children": [], 
+   "end": "4.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "4.880", 
+   "children": [], 
+   "end": "6.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "children": [], 
+   "end": "7.000", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste! "
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "children": [], 
+   "end": "9.200", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wer es ernst meint mit den Klimazielen, "
+   ]
+  }, 
+  {
+   "begin": "9.200", 
+   "children": [], 
+   "end": "10.120", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "der muss daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "10.120", 
+   "children": [], 
+   "end": "13.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass G\u00fctertransporte von der Stra\u00dfe auf die Schiene verlagert werden."
+   ]
+  }, 
+  {
+   "begin": "13.560", 
+   "children": [], 
+   "end": "18.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wir von der Linken haben dazu wirklich viele konkrete Vorschl\u00e4ge auf den Tisch gelegt. "
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "children": [], 
+   "end": "20.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Es ist h\u00f6chste Eisenbahn, "
+   ]
+  }, 
+  {
+   "begin": "20.280", 
+   "children": [], 
+   "end": "28.160", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass auch der Verkehrsminister die Bahn mit voller Kraft unterst\u00fctzt und nicht immer wieder eine Leerstelle hinterl\u00e4sst."
+   ]
+  }, 
+  {
+   "begin": "28.160", 
+   "children": [], 
+   "end": "36.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Im August\u00a02017 bricht eine Tunnelbaustelle auf einer der meistbefahrenen Bahnstrecken Europas zusammen, "
+   ]
+  }, 
+  {
+   "begin": "36.600", 
+   "children": [], 
+   "end": "37.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "bei Rastatt, "
+   ]
+  }, 
+  {
+   "begin": "37.920", 
+   "children": [], 
+   "end": "41.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "im auf ihre Ingenieure so stolzen Baden-W\u00fcrttemberg\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "41.400", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "peinlich. "
+   ]
+  }, 
+  {
+   "begin": "42.760", 
+   "children": [], 
+   "end": "44.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Dann bricht das Chaos aus\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "44.080", 
+   "children": [], 
+   "end": "44.960", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wir haben es schon geh\u00f6rt\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "44.960", 
+   "children": [], 
+   "end": "47.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Der Zugverkehr wird wochenlang praktisch eingestellt, "
+   ]
+  }, 
+  {
+   "begin": "47.840", 
+   "children": [], 
+   "end": "53.400", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Ausweichrouten existieren kaum oder sind gerade wegen Bauarbeiten gesperrt, "
+   ]
+  }, 
+  {
+   "begin": "53.400", 
+   "children": [], 
+   "end": "56.200", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Fahrg\u00e4ste werden in Busse verfrachtet, "
+   ]
+  }, 
+  {
+   "begin": "56.200", 
+   "children": [], 
+   "end": "59.320", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und 8\u00a0200\u00a0G\u00fcterz\u00fcge bleiben stehen. "
+   ]
+  }, 
+  {
+   "begin": "59.320", 
+   "children": [], 
+   "end": "60.960", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Der damals Zust\u00e4ndige, "
+   ]
+  }, 
+  {
+   "begin": "60.960", 
+   "children": [], 
+   "end": "62.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pofalla, "
+   ]
+  }, 
+  {
+   "begin": "62.160", 
+   "children": [], 
+   "end": "65.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "blieb in dieser Zeit weitgehend unsichtbar. "
+   ]
+  }, 
+  {
+   "begin": "65.120", 
+   "children": [], 
+   "end": "67.760", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Besch\u00e4ftigten haben wirklich schwer gelitten, "
+   ]
+  }, 
+  {
+   "begin": "67.760", 
+   "children": [], 
+   "end": "77.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "weil vom Beschwerdemanagement nur Serienbriefe verschickt wurden und die Besch\u00e4ftigten den Frust der betroffenen Fahrg\u00e4ste aushalten mussten. "
+   ]
+  }, 
+  {
+   "begin": "77.720", 
+   "children": [], 
+   "end": "78.560", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "78.560", 
+   "children": [], 
+   "end": "80.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "das ist v\u00f6llig inakzeptabel."
+   ]
+  }, 
+  {
+   "begin": "80.680", 
+   "children": [], 
+   "end": "85.720", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Ein gutes Krisenmanagement sieht anders aus. "
+   ]
+  }, 
+  {
+   "begin": "85.720", 
+   "children": [], 
+   "end": "92.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung als Eigent\u00fcmerin der Deutschen Bahn darf diese Angelegenheit nicht aussitzen."
+   ]
+  }, 
+  {
+   "begin": "92.080", 
+   "children": [], 
+   "end": "93.440", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es gut, "
+   ]
+  }, 
+  {
+   "begin": "93.440", 
+   "children": [], 
+   "end": "98.600", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass die FDP diese Sache mit ihrem Antrag wieder auf die Tagesordnung gesetzt hat. "
+   ]
+  }, 
+  {
+   "begin": "98.600", 
+   "children": [], 
+   "end": "104.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir stimmen ihren Forderungen nach Aufkl\u00e4rung und Transparenz v\u00f6llig zu. "
+   ]
+  }, 
+  {
+   "begin": "104.600", 
+   "children": [], 
+   "end": "106.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Selbstverst\u00e4ndlich setzen auch wir uns daf\u00fcr ein, "
+   ]
+  }, 
+  {
+   "begin": "106.520", 
+   "children": [], 
+   "end": "109.760", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass das Bahnnetz z\u00fcgig ausgebaut und modernisiert wird, "
+   ]
+  }, 
+  {
+   "begin": "109.760", 
+   "children": [], 
+   "end": "113.960", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "damit es wieder Ausweichstrecken gibt."
+   ]
+  }, 
+  {
+   "begin": "113.960", 
+   "children": [], 
+   "end": "121.240", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Aber der Unfall wirft nat\u00fcrlich noch ein weiteres Licht auf ein jahreslanges Versagen der Bundesregierung. "
+   ]
+  }, 
+  {
+   "begin": "121.240", 
+   "children": [], 
+   "end": "124.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die Rheintalstrecke h\u00e4tte n\u00e4mlich schon l\u00e4ngst fertig sein m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "124.800", 
+   "children": [], 
+   "end": "125.480", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Die Tatsache, "
+   ]
+  }, 
+  {
+   "begin": "125.480", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass dort \u00fcberhaupt noch eine Baustelle war, "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "131.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "ist ein Vertragsbruch und ein Wortbruch der Bundeskanzlerin."
+   ]
+  }, 
+  {
+   "begin": "131.200", 
+   "children": [], 
+   "end": "136.600", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Auch das darf das Parlament nicht einfach akzeptieren. "
+   ]
+  }, 
+  {
+   "begin": "136.600", 
+   "children": [], 
+   "end": "143.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeskanzlerin hat bei diesem zentralen Projekt f\u00fcr den Schienenverkehr in Europa, "
+   ]
+  }, 
+  {
+   "begin": "143.640", 
+   "children": [], 
+   "end": "147.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "das zur Verlagerung des G\u00fcterverkehrs auf die Schiene vor allem im Alpenraum gebraucht wird, "
+   ]
+  }, 
+  {
+   "begin": "147.960", 
+   "children": [], 
+   "end": "157.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ihr Wort gebrochen und stattdessen Prestigeprojekte wie die Neubaustrecke Ulm\u2013Wendlingen und vor allen Dingen Stuttgart\u00a021 gepusht. "
+   ]
+  }, 
+  {
+   "begin": "157.800", 
+   "children": [], 
+   "end": "160.480", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Auch dazu ein ernstes Wort."
+   ]
+  }, 
+  {
+   "begin": "160.480", 
+   "children": [], 
+   "end": "169.080", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Der Tunnel in Rastatt war ein vergleichsweise einfaches und \u00fcberschaubares Tunnelbauprojekt."
+   ]
+  }, 
+  {
+   "begin": "169.080", 
+   "children": [], 
+   "end": "172.920", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Dort ist aus unerfindlichen Gr\u00fcnden pl\u00f6tzlich die Technik, "
+   ]
+  }, 
+  {
+   "begin": "172.920", 
+   "children": [], 
+   "end": "174.200", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die man angewendet hat, "
+   ]
+  }, 
+  {
+   "begin": "174.200", 
+   "children": [], 
+   "end": "175.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "ge\u00e4ndert worden. "
+   ]
+  }, 
+  {
+   "begin": "175.320", 
+   "children": [], 
+   "end": "176.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Kein Mensch wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "176.680", 
+   "children": [], 
+   "end": "178.960", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wie es zu dieser Entscheidung gekommen ist. "
+   ]
+  }, 
+  {
+   "begin": "178.960", 
+   "children": [], 
+   "end": "180.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Tatsache ist, "
+   ]
+  }, 
+  {
+   "begin": "180.240", 
+   "children": [], 
+   "end": "187.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass mit demselben Verfahren bereits bei vorhergehenden Tunnelprojekten vergleichbare Schwierigkeiten aufgetreten sind."
+   ]
+  }, 
+  {
+   "begin": "187.760", 
+   "children": [], 
+   "end": "189.840", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Hinzu kommt, "
+   ]
+  }, 
+  {
+   "begin": "189.840", 
+   "children": [], 
+   "end": "195.120", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dass eine Verwirrtaktik im Hinblick auf die Ungl\u00fccksursachen verbreitet wurde."
+   ]
+  }, 
+  {
+   "begin": "195.120", 
+   "children": [], 
+   "end": "196.200", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Erst hie\u00df es, "
+   ]
+  }, 
+  {
+   "begin": "196.200", 
+   "children": [], 
+   "end": "198.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "es sei eine innovative Neuerung, "
+   ]
+  }, 
+  {
+   "begin": "198.200", 
+   "children": [], 
+   "end": "199.480", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die dort verwendet wurde, "
+   ]
+  }, 
+  {
+   "begin": "199.480", 
+   "children": [], 
+   "end": "201.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "und deshalb sei man in diese Schwierigkeiten geraten. "
+   ]
+  }, 
+  {
+   "begin": "201.840", 
+   "children": [], 
+   "end": "203.480", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Dann wurde davon geredet, "
+   ]
+  }, 
+  {
+   "begin": "203.480", 
+   "children": [], 
+   "end": "205.600", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass man \u00fcberhaupt keine Schuld trage, "
+   ]
+  }, 
+  {
+   "begin": "205.600", 
+   "children": [], 
+   "end": "208.520", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "weil es sich um eine ganz bew\u00e4hrte Methode handele. "
+   ]
+  }, 
+  {
+   "begin": "208.520", 
+   "children": [], 
+   "end": "209.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann Ihnen sagen: "
+   ]
+  }, 
+  {
+   "begin": "209.720", 
+   "children": [], 
+   "end": "214.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wenn schon beim Rastatter Tunnelungl\u00fcck eine solche Verwirrtaktik, "
+   ]
+  }, 
+  {
+   "begin": "214.480", 
+   "children": [], 
+   "end": "220.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "eine solche Intransparenz und ein solches Komplettversagen zu beobachten sind,"
+   ]
+  }, 
+  {
+   "begin": "220.120", 
+   "children": [], 
+   "end": "223.280", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "was erwartet uns bei Stuttgart\u00a021?"
+   ]
+  }, 
+  {
+   "begin": "223.280", 
+   "children": [], 
+   "end": "228.360", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Dies ist n\u00e4mlich ein ungleich gr\u00f6\u00dferes Projekt."
+   ]
+  }, 
+  {
+   "begin": "228.360", 
+   "children": [], 
+   "end": "231.160", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Es ist aus meiner Sicht kein Zufall, "
+   ]
+  }, 
+  {
+   "begin": "231.160", 
+   "children": [], 
+   "end": "233.680", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass das zentrale Gutachten\u00a0\u2013\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "233.680", 
+   "children": [], 
+   "end": "235.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Sie k\u00f6nnen jetzt herumschreien, "
+   ]
+  }, 
+  {
+   "begin": "235.240", 
+   "children": [], 
+   "end": "239.520", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "aber Sie k\u00f6nnen mir auch zuh\u00f6ren und vielleicht etwas lernen."
+   ]
+  }, 
+  {
+   "begin": "239.520", 
+   "children": [], 
+   "end": "249.720", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Das zentrale Gutachten im Zusammenhang mit den Risiken der Tunnelbauwerke in Stuttgart wird wie ein Staatsgeheimnis geh\u00fctet."
+   ]
+  }, 
+  {
+   "begin": "249.720", 
+   "children": [], 
+   "end": "250.960", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben mehrfach versucht, "
+   ]
+  }, 
+  {
+   "begin": "250.960", 
+   "children": [], 
+   "end": "253.120", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dieses Gutachten \u00f6ffentlich zu machen. "
+   ]
+  }, 
+  {
+   "begin": "253.120", 
+   "children": [], 
+   "end": "254.320", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Sie verweigern es. "
+   ]
+  }, 
+  {
+   "begin": "254.320", 
+   "children": [], 
+   "end": "257.160", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Der Minister droht mit einer Klage gegen die Bahn. "
+   ]
+  }, 
+  {
+   "begin": "257.160", 
+   "children": [], 
+   "end": "259.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Das ist wirklich inakzeptabel."
+   ]
+  }, 
+  {
+   "begin": "259.080", 
+   "children": [], 
+   "end": "261.800", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Sie verh\u00f6hnen damit die \u00d6ffentlichkeit. "
+   ]
+  }, 
+  {
+   "begin": "261.800", 
+   "children": [], 
+   "end": "262.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "262.480", 
+   "children": [], 
+   "end": "271.240", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Stuttgart\u00a021 muss endlich ein Umstiegsprojekt werden."
+   ]
+  }, 
+  {
+   "begin": "271.240", 
+   "children": [], 
+   "end": "272.880", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke fordert dar\u00fcber hinaus, "
+   ]
+  }, 
+  {
+   "begin": "272.880", 
+   "children": [], 
+   "end": "274.880", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "dass die Unternehmen entsch\u00e4digt werden."
+   ]
+  }, 
+  {
+   "begin": "274.880", 
+   "children": [], 
+   "end": "275.320", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "275.320", 
+   "children": [], 
+   "end": "277.200", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "achten Sie bitte auf die Zeit?"
+   ]
+  }, 
+  {
+   "begin": "277.200", 
+   "children": [], 
+   "end": "278.800", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Schluss.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "278.800", 
+   "children": [], 
+   "end": "281.400", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Hunderte Millionen Euro werden f\u00fcr Elektroautos zur Verf\u00fcgung gestellt. "
+   ]
+  }, 
+  {
+   "begin": "281.400", 
+   "children": [], 
+   "end": "287.520", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Dann m\u00fcssen auch Hunderte Millionen Euro f\u00fcr die Unterst\u00fctzung der G\u00fcterzugunternehmen in der Kasse sein."
+   ]
+  }, 
+  {
+   "begin": "287.520", 
+   "children": [], 
+   "end": "291.840", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Es m\u00fcssen auch endlich faire Wettbewerbsbedingungen hergestellt werden. "
+   ]
+  }, 
+  {
+   "begin": "291.840", 
+   "children": [], 
+   "end": "294.480", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Es darf nicht immer zugunsten der Lkws entschieden werden."
+   ]
+  }, 
+  {
+   "begin": "294.480", 
+   "children": [], 
+   "end": "299.120", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen die Verkehrswende f\u00fcr den Klimaschutz und f\u00fcr mehr Lebensqualit\u00e4t."
+   ]
+  }, 
+  {
+   "begin": "299.120", 
+   "children": [], 
+   "end": "302.080", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Die Ank\u00fcndigung des Redeendes ersetzt dieses nicht.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "302.080", 
+   "children": [], 
+   "end": "315.000", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Kollege Matthias Gastel f\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

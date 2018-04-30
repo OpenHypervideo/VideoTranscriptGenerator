@@ -1,0 +1,754 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.920", 
+   "children": [], 
+   "end": "6.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "children": [], 
+   "end": "7.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Ziele, "
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "children": [], 
+   "end": "8.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "die W\u00fcnsche, "
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "children": [], 
+   "end": "10.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "auch die Talente junger Menschen sind vielf\u00e4ltig. "
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "children": [], 
+   "end": "13.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Ein Bildungssystem sollte diese Vielfalt, "
+   ]
+  }, 
+  {
+   "begin": "13.280", 
+   "children": [], 
+   "end": "15.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "diese Selbstbestimmung nicht ausbremsen, "
+   ]
+  }, 
+  {
+   "begin": "15.720", 
+   "children": [], 
+   "end": "18.520", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "sondern unterst\u00fctzen und f\u00f6rdern. "
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "children": [], 
+   "end": "19.720", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ein gutes Bildungssystem, "
+   ]
+  }, 
+  {
+   "begin": "19.720", 
+   "children": [], 
+   "end": "21.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "gerade in der beruflichen Bildung, "
+   ]
+  }, 
+  {
+   "begin": "21.840", 
+   "children": [], 
+   "end": "24.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "unterst\u00fctzt die verschiedenen M\u00f6glichkeiten, "
+   ]
+  }, 
+  {
+   "begin": "24.640", 
+   "children": [], 
+   "end": "29.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "nach jeder Art von Abschluss wieder einen neuen Anschluss zu finden. "
+   ]
+  }, 
+  {
+   "begin": "29.320", 
+   "children": [], 
+   "end": "36.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Man muss dies auch flexibel \u00fcber modularisierte Teilabschl\u00fcsse \u00fcber den gesamten Lebensweg erm\u00f6glichen, "
+   ]
+  }, 
+  {
+   "begin": "36.440", 
+   "children": [], 
+   "end": "40.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und zwar je nach individueller Lebenssituation und F\u00e4higkeiten. "
+   ]
+  }, 
+  {
+   "begin": "40.920", 
+   "children": [], 
+   "end": "41.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "41.360", 
+   "children": [], 
+   "end": "44.000", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr geehrten Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "44.000", 
+   "children": [], 
+   "end": "47.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "sichert Durchl\u00e4ssigkeit in unserem Bildungssystem, "
+   ]
+  }, 
+  {
+   "begin": "47.200", 
+   "children": [], 
+   "end": "49.480", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "schafft Aufstiegschancen, "
+   ]
+  }, 
+  {
+   "begin": "49.480", 
+   "children": [], 
+   "end": "51.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "und zwar jeden Tag neu, "
+   ]
+  }, 
+  {
+   "begin": "51.360", 
+   "children": [], 
+   "end": "53.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und macht Menschen stark, "
+   ]
+  }, 
+  {
+   "begin": "53.440", 
+   "children": [], 
+   "end": "61.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "ihren Lebensweg in unserer Gesellschaft selbstbestimmt und m\u00fcndig zu gehen."
+   ]
+  }, 
+  {
+   "begin": "61.440", 
+   "children": [], 
+   "end": "64.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Genau deswegen treibt es mich um und macht es mich besorgt, "
+   ]
+  }, 
+  {
+   "begin": "64.600", 
+   "children": [], 
+   "end": "67.440", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Fahimi, "
+   ]
+  }, 
+  {
+   "begin": "67.440", 
+   "children": [], 
+   "end": "71.800", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir immer mehr unversorgte Jugendliche haben, "
+   ]
+  }, 
+  {
+   "begin": "71.800", 
+   "children": [], 
+   "end": "78.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wenn \u00fcber 2\u00a0Millionen junge Menschen ohne jeglichen Berufsabschluss dastehen; "
+   ]
+  }, 
+  {
+   "begin": "78.000", 
+   "children": [], 
+   "end": "82.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "das sind 9\u00a0Prozent mehr als im Vorjahr, "
+   ]
+  }, 
+  {
+   "begin": "82.600", 
+   "children": [], 
+   "end": "83.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin. "
+   ]
+  }, 
+  {
+   "begin": "83.560", 
+   "children": [], 
+   "end": "84.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Jeder von ihnen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "84.440", 
+   "children": [], 
+   "end": "85.240", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "jeder junge Mann, "
+   ]
+  }, 
+  {
+   "begin": "85.240", 
+   "children": [], 
+   "end": "86.680", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "jede junge Frau\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "86.680", 
+   "children": [], 
+   "end": "91.840", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "hat schon viele Frustrationserlebnisse gehabt und startet so, "
+   ]
+  }, 
+  {
+   "begin": "91.840", 
+   "children": [], 
+   "end": "93.920", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "obwohl talentiert, "
+   ]
+  }, 
+  {
+   "begin": "93.920", 
+   "children": [], 
+   "end": "97.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "mit wesentlich schlechteren Chancen in das Berufsleben. "
+   ]
+  }, 
+  {
+   "begin": "97.040", 
+   "children": [], 
+   "end": "99.440", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Von daher m\u00fcssen wir uns sehr ernsthaft, "
+   ]
+  }, 
+  {
+   "begin": "99.440", 
+   "children": [], 
+   "end": "101.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur in Sonntagsreden fragen, "
+   ]
+  }, 
+  {
+   "begin": "101.400", 
+   "children": [], 
+   "end": "104.440", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "was wir an dieser Stelle besser machen m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "104.440", 
+   "children": [], 
+   "end": "108.000", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen bei der Ausbildungsf\u00e4higkeit besser werden. "
+   ]
+  }, 
+  {
+   "begin": "108.000", 
+   "children": [], 
+   "end": "109.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Fahimi, "
+   ]
+  }, 
+  {
+   "begin": "109.040", 
+   "children": [], 
+   "end": "111.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen mal in die Ausbildungsunternehmen, "
+   ]
+  }, 
+  {
+   "begin": "111.640", 
+   "children": [], 
+   "end": "113.480", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "in die Betriebe hineingehen"
+   ]
+  }, 
+  {
+   "begin": "113.480", 
+   "children": [], 
+   "end": "114.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "und schauen, "
+   ]
+  }, 
+  {
+   "begin": "114.280", 
+   "children": [], 
+   "end": "115.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "welche M\u00e4ngel dort gesehen werden. "
+   ]
+  }, 
+  {
+   "begin": "115.720", 
+   "children": [], 
+   "end": "118.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen nicht nur im Bereich der Kenntnisse und Kompetenzen, "
+   ]
+  }, 
+  {
+   "begin": "118.920", 
+   "children": [], 
+   "end": "121.560", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch beim Leistungswillen ansetzen."
+   ]
+  }, 
+  {
+   "begin": "121.560", 
+   "children": [], 
+   "end": "127.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine passgenauere Berufsvermittlung und Berufsorientierung, "
+   ]
+  }, 
+  {
+   "begin": "127.720", 
+   "children": [], 
+   "end": "132.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "mehr modularisierte Angebote und begleitende Ausbildungshilfen. "
+   ]
+  }, 
+  {
+   "begin": "132.600", 
+   "children": [], 
+   "end": "133.640", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Aber der Schl\u00fcssel ist, "
+   ]
+  }, 
+  {
+   "begin": "133.640", 
+   "children": [], 
+   "end": "134.320", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wie ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "134.320", 
+   "children": [], 
+   "end": "137.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die berufliche Bildung wieder attraktiver zu machen, "
+   ]
+  }, 
+  {
+   "begin": "137.640", 
+   "children": [], 
+   "end": "145.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "damit wir mehr junge Menschen daf\u00fcr interessieren und sie insbesondere auf dem anstrengenden Weg der beruflichen Bildung auch bei der Stange halten."
+   ]
+  }, 
+  {
+   "begin": "145.360", 
+   "children": [], 
+   "end": "147.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Doppelt qualifizierende Abschl\u00fcsse\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "147.880", 
+   "children": [], 
+   "end": "149.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Berufsabschluss plus Schulabschluss, "
+   ]
+  }, 
+  {
+   "begin": "149.680", 
+   "children": [], 
+   "end": "151.440", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Berufsabschluss plus Studienabschluss\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "151.440", 
+   "children": [], 
+   "end": "152.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnen ein Weg sein. "
+   ]
+  }, 
+  {
+   "begin": "152.800", 
+   "children": [], 
+   "end": "156.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Auch Hochbegabte d\u00fcrfen hier nicht aus den Augen verloren werden."
+   ]
+  }, 
+  {
+   "begin": "156.800", 
+   "children": [], 
+   "end": "162.880", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus m\u00fcssen wir endlich die neuen Berufsbilder umsetzen und die Berufe an die ver\u00e4nderten Anforderungen anpassen. "
+   ]
+  }, 
+  {
+   "begin": "162.880", 
+   "children": [], 
+   "end": "167.600", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Der Tischler plant l\u00e4ngst in 3D die komplette Wohnzimmerwand. "
+   ]
+  }, 
+  {
+   "begin": "167.600", 
+   "children": [], 
+   "end": "170.800", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Der Elektriker ist zum Smarthome-Manager geworden. "
+   ]
+  }, 
+  {
+   "begin": "170.800", 
+   "children": [], 
+   "end": "171.920", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Es kann nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "171.920", 
+   "children": [], 
+   "end": "183.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in einer gesamten Legislaturperiode nur 48 von 327\u00a0Ausbildungsberufen neu ordnen und davon nicht einmal die H\u00e4lfte mit einem digitalen Bezug."
+   ]
+  }, 
+  {
+   "begin": "183.000", 
+   "children": [], 
+   "end": "183.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "183.560", 
+   "children": [], 
+   "end": "185.760", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wir brauchen eine qualit\u00e4tsvollere, "
+   ]
+  }, 
+  {
+   "begin": "185.760", 
+   "children": [], 
+   "end": "187.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "eine spannendere Ausbildung. "
+   ]
+  }, 
+  {
+   "begin": "187.880", 
+   "children": [], 
+   "end": "190.920", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Das kann man \u00fcberall im Ausland schon beobachten. "
+   ]
+  }, 
+  {
+   "begin": "190.920", 
+   "children": [], 
+   "end": "191.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "191.920", 
+   "children": [], 
+   "end": "193.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass es uns gutt\u00e4te, "
+   ]
+  }, 
+  {
+   "begin": "193.840", 
+   "children": [], 
+   "end": "198.400", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "durch mehr Investitionen als bislang vorgesehen, "
+   ]
+  }, 
+  {
+   "begin": "198.400", 
+   "children": [], 
+   "end": "200.720", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "gerade beim Digitalpakt, "
+   ]
+  }, 
+  {
+   "begin": "200.720", 
+   "children": [], 
+   "end": "203.040", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Karliczek, "
+   ]
+  }, 
+  {
+   "begin": "203.040", 
+   "children": [], 
+   "end": "206.600", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "die Berufsschulen und die Ausbildungsunternehmen fitzumachen, "
+   ]
+  }, 
+  {
+   "begin": "206.600", 
+   "children": [], 
+   "end": "210.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "damit wir die berufliche Bildung weiterhin als Zukunftsmodell exportieren k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "210.760", 
+   "children": [], 
+   "end": "211.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "211.760", 
+   "children": [], 
+   "end": "212.680", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "212.680", 
+   "children": [], 
+   "end": "213.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Beer.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "213.640", 
+   "children": [], 
+   "end": "217.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes rufe ich den fraktionslosen Abgeordneten Mario Mieruch auf."
+   ]
+  }
+ ]
+}

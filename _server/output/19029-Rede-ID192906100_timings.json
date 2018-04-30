@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.680", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "children": [], 
+   "end": "9.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "children": [], 
+   "end": "12.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "children": [], 
+   "end": "17.160", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Demokratie lebt von streitbarer Auseinandersetzung, "
+   ]
+  }, 
+  {
+   "begin": "17.160", 
+   "children": [], 
+   "end": "20.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "vom F\u00fcr und Wider von Argumenten. "
+   ]
+  }, 
+  {
+   "begin": "20.280", 
+   "children": [], 
+   "end": "24.400", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Aber es gibt auch in diesem Hohen Hause rote Linien. "
+   ]
+  }, 
+  {
+   "begin": "24.400", 
+   "children": [], 
+   "end": "27.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man ein Mitglied der Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "27.760", 
+   "children": [], 
+   "end": "29.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "eine Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "29.280", 
+   "children": [], 
+   "end": "32.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "mit einem stinkenden Bismarckhering vergleicht, "
+   ]
+  }, 
+  {
+   "begin": "32.160", 
+   "children": [], 
+   "end": "33.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "der entsorgt werden muss, "
+   ]
+  }, 
+  {
+   "begin": "33.680", 
+   "children": [], 
+   "end": "36.720", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dann sind die Regeln \u00fcberschritten, "
+   ]
+  }, 
+  {
+   "begin": "36.720", 
+   "children": [], 
+   "end": "38.400", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die wir uns selbst gesetzt haben. "
+   ]
+  }, 
+  {
+   "begin": "38.400", 
+   "children": [], 
+   "end": "38.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das geht nicht."
+   ]
+  }, 
+  {
+   "begin": "38.800", 
+   "children": [], 
+   "end": "39.440", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Nun zur Sache. "
+   ]
+  }, 
+  {
+   "begin": "39.440", 
+   "children": [], 
+   "end": "54.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Ursachen f\u00fcr systemische M\u00e4ngel beim BAMF liegen schon mehr als 25\u00a0Jahre zur\u00fcck. "
+   ]
+  }, 
+  {
+   "begin": "54.360", 
+   "children": [], 
+   "end": "58.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "1993 wurde der Asylkompromiss beschlossen; "
+   ]
+  }, 
+  {
+   "begin": "58.920", 
+   "children": [], 
+   "end": "66.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "in diesem Jahr gab es 438\u00a0000\u00a0Asylantr\u00e4ge zu bearbeiten. "
+   ]
+  }, 
+  {
+   "begin": "66.200", 
+   "children": [], 
+   "end": "72.440", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Antragszahlen gingen bis 2018 auf einen Tiefststand von 28\u00a0000 zur\u00fcck. "
+   ]
+  }, 
+  {
+   "begin": "72.440", 
+   "children": [], 
+   "end": "75.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Man hatte sich seinerzeit entschieden, "
+   ]
+  }, 
+  {
+   "begin": "75.240", 
+   "children": [], 
+   "end": "79.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "das Personal dieser Beh\u00f6rde nicht aktiv abzubauen, "
+   ]
+  }, 
+  {
+   "begin": "79.600", 
+   "children": [], 
+   "end": "83.760", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "sondern nur keine Neueinstellungen vorzunehmen."
+   ]
+  }, 
+  {
+   "begin": "83.760", 
+   "children": [], 
+   "end": "98.920", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Trotz zus\u00e4tzlicher Aufgaben wie die F\u00fchrung des Ausl\u00e4nderzentralregisters und die Durchf\u00fchrung von Integrationsprojekten blieb die Beh\u00f6rde personell v\u00f6llig aufgebl\u00e4ht. "
+   ]
+  }, 
+  {
+   "begin": "98.920", 
+   "children": [], 
+   "end": "106.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt eine Aussage des britischen Soziologen Parkinson zum B\u00fcrokratiezuwachs. "
+   ]
+  }, 
+  {
+   "begin": "106.200", 
+   "children": [], 
+   "end": "107.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Er sagt: "
+   ]
+  }, 
+  {
+   "begin": "107.920", 
+   "children": [], 
+   "end": "111.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Arbeit dehnt sich genau in dem Ma\u00dfe aus, "
+   ]
+  }, 
+  {
+   "begin": "111.720", 
+   "children": [], 
+   "end": "116.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wie Zeit zu ihrer Erledigung zur Verf\u00fcgung steht.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "116.000", 
+   "children": [], 
+   "end": "118.680", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Und das hat sich beim BAMF bemerkbar gemacht."
+   ]
+  }, 
+  {
+   "begin": "118.680", 
+   "children": [], 
+   "end": "119.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns vorstellen: "
+   ]
+  }, 
+  {
+   "begin": "119.680", 
+   "children": [], 
+   "end": "120.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Vor zwei Jahren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "120.880", 
+   "children": [], 
+   "end": "123.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "und das im Zeitalter der EDV\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "123.240", 
+   "children": [], 
+   "end": "131.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wurden in einstweiligen Rechtsschutzverfahren auf Anfrage der Gerichte die Akten aus dem Computer h\u00e4ndisch kopiert, "
+   ]
+  }, 
+  {
+   "begin": "131.560", 
+   "children": [], 
+   "end": "133.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "sie wurden hin- "
+   ]
+  }, 
+  {
+   "begin": "133.600", 
+   "children": [], 
+   "end": "135.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und hergeschoben, "
+   ]
+  }, 
+  {
+   "begin": "135.160", 
+   "children": [], 
+   "end": "136.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "und nach fr\u00fchestens zwei, "
+   ]
+  }, 
+  {
+   "begin": "136.600", 
+   "children": [], 
+   "end": "140.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "drei Wochen sind sie beim Verwaltungsgericht eingetroffen. "
+   ]
+  }, 
+  {
+   "begin": "140.080", 
+   "children": [], 
+   "end": "144.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der Beh\u00f6rde im Jahr\u00a02015 auf die F\u00fc\u00dfe gefallen, "
+   ]
+  }, 
+  {
+   "begin": "144.560", 
+   "children": [], 
+   "end": "152.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "als ein exorbitant hoher Aufwuchs von Antragszahlen zu verzeichnen war. "
+   ]
+  }, 
+  {
+   "begin": "152.520", 
+   "children": [], 
+   "end": "155.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Zun\u00e4chst stieg die Zahl der Antr\u00e4ge auf 476\u00a0000; "
+   ]
+  }, 
+  {
+   "begin": "155.280", 
+   "children": [], 
+   "end": "163.240", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "absoluter H\u00f6hepunkt war das Jahr\u00a02017 mit \u00fcber 603\u00a0000 Entscheidungen."
+   ]
+  }, 
+  {
+   "begin": "163.240", 
+   "children": [], 
+   "end": "167.840", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die Beh\u00f6rde war ineffektiv. "
+   ]
+  }, 
+  {
+   "begin": "167.840", 
+   "children": [], 
+   "end": "169.960", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Sie musste sich neu organisieren. "
+   ]
+  }, 
+  {
+   "begin": "169.960", 
+   "children": [], 
+   "end": "176.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Sie musste den Personalstand von rund 2\u00a0000\u00a0Mitarbeitern auf 10\u00a0000 erh\u00f6hen."
+   ]
+  }, 
+  {
+   "begin": "176.080", 
+   "children": [], 
+   "end": "181.200", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Sie hatte 113\u00a0Au\u00dfenstellen zu bilden. "
+   ]
+  }, 
+  {
+   "begin": "181.200", 
+   "children": [], 
+   "end": "183.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Es liegt doch auf der Hand: "
+   ]
+  }, 
+  {
+   "begin": "183.800", 
+   "children": [], 
+   "end": "185.760", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Bei der bestehenden Ineffizienz, "
+   ]
+  }, 
+  {
+   "begin": "185.760", 
+   "children": [], 
+   "end": "188.160", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dem Entscheidungsdruck und den vielen Mitarbeitern, "
+   ]
+  }, 
+  {
+   "begin": "188.160", 
+   "children": [], 
+   "end": "190.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die eingearbeitet werden mussten, "
+   ]
+  }, 
+  {
+   "begin": "190.240", 
+   "children": [], 
+   "end": "194.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "konnte man angesichts dieser Antragsflut keine Qualit\u00e4tssicherung betreiben. "
+   ]
+  }, 
+  {
+   "begin": "194.920", 
+   "children": [], 
+   "end": "195.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Bestes Beispiel: "
+   ]
+  }, 
+  {
+   "begin": "195.920", 
+   "children": [], 
+   "end": "196.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Franco A., "
+   ]
+  }, 
+  {
+   "begin": "196.680", 
+   "children": [], 
+   "end": "197.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Bundeswehrsoldat, "
+   ]
+  }, 
+  {
+   "begin": "197.680", 
+   "children": [], 
+   "end": "201.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "spricht kein Arabisch, "
+   ]
+  }, 
+  {
+   "begin": "201.320", 
+   "children": [], 
+   "end": "206.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "ist anerkannt worden als subsidi\u00e4r Schutzberechtigter. "
+   ]
+  }, 
+  {
+   "begin": "206.840", 
+   "children": [], 
+   "end": "210.680", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Der Sachverhalt in Bremen setzt dem Ganzen jetzt die Krone auf."
+   ]
+  }, 
+  {
+   "begin": "210.680", 
+   "children": [], 
+   "end": "212.520", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Man muss aber sagen, "
+   ]
+  }, 
+  {
+   "begin": "212.520", 
+   "children": [], 
+   "end": "215.560", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "es ist schon einiges auf den Weg gebracht worden. "
+   ]
+  }, 
+  {
+   "begin": "215.560", 
+   "children": [], 
+   "end": "218.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Die bisherigen Ma\u00dfnahmen und die \u00dcberlegungen der Beh\u00f6rden, "
+   ]
+  }, 
+  {
+   "begin": "218.520", 
+   "children": [], 
+   "end": "219.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "auch des BMI, "
+   ]
+  }, 
+  {
+   "begin": "219.640", 
+   "children": [], 
+   "end": "221.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "gehen in genau die richtige Richtung: "
+   ]
+  }, 
+  {
+   "begin": "221.960", 
+   "children": [], 
+   "end": "224.240", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Ein Aktenmanager ist einzusetzen,"
+   ]
+  }, 
+  {
+   "begin": "224.240", 
+   "children": [], 
+   "end": "227.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "der klare Zust\u00e4ndigkeitsregelungen vorgibt und sagt, "
+   ]
+  }, 
+  {
+   "begin": "227.520", 
+   "children": [], 
+   "end": "229.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wer welchen Fall bearbeitet. "
+   ]
+  }, 
+  {
+   "begin": "229.880", 
+   "children": [], 
+   "end": "233.440", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die klassische Qualit\u00e4tssicherung ist auszubauen, "
+   ]
+  }, 
+  {
+   "begin": "233.440", 
+   "children": [], 
+   "end": "234.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die Innenrevision. "
+   ]
+  }, 
+  {
+   "begin": "234.480", 
+   "children": [], 
+   "end": "241.320", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Vorgesehen ist die \u00dcberpr\u00fcfung von 10\u00a0Prozent der Vorg\u00e4nge im laufenden Gesch\u00e4ft."
+   ]
+  }, 
+  {
+   "begin": "241.320", 
+   "children": [], 
+   "end": "245.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Ein verst\u00e4rkter Einsatz der IT zur Qualit\u00e4tssicherung ist vorgesehen, "
+   ]
+  }, 
+  {
+   "begin": "245.440", 
+   "children": [], 
+   "end": "249.120", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "auch die B\u00fcndelung von Sachverhalten nach Herkunftsl\u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "249.120", 
+   "children": [], 
+   "end": "252.680", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Das steigert das Wissen der einzelnen Sachbearbeiter. "
+   ]
+  }, 
+  {
+   "begin": "252.680", 
+   "children": [], 
+   "end": "255.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "So k\u00f6nnen sie schneller und fundierter entscheiden. "
+   ]
+  }, 
+  {
+   "begin": "255.800", 
+   "children": [], 
+   "end": "265.160", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Vorgesehen sind auch die Einf\u00fchrung einer F\u00fchrungsebene \u201eFachaufsicht\u201c und eine regelm\u00e4\u00dfige Fachaufsicht durch den Teamleiter. "
+   ]
+  }, 
+  {
+   "begin": "265.160", 
+   "children": [], 
+   "end": "268.040", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Das Mehraugenprinzip ist nat\u00fcrlich umzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "268.040", 
+   "children": [], 
+   "end": "275.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Das steht seit 2003 in einer Richtlinie der Bundesregierung zur Pr\u00e4vention gegen Korruption. "
+   ]
+  }, 
+  {
+   "begin": "275.520", 
+   "children": [], 
+   "end": "276.320", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Die Gr\u00fcnde, "
+   ]
+  }, 
+  {
+   "begin": "276.320", 
+   "children": [], 
+   "end": "278.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "warum sie nicht angewandt wurde, "
+   ]
+  }, 
+  {
+   "begin": "278.000", 
+   "children": [], 
+   "end": "279.400", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "habe ich geschildert."
+   ]
+  }, 
+  {
+   "begin": "279.400", 
+   "children": [], 
+   "end": "281.920", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Meines Erachtens ist es aber auch sinnvoll, "
+   ]
+  }, 
+  {
+   "begin": "281.920", 
+   "children": [], 
+   "end": "290.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "in sensiblen Bereichen die Dauer des Einsatzes der Mitarbeiter zu begrenzen und eine Rotation vorzunehmen. "
+   ]
+  }, 
+  {
+   "begin": "290.000", 
+   "children": [], 
+   "end": "291.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Ganz wichtig ist: "
+   ]
+  }, 
+  {
+   "begin": "291.480", 
+   "children": [], 
+   "end": "298.360", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber die IT sollte eine vollst\u00e4ndige, "
+   ]
+  }, 
+  {
+   "begin": "298.360", 
+   "children": [], 
+   "end": "303.760", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "verfahrensbegleitende Dokumentation erfolgen."
+   ]
+  }, 
+  {
+   "begin": "303.760", 
+   "children": [], 
+   "end": "306.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Die Pr\u00fcfung des Bundesrechnungshofs ist richtig. "
+   ]
+  }, 
+  {
+   "begin": "306.520", 
+   "children": [], 
+   "end": "310.400", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Sie wird weitere Ma\u00dfnahmen und Vorschl\u00e4ge ergeben."
+   ]
+  }, 
+  {
+   "begin": "310.400", 
+   "children": [], 
+   "end": "311.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt gilt es, "
+   ]
+  }, 
+  {
+   "begin": "311.360", 
+   "children": [], 
+   "end": "313.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "die Beh\u00f6rde zukunftsfest zu gestalten; "
+   ]
+  }, 
+  {
+   "begin": "313.720", 
+   "children": [], 
+   "end": "315.600", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "das ist schon angesprochen worden. "
+   ]
+  }, 
+  {
+   "begin": "315.600", 
+   "children": [], 
+   "end": "319.960", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Das BAMF nimmt eine Schl\u00fcsselrolle im Asylverfahren ein. "
+   ]
+  }, 
+  {
+   "begin": "319.960", 
+   "children": [], 
+   "end": "324.040", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Es wird auch eine tragende Rolle bei den AnKER-Zentren spielen. "
+   ]
+  }, 
+  {
+   "begin": "324.040", 
+   "children": [], 
+   "end": "328.960", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Die Beh\u00f6rde muss deshalb effizient und bestm\u00f6glich arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "328.960", 
+   "children": [], 
+   "end": "331.680", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Kritisieren k\u00f6nnen wir gerne; "
+   ]
+  }, 
+  {
+   "begin": "331.680", 
+   "children": [], 
+   "end": "333.960", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "aber noch besser ist es, "
+   ]
+  }, 
+  {
+   "begin": "333.960", 
+   "children": [], 
+   "end": "343.800", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "den Bundesinnenminister bei dieser Aufgabe zu unterst\u00fctzen."
+   ]
+  }, 
+  {
+   "begin": "343.800", 
+   "children": [], 
+   "end": "343.801", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "343.801", 
+   "children": [], 
+   "end": "349.000", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster spricht f\u00fcr die Fraktion der SPD der Abgeordnete Helge Lindh."
+   ]
+  }
+ ]
+}

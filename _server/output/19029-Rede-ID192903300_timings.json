@@ -1,0 +1,734 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "children": [], 
+   "end": "11.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.040", 
+   "children": [], 
+   "end": "15.160", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Dass eine Regierung und die sie tragenden Parteien deren Politik sch\u00f6nreden, "
+   ]
+  }, 
+  {
+   "begin": "15.160", 
+   "children": [], 
+   "end": "16.960", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "ist normal. "
+   ]
+  }, 
+  {
+   "begin": "16.960", 
+   "children": [], 
+   "end": "23.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Selten klaffte aber zwischen der Realit\u00e4t und der im Berufsbildungsbericht beschriebenen Situation eine solche L\u00fccke. "
+   ]
+  }, 
+  {
+   "begin": "23.760", 
+   "children": [], 
+   "end": "24.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Zusammengefasst: "
+   ]
+  }, 
+  {
+   "begin": "24.960", 
+   "children": [], 
+   "end": "29.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sie tanzen auf den Tr\u00fcmmern des dualen Bildungssystems."
+   ]
+  }, 
+  {
+   "begin": "29.720", 
+   "children": [], 
+   "end": "32.760", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ich muss zun\u00e4chst einen Umweg machen. "
+   ]
+  }, 
+  {
+   "begin": "32.760", 
+   "children": [], 
+   "end": "41.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Seit dem Machtantritt von Frau Merkel hat sich die Studienanf\u00e4ngerquote von 37,1\u00a0Prozent auf 56\u00a0Prozent fehlentwickelt, "
+   ]
+  }, 
+  {
+   "begin": "41.160", 
+   "children": [], 
+   "end": "42.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "v\u00f6llig am Bedarf vorbei, "
+   ]
+  }, 
+  {
+   "begin": "42.680", 
+   "children": [], 
+   "end": "45.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn aktuell in der durch Umsiedlungs- "
+   ]
+  }, 
+  {
+   "begin": "45.160", 
+   "children": [], 
+   "end": "48.320", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "und Neuansiedlungspolitik boomenden Sozialindustrie\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "48.320", 
+   "children": [], 
+   "end": "49.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "hoffentlich nur tempor\u00e4r\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "49.840", 
+   "children": [], 
+   "end": "52.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "ein neues Jobwunder geschaffen wurde."
+   ]
+  }, 
+  {
+   "begin": "52.520", 
+   "children": [], 
+   "end": "55.720", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Einige Fakten zur Fehlallokation: "
+   ]
+  }, 
+  {
+   "begin": "55.720", 
+   "children": [], 
+   "end": "60.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "205\u00a0Professuren in Deutschland f\u00fcr Materialwissenschaft und Werkstofftechnik, "
+   ]
+  }, 
+  {
+   "begin": "60.840", 
+   "children": [], 
+   "end": "67.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "185\u00a0Genderprofessuren mit Schwerpunkten im rot-gr\u00fcn gepr\u00e4gten NRW und in Berlin, "
+   ]
+  }, 
+  {
+   "begin": "67.520", 
+   "children": [], 
+   "end": "67.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "in den, "
+   ]
+  }, 
+  {
+   "begin": "67.840", 
+   "children": [], 
+   "end": "69.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wie wir alle wissen, "
+   ]
+  }, 
+  {
+   "begin": "69.000", 
+   "children": [], 
+   "end": "72.200", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fchrenden Wirtschaftsstandorten in Deutschland,"
+   ]
+  }, 
+  {
+   "begin": "72.200", 
+   "children": [], 
+   "end": "79.800", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "und schlie\u00dflich 3\u00a0702\u00a0Professuren f\u00fcr Kunst und Kunstwissenschaften. "
+   ]
+  }, 
+  {
+   "begin": "79.800", 
+   "children": [], 
+   "end": "80.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das ist sicherlich das, "
+   ]
+  }, 
+  {
+   "begin": "80.880", 
+   "children": [], 
+   "end": "82.840", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "was Deutschland voranbringt."
+   ]
+  }, 
+  {
+   "begin": "82.840", 
+   "children": [], 
+   "end": "85.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wenn dies keine Fehlallokation ist, "
+   ]
+  }, 
+  {
+   "begin": "85.240", 
+   "children": [], 
+   "end": "85.960", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "was dann?"
+   ]
+  }, 
+  {
+   "begin": "85.960", 
+   "children": [], 
+   "end": "91.280", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Immer mehr Menschen werden mit sinkendem Bildungsniveau zum Abitur gef\u00fchrt,"
+   ]
+  }, 
+  {
+   "begin": "91.280", 
+   "children": [], 
+   "end": "95.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "und die CDU h\u00e4lt in den Landesparlamenten nicht dagegen. "
+   ]
+  }, 
+  {
+   "begin": "95.480", 
+   "children": [], 
+   "end": "102.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Aus dem Rest kann der Personalbedarf f\u00fcr die Berufsausbildung qualitativ und quantitativ nicht mehr gedeckt werden."
+   ]
+  }, 
+  {
+   "begin": "102.480", 
+   "children": [], 
+   "end": "103.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Es findet, "
+   ]
+  }, 
+  {
+   "begin": "103.400", 
+   "children": [], 
+   "end": "105.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "um Frau H\u00f6chst zu zitieren, "
+   ]
+  }, 
+  {
+   "begin": "105.760", 
+   "children": [], 
+   "end": "108.080", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "ein Qualit\u00e4tslimbo statt. "
+   ]
+  }, 
+  {
+   "begin": "108.080", 
+   "children": [], 
+   "end": "118.640", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die Ausbildungsanf\u00e4ngerquote ist von 2011 bis 2015 bei Deutschen von 60,3\u00a0Prozent auf 56,7\u00a0Prozent gesunken, "
+   ]
+  }, 
+  {
+   "begin": "118.640", 
+   "children": [], 
+   "end": "124.960", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "bei Ausl\u00e4ndern gar von mageren 35,4\u00a0Prozent auf 26,2\u00a0Prozent."
+   ]
+  }, 
+  {
+   "begin": "124.960", 
+   "children": [], 
+   "end": "129.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Und nun kommt die Wunderwaffe zur L\u00f6sung all dieser Probleme: "
+   ]
+  }, 
+  {
+   "begin": "129.080", 
+   "children": [], 
+   "end": "129.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "nein, "
+   ]
+  }, 
+  {
+   "begin": "129.520", 
+   "children": [], 
+   "end": "131.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "nicht die arbeitsuchenden jungen Menschen aus der EU, "
+   ]
+  }, 
+  {
+   "begin": "131.800", 
+   "children": [], 
+   "end": "134.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "sondern nat\u00fcrlich die Migration aus der Dritten Welt. "
+   ]
+  }, 
+  {
+   "begin": "134.760", 
+   "children": [], 
+   "end": "138.640", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Allen Informationen aus unterschiedlichsten Quellen zum Trotz, "
+   ]
+  }, 
+  {
+   "begin": "138.640", 
+   "children": [], 
+   "end": "141.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass wir eine dominante Einwanderung in die Sozialsysteme haben: "
+   ]
+  }, 
+  {
+   "begin": "141.440", 
+   "children": [], 
+   "end": "144.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "2\u00a0Millionen von 6\u00a0Millionen Hartz-IV-Empf\u00e4ngern sind Ausl\u00e4nder. "
+   ]
+  }, 
+  {
+   "begin": "144.880", 
+   "children": [], 
+   "end": "146.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Ziehen wir noch die Menschen mit Migrationshintergrund, "
+   ]
+  }, 
+  {
+   "begin": "146.880", 
+   "children": [], 
+   "end": "147.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "aber deutschem Pass hinzu, "
+   ]
+  }, 
+  {
+   "begin": "147.960", 
+   "children": [], 
+   "end": "150.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "steigt die Zahl rapide. "
+   ]
+  }, 
+  {
+   "begin": "150.320", 
+   "children": [], 
+   "end": "150.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Interessant, "
+   ]
+  }, 
+  {
+   "begin": "150.880", 
+   "children": [], 
+   "end": "154.800", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass nun gut 20\u00a0Prozent sogar nicht einmal aus der EU stammen, "
+   ]
+  }, 
+  {
+   "begin": "154.800", 
+   "children": [], 
+   "end": "156.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "davon wiederum die H\u00e4lfte aus Syrien. "
+   ]
+  }, 
+  {
+   "begin": "156.880", 
+   "children": [], 
+   "end": "159.400", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Der deutsche Schichtarbeiter darf f\u00fcr den Rest der Welt arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "159.400", 
+   "children": [], 
+   "end": "160.760", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "aber eben nicht umgekehrt."
+   ]
+  }, 
+  {
+   "begin": "160.760", 
+   "children": [], 
+   "end": "163.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Zu diesem uns\u00e4glichen Skandal geh\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "163.760", 
+   "children": [], 
+   "end": "172.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass wiederum mit dem Geld des deutschen Steuerzahlers sogenannte Integrationsma\u00dfnahmen finanziert werden."
+   ]
+  }, 
+  {
+   "begin": "172.800", 
+   "children": [], 
+   "end": "175.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Hier wird ein gro\u00dfes Rad gedreht. "
+   ]
+  }, 
+  {
+   "begin": "175.000", 
+   "children": [], 
+   "end": "177.080", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings muss man feststellen, "
+   ]
+  }, 
+  {
+   "begin": "177.080", 
+   "children": [], 
+   "end": "184.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass im Dezember 2016\u00a0 425\u00a0000 Menschen als arbeitsuchend im Kontext von Fluchtmigration registriert waren;"
+   ]
+  }, 
+  {
+   "begin": "184.320", 
+   "children": [], 
+   "end": "192.000", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "aber nur 8\u00a0100 konnten in Unterst\u00fctzungsma\u00dfnahmen der Berufswahl und Berufsorientierung eingebunden werden."
+   ]
+  }, 
+  {
+   "begin": "192.000", 
+   "children": [], 
+   "end": "198.320", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Da hilft wohl auch eine Offensive zur Anerkennung im Ausland erworbener Berufsqualifikationen nichts. "
+   ]
+  }, 
+  {
+   "begin": "198.320", 
+   "children": [], 
+   "end": "202.040", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Bei 74\u00a0Prozent der Verfahren sind die anerkannten Abschl\u00fcsse\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "202.040", 
+   "children": [], 
+   "end": "203.280", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Zitat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "203.280", 
+   "children": [], 
+   "end": "207.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "\u201eden deutschen Referenzberufen vollst\u00e4ndig gleichwertig\u201c. "
+   ]
+  }, 
+  {
+   "begin": "207.080", 
+   "children": [], 
+   "end": "209.040", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Nur 2,6\u00a0Prozent wurden abgelehnt."
+   ]
+  }, 
+  {
+   "begin": "209.040", 
+   "children": [], 
+   "end": "210.240", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Frage, "
+   ]
+  }, 
+  {
+   "begin": "210.240", 
+   "children": [], 
+   "end": "218.280", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "ob nun die Ausbildung in der Dritten Welt so gut wie bei uns geworden ist oder ob wir inzwischen in der Ausbildung auf dem Niveau der Dritten Welt angekommen sind, "
+   ]
+  }, 
+  {
+   "begin": "218.280", 
+   "children": [], 
+   "end": "221.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "hat die Ministerin bis heute nicht beantworten k\u00f6nnen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "221.600", 
+   "children": [], 
+   "end": "222.160", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "ein Schelm, "
+   ]
+  }, 
+  {
+   "begin": "222.160", 
+   "children": [], 
+   "end": "223.000", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "wer annimmt, "
+   ]
+  }, 
+  {
+   "begin": "223.000", 
+   "children": [], 
+   "end": "227.480", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass diese Anerkennungspraxis das Resultat einer politischen Vorgabe ist."
+   ]
+  }, 
+  {
+   "begin": "227.480", 
+   "children": [], 
+   "end": "229.120", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Es wird Zeit, "
+   ]
+  }, 
+  {
+   "begin": "229.120", 
+   "children": [], 
+   "end": "232.120", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass wir diesen Mummenschanz auf Bundes- "
+   ]
+  }, 
+  {
+   "begin": "232.120", 
+   "children": [], 
+   "end": "236.080", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und L\u00e4nderebene endlich aufh\u00f6ren lassen und dass wir uns eingestehen, "
+   ]
+  }, 
+  {
+   "begin": "236.080", 
+   "children": [], 
+   "end": "242.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass die verschiedenen ideologischen Ans\u00e4tze und Experimente im Bildungsbereich kl\u00e4glich gescheitert sind. "
+   ]
+  }, 
+  {
+   "begin": "242.600", 
+   "children": [], 
+   "end": "247.240", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Es wird Zeit f\u00fcr eine radikale Umkehr in der gesamten Bildungspolitik."
+   ]
+  }, 
+  {
+   "begin": "247.240", 
+   "children": [], 
+   "end": "249.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "249.840", 
+   "children": [], 
+   "end": "251.960", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "251.960", 
+   "children": [], 
+   "end": "256.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die Fraktion der SPD die Kollegin Yasmin Fahimi."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,724 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "10.200", 
+   "children": [], 
+   "end": "13.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "13.840", 
+   "children": [], 
+   "end": "17.040", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "children": [], 
+   "end": "32.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem Antrag auf Ausschluss der NPD von der staatlichen Parteienfinanzierung ziehen wir heute eine ganz wichtige Konsequenz aus dem Urteil des Bundesverfassungsgerichts vom 17.\u00a0Januar 2017."
+   ]
+  }, 
+  {
+   "begin": "32.120", 
+   "children": [], 
+   "end": "38.440", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Das Bundesverfassungsgericht hat im Januar des vergangenen Jahres festgestellt, "
+   ]
+  }, 
+  {
+   "begin": "38.440", 
+   "children": [], 
+   "end": "42.920", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass die NPD klar verfassungsfeindliche Ziele verfolgt: "
+   ]
+  }, 
+  {
+   "begin": "42.920", 
+   "children": [], 
+   "end": "47.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sie will die bestehende Verfassungsordnung beseitigen. "
+   ]
+  }, 
+  {
+   "begin": "47.240", 
+   "children": [], 
+   "end": "59.360", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sie will die bestehende Verfassungsordnung durch einen an der ethnisch definierten Volksgemeinschaft ausgerichteten autorit\u00e4ren Nationalstaat ersetzen. "
+   ]
+  }, 
+  {
+   "begin": "59.360", 
+   "children": [], 
+   "end": "66.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Die NPD m\u00f6chte ein politisches Konzept umsetzen, "
+   ]
+  }, 
+  {
+   "begin": "66.320", 
+   "children": [], 
+   "end": "73.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "das die Menschenw\u00fcrde missachtet und das mit dem Demokratieprinzip unvereinbar ist."
+   ]
+  }, 
+  {
+   "begin": "73.400", 
+   "children": [], 
+   "end": "82.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Einzig aufgrund ihrer fehlenden Wirkm\u00e4chtigkeit hat das Bundesverfassungsgericht die NPD nicht verboten. "
+   ]
+  }, 
+  {
+   "begin": "82.480", 
+   "children": [], 
+   "end": "86.960", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Es hat in dem damaligen Urteil aber den Weg aufgezeigt, "
+   ]
+  }, 
+  {
+   "begin": "86.960", 
+   "children": [], 
+   "end": "90.080", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass der Gesetzgeber gegen\u00fcber Parteien, "
+   ]
+  }, 
+  {
+   "begin": "90.080", 
+   "children": [], 
+   "end": "93.240", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die verfassungsfeindliche Ziele verfolgen, "
+   ]
+  }, 
+  {
+   "begin": "93.240", 
+   "children": [], 
+   "end": "96.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "gestufte Sanktionsm\u00f6glichkeiten schaffen kann. "
+   ]
+  }, 
+  {
+   "begin": "96.920", 
+   "children": [], 
+   "end": "115.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Von dieser M\u00f6glichkeit haben wir im vergangenen Sommer durch eine entsprechende \u00c4nderung des Grundgesetzes und durch das Gesetz zum Ausschluss verfassungsfeindlicher Parteien von der Parteienfinanzierung Gebrauch gemacht. "
+   ]
+  }, 
+  {
+   "begin": "115.840", 
+   "children": [], 
+   "end": "119.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist es auch logisch und konsequent, "
+   ]
+  }, 
+  {
+   "begin": "119.040", 
+   "children": [], 
+   "end": "123.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass wir heute mit unserem Antrag die M\u00f6glichkeiten, "
+   ]
+  }, 
+  {
+   "begin": "123.160", 
+   "children": [], 
+   "end": "126.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die wir als Gesetzgeber selbst geschaffen haben, "
+   ]
+  }, 
+  {
+   "begin": "126.560", 
+   "children": [], 
+   "end": "129.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "auch zur Anwendung bringen."
+   ]
+  }, 
+  {
+   "begin": "129.720", 
+   "children": [], 
+   "end": "139.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Nach dem Bundesrat und nach der Bundesregierung stellt nun auch der Deutsche Bundestag einen entsprechenden Antrag. "
+   ]
+  }, 
+  {
+   "begin": "139.280", 
+   "children": [], 
+   "end": "147.640", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Alle antragsberechtigten Verfassungsorgane demonstrieren damit Geschlossenheit bei der Bek\u00e4mpfung des Rechtsextremismus. "
+   ]
+  }, 
+  {
+   "begin": "147.640", 
+   "children": [], 
+   "end": "149.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein gutes Signal, "
+   ]
+  }, 
+  {
+   "begin": "149.120", 
+   "children": [], 
+   "end": "151.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "das heute von diesem Beschluss des Deutschen Bundestages ausgehen wird."
+   ]
+  }, 
+  {
+   "begin": "151.640", 
+   "children": [], 
+   "end": "164.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Als wir in der vergangenen Legislaturperiode beschlossen haben, "
+   ]
+  }, 
+  {
+   "begin": "164.400", 
+   "children": [], 
+   "end": "166.280", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "das Gesetz auf den Weg zu bringen, "
+   ]
+  }, 
+  {
+   "begin": "166.280", 
+   "children": [], 
+   "end": "167.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "das es erm\u00f6glicht, "
+   ]
+  }, 
+  {
+   "begin": "167.080", 
+   "children": [], 
+   "end": "172.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "verfassungsfeindliche Parteien von der staatlichen Parteienfinanzierung auszuschlie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "172.920", 
+   "children": [], 
+   "end": "176.680", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "habe ich bereits an dieser Stelle daf\u00fcr geworben, "
+   ]
+  }, 
+  {
+   "begin": "176.680", 
+   "children": [], 
+   "end": "185.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "einen Ausschlussantrag mit Blick auf die NPD auch unter Beteiligung des Deutschen Bundestages zu stellen. "
+   ]
+  }, 
+  {
+   "begin": "185.120", 
+   "children": [], 
+   "end": "186.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcnsche mir, "
+   ]
+  }, 
+  {
+   "begin": "186.760", 
+   "children": [], 
+   "end": "192.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass der entsprechende Antrag heute in diesem Haus eine m\u00f6glichst breite Unterst\u00fctzung findet, "
+   ]
+  }, 
+  {
+   "begin": "192.320", 
+   "children": [], 
+   "end": "206.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "um ein m\u00f6glichst klares Signal in dieses Land und auch nach Karlsruhe auszusenden."
+   ]
+  }, 
+  {
+   "begin": "206.160", 
+   "children": [], 
+   "end": "208.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Denjenigen, "
+   ]
+  }, 
+  {
+   "begin": "208.120", 
+   "children": [], 
+   "end": "209.200", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die der Meinung sind, "
+   ]
+  }, 
+  {
+   "begin": "209.200", 
+   "children": [], 
+   "end": "211.440", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "ein solches Verfahren sei unn\u00f6tig, "
+   ]
+  }, 
+  {
+   "begin": "211.440", 
+   "children": [], 
+   "end": "215.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "weil der NPD keine gro\u00dfe Bedeutung mehr zukomme, "
+   ]
+  }, 
+  {
+   "begin": "215.240", 
+   "children": [], 
+   "end": "217.520", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte ich zu bedenken geben, "
+   ]
+  }, 
+  {
+   "begin": "217.520", 
+   "children": [], 
+   "end": "221.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich dabei um eine Momentaufnahme handelt. "
+   ]
+  }, 
+  {
+   "begin": "221.280", 
+   "children": [], 
+   "end": "223.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen alles daransetzen, "
+   ]
+  }, 
+  {
+   "begin": "223.640", 
+   "children": [], 
+   "end": "229.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass sich dies nicht noch einmal \u00e4ndert und dass die NPD ohnm\u00e4chtig bleibt."
+   ]
+  }, 
+  {
+   "begin": "229.400", 
+   "children": [], 
+   "end": "231.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Denjenigen, "
+   ]
+  }, 
+  {
+   "begin": "231.080", 
+   "children": [], 
+   "end": "231.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die der Meinung sind, "
+   ]
+  }, 
+  {
+   "begin": "231.920", 
+   "children": [], 
+   "end": "233.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "ein solches Verfahren sei unn\u00f6tig, "
+   ]
+  }, 
+  {
+   "begin": "233.960", 
+   "children": [], 
+   "end": "242.160", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "weil zugunsten der NPD im Jahr\u00a02017 nur noch ein Betrag in H\u00f6he von knapp 1\u00a0Million\u00a0Euro festgesetzt worden sei, "
+   ]
+  }, 
+  {
+   "begin": "242.160", 
+   "children": [], 
+   "end": "243.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte ich sagen: "
+   ]
+  }, 
+  {
+   "begin": "243.800", 
+   "children": [], 
+   "end": "252.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Mit Blick auf eine verfassungsfeindliche Partei kann es f\u00fcr uns als wehrhafte Demokratie nicht hinnehmbar sein, "
+   ]
+  }, 
+  {
+   "begin": "252.040", 
+   "children": [], 
+   "end": "259.120", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass wir sie auch nur mit einem einzigen Euro oder einem einzigen Cent in ihrem Kampf gegen unseren Staat unterst\u00fctzen. "
+   ]
+  }, 
+  {
+   "begin": "259.120", 
+   "children": [], 
+   "end": "270.480", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die NPD ist jeder Cent ein Cent zu viel."
+   ]
+  }, 
+  {
+   "begin": "270.480", 
+   "children": [], 
+   "end": "275.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte insbesondere an die Fraktion der Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "275.040", 
+   "children": [], 
+   "end": "279.480", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "die den Antrag nicht gemeinsam mit uns eingebracht hat, "
+   ]
+  }, 
+  {
+   "begin": "279.480", 
+   "children": [], 
+   "end": "280.760", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "appellieren, "
+   ]
+  }, 
+  {
+   "begin": "280.760", 
+   "children": [], 
+   "end": "282.720", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "heute diesem Antrag zuzustimmen, "
+   ]
+  }, 
+  {
+   "begin": "282.720", 
+   "children": [], 
+   "end": "287.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "um ein Signal der Geschlossenheit auszusenden."
+   ]
+  }, 
+  {
+   "begin": "287.640", 
+   "children": [], 
+   "end": "289.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Alle Landesregierungen, "
+   ]
+  }, 
+  {
+   "begin": "289.280", 
+   "children": [], 
+   "end": "291.160", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "an denen die Gr\u00fcnen beteiligt sind, "
+   ]
+  }, 
+  {
+   "begin": "291.160", 
+   "children": [], 
+   "end": "294.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "haben im Bundesrat f\u00fcr den entsprechenden Antrag gestimmt. "
+   ]
+  }, 
+  {
+   "begin": "294.840", 
+   "children": [], 
+   "end": "298.360", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben im Bundesrat ein hohes Ma\u00df an Geschlossenheit, "
+   ]
+  }, 
+  {
+   "begin": "298.360", 
+   "children": [], 
+   "end": "301.560", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wir haben eine Phalanx der Demokraten etabliert. "
+   ]
+  }, 
+  {
+   "begin": "301.560", 
+   "children": [], 
+   "end": "302.560", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist es wichtig, "
+   ]
+  }, 
+  {
+   "begin": "302.560", 
+   "children": [], 
+   "end": "304.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass wir heute ein entsprechendes Signal aussenden."
+   ]
+  }, 
+  {
+   "begin": "304.960", 
+   "children": [], 
+   "end": "312.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich einen letzten Gesichtspunkt ansprechen. "
+   ]
+  }, 
+  {
+   "begin": "312.600", 
+   "children": [], 
+   "end": "320.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben uns in diesem Parlament in den vergangenen Monaten viel mit der Bek\u00e4mpfung des Antisemitismus befasst. "
+   ]
+  }, 
+  {
+   "begin": "320.560", 
+   "children": [], 
+   "end": "327.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "In unserem Land existiert nach wie vor ein besch\u00e4mendes Ma\u00df an Antisemitismus. "
+   ]
+  }, 
+  {
+   "begin": "327.240", 
+   "children": [], 
+   "end": "332.800", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Antisemitismus findet neue Nahrung durch verst\u00e4rkte Zuwanderung, "
+   ]
+  }, 
+  {
+   "begin": "332.800", 
+   "children": [], 
+   "end": "339.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "aber der gr\u00f6\u00dfte Teil antisemitischer Delikte ist weiterhin rechtsextrem motiviert. "
+   ]
+  }, 
+  {
+   "begin": "339.640", 
+   "children": [], 
+   "end": "355.280", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen nicht einerseits einen wachsenden Antisemitismus beklagen und ihn mit allen Mitteln bek\u00e4mpfen wollen und andererseits eine Partei mit rund 1\u00a0Million\u00a0Euro im Jahr aus staatlichen Mitteln unterst\u00fctzen, "
+   ]
+  }, 
+  {
+   "begin": "355.280", 
+   "children": [], 
+   "end": "366.520", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die nach der Feststellung des Bundesverfassungsgerichts wesensverwandt mit dem Nationalsozialismus und damit eine parteipolitische Personifikation des Antisemitismus ist."
+   ]
+  }, 
+  {
+   "begin": "366.520", 
+   "children": [], 
+   "end": "366.920", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege."
+   ]
+  }, 
+  {
+   "begin": "366.920", 
+   "children": [], 
+   "end": "372.480", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb wollen wir heute mit dem Ausschlussantrag auch ein klares Signal an die j\u00fcdische Gemeinde senden."
+   ]
+  }, 
+  {
+   "begin": "372.480", 
+   "children": [], 
+   "end": "377.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte Sie um Ihre Unterst\u00fctzung und danke Ihnen sehr herzlich f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "377.800", 
+   "children": [], 
+   "end": "381.000", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die AfD spricht der Kollege Stephan Brandner."
+   ]
+  }
+ ]
+}

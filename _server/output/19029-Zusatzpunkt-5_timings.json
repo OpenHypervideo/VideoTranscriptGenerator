@@ -1,0 +1,124 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "13.480", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Wahl der Mitglieder des Stiftungsrates der \u201eDeutschen Stiftung Friedensforschung (DSF)\u201c"
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "children": [], 
+   "end": "17.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Wir kommen zur Abstimmung. "
+   ]
+  }, 
+  {
+   "begin": "17.000", 
+   "children": [], 
+   "end": "24.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr diesen Wahlvorschlag?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "24.400", 
+   "children": [], 
+   "end": "26.320", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "26.320", 
+   "children": [], 
+   "end": "28.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wer enth\u00e4lt sich?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "28.320", 
+   "children": [], 
+   "end": "30.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Der Wahlvorschlag ist angenommen. "
+   ]
+  }, 
+  {
+   "begin": "30.160", 
+   "children": [], 
+   "end": "32.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Zugestimmt haben SPD, "
+   ]
+  }, 
+  {
+   "begin": "32.360", 
+   "children": [], 
+   "end": "33.760", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "B\u00fcndnis\u00a090/Die Gr\u00fcnen, "
+   ]
+  }, 
+  {
+   "begin": "33.760", 
+   "children": [], 
+   "end": "34.920", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU, "
+   ]
+  }, 
+  {
+   "begin": "34.920", 
+   "children": [], 
+   "end": "36.720", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "FDP und AfD, "
+   ]
+  }, 
+  {
+   "begin": "36.720", 
+   "children": [], 
+   "end": "40.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltung kommt von der Linken."
+   ]
+  }, 
+  {
+   "begin": "40.560", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich rufe den Zusatzpunkt\u00a06 auf:"
+   ]
+  }
+ ]
+}

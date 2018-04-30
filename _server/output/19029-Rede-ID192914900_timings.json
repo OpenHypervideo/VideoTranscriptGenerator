@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.560", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.560", 
+   "children": [], 
+   "end": "14.320", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "14.320", 
+   "children": [], 
+   "end": "18.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Zu vorger\u00fcckter Stunde ist das sozusagen der Abend der Bekenntnisse. "
+   ]
+  }, 
+  {
+   "begin": "18.440", 
+   "children": [], 
+   "end": "20.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe mich Frau Bas an: "
+   ]
+  }, 
+  {
+   "begin": "20.360", 
+   "children": [], 
+   "end": "22.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Vor das Privileg der Wahl gestellt, "
+   ]
+  }, 
+  {
+   "begin": "22.680", 
+   "children": [], 
+   "end": "27.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "entschied auch ich mich f\u00fcr die gesetzliche Krankenversicherung und bin sehr zufrieden damit."
+   ]
+  }, 
+  {
+   "begin": "27.840", 
+   "children": [], 
+   "end": "31.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ah, "
+   ]
+  }, 
+  {
+   "begin": "31.040", 
+   "children": [], 
+   "end": "32.520", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ideologe."
+   ]
+  }, 
+  {
+   "begin": "32.520", 
+   "children": [], 
+   "end": "41.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Machen wir weiter mit den Bekenntnissen. "
+   ]
+  }, 
+  {
+   "begin": "41.960", 
+   "children": [], 
+   "end": "47.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe noch ein weiteres Bekenntnis an: "
+   ]
+  }, 
+  {
+   "begin": "47.040", 
+   "children": [], 
+   "end": "48.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wir Sozialdemokratinnen und Sozialdemokraten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "48.880", 
+   "children": [], 
+   "end": "51.400", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden es gemerkt haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "51.400", 
+   "children": [], 
+   "end": "57.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "sind schon seit Jahrzehnten dem Gedanken der B\u00fcrgerversicherung verpflichtet. "
+   ]
+  }, 
+  {
+   "begin": "57.840", 
+   "children": [], 
+   "end": "59.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir sind nicht nur progressiv, "
+   ]
+  }, 
+  {
+   "begin": "59.360", 
+   "children": [], 
+   "end": "64.520", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wir sind im Grunde unseres Herzens in bestimmter Hinsicht auch konservativ."
+   ]
+  }, 
+  {
+   "begin": "64.520", 
+   "children": [], 
+   "end": "68.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Rem publicam conservare. "
+   ]
+  }, 
+  {
+   "begin": "68.200", 
+   "children": [], 
+   "end": "72.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb achten wir selbstverst\u00e4ndlich das Dienst- "
+   ]
+  }, 
+  {
+   "begin": "72.240", 
+   "children": [], 
+   "end": "76.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "und Treueverh\u00e4ltnis und das Alimentationsprinzip. "
+   ]
+  }, 
+  {
+   "begin": "76.040", 
+   "children": [], 
+   "end": "78.760", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir h\u00fcten auch den Staat. "
+   ]
+  }, 
+  {
+   "begin": "78.760", 
+   "children": [], 
+   "end": "83.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind auch besorgt um den Bereich Gesundheit als \u00f6ffentliches Gut."
+   ]
+  }, 
+  {
+   "begin": "83.160", 
+   "children": [], 
+   "end": "86.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Bei allem Verst\u00e4ndnis f\u00fcr Wettbewerb: "
+   ]
+  }, 
+  {
+   "begin": "86.280", 
+   "children": [], 
+   "end": "88.840", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben einen Markt der Gesundheit, "
+   ]
+  }, 
+  {
+   "begin": "88.840", 
+   "children": [], 
+   "end": "92.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "aber Gesundheit ist eben nicht einfach ein marktg\u00e4ngiges Gut."
+   ]
+  }, 
+  {
+   "begin": "92.320", 
+   "children": [], 
+   "end": "100.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Kranke sind nach unserem Verst\u00e4ndnis\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "100.680", 
+   "children": [], 
+   "end": "102.160", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "und ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "102.160", 
+   "children": [], 
+   "end": "105.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "viele in diesem Hohen Hause teilen dieses Verst\u00e4ndnis\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "105.400", 
+   "children": [], 
+   "end": "108.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "auch etwas anderes als Kostenverursacher."
+   ]
+  }, 
+  {
+   "begin": "108.600", 
+   "children": [], 
+   "end": "113.080", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Insofern ist es legitim, "
+   ]
+  }, 
+  {
+   "begin": "113.080", 
+   "children": [], 
+   "end": "119.640", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die in dem Antrag enthaltenen Fragestellungen zu beleuchten und \u00fcber die entsprechenden Schlussfolgerungen zu diskutieren."
+   ]
+  }, 
+  {
+   "begin": "119.640", 
+   "children": [], 
+   "end": "124.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Des Weiteren ist heute im \u00dcbrigen nicht nur der Abend der Bekenntnisse, "
+   ]
+  }, 
+  {
+   "begin": "124.480", 
+   "children": [], 
+   "end": "126.240", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch noch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "126.240", 
+   "children": [], 
+   "end": "127.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "bald nicht mehr\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "127.760", 
+   "children": [], 
+   "end": "130.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Welttag des geistigen Eigentums. "
+   ]
+  }, 
+  {
+   "begin": "130.160", 
+   "children": [], 
+   "end": "133.800", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Insofern deute ich den Antrag der Linken\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "133.800", 
+   "children": [], 
+   "end": "135.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur, "
+   ]
+  }, 
+  {
+   "begin": "135.080", 
+   "children": [], 
+   "end": "138.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "weil es zu den parlamentarischen Gepflogenheiten geh\u00f6rt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "138.040", 
+   "children": [], 
+   "end": "139.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "als einen, "
+   ]
+  }, 
+  {
+   "begin": "139.240", 
+   "children": [], 
+   "end": "145.520", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "mit dem man einen Koalitionspartner provozieren kann und den anderen im Grunde dazu bringen kann, "
+   ]
+  }, 
+  {
+   "begin": "145.520", 
+   "children": [], 
+   "end": "146.800", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "zu etwas zuzustimmen, "
+   ]
+  }, 
+  {
+   "begin": "146.800", 
+   "children": [], 
+   "end": "147.800", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "mit dem man sympathisiert. "
+   ]
+  }, 
+  {
+   "begin": "147.800", 
+   "children": [], 
+   "end": "148.640", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "148.640", 
+   "children": [], 
+   "end": "154.560", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "ich werte ihn als stillschweigende Verneigung vor den Bem\u00fchungen der Sozialdemokratie"
+   ]
+  }, 
+  {
+   "begin": "154.560", 
+   "children": [], 
+   "end": "164.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "um die St\u00e4rkung der gesetzlichen Krankenversicherung und der B\u00fcrgerversicherung in Zukunft und als Anerkennung der Bem\u00fchungen des derzeitigen Finanzministers, "
+   ]
+  }, 
+  {
+   "begin": "164.680", 
+   "children": [], 
+   "end": "167.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "damals noch B\u00fcrgermeister von Hamburg, "
+   ]
+  }, 
+  {
+   "begin": "167.840", 
+   "children": [], 
+   "end": "169.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Olaf Scholz, "
+   ]
+  }, 
+  {
+   "begin": "169.120", 
+   "children": [], 
+   "end": "171.800", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "der das Hamburger Modell auf den Weg gebracht hat. "
+   ]
+  }, 
+  {
+   "begin": "171.800", 
+   "children": [], 
+   "end": "174.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Er hat es immerhin als ein St\u00fcck Sozialgeschichte bezeichnet."
+   ]
+  }, 
+  {
+   "begin": "174.320", 
+   "children": [], 
+   "end": "174.400", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne: "
+   ]
+  }, 
+  {
+   "begin": "174.400", 
+   "children": [], 
+   "end": "174.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen alle, "
+   ]
+  }, 
+  {
+   "begin": "174.640", 
+   "children": [], 
+   "end": "176.080", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass Koalitionen Zweckehen sind. "
+   ]
+  }, 
+  {
+   "begin": "176.080", 
+   "children": [], 
+   "end": "178.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Zweckehen beruhen auf der Differenz der Partnerinnen und Partner; "
+   ]
+  }, 
+  {
+   "begin": "178.240", 
+   "children": [], 
+   "end": "180.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "in Liebesehen ist das auch nicht anders, "
+   ]
+  }, 
+  {
+   "begin": "180.240", 
+   "children": [], 
+   "end": "182.000", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "sonst w\u00e4re es oft sehr langweilig. "
+   ]
+  }, 
+  {
+   "begin": "182.000", 
+   "children": [], 
+   "end": "184.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Aber wir sind uns doch einig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "184.120", 
+   "children": [], 
+   "end": "185.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "das ist auch Ergebnis des Koalitionsvertrages\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "185.720", 
+   "children": [], 
+   "end": "186.640", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "dass wir die Parit\u00e4t wiederherstellen. "
+   ]
+  }, 
+  {
+   "begin": "186.640", 
+   "children": [], 
+   "end": "187.000", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind uns einig, "
+   ]
+  }, 
+  {
+   "begin": "187.000", 
+   "children": [], 
+   "end": "188.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass wir zum Beispiel Solo-Selbstst\u00e4ndigen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "188.440", 
+   "children": [], 
+   "end": "189.720", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "darunter sind viele K\u00fcnstler\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "189.720", 
+   "children": [], 
+   "end": "191.840", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "den Eintritt in die gesetzliche Krankenversicherung erleichtern."
+   ]
+  }, 
+  {
+   "begin": "191.840", 
+   "children": [], 
+   "end": "192.880", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle m\u00fcssen daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "192.880", 
+   "children": [], 
+   "end": "198.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass diese Personengruppe nicht das Prekariat des 21.\u00a0Jahrhundert wird."
+   ]
+  }, 
+  {
+   "begin": "198.080", 
+   "children": [], 
+   "end": "200.160", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "In diesem Sinne sehe ich hier gro\u00dfe Einigkeit in Bezug auf die St\u00e4rkung der gesetzlichen Krankenversicherung. "
+   ]
+  }, 
+  {
+   "begin": "200.160", 
+   "children": [], 
+   "end": "200.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Arbeiten wir daran, "
+   ]
+  }, 
+  {
+   "begin": "200.560", 
+   "children": [], 
+   "end": "202.200", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "beraten wir dar\u00fcber intensiv in den Aussch\u00fcssen! "
+   ]
+  }, 
+  {
+   "begin": "202.200", 
+   "children": [], 
+   "end": "203.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcnsche Ihnen allen einen wunderbaren Abend."
+   ]
+  }, 
+  {
+   "begin": "203.440", 
+   "children": [], 
+   "end": "203.640", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "203.640", 
+   "children": [], 
+   "end": "203.880", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Ich schlie\u00dfe die Aussprache."
+   ]
+  }, 
+  {
+   "begin": "203.880", 
+   "children": [], 
+   "end": "207.720", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Interfraktionell wird \u00dcberweisung der Vorlage auf Drucksache\u00a019/1827 an die in der Tagesordnung aufgef\u00fchrten Aussch\u00fcsse vorgeschlagen. "
+   ]
+  }, 
+  {
+   "begin": "207.720", 
+   "children": [], 
+   "end": "208.480", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings ist die Federf\u00fchrung strittig. "
+   ]
+  }, 
+  {
+   "begin": "208.480", 
+   "children": [], 
+   "end": "211.400", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Die Fraktionen CDU/CSU und SPD w\u00fcnschen die Federf\u00fchrung beim Ausschuss f\u00fcr Inneres und Heimat, "
+   ]
+  }, 
+  {
+   "begin": "211.400", 
+   "children": [], 
+   "end": "214.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die Linkenfraktion schl\u00e4gt Federf\u00fchrung beim Ausschuss f\u00fcr Gesundheit vor."
+   ]
+  }, 
+  {
+   "begin": "214.760", 
+   "children": [], 
+   "end": "216.920", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir stimmen zuerst \u00fcber den \u00dcberweisungsvorschlag der Fraktion Die Linke, "
+   ]
+  }, 
+  {
+   "begin": "216.920", 
+   "children": [], 
+   "end": "218.120", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "also Federf\u00fchrung beim Gesundheitsausschuss, "
+   ]
+  }, 
+  {
+   "begin": "218.120", 
+   "children": [], 
+   "end": "218.160", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "ab. "
+   ]
+  }, 
+  {
+   "begin": "218.160", 
+   "children": [], 
+   "end": "220.480", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt f\u00fcr diesen \u00dcberweisungsvorschlag?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "220.480", 
+   "children": [], 
+   "end": "221.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Das sind die Fraktionen der Linken, "
+   ]
+  }, 
+  {
+   "begin": "221.360", 
+   "children": [], 
+   "end": "221.920", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "der Gr\u00fcnen und der AfD. "
+   ]
+  }, 
+  {
+   "begin": "221.920", 
+   "children": [], 
+   "end": "222.640", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wer stimmt dagegen?\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "222.640", 
+   "children": [], 
+   "end": "223.920", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Das Zweite ist eindeutig die Mehrheit. "
+   ]
+  }, 
+  {
+   "begin": "223.920", 
+   "children": [], 
+   "end": "224.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Enthaltungen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "224.080", 
+   "children": [], 
+   "end": "225.960", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist der \u00dcberweisungsvorschlag abgelehnt."
+   ]
+  }, 
+  {
+   "begin": "225.960", 
+   "children": [], 
+   "end": "229.160", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Ich lasse nun \u00fcber den \u00dcberweisungsvorschlag der Fraktionen CDU/CSU und SPD, "
+   ]
+  }, 
+  {
+   "begin": "229.160", 
+   "children": [], 
+   "end": "230.240", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "also Federf\u00fchrung beim Ausschuss f\u00fcr Inneres und Heimat, "
+   ]
+  }, 
+  {
+   "begin": "230.240", 
+   "children": [], 
+   "end": "230.600", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "abstimmen. "
+   ]
+  }, 
+  {
+   "begin": "230.600", 
+   "children": [], 
+   "end": "232.000", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Wer f\u00fcr diesen \u00dcberweisungsvorschlag ist, "
+   ]
+  }, 
+  {
+   "begin": "232.000", 
+   "children": [], 
+   "end": "232.001", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "den bitte ich um das Handzeichen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "232.001", 
+   "children": [], 
+   "end": "232.002", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Das sind SPD, "
+   ]
+  }, 
+  {
+   "begin": "232.002", 
+   "children": [], 
+   "end": "232.003", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU und FDP. "
+   ]
+  }, 
+  {
+   "begin": "232.003", 
+   "children": [], 
+   "end": "232.320", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wer ist dagegen?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "232.320", 
+   "children": [], 
+   "end": "232.640", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Das sind Linke, "
+   ]
+  }, 
+  {
+   "begin": "232.640", 
+   "children": [], 
+   "end": "233.800", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Gr\u00fcne und AfD. "
+   ]
+  }, 
+  {
+   "begin": "233.800", 
+   "children": [], 
+   "end": "235.160", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Das Erstere war die Mehrheit. "
+   ]
+  }, 
+  {
+   "begin": "235.160", 
+   "children": [], 
+   "end": "235.960", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Damit ist der \u00dcberweisungsvorschlag angenommen."
+   ]
+  }
+ ]
+}

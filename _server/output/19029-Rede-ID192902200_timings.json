@@ -1,0 +1,1844 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.001", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.001", 
+   "children": [], 
+   "end": "0.960", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr verehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "0.960", 
+   "children": [], 
+   "end": "1.120", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "children": [], 
+   "end": "1.121", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Der Parlamentspr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "1.121", 
+   "children": [], 
+   "end": "1.122", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "der die erste Rede zu diesem Tagesordnungspunkt hat anh\u00f6ren m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "1.122", 
+   "children": [], 
+   "end": "1.123", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Sch\u00e4uble, "
+   ]
+  }, 
+  {
+   "begin": "1.123", 
+   "children": [], 
+   "end": "1.124", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "hat mir ein bisschen leidgetan; "
+   ]
+  }, 
+  {
+   "begin": "1.124", 
+   "children": [], 
+   "end": "1.125", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "denn ihm wurde vorgeworfen, "
+   ]
+  }, 
+  {
+   "begin": "1.125", 
+   "children": [], 
+   "end": "1.720", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "er habe die letzten Jahre nichts getan, "
+   ]
+  }, 
+  {
+   "begin": "1.720", 
+   "children": [], 
+   "end": "2.640", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "es sei nichts passiert usw."
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "children": [], 
+   "end": "3.120", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe seine Gesichtsz\u00fcge gesehen, "
+   ]
+  }, 
+  {
+   "begin": "3.120", 
+   "children": [], 
+   "end": "3.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "und was ich gesehen habe, "
+   ]
+  }, 
+  {
+   "begin": "3.480", 
+   "children": [], 
+   "end": "3.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "hat mich nicht gewundert. "
+   ]
+  }, 
+  {
+   "begin": "3.920", 
+   "children": [], 
+   "end": "4.920", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Es war v\u00f6llig klar. "
+   ]
+  }, 
+  {
+   "begin": "4.920", 
+   "children": [], 
+   "end": "5.680", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Man kann ihm bestimmt viel vorwerfen, "
+   ]
+  }, 
+  {
+   "begin": "5.680", 
+   "children": [], 
+   "end": "6.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "aber dass er nicht auf die kalte Progression geachtet h\u00e4tte, "
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "children": [], 
+   "end": "6.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "das kann man ihm nicht vorwerfen."
+   ]
+  }, 
+  {
+   "begin": "6.800", 
+   "children": [], 
+   "end": "7.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcbrigens: "
+   ]
+  }, 
+  {
+   "begin": "7.120", 
+   "children": [], 
+   "end": "7.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Nicht alles, "
+   ]
+  }, 
+  {
+   "begin": "7.160", 
+   "children": [], 
+   "end": "7.161", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "was die AfD nicht sieht, "
+   ]
+  }, 
+  {
+   "begin": "7.161", 
+   "children": [], 
+   "end": "7.162", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "nicht alles, "
+   ]
+  }, 
+  {
+   "begin": "7.162", 
+   "children": [], 
+   "end": "7.163", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "was die AfD nicht versteht, "
+   ]
+  }, 
+  {
+   "begin": "7.163", 
+   "children": [], 
+   "end": "7.164", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und nicht alles, "
+   ]
+  }, 
+  {
+   "begin": "7.164", 
+   "children": [], 
+   "end": "7.165", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "was sie nicht gelesen hat, "
+   ]
+  }, 
+  {
+   "begin": "7.165", 
+   "children": [], 
+   "end": "7.166", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "verdreht oder leugnet, "
+   ]
+  }, 
+  {
+   "begin": "7.166", 
+   "children": [], 
+   "end": "7.167", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "ist geheim. "
+   ]
+  }, 
+  {
+   "begin": "7.167", 
+   "children": [], 
+   "end": "7.168", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Gesetze zum Beispiel kann man lesen. "
+   ]
+  }, 
+  {
+   "begin": "7.168", 
+   "children": [], 
+   "end": "7.169", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Man kann zu deren Auslegung und Anwendung lesen. "
+   ]
+  }, 
+  {
+   "begin": "7.169", 
+   "children": [], 
+   "end": "7.170", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wer ein bisschen hinschaut, "
+   ]
+  }, 
+  {
+   "begin": "7.170", 
+   "children": [], 
+   "end": "7.171", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "sieht alles. "
+   ]
+  }, 
+  {
+   "begin": "7.171", 
+   "children": [], 
+   "end": "7.172", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Noch einfacher: "
+   ]
+  }, 
+  {
+   "begin": "7.172", 
+   "children": [], 
+   "end": "7.173", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Tarifanpassungen stehen in der Zeitung. "
+   ]
+  }, 
+  {
+   "begin": "7.173", 
+   "children": [], 
+   "end": "7.174", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wer gelegentlich Zeitung liest und nicht nur irgendwelche Fake-Meldungen twittert, "
+   ]
+  }, 
+  {
+   "begin": "7.174", 
+   "children": [], 
+   "end": "7.175", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "wei\u00df genau, "
+   ]
+  }, 
+  {
+   "begin": "7.175", 
+   "children": [], 
+   "end": "7.176", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "was passiert ist."
+   ]
+  }, 
+  {
+   "begin": "7.176", 
+   "children": [], 
+   "end": "7.177", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Kalte Progression ist ja schon ein paarmal definiert worden. "
+   ]
+  }, 
+  {
+   "begin": "7.177", 
+   "children": [], 
+   "end": "7.178", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Ich will es auf meine Weise versuchen zu erl\u00e4utern. "
+   ]
+  }, 
+  {
+   "begin": "7.178", 
+   "children": [], 
+   "end": "7.179", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Einmal angenommen, "
+   ]
+  }, 
+  {
+   "begin": "7.179", 
+   "children": [], 
+   "end": "7.180", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "jemand verdient so viel in diesem Jahr."
+   ]
+  }, 
+  {
+   "begin": "7.180", 
+   "children": [], 
+   "end": "7.181", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Dann gibt es Lohnverhandlungen. "
+   ]
+  }, 
+  {
+   "begin": "7.181", 
+   "children": [], 
+   "end": "7.182", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Die Lohnverhandlungen sind ziemlich erfolgreich und f\u00fchren dazu, "
+   ]
+  }, 
+  {
+   "begin": "7.182", 
+   "children": [], 
+   "end": "7.183", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass jemand so viel mehr verdient. "
+   ]
+  }, 
+  {
+   "begin": "7.183", 
+   "children": [], 
+   "end": "7.184", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Er freut sich, "
+   ]
+  }, 
+  {
+   "begin": "7.184", 
+   "children": [], 
+   "end": "7.185", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass er so viel mehr verdient, "
+   ]
+  }, 
+  {
+   "begin": "7.185", 
+   "children": [], 
+   "end": "7.186", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "und wir freuen uns, "
+   ]
+  }, 
+  {
+   "begin": "7.186", 
+   "children": [], 
+   "end": "7.187", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "dass dadurch der Steuersatz steigt. "
+   ]
+  }, 
+  {
+   "begin": "7.187", 
+   "children": [], 
+   "end": "7.188", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Er muss prozentual mehr Steuern zahlen. "
+   ]
+  }, 
+  {
+   "begin": "7.188", 
+   "children": [], 
+   "end": "7.189", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Leistungsf\u00e4higkeit ist ja erheblich gestiegen. "
+   ]
+  }, 
+  {
+   "begin": "7.189", 
+   "children": [], 
+   "end": "7.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt kommt die Inflation und nimmt die Kaufkraft dieser Lohnerh\u00f6hung wieder weg. "
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "children": [], 
+   "end": "7.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt passiert etwas ganz Dummes: "
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "children": [], 
+   "end": "8.520", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Er muss den Nominallohn versteuern, "
+   ]
+  }, 
+  {
+   "begin": "8.520", 
+   "children": [], 
+   "end": "9.160", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "hat aber nur reale Kaufkraft. "
+   ]
+  }, 
+  {
+   "begin": "9.160", 
+   "children": [], 
+   "end": "10.720", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Unterschied macht die Ungerechtigkeit aus; "
+   ]
+  }, 
+  {
+   "begin": "10.720", 
+   "children": [], 
+   "end": "12.000", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "das wurde \u00fcbrigens in der ersten Rede korrekt erkl\u00e4rt."
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "children": [], 
+   "end": "13.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Im Antrag wird aber aus einem Gutachten von Herrn Fuest zitiert, "
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "children": [], 
+   "end": "14.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "der kalte Progression anders definiert. "
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "children": [], 
+   "end": "16.480", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Diese unterschiedliche Definition findet in diesem Antrag \u00fcberhaupt keinen Niederschlag. "
+   ]
+  }, 
+  {
+   "begin": "16.480", 
+   "children": [], 
+   "end": "16.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Da sieht man, "
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "children": [], 
+   "end": "17.040", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wie kleinkariert, "
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "children": [], 
+   "end": "19.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "engstirnig und falsch angelegt dieser gesamte Antrag ist."
+   ]
+  }, 
+  {
+   "begin": "19.000", 
+   "children": [], 
+   "end": "19.320", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Die kalte Progression entsteht durch zwei Bedingungen. "
+   ]
+  }, 
+  {
+   "begin": "19.320", 
+   "children": [], 
+   "end": "19.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Erstens durch eine, "
+   ]
+  }, 
+  {
+   "begin": "19.800", 
+   "children": [], 
+   "end": "19.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die wir wollen, "
+   ]
+  }, 
+  {
+   "begin": "19.920", 
+   "children": [], 
+   "end": "19.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich Progression. "
+   ]
+  }, 
+  {
+   "begin": "19.960", 
+   "children": [], 
+   "end": "19.961", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Starke Schultern tragen mehr; "
+   ]
+  }, 
+  {
+   "begin": "19.961", 
+   "children": [], 
+   "end": "19.962", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "wer viel verdient, "
+   ]
+  }, 
+  {
+   "begin": "19.962", 
+   "children": [], 
+   "end": "20.680", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "soll einen h\u00f6heren Steuersatz zahlen. "
+   ]
+  }, 
+  {
+   "begin": "20.680", 
+   "children": [], 
+   "end": "21.160", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Nicht nur mehr Euros: "
+   ]
+  }, 
+  {
+   "begin": "21.160", 
+   "children": [], 
+   "end": "22.320", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Wenn alle 10\u00a0Prozent zahlen w\u00fcrden, "
+   ]
+  }, 
+  {
+   "begin": "22.320", 
+   "children": [], 
+   "end": "22.920", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssten Reiche auch mehr zahlen. "
+   ]
+  }, 
+  {
+   "begin": "22.920", 
+   "children": [], 
+   "end": "22.921", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "22.921", 
+   "children": [], 
+   "end": "22.922", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "wir sagen: "
+   ]
+  }, 
+  {
+   "begin": "22.922", 
+   "children": [], 
+   "end": "23.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Nicht nur mehr Euros, "
+   ]
+  }, 
+  {
+   "begin": "23.280", 
+   "children": [], 
+   "end": "24.120", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch mehr Prozente. "
+   ]
+  }, 
+  {
+   "begin": "24.120", 
+   "children": [], 
+   "end": "25.920", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Die zweite Bedingung ist Inflation. "
+   ]
+  }, 
+  {
+   "begin": "25.920", 
+   "children": [], 
+   "end": "26.360", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Gibt es keine Inflation, "
+   ]
+  }, 
+  {
+   "begin": "26.360", 
+   "children": [], 
+   "end": "26.880", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "gibt es auch keine kalte Progression. "
+   ]
+  }, 
+  {
+   "begin": "26.880", 
+   "children": [], 
+   "end": "27.040", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Progression gibt es gleichwohl. "
+   ]
+  }, 
+  {
+   "begin": "27.040", 
+   "children": [], 
+   "end": "28.840", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Wer also von Abschaffung der kalten Progression spricht, "
+   ]
+  }, 
+  {
+   "begin": "28.840", 
+   "children": [], 
+   "end": "29.080", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "muss sagen, "
+   ]
+  }, 
+  {
+   "begin": "29.080", 
+   "children": [], 
+   "end": "29.200", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "er will per Gesetz die Inflation abschaffen."
+   ]
+  }, 
+  {
+   "begin": "29.200", 
+   "children": [], 
+   "end": "29.360", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Was man abschaffen kann, "
+   ]
+  }, 
+  {
+   "begin": "29.360", 
+   "children": [], 
+   "end": "30.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "ist die Wirkung der kalten Progression. "
+   ]
+  }, 
+  {
+   "begin": "30.360", 
+   "children": [], 
+   "end": "31.400", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Kommt es zu Inflation, "
+   ]
+  }, 
+  {
+   "begin": "31.400", 
+   "children": [], 
+   "end": "31.720", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "haben wir sie. "
+   ]
+  }, 
+  {
+   "begin": "31.720", 
+   "children": [], 
+   "end": "32.480", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann die Wirkung dann kompensieren, "
+   ]
+  }, 
+  {
+   "begin": "32.480", 
+   "children": [], 
+   "end": "33.440", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "aber ich kann die kalte Progression nicht abschaffen. "
+   ]
+  }, 
+  {
+   "begin": "33.440", 
+   "children": [], 
+   "end": "33.760", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Wer diesen Denkfehler genauer verstehen will, "
+   ]
+  }, 
+  {
+   "begin": "33.760", 
+   "children": [], 
+   "end": "34.600", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "liest den Gesetzentwurf des Bundes der Steuerzahler. "
+   ]
+  }, 
+  {
+   "begin": "34.600", 
+   "children": [], 
+   "end": "35.200", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Dieser verr\u00e4t sich schon im ersten Satz und zeigt, "
+   ]
+  }, 
+  {
+   "begin": "35.200", 
+   "children": [], 
+   "end": "36.440", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "dass er zwischen kalter Progression und Progression nicht seri\u00f6s unterscheidet."
+   ]
+  }, 
+  {
+   "begin": "36.440", 
+   "children": [], 
+   "end": "37.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Abschaffen k\u00f6nnen wir die kalte Progression also nicht, "
+   ]
+  }, 
+  {
+   "begin": "37.360", 
+   "children": [], 
+   "end": "37.480", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "ihre Wirkung k\u00f6nnen wir aber kompensieren."
+   ]
+  }, 
+  {
+   "begin": "37.480", 
+   "children": [], 
+   "end": "38.120", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "In Ihrem Antrag schreiben Sie verschwurbelt verschiedene Dinge. "
+   ]
+  }, 
+  {
+   "begin": "38.120", 
+   "children": [], 
+   "end": "38.800", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Wir sollen die kalte Progression reflektieren. "
+   ]
+  }, 
+  {
+   "begin": "38.800", 
+   "children": [], 
+   "end": "39.040", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Das zeigt, "
+   ]
+  }, 
+  {
+   "begin": "39.040", 
+   "children": [], 
+   "end": "40.840", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "wie sehr dieser Antrag an der Wirklichkeit vorbeigeht. "
+   ]
+  }, 
+  {
+   "begin": "40.840", 
+   "children": [], 
+   "end": "41.640", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Sch\u00f6ner kann man sich eigentlich nicht blamieren; "
+   ]
+  }, 
+  {
+   "begin": "41.640", 
+   "children": [], 
+   "end": "42.600", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "denn das passiert schon lange. "
+   ]
+  }, 
+  {
+   "begin": "42.600", 
+   "children": [], 
+   "end": "42.680", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "42.680", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "man kann die FDP, "
+   ]
+  }, 
+  {
+   "begin": "42.760", 
+   "children": [], 
+   "end": "43.720", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "die CSU und auch einige Kollegen der CDU gar nicht schlimmer behandeln; "
+   ]
+  }, 
+  {
+   "begin": "43.720", 
+   "children": [], 
+   "end": "44.280", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "denn sie haben sich seit Jahren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "44.280", 
+   "children": [], 
+   "end": "44.281", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "ich m\u00f6chte sogar sagen: "
+   ]
+  }, 
+  {
+   "begin": "44.281", 
+   "children": [], 
+   "end": "44.282", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "seit Jahrzehnten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "44.282", 
+   "children": [], 
+   "end": "44.283", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "immer darum gek\u00fcmmert, "
+   ]
+  }, 
+  {
+   "begin": "44.283", 
+   "children": [], 
+   "end": "45.560", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "dass das Thema \u201ekalte Progression\u201c hier auf der Tagesordnung steht. "
+   ]
+  }, 
+  {
+   "begin": "45.560", 
+   "children": [], 
+   "end": "46.840", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Das wurde schon damals \u00fcberfl\u00fcssigerweise immer wieder zum Thema gemacht; "
+   ]
+  }, 
+  {
+   "begin": "46.840", 
+   "children": [], 
+   "end": "46.920", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "denn seit 1991\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "46.920", 
+   "children": [], 
+   "end": "47.920", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "das zeigt eine Langfristbetrachtung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "47.920", 
+   "children": [], 
+   "end": "49.200", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "hat die kalte Progression gar keine Wirkung gehabt, "
+   ]
+  }, 
+  {
+   "begin": "49.200", 
+   "children": [], 
+   "end": "50.720", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "weil sie immer kompensiert wurde."
+   ]
+  }, 
+  {
+   "begin": "50.720", 
+   "children": [], 
+   "end": "51.000", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Das kann man nachlesen. "
+   ]
+  }, 
+  {
+   "begin": "51.000", 
+   "children": [], 
+   "end": "52.560", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Das Institut f\u00fcr Makro\u00f6konomie und Konjunkturforschung weist das sch\u00f6n nach und zeigt auch, "
+   ]
+  }, 
+  {
+   "begin": "52.560", 
+   "children": [], 
+   "end": "52.960", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "wie wir das gemacht haben: "
+   ]
+  }, 
+  {
+   "begin": "52.960", 
+   "children": [], 
+   "end": "53.200", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Anpassung der Eckwerte und der Tarife, "
+   ]
+  }, 
+  {
+   "begin": "53.200", 
+   "children": [], 
+   "end": "54.160", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "sogar drastische Senkung der Steuertarife unter Rot-Gr\u00fcn. "
+   ]
+  }, 
+  {
+   "begin": "54.160", 
+   "children": [], 
+   "end": "55.480", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben viele wunderbare Dinge gemacht. "
+   ]
+  }, 
+  {
+   "begin": "55.480", 
+   "children": [], 
+   "end": "57.360", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Jedenfalls war die Kompensation der Wirkung der kalten Progression immer gesichert."
+   ]
+  }, 
+  {
+   "begin": "57.360", 
+   "children": [], 
+   "end": "58.560", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "In Ihrem Antrag steht auch noch:"
+   ]
+  }, 
+  {
+   "begin": "58.560", 
+   "children": [], 
+   "end": "60.200", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Erstaunlicherweise wurde\u00a0\u2026 dieser Effekt der Auszehrung der\u00a0\u2026 Netto-Einkommen\u00a0\u2026 nicht von den politischen Akteuren thematisiert\u00a0\u2026"
+   ]
+  }, 
+  {
+   "begin": "60.200", 
+   "children": [], 
+   "end": "60.201", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Da muss sich doch bei den Kollegen der FDP und CDU/CSU der Magen herumdrehen, "
+   ]
+  }, 
+  {
+   "begin": "60.201", 
+   "children": [], 
+   "end": "60.202", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie das lesen; "
+   ]
+  }, 
+  {
+   "begin": "60.202", 
+   "children": [], 
+   "end": "60.240", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "denn es wurde\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "60.240", 
+   "children": [], 
+   "end": "60.680", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "ich wei\u00df nicht, "
+   ]
+  }, 
+  {
+   "begin": "60.680", 
+   "children": [], 
+   "end": "60.720", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "wie oft\u00a0\u2013bewiesen, "
+   ]
+  }, 
+  {
+   "begin": "60.720", 
+   "children": [], 
+   "end": "60.721", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "dass man hier mit Fake News, "
+   ]
+  }, 
+  {
+   "begin": "60.721", 
+   "children": [], 
+   "end": "61.280", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "mit falschen Informationen, "
+   ]
+  }, 
+  {
+   "begin": "61.280", 
+   "children": [], 
+   "end": "61.360", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "eigentlich mit einer hinterh\u00e4ltigen Diktion unterwegs ist. "
+   ]
+  }, 
+  {
+   "begin": "61.360", 
+   "children": [], 
+   "end": "61.640", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Ich muss sagen, "
+   ]
+  }, 
+  {
+   "begin": "61.640", 
+   "children": [], 
+   "end": "61.840", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "dass es mich total irritiert, "
+   ]
+  }, 
+  {
+   "begin": "61.840", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "dass man noch nicht einmal das aktuellste Papier, "
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "64.440", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "den Koalitionsvertrag, "
+   ]
+  }, 
+  {
+   "begin": "64.440", 
+   "children": [], 
+   "end": "64.960", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "entsprechend w\u00fcrdigt; "
+   ]
+  }, 
+  {
+   "begin": "64.960", 
+   "children": [], 
+   "end": "65.880", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "denn selbst dort ist das Thema\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "65.880", 
+   "children": [], 
+   "end": "66.120", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "wie ich finde, "
+   ]
+  }, 
+  {
+   "begin": "66.120", 
+   "children": [], 
+   "end": "66.320", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcberfl\u00fcssigerweise\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "66.320", 
+   "children": [], 
+   "end": "66.880", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "wieder enthalten. "
+   ]
+  }, 
+  {
+   "begin": "66.880", 
+   "children": [], 
+   "end": "68.280", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Es sichert wenigstens die gemeinsame Position ab."
+   ]
+  }, 
+  {
+   "begin": "68.280", 
+   "children": [], 
+   "end": "68.400", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Binding, "
+   ]
+  }, 
+  {
+   "begin": "68.400", 
+   "children": [], 
+   "end": "68.600", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "erlauben Sie eine Zwischenfrage?"
+   ]
+  }, 
+  {
+   "begin": "68.600", 
+   "children": [], 
+   "end": "68.601", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "68.601", 
+   "children": [], 
+   "end": "69.480", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "das brauche ich nicht zu machen. "
+   ]
+  }, 
+  {
+   "begin": "69.480", 
+   "children": [], 
+   "end": "70.320", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Die Zwischenfragen haben andere Funktionen, "
+   ]
+  }, 
+  {
+   "begin": "70.320", 
+   "children": [], 
+   "end": "70.960", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "als hier aufzukl\u00e4ren. "
+   ]
+  }, 
+  {
+   "begin": "70.960", 
+   "children": [], 
+   "end": "72.000", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb fahre ich jetzt fort."
+   ]
+  }, 
+  {
+   "begin": "72.000", 
+   "children": [], 
+   "end": "72.520", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "Ich muss Sie trotzdem fragen."
+   ]
+  }, 
+  {
+   "begin": "72.520", 
+   "children": [], 
+   "end": "72.800", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen alle zwei Jahre die Wirkung der kalten Progression definieren. "
+   ]
+  }, 
+  {
+   "begin": "72.800", 
+   "children": [], 
+   "end": "74.000", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt einen Steuerprogressionsbericht. "
+   ]
+  }, 
+  {
+   "begin": "74.000", 
+   "children": [], 
+   "end": "74.520", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "Diesen werden wir beherzigen. "
+   ]
+  }, 
+  {
+   "begin": "74.520", 
+   "children": [], 
+   "end": "76.080", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "Wer sich das noch einmal genauer anschaut\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "76.080", 
+   "children": [], 
+   "end": "78.760", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "ich kann es nur bis in das Jahr\u00a01998 zur\u00fcck beurteilen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "78.760", 
+   "children": [], 
+   "end": "78.920", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "stellt fest, "
+   ]
+  }, 
+  {
+   "begin": "78.920", 
+   "children": [], 
+   "end": "79.800", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "dass die Wirkung der kalten Progression \u00fcbrigens nicht nur kompensiert, "
+   ]
+  }, 
+  {
+   "begin": "79.800", 
+   "children": [], 
+   "end": "80.960", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "sondern sogar \u00fcberkompensiert wurde."
+   ]
+  }, 
+  {
+   "begin": "80.960", 
+   "children": [], 
+   "end": "81.600", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt m\u00fcssten wir ein bisschen rechnen. "
+   ]
+  }, 
+  {
+   "begin": "81.600", 
+   "children": [], 
+   "end": "84.080", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "Das ist vielleicht zu viel f\u00fcr die letzten 27\u00a0Sekunden Redezeit. "
+   ]
+  }, 
+  {
+   "begin": "84.080", 
+   "children": [], 
+   "end": "85.320", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "Wer es aber genauer nachrechnen will, "
+   ]
+  }, 
+  {
+   "begin": "85.320", 
+   "children": [], 
+   "end": "85.600", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "der kommt sehr schnell zu dem Ergebnis, "
+   ]
+  }, 
+  {
+   "begin": "85.600", 
+   "children": [], 
+   "end": "86.080", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "dass die kalte Progression f\u00fcr uns im Grunde bedeutungslos ist. "
+   ]
+  }, 
+  {
+   "begin": "86.080", 
+   "children": [], 
+   "end": "87.320", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "Genauso verh\u00e4lt es sich mit diesem Antrag. "
+   ]
+  }, 
+  {
+   "begin": "87.320", 
+   "children": [], 
+   "end": "88.240", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb halten wir an den bew\u00e4hrten Methoden fest."
+   ]
+  }, 
+  {
+   "begin": "88.240", 
+   "children": [], 
+   "end": "88.280", 
+   "id": "s000163", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte noch auf einen Punkt eingehen. "
+   ]
+  }, 
+  {
+   "begin": "88.280", 
+   "children": [], 
+   "end": "89.600", 
+   "id": "s000164", 
+   "language": "deu", 
+   "lines": [
+    "Vorhin fiel das Stichwort \u201eSteuermehreinnahmen infolge der kalten Progression\u201c. "
+   ]
+  }, 
+  {
+   "begin": "89.600", 
+   "children": [], 
+   "end": "90.040", 
+   "id": "s000165", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe schon gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "90.040", 
+   "children": [], 
+   "end": "90.041", 
+   "id": "s000166", 
+   "language": "deu", 
+   "lines": [
+    "dass das Quatsch ist. "
+   ]
+  }, 
+  {
+   "begin": "90.041", 
+   "children": [], 
+   "end": "90.640", 
+   "id": "s000167", 
+   "language": "deu", 
+   "lines": [
+    "Ich will aber daran erinnern und Sie fragen: "
+   ]
+  }, 
+  {
+   "begin": "90.640", 
+   "children": [], 
+   "end": "91.440", 
+   "id": "s000168", 
+   "language": "deu", 
+   "lines": [
+    "Hatten wir einen Besch\u00e4ftigungsaufwuchs? "
+   ]
+  }, 
+  {
+   "begin": "91.440", 
+   "children": [], 
+   "end": "92.560", 
+   "id": "s000169", 
+   "language": "deu", 
+   "lines": [
+    "Gab es schon einmal 44\u00a0Millionen Besch\u00e4ftigte? "
+   ]
+  }, 
+  {
+   "begin": "92.560", 
+   "children": [], 
+   "end": "93.880", 
+   "id": "s000170", 
+   "language": "deu", 
+   "lines": [
+    "Haben wir Lohnzuw\u00e4chse gehabt? "
+   ]
+  }, 
+  {
+   "begin": "93.880", 
+   "children": [], 
+   "end": "94.520", 
+   "id": "s000171", 
+   "language": "deu", 
+   "lines": [
+    "K\u00f6nnte es sein, "
+   ]
+  }, 
+  {
+   "begin": "94.520", 
+   "children": [], 
+   "end": "95.160", 
+   "id": "s000172", 
+   "language": "deu", 
+   "lines": [
+    "dass die Einkommensteuermehreinnahmen auch auf solche Effekte zur\u00fcckgehen?"
+   ]
+  }, 
+  {
+   "begin": "95.160", 
+   "children": [], 
+   "end": "95.240", 
+   "id": "s000173", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Binding, "
+   ]
+  }, 
+  {
+   "begin": "95.240", 
+   "children": [], 
+   "end": "95.840", 
+   "id": "s000174", 
+   "language": "deu", 
+   "lines": [
+    "kommen Sie bitte zum Schluss."
+   ]
+  }, 
+  {
+   "begin": "95.840", 
+   "children": [], 
+   "end": "96.800", 
+   "id": "s000175", 
+   "language": "deu", 
+   "lines": [
+    "Mehr m\u00f6chte ich gar nicht sagen. "
+   ]
+  }, 
+  {
+   "begin": "96.800", 
+   "children": [], 
+   "end": "97.480", 
+   "id": "s000176", 
+   "language": "deu", 
+   "lines": [
+    "Jeder hat gemerkt, "
+   ]
+  }, 
+  {
+   "begin": "97.480", 
+   "children": [], 
+   "end": "98.760", 
+   "id": "s000177", 
+   "language": "deu", 
+   "lines": [
+    "worauf das hinausl\u00e4uft. "
+   ]
+  }, 
+  {
+   "begin": "98.760", 
+   "children": [], 
+   "end": "98.960", 
+   "id": "s000178", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "98.960", 
+   "children": [], 
+   "end": "99.920", 
+   "id": "s000179", 
+   "language": "deu", 
+   "lines": [
+    "es ist alles gesagt."
+   ]
+  }, 
+  {
+   "begin": "99.920", 
+   "children": [], 
+   "end": "101.520", 
+   "id": "s000180", 
+   "language": "deu", 
+   "lines": [
+    "Sch\u00f6nen Dank und einen sch\u00f6nen Nachmittag."
+   ]
+  }, 
+  {
+   "begin": "101.520", 
+   "children": [], 
+   "end": "101.960", 
+   "id": "s000181", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "101.960", 
+   "children": [], 
+   "end": "102.120", 
+   "id": "s000182", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Binding. "
+   ]
+  }, 
+  {
+   "begin": "102.120", 
+   "children": [], 
+   "end": "103.000", 
+   "id": "s000183", 
+   "language": "deu", 
+   "lines": [
+    "Das haben Sie jetzt davon. "
+   ]
+  }, 
+  {
+   "begin": "103.000", 
+   "children": [], 
+   "end": "106.000", 
+   "id": "s000184", 
+   "language": "deu", 
+   "lines": [
+    "Ich erteile das Wort zu einer Kurzintervention dem Abgeordneten D\u00fcrr."
+   ]
+  }
+ ]
+}

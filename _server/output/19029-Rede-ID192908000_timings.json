@@ -1,0 +1,654 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "children": [], 
+   "end": "13.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "children": [], 
+   "end": "14.520", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Es ist schon merkw\u00fcrdig, "
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "children": [], 
+   "end": "18.920", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass wir Bildungspolitiker \u00fcber diesen Antrag der Linksfraktion diskutieren; "
+   ]
+  }, 
+  {
+   "begin": "18.920", 
+   "children": [], 
+   "end": "25.520", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "denn im Kern geht es Ihnen gar nicht um eine Verbesserung der Ausbildungsqualit\u00e4t oder bessere Aufstiegschancen."
+   ]
+  }, 
+  {
+   "begin": "25.520", 
+   "children": [], 
+   "end": "26.320", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "26.320", 
+   "children": [], 
+   "end": "32.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "stattdessen fordern Sie ein bedingungsloses Grundeinkommen f\u00fcr angehende Akademiker. "
+   ]
+  }, 
+  {
+   "begin": "32.600", 
+   "children": [], 
+   "end": "33.960", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Es ist bemerkenswert, "
+   ]
+  }, 
+  {
+   "begin": "33.960", 
+   "children": [], 
+   "end": "37.480", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie Ihre Vision eines staatlich gef\u00f6rderten Rundum-sorglos-Pakets\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "37.480", 
+   "children": [], 
+   "end": "40.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "das m\u00fcssen nat\u00fcrlich andere bezahlen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "40.000", 
+   "children": [], 
+   "end": "43.360", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "als Erstes ausgerechnet denen zugutekommen lassen wollen, "
+   ]
+  }, 
+  {
+   "begin": "43.360", 
+   "children": [], 
+   "end": "49.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die im Vergleich zu anderen Bev\u00f6lkerungsgruppen ohnehin ein deutlich h\u00f6heres Lebenseinkommen vor sich haben. "
+   ]
+  }, 
+  {
+   "begin": "49.280", 
+   "children": [], 
+   "end": "59.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "So verdient schon ein Fachhochschulabsolvent im Schnitt 1\u00a0100\u00a0Euro im Monat mehr als jemand ohne berufsqualifizierenden Abschluss."
+   ]
+  }, 
+  {
+   "begin": "59.400", 
+   "children": [], 
+   "end": "65.120", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Im Antragstitel k\u00fcndigen Sie nun eine armutsfeste Ausbildungsf\u00f6rderung an. "
+   ]
+  }, 
+  {
+   "begin": "65.120", 
+   "children": [], 
+   "end": "71.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Dabei ist doch die h\u00e4rteste Form der Armut in Deutschland die Perspektivlosigkeit, "
+   ]
+  }, 
+  {
+   "begin": "71.200", 
+   "children": [], 
+   "end": "76.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wenn beispielsweise der Bezug von Hartz\u00a0IV in manchen Familien von einer Generation zur n\u00e4chsten vererbt wird, "
+   ]
+  }, 
+  {
+   "begin": "76.880", 
+   "children": [], 
+   "end": "80.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie sich nicht aus eigener Kraft aus dieser Lage herausarbeiten k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "80.760", 
+   "children": [], 
+   "end": "83.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "weil ihnen zum Beispiel die pers\u00f6nlichen Netzwerke fehlen, "
+   ]
+  }, 
+  {
+   "begin": "83.520", 
+   "children": [], 
+   "end": "84.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "ein Umfeld, "
+   ]
+  }, 
+  {
+   "begin": "84.360", 
+   "children": [], 
+   "end": "86.560", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "das regelm\u00e4\u00dfig anspornt und motiviert, "
+   ]
+  }, 
+  {
+   "begin": "86.560", 
+   "children": [], 
+   "end": "90.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie vor lauter Sorgen im Alltag vielleicht auch keinen Fu\u00df fassen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "90.600", 
+   "children": [], 
+   "end": "96.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Indem Sie nun \u00fcber die H\u00e4lfte der Studierenden in das Zentrum der Armutsdebatte r\u00fccken, "
+   ]
+  }, 
+  {
+   "begin": "96.680", 
+   "children": [], 
+   "end": "98.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "also ausgerechnet diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "98.200", 
+   "children": [], 
+   "end": "102.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "die in aller Regel hervorragende Perspektiven haben, "
+   ]
+  }, 
+  {
+   "begin": "102.040", 
+   "children": [], 
+   "end": "109.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "erweisen Sie den dringend hilfsbed\u00fcrftigen Menschen ohne reale Aufstiegsperspektiven einen B\u00e4rendienst."
+   ]
+  }, 
+  {
+   "begin": "109.280", 
+   "children": [], 
+   "end": "116.720", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Sie fordern hier gar kein Chancenprogramm zur gezielten Armutsbek\u00e4mpfung, "
+   ]
+  }, 
+  {
+   "begin": "116.720", 
+   "children": [], 
+   "end": "121.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "sondern eine finanzielle Rundumversorgung f\u00fcr k\u00fcnftige Gutverdiener: "
+   ]
+  }, 
+  {
+   "begin": "121.560", 
+   "children": [], 
+   "end": "123.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "100\u00a0Prozent r\u00fcckzahlungsfrei, "
+   ]
+  }, 
+  {
+   "begin": "123.960", 
+   "children": [], 
+   "end": "126.560", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "eine Entlastung also gerade dann, "
+   ]
+  }, 
+  {
+   "begin": "126.560", 
+   "children": [], 
+   "end": "129.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "wenn das hohe Einkommen verf\u00fcgbar w\u00e4re. "
+   ]
+  }, 
+  {
+   "begin": "129.320", 
+   "children": [], 
+   "end": "136.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Nicht einmal ein m\u00f6glicherweise hohes Einkommen des Ehepartners w\u00fcrden Sie f\u00fcr eine Art Eigenbeteiligung heranziehen. "
+   ]
+  }, 
+  {
+   "begin": "136.280", 
+   "children": [], 
+   "end": "139.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Stehen Sie doch wenigstens einmal dazu!"
+   ]
+  }, 
+  {
+   "begin": "139.080", 
+   "children": [], 
+   "end": "143.560", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Dann verspricht Ihr Antrag etwas Festes. "
+   ]
+  }, 
+  {
+   "begin": "143.560", 
+   "children": [], 
+   "end": "150.160", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber 30 Milliarden Euro kostet Ihr Wunschzettel allein im Bereich der Studierenden. "
+   ]
+  }, 
+  {
+   "begin": "150.160", 
+   "children": [], 
+   "end": "155.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Das ist der zweifache Etat des Bundesministeriums f\u00fcr Bildung und Forschung. "
+   ]
+  }, 
+  {
+   "begin": "155.120", 
+   "children": [], 
+   "end": "159.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "So schnell kann Ihnen noch nicht einmal Sahra Wagenknecht das Geld aus der Tasche ziehen."
+   ]
+  }, 
+  {
+   "begin": "159.040", 
+   "children": [], 
+   "end": "162.600", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das System kollabiert doch sp\u00e4testens dann, "
+   ]
+  }, 
+  {
+   "begin": "162.600", 
+   "children": [], 
+   "end": "164.360", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie irgendwann feststellen, "
+   ]
+  }, 
+  {
+   "begin": "164.360", 
+   "children": [], 
+   "end": "171.520", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass irgendwer diese Rechnung bezahlen muss. "
+   ]
+  }, 
+  {
+   "begin": "171.520", 
+   "children": [], 
+   "end": "172.760", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Was daran fest sein soll, "
+   ]
+  }, 
+  {
+   "begin": "172.760", 
+   "children": [], 
+   "end": "173.880", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "das bleibt Ihr Geheimnis. "
+   ]
+  }, 
+  {
+   "begin": "173.880", 
+   "children": [], 
+   "end": "181.280", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr den sozialen Frieden leisten Sie damit jedenfalls keinen Mehrwert."
+   ]
+  }, 
+  {
+   "begin": "181.280", 
+   "children": [], 
+   "end": "184.840", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Dann erw\u00e4hnen Sie eine Ausbildungsf\u00f6rderung. "
+   ]
+  }, 
+  {
+   "begin": "184.840", 
+   "children": [], 
+   "end": "188.000", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Der j\u00fcngste BAf\u00f6G-Bericht macht sehr deutlich: "
+   ]
+  }, 
+  {
+   "begin": "188.000", 
+   "children": [], 
+   "end": "188.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "188.320", 
+   "children": [], 
+   "end": "190.240", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "es gibt Handlungsbedarf. "
+   ]
+  }, 
+  {
+   "begin": "190.240", 
+   "children": [], 
+   "end": "195.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Besonders stark ist die F\u00f6rderquote ausgerechnet in bildungsfernen Familien gesunken. "
+   ]
+  }, 
+  {
+   "begin": "195.440", 
+   "children": [], 
+   "end": "200.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Zeitaufwendige Nebenjobs belasten \u00fcbrigens vor allem diejenigen Studierenden, "
+   ]
+  }, 
+  {
+   "begin": "200.000", 
+   "children": [], 
+   "end": "202.320", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die bisher gar kein BAf\u00f6G erhalten. "
+   ]
+  }, 
+  {
+   "begin": "202.320", 
+   "children": [], 
+   "end": "204.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Also nicht die uferlosen Bedarfss\u00e4tze, "
+   ]
+  }, 
+  {
+   "begin": "204.640", 
+   "children": [], 
+   "end": "207.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "sondern vor allen Dingen eine h\u00f6here F\u00f6rderquote ist das, "
+   ]
+  }, 
+  {
+   "begin": "207.720", 
+   "children": [], 
+   "end": "210.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "worauf es jetzt als oberstes Ziel ankommt."
+   ]
+  }, 
+  {
+   "begin": "210.560", 
+   "children": [], 
+   "end": "216.800", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freie Demokraten wollen junge Erwachsene als eigenst\u00e4ndige Pers\u00f6nlichkeiten behandeln. "
+   ]
+  }, 
+  {
+   "begin": "216.800", 
+   "children": [], 
+   "end": "219.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb fordern wir ein elternunabh\u00e4ngiges BAf\u00f6G, "
+   ]
+  }, 
+  {
+   "begin": "219.880", 
+   "children": [], 
+   "end": "220.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "das\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "220.280", 
+   "children": [], 
+   "end": "223.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "im Gegensatz zu Ihrem bedingungslosen Grundeinkommen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "223.280", 
+   "children": [], 
+   "end": "231.200", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "einerseits aus einem gegenfinanzierten Vollzuschuss und auf der anderen Seite auf Wunsch aus einem zinsg\u00fcnstigen Darlehen besteht, "
+   ]
+  }, 
+  {
+   "begin": "231.200", 
+   "children": [], 
+   "end": "234.480", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "das sp\u00e4ter einkommensabh\u00e4ngig zur\u00fcckgezahlt wird. "
+   ]
+  }, 
+  {
+   "begin": "234.480", 
+   "children": [], 
+   "end": "237.600", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "So schaffen wir effektiv einen Zugang zu guter Bildung, "
+   ]
+  }, 
+  {
+   "begin": "237.600", 
+   "children": [], 
+   "end": "245.120", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "unabh\u00e4ngig von der finanziellen Unterst\u00fctzungskraft und manchmal eben auch Unterst\u00fctzungsbereitschaft der Eltern."
+   ]
+  }, 
+  {
+   "begin": "245.120", 
+   "children": [], 
+   "end": "246.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Weltbeste Bildung f\u00fcr jeden, "
+   ]
+  }, 
+  {
+   "begin": "246.800", 
+   "children": [], 
+   "end": "248.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "unabh\u00e4ngig von der sozialen Herkunft,"
+   ]
+  }, 
+  {
+   "begin": "248.880", 
+   "children": [], 
+   "end": "253.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr werden wir Freie Demokraten weiterk\u00e4mpfen. "
+   ]
+  }, 
+  {
+   "begin": "253.680", 
+   "children": [], 
+   "end": "256.920", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich sehr auf die Diskussion mit Ihnen im Ausschuss."
+   ]
+  }, 
+  {
+   "begin": "256.920", 
+   "children": [], 
+   "end": "270.000", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen hat der Kollege Kai Gehring das Wort."
+   ]
+  }
+ ]
+}

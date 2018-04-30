@@ -1,0 +1,1574 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "children": [], 
+   "end": "9.800", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "children": [], 
+   "end": "11.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.760", 
+   "children": [], 
+   "end": "15.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt nur wenige L\u00e4nder weltweit, "
+   ]
+  }, 
+  {
+   "begin": "15.120", 
+   "children": [], 
+   "end": "19.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "in denen Jugendliche so gute Zukunftschancen haben wie hier in Deutschland."
+   ]
+  }, 
+  {
+   "begin": "19.680", 
+   "children": [], 
+   "end": "22.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die Jugendarbeitslosigkeit liegt bei gut 6\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "22.960", 
+   "children": [], 
+   "end": "26.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Das ist europaweit eine der niedrigsten Quoten. "
+   ]
+  }, 
+  {
+   "begin": "26.720", 
+   "children": [], 
+   "end": "32.280", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ein wesentlicher Grund f\u00fcr diesen Erfolg ist unsere duale Berufsausbildung. "
+   ]
+  }, 
+  {
+   "begin": "32.280", 
+   "children": [], 
+   "end": "41.400", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Sie bietet jedes Jahr mehr als einer halben Million junger Menschen die Chance auf einen erfolgreichen Einstieg in die Berufswelt."
+   ]
+  }, 
+  {
+   "begin": "41.400", 
+   "children": [], 
+   "end": "46.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ich will mit einigen konkreten Zahlen aus dem Berufsbildungsbericht beginnen. "
+   ]
+  }, 
+  {
+   "begin": "46.800", 
+   "children": [], 
+   "end": "53.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr dieses Ausbildungsjahr hat die Wirtschaft \u00fcber 556\u00a0000\u00a0Stellen angeboten. "
+   ]
+  }, 
+  {
+   "begin": "53.000", 
+   "children": [], 
+   "end": "56.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Das sind 10\u00a0000 mehr als im vergangenen Jahr. "
+   ]
+  }, 
+  {
+   "begin": "56.800", 
+   "children": [], 
+   "end": "62.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "523\u00a0000\u00a0Ausbildungsvertr\u00e4ge wurden neu abgeschlossen. "
+   ]
+  }, 
+  {
+   "begin": "62.320", 
+   "children": [], 
+   "end": "68.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Damit haben wir endlich wieder mehr Auszubildende."
+   ]
+  }, 
+  {
+   "begin": "68.200", 
+   "children": [], 
+   "end": "76.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Besonders stark war die Zunahme der betrieblich geschlossenen Ausbildungsvertr\u00e4ge. "
+   ]
+  }, 
+  {
+   "begin": "76.560", 
+   "children": [], 
+   "end": "79.720", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dort ist die Zahl um fast 5\u00a0000 gestiegen. "
+   ]
+  }, 
+  {
+   "begin": "79.720", 
+   "children": [], 
+   "end": "85.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "100\u00a0Bewerbern standen also zuletzt 105\u00a0Ausbildungsangebote gegen\u00fcber. "
+   ]
+  }, 
+  {
+   "begin": "85.360", 
+   "children": [], 
+   "end": "90.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Chancen auf einen Ausbildungsplatz sind so gut wie seit mehr als 20\u00a0Jahren nicht mehr. "
+   ]
+  }, 
+  {
+   "begin": "90.360", 
+   "children": [], 
+   "end": "91.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine stolze Leistung, "
+   ]
+  }, 
+  {
+   "begin": "91.800", 
+   "children": [], 
+   "end": "93.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die wir hier gemeinsam erbracht haben. "
+   ]
+  }, 
+  {
+   "begin": "93.960", 
+   "children": [], 
+   "end": "99.960", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Ich pers\u00f6nlich bin froh \u00fcber diese Art der Zusammenarbeit zwischen Wirtschaft und Staat, "
+   ]
+  }, 
+  {
+   "begin": "99.960", 
+   "children": [], 
+   "end": "105.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die wir im Bereich der beruflichen Bildung leisten."
+   ]
+  }, 
+  {
+   "begin": "105.880", 
+   "children": [], 
+   "end": "111.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "In Europa und weltweit sind wir damit eine der f\u00fchrenden Berufsbildungsnationen; "
+   ]
+  }, 
+  {
+   "begin": "111.520", 
+   "children": [], 
+   "end": "114.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "daran besteht kein Zweifel. "
+   ]
+  }, 
+  {
+   "begin": "114.160", 
+   "children": [], 
+   "end": "116.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Dennoch gibt sich diese Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "116.280", 
+   "children": [], 
+   "end": "119.240", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "gebe ich mich pers\u00f6nlich damit nicht zufrieden. "
+   ]
+  }, 
+  {
+   "begin": "119.240", 
+   "children": [], 
+   "end": "121.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen noch besser werden. "
+   ]
+  }, 
+  {
+   "begin": "121.320", 
+   "children": [], 
+   "end": "125.120", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "In den vergangenen Jahren haben wir sehr auf die Hochschulen geschaut. "
+   ]
+  }, 
+  {
+   "begin": "125.120", 
+   "children": [], 
+   "end": "130.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Dabei ist die berufliche Bildung im Verst\u00e4ndnis der jungen Menschen ein wenig ins Hintertreffen geraten. "
+   ]
+  }, 
+  {
+   "begin": "130.960", 
+   "children": [], 
+   "end": "136.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Dabei sollen die sogenannten Abbrecherquoten f\u00fcr mich nicht das gr\u00f6\u00dfte Problem sein; "
+   ]
+  }, 
+  {
+   "begin": "136.000", 
+   "children": [], 
+   "end": "139.360", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "denn trotz vieler Falschmeldungen ist es tats\u00e4chlich so, "
+   ]
+  }, 
+  {
+   "begin": "139.360", 
+   "children": [], 
+   "end": "144.160", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass die Zahl der Ausbildungsabbr\u00fcche sehr viel niedriger ist als im Hochschulbereich. "
+   ]
+  }, 
+  {
+   "begin": "144.160", 
+   "children": [], 
+   "end": "144.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Zudem\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "144.760", 
+   "children": [], 
+   "end": "147.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "das m\u00f6chte ich hier auch sagen\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "147.280", 
+   "children": [], 
+   "end": "150.040", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Eine Vertragsl\u00f6sung mit Neubeginn ist eine freie, "
+   ]
+  }, 
+  {
+   "begin": "150.040", 
+   "children": [], 
+   "end": "151.520", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "individuelle Entscheidung, "
+   ]
+  }, 
+  {
+   "begin": "151.520", 
+   "children": [], 
+   "end": "155.440", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die wir verteidigen und gerade nicht kritisieren sollten. "
+   ]
+  }, 
+  {
+   "begin": "155.440", 
+   "children": [], 
+   "end": "156.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wichtig ist doch nur, "
+   ]
+  }, 
+  {
+   "begin": "156.760", 
+   "children": [], 
+   "end": "160.200", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass den jungen Menschen die T\u00fcr ge\u00f6ffnet bleibt."
+   ]
+  }, 
+  {
+   "begin": "160.200", 
+   "children": [], 
+   "end": "164.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich sehe die Herausforderungen in der beruflichen Bildung vor allem in drei Bereichen: "
+   ]
+  }, 
+  {
+   "begin": "164.280", 
+   "children": [], 
+   "end": "164.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "164.520", 
+   "children": [], 
+   "end": "169.000", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen wieder mehr Jugendliche f\u00fcr die berufliche Bildung begeistern. "
+   ]
+  }, 
+  {
+   "begin": "169.000", 
+   "children": [], 
+   "end": "170.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "170.120", 
+   "children": [], 
+   "end": "175.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen die berufliche Bildung fit machen f\u00fcr eine moderne digitalisierte Arbeitswelt. "
+   ]
+  }, 
+  {
+   "begin": "175.760", 
+   "children": [], 
+   "end": "176.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "176.400", 
+   "children": [], 
+   "end": "179.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen wieder mehr Betriebe f\u00fcr die Ausbildung gewinnen."
+   ]
+  }, 
+  {
+   "begin": "179.600", 
+   "children": [], 
+   "end": "187.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Zum ersten Punkt. "
+   ]
+  }, 
+  {
+   "begin": "187.560", 
+   "children": [], 
+   "end": "188.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Mir ist wichtig, "
+   ]
+  }, 
+  {
+   "begin": "188.840", 
+   "children": [], 
+   "end": "191.920", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass alle jungen Menschen in unserem Land die Chance haben, "
+   ]
+  }, 
+  {
+   "begin": "191.920", 
+   "children": [], 
+   "end": "196.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "ihre Talente zu entfalten und erfolgreich ins Berufsleben zu starten. "
+   ]
+  }, 
+  {
+   "begin": "196.480", 
+   "children": [], 
+   "end": "199.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr gibt es viele M\u00f6glichkeiten. "
+   ]
+  }, 
+  {
+   "begin": "199.080", 
+   "children": [], 
+   "end": "204.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Je nach Neigung und F\u00e4higkeiten m\u00fcssen sich junge Menschen f\u00fcr ihren Weg entscheiden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "204.560", 
+   "children": [], 
+   "end": "205.160", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte, "
+   ]
+  }, 
+  {
+   "begin": "205.160", 
+   "children": [], 
+   "end": "206.400", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass ihnen dabei bewusst ist: "
+   ]
+  }, 
+  {
+   "begin": "206.400", 
+   "children": [], 
+   "end": "211.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Akademische Bildung und berufliche Bildungswege sind gleichwertige Bildungswege."
+   ]
+  }, 
+  {
+   "begin": "211.680", 
+   "children": [], 
+   "end": "227.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Gerade in dieser Zeit der schnellen Entwicklungen ist die enge Verzahnung von Theorie und Praxis eine solide Basis f\u00fcr die eigene berufliche Karriere. "
+   ]
+  }, 
+  {
+   "begin": "227.000", 
+   "children": [], 
+   "end": "230.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Das m\u00f6chte ich noch st\u00e4rker im Bewusstsein der Menschen verankern\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "230.680", 
+   "children": [], 
+   "end": "232.280", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "bei den jungen Menschen, "
+   ]
+  }, 
+  {
+   "begin": "232.280", 
+   "children": [], 
+   "end": "239.200", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "aber auch bei den Eltern."
+   ]
+  }, 
+  {
+   "begin": "239.200", 
+   "children": [], 
+   "end": "240.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem gilt: "
+   ]
+  }, 
+  {
+   "begin": "240.320", 
+   "children": [], 
+   "end": "242.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Unser Bildungssystem ist durchl\u00e4ssig. "
+   ]
+  }, 
+  {
+   "begin": "242.920", 
+   "children": [], 
+   "end": "244.160", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wer eine Ausbildung macht, "
+   ]
+  }, 
+  {
+   "begin": "244.160", 
+   "children": [], 
+   "end": "245.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "kann sp\u00e4ter studieren. "
+   ]
+  }, 
+  {
+   "begin": "245.880", 
+   "children": [], 
+   "end": "247.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wer mit einem Studium beginnt, "
+   ]
+  }, 
+  {
+   "begin": "247.560", 
+   "children": [], 
+   "end": "251.720", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "kann f\u00fcr die Weiterbildung die beruflichen Weiterbildungsstufen nutzen. "
+   ]
+  }, 
+  {
+   "begin": "251.720", 
+   "children": [], 
+   "end": "256.720", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Diese Karrierechancen in der beruflichen Bildung m\u00f6chte ich noch weiter verbessern; "
+   ]
+  }, 
+  {
+   "begin": "256.720", 
+   "children": [], 
+   "end": "261.320", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "denn gerade auch Leistungstr\u00e4ger sollen in der beruflichen Bildung gef\u00f6rdert werden."
+   ]
+  }, 
+  {
+   "begin": "261.320", 
+   "children": [], 
+   "end": "272.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden klare und attraktive Fortbildungsstufen im Berufsbildungsgesetz etablieren, "
+   ]
+  }, 
+  {
+   "begin": "272.200", 
+   "children": [], 
+   "end": "274.960", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "damit Personalabteilungen sofort erkennen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "274.960", 
+   "children": [], 
+   "end": "279.040", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "welche Kompetenzen eine Kandidatin oder ein Kandidat mitbringt. "
+   ]
+  }, 
+  {
+   "begin": "279.040", 
+   "children": [], 
+   "end": "285.200", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden das Aufstiegs-BAf\u00f6G mit einem attraktiven Angebot f\u00fcr jede Stufe ausbauen. "
+   ]
+  }, 
+  {
+   "begin": "285.200", 
+   "children": [], 
+   "end": "287.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Auch das sorgt f\u00fcr Gleichwertigkeit."
+   ]
+  }, 
+  {
+   "begin": "287.800", 
+   "children": [], 
+   "end": "297.840", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte an dieser Stelle auch die Mindestausbildungsverg\u00fctung ansprechen. "
+   ]
+  }, 
+  {
+   "begin": "297.840", 
+   "children": [], 
+   "end": "301.720", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist ein klares Signal der Wertsch\u00e4tzung f\u00fcr die duale Ausbildung. "
+   ]
+  }, 
+  {
+   "begin": "301.720", 
+   "children": [], 
+   "end": "302.840", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Es gilt, "
+   ]
+  }, 
+  {
+   "begin": "302.840", 
+   "children": [], 
+   "end": "305.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "soziale Schieflagen zu adressieren."
+   ]
+  }, 
+  {
+   "begin": "305.400", 
+   "children": [], 
+   "end": "312.400", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "All das zeigt: "
+   ]
+  }, 
+  {
+   "begin": "312.400", 
+   "children": [], 
+   "end": "319.360", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Die Gleichwertigkeit der beruflichen Bildung steht f\u00fcr diese Bundesregierung ganz oben auf der bildungspolitischen Agenda, "
+   ]
+  }, 
+  {
+   "begin": "319.360", 
+   "children": [], 
+   "end": "321.080", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur abstrakt, "
+   ]
+  }, 
+  {
+   "begin": "321.080", 
+   "children": [], 
+   "end": "325.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "sondern mit klaren Schritten und konkreten Verbesserungen."
+   ]
+  }, 
+  {
+   "begin": "325.000", 
+   "children": [], 
+   "end": "327.600", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch die jungen Menschen m\u00fcssen sich bewegen. "
+   ]
+  }, 
+  {
+   "begin": "327.600", 
+   "children": [], 
+   "end": "335.440", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Insgesamt blieben zum 30.\u00a0September 2017 fast 50\u00a0000\u00a0Ausbildungsstellen unbesetzt. "
+   ]
+  }, 
+  {
+   "begin": "335.440", 
+   "children": [], 
+   "end": "340.640", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Zur gleichen Zeit standen fast 25\u00a0000\u00a0Jugendliche ohne Ausbildungsplatz da. "
+   ]
+  }, 
+  {
+   "begin": "340.640", 
+   "children": [], 
+   "end": "342.400", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "342.400", 
+   "children": [], 
+   "end": "344.280", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen den jungen Menschen sagen, "
+   ]
+  }, 
+  {
+   "begin": "344.280", 
+   "children": [], 
+   "end": "348.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "dass eine solide Ausbildung immer einen guten Start ins Leben bedeutet."
+   ]
+  }, 
+  {
+   "begin": "348.520", 
+   "children": [], 
+   "end": "356.720", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Denn die h\u00f6chste Arbeitslosigkeit haben wir dort, "
+   ]
+  }, 
+  {
+   "begin": "356.720", 
+   "children": [], 
+   "end": "361.880", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "wo Menschen ohne Schulabschluss und ohne Berufsabschluss unterwegs sind. "
+   ]
+  }, 
+  {
+   "begin": "361.880", 
+   "children": [], 
+   "end": "363.480", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Hier gilt es anzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "363.480", 
+   "children": [], 
+   "end": "365.800", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "und dazu werde ich meinen Beitrag leisten."
+   ]
+  }, 
+  {
+   "begin": "365.800", 
+   "children": [], 
+   "end": "372.080", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Flexibilit\u00e4t und Mobilit\u00e4t geh\u00f6ren zur Arbeitswirklichkeit der deutschen Wirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "372.080", 
+   "children": [], 
+   "end": "376.560", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Mit dieser Wirklichkeit m\u00fcssen wir auch die jungen Menschen vertraut machen, "
+   ]
+  }, 
+  {
+   "begin": "376.560", 
+   "children": [], 
+   "end": "382.360", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn sie h\u00e4ufig j\u00fcnger sind als Studierende und deshalb vielleicht etwas zur\u00fcckhaltender. "
+   ]
+  }, 
+  {
+   "begin": "382.360", 
+   "children": [], 
+   "end": "385.480", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Ausbildungspl\u00e4tze nicht am Heimatort angeboten werden, "
+   ]
+  }, 
+  {
+   "begin": "385.480", 
+   "children": [], 
+   "end": "387.400", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "gibt es zwei M\u00f6glichkeiten: "
+   ]
+  }, 
+  {
+   "begin": "387.400", 
+   "children": [], 
+   "end": "394.560", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "entweder das Wohnen in der N\u00e4he des Ausbildungsplatzes oder das t\u00e4gliche \u00dcberwinden der Wegstrecke. "
+   ]
+  }, 
+  {
+   "begin": "394.560", 
+   "children": [], 
+   "end": "399.440", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Hier sehe ich dringenden Bedarf f\u00fcr neue Anreize und werde nach guten L\u00f6sungen suchen."
+   ]
+  }, 
+  {
+   "begin": "399.440", 
+   "children": [], 
+   "end": "403.200", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Damit bin ich bei meinem zweiten Punkt. "
+   ]
+  }, 
+  {
+   "begin": "403.200", 
+   "children": [], 
+   "end": "406.240", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir die Ausbildung zukunftssicher machen wollen, "
+   ]
+  }, 
+  {
+   "begin": "406.240", 
+   "children": [], 
+   "end": "408.600", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "dann kommen wir um ein Thema nicht herum: "
+   ]
+  }, 
+  {
+   "begin": "408.600", 
+   "children": [], 
+   "end": "410.840", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "die Digitalisierung. "
+   ]
+  }, 
+  {
+   "begin": "410.840", 
+   "children": [], 
+   "end": "415.080", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Die Anforderungen an Arbeitnehmer in den klassischen Berufen ver\u00e4ndern sich, "
+   ]
+  }, 
+  {
+   "begin": "415.080", 
+   "children": [], 
+   "end": "416.880", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "neue Berufe entstehen. "
+   ]
+  }, 
+  {
+   "begin": "416.880", 
+   "children": [], 
+   "end": "421.120", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Die Berufsausbildung muss junge Menschen darauf vorbereiten. "
+   ]
+  }, 
+  {
+   "begin": "421.120", 
+   "children": [], 
+   "end": "424.120", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Viele Ausbildungsordnungen sind schon angepasst, "
+   ]
+  }, 
+  {
+   "begin": "424.120", 
+   "children": [], 
+   "end": "427.280", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "doch die Digitalisierung betrifft jeden Beruf. "
+   ]
+  }, 
+  {
+   "begin": "427.280", 
+   "children": [], 
+   "end": "433.040", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb werden wir die Modernisierung der Ausbildungsordnungen weiter gezielt vorantreiben."
+   ]
+  }, 
+  {
+   "begin": "433.040", 
+   "children": [], 
+   "end": "438.760", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Aus- "
+   ]
+  }, 
+  {
+   "begin": "438.760", 
+   "children": [], 
+   "end": "445.240", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "und Weiterbildung m\u00fcssen wir an der Geschwindigkeit des modernen Lebens und Arbeitens ausrichten. "
+   ]
+  }, 
+  {
+   "begin": "445.240", 
+   "children": [], 
+   "end": "448.320", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Es geht dabei einerseits um die Ausstattung. "
+   ]
+  }, 
+  {
+   "begin": "448.320", 
+   "children": [], 
+   "end": "452.280", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Gute Berufsausbildung braucht entsprechende Ausstattung in der Berufsschule. "
+   ]
+  }, 
+  {
+   "begin": "452.280", 
+   "children": [], 
+   "end": "456.960", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Der Fortschritt der Unternehmen muss sich in den Berufsschulen abbilden. "
+   ]
+  }, 
+  {
+   "begin": "456.960", 
+   "children": [], 
+   "end": "460.120", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Andererseits geht es um gut ausgebildete Lehrkr\u00e4fte, "
+   ]
+  }, 
+  {
+   "begin": "460.120", 
+   "children": [], 
+   "end": "464.200", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "die fachlich und didaktisch anspruchsvollen Unterricht machen. "
+   ]
+  }, 
+  {
+   "begin": "464.200", 
+   "children": [], 
+   "end": "465.560", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Berufsschulen sind Orte, "
+   ]
+  }, 
+  {
+   "begin": "465.560", 
+   "children": [], 
+   "end": "467.800", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "die in die moderne Arbeitswelt f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "467.800", 
+   "children": [], 
+   "end": "469.200", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "und das muss jeder sp\u00fcren, "
+   ]
+  }, 
+  {
+   "begin": "469.200", 
+   "children": [], 
+   "end": "469.800", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "der sie betritt."
+   ]
+  }, 
+  {
+   "begin": "469.800", 
+   "children": [], 
+   "end": "476.680", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Nun zum dritten Punkt. "
+   ]
+  }, 
+  {
+   "begin": "476.680", 
+   "children": [], 
+   "end": "479.800", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Die Ausbildungsbetriebsquote stagniert bzw. "
+   ]
+  }, 
+  {
+   "begin": "479.800", 
+   "children": [], 
+   "end": "482.200", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "ist 2017 leicht gefallen. "
+   ]
+  }, 
+  {
+   "begin": "482.200", 
+   "children": [], 
+   "end": "486.200", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Gerade der Anteil der Kleinstbetriebe nimmt ab. "
+   ]
+  }, 
+  {
+   "begin": "486.200", 
+   "children": [], 
+   "end": "487.480", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Ich werde mit der Wirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "487.480", 
+   "children": [], 
+   "end": "490.040", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "den Sozialpartnern und den L\u00e4ndern dar\u00fcber reden, "
+   ]
+  }, 
+  {
+   "begin": "490.040", 
+   "children": [], 
+   "end": "495.320", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "wie wir gerade auch wieder kleine und mittlere Betriebe f\u00fcr die Ausbildung begeistern k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "495.320", 
+   "children": [], 
+   "end": "497.680", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen ihnen gezielt helfen, "
+   ]
+  }, 
+  {
+   "begin": "497.680", 
+   "children": [], 
+   "end": "500.880", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "sich f\u00fcr die Ausbildung junger Menschen zu entscheiden. "
+   ]
+  }, 
+  {
+   "begin": "500.880", 
+   "children": [], 
+   "end": "504.720", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Gerade in kleinen Betrieben k\u00f6nnen junge Menschen die komplexe, "
+   ]
+  }, 
+  {
+   "begin": "504.720", 
+   "children": [], 
+   "end": "508.480", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "arbeitsteilige Wirtschaft h\u00e4ufig sehr gut kennenlernen. "
+   ]
+  }, 
+  {
+   "begin": "508.480", 
+   "children": [], 
+   "end": "511.520", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Kurzfristig wollen wir deshalb M\u00f6glichkeiten schaffen, "
+   ]
+  }, 
+  {
+   "begin": "511.520", 
+   "children": [], 
+   "end": "518.120", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "damit 6\u00a0000\u00a0Mitarbeiter in kleineren Betrieben eine Ausbilderqualifizierung mit Unterst\u00fctzung des Bundes erhalten."
+   ]
+  }, 
+  {
+   "begin": "518.120", 
+   "children": [], 
+   "end": "526.120", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem will ich den geplanten neuen Berufsbildungspakt und die Allianz f\u00fcr Aus- "
+   ]
+  }, 
+  {
+   "begin": "526.120", 
+   "children": [], 
+   "end": "528.800", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "und Weiterbildung nutzen. "
+   ]
+  }, 
+  {
+   "begin": "528.800", 
+   "children": [], 
+   "end": "530.280", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "Ich werde daf\u00fcr werben, "
+   ]
+  }, 
+  {
+   "begin": "530.280", 
+   "children": [], 
+   "end": "536.000", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "dass sich m\u00f6glichst viele Betriebe ihrer gesellschaftlichen Verantwortung stellen und gute, "
+   ]
+  }, 
+  {
+   "begin": "536.000", 
+   "children": [], 
+   "end": "538.560", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "attraktive Ausbildungspl\u00e4tze anbieten. "
+   ]
+  }, 
+  {
+   "begin": "538.560", 
+   "children": [], 
+   "end": "544.280", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Nur so werden wir zusammen den sich abzeichnenden massiven Fachkr\u00e4ftemangel meistern."
+   ]
+  }, 
+  {
+   "begin": "544.280", 
+   "children": [], 
+   "end": "546.920", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "546.920", 
+   "children": [], 
+   "end": "549.760", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "wir wollen die Berufsbildung neu denken. "
+   ]
+  }, 
+  {
+   "begin": "549.760", 
+   "children": [], 
+   "end": "552.240", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "Berufliche Bildung erm\u00f6glicht es uns Menschen, "
+   ]
+  }, 
+  {
+   "begin": "552.240", 
+   "children": [], 
+   "end": "553.720", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "uns zu entwickeln, "
+   ]
+  }, 
+  {
+   "begin": "553.720", 
+   "children": [], 
+   "end": "554.440", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "zu zeigen, "
+   ]
+  }, 
+  {
+   "begin": "554.440", 
+   "children": [], 
+   "end": "555.680", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "was in uns steckt, "
+   ]
+  }, 
+  {
+   "begin": "555.680", 
+   "children": [], 
+   "end": "559.120", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "und erfolgreich unsere beruflichen Wege zu gehen. "
+   ]
+  }, 
+  {
+   "begin": "559.120", 
+   "children": [], 
+   "end": "564.520", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "Berufliche Bildung h\u00f6rt nicht mit dem Ende der Erstausbildung im Jugendalter auf. "
+   ]
+  }, 
+  {
+   "begin": "564.520", 
+   "children": [], 
+   "end": "566.040", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "Mir ist es sehr wichtig, "
+   ]
+  }, 
+  {
+   "begin": "566.040", 
+   "children": [], 
+   "end": "568.800", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "dass alle Menschen lebenslang die M\u00f6glichkeit haben, "
+   ]
+  }, 
+  {
+   "begin": "568.800", 
+   "children": [], 
+   "end": "569.880", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "zu lernen, "
+   ]
+  }, 
+  {
+   "begin": "569.880", 
+   "children": [], 
+   "end": "571.880", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "und dass sie auch Freude daran haben: "
+   ]
+  }, 
+  {
+   "begin": "571.880", 
+   "children": [], 
+   "end": "572.680", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "in der Schule, "
+   ]
+  }, 
+  {
+   "begin": "572.680", 
+   "children": [], 
+   "end": "573.880", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "im Beruf, "
+   ]
+  }, 
+  {
+   "begin": "573.880", 
+   "children": [], 
+   "end": "577.080", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "im Privaten und bis ins hohe Alter. "
+   ]
+  }, 
+  {
+   "begin": "577.080", 
+   "children": [], 
+   "end": "584.160", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "Denn nur so er\u00f6ffnen sich f\u00fcr jeden in einer sich rasant ver\u00e4ndernden Welt Chancen f\u00fcr ein selbstbestimmtes Leben."
+   ]
+  }, 
+  {
+   "begin": "584.160", 
+   "children": [], 
+   "end": "585.200", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "585.200", 
+   "children": [], 
+   "end": "587.880", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin, "
+   ]
+  }, 
+  {
+   "begin": "587.880", 
+   "children": [], 
+   "end": "589.320", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "ganz herzlichen Dank an Sie.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "589.320", 
+   "children": [], 
+   "end": "593.000", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die AfD-Fraktion die Kollegin Nicole H\u00f6chst."
+   ]
+  }
+ ]
+}

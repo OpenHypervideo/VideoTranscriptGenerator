@@ -1,0 +1,924 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.001", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "0.001", 
+   "children": [], 
+   "end": "0.002", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "0.002", 
+   "children": [], 
+   "end": "1.120", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wir stimmen gleich \u00fcber den Einsatz EU NAVFOR Somalia Operation Atalanta ab. "
+   ]
+  }, 
+  {
+   "begin": "1.120", 
+   "children": [], 
+   "end": "2.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Einsatz findet im Rahmen der Europ\u00e4ischen Union statt. "
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "children": [], 
+   "end": "3.080", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Die EU ist eines derjenigen Milit\u00e4rb\u00fcndnisse, "
+   ]
+  }, 
+  {
+   "begin": "3.080", 
+   "children": [], 
+   "end": "8.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "das Sie als Bundesregierung f\u00fcr den Einsatz der Bundeswehr nutzen. "
+   ]
+  }, 
+  {
+   "begin": "8.160", 
+   "children": [], 
+   "end": "9.680", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Auslandseins\u00e4tze der Bundeswehr finden im Rahmen der NATO, "
+   ]
+  }, 
+  {
+   "begin": "9.680", 
+   "children": [], 
+   "end": "9.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "der EU, "
+   ]
+  }, 
+  {
+   "begin": "9.920", 
+   "children": [], 
+   "end": "9.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "der UN und\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "9.960", 
+   "children": [], 
+   "end": "11.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "entgegen des Urteils des Bundesverfassungsgerichts vom 12.\u00a0Juli 1994\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "children": [], 
+   "end": "13.400", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "auch rein national statt, "
+   ]
+  }, 
+  {
+   "begin": "13.400", 
+   "children": [], 
+   "end": "15.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "so wie der uns\u00e4gliche Einsatz zur Bewaffnung der Peschmerga, "
+   ]
+  }, 
+  {
+   "begin": "15.880", 
+   "children": [], 
+   "end": "17.280", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "der vor kurzem beendet wurde."
+   ]
+  }, 
+  {
+   "begin": "17.280", 
+   "children": [], 
+   "end": "17.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "17.520", 
+   "children": [], 
+   "end": "18.880", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben richtig geh\u00f6rt: "
+   ]
+  }, 
+  {
+   "begin": "18.880", 
+   "children": [], 
+   "end": "20.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Europ\u00e4ische Union ist ein Milit\u00e4rb\u00fcndnis; "
+   ]
+  }, 
+  {
+   "begin": "20.640", 
+   "children": [], 
+   "end": "21.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "das ist rein v\u00f6lkerrechtlich so. "
+   ]
+  }, 
+  {
+   "begin": "21.800", 
+   "children": [], 
+   "end": "22.080", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Wir kritisieren das. "
+   ]
+  }, 
+  {
+   "begin": "22.080", 
+   "children": [], 
+   "end": "24.360", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb wollen wir auch keine Milit\u00e4reins\u00e4tze im Rahmen der Europ\u00e4ischen Union, "
+   ]
+  }, 
+  {
+   "begin": "24.360", 
+   "children": [], 
+   "end": "25.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und wir wollen keinen Ausbau der milit\u00e4rischen Komponente der EU, "
+   ]
+  }, 
+  {
+   "begin": "25.920", 
+   "children": [], 
+   "end": "26.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wie er gerade mit der PESCO vorangetrieben wird. "
+   ]
+  }, 
+  {
+   "begin": "26.720", 
+   "children": [], 
+   "end": "27.440", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen gar keine milit\u00e4rische Komponente der Europ\u00e4ischen Union."
+   ]
+  }, 
+  {
+   "begin": "27.440", 
+   "children": [], 
+   "end": "29.560", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Um was geht es beim Einsatz EU NAVFOR Somalia Operation Atalanta? "
+   ]
+  }, 
+  {
+   "begin": "29.560", 
+   "children": [], 
+   "end": "32.160", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung schreibt es selbst in der Begr\u00fcndung ihres Antrags. "
+   ]
+  }, 
+  {
+   "begin": "32.160", 
+   "children": [], 
+   "end": "32.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich zitiere:"
+   ]
+  }, 
+  {
+   "begin": "32.280", 
+   "children": [], 
+   "end": "35.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Aufgrund der Globalisierung und der Zunahme des internationalen Handels sowie der Funktion des Golfs von Aden als Haupthandelsroute zwischen Europa, "
+   ]
+  }, 
+  {
+   "begin": "35.840", 
+   "children": [], 
+   "end": "37.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "der Arabischen Halbinsel und Asien ist die Sicherheit maritimer Transportwege f\u00fcr Deutschland und die Europ\u00e4ische Union von elementarer Bedeutung."
+   ]
+  }, 
+  {
+   "begin": "37.080", 
+   "children": [], 
+   "end": "39.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Franz Josef Jung hat es bei einer fr\u00fcheren Begr\u00fcndung f\u00fcr diesen Einsatz sehr viel offener formuliert: "
+   ]
+  }, 
+  {
+   "begin": "39.800", 
+   "children": [], 
+   "end": "42.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "\u201eWir sind auf einen freien Seehandel angewiesen.\u201c Herr L\u00f6bel hat gerade deutlich und klar erg\u00e4nzt, "
+   ]
+  }, 
+  {
+   "begin": "42.880", 
+   "children": [], 
+   "end": "43.880", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "was Horst K\u00f6hler, "
+   ]
+  }, 
+  {
+   "begin": "43.880", 
+   "children": [], 
+   "end": "44.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "ehemaliger Bundespr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "44.280", 
+   "children": [], 
+   "end": "44.960", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "gesagt hat: "
+   ]
+  }, 
+  {
+   "begin": "44.960", 
+   "children": [], 
+   "end": "47.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Offensichtlich geht es um die Sicherung von Handelswegen und den Zugang zu Rohstoffen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "47.600", 
+   "children": [], 
+   "end": "47.601", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "47.601", 
+   "children": [], 
+   "end": "47.602", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie das in Ihrer Begr\u00fcndung offen sagen. "
+   ]
+  }, 
+  {
+   "begin": "47.602", 
+   "children": [], 
+   "end": "47.603", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir sagen als Linke dazu: "
+   ]
+  }, 
+  {
+   "begin": "47.603", 
+   "children": [], 
+   "end": "47.604", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen nicht, "
+   ]
+  }, 
+  {
+   "begin": "47.604", 
+   "children": [], 
+   "end": "48.480", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bundeswehr zur Sicherung von Handelswegen und Rohstoffzug\u00e4ngen eingesetzt wird."
+   ]
+  }, 
+  {
+   "begin": "48.480", 
+   "children": [], 
+   "end": "49.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Offiziell geht es um Piratenangriffe, "
+   ]
+  }, 
+  {
+   "begin": "49.960", 
+   "children": [], 
+   "end": "51.200", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "schreibt die Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "51.200", 
+   "children": [], 
+   "end": "51.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "aber\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "51.280", 
+   "children": [], 
+   "end": "51.520", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "51.520", 
+   "children": [], 
+   "end": "54.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Von Mitte\u00a02014 bis Anfang\u00a02017 wurde am Horn von Afrika lediglich ein erfolgloser Piratenangriff registriert. "
+   ]
+  }, 
+  {
+   "begin": "54.480", 
+   "children": [], 
+   "end": "56.160", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Seit dem Fr\u00fchjahr\u00a02017 kommt es wieder in unregelm\u00e4\u00dfigen Abst\u00e4nden zu vereinzelten Piratenangriffen, "
+   ]
+  }, 
+  {
+   "begin": "56.160", 
+   "children": [], 
+   "end": "58.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "der letzte am 22.\u00a0Februar 2018."
+   ]
+  }, 
+  {
+   "begin": "58.000", 
+   "children": [], 
+   "end": "58.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Der Somalia-Experte Rashid Abdi sagt:"
+   ]
+  }, 
+  {
+   "begin": "58.640", 
+   "children": [], 
+   "end": "59.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "\u2026\u00a0die Milit\u00e4roperationen\u00a0\u2026 haben das Problem nur verlagert. "
+   ]
+  }, 
+  {
+   "begin": "59.720", 
+   "children": [], 
+   "end": "60.520", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Piratengruppen sind nicht aufgel\u00f6st, "
+   ]
+  }, 
+  {
+   "begin": "60.520", 
+   "children": [], 
+   "end": "60.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "sie existieren immer noch."
+   ]
+  }, 
+  {
+   "begin": "60.640", 
+   "children": [], 
+   "end": "61.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Und Jimcaale Maxamed aus Boosaaso sagt:"
+   ]
+  }, 
+  {
+   "begin": "61.120", 
+   "children": [], 
+   "end": "62.440", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Die Piraterie hat wegen der illegalen Fischerei begonnen."
+   ]
+  }, 
+  {
+   "begin": "62.440", 
+   "children": [], 
+   "end": "62.760", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Und Rashid Abdi:"
+   ]
+  }, 
+  {
+   "begin": "62.760", 
+   "children": [], 
+   "end": "63.880", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Europa sich nicht um die illegale Fischerei vor der somalischen K\u00fcste k\u00fcmmert, "
+   ]
+  }, 
+  {
+   "begin": "63.880", 
+   "children": [], 
+   "end": "64.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "best\u00e4tigt das nur das Vorurteil: "
+   ]
+  }, 
+  {
+   "begin": "64.480", 
+   "children": [], 
+   "end": "64.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Europa ist gleichg\u00fcltig, "
+   ]
+  }, 
+  {
+   "begin": "64.800", 
+   "children": [], 
+   "end": "65.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "solange keine Schiffe angegriffen werden."
+   ]
+  }, 
+  {
+   "begin": "65.080", 
+   "children": [], 
+   "end": "65.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Also, "
+   ]
+  }, 
+  {
+   "begin": "65.360", 
+   "children": [], 
+   "end": "65.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "65.560", 
+   "children": [], 
+   "end": "65.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die Piraterie kann es wirklich nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "65.880", 
+   "children": [], 
+   "end": "67.120", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "warum die Bundeswehr heute dort ist. "
+   ]
+  }, 
+  {
+   "begin": "67.120", 
+   "children": [], 
+   "end": "67.720", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Sonst w\u00e4re der Einsatz sinnlos, "
+   ]
+  }, 
+  {
+   "begin": "67.720", 
+   "children": [], 
+   "end": "68.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "was nat\u00fcrlich auch sein kann."
+   ]
+  }, 
+  {
+   "begin": "68.040", 
+   "children": [], 
+   "end": "69.320", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Begr\u00fcndung f\u00fcr einen Bundeswehreinsatz gegen Piraterie ist schlicht vorgeschoben."
+   ]
+  }, 
+  {
+   "begin": "69.320", 
+   "children": [], 
+   "end": "69.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Ich lese in der Begr\u00fcndung:"
+   ]
+  }, 
+  {
+   "begin": "69.560", 
+   "children": [], 
+   "end": "69.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Neben dem R\u00fcckgang der Piraterie zeigt der Jemen-Konflikt Auswirkungen auf die Sicherheit der Seewege, "
+   ]
+  }, 
+  {
+   "begin": "69.880", 
+   "children": [], 
+   "end": "71.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "wie beispielsweise die Zunahme von organisierter Kriminalit\u00e4t in Form von Schmuggel sowie illegaler Migration\u00a0\u2026"
+   ]
+  }, 
+  {
+   "begin": "71.000", 
+   "children": [], 
+   "end": "71.001", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Oha! "
+   ]
+  }, 
+  {
+   "begin": "71.001", 
+   "children": [], 
+   "end": "71.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Na, "
+   ]
+  }, 
+  {
+   "begin": "71.040", 
+   "children": [], 
+   "end": "71.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dann w\u00e4re doch mal eine Ma\u00dfnahme, "
+   ]
+  }, 
+  {
+   "begin": "71.600", 
+   "children": [], 
+   "end": "72.800", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "keine Waffen mehr zum Beispiel an Saudi-Arabien und die anderen Kriegskoalitionsstaaten zu liefern, "
+   ]
+  }, 
+  {
+   "begin": "72.800", 
+   "children": [], 
+   "end": "73.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "die den Jemen und seine Bev\u00f6lkerung barbarisch kaputtbomben."
+   ]
+  }, 
+  {
+   "begin": "73.080", 
+   "children": [], 
+   "end": "73.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Menschen vor diesem Krieg fliehen wollen, "
+   ]
+  }, 
+  {
+   "begin": "73.160", 
+   "children": [], 
+   "end": "73.360", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "werden sie als illegale Migranten diffamiert. "
+   ]
+  }, 
+  {
+   "begin": "73.360", 
+   "children": [], 
+   "end": "74.080", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Und was macht die GroKo? "
+   ]
+  }, 
+  {
+   "begin": "74.080", 
+   "children": [], 
+   "end": "74.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Sie liefert Patrouillenboote nach Saudi-Arabien, "
+   ]
+  }, 
+  {
+   "begin": "74.600", 
+   "children": [], 
+   "end": "75.800", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "die auch zur Seeblockade genutzt werden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "75.800", 
+   "children": [], 
+   "end": "75.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Eine Schande!"
+   ]
+  }, 
+  {
+   "begin": "75.960", 
+   "children": [], 
+   "end": "77.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Die USA f\u00fchren nach wie vor in Somalia einen Drohnenkrieg, "
+   ]
+  }, 
+  {
+   "begin": "77.200", 
+   "children": [], 
+   "end": "78.760", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "der sich enorm auf die dortige Situation auswirkt. "
+   ]
+  }, 
+  {
+   "begin": "78.760", 
+   "children": [], 
+   "end": "79.880", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Die Mission EUTM Somalia ist beendet worden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "79.880", 
+   "children": [], 
+   "end": "80.160", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "es ist die Schwestermission\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "80.160", 
+   "children": [], 
+   "end": "80.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "und das ist gut so."
+   ]
+  }, 
+  {
+   "begin": "80.600", 
+   "children": [], 
+   "end": "81.040", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Die Begr\u00fcndung sagt eigentlich, "
+   ]
+  }, 
+  {
+   "begin": "81.040", 
+   "children": [], 
+   "end": "81.440", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "um was es geht: "
+   ]
+  }, 
+  {
+   "begin": "81.440", 
+   "children": [], 
+   "end": "83.520", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Die milit\u00e4rische Ausbildung der somalischen Armee hat nicht funktioniert, "
+   ]
+  }, 
+  {
+   "begin": "83.520", 
+   "children": [], 
+   "end": "84.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "stattdessen sollte das politische Engagement in dem B\u00fcrgerkriegsland in den Mittelpunkt r\u00fccken."
+   ]
+  }, 
+  {
+   "begin": "84.640", 
+   "children": [], 
+   "end": "84.641", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Linke sagen: "
+   ]
+  }, 
+  {
+   "begin": "84.641", 
+   "children": [], 
+   "end": "84.642", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Beenden Sie diesen Einsatz der Bundeswehr in Somalia. "
+   ]
+  }, 
+  {
+   "begin": "84.642", 
+   "children": [], 
+   "end": "85.200", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Er ist nicht hilfreich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "85.200", 
+   "children": [], 
+   "end": "85.520", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "im Gegenteil!"
+   ]
+  }, 
+  {
+   "begin": "85.520", 
+   "children": [], 
+   "end": "85.560", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "85.560", 
+   "children": [], 
+   "end": "85.960", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen hat der Kollege Dr.\u00a0Tobias Lindner das Wort."
+   ]
+  }
+ ]
+}

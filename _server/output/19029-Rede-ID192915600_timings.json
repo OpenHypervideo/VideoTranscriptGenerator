@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "children": [], 
+   "end": "10.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "children": [], 
+   "end": "14.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte G\u00e4ste auf den Trib\u00fcnen!"
+   ]
+  }, 
+  {
+   "begin": "14.480", 
+   "children": [], 
+   "end": "27.400", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Einem der beiden Herren auf der Besuchertrib\u00fcne kann man zum Geburtstag gratulieren: "
+   ]
+  }, 
+  {
+   "begin": "27.400", 
+   "children": [], 
+   "end": "32.200", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Seit 0\u00a0Uhr hat er Geburtstag. "
+   ]
+  }, 
+  {
+   "begin": "32.200", 
+   "children": [], 
+   "end": "33.200", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Gl\u00fcckwunsch!"
+   ]
+  }, 
+  {
+   "begin": "33.200", 
+   "children": [], 
+   "end": "37.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Die Gr\u00fcnen m\u00f6chten das Kernkraftwerk Gundremmingen schlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "37.480", 
+   "children": [], 
+   "end": "39.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Da habe ich aufgehorcht. "
+   ]
+  }, 
+  {
+   "begin": "39.000", 
+   "children": [], 
+   "end": "43.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Immerhin ist Gundremmingen nur 80\u00a0Kilometer von meinem Zuhause entfernt. "
+   ]
+  }, 
+  {
+   "begin": "43.080", 
+   "children": [], 
+   "end": "44.560", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe mich gefragt: "
+   ]
+  }, 
+  {
+   "begin": "44.560", 
+   "children": [], 
+   "end": "46.280", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Gibt es dort St\u00f6rf\u00e4lle? "
+   ]
+  }, 
+  {
+   "begin": "46.280", 
+   "children": [], 
+   "end": "49.360", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Gibt es dort akute St\u00f6rungen? "
+   ]
+  }, 
+  {
+   "begin": "49.360", 
+   "children": [], 
+   "end": "49.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "49.920", 
+   "children": [], 
+   "end": "51.640", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "es gibt sie nicht. "
+   ]
+  }, 
+  {
+   "begin": "51.640", 
+   "children": [], 
+   "end": "56.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Gundremmingen erf\u00fcllt die Sicherheitsanforderungen und die Grenzwerte komplett. "
+   ]
+  }, 
+  {
+   "begin": "56.240", 
+   "children": [], 
+   "end": "60.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Aufsichtsbeh\u00f6rde in Bayern h\u00e4tte das Kraftwerk ja sonst bereits stillgelegt. "
+   ]
+  }, 
+  {
+   "begin": "60.640", 
+   "children": [], 
+   "end": "62.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wie man nachlesen kann, "
+   ]
+  }, 
+  {
+   "begin": "62.760", 
+   "children": [], 
+   "end": "65.720", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "ist das Kraftwerk so ausgelegt, "
+   ]
+  }, 
+  {
+   "begin": "65.720", 
+   "children": [], 
+   "end": "72.040", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass es einem Bemessungserdbeben standh\u00e4lt, "
+   ]
+  }, 
+  {
+   "begin": "72.040", 
+   "children": [], 
+   "end": "75.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wie es sich alle 100\u00a0000\u00a0Jahre einmal ereignet, "
+   ]
+  }, 
+  {
+   "begin": "75.920", 
+   "children": [], 
+   "end": "77.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "und einem Bemessungshochwasser, "
+   ]
+  }, 
+  {
+   "begin": "77.880", 
+   "children": [], 
+   "end": "80.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "wie es alle 10\u00a0000\u00a0Jahre einmal eintritt. "
+   ]
+  }, 
+  {
+   "begin": "80.200", 
+   "children": [], 
+   "end": "83.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Von daher ist man da etwas auf Panikmache aus. "
+   ]
+  }, 
+  {
+   "begin": "83.200", 
+   "children": [], 
+   "end": "83.720", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "83.720", 
+   "children": [], 
+   "end": "88.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wir sollten uns hier vern\u00fcnftig und pragmatisch an die Energiewende machen und die auch gestalten."
+   ]
+  }, 
+  {
+   "begin": "88.640", 
+   "children": [], 
+   "end": "92.080", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in Deutschland trotz des Endes der Kernenergie, "
+   ]
+  }, 
+  {
+   "begin": "92.080", 
+   "children": [], 
+   "end": "95.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "die wir eingel\u00e4utet haben, "
+   ]
+  }, 
+  {
+   "begin": "95.080", 
+   "children": [], 
+   "end": "99.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "immer noch hohe Sicherheitsstandards im Vergleich zu anderen L\u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "99.800", 
+   "children": [], 
+   "end": "105.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich ist Sicherheit im Hinblick auf Kernkraftwerke immer relativ. "
+   ]
+  }, 
+  {
+   "begin": "105.960", 
+   "children": [], 
+   "end": "109.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt keine 100\u2011prozentige Sicherheit. "
+   ]
+  }, 
+  {
+   "begin": "109.240", 
+   "children": [], 
+   "end": "113.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben es bei den Unf\u00e4llen in Tschernobyl und Fukushima gesehen; "
+   ]
+  }, 
+  {
+   "begin": "113.280", 
+   "children": [], 
+   "end": "115.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "da war nat\u00fcrlich jedes Opfer eines zu viel. "
+   ]
+  }, 
+  {
+   "begin": "115.360", 
+   "children": [], 
+   "end": "117.560", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das ist auch der Hauptgrund daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "117.560", 
+   "children": [], 
+   "end": "126.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass wir aus der Kernenergie ausgestiegen sind und die Energiewende beschleunigt haben."
+   ]
+  }, 
+  {
+   "begin": "126.680", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Atomkommission, "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "132.440", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "unter anderem von J\u00fcrgen Trittin geleitet, "
+   ]
+  }, 
+  {
+   "begin": "132.440", 
+   "children": [], 
+   "end": "136.280", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "hat erst 2016 einen ordentlichen Kompromiss gefunden. "
+   ]
+  }, 
+  {
+   "begin": "136.280", 
+   "children": [], 
+   "end": "144.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Im vergangenen Jahr hat der Bundestag dazu das Gesetz zur Neuordnung der Verantwortung in der kerntechnischen Entsorgung beschlossen. "
+   ]
+  }, 
+  {
+   "begin": "144.040", 
+   "children": [], 
+   "end": "149.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Die Verantwortung und die Verpflichtungen der Energieversorger wurden darin festgehalten. "
+   ]
+  }, 
+  {
+   "begin": "149.920", 
+   "children": [], 
+   "end": "156.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen liquide Mittel in einen \u00f6ffentlich-rechtlichen Fonds einzahlen und die Kernkraftwerke abbauen. "
+   ]
+  }, 
+  {
+   "begin": "156.000", 
+   "children": [], 
+   "end": "161.120", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Umgekehrt haben die Energieversorger mit dem Gesetz Planungssicherheit gewonnen. "
+   ]
+  }, 
+  {
+   "begin": "161.120", 
+   "children": [], 
+   "end": "162.560", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das ist auch wichtig. "
+   ]
+  }, 
+  {
+   "begin": "162.560", 
+   "children": [], 
+   "end": "165.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das eine ist nur mit dem anderen m\u00f6glich. "
+   ]
+  }, 
+  {
+   "begin": "165.800", 
+   "children": [], 
+   "end": "170.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Die Gr\u00fcnen haben diesen Kompromiss mit ausgearbeitet und ihm zugestimmt. "
+   ]
+  }, 
+  {
+   "begin": "170.040", 
+   "children": [], 
+   "end": "173.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Und jetzt versuchen sie durch das Hintert\u00fcrchen, "
+   ]
+  }, 
+  {
+   "begin": "173.120", 
+   "children": [], 
+   "end": "174.840", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "diesen wieder zu untergraben."
+   ]
+  }, 
+  {
+   "begin": "174.840", 
+   "children": [], 
+   "end": "177.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Das ist keine verl\u00e4ssliche Politik."
+   ]
+  }, 
+  {
+   "begin": "177.760", 
+   "children": [], 
+   "end": "180.520", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "In dem Antrag steht, "
+   ]
+  }, 
+  {
+   "begin": "180.520", 
+   "children": [], 
+   "end": "183.280", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass es von Anfang an eine Hybris gewesen sei, "
+   ]
+  }, 
+  {
+   "begin": "183.280", 
+   "children": [], 
+   "end": "186.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Kernkraft beherrschen zu wollen. "
+   ]
+  }, 
+  {
+   "begin": "186.200", 
+   "children": [], 
+   "end": "187.040", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Dem kann man\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "187.040", 
+   "children": [], 
+   "end": "187.400", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "nach allem, "
+   ]
+  }, 
+  {
+   "begin": "187.400", 
+   "children": [], 
+   "end": "190.320", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "was wir wissen und in der Vergangenheit erlebt haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "190.320", 
+   "children": [], 
+   "end": "191.200", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "zustimmen. "
+   ]
+  }, 
+  {
+   "begin": "191.200", 
+   "children": [], 
+   "end": "193.440", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Aber es ist mindestens ebenso eine Hybris, "
+   ]
+  }, 
+  {
+   "begin": "193.440", 
+   "children": [], 
+   "end": "194.080", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "zu glauben, "
+   ]
+  }, 
+  {
+   "begin": "194.080", 
+   "children": [], 
+   "end": "202.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "man k\u00f6nne von einem auf den anderen Tag aus Atomkraft und Kohlekraft aussteigen und nebenbei auch noch die Nachbarl\u00e4nder dazu zwingen."
+   ]
+  }, 
+  {
+   "begin": "202.720", 
+   "children": [], 
+   "end": "204.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Klar, "
+   ]
+  }, 
+  {
+   "begin": "204.520", 
+   "children": [], 
+   "end": "205.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wir m\u00fcssen alles tun, "
+   ]
+  }, 
+  {
+   "begin": "205.800", 
+   "children": [], 
+   "end": "207.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "was in unserer Macht steht, "
+   ]
+  }, 
+  {
+   "begin": "207.000", 
+   "children": [], 
+   "end": "211.200", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "wenn es ein Sicherheitsrisiko f\u00fcr unsere eigene Bev\u00f6lkerung gibt, "
+   ]
+  }, 
+  {
+   "begin": "211.200", 
+   "children": [], 
+   "end": "215.640", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel ein Kernkraftwerk mit Sicherheitsproblemen an der deutschen Grenze. "
+   ]
+  }, 
+  {
+   "begin": "215.640", 
+   "children": [], 
+   "end": "217.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Das tut unsere Bundesregierung bereits. "
+   ]
+  }, 
+  {
+   "begin": "217.720", 
+   "children": [], 
+   "end": "221.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Erstens gibt es allerdings durchaus unterschiedliche Einsch\u00e4tzungen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "221.960", 
+   "children": [], 
+   "end": "223.280", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "das haben wir heute auch schon geh\u00f6rt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "223.280", 
+   "children": [], 
+   "end": "225.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die Zust\u00e4nde der Kernkraftwerke. "
+   ]
+  }, 
+  {
+   "begin": "225.640", 
+   "children": [], 
+   "end": "228.240", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens muss man eingestehen, "
+   ]
+  }, 
+  {
+   "begin": "228.240", 
+   "children": [], 
+   "end": "232.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass man sich eben nicht so gerne Ratschl\u00e4ge von seinen Nachbarstaaten geben l\u00e4sst, "
+   ]
+  }, 
+  {
+   "begin": "232.560", 
+   "children": [], 
+   "end": "236.080", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wenn es um die nationale Energiepolitik geht. "
+   ]
+  }, 
+  {
+   "begin": "236.080", 
+   "children": [], 
+   "end": "237.920", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben keine rechtliche Handhabe. "
+   ]
+  }, 
+  {
+   "begin": "237.920", 
+   "children": [], 
+   "end": "244.240", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Einflussm\u00f6glichkeiten \u00fcber die EU und andere internationale Gremien sind begrenzt."
+   ]
+  }, 
+  {
+   "begin": "244.240", 
+   "children": [], 
+   "end": "244.680", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Umso schlimmer ist es, "
+   ]
+  }, 
+  {
+   "begin": "244.680", 
+   "children": [], 
+   "end": "248.520", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass die Gr\u00fcnen nun in der \u00d6ffentlichkeit den Eindruck erwecken wollen, "
+   ]
+  }, 
+  {
+   "begin": "248.520", 
+   "children": [], 
+   "end": "253.160", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "als k\u00f6nnten wir den Betrieb der Kernkraftwerke in Nachbarl\u00e4ndern wie Belgien verhindern. "
+   ]
+  }, 
+  {
+   "begin": "253.160", 
+   "children": [], 
+   "end": "258.400", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Immer wieder wird dazu zum Beispiel ein Stopp von Brennelementlieferungen aus Deutschland gefordert; "
+   ]
+  }, 
+  {
+   "begin": "258.400", 
+   "children": [], 
+   "end": "261.800", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "auch das habe ich heute schon geh\u00f6rt."
+   ]
+  }, 
+  {
+   "begin": "261.800", 
+   "children": [], 
+   "end": "264.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Es wird damit aber eine Hoffnung geweckt, "
+   ]
+  }, 
+  {
+   "begin": "264.000", 
+   "children": [], 
+   "end": "265.880", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "die nicht erf\u00fcllt werden kann. "
+   ]
+  }, 
+  {
+   "begin": "265.880", 
+   "children": [], 
+   "end": "266.120", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "266.120", 
+   "children": [], 
+   "end": "267.200", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "wir k\u00f6nnen uns bem\u00fchen, "
+   ]
+  }, 
+  {
+   "begin": "267.200", 
+   "children": [], 
+   "end": "269.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnen politischen Druck aufbauen. "
+   ]
+  }, 
+  {
+   "begin": "269.080", 
+   "children": [], 
+   "end": "271.480", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Aber eine echte Handhabe haben wir nicht. "
+   ]
+  }, 
+  {
+   "begin": "271.480", 
+   "children": [], 
+   "end": "277.840", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Brennelemente zum Betrieb der Anlagen kann man sich auch schlichtweg woanders auf dem Weltmarkt besorgen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "277.840", 
+   "children": [], 
+   "end": "280.160", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "ganz abgesehen davon, "
+   ]
+  }, 
+  {
+   "begin": "280.160", 
+   "children": [], 
+   "end": "286.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "dass wir auch hier europarechtlich gebunden sind."
+   ]
+  }, 
+  {
+   "begin": "286.000", 
+   "children": [], 
+   "end": "289.960", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Also lassen Sie uns nun die Kernkraft zu Ende bringen, "
+   ]
+  }, 
+  {
+   "begin": "289.960", 
+   "children": [], 
+   "end": "291.560", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "aber eben vern\u00fcnftig! "
+   ]
+  }, 
+  {
+   "begin": "291.560", 
+   "children": [], 
+   "end": "299.920", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Der Ausbau der erneuerbaren Energien kann nur Hand in Hand mit einem vern\u00fcnftigen Ausstieg aus der Kernkraft und aus der Kohlekraft gelingen. "
+   ]
+  }, 
+  {
+   "begin": "299.920", 
+   "children": [], 
+   "end": "302.480", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Planungssicherheit ist dabei besonders wichtig. "
+   ]
+  }, 
+  {
+   "begin": "302.480", 
+   "children": [], 
+   "end": "307.440", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen die B\u00fcrger und Unternehmen in unserem Land nicht \u00fcber Geb\u00fchr belasten."
+   ]
+  }, 
+  {
+   "begin": "307.440", 
+   "children": [], 
+   "end": "310.560", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie uns gemeinsam an der Energiewende arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "310.560", 
+   "children": [], 
+   "end": "313.560", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "unaufgeregt und unideologisch!"
+   ]
+  }, 
+  {
+   "begin": "313.560", 
+   "children": [], 
+   "end": "314.720", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "314.720", 
+   "children": [], 
+   "end": "325.960", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die SPD-Fraktion hat das Wort der Kollege Timon Gremmels."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,584 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.400", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "10.400", 
+   "children": [], 
+   "end": "14.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "children": [], 
+   "end": "17.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Berufsbildungsbericht legt viele Probleme offen, "
+   ]
+  }, 
+  {
+   "begin": "17.480", 
+   "children": [], 
+   "end": "19.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "die uns bereits seit vielen Jahren begleiten. "
+   ]
+  }, 
+  {
+   "begin": "19.840", 
+   "children": [], 
+   "end": "22.720", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Zwei wesentliche sind heute schon genannt worden: "
+   ]
+  }, 
+  {
+   "begin": "22.720", 
+   "children": [], 
+   "end": "26.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "die unbesetzten Ausbildungspl\u00e4tze und die Aufl\u00f6sungsquote."
+   ]
+  }, 
+  {
+   "begin": "26.960", 
+   "children": [], 
+   "end": "33.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Der Bericht zitiert Ursachen aus der Sicht der Azubis wie auch aus der Sicht der Ausbilder. "
+   ]
+  }, 
+  {
+   "begin": "33.240", 
+   "children": [], 
+   "end": "33.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Hier gilt es, "
+   ]
+  }, 
+  {
+   "begin": "33.680", 
+   "children": [], 
+   "end": "36.320", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "bei grundlegenden Themen anzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "36.320", 
+   "children": [], 
+   "end": "42.200", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Ein Schl\u00fcssel liegt sicherlich in der R\u00fcckkehr zu bew\u00e4hrten Tugenden wie Flei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "42.200", 
+   "children": [], 
+   "end": "43.120", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "P\u00fcnktlichkeit, "
+   ]
+  }, 
+  {
+   "begin": "43.120", 
+   "children": [], 
+   "end": "43.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ordnungssinn, "
+   ]
+  }, 
+  {
+   "begin": "43.800", 
+   "children": [], 
+   "end": "45.600", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Leistungswille und Respekt. "
+   ]
+  }, 
+  {
+   "begin": "45.600", 
+   "children": [], 
+   "end": "47.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Ein altes Sprichwort sagt nicht umsonst: "
+   ]
+  }, 
+  {
+   "begin": "47.360", 
+   "children": [], 
+   "end": "49.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Lehrjahre sind keine Herrenjahre!"
+   ]
+  }, 
+  {
+   "begin": "49.960", 
+   "children": [], 
+   "end": "51.440", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Erwartungshaltung, "
+   ]
+  }, 
+  {
+   "begin": "51.440", 
+   "children": [], 
+   "end": "54.920", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "mit immer weniger Aufwand immer mehr und schneller etwas zu erreichen, "
+   ]
+  }, 
+  {
+   "begin": "54.920", 
+   "children": [], 
+   "end": "56.640", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "ist ein Trugschluss, "
+   ]
+  }, 
+  {
+   "begin": "56.640", 
+   "children": [], 
+   "end": "58.760", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dem unser Nachwuchs nicht aufsitzen darf. "
+   ]
+  }, 
+  {
+   "begin": "58.760", 
+   "children": [], 
+   "end": "62.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Das muss zur\u00fcck in den Fokus der gesellschaftlichen Akzeptanz."
+   ]
+  }, 
+  {
+   "begin": "62.720", 
+   "children": [], 
+   "end": "64.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "So kann ich mich nur wundern, "
+   ]
+  }, 
+  {
+   "begin": "64.280", 
+   "children": [], 
+   "end": "66.600", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "dass es augenscheinlich bisher niemanden gab, "
+   ]
+  }, 
+  {
+   "begin": "66.600", 
+   "children": [], 
+   "end": "68.160", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "der den Fakt aufgegriffen hat, "
+   ]
+  }, 
+  {
+   "begin": "68.160", 
+   "children": [], 
+   "end": "76.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dass die vermeintlich so wunderbaren und tollen Matheergebnisse der zehnten Klassen letztens hier in Berlin am Ende dem Niveau der siebten Klasse in Bayern entsprachen. "
+   ]
+  }, 
+  {
+   "begin": "76.240", 
+   "children": [], 
+   "end": "77.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Es hilft also nicht, "
+   ]
+  }, 
+  {
+   "begin": "77.760", 
+   "children": [], 
+   "end": "80.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die Anforderungen zu reduzieren und mehr zu erwarten."
+   ]
+  }, 
+  {
+   "begin": "80.400", 
+   "children": [], 
+   "end": "87.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Lehrer und die Ausbilder sind nicht die Pr\u00fcgelknaben des Systems und nicht st\u00e4ndig daf\u00fcr verantwortlich, "
+   ]
+  }, 
+  {
+   "begin": "87.160", 
+   "children": [], 
+   "end": "88.280", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass es teilweise so ist, "
+   ]
+  }, 
+  {
+   "begin": "88.280", 
+   "children": [], 
+   "end": "89.320", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wie es ist. "
+   ]
+  }, 
+  {
+   "begin": "89.320", 
+   "children": [], 
+   "end": "92.240", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben stattdessen Respekt f\u00fcr eine Aufgabe verdient, "
+   ]
+  }, 
+  {
+   "begin": "92.240", 
+   "children": [], 
+   "end": "94.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die immer komplexer und anspruchsvoller wird. "
+   ]
+  }, 
+  {
+   "begin": "94.160", 
+   "children": [], 
+   "end": "95.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das Vermitteln\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "95.440", 
+   "children": [], 
+   "end": "97.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "das ist heute noch gar nicht angesprochen worden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "97.600", 
+   "children": [], 
+   "end": "103.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "von Sozialkompetenzen und Empathie muss zum einen diesen Damen und Herren zugestanden werden, "
+   ]
+  }, 
+  {
+   "begin": "103.960", 
+   "children": [], 
+   "end": "107.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "aber es muss zum anderen vor allem vom Elternhaus erwartet werden d\u00fcrfen."
+   ]
+  }, 
+  {
+   "begin": "107.760", 
+   "children": [], 
+   "end": "111.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Genauso wichtig ist die gesellschaftliche Anerkennung von Facharbeitern, "
+   ]
+  }, 
+  {
+   "begin": "111.320", 
+   "children": [], 
+   "end": "112.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Gesellen und Meistern. "
+   ]
+  }, 
+  {
+   "begin": "112.920", 
+   "children": [], 
+   "end": "115.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Es muss nicht immer das Studium sein; "
+   ]
+  }, 
+  {
+   "begin": "115.040", 
+   "children": [], 
+   "end": "116.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "denn Handwerk\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "116.160", 
+   "children": [], 
+   "end": "117.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "noch einmal ein altes Sprichwort\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "117.520", 
+   "children": [], 
+   "end": "119.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "hat auch heute noch goldene H\u00e4nde."
+   ]
+  }, 
+  {
+   "begin": "119.400", 
+   "children": [], 
+   "end": "127.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die R\u00fcckkehr zur Meisterpflicht zum Erhalt von Qualifikation und Qualit\u00e4t sowie zur Sicherstellung gerechter L\u00f6hne ist daher l\u00e4ngst \u00fcberf\u00e4llig. "
+   ]
+  }, 
+  {
+   "begin": "127.720", 
+   "children": [], 
+   "end": "131.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben ohne Not unsere weltweit anerkannten Ingenieurstudieng\u00e4nge gegen den Bachelor eingetauscht, "
+   ]
+  }, 
+  {
+   "begin": "131.960", 
+   "children": [], 
+   "end": "133.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "um hinterher festzustellen, "
+   ]
+  }, 
+  {
+   "begin": "133.720", 
+   "children": [], 
+   "end": "136.720", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass ohne nachgeschobenen Master nichts l\u00e4uft. "
+   ]
+  }, 
+  {
+   "begin": "136.720", 
+   "children": [], 
+   "end": "139.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Sich im Selbstfindungsprozess durchs Leben treiben zu lassen, "
+   ]
+  }, 
+  {
+   "begin": "139.880", 
+   "children": [], 
+   "end": "142.960", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4ngt uns im globalen Wettbewerb nur weiter ab."
+   ]
+  }, 
+  {
+   "begin": "142.960", 
+   "children": [], 
+   "end": "144.720", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wenn st\u00e4ndig dazwischengeredet wird, "
+   ]
+  }, 
+  {
+   "begin": "144.720", 
+   "children": [], 
+   "end": "147.680", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dann zeugt das vielleicht davon, "
+   ]
+  }, 
+  {
+   "begin": "147.680", 
+   "children": [], 
+   "end": "154.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass man ohne Berufsabschluss nach 40\u00a0Semestern Sozialp\u00e4dagogik oder dergleichen m\u00f6glicherweise hier landet."
+   ]
+  }, 
+  {
+   "begin": "154.480", 
+   "children": [], 
+   "end": "156.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen stattdessen klare Ziele, "
+   ]
+  }, 
+  {
+   "begin": "156.080", 
+   "children": [], 
+   "end": "157.400", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Stringenz und Ehrgeiz, "
+   ]
+  }, 
+  {
+   "begin": "157.400", 
+   "children": [], 
+   "end": "162.520", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "und das Ganze in zwingender Verkn\u00fcpfung mit unserem Status als Hochtechnologieland und in dem Bewusstsein, "
+   ]
+  }, 
+  {
+   "begin": "162.520", 
+   "children": [], 
+   "end": "164.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass wir lebenslang lernen."
+   ]
+  }, 
+  {
+   "begin": "164.520", 
+   "children": [], 
+   "end": "165.880", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "165.880", 
+   "children": [], 
+   "end": "167.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Mieruch, "
+   ]
+  }, 
+  {
+   "begin": "167.000", 
+   "children": [], 
+   "end": "168.440", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "168.440", 
+   "children": [], 
+   "end": "171.960", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die CDU/CSU-Fraktion die Kollegin Yvonne Magwas."
+   ]
+  }
+ ]
+}

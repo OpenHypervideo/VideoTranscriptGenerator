@@ -1,0 +1,654 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.680", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "20.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Ich stelle mir ein modernes Deutschland folgenderma\u00dfen vor: "
+   ]
+  }, 
+  {
+   "begin": "20.080", 
+   "children": [], 
+   "end": "22.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "keine Staus, "
+   ]
+  }, 
+  {
+   "begin": "22.360", 
+   "children": [], 
+   "end": "24.680", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "mehr Menschen in Z\u00fcgen, "
+   ]
+  }, 
+  {
+   "begin": "24.680", 
+   "children": [], 
+   "end": "27.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "mehr G\u00fcter auf der Schiene, "
+   ]
+  }, 
+  {
+   "begin": "27.480", 
+   "children": [], 
+   "end": "29.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "moderne Br\u00fccken und Stra\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "29.800", 
+   "children": [], 
+   "end": "32.080", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "durchdachte Fahrradwege, "
+   ]
+  }, 
+  {
+   "begin": "32.080", 
+   "children": [], 
+   "end": "35.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wasserwege mit funktionst\u00fcchtigen Schleusen, "
+   ]
+  }, 
+  {
+   "begin": "35.680", 
+   "children": [], 
+   "end": "39.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "eine sichere Ostseeautobahn A\u00a020, "
+   ]
+  }, 
+  {
+   "begin": "39.040", 
+   "children": [], 
+   "end": "45.400", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "einen funktionsf\u00e4higen neuen Flughafen in Berlin und einen fertigen Bahnhof in Stuttgart, "
+   ]
+  }, 
+  {
+   "begin": "45.400", 
+   "children": [], 
+   "end": "48.960", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber den man voller Freude mit der Bahn in alle Welt fahren kann."
+   ]
+  }, 
+  {
+   "begin": "48.960", 
+   "children": [], 
+   "end": "55.200", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Ein modernes Deutschland ist auf Notf\u00e4lle vorbereitet. "
+   ]
+  }, 
+  {
+   "begin": "55.200", 
+   "children": [], 
+   "end": "65.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Eine Tunnelhavarie wie 2017 in Rastatt mit anschlie\u00dfender 51-t\u00e4giger Streckensperrung der Rheintalbahn darf es nie wieder geben."
+   ]
+  }, 
+  {
+   "begin": "65.760", 
+   "children": [], 
+   "end": "72.800", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Unz\u00e4hlige Unternehmen standen pl\u00f6tzlich vor Lieferschwierigkeiten und Engp\u00e4ssen. "
+   ]
+  }, 
+  {
+   "begin": "72.800", 
+   "children": [], 
+   "end": "77.160", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Dringend ben\u00f6tigte Teile kamen nicht in den Fabriken an. "
+   ]
+  }, 
+  {
+   "begin": "77.160", 
+   "children": [], 
+   "end": "80.560", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Viele Produkte waren im Supermarkt nicht mehr erh\u00e4ltlich. "
+   ]
+  }, 
+  {
+   "begin": "80.560", 
+   "children": [], 
+   "end": "81.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Baustellen standen still, "
+   ]
+  }, 
+  {
+   "begin": "81.960", 
+   "children": [], 
+   "end": "84.040", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "weil Material nicht geliefert wurde. "
+   ]
+  }, 
+  {
+   "begin": "84.040", 
+   "children": [], 
+   "end": "88.760", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Pendler kamen nur unter widrigsten Umst\u00e4nden zur Arbeit. "
+   ]
+  }, 
+  {
+   "begin": "88.760", 
+   "children": [], 
+   "end": "93.520", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Viele Familien standen deshalb vor unl\u00f6sbaren Problemen. "
+   ]
+  }, 
+  {
+   "begin": "93.520", 
+   "children": [], 
+   "end": "97.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Die gesamte europ\u00e4ische Volkswirtschaft nahm Schaden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "97.200", 
+   "children": [], 
+   "end": "103.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "nach einem gerade erst ver\u00f6ffentlichten Gutachten in H\u00f6he von mindestens 2\u00a0Milliarden Euro."
+   ]
+  }, 
+  {
+   "begin": "103.960", 
+   "children": [], 
+   "end": "111.920", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Rastatt ist nur ein weiteres Symptom f\u00fcr die Probleme und auch den Zerfall der deutschen Infrastruktur. "
+   ]
+  }, 
+  {
+   "begin": "111.920", 
+   "children": [], 
+   "end": "115.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen daraus lernen und alles daf\u00fcr tun, "
+   ]
+  }, 
+  {
+   "begin": "115.400", 
+   "children": [], 
+   "end": "117.640", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dass es keine Wiederholung gibt."
+   ]
+  }, 
+  {
+   "begin": "117.640", 
+   "children": [], 
+   "end": "128.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb haben wir Freie Demokraten diesen Antrag zur Aufarbeitung und umgehenden Entwicklung von Notfallpl\u00e4nen gestellt. "
+   ]
+  }, 
+  {
+   "begin": "128.240", 
+   "children": [], 
+   "end": "130.160", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen genau wissen, "
+   ]
+  }, 
+  {
+   "begin": "130.160", 
+   "children": [], 
+   "end": "136.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wie es im August\u00a02017 zur Tunnelhavarie bei Rastatt kommen konnte. "
+   ]
+  }, 
+  {
+   "begin": "136.920", 
+   "children": [], 
+   "end": "138.360", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen genau wissen, "
+   ]
+  }, 
+  {
+   "begin": "138.360", 
+   "children": [], 
+   "end": "142.720", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "was die Bundesregierung und die Verantwortlichen der Deutschen Bahn taten, "
+   ]
+  }, 
+  {
+   "begin": "142.720", 
+   "children": [], 
+   "end": "149.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "um den Unfall aufzukl\u00e4ren und die Folgen der Streckensperrung zu managen. "
+   ]
+  }, 
+  {
+   "begin": "149.600", 
+   "children": [], 
+   "end": "152.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde es in diesem Zusammenhang ungeheuerlich, "
+   ]
+  }, 
+  {
+   "begin": "152.520", 
+   "children": [], 
+   "end": "162.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass weder der damalige Bundesverkehrsminister noch der Konzernvorstand der Deutschen Bahn sofort nach dem Vorfall die Unfallstelle besuchten."
+   ]
+  }, 
+  {
+   "begin": "162.120", 
+   "children": [], 
+   "end": "166.920", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Es kann doch nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "166.920", 
+   "children": [], 
+   "end": "170.520", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "dass die Verantwortlichen erst sechs Wochen sp\u00e4ter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.520", 
+   "children": [], 
+   "end": "173.080", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "einige Tage nach der Bundestagswahl\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "173.080", 
+   "children": [], 
+   "end": "175.160", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "in Rastatt aufkreuzten. "
+   ]
+  }, 
+  {
+   "begin": "175.160", 
+   "children": [], 
+   "end": "175.880", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Ein Schelm, "
+   ]
+  }, 
+  {
+   "begin": "175.880", 
+   "children": [], 
+   "end": "178.240", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "wer B\u00f6ses dabei denkt."
+   ]
+  }, 
+  {
+   "begin": "178.240", 
+   "children": [], 
+   "end": "182.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Fest steht f\u00fcr uns: "
+   ]
+  }, 
+  {
+   "begin": "182.000", 
+   "children": [], 
+   "end": "187.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen ein neues Krisenmanagement f\u00fcr die Deutsche Bahn und das gesamte deutsche Schienennetz. "
+   ]
+  }, 
+  {
+   "begin": "187.600", 
+   "children": [], 
+   "end": "192.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Vor einigen Tagen gab es wieder eine Absenkung in Rastatt. "
+   ]
+  }, 
+  {
+   "begin": "192.320", 
+   "children": [], 
+   "end": "198.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4re die Bahn auf einen zweiten und \u00e4hnlichen Unfall an der gleichen Stelle \u00fcberhaupt vorbereitet? "
+   ]
+  }, 
+  {
+   "begin": "198.400", 
+   "children": [], 
+   "end": "211.480", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen einen Plan f\u00fcr betriebsbereite Ausweichstrecken f\u00fcr G\u00fcterz\u00fcge im gesamten Bundesgebiet und mehr Kooperation mit den europ\u00e4ischen Nachbarl\u00e4ndern."
+   ]
+  }, 
+  {
+   "begin": "211.480", 
+   "children": [], 
+   "end": "211.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Und\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "211.880", 
+   "children": [], 
+   "end": "215.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "ich selbst komme aus der Region Karlsruhe\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "215.520", 
+   "children": [], 
+   "end": "222.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wir brauchen Gespr\u00e4che mit der franz\u00f6sischen und der schweizerischen Regierung zum Thema Rheintalbahn. "
+   ]
+  }, 
+  {
+   "begin": "222.640", 
+   "children": [], 
+   "end": "232.560", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen ein besseres bundesweites Management von Ausweichstrecken mit dem Zugsicherungssystem ETCS und die Digitalisierung des Schienennetzes insgesamt."
+   ]
+  }, 
+  {
+   "begin": "232.560", 
+   "children": [], 
+   "end": "239.520", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Bundesminister Scheuer\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "239.520", 
+   "children": [], 
+   "end": "240.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "schade, "
+   ]
+  }, 
+  {
+   "begin": "240.000", 
+   "children": [], 
+   "end": "244.440", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie der wichtigen Debatte heute fernbleiben\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "244.440", 
+   "children": [], 
+   "end": "246.760", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "machen Sie die offene, "
+   ]
+  }, 
+  {
+   "begin": "246.760", 
+   "children": [], 
+   "end": "254.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "l\u00fcckenlose und transparente Aufarbeitung von Rastatt zur Chefsache."
+   ]
+  }, 
+  {
+   "begin": "254.760", 
+   "children": [], 
+   "end": "256.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Um in Ihren Worten zu bleiben, "
+   ]
+  }, 
+  {
+   "begin": "256.840", 
+   "children": [], 
+   "end": "258.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Herr Bundesminister: "
+   ]
+  }, 
+  {
+   "begin": "258.280", 
+   "children": [], 
+   "end": "260.280", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Ich akzeptiere es nicht, "
+   ]
+  }, 
+  {
+   "begin": "260.280", 
+   "children": [], 
+   "end": "263.640", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "wenn es in diesem Falle keine Konsequenzen gibt."
+   ]
+  }, 
+  {
+   "begin": "263.640", 
+   "children": [], 
+   "end": "265.560", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Ich akzeptiere es nicht, "
+   ]
+  }, 
+  {
+   "begin": "265.560", 
+   "children": [], 
+   "end": "270.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "wenn es kein ausreichendes Notfallmanagement mit geeigneten Ausweichstrecken gibt. "
+   ]
+  }, 
+  {
+   "begin": "270.680", 
+   "children": [], 
+   "end": "272.600", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Ich akzeptiere es nicht, "
+   ]
+  }, 
+  {
+   "begin": "272.600", 
+   "children": [], 
+   "end": "276.400", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir in Deutschland nicht auf Ernstf\u00e4lle vorbereitet sind."
+   ]
+  }, 
+  {
+   "begin": "276.400", 
+   "children": [], 
+   "end": "291.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wir ben\u00f6tigen wieder das Vertrauen der Menschen und der europ\u00e4ischen Wirtschaft in den deutschen Schienenverkehr."
+   ]
+  }, 
+  {
+   "begin": "291.240", 
+   "children": [], 
+   "end": "293.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "293.880", 
+   "children": [], 
+   "end": "298.960", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Parlamentarische Staatssekret\u00e4r Steffen Bilger."
+   ]
+  }
+ ]
+}

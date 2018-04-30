@@ -1,0 +1,1314 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.680", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.680", 
+   "children": [], 
+   "end": "2.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "2.760", 
+   "children": [], 
+   "end": "3.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Es soll um Gerechtigkeit gehen,"
+   ]
+  }, 
+  {
+   "begin": "3.640", 
+   "children": [], 
+   "end": "3.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht um die gro\u00dfe, "
+   ]
+  }, 
+  {
+   "begin": "3.720", 
+   "children": [], 
+   "end": "3.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "die ganze Welt umfassende, "
+   ]
+  }, 
+  {
+   "begin": "3.760", 
+   "children": [], 
+   "end": "5.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "von der sehr h\u00e4ufig in diesem Hause die Rede ist. "
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "children": [], 
+   "end": "5.440", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Iustitia fiat, "
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "children": [], 
+   "end": "6.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "pereat mundus. "
+   ]
+  }, 
+  {
+   "begin": "6.040", 
+   "children": [], 
+   "end": "6.240", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Die Erde, "
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "children": [], 
+   "end": "6.760", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "oder zumindest dieses Land, "
+   ]
+  }, 
+  {
+   "begin": "6.760", 
+   "children": [], 
+   "end": "7.200", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6ge ruhig zugrunde gehen, "
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "children": [], 
+   "end": "7.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die Hauptsache ist, "
+   ]
+  }, 
+  {
+   "begin": "7.240", 
+   "children": [], 
+   "end": "7.800", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "es geschieht der Gerechtigkeit zuliebe."
+   ]
+  }, 
+  {
+   "begin": "7.800", 
+   "children": [], 
+   "end": "9.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Es soll um konkrete Gerechtigkeit gehen, "
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "children": [], 
+   "end": "10.560", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "die man in Zahlen ausdr\u00fccken kann. "
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "children": [], 
+   "end": "11.720", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Wir stellen uns einen Steuerpflichtigen vor, "
+   ]
+  }, 
+  {
+   "begin": "11.720", 
+   "children": [], 
+   "end": "13.000", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "der im Jahr\u00a00 ein zu versteuerndes Einkommen von 40\u00a0000\u00a0Euro hat. "
+   ]
+  }, 
+  {
+   "begin": "13.000", 
+   "children": [], 
+   "end": "15.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "In den anschlie\u00dfenden zw\u00f6lf Jahren erh\u00e4lt er j\u00e4hrlich eine Lohnerh\u00f6hung von jeweils 2\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "15.000", 
+   "children": [], 
+   "end": "17.680", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Vorgang soll begleitet sein von einer j\u00e4hrlichen Inflationsrate von ebenfalls 2\u00a0Prozent, "
+   ]
+  }, 
+  {
+   "begin": "17.680", 
+   "children": [], 
+   "end": "17.920", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "das Ideal der EZB, "
+   ]
+  }, 
+  {
+   "begin": "17.920", 
+   "children": [], 
+   "end": "18.160", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "was diese Preisstabilit\u00e4t nennt."
+   ]
+  }, 
+  {
+   "begin": "18.160", 
+   "children": [], 
+   "end": "19.000", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Im Jahr\u00a012 erreicht der Pflichtige, "
+   ]
+  }, 
+  {
+   "begin": "19.000", 
+   "children": [], 
+   "end": "19.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "wie das im Fachjargon hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "19.320", 
+   "children": [], 
+   "end": "19.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "dann ein Einkommen von gut 50\u00a0000\u00a0Euro. "
+   ]
+  }, 
+  {
+   "begin": "19.840", 
+   "children": [], 
+   "end": "20.160", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ohne dass er sich dessen bewusst ist, "
+   ]
+  }, 
+  {
+   "begin": "20.160", 
+   "children": [], 
+   "end": "20.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "hat er in der ganzen Zeit keinerlei realen Einkommenszuwachs erzielt; "
+   ]
+  }, 
+  {
+   "begin": "20.520", 
+   "children": [], 
+   "end": "21.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "denn die Inflation hat seine j\u00e4hrlichen nominalen Einkommenszuw\u00e4chse exakt neutralisiert. "
+   ]
+  }, 
+  {
+   "begin": "21.040", 
+   "children": [], 
+   "end": "22.080", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Sein Realeinkommen ist also genauso hoch wie zw\u00f6lf Jahre zuvor; "
+   ]
+  }, 
+  {
+   "begin": "22.080", 
+   "children": [], 
+   "end": "22.240", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wenigstens, "
+   ]
+  }, 
+  {
+   "begin": "22.240", 
+   "children": [], 
+   "end": "22.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "so glaubt er, "
+   ]
+  }, 
+  {
+   "begin": "22.480", 
+   "children": [], 
+   "end": "22.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wenn er die Wirkung der Inflation verstanden hat, "
+   ]
+  }, 
+  {
+   "begin": "22.880", 
+   "children": [], 
+   "end": "23.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "habe er seinen Lebensstandard erhalten."
+   ]
+  }, 
+  {
+   "begin": "23.320", 
+   "children": [], 
+   "end": "23.400", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt kommt die Lohn- "
+   ]
+  }, 
+  {
+   "begin": "23.400", 
+   "children": [], 
+   "end": "23.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "bzw. "
+   ]
+  }, 
+  {
+   "begin": "23.680", 
+   "children": [], 
+   "end": "24.360", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Einkommensteuer ins Spiel. "
+   ]
+  }, 
+  {
+   "begin": "24.360", 
+   "children": [], 
+   "end": "24.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Sie nimmt keinen Bezug auf die unver\u00e4nderte wirtschaftliche Leistungsf\u00e4higkeit des Pflichtigen. "
+   ]
+  }, 
+  {
+   "begin": "24.800", 
+   "children": [], 
+   "end": "25.240", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Die Einkommensteuer tut stattdessen so, "
+   ]
+  }, 
+  {
+   "begin": "25.240", 
+   "children": [], 
+   "end": "26.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "als h\u00e4tte der gutgl\u00e4ubige Mensch Jahr f\u00fcr Jahr tats\u00e4chliche Lohnzuw\u00e4chse gehabt und w\u00fcrde nunmehr im Jahr\u00a012 ein Einkommen erzielen, "
+   ]
+  }, 
+  {
+   "begin": "26.720", 
+   "children": [], 
+   "end": "28.280", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "das 25\u00a0Prozent h\u00f6her liege als im Jahr\u00a00. "
+   ]
+  }, 
+  {
+   "begin": "28.280", 
+   "children": [], 
+   "end": "29.520", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die 800 bis 1\u00a0000\u00a0Euro, "
+   ]
+  }, 
+  {
+   "begin": "29.520", 
+   "children": [], 
+   "end": "30.120", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "die der Steuerb\u00fcrger j\u00e4hrlich auf dem Papier zus\u00e4tzlich verdiente, "
+   ]
+  }, 
+  {
+   "begin": "30.120", 
+   "children": [], 
+   "end": "32.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "behandelt der Steuerfiskus wie reales zus\u00e4tzliches Einkommen und besteuert sie mit etwa 40\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "32.640", 
+   "children": [], 
+   "end": "33.640", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "33.640", 
+   "children": [], 
+   "end": "34.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "der arme Mann verliert j\u00e4hrlich etwa 300\u00a0Euro an Kaufkraft, "
+   ]
+  }, 
+  {
+   "begin": "34.240", 
+   "children": [], 
+   "end": "35.240", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die zw\u00f6lf Jahre also fast 4\u00a0000\u00a0Euro."
+   ]
+  }, 
+  {
+   "begin": "35.240", 
+   "children": [], 
+   "end": "35.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ganz praktisch. "
+   ]
+  }, 
+  {
+   "begin": "35.760", 
+   "children": [], 
+   "end": "37.520", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Kaufkraft ist so unheimlich praktisch; "
+   ]
+  }, 
+  {
+   "begin": "37.520", 
+   "children": [], 
+   "end": "37.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "ich wei\u00df gar nicht, "
+   ]
+  }, 
+  {
+   "begin": "37.920", 
+   "children": [], 
+   "end": "38.080", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "ob Sie sich das vorstellen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "38.080", 
+   "children": [], 
+   "end": "39.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Das besonders Ungerechte daran ist, "
+   ]
+  }, 
+  {
+   "begin": "39.200", 
+   "children": [], 
+   "end": "39.800", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass dieser Effekt nur die Menschen betrifft, "
+   ]
+  }, 
+  {
+   "begin": "39.800", 
+   "children": [], 
+   "end": "42.160", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "die ein Einkommen bis 53\u00a0000\u00a0Euro erzielen; "
+   ]
+  }, 
+  {
+   "begin": "42.160", 
+   "children": [], 
+   "end": "44.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "denn h\u00f6heres Einkommen wird einheitlich linear mit circa 45\u00a0Prozent besteuert. "
+   ]
+  }, 
+  {
+   "begin": "44.080", 
+   "children": [], 
+   "end": "45.040", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Diese Population ist nicht betroffen."
+   ]
+  }, 
+  {
+   "begin": "45.040", 
+   "children": [], 
+   "end": "45.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Dies alles passiert, "
+   ]
+  }, 
+  {
+   "begin": "45.720", 
+   "children": [], 
+   "end": "47.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "ohne dass der Gesetzgeber \u00f6ffentlich sichtbar t\u00e4tig wird. "
+   ]
+  }, 
+  {
+   "begin": "47.760", 
+   "children": [], 
+   "end": "49.800", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Die GroKo schreibt daher, "
+   ]
+  }, 
+  {
+   "begin": "49.800", 
+   "children": [], 
+   "end": "51.880", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "diese weitverbreitete Unwissenheit gutgl\u00e4ubiger Menschen ausnutzend, "
+   ]
+  }, 
+  {
+   "begin": "51.880", 
+   "children": [], 
+   "end": "53.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "in Zeile\u00a02\u00a0437 ihres Vertrages:"
+   ]
+  }, 
+  {
+   "begin": "53.960", 
+   "children": [], 
+   "end": "54.600", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden die Steuerbelastung der B\u00fcrger nicht erh\u00f6hen."
+   ]
+  }, 
+  {
+   "begin": "54.600", 
+   "children": [], 
+   "end": "54.601", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Sie tut dies, "
+   ]
+  }, 
+  {
+   "begin": "54.601", 
+   "children": [], 
+   "end": "62.640", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "obwohl sich zwischen 2011 und 2016 durch heimliche Steuererh\u00f6hungen die Staatseinnahmen um 33,5\u00a0Milliarden Euro erh\u00f6ht haben und von 2017 bis 2030 um 315\u00a0Milliarden Euro erh\u00f6hen werden."
+   ]
+  }, 
+  {
+   "begin": "62.640", 
+   "children": [], 
+   "end": "62.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Die Botschaft, "
+   ]
+  }, 
+  {
+   "begin": "62.920", 
+   "children": [], 
+   "end": "65.920", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ohne Steuererh\u00f6hungen die n\u00e4chsten vier Jahre regieren zu wollen, "
+   ]
+  }, 
+  {
+   "begin": "65.920", 
+   "children": [], 
+   "end": "66.160", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "ist ein Fake."
+   ]
+  }, 
+  {
+   "begin": "66.160", 
+   "children": [], 
+   "end": "67.680", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Im Netz m\u00fcsste der \u201eWahrheitsminister\u201c diesen Fake l\u00f6schen lassen."
+   ]
+  }, 
+  {
+   "begin": "67.680", 
+   "children": [], 
+   "end": "68.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag steht:"
+   ]
+  }, 
+  {
+   "begin": "68.040", 
+   "children": [], 
+   "end": "68.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Wir halten an der bew\u00e4hrten \u00dcbung fest, "
+   ]
+  }, 
+  {
+   "begin": "68.200", 
+   "children": [], 
+   "end": "70.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "alle zwei Jahre einen Bericht zur Entwicklung der kalten Progression vorzulegen und den Einkommensteuertarif im Anschluss entsprechend zu bereinigen."
+   ]
+  }, 
+  {
+   "begin": "70.480", 
+   "children": [], 
+   "end": "70.481", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "H\u00f6rt! "
+   ]
+  }, 
+  {
+   "begin": "70.481", 
+   "children": [], 
+   "end": "70.482", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "H\u00f6rt! "
+   ]
+  }, 
+  {
+   "begin": "70.482", 
+   "children": [], 
+   "end": "70.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Von dieser \u00dcbung ist bisher nichts bekannt geworden,"
+   ]
+  }, 
+  {
+   "begin": "70.800", 
+   "children": [], 
+   "end": "71.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "wenngleich CDU und FDP seit vielen Jahren dies in ihren Wahlprogrammen versprochen, "
+   ]
+  }, 
+  {
+   "begin": "71.040", 
+   "children": [], 
+   "end": "71.280", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "aber niemals gehalten haben."
+   ]
+  }, 
+  {
+   "begin": "71.280", 
+   "children": [], 
+   "end": "72.160", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Wenn Sie am Kinderfreibetrag rumgefummelt haben oder sonst was, "
+   ]
+  }, 
+  {
+   "begin": "72.160", 
+   "children": [], 
+   "end": "73.560", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "ist das eine v\u00f6llig andere Geschichte."
+   ]
+  }, 
+  {
+   "begin": "73.560", 
+   "children": [], 
+   "end": "77.840", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Der Sachverst\u00e4ndigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung schreibt in seinem Jahresgutachten\u00a02017/2018\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "77.840", 
+   "children": [], 
+   "end": "78.040", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "78.040", 
+   "children": [], 
+   "end": "79.680", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Mit einer Tarifreform der Einkommensteuer sollten Mehreinnahmen aus der Kalten Progression zur\u00fcckgegeben werden."
+   ]
+  }, 
+  {
+   "begin": "79.680", 
+   "children": [], 
+   "end": "81.240", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Zumal \u201evor allem die Bezieher mittlerer Einkommen\u201c durch sie belastet werden."
+   ]
+  }, 
+  {
+   "begin": "81.240", 
+   "children": [], 
+   "end": "81.480", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Neben diesen heimlichen Steuererh\u00f6hungen durch gesetzgeberische Unterlassung plant die neue Regierung weitere Steuererh\u00f6hungen durch aktive Gesetzes\u00e4nderungen. "
+   ]
+  }, 
+  {
+   "begin": "81.480", 
+   "children": [], 
+   "end": "86.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Sie will die Abgeltungsteuer auf Zinsertr\u00e4ge abschaffen und damit die ohnehin unwirtschaftlichen Zinserl\u00f6se der Sparer einem individuell h\u00f6heren Steuersatz unterwerfen. "
+   ]
+  }, 
+  {
+   "begin": "86.600", 
+   "children": [], 
+   "end": "86.601", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Den enteignenden Null- "
+   ]
+  }, 
+  {
+   "begin": "86.601", 
+   "children": [], 
+   "end": "87.960", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "und Minizinsen der EZB f\u00fcr alle Formen der Geldanlagen will diese Regierung noch eine zus\u00e4tzlich enteignende Besteuerung hinzuf\u00fcgen. "
+   ]
+  }, 
+  {
+   "begin": "87.960", 
+   "children": [], 
+   "end": "88.360", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Und dies alles mit der Behauptung: "
+   ]
+  }, 
+  {
+   "begin": "88.360", 
+   "children": [], 
+   "end": "89.160", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden keine Mauer bauen, "
+   ]
+  }, 
+  {
+   "begin": "89.160", 
+   "children": [], 
+   "end": "89.320", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Entschuldigung, "
+   ]
+  }, 
+  {
+   "begin": "89.320", 
+   "children": [], 
+   "end": "89.520", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "wir werden die Steuerbelastung der B\u00fcrger nicht erh\u00f6hen."
+   ]
+  }, 
+  {
+   "begin": "89.520", 
+   "children": [], 
+   "end": "90.720", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Und was sagt der Sachverst\u00e4ndigenrat hierzu? "
+   ]
+  }, 
+  {
+   "begin": "90.720", 
+   "children": [], 
+   "end": "90.721", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Ich zitiere: "
+   ]
+  }, 
+  {
+   "begin": "90.721", 
+   "children": [], 
+   "end": "93.080", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "\u201eDer Sachverst\u00e4ndigenrat spricht sich\u201c ausdr\u00fccklich \u201egegen die Abschaffung der Abgeltungsteuer\u00a0\u2026 aus.\u201c"
+   ]
+  }, 
+  {
+   "begin": "93.080", 
+   "children": [], 
+   "end": "96.040", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Zus\u00e4tzlich h\u00e4lt die neue GroKo \u201ean dem bisherigen Ziel der Einf\u00fchrung einer Finanztransaktionsteuer\u00a0\u2026 fest\u201c, "
+   ]
+  }, 
+  {
+   "begin": "96.040", 
+   "children": [], 
+   "end": "96.480", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "wie sie im Koalitionsvertrag schreibt. "
+   ]
+  }, 
+  {
+   "begin": "96.480", 
+   "children": [], 
+   "end": "99.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein weiterer Plan zur Steuererh\u00f6hung durch Neuerfindung einer Steuer."
+   ]
+  }, 
+  {
+   "begin": "99.000", 
+   "children": [], 
+   "end": "101.680", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden also im ungl\u00fccklichsten Falle vier Jahre massiver Steuererh\u00f6hungen erleben, "
+   ]
+  }, 
+  {
+   "begin": "101.680", 
+   "children": [], 
+   "end": "103.000", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "statt Gerechtigkeit und finanzwirtschaftlicher Vernunft konfiskatorische Begehrlichkeit."
+   ]
+  }, 
+  {
+   "begin": "103.000", 
+   "children": [], 
+   "end": "104.840", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Dies alles l\u00e4uft ab vor dem Hintergrund einer sprudelnden Einkommensteuer, "
+   ]
+  }, 
+  {
+   "begin": "104.840", 
+   "children": [], 
+   "end": "105.240", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "der gr\u00f6\u00dften Einnahmequelle dieses Gesamtstaates, "
+   ]
+  }, 
+  {
+   "begin": "105.240", 
+   "children": [], 
+   "end": "106.680", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "die nicht zuletzt wegen der kalten Progression sprudelt. "
+   ]
+  }, 
+  {
+   "begin": "106.680", 
+   "children": [], 
+   "end": "110.200", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4hrend das Wirtschaftswachstum von 2006 bis 2016 j\u00e4hrlich durchschnittlich nur 1,3\u00a0Prozent betrug\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "110.200", 
+   "children": [], 
+   "end": "110.320", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "also ein Boom, "
+   ]
+  }, 
+  {
+   "begin": "110.320", 
+   "children": [], 
+   "end": "110.321", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "wie wir seit Tagen, "
+   ]
+  }, 
+  {
+   "begin": "110.321", 
+   "children": [], 
+   "end": "110.400", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Wochen und Monaten h\u00f6ren\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "110.400", 
+   "children": [], 
+   "end": "113.680", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "stieg das Aufkommen der Einkommensteuer zwischen 2010 und 2016 j\u00e4hrlich um 5 bis 8\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "113.680", 
+   "children": [], 
+   "end": "114.360", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Das f\u00fchrte dazu, "
+   ]
+  }, 
+  {
+   "begin": "114.360", 
+   "children": [], 
+   "end": "116.840", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "dass das Aufkommen der Einkommensteuer in diesem kurzen Zeitraum um 50\u00a0Prozent angewachsen ist."
+   ]
+  }, 
+  {
+   "begin": "116.840", 
+   "children": [], 
+   "end": "120.840", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Die heimlichen Steuererh\u00f6hungen zur \u00fcberproportionalen Staatsfinanzierung sind naturgem\u00e4\u00df seit Jahrzehnten Thema in vielen Staaten. "
+   ]
+  }, 
+  {
+   "begin": "120.840", 
+   "children": [], 
+   "end": "121.840", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Gut funktionierende Demokratien haben seit langem L\u00f6sungen gefunden. "
+   ]
+  }, 
+  {
+   "begin": "121.840", 
+   "children": [], 
+   "end": "124.160", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Die klassische und angemessene L\u00f6sung ist die j\u00e4hrliche Indexierung der Tarife und der Freibetr\u00e4ge. "
+   ]
+  }, 
+  {
+   "begin": "124.160", 
+   "children": [], 
+   "end": "125.200", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben eine \u00dcberpr\u00fcfung angesprochen; "
+   ]
+  }, 
+  {
+   "begin": "125.200", 
+   "children": [], 
+   "end": "125.480", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "wir sind sehr gespannt, "
+   ]
+  }, 
+  {
+   "begin": "125.480", 
+   "children": [], 
+   "end": "126.400", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie das machen werden. "
+   ]
+  }, 
+  {
+   "begin": "126.400", 
+   "children": [], 
+   "end": "127.880", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "In der Schweiz ist das bereits qua B\u00fcrgerentscheid in der Verfassung so geregelt. "
+   ]
+  }, 
+  {
+   "begin": "127.880", 
+   "children": [], 
+   "end": "128.040", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch die USA, "
+   ]
+  }, 
+  {
+   "begin": "128.040", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Kanada, "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "128.160", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Schweden, "
+   ]
+  }, 
+  {
+   "begin": "128.160", 
+   "children": [], 
+   "end": "128.161", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Norwegen, "
+   ]
+  }, 
+  {
+   "begin": "128.161", 
+   "children": [], 
+   "end": "128.162", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Gro\u00dfbritannien, "
+   ]
+  }, 
+  {
+   "begin": "128.162", 
+   "children": [], 
+   "end": "128.163", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Frankreich und die Niederlande haben solche L\u00f6sungen. "
+   ]
+  }, 
+  {
+   "begin": "128.163", 
+   "children": [], 
+   "end": "128.164", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Wir befinden uns mit Italien und Griechenland im Klub der Etatisten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "128.164", 
+   "children": [], 
+   "end": "128.165", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "keine guten Vorbilder, "
+   ]
+  }, 
+  {
+   "begin": "128.165", 
+   "children": [], 
+   "end": "128.320", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "128.320", 
+   "children": [], 
+   "end": "129.240", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Die AfD fordert daher: "
+   ]
+  }, 
+  {
+   "begin": "129.240", 
+   "children": [], 
+   "end": "130.760", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Schluss mit dieser Form schlechter Staatsf\u00fchrung. "
+   ]
+  }, 
+  {
+   "begin": "130.760", 
+   "children": [], 
+   "end": "131.800", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Heimliche Steuererh\u00f6hungen sind unmoralisch, "
+   ]
+  }, 
+  {
+   "begin": "131.800", 
+   "children": [], 
+   "end": "132.160", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "also m\u00fcssen sie unterbunden werden."
+   ]
+  }, 
+  {
+   "begin": "132.160", 
+   "children": [], 
+   "end": "132.600", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Wir bitten um Zustimmung zu unserem Antrag, "
+   ]
+  }, 
+  {
+   "begin": "132.600", 
+   "children": [], 
+   "end": "133.040", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "gerne nach Beratung im Ausschuss."
+   ]
+  }, 
+  {
+   "begin": "133.040", 
+   "children": [], 
+   "end": "134.320", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "134.320", 
+   "children": [], 
+   "end": "135.520", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Dr.\u00a0Hans Michelbach, "
+   ]
+  }, 
+  {
+   "begin": "135.520", 
+   "children": [], 
+   "end": "136.000", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,374 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "12.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Der Tarif auf R\u00e4dern ist ja eine sehr beliebte Idee. "
+   ]
+  }, 
+  {
+   "begin": "12.360", 
+   "children": [], 
+   "end": "14.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Tarif auf R\u00e4dern w\u00fcrde hei\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "14.440", 
+   "children": [], 
+   "end": "20.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "dass ich einen Steuertarif an den Inflationsindex koppele."
+   ]
+  }, 
+  {
+   "begin": "20.360", 
+   "children": [], 
+   "end": "21.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Das habe ich verstanden, "
+   ]
+  }, 
+  {
+   "begin": "21.560", 
+   "children": [], 
+   "end": "25.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "vielen Dank f\u00fcr die Zustimmung.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "25.360", 
+   "children": [], 
+   "end": "31.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "In einer Volkswirtschaft gibt es aber nicht nur Steuern und nicht nur die Inflation, "
+   ]
+  }, 
+  {
+   "begin": "31.160", 
+   "children": [], 
+   "end": "32.960", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "sondern es gibt auch L\u00f6hne, "
+   ]
+  }, 
+  {
+   "begin": "32.960", 
+   "children": [], 
+   "end": "34.640", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Rohstoffpreise und noch viel mehr. "
+   ]
+  }, 
+  {
+   "begin": "34.640", 
+   "children": [], 
+   "end": "38.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ich mache einmal die Parameterschar auf und schalte in einen wissenschaftlichen Modus um. "
+   ]
+  }, 
+  {
+   "begin": "38.680", 
+   "children": [], 
+   "end": "42.600", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie eine Parameterschar haben und in dieser Parameterschar\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "42.600", 
+   "children": [], 
+   "end": "44.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "die Parameter sind nicht linear unabh\u00e4ngig voneinander\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "44.800", 
+   "children": [], 
+   "end": "48.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die Definition eines Parameters an den anderen koppeln, "
+   ]
+  }, 
+  {
+   "begin": "48.000", 
+   "children": [], 
+   "end": "49.200", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dann ist v\u00f6llig klar: "
+   ]
+  }, 
+  {
+   "begin": "49.200", 
+   "children": [], 
+   "end": "51.440", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Um das Ziel der Indexierung zu erreichen, "
+   ]
+  }, 
+  {
+   "begin": "51.440", 
+   "children": [], 
+   "end": "53.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "geht das auf Kosten aller\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "53.000", 
+   "children": [], 
+   "end": "53.720", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6glicherweise, "
+   ]
+  }, 
+  {
+   "begin": "53.720", 
+   "children": [], 
+   "end": "54.880", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "nicht notwendigerweise\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "54.880", 
+   "children": [], 
+   "end": "57.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "oder zumindest vieler anderer Parameter. "
+   ]
+  }, 
+  {
+   "begin": "57.000", 
+   "children": [], 
+   "end": "57.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "57.440", 
+   "children": [], 
+   "end": "61.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die Leistungsf\u00e4higkeit des Gesamtsystems sinkt. "
+   ]
+  }, 
+  {
+   "begin": "61.280", 
+   "children": [], 
+   "end": "64.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Um Ihrem Parameter sozusagen Folge zu leisten, "
+   ]
+  }, 
+  {
+   "begin": "64.040", 
+   "children": [], 
+   "end": "66.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "verschlechtern Sie das Gesamtsystem, "
+   ]
+  }, 
+  {
+   "begin": "66.280", 
+   "children": [], 
+   "end": "68.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und das ist eine riesengro\u00dfe Gefahr."
+   ]
+  }, 
+  {
+   "begin": "68.320", 
+   "children": [], 
+   "end": "73.600", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Ein gutes Beispiel daf\u00fcr war die Koppelung der L\u00f6hne an die Inflation in Italien. "
+   ]
+  }, 
+  {
+   "begin": "73.600", 
+   "children": [], 
+   "end": "75.000", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die Scala mobile, "
+   ]
+  }, 
+  {
+   "begin": "75.000", 
+   "children": [], 
+   "end": "77.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "was ja \u00fcbersetzt \u201eRolltreppe\u201c hei\u00dft\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "77.880", 
+   "children": [], 
+   "end": "79.960", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "in diesem Fall nach unten\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "79.960", 
+   "children": [], 
+   "end": "80.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "war hochumstritten. "
+   ]
+  }, 
+  {
+   "begin": "80.960", 
+   "children": [], 
+   "end": "81.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcbrigens: "
+   ]
+  }, 
+  {
+   "begin": "81.280", 
+   "children": [], 
+   "end": "82.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Gewerkschaften wollten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "82.080", 
+   "children": [], 
+   "end": "83.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "verr\u00fcckterweise\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "83.160", 
+   "children": [], 
+   "end": "87.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "zun\u00e4chst genauso wie Sie den Lohn indexieren. "
+   ]
+  }, 
+  {
+   "begin": "87.240", 
+   "children": [], 
+   "end": "90.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Dann ist das unter schwierigsten Debatten in Italien wieder abgeschafft worden, "
+   ]
+  }, 
+  {
+   "begin": "90.920", 
+   "children": [], 
+   "end": "94.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "weil das Gesamtsystem kurz vor dem Zusammenbruch stand. "
+   ]
+  }, 
+  {
+   "begin": "94.840", 
+   "children": [], 
+   "end": "95.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb ist Ihre Idee richtig schlecht."
+   ]
+  }, 
+  {
+   "begin": "95.840", 
+   "children": [], 
+   "end": "97.120", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "97.120", 
+   "children": [], 
+   "end": "106.000", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Als letzter Redner zu diesem Tagesordnungspunkt der Kollege Dr.\u00a0Carsten Brodesser mit seiner ersten Parlamentsrede."
+   ]
+  }
+ ]
+}

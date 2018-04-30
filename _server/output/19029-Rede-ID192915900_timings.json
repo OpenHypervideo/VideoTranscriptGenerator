@@ -1,0 +1,674 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.960", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.960", 
+   "children": [], 
+   "end": "10.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "children": [], 
+   "end": "12.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "children": [], 
+   "end": "16.400", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Zwei sind ja noch auf der Besuchertrib\u00fcne.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "16.400", 
+   "children": [], 
+   "end": "21.200", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wir beraten heute den Gesetzentwurf der AfD zur \u00c4nderung des Teilzeit- "
+   ]
+  }, 
+  {
+   "begin": "21.200", 
+   "children": [], 
+   "end": "23.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "und Befristungsgesetzes. "
+   ]
+  }, 
+  {
+   "begin": "23.040", 
+   "children": [], 
+   "end": "25.680", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ich pers\u00f6nlich habe den Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "25.680", 
+   "children": [], 
+   "end": "29.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich dabei um einen Vorschaltantrag handelt; "
+   ]
+  }, 
+  {
+   "begin": "29.320", 
+   "children": [], 
+   "end": "41.840", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "denn wir haben in der Gro\u00dfen Koalition etwas zu Teilzeit und Befristungen vereinbart und treten jetzt mit ersten Schritten in die Umsetzung ein."
+   ]
+  }, 
+  {
+   "begin": "41.840", 
+   "children": [], 
+   "end": "46.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Was Sie mit dem Gesetzentwurf erzielen wollen, "
+   ]
+  }, 
+  {
+   "begin": "46.400", 
+   "children": [], 
+   "end": "48.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "kann ich ihm allerdings nicht entnehmen. "
+   ]
+  }, 
+  {
+   "begin": "48.760", 
+   "children": [], 
+   "end": "62.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Sie legen darin den Status quo noch einmal anders formuliert dar und f\u00fchren die bestehenden Befristungsgr\u00fcnde auf bzw. "
+   ]
+  }, 
+  {
+   "begin": "62.640", 
+   "children": [], 
+   "end": "64.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "fassen diese noch einmal neu. "
+   ]
+  }, 
+  {
+   "begin": "64.760", 
+   "children": [], 
+   "end": "67.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagen allerdings au\u00dferdem unter Satz\u00a01\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "67.960", 
+   "children": [], 
+   "end": "70.120", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "und das ist bisher nicht Teil des Teilzeit- "
+   ]
+  }, 
+  {
+   "begin": "70.120", 
+   "children": [], 
+   "end": "71.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und Befristungsgesetzes\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "71.680", 
+   "children": [], 
+   "end": "76.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Die drei zur\u00fcckliegenden Jahre beziehen wir nicht mehr nur auf die Tatsache, "
+   ]
+  }, 
+  {
+   "begin": "76.240", 
+   "children": [], 
+   "end": "81.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "ob zwischen Arbeitgeber und Arbeitnehmer wirklich ein Arbeitsverh\u00e4ltnis bestanden hat, "
+   ]
+  }, 
+  {
+   "begin": "81.520", 
+   "children": [], 
+   "end": "83.520", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "sondern wir beziehen sie auch darauf, "
+   ]
+  }, 
+  {
+   "begin": "83.520", 
+   "children": [], 
+   "end": "93.240", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "ob der Arbeitsplatz als solcher vorher mit einem befristet angestellten Mitarbeiter besetzt gewesen ist.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "93.240", 
+   "children": [], 
+   "end": "97.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Sie beziehen dabei also eine Arbeitsplatzqualifikation ein, "
+   ]
+  }, 
+  {
+   "begin": "97.880", 
+   "children": [], 
+   "end": "98.360", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die ich, "
+   ]
+  }, 
+  {
+   "begin": "98.360", 
+   "children": [], 
+   "end": "99.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ehrlich gesagt, "
+   ]
+  }, 
+  {
+   "begin": "99.680", 
+   "children": [], 
+   "end": "105.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "eher von den Linken erwartet h\u00e4tte."
+   ]
+  }, 
+  {
+   "begin": "105.120", 
+   "children": [], 
+   "end": "106.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das zeigt nat\u00fcrlich auch, "
+   ]
+  }, 
+  {
+   "begin": "106.360", 
+   "children": [], 
+   "end": "111.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "in welche Richtung Sie eigentlich mit Ihrem Gesetzentwurf unterwegs sind."
+   ]
+  }, 
+  {
+   "begin": "111.400", 
+   "children": [], 
+   "end": "116.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus will ich einmal ein paar Zahlen nennen, "
+   ]
+  }, 
+  {
+   "begin": "116.760", 
+   "children": [], 
+   "end": "119.120", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die Sie hier ja auch aufgef\u00fchrt haben. "
+   ]
+  }, 
+  {
+   "begin": "119.120", 
+   "children": [], 
+   "end": "122.520", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Dabei muss ich schon einiges in Relation bringen. "
+   ]
+  }, 
+  {
+   "begin": "122.520", 
+   "children": [], 
+   "end": "128.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben mittlerweile in Deutschland \u00fcber 43\u00a0Millionen Erwerbst\u00e4tige. "
+   ]
+  }, 
+  {
+   "begin": "128.840", 
+   "children": [], 
+   "end": "138.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die Quote der befristeten Arbeitsverh\u00e4ltnisse liegt etwa bei 8\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "138.760", 
+   "children": [], 
+   "end": "149.480", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Davon sind \u00fcber 50\u00a0Prozent im \u00f6ffentlichen Dienst und dort zum gro\u00dfen Teil im wissenschaftlichen Bereich besch\u00e4ftigt.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "149.480", 
+   "children": [], 
+   "end": "150.360", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Klammer auf: "
+   ]
+  }, 
+  {
+   "begin": "150.360", 
+   "children": [], 
+   "end": "153.600", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben seinerzeit das Wissenschaftszeitvertragsgesetz verabschiedet, "
+   ]
+  }, 
+  {
+   "begin": "153.600", 
+   "children": [], 
+   "end": "157.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "um f\u00fcr diese Besch\u00e4ftigungsverh\u00e4ltnisse Regelungen zu schaffen. "
+   ]
+  }, 
+  {
+   "begin": "157.000", 
+   "children": [], 
+   "end": "158.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Klammer zu.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "158.560", 
+   "children": [], 
+   "end": "163.800", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Etwas weniger als 50\u00a0Prozent sind in der freien Wirtschaft besch\u00e4ftigt."
+   ]
+  }, 
+  {
+   "begin": "163.800", 
+   "children": [], 
+   "end": "175.080", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben au\u00dferdem die Thematik der neugeschaffenen befristeten Arbeitsverh\u00e4ltnisse angesprochen. "
+   ]
+  }, 
+  {
+   "begin": "175.080", 
+   "children": [], 
+   "end": "179.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Dazu muss man sagen: "
+   ]
+  }, 
+  {
+   "begin": "179.920", 
+   "children": [], 
+   "end": "192.320", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Auch wenn diese Quote sicherlich niedriger sein sollte und wir von der CDU und auch ich pers\u00f6nlich nat\u00fcrlich gerne nur unbefristete Arbeitsverh\u00e4ltnisse h\u00e4tten, "
+   ]
+  }, 
+  {
+   "begin": "192.320", 
+   "children": [], 
+   "end": "195.960", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "ist doch die Realit\u00e4t in der Wirtschaft leider Gottes eine andere. "
+   ]
+  }, 
+  {
+   "begin": "195.960", 
+   "children": [], 
+   "end": "204.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Befristungen auch als Flexibilisierungsinstrument."
+   ]
+  }, 
+  {
+   "begin": "204.600", 
+   "children": [], 
+   "end": "206.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen sehen, "
+   ]
+  }, 
+  {
+   "begin": "206.040", 
+   "children": [], 
+   "end": "213.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass die Zahl der neugeschaffenen befristeten Arbeitsverh\u00e4ltnisse r\u00fcckl\u00e4ufig ist. "
+   ]
+  }, 
+  {
+   "begin": "213.040", 
+   "children": [], 
+   "end": "225.800", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Vor ungef\u00e4hr zehn Jahren lag die Befristungsquote bei Neuvertr\u00e4gen in den Altersstufen bis 30\u00a0Jahre etwa bei 28\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "225.800", 
+   "children": [], 
+   "end": "231.240", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Mittlerweile liegt sie bei 23\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "231.240", 
+   "children": [], 
+   "end": "233.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist also r\u00fcckl\u00e4ufig. "
+   ]
+  }, 
+  {
+   "begin": "233.760", 
+   "children": [], 
+   "end": "236.080", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine erfreuliche Tatsache."
+   ]
+  }, 
+  {
+   "begin": "236.080", 
+   "children": [], 
+   "end": "238.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen aber feststellen, "
+   ]
+  }, 
+  {
+   "begin": "238.160", 
+   "children": [], 
+   "end": "241.880", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass wir schon Flexibilisierungselemente brauchen. "
+   ]
+  }, 
+  {
+   "begin": "241.880", 
+   "children": [], 
+   "end": "244.680", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Hier komme ich auf den Koalitionsvertrag zu sprechen. "
+   ]
+  }, 
+  {
+   "begin": "244.680", 
+   "children": [], 
+   "end": "246.040", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Dort ist vereinbart, "
+   ]
+  }, 
+  {
+   "begin": "246.040", 
+   "children": [], 
+   "end": "251.440", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "dass wir ein Recht auf befristete Teilzeit schaffen wollen. "
+   ]
+  }, 
+  {
+   "begin": "251.440", 
+   "children": [], 
+   "end": "257.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Daneben gibt es f\u00fcr Familien die Elternzeit. "
+   ]
+  }, 
+  {
+   "begin": "257.120", 
+   "children": [], 
+   "end": "262.480", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir aber auf der einen Seite den Arbeitsnehmern Flexibilisierungselemente zugestehen, "
+   ]
+  }, 
+  {
+   "begin": "262.480", 
+   "children": [], 
+   "end": "266.800", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir diese auf der anderen Seite auch den Arbeitgebern zugestehen, "
+   ]
+  }, 
+  {
+   "begin": "266.800", 
+   "children": [], 
+   "end": "273.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "damit sie entsprechend reagieren k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "273.160", 
+   "children": [], 
+   "end": "277.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen sollte man nat\u00fcrlich vorsichtig sein mit den Einschr\u00e4nkungen, "
+   ]
+  }, 
+  {
+   "begin": "277.240", 
+   "children": [], 
+   "end": "281.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die man auf dieser Seite des Arbeitsverh\u00e4ltnisses vornimmt."
+   ]
+  }, 
+  {
+   "begin": "281.520", 
+   "children": [], 
+   "end": "283.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Insgesamt muss ich feststellen, "
+   ]
+  }, 
+  {
+   "begin": "283.720", 
+   "children": [], 
+   "end": "284.640", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass der Antrag, "
+   ]
+  }, 
+  {
+   "begin": "284.640", 
+   "children": [], 
+   "end": "286.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "der von der AfD eingereicht wird, "
+   ]
+  }, 
+  {
+   "begin": "286.600", 
+   "children": [], 
+   "end": "288.480", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "irgendwie nicht den Zielen entspricht, "
+   ]
+  }, 
+  {
+   "begin": "288.480", 
+   "children": [], 
+   "end": "291.040", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die in der Begr\u00fcndung angebracht werden. "
+   ]
+  }, 
+  {
+   "begin": "291.040", 
+   "children": [], 
+   "end": "295.040", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden das wahrscheinlich im Rahmen der Ausschussberatungen weiter verfolgen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "295.040", 
+   "children": [], 
+   "end": "301.360", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Ich bedanke mich f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "301.360", 
+   "children": [], 
+   "end": "306.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Der Kollege Till Mansmann spricht f\u00fcr die FDP-Fraktion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,924 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Puh, "
+   ]
+  }, 
+  {
+   "begin": "0.520", 
+   "children": [], 
+   "end": "13.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "das war ja ganz sch\u00f6n viel Meinung f\u00fcr keine Ahnung."
+   ]
+  }, 
+  {
+   "begin": "13.760", 
+   "children": [], 
+   "end": "16.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Bundestagsvizepr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "children": [], 
+   "end": "19.360", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Teilnehmerinnen und Teilnehmer des Girls\u2019 Day! "
+   ]
+  }, 
+  {
+   "begin": "19.360", 
+   "children": [], 
+   "end": "26.160", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Passenderweise reden wir in der Tat hier heute \u00fcber den Berufsbildungsbericht\u00a02018."
+   ]
+  }, 
+  {
+   "begin": "26.160", 
+   "children": [], 
+   "end": "27.400", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Wir freuen uns dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "27.400", 
+   "children": [], 
+   "end": "32.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass wir bundesweit ein kleines Plus neu abgeschlossener Ausbildungsvertr\u00e4ge verzeichnen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "32.280", 
+   "children": [], 
+   "end": "37.120", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Es sind aber auch knapp 50\u00a0000\u00a0Ausbildungspl\u00e4tze nach wie vor nicht besetzt, "
+   ]
+  }, 
+  {
+   "begin": "37.120", 
+   "children": [], 
+   "end": "37.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "und manche glauben, "
+   ]
+  }, 
+  {
+   "begin": "37.960", 
+   "children": [], 
+   "end": "39.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "das sei ein Problem. "
+   ]
+  }, 
+  {
+   "begin": "39.680", 
+   "children": [], 
+   "end": "41.280", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage sehr deutlich: "
+   ]
+  }, 
+  {
+   "begin": "41.280", 
+   "children": [], 
+   "end": "41.840", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde nicht, "
+   ]
+  }, 
+  {
+   "begin": "41.840", 
+   "children": [], 
+   "end": "42.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass das ein Problem ist. "
+   ]
+  }, 
+  {
+   "begin": "42.920", 
+   "children": [], 
+   "end": "44.400", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr ist ein \u00dcberangebot, "
+   ]
+  }, 
+  {
+   "begin": "44.400", 
+   "children": [], 
+   "end": "45.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wie manche es nennen, "
+   ]
+  }, 
+  {
+   "begin": "45.200", 
+   "children": [], 
+   "end": "46.040", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "genau richtig; "
+   ]
+  }, 
+  {
+   "begin": "46.040", 
+   "children": [], 
+   "end": "49.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "denn es geht um eine Auswahlm\u00f6glichkeit f\u00fcr die jungen Erwachsenen. "
+   ]
+  }, 
+  {
+   "begin": "49.680", 
+   "children": [], 
+   "end": "51.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Es geht eben nicht allein um die Frage, "
+   ]
+  }, 
+  {
+   "begin": "51.800", 
+   "children": [], 
+   "end": "54.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "welcher Jugendliche zu welchem Ausbildungsplatz passt, "
+   ]
+  }, 
+  {
+   "begin": "54.800", 
+   "children": [], 
+   "end": "55.240", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch darum, "
+   ]
+  }, 
+  {
+   "begin": "55.240", 
+   "children": [], 
+   "end": "58.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "welcher Ausbildungsplatz eigentlich zu welchem Jugendlichen passt."
+   ]
+  }, 
+  {
+   "begin": "58.640", 
+   "children": [], 
+   "end": "63.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen sind nicht die unbesetzten Pl\u00e4tze das eigentliche Problem, "
+   ]
+  }, 
+  {
+   "begin": "63.040", 
+   "children": [], 
+   "end": "65.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "sondern mehr als 80\u00a0000\u00a0Jugendliche, "
+   ]
+  }, 
+  {
+   "begin": "65.600", 
+   "children": [], 
+   "end": "70.360", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "die nach wie vor auf der Suche nach einem Ausbildungsplatz sind."
+   ]
+  }, 
+  {
+   "begin": "70.360", 
+   "children": [], 
+   "end": "77.560", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Diese Zahl der sogenannten unversorgten Jugendlichen legt den Finger in die Wunde; "
+   ]
+  }, 
+  {
+   "begin": "77.560", 
+   "children": [], 
+   "end": "80.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "denn das Ausbildungsangebot erreicht sie offensichtlich nicht, "
+   ]
+  }, 
+  {
+   "begin": "80.840", 
+   "children": [], 
+   "end": "82.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "es ist ihnen nicht m\u00f6glich, "
+   ]
+  }, 
+  {
+   "begin": "82.080", 
+   "children": [], 
+   "end": "82.880", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "es anzunehmen, "
+   ]
+  }, 
+  {
+   "begin": "82.880", 
+   "children": [], 
+   "end": "85.800", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "oder sie sehen keine Perspektive darin. "
+   ]
+  }, 
+  {
+   "begin": "85.800", 
+   "children": [], 
+   "end": "87.880", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das betrifft vor allem Hauptschulabsolventen, "
+   ]
+  }, 
+  {
+   "begin": "87.880", 
+   "children": [], 
+   "end": "91.520", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die es gerade mal zu 50\u00a0Prozent direkt in eine Ausbildung schaffen. "
+   ]
+  }, 
+  {
+   "begin": "91.520", 
+   "children": [], 
+   "end": "99.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen also noch viel mehr aktive und aufsuchende Berufsberatung und Ausbildungsbegleitung, "
+   ]
+  }, 
+  {
+   "begin": "99.320", 
+   "children": [], 
+   "end": "102.280", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "um erfolgreiche Abschl\u00fcsse zu sichern."
+   ]
+  }, 
+  {
+   "begin": "102.280", 
+   "children": [], 
+   "end": "104.400", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die Abbrecher- "
+   ]
+  }, 
+  {
+   "begin": "104.400", 
+   "children": [], 
+   "end": "106.640", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und Wechselquoten zeigen auch eines, "
+   ]
+  }, 
+  {
+   "begin": "106.640", 
+   "children": [], 
+   "end": "108.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "wie hier richtigerweise angemerkt worden ist, "
+   ]
+  }, 
+  {
+   "begin": "108.800", 
+   "children": [], 
+   "end": "112.080", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich dass wir noch viel zu wenig gute Arbeit haben. "
+   ]
+  }, 
+  {
+   "begin": "112.080", 
+   "children": [], 
+   "end": "122.120", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "20\u00a0Prozent der Erwerbst\u00e4tigen mit einer erfolgreich abgeschlossenen Berufsausbildung verdienen weniger als 10\u00a0Euro pro Stunde. "
+   ]
+  }, 
+  {
+   "begin": "122.120", 
+   "children": [], 
+   "end": "124.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das ist unhaltbar. "
+   ]
+  }, 
+  {
+   "begin": "124.160", 
+   "children": [], 
+   "end": "125.920", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ich verstehe im \u00dcbrigen auch nicht, "
+   ]
+  }, 
+  {
+   "begin": "125.920", 
+   "children": [], 
+   "end": "127.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "warum es eigentlich immer wieder so z\u00e4h ist, "
+   ]
+  }, 
+  {
+   "begin": "127.840", 
+   "children": [], 
+   "end": "129.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir dar\u00fcber verhandeln, "
+   ]
+  }, 
+  {
+   "begin": "129.720", 
+   "children": [], 
+   "end": "133.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dass wir daran etwas verbessern. "
+   ]
+  }, 
+  {
+   "begin": "133.000", 
+   "children": [], 
+   "end": "133.480", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Aber gut, "
+   ]
+  }, 
+  {
+   "begin": "133.480", 
+   "children": [], 
+   "end": "140.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wir haben einen Sozialtarifvertrag und eine Mindestausbildungsverg\u00fctung in den Koalitionsvertrag hineingebracht, "
+   ]
+  }, 
+  {
+   "begin": "140.080", 
+   "children": [], 
+   "end": "142.560", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "und darauf sind wir verdammt stolz."
+   ]
+  }, 
+  {
+   "begin": "142.560", 
+   "children": [], 
+   "end": "145.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ich will an dieser Stelle aber auch ausdr\u00fccklich sagen: "
+   ]
+  }, 
+  {
+   "begin": "145.120", 
+   "children": [], 
+   "end": "148.680", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Es wird in den kommenden Jahren auch auf die Arbeitgeber ankommen. "
+   ]
+  }, 
+  {
+   "begin": "148.680", 
+   "children": [], 
+   "end": "150.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben eine Wahl. "
+   ]
+  }, 
+  {
+   "begin": "150.040", 
+   "children": [], 
+   "end": "160.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen die selbstgew\u00e4hlte Tarifflucht stoppen und sich endlich wieder an unseren erfolgreichen Prinzipien der Marktwirtschaft beteiligen und damit verhindern, "
+   ]
+  }, 
+  {
+   "begin": "160.680", 
+   "children": [], 
+   "end": "162.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass wir gezwungen sind, "
+   ]
+  }, 
+  {
+   "begin": "162.120", 
+   "children": [], 
+   "end": "165.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "zuk\u00fcnftig noch mehr und deutlicher gesetzgeberisch einzugreifen, "
+   ]
+  }, 
+  {
+   "begin": "165.680", 
+   "children": [], 
+   "end": "168.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "um gute L\u00f6hne und gute Ausbildungsbedingungen zu sichern."
+   ]
+  }, 
+  {
+   "begin": "168.960", 
+   "children": [], 
+   "end": "171.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "171.360", 
+   "children": [], 
+   "end": "173.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "der digitale Wandel ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "173.000", 
+   "children": [], 
+   "end": "174.800", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "das will ich hier auch noch einmal deutlich sagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "174.800", 
+   "children": [], 
+   "end": "177.640", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "nicht allein eine technische Lernaufgabe."
+   ]
+  }, 
+  {
+   "begin": "177.640", 
+   "children": [], 
+   "end": "181.280", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Es geht vor allem auch um interdisziplin\u00e4res Arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "181.280", 
+   "children": [], 
+   "end": "182.680", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "soziale Kompetenzen, "
+   ]
+  }, 
+  {
+   "begin": "182.680", 
+   "children": [], 
+   "end": "184.440", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Sorgearbeit. "
+   ]
+  }, 
+  {
+   "begin": "184.440", 
+   "children": [], 
+   "end": "185.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Die erste Frage, "
+   ]
+  }, 
+  {
+   "begin": "185.360", 
+   "children": [], 
+   "end": "186.320", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "die wir stellen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "186.320", 
+   "children": [], 
+   "end": "187.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "ist daher nicht: "
+   ]
+  }, 
+  {
+   "begin": "187.680", 
+   "children": [], 
+   "end": "189.640", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Was m\u00fcssen wir f\u00fcr morgen lernen? "
+   ]
+  }, 
+  {
+   "begin": "189.640", 
+   "children": [], 
+   "end": "191.480", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Die erste Frage ist: "
+   ]
+  }, 
+  {
+   "begin": "191.480", 
+   "children": [], 
+   "end": "193.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Wie und was wollen wir morgen arbeiten? "
+   ]
+  }, 
+  {
+   "begin": "193.600", 
+   "children": [], 
+   "end": "197.440", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Was ist die Rolle des Menschen in der zuk\u00fcnftigen Arbeitswelt?"
+   ]
+  }, 
+  {
+   "begin": "197.440", 
+   "children": [], 
+   "end": "202.160", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Und dann geht es eben nicht allein um Technik und Informationsverarbeitung, "
+   ]
+  }, 
+  {
+   "begin": "202.160", 
+   "children": [], 
+   "end": "207.520", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "sondern es geht auch um soziale Arbeit und um das Miteinander. "
+   ]
+  }, 
+  {
+   "begin": "207.520", 
+   "children": [], 
+   "end": "213.480", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen angesichts der Ver\u00e4nderung alle in ein neues digitales und soziales Zeitalter mitnehmen."
+   ]
+  }, 
+  {
+   "begin": "213.480", 
+   "children": [], 
+   "end": "217.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Jungen Auszubildenden mangelt es oft an den realen Voraussetzungen. "
+   ]
+  }, 
+  {
+   "begin": "217.680", 
+   "children": [], 
+   "end": "220.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Damit meine ich nicht ihre Ausbildungsf\u00e4higkeit, "
+   ]
+  }, 
+  {
+   "begin": "220.440", 
+   "children": [], 
+   "end": "223.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "wie manche hier vielleicht reflexhaft glauben, "
+   ]
+  }, 
+  {
+   "begin": "223.200", 
+   "children": [], 
+   "end": "224.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "sondern ich meine: "
+   ]
+  }, 
+  {
+   "begin": "224.520", 
+   "children": [], 
+   "end": "226.040", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "geb\u00fchrenfreie Mobilit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "226.040", 
+   "children": [], 
+   "end": "227.480", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "bezahlbares Wohnen, "
+   ]
+  }, 
+  {
+   "begin": "227.480", 
+   "children": [], 
+   "end": "230.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Mindestausbildungsverg\u00fctung und vieles mehr, "
+   ]
+  }, 
+  {
+   "begin": "230.360", 
+   "children": [], 
+   "end": "233.080", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "was wir als Sozialdemokraten durchsetzen wollen. "
+   ]
+  }, 
+  {
+   "begin": "233.080", 
+   "children": [], 
+   "end": "240.760", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus m\u00fcssen wir uns meines Erachtens perspektivisch f\u00fcr eine bessere allgemeine, "
+   ]
+  }, 
+  {
+   "begin": "240.760", 
+   "children": [], 
+   "end": "247.280", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "elternunabh\u00e4ngige Grundsicherung f\u00fcr die Erstausbildung einsetzen sowie eine Ausbildungsgarantie anstreben."
+   ]
+  }, 
+  {
+   "begin": "247.280", 
+   "children": [], 
+   "end": "249.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "249.520", 
+   "children": [], 
+   "end": "251.920", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "unser Ideenvorrat ist mit dem, "
+   ]
+  }, 
+  {
+   "begin": "251.920", 
+   "children": [], 
+   "end": "253.880", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "was im Koalitionsvertrag steht, "
+   ]
+  }, 
+  {
+   "begin": "253.880", 
+   "children": [], 
+   "end": "255.640", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "noch lange nicht aufgebraucht. "
+   ]
+  }, 
+  {
+   "begin": "255.640", 
+   "children": [], 
+   "end": "259.520", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Das sozialdemokratische Berufsbildungscredo lautet: "
+   ]
+  }, 
+  {
+   "begin": "259.520", 
+   "children": [], 
+   "end": "263.280", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Nicht pers\u00f6nliche Netzwerke und Herkunft bestimmen deine Zukunft, "
+   ]
+  }, 
+  {
+   "begin": "263.280", 
+   "children": [], 
+   "end": "264.920", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "sondern Flei\u00df und Talent. "
+   ]
+  }, 
+  {
+   "begin": "264.920", 
+   "children": [], 
+   "end": "266.960", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Wir verhelfen dir zum Durchbruch.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "266.960", 
+   "children": [], 
+   "end": "271.480", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Das macht den Unterschied zwischen einer Regierung mit oder ohne Sozialdemokratie."
+   ]
+  }, 
+  {
+   "begin": "271.480", 
+   "children": [], 
+   "end": "273.200", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "273.200", 
+   "children": [], 
+   "end": "274.680", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "274.680", 
+   "children": [], 
+   "end": "277.960", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die Freien Demokraten die Kollegin Nicola Beer."
+   ]
+  }
+ ]
+}

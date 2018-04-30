@@ -1,0 +1,774 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen! "
+   ]
+  }, 
+  {
+   "begin": "0.760", 
+   "children": [], 
+   "end": "0.761", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "0.761", 
+   "children": [], 
+   "end": "20.720", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Neue gesellschaftliche Probleme verdr\u00e4ngen alte Probleme in den Hintergrund und hier im Parlament in die sp\u00e4ten Abendstunden. "
+   ]
+  }, 
+  {
+   "begin": "20.720", 
+   "children": [], 
+   "end": "23.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Faktisch machen neuer Antisemitismus, "
+   ]
+  }, 
+  {
+   "begin": "23.120", 
+   "children": [], 
+   "end": "24.600", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Fremdenfeindlichkeit, "
+   ]
+  }, 
+  {
+   "begin": "24.600", 
+   "children": [], 
+   "end": "35.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Fragezeichen bei der Digitalisierung oder die Bedrohung durch die Klimakrise die Risiken der weltweit Radioaktivit\u00e4t erzeugenden Atomkraft aber nicht kleiner."
+   ]
+  }, 
+  {
+   "begin": "35.840", 
+   "children": [], 
+   "end": "40.480", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Das machen einen sp\u00e4testens Reisen nach Tschernobyl oder Fukushima klar."
+   ]
+  }, 
+  {
+   "begin": "40.480", 
+   "children": [], 
+   "end": "46.040", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Beide L\u00e4nder, "
+   ]
+  }, 
+  {
+   "begin": "46.040", 
+   "children": [], 
+   "end": "47.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Japan und die Ukraine, "
+   ]
+  }, 
+  {
+   "begin": "47.880", 
+   "children": [], 
+   "end": "51.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "versuchen die traumatische Erfahrung zu verdr\u00e4ngen, "
+   ]
+  }, 
+  {
+   "begin": "51.360", 
+   "children": [], 
+   "end": "52.080", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Japan, "
+   ]
+  }, 
+  {
+   "begin": "52.080", 
+   "children": [], 
+   "end": "55.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "indem es mit best\u00e4ndigen Dekontaminierungen zu zeigen versucht, "
+   ]
+  }, 
+  {
+   "begin": "55.680", 
+   "children": [], 
+   "end": "58.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass man mit einem Super-GAU leben kann, "
+   ]
+  }, 
+  {
+   "begin": "58.400", 
+   "children": [], 
+   "end": "60.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die Ukraine, "
+   ]
+  }, 
+  {
+   "begin": "60.000", 
+   "children": [], 
+   "end": "69.920", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "indem sie die Sperrzone um Tschernobyl von der heutigen Politik abspaltet und zu einer Art zu der Sowjetzeit geh\u00f6rendem atomaren Disneyland macht. "
+   ]
+  }, 
+  {
+   "begin": "69.920", 
+   "children": [], 
+   "end": "73.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "In beiden L\u00e4ndern sind die Opfer dieser Strategien die Betroffenen, "
+   ]
+  }, 
+  {
+   "begin": "73.920", 
+   "children": [], 
+   "end": "80.280", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr ihre Sch\u00e4den und Verluste minimal oder gar nicht entsch\u00e4digt werden."
+   ]
+  }, 
+  {
+   "begin": "80.280", 
+   "children": [], 
+   "end": "85.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Der Deutsche Bundestag hat nach dem zweiten Super-GAU fraktions\u00fcbergreifend den Ausstieg beschlossen. "
+   ]
+  }, 
+  {
+   "begin": "85.880", 
+   "children": [], 
+   "end": "89.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das war in erster Linie ein Erfolg der Zivilgesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "89.720", 
+   "children": [], 
+   "end": "91.200", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "ist aber allen Fraktionen, "
+   ]
+  }, 
+  {
+   "begin": "91.200", 
+   "children": [], 
+   "end": "95.320", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die sich damit von ihrer damaligen Energiepolitik abwenden mussten, "
+   ]
+  }, 
+  {
+   "begin": "95.320", 
+   "children": [], 
+   "end": "97.400", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "hoch anzurechnen."
+   ]
+  }, 
+  {
+   "begin": "97.400", 
+   "children": [], 
+   "end": "107.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Danach wurden die Lex Asse und der Neustart in der Endlagersuche auf den Weg gebracht. "
+   ]
+  }, 
+  {
+   "begin": "107.480", 
+   "children": [], 
+   "end": "111.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Beide Gesetze sind auch Ausdruck neuen Problembewusstseins."
+   ]
+  }, 
+  {
+   "begin": "111.960", 
+   "children": [], 
+   "end": "113.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ist es damit gut, "
+   ]
+  }, 
+  {
+   "begin": "113.040", 
+   "children": [], 
+   "end": "115.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "verehrte Kolleginnen und Kollegen? "
+   ]
+  }, 
+  {
+   "begin": "115.600", 
+   "children": [], 
+   "end": "116.920", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "116.920", 
+   "children": [], 
+   "end": "119.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "solange in der Welt Atomkraftwerke laufen, "
+   ]
+  }, 
+  {
+   "begin": "119.760", 
+   "children": [], 
+   "end": "122.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "solange das Risiko weiter produziert wird, "
+   ]
+  }, 
+  {
+   "begin": "122.280", 
+   "children": [], 
+   "end": "123.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "ist es nicht gut."
+   ]
+  }, 
+  {
+   "begin": "123.200", 
+   "children": [], 
+   "end": "129.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Hier beginnt die eigentliche Mammutaufgabe einer deutschen Regierung. "
+   ]
+  }, 
+  {
+   "begin": "129.400", 
+   "children": [], 
+   "end": "133.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Sie besteht darin, "
+   ]
+  }, 
+  {
+   "begin": "133.360", 
+   "children": [], 
+   "end": "134.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "das deutsche Beispiel nicht, "
+   ]
+  }, 
+  {
+   "begin": "134.720", 
+   "children": [], 
+   "end": "136.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht sogar ein bisschen versch\u00e4mt, "
+   ]
+  }, 
+  {
+   "begin": "136.960", 
+   "children": [], 
+   "end": "139.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "als Sonderweg dastehen zu lassen, "
+   ]
+  }, 
+  {
+   "begin": "139.240", 
+   "children": [], 
+   "end": "149.000", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "sondern f\u00fcr einen europ\u00e4ischen und schlie\u00dflich weltweiten Atomausstieg zu k\u00e4mpfen."
+   ]
+  }, 
+  {
+   "begin": "149.000", 
+   "children": [], 
+   "end": "150.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "In den deutschen Grenzregionen, "
+   ]
+  }, 
+  {
+   "begin": "150.760", 
+   "children": [], 
+   "end": "154.680", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die mit st\u00f6ranf\u00e4lligen Reaktoren in den Nachbarl\u00e4ndern wie Fessenheim, "
+   ]
+  }, 
+  {
+   "begin": "154.680", 
+   "children": [], 
+   "end": "155.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Cattenom, "
+   ]
+  }, 
+  {
+   "begin": "155.320", 
+   "children": [], 
+   "end": "155.840", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Tihange, "
+   ]
+  }, 
+  {
+   "begin": "155.840", 
+   "children": [], 
+   "end": "156.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Temelin, "
+   ]
+  }, 
+  {
+   "begin": "156.440", 
+   "children": [], 
+   "end": "158.600", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Beznau konfrontiert sind, "
+   ]
+  }, 
+  {
+   "begin": "158.600", 
+   "children": [], 
+   "end": "162.240", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrden Sie damit Begeisterungsst\u00fcrme ausl\u00f6sen."
+   ]
+  }, 
+  {
+   "begin": "162.240", 
+   "children": [], 
+   "end": "169.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir legen Ihnen zum heutigen 32.\u00a0Jahrestag der Katastrophe von Tschernobyl 30\u00a0Punkte vor, "
+   ]
+  }, 
+  {
+   "begin": "169.720", 
+   "children": [], 
+   "end": "173.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die den Atomausstieg f\u00fcr Deutschland vollst\u00e4ndig machen. "
+   ]
+  }, 
+  {
+   "begin": "173.600", 
+   "children": [], 
+   "end": "177.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt die Schlie\u00dfung der Atomfabriken Gronau und Lingen. "
+   ]
+  }, 
+  {
+   "begin": "177.480", 
+   "children": [], 
+   "end": "181.160", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt die Einforderung einer Novellierung von Euratom. "
+   ]
+  }, 
+  {
+   "begin": "181.160", 
+   "children": [], 
+   "end": "185.720", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt das Ende aller Bundesinvestments in Atomkonzerne. "
+   ]
+  }, 
+  {
+   "begin": "185.720", 
+   "children": [], 
+   "end": "191.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt der Ausstieg aus der Erforschung neuer Reaktorlinien."
+   ]
+  }, 
+  {
+   "begin": "191.040", 
+   "children": [], 
+   "end": "193.240", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Dass all dies bisher nicht passiert, "
+   ]
+  }, 
+  {
+   "begin": "193.240", 
+   "children": [], 
+   "end": "197.760", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "macht den deutschen Atomausstieg unglaubw\u00fcrdig und tr\u00e4gt nicht dazu bei, "
+   ]
+  }, 
+  {
+   "begin": "197.760", 
+   "children": [], 
+   "end": "200.440", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass unser Beispiel Schule macht. "
+   ]
+  }, 
+  {
+   "begin": "200.440", 
+   "children": [], 
+   "end": "206.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Neubauten von Atomkraftwerken stellen sich immer mehr als \u00f6konomische Desaster heraus: "
+   ]
+  }, 
+  {
+   "begin": "206.360", 
+   "children": [], 
+   "end": "207.080", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Olkiluoto, "
+   ]
+  }, 
+  {
+   "begin": "207.080", 
+   "children": [], 
+   "end": "207.880", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Flamanville, "
+   ]
+  }, 
+  {
+   "begin": "207.880", 
+   "children": [], 
+   "end": "209.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Hinkley Point. "
+   ]
+  }, 
+  {
+   "begin": "209.120", 
+   "children": [], 
+   "end": "214.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "So sind Laufzeitverl\u00e4ngerungen auch der \u00e4ltesten Schrottreaktoren in Europa der Wunsch der Stunde. "
+   ]
+  }, 
+  {
+   "begin": "214.920", 
+   "children": [], 
+   "end": "220.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden von der EU-Kommission und bis in die Ukraine hinein unterst\u00fctzt."
+   ]
+  }, 
+  {
+   "begin": "220.080", 
+   "children": [], 
+   "end": "222.760", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Die in Deutschland gestartete Energiepreisl\u00fcge, "
+   ]
+  }, 
+  {
+   "begin": "222.760", 
+   "children": [], 
+   "end": "233.320", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "die alle externalisierten Kosten bei Kohle und Atom ignoriert und den sp\u00e4testens f\u00fcr unsere Kinder unschlagbar billigen Strom aus erneuerbaren Energien teuer redet, "
+   ]
+  }, 
+  {
+   "begin": "233.320", 
+   "children": [], 
+   "end": "235.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "findet ihren Niederschlag selbst in Kiew, "
+   ]
+  }, 
+  {
+   "begin": "235.920", 
+   "children": [], 
+   "end": "243.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wo der Staatshaushalt die gesetzlich festgelegte Entsch\u00e4digung f\u00fcr die Tschernobyl-Opfer nicht hergibt und man trotzdem argumentiert, "
+   ]
+  }, 
+  {
+   "begin": "243.840", 
+   "children": [], 
+   "end": "247.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "sich den Atomausstieg finanziell nicht leisten zu k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "247.680", 
+   "children": [], 
+   "end": "252.280", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Dazu haben wir in Deutschland mit unserer verlogenen Kostendebatte beigetragen."
+   ]
+  }, 
+  {
+   "begin": "252.280", 
+   "children": [], 
+   "end": "265.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Die internationale und gerade auch die deutsche Solidarit\u00e4t mit der Ukraine beim Bau der neuen Schutzh\u00fclle waren und sind gro\u00df, "
+   ]
+  }, 
+  {
+   "begin": "265.080", 
+   "children": [], 
+   "end": "266.200", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "und das ist gut so. "
+   ]
+  }, 
+  {
+   "begin": "266.200", 
+   "children": [], 
+   "end": "271.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Solidarit\u00e4t mit den Opfern und mit nachfolgenden Generationen, "
+   ]
+  }, 
+  {
+   "begin": "271.000", 
+   "children": [], 
+   "end": "273.520", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die es vor Schaden zu bewahren gilt, "
+   ]
+  }, 
+  {
+   "begin": "273.520", 
+   "children": [], 
+   "end": "275.320", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "verlangt aber mehr: "
+   ]
+  }, 
+  {
+   "begin": "275.320", 
+   "children": [], 
+   "end": "282.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "den engagierten und unerschrockenen Einsatz f\u00fcr den Ausstieg aus der Atomkraft auch au\u00dferhalb Deutschlands. "
+   ]
+  }, 
+  {
+   "begin": "282.640", 
+   "children": [], 
+   "end": "285.720", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Dazu fordere ich die Bundesregierung und Sie, "
+   ]
+  }, 
+  {
+   "begin": "285.720", 
+   "children": [], 
+   "end": "287.240", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "287.240", 
+   "children": [], 
+   "end": "288.080", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "auf, "
+   ]
+  }, 
+  {
+   "begin": "288.080", 
+   "children": [], 
+   "end": "289.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur heute, "
+   ]
+  }, 
+  {
+   "begin": "289.000", 
+   "children": [], 
+   "end": "291.280", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "am 26.\u00a0April, "
+   ]
+  }, 
+  {
+   "begin": "291.280", 
+   "children": [], 
+   "end": "292.800", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "aber auch und ganz besonders heute."
+   ]
+  }, 
+  {
+   "begin": "292.800", 
+   "children": [], 
+   "end": "300.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Der Kollege Karsten M\u00f6ring von der CDU/CSU-Fraktion ist der n\u00e4chste Redner."
+   ]
+  }
+ ]
+}

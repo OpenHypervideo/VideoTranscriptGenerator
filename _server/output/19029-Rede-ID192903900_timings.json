@@ -1,0 +1,1834 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.001", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.001", 
+   "children": [], 
+   "end": "0.080", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen!"
+   ]
+  }, 
+  {
+   "begin": "0.080", 
+   "children": [], 
+   "end": "8.080", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Einen kleinen Moment bitte.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "8.080", 
+   "children": [], 
+   "end": "12.640", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich bitte die Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "children": [], 
+   "end": "15.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "auch in der ersten Reihe der CDU/CSU-Fraktion, "
+   ]
+  }, 
+  {
+   "begin": "15.360", 
+   "children": [], 
+   "end": "16.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "die Diskussionen, "
+   ]
+  }, 
+  {
+   "begin": "16.840", 
+   "children": [], 
+   "end": "18.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend der Redner spricht, "
+   ]
+  }, 
+  {
+   "begin": "18.240", 
+   "children": [], 
+   "end": "23.640", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "zu unterlassen und den Platzwechsel so schnell wie m\u00f6glich vorzunehmen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.640", 
+   "children": [], 
+   "end": "24.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Beeck, "
+   ]
+  }, 
+  {
+   "begin": "24.280", 
+   "children": [], 
+   "end": "25.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben jetzt das Wort."
+   ]
+  }, 
+  {
+   "begin": "25.360", 
+   "children": [], 
+   "end": "26.640", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Mit neuer Zeit.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "26.640", 
+   "children": [], 
+   "end": "28.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin \u201eschwer in Ordnung\u201c: "
+   ]
+  }, 
+  {
+   "begin": "28.240", 
+   "children": [], 
+   "end": "36.640", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Zitat der damals 14-j\u00e4hrigen Hannah mit Downsyndrom hat mich und auch viele andere hier im Hause schwer beeindruckt. "
+   ]
+  }, 
+  {
+   "begin": "36.640", 
+   "children": [], 
+   "end": "37.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Es ist ein Zeichen, "
+   ]
+  }, 
+  {
+   "begin": "37.720", 
+   "children": [], 
+   "end": "40.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "das selbstbewusst und \u00fcberzeugt signalisiert: "
+   ]
+  }, 
+  {
+   "begin": "40.440", 
+   "children": [], 
+   "end": "42.320", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Mit mir ist alles okay.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "42.320", 
+   "children": [], 
+   "end": "46.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freien Demokraten wollen ein Zeichen setzen und haben unseren Antrag formuliert, "
+   ]
+  }, 
+  {
+   "begin": "46.480", 
+   "children": [], 
+   "end": "49.920", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "um dieses \u201eschwer in Ordnung\u201c in echte Teilhabe zu \u00fcbersetzen. "
+   ]
+  }, 
+  {
+   "begin": "49.920", 
+   "children": [], 
+   "end": "56.600", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen ein sichtbares Zeichen setzen f\u00fcr 7,6\u00a0Millionen Menschen mit schweren Behinderungen in unserer Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "56.600", 
+   "children": [], 
+   "end": "60.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr mehr als 10\u00a0Millionen Menschen mit Beeintr\u00e4chtigungen verschiedenster Art. "
+   ]
+  }, 
+  {
+   "begin": "60.960", 
+   "children": [], 
+   "end": "63.000", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Alle diese Menschen leben mit uns zusammen, "
+   ]
+  }, 
+  {
+   "begin": "63.000", 
+   "children": [], 
+   "end": "64.560", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und das ist schwer in Ordnung, "
+   ]
+  }, 
+  {
+   "begin": "64.560", 
+   "children": [], 
+   "end": "69.360", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "69.360", 
+   "children": [], 
+   "end": "72.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Daraus erwachsen Anspr\u00fcche an Staat und Gesellschaft; "
+   ]
+  }, 
+  {
+   "begin": "72.520", 
+   "children": [], 
+   "end": "72.960", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "denn dort, "
+   ]
+  }, 
+  {
+   "begin": "72.960", 
+   "children": [], 
+   "end": "76.320", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wo Hilfen f\u00fcr das barrierefreie Miteinander notwendig sind, "
+   ]
+  }, 
+  {
+   "begin": "76.320", 
+   "children": [], 
+   "end": "79.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "haben wir als Gesellschaft diese bereitzustellen. "
+   ]
+  }, 
+  {
+   "begin": "79.040", 
+   "children": [], 
+   "end": "80.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Der Ausweis hilft, "
+   ]
+  }, 
+  {
+   "begin": "80.480", 
+   "children": [], 
+   "end": "82.880", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "diese in Anspruch zu nehmen. "
+   ]
+  }, 
+  {
+   "begin": "82.880", 
+   "children": [], 
+   "end": "84.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "In vielen Gespr\u00e4chen habe ich erlebt, "
+   ]
+  }, 
+  {
+   "begin": "84.320", 
+   "children": [], 
+   "end": "88.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass f\u00fcr einige Menschen mit Behinderungen der Name des Ausweises kein Problem ist, "
+   ]
+  }, 
+  {
+   "begin": "88.280", 
+   "children": [], 
+   "end": "90.640", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr viele andere aber sehr wohl. "
+   ]
+  }, 
+  {
+   "begin": "90.640", 
+   "children": [], 
+   "end": "93.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Sie f\u00fchlen sich durch die Bezeichnung ausgegrenzt, "
+   ]
+  }, 
+  {
+   "begin": "93.040", 
+   "children": [], 
+   "end": "94.480", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "abgestempelt."
+   ]
+  }, 
+  {
+   "begin": "94.480", 
+   "children": [], 
+   "end": "97.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Hannah hat die Debatte um den Namen des Ausweises erneut angesto\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "97.760", 
+   "children": [], 
+   "end": "104.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Anregung und auch die Eloquenz der mittlerweile 15-J\u00e4hrigen haben bereits zu erfreulichen Entwicklungen auf der Ebene der L\u00e4nder gef\u00fchrt. "
+   ]
+  }, 
+  {
+   "begin": "104.920", 
+   "children": [], 
+   "end": "113.560", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Mittlerweile f\u00fcnf Bundesl\u00e4nder geben zu dem amtlichen Schwerbehindertenausweis H\u00fcllen mit dem Aufdruck \u201eSchwer-in-Ordnung-Ausweis\u201c heraus: "
+   ]
+  }, 
+  {
+   "begin": "113.560", 
+   "children": [], 
+   "end": "114.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Hamburg, "
+   ]
+  }, 
+  {
+   "begin": "114.040", 
+   "children": [], 
+   "end": "114.640", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Brandenburg, "
+   ]
+  }, 
+  {
+   "begin": "114.640", 
+   "children": [], 
+   "end": "115.400", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Rheinland-Pfalz, "
+   ]
+  }, 
+  {
+   "begin": "115.400", 
+   "children": [], 
+   "end": "119.720", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "mein Heimatland Niedersachsen und seit dieser Woche auch Berlin. "
+   ]
+  }, 
+  {
+   "begin": "119.720", 
+   "children": [], 
+   "end": "121.800", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das sind gro\u00dfartige Reaktionen."
+   ]
+  }, 
+  {
+   "begin": "121.800", 
+   "children": [], 
+   "end": "123.560", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Aber warum auf halber Strecke aufh\u00f6ren? "
+   ]
+  }, 
+  {
+   "begin": "123.560", 
+   "children": [], 
+   "end": "125.360", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr den Ausweis selbst sind wir, "
+   ]
+  }, 
+  {
+   "begin": "125.360", 
+   "children": [], 
+   "end": "127.280", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "127.280", 
+   "children": [], 
+   "end": "129.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "in diesem Hause zust\u00e4ndig. "
+   ]
+  }, 
+  {
+   "begin": "129.040", 
+   "children": [], 
+   "end": "130.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Heute, "
+   ]
+  }, 
+  {
+   "begin": "130.440", 
+   "children": [], 
+   "end": "137.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wo die Politik die Teilhabe als Ziel verk\u00fcndet hat und mit dem Bundesteilhabegesetz bereits vieles auf den Weg gebracht worden ist, "
+   ]
+  }, 
+  {
+   "begin": "137.840", 
+   "children": [], 
+   "end": "138.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "gilt es, "
+   ]
+  }, 
+  {
+   "begin": "138.600", 
+   "children": [], 
+   "end": "140.840", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "weiter zu arbeiten. "
+   ]
+  }, 
+  {
+   "begin": "140.840", 
+   "children": [], 
+   "end": "141.760", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Es geht nicht um Symbole, "
+   ]
+  }, 
+  {
+   "begin": "141.760", 
+   "children": [], 
+   "end": "143.280", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "sondern um die Taten, "
+   ]
+  }, 
+  {
+   "begin": "143.280", 
+   "children": [], 
+   "end": "144.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die jetzt folgen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "144.960", 
+   "children": [], 
+   "end": "151.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "um \u00fcber Teilhabem\u00f6glichkeiten unserem gemeinsamen Ziel einer m\u00f6glichst umfassend barrierefreien Gesellschaft n\u00e4her zu kommen."
+   ]
+  }, 
+  {
+   "begin": "151.480", 
+   "children": [], 
+   "end": "154.000", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "154.000", 
+   "children": [], 
+   "end": "161.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "das Bundesteilhabegesetz hat unbestritten hehre Absichten und ist in etlichen Punkten gut gelungen. "
+   ]
+  }, 
+  {
+   "begin": "161.680", 
+   "children": [], 
+   "end": "163.600", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Sicher gibt es noch genauso viele Baustellen, "
+   ]
+  }, 
+  {
+   "begin": "163.600", 
+   "children": [], 
+   "end": "167.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die wir gemeinsam begleiten werden und wo noch ein gutes St\u00fcck Arbeit vor uns liegt. "
+   ]
+  }, 
+  {
+   "begin": "167.760", 
+   "children": [], 
+   "end": "171.160", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Wir Freien Demokraten werden uns daf\u00fcr einsetzen, "
+   ]
+  }, 
+  {
+   "begin": "171.160", 
+   "children": [], 
+   "end": "172.560", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "den Menschen mit seinen Talenten, "
+   ]
+  }, 
+  {
+   "begin": "172.560", 
+   "children": [], 
+   "end": "176.440", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "seinen Bedarfen und seinen W\u00fcnschen in den Mittelpunkt dieses weiteren Prozesses zu stellen, "
+   ]
+  }, 
+  {
+   "begin": "176.440", 
+   "children": [], 
+   "end": "180.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "und wir wissen uns in diesem Hause fast ausnahmslos in guter Gesellschaft."
+   ]
+  }, 
+  {
+   "begin": "180.880", 
+   "children": [], 
+   "end": "182.320", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Sprache, "
+   ]
+  }, 
+  {
+   "begin": "182.320", 
+   "children": [], 
+   "end": "189.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Namen und Bezeichnungen spielen hierbei eine gro\u00dfe Rolle; "
+   ]
+  }, 
+  {
+   "begin": "189.560", 
+   "children": [], 
+   "end": "193.000", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "denn Sprache und Wortwahl pr\u00e4gen die Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "193.000", 
+   "children": [], 
+   "end": "194.480", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "pr\u00e4gen das Bewusstsein. "
+   ]
+  }, 
+  {
+   "begin": "194.480", 
+   "children": [], 
+   "end": "198.520", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Daher spricht vieles f\u00fcr die \u00c4nderung des Namens in Teilhabeausweis, "
+   ]
+  }, 
+  {
+   "begin": "198.520", 
+   "children": [], 
+   "end": "201.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wodurch Sprache im \u00dcbrigen auch nicht gebogen, "
+   ]
+  }, 
+  {
+   "begin": "201.320", 
+   "children": [], 
+   "end": "202.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "nicht verunglimpft wird, "
+   ]
+  }, 
+  {
+   "begin": "202.560", 
+   "children": [], 
+   "end": "203.400", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "so wie es manche, "
+   ]
+  }, 
+  {
+   "begin": "203.400", 
+   "children": [], 
+   "end": "204.320", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "zugegeben, "
+   ]
+  }, 
+  {
+   "begin": "204.320", 
+   "children": [], 
+   "end": "205.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "noch empfinden. "
+   ]
+  }, 
+  {
+   "begin": "205.760", 
+   "children": [], 
+   "end": "207.880", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr wird Sprache pr\u00e4ziser, "
+   ]
+  }, 
+  {
+   "begin": "207.880", 
+   "children": [], 
+   "end": "211.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "sie wird synchronisiert mit unserer heutigen Rechtsordnung und der Amtssprache, "
+   ]
+  }, 
+  {
+   "begin": "211.640", 
+   "children": [], 
+   "end": "216.600", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "wie sie etwa im Bundesteilhabegesetz offiziell bereits Anwendung findet. "
+   ]
+  }, 
+  {
+   "begin": "216.600", 
+   "children": [], 
+   "end": "217.160", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Kurzum: "
+   ]
+  }, 
+  {
+   "begin": "217.160", 
+   "children": [], 
+   "end": "224.760", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Die Umbenennung des Schwerbehindertenausweises in Teilhabeausweis h\u00e4tte problemlos auch Teil des Bundesteilhabegesetzes sein k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "224.760", 
+   "children": [], 
+   "end": "226.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht auch sollen."
+   ]
+  }, 
+  {
+   "begin": "226.480", 
+   "children": [], 
+   "end": "227.880", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "227.880", 
+   "children": [], 
+   "end": "234.240", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Sprache ist Ausdruck und Spiegel von Kultur und Anstand. "
+   ]
+  }, 
+  {
+   "begin": "234.240", 
+   "children": [], 
+   "end": "237.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Aber sie kann auch das genaue Gegenteil sein: "
+   ]
+  }, 
+  {
+   "begin": "237.080", 
+   "children": [], 
+   "end": "238.280", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Sie kann beleidigen, "
+   ]
+  }, 
+  {
+   "begin": "238.280", 
+   "children": [], 
+   "end": "239.520", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "sie kann ausgrenzen, "
+   ]
+  }, 
+  {
+   "begin": "239.520", 
+   "children": [], 
+   "end": "240.680", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "sie kann in die Irre f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "240.680", 
+   "children": [], 
+   "end": "242.440", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "sie kann diffamieren. "
+   ]
+  }, 
+  {
+   "begin": "242.440", 
+   "children": [], 
+   "end": "249.440", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Was wir in den letzten Wochen in Deutschland an Unversch\u00e4mtheiten und Entgleisungen gegen\u00fcber Menschen mit Behinderungen erlebt haben, "
+   ]
+  }, 
+  {
+   "begin": "249.440", 
+   "children": [], 
+   "end": "251.400", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "ist f\u00fcr mich bis heute unfassbar."
+   ]
+  }, 
+  {
+   "begin": "251.400", 
+   "children": [], 
+   "end": "263.680", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Die Provokationen von der rechten Seite dieses Hauses in der Kleinen Anfrage zu Schwerbehinderten sind scheinheilig. "
+   ]
+  }, 
+  {
+   "begin": "263.680", 
+   "children": [], 
+   "end": "266.320", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Sie geben sich den Deckmantel der F\u00fcrsorge; "
+   ]
+  }, 
+  {
+   "begin": "266.320", 
+   "children": [], 
+   "end": "272.640", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "aber Sie verkn\u00fcpfen in infamer Weise den Zusammenhang von Heiraten in der Familie mit einer Schuldfrage, "
+   ]
+  }, 
+  {
+   "begin": "272.640", 
+   "children": [], 
+   "end": "274.760", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "wenn Kinder mit Behinderungen geboren werden. "
+   ]
+  }, 
+  {
+   "begin": "274.760", 
+   "children": [], 
+   "end": "277.400", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Sie sch\u00fcren damit Ressentiments\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "277.400", 
+   "children": [], 
+   "end": "278.200", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "unterschwellig, "
+   ]
+  }, 
+  {
+   "begin": "278.200", 
+   "children": [], 
+   "end": "279.160", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "nicht ausdr\u00fccklich, "
+   ]
+  }, 
+  {
+   "begin": "279.160", 
+   "children": [], 
+   "end": "280.560", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "aber mit voller Absicht. "
+   ]
+  }, 
+  {
+   "begin": "280.560", 
+   "children": [], 
+   "end": "284.560", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Sie suggerieren b\u00f6sartig einen abwegigen Zusammenhang von Inzucht, "
+   ]
+  }, 
+  {
+   "begin": "284.560", 
+   "children": [], 
+   "end": "286.040", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "behinderten Kindern und nat\u00fcrlich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "286.040", 
+   "children": [], 
+   "end": "286.680", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "einmal mehr\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "286.680", 
+   "children": [], 
+   "end": "288.440", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Migrantinnen und Migranten. "
+   ]
+  }, 
+  {
+   "begin": "288.440", 
+   "children": [], 
+   "end": "290.680", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Sie vermitteln die menschenfeindliche Grundhaltung, "
+   ]
+  }, 
+  {
+   "begin": "290.680", 
+   "children": [], 
+   "end": "293.840", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Behinderung sei ein zu vermeidendes \u00dcbel, "
+   ]
+  }, 
+  {
+   "begin": "293.840", 
+   "children": [], 
+   "end": "296.320", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "vor dem die Gesellschaft bewahrt werden m\u00fcsse."
+   ]
+  }, 
+  {
+   "begin": "296.320", 
+   "children": [], 
+   "end": "297.440", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie mich fragen wollen, "
+   ]
+  }, 
+  {
+   "begin": "297.440", 
+   "children": [], 
+   "end": "297.960", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident: "
+   ]
+  }, 
+  {
+   "begin": "297.960", 
+   "children": [], 
+   "end": "302.600", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte keine Zwischenfragen zulassen, "
+   ]
+  }, 
+  {
+   "begin": "302.600", 
+   "children": [], 
+   "end": "310.240", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "bis die AfD die Gelegenheit dieser Debatte genutzt hat, "
+   ]
+  }, 
+  {
+   "begin": "310.240", 
+   "children": [], 
+   "end": "312.840", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "sich f\u00fcr diese Anfrage zu entschuldigen."
+   ]
+  }, 
+  {
+   "begin": "312.840", 
+   "children": [], 
+   "end": "313.320", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "Die Einsch\u00e4tzung, "
+   ]
+  }, 
+  {
+   "begin": "313.320", 
+   "children": [], 
+   "end": "314.720", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "die ich gerade wiedergegeben habe, "
+   ]
+  }, 
+  {
+   "begin": "314.720", 
+   "children": [], 
+   "end": "317.920", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "ist nicht die Einsch\u00e4tzung von mir als Ihrem politischen Wettbewerber\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "317.920", 
+   "children": [], 
+   "end": "320.640", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "interessengeleitet k\u00f6nnte man vielleicht unterstellen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "320.640", 
+   "children": [], 
+   "end": "325.880", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "sondern entstammt der gemeinsamen Erkl\u00e4rung 19 gro\u00dfer Sozialverb\u00e4nde in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "325.880", 
+   "children": [], 
+   "end": "331.360", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "abgedruckt am letzten Sonntag in der \u201eFrankfurter Allgemeinen Sonntagszeitung\u201c. "
+   ]
+  }, 
+  {
+   "begin": "331.360", 
+   "children": [], 
+   "end": "333.240", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Weiter hei\u00dft es in deren Erkl\u00e4rung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "333.240", 
+   "children": [], 
+   "end": "334.120", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "334.120", 
+   "children": [], 
+   "end": "338.680", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Die Anfrage der AfD-Fraktion erinnert damit an die dunkelsten Zeiten der deutschen Geschichte, "
+   ]
+  }, 
+  {
+   "begin": "338.680", 
+   "children": [], 
+   "end": "347.400", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "in denen Menschen mit Behinderung das Lebensrecht aberkannt wurde und sie zu Hunderttausenden Opfer des Nationalsozialismus wurden."
+   ]
+  }, 
+  {
+   "begin": "347.400", 
+   "children": [], 
+   "end": "351.600", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen doch erinnern an Diskussionen \u00fcber die Wertigkeit menschlichen Lebens. "
+   ]
+  }, 
+  {
+   "begin": "351.600", 
+   "children": [], 
+   "end": "354.760", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich f\u00fchlen Sie sich wieder missverstanden und in eine falsche Ecke gedr\u00e4ngt. "
+   ]
+  }, 
+  {
+   "begin": "354.760", 
+   "children": [], 
+   "end": "355.480", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Warum nur, "
+   ]
+  }, 
+  {
+   "begin": "355.480", 
+   "children": [], 
+   "end": "356.040", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "frage ich Sie, "
+   ]
+  }, 
+  {
+   "begin": "356.040", 
+   "children": [], 
+   "end": "358.240", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "verstehen so viele Menschen Sie immer wieder falsch, "
+   ]
+  }, 
+  {
+   "begin": "358.240", 
+   "children": [], 
+   "end": "359.960", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie doch f\u00fcr sich in Anspruch nehmen, "
+   ]
+  }, 
+  {
+   "begin": "359.960", 
+   "children": [], 
+   "end": "361.800", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "so nahe an den Menschen zu sein?"
+   ]
+  }, 
+  {
+   "begin": "361.800", 
+   "children": [], 
+   "end": "364.440", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "364.440", 
+   "children": [], 
+   "end": "367.360", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden genau so verstanden, "
+   ]
+  }, 
+  {
+   "begin": "367.360", 
+   "children": [], 
+   "end": "368.760", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie es beabsichtigen. "
+   ]
+  }, 
+  {
+   "begin": "368.760", 
+   "children": [], 
+   "end": "369.960", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Sie bleiben sich treu, "
+   ]
+  }, 
+  {
+   "begin": "369.960", 
+   "children": [], 
+   "end": "372.200", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "fahren in der immer gleichen Spur, "
+   ]
+  }, 
+  {
+   "begin": "372.200", 
+   "children": [], 
+   "end": "373.640", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "suchen den Tabubruch, "
+   ]
+  }, 
+  {
+   "begin": "373.640", 
+   "children": [], 
+   "end": "379.000", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "ertasten die Grenze bis zum Skandal und \u00fcberwinden diese dann ganz bewusst. "
+   ]
+  }, 
+  {
+   "begin": "379.000", 
+   "children": [], 
+   "end": "379.800", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "Sie versuchen, "
+   ]
+  }, 
+  {
+   "begin": "379.800", 
+   "children": [], 
+   "end": "380.480", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "damit zu \u00fcberdecken, "
+   ]
+  }, 
+  {
+   "begin": "380.480", 
+   "children": [], 
+   "end": "386.200", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie beispielsweise in der Sozialpolitik nicht die Spur einer ernstzunehmenden inhaltlichen Idee haben. "
+   ]
+  }, 
+  {
+   "begin": "386.200", 
+   "children": [], 
+   "end": "390.360", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Sie entkernen das Ideal des politischen Diskurses noch in diesem Haus, "
+   ]
+  }, 
+  {
+   "begin": "390.360", 
+   "children": [], 
+   "end": "395.000", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "und Sie offenbaren ein beleidigend niedriges Niveau und das v\u00f6llige Fehlen von Moral, "
+   ]
+  }, 
+  {
+   "begin": "395.000", 
+   "children": [], 
+   "end": "396.560", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Integrit\u00e4t und Anstand."
+   ]
+  }, 
+  {
+   "begin": "396.560", 
+   "children": [], 
+   "end": "413.760", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Fraktionsvorsitzender im saarl\u00e4ndischen Landtag hat in der vergangenen Woche offen und unverhohlen F\u00f6rdersch\u00fcler und Sch\u00fcler mit Downsyndrom direkt verglichen mit ansteckenden Patienten, "
+   ]
+  }, 
+  {
+   "begin": "413.760", 
+   "children": [], 
+   "end": "416.320", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "vor denen die Gesellschaft zu sch\u00fctzen sei."
+   ]
+  }, 
+  {
+   "begin": "416.320", 
+   "children": [], 
+   "end": "419.320", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "Was brauchen wir da noch f\u00fcr einen Beleg f\u00fcr Ihre Haltung?"
+   ]
+  }, 
+  {
+   "begin": "419.320", 
+   "children": [], 
+   "end": "426.840", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Die Ehrfurcht vor der Vergangenheit und die Verantwortung gegen\u00fcber der Zukunft geben f\u00fcrs Leben die richtige Haltung."
+   ]
+  }, 
+  {
+   "begin": "426.840", 
+   "children": [], 
+   "end": "428.400", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "Dietrich Bonhoeffer, "
+   ]
+  }, 
+  {
+   "begin": "428.400", 
+   "children": [], 
+   "end": "430.960", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr verehrten Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "430.960", 
+   "children": [], 
+   "end": "431.960", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen fehlt beides. "
+   ]
+  }, 
+  {
+   "begin": "431.960", 
+   "children": [], 
+   "end": "434.480", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen oder wollen aus der Vergangenheit nicht lernen, "
+   ]
+  }, 
+  {
+   "begin": "434.480", 
+   "children": [], 
+   "end": "437.840", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "und f\u00fcr die Zukunft fehlt Ihnen jede Spur von Verantwortungsgef\u00fchl."
+   ]
+  }, 
+  {
+   "begin": "437.840", 
+   "children": [], 
+   "end": "446.720", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "Gl\u00fccklicherweise unterscheidet sich die gro\u00dfe Mehrheit im Hause von Ihnen. "
+   ]
+  }, 
+  {
+   "begin": "446.720", 
+   "children": [], 
+   "end": "450.720", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "Menschlichkeit und Zusammenhalt in unserer Gesellschaft stehen nicht infrage. "
+   ]
+  }, 
+  {
+   "begin": "450.720", 
+   "children": [], 
+   "end": "451.880", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "Alle Menschen sind wertvoll, "
+   ]
+  }, 
+  {
+   "begin": "451.880", 
+   "children": [], 
+   "end": "453.720", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "und nichts und niemand hat das Recht, "
+   ]
+  }, 
+  {
+   "begin": "453.720", 
+   "children": [], 
+   "end": "457.120", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "Menschen in Wertekategorien einzuordnen, "
+   ]
+  }, 
+  {
+   "begin": "457.120", 
+   "children": [], 
+   "end": "458.720", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr verehrten Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "458.720", 
+   "children": [], 
+   "end": "459.360", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Beeck, "
+   ]
+  }, 
+  {
+   "begin": "459.360", 
+   "children": [], 
+   "end": "460.160", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "kommen Sie zum Schluss."
+   ]
+  }, 
+  {
+   "begin": "460.160", 
+   "children": [], 
+   "end": "461.800", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "Ich h\u00e4tte nicht gedacht, "
+   ]
+  }, 
+  {
+   "begin": "461.800", 
+   "children": [], 
+   "end": "466.720", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "dass man das in einem deutschen Parlament noch einmal sagen muss. "
+   ]
+  }, 
+  {
+   "begin": "466.720", 
+   "children": [], 
+   "end": "468.360", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "Aber die \u00dcberschrift gilt: "
+   ]
+  }, 
+  {
+   "begin": "468.360", 
+   "children": [], 
+   "end": "469.200", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "\u201eEs geht uns alle an: "
+   ]
+  }, 
+  {
+   "begin": "469.200", 
+   "children": [], 
+   "end": "470.520", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "Wachsam sein f\u00fcr die Menschlichkeit\u201c. "
+   ]
+  }, 
+  {
+   "begin": "470.520", 
+   "children": [], 
+   "end": "475.120", 
+   "id": "s000160", 
+   "language": "deu", 
+   "lines": [
+    "Das war am 22.\u00a0April die \u00dcberschrift der Anzeige der Sozialverb\u00e4nde. "
+   ]
+  }, 
+  {
+   "begin": "475.120", 
+   "children": [], 
+   "end": "481.440", 
+   "id": "s000161", 
+   "language": "deu", 
+   "lines": [
+    "Ausdr\u00fccklicher Dank daf\u00fcr an die Kollegin Ulla Schmidt als Vorsitzende der Bundesvereinigung Lebenshilfe f\u00fcr dieses klare Zeichen."
+   ]
+  }, 
+  {
+   "begin": "481.440", 
+   "children": [], 
+   "end": "482.640", 
+   "id": "s000162", 
+   "language": "deu", 
+   "lines": [
+    "Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "482.640", 
+   "children": [], 
+   "end": "485.840", 
+   "id": "s000163", 
+   "language": "deu", 
+   "lines": [
+    "wir verteidigen heute an dieser Stelle auch unsere offenen, "
+   ]
+  }, 
+  {
+   "begin": "485.840", 
+   "children": [], 
+   "end": "489.040", 
+   "id": "s000164", 
+   "language": "deu", 
+   "lines": [
+    "toleranten Werte in einer solidarischen und humanistischen Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "489.040", 
+   "children": [], 
+   "end": "490.040", 
+   "id": "s000165", 
+   "language": "deu", 
+   "lines": [
+    "die hier angegriffen und mit F\u00fc\u00dfen getreten wird. "
+   ]
+  }, 
+  {
+   "begin": "490.040", 
+   "children": [], 
+   "end": "490.800", 
+   "id": "s000166", 
+   "language": "deu", 
+   "lines": [
+    "Das lassen wir nicht zu."
+   ]
+  }, 
+  {
+   "begin": "490.800", 
+   "children": [], 
+   "end": "491.200", 
+   "id": "s000167", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "491.200", 
+   "children": [], 
+   "end": "492.480", 
+   "id": "s000168", 
+   "language": "deu", 
+   "lines": [
+    "bitte ein letzter Satz."
+   ]
+  }, 
+  {
+   "begin": "492.480", 
+   "children": [], 
+   "end": "493.440", 
+   "id": "s000169", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Ende, "
+   ]
+  }, 
+  {
+   "begin": "493.440", 
+   "children": [], 
+   "end": "493.880", 
+   "id": "s000170", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "493.880", 
+   "children": [], 
+   "end": "494.720", 
+   "id": "s000171", 
+   "language": "deu", 
+   "lines": [
+    "herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "494.720", 
+   "children": [], 
+   "end": "498.520", 
+   "id": "s000172", 
+   "language": "deu", 
+   "lines": [
+    "Eine Umbenennung des Ausweises in Teilhabeausweis mag geringf\u00fcgig wirken, "
+   ]
+  }, 
+  {
+   "begin": "498.520", 
+   "children": [], 
+   "end": "501.320", 
+   "id": "s000173", 
+   "language": "deu", 
+   "lines": [
+    "hat aber Potenzial f\u00fcr barrierefreies Denken und Sprechen. "
+   ]
+  }, 
+  {
+   "begin": "501.320", 
+   "children": [], 
+   "end": "502.640", 
+   "id": "s000174", 
+   "language": "deu", 
+   "lines": [
+    "In diesen Tagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "502.640", 
+   "children": [], 
+   "end": "503.320", 
+   "id": "s000175", 
+   "language": "deu", 
+   "lines": [
+    "es ist traurig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "503.320", 
+   "children": [], 
+   "end": "505.600", 
+   "id": "s000176", 
+   "language": "deu", 
+   "lines": [
+    "ist es auch das unmissverst\u00e4ndliche Zeichen daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "505.600", 
+   "children": [], 
+   "end": "509.160", 
+   "id": "s000177", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Gesellschaft in Ordnung ist und in Ordnung bleibt."
+   ]
+  }, 
+  {
+   "begin": "509.160", 
+   "children": [], 
+   "end": "509.600", 
+   "id": "s000178", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege, "
+   ]
+  }, 
+  {
+   "begin": "509.600", 
+   "children": [], 
+   "end": "510.400", 
+   "id": "s000179", 
+   "language": "deu", 
+   "lines": [
+    "bitte jetzt ein letzter Satz."
+   ]
+  }, 
+  {
+   "begin": "510.400", 
+   "children": [], 
+   "end": "511.360", 
+   "id": "s000180", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Witt, "
+   ]
+  }, 
+  {
+   "begin": "511.360", 
+   "children": [], 
+   "end": "512.600", 
+   "id": "s000181", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie gleich sprechen, "
+   ]
+  }, 
+  {
+   "begin": "512.600", 
+   "children": [], 
+   "end": "516.280", 
+   "id": "s000182", 
+   "language": "deu", 
+   "lines": [
+    "nutzen Sie die Gelegenheit zur Entschuldigung."
+   ]
+  }, 
+  {
+   "begin": "516.280", 
+   "children": [], 
+   "end": "520.000", 
+   "id": "s000183", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster f\u00fcr die CDU/CSU-Fraktion der Kollege Peter Wei\u00df."
+   ]
+  }
+ ]
+}

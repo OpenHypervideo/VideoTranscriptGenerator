@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "children": [], 
+   "end": "12.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.760", 
+   "children": [], 
+   "end": "20.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Angesichts der Marktkonzentrationen und Datenmissbrauchswelle ist eine Debatte \u00fcber die Regulierung digitaler M\u00e4rkte durchaus richtig; "
+   ]
+  }, 
+  {
+   "begin": "20.840", 
+   "children": [], 
+   "end": "23.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "aber eben nicht nur f\u00fcr die Verbraucher, "
+   ]
+  }, 
+  {
+   "begin": "23.520", 
+   "children": [], 
+   "end": "27.000", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch f\u00fcr Unternehmer und digitale Start-ups. "
+   ]
+  }, 
+  {
+   "begin": "27.000", 
+   "children": [], 
+   "end": "29.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Frau Dr\u00f6ge, "
+   ]
+  }, 
+  {
+   "begin": "29.440", 
+   "children": [], 
+   "end": "31.640", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "ich habe mir Ihren Antrag eben noch einmal angeschaut. "
+   ]
+  }, 
+  {
+   "begin": "31.640", 
+   "children": [], 
+   "end": "31.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Also, "
+   ]
+  }, 
+  {
+   "begin": "31.800", 
+   "children": [], 
+   "end": "34.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wenn das mit Facebook so schrecklich ist: "
+   ]
+  }, 
+  {
+   "begin": "34.800", 
+   "children": [], 
+   "end": "37.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind ja immer noch auf dieser Plattform."
+   ]
+  }, 
+  {
+   "begin": "37.680", 
+   "children": [], 
+   "end": "39.440", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Und wenn es so schrecklich ist, "
+   ]
+  }, 
+  {
+   "begin": "39.440", 
+   "children": [], 
+   "end": "43.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "dann hat man als m\u00fcndiger Konsument durchaus die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "43.520", 
+   "children": [], 
+   "end": "44.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "zu k\u00fcndigen."
+   ]
+  }, 
+  {
+   "begin": "44.920", 
+   "children": [], 
+   "end": "47.040", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das h\u00e4tten Sie machen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "47.040", 
+   "children": [], 
+   "end": "49.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das h\u00e4tten wir alle machen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "49.080", 
+   "children": [], 
+   "end": "56.440", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist die Glaubw\u00fcrdigkeit an dieser Stelle nicht ganz so stark."
+   ]
+  }, 
+  {
+   "begin": "56.440", 
+   "children": [], 
+   "end": "59.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wenn ich gewusst h\u00e4tte, "
+   ]
+  }, 
+  {
+   "begin": "59.040", 
+   "children": [], 
+   "end": "63.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "dass hinter der \u00dcberschrift im Grunde ein Facebook-Antrag steht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "63.760", 
+   "children": [], 
+   "end": "67.080", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "der Kollege Mohrs hat das eben ausgef\u00fchrt\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "67.080", 
+   "children": [], 
+   "end": "71.080", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "dann h\u00e4tten wir vielleicht auch anders auf diese Diskussion reagiert; "
+   ]
+  }, 
+  {
+   "begin": "71.080", 
+   "children": [], 
+   "end": "79.000", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "denn im Grunde ist Ihre Initiative zwar zu begr\u00fc\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "79.000", 
+   "children": [], 
+   "end": "81.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "aber sie ist nicht besonders neu. "
+   ]
+  }, 
+  {
+   "begin": "81.800", 
+   "children": [], 
+   "end": "86.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wenn Sie Ihren Entschlie\u00dfungsantrag aus dem M\u00e4rz\u00a02017 danebenlegen, "
+   ]
+  }, 
+  {
+   "begin": "86.200", 
+   "children": [], 
+   "end": "88.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "kann ich nur sagen: "
+   ]
+  }, 
+  {
+   "begin": "88.120", 
+   "children": [], 
+   "end": "92.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Sehr viel Copy-and-paste und sehr wenig Innovation."
+   ]
+  }, 
+  {
+   "begin": "92.800", 
+   "children": [], 
+   "end": "97.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Die technische Entwicklung schreitet rasant voran."
+   ]
+  }, 
+  {
+   "begin": "97.760", 
+   "children": [], 
+   "end": "98.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Genau: "
+   ]
+  }, 
+  {
+   "begin": "98.440", 
+   "children": [], 
+   "end": "100.040", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Neuland. "
+   ]
+  }, 
+  {
+   "begin": "100.040", 
+   "children": [], 
+   "end": "101.160", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Danke f\u00fcr das Stichwort.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "101.160", 
+   "children": [], 
+   "end": "104.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt schon Diskussionen in den entsprechenden Szenen, "
+   ]
+  }, 
+  {
+   "begin": "104.600", 
+   "children": [], 
+   "end": "106.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "die besagen: "
+   ]
+  }, 
+  {
+   "begin": "106.280", 
+   "children": [], 
+   "end": "111.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die Technologie der Plattformen ist schon wieder auf dem absteigenden Ast. "
+   ]
+  }, 
+  {
+   "begin": "111.080", 
+   "children": [], 
+   "end": "115.440", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die M\u00f6glichkeiten der Blockchain-Technologie etablieren sich. "
+   ]
+  }, 
+  {
+   "begin": "115.440", 
+   "children": [], 
+   "end": "121.440", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind schon vorhanden auf dem Markt f\u00fcr Reisen und in der Mobilit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "121.440", 
+   "children": [], 
+   "end": "126.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen sind digitale Plattformen nicht alternativ\u00adlos. "
+   ]
+  }, 
+  {
+   "begin": "126.240", 
+   "children": [], 
+   "end": "127.640", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Es kann durchaus sein, "
+   ]
+  }, 
+  {
+   "begin": "127.640", 
+   "children": [], 
+   "end": "128.320", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass Regelungen, "
+   ]
+  }, 
+  {
+   "begin": "128.320", 
+   "children": [], 
+   "end": "130.720", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die heute getroffen werden sollen, "
+   ]
+  }, 
+  {
+   "begin": "130.720", 
+   "children": [], 
+   "end": "133.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "morgen der Realit\u00e4t gar nicht mehr standhalten."
+   ]
+  }, 
+  {
+   "begin": "133.600", 
+   "children": [], 
+   "end": "134.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft nicht, "
+   ]
+  }, 
+  {
+   "begin": "134.640", 
+   "children": [], 
+   "end": "138.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass wir grunds\u00e4tzlich gegen Regulierungen sind. "
+   ]
+  }, 
+  {
+   "begin": "138.920", 
+   "children": [], 
+   "end": "144.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Es stellt sich nur die Frage, "
+   ]
+  }, 
+  {
+   "begin": "144.120", 
+   "children": [], 
+   "end": "148.560", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "womit man anf\u00e4ngt. "
+   ]
+  }, 
+  {
+   "begin": "148.560", 
+   "children": [], 
+   "end": "154.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Unserer Meinung nach ist die Aufhebung der Marktmacht durch einen staatlichen Eingriff der letzte Schritt; "
+   ]
+  }, 
+  {
+   "begin": "154.840", 
+   "children": [], 
+   "end": "158.280", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "bei Ihnen ist es die erste Forderung. "
+   ]
+  }, 
+  {
+   "begin": "158.280", 
+   "children": [], 
+   "end": "162.280", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen f\u00fcr die digitale Wirtschaft n\u00e4mlich Freiraum, "
+   ]
+  }, 
+  {
+   "begin": "162.280", 
+   "children": [], 
+   "end": "164.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "damit sie sich entfalten kann."
+   ]
+  }, 
+  {
+   "begin": "164.240", 
+   "children": [], 
+   "end": "166.680", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Gerade wenn wir Start-ups f\u00f6rdern wollen, "
+   ]
+  }, 
+  {
+   "begin": "166.680", 
+   "children": [], 
+   "end": "169.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "d\u00fcrfen doch die Zugangsschranken nicht so hoch sein. "
+   ]
+  }, 
+  {
+   "begin": "169.960", 
+   "children": [], 
+   "end": "176.320", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem m\u00f6chten wir in diesem Land doch eine digitale Transformation erreichen. "
+   ]
+  }, 
+  {
+   "begin": "176.320", 
+   "children": [], 
+   "end": "179.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir nicht auf Innovation, "
+   ]
+  }, 
+  {
+   "begin": "179.000", 
+   "children": [], 
+   "end": "180.400", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "sondern nur auf Regulierung setzen, "
+   ]
+  }, 
+  {
+   "begin": "180.400", 
+   "children": [], 
+   "end": "185.120", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "werden wir dieses Ziel gemeinsam nicht erreichen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "185.120", 
+   "children": [], 
+   "end": "185.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ihr Vorschlag, "
+   ]
+  }, 
+  {
+   "begin": "185.760", 
+   "children": [], 
+   "end": "188.040", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "dem Bundeskartellamt weitere Ermittlungs- "
+   ]
+  }, 
+  {
+   "begin": "188.040", 
+   "children": [], 
+   "end": "190.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "und Sanktionsbefugnisse zu geben, "
+   ]
+  }, 
+  {
+   "begin": "190.000", 
+   "children": [], 
+   "end": "192.960", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "ist aus unserer Sicht einfach verfr\u00fcht. "
+   ]
+  }, 
+  {
+   "begin": "192.960", 
+   "children": [], 
+   "end": "194.040", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Vor nicht einmal einem Jahr\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "194.040", 
+   "children": [], 
+   "end": "195.840", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "das ist eben schon erw\u00e4hnt worden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "195.840", 
+   "children": [], 
+   "end": "200.280", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "ist das \u00fcberarbeitete Gesetz gegen Wettbewerbsbeschr\u00e4nkungen in Kraft getreten. "
+   ]
+  }, 
+  {
+   "begin": "200.280", 
+   "children": [], 
+   "end": "203.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Seither hat das Kartellamt Pr\u00fcfm\u00f6glichkeiten. "
+   ]
+  }, 
+  {
+   "begin": "203.480", 
+   "children": [], 
+   "end": "210.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Aber noch bevor das Kartellamt sein Verfahren wegen Missbrauchs einer marktbeherrschenden Stellung gegen Facebook abgeschlossen hat, "
+   ]
+  }, 
+  {
+   "begin": "210.280", 
+   "children": [], 
+   "end": "213.800", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "fordern Sie weitere Kompetenzen."
+   ]
+  }, 
+  {
+   "begin": "213.800", 
+   "children": [], 
+   "end": "218.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Dazu m\u00f6chte ich Kartellamtspr\u00e4sidenten Mundt zitieren. "
+   ]
+  }, 
+  {
+   "begin": "218.480", 
+   "children": [], 
+   "end": "220.240", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Er hat gesagt: "
+   ]
+  }, 
+  {
+   "begin": "220.240", 
+   "children": [], 
+   "end": "223.320", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Lasst uns die Verfahren erst einmal machen und entscheiden, "
+   ]
+  }, 
+  {
+   "begin": "223.320", 
+   "children": [], 
+   "end": "225.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "was erlaubt ist und was nicht."
+   ]
+  }, 
+  {
+   "begin": "225.720", 
+   "children": [], 
+   "end": "228.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Die ersten Korsettstangen sind dann eingezogen, "
+   ]
+  }, 
+  {
+   "begin": "228.320", 
+   "children": [], 
+   "end": "230.440", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "und wenn das dann alles nicht reicht, "
+   ]
+  }, 
+  {
+   "begin": "230.440", 
+   "children": [], 
+   "end": "234.600", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnen wir immer noch \u00fcber weiter gehende Ma\u00dfnahmen diskutieren."
+   ]
+  }, 
+  {
+   "begin": "234.600", 
+   "children": [], 
+   "end": "235.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Alles in allem, "
+   ]
+  }, 
+  {
+   "begin": "235.800", 
+   "children": [], 
+   "end": "238.960", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren: "
+   ]
+  }, 
+  {
+   "begin": "238.960", 
+   "children": [], 
+   "end": "240.760", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Antrag ist ein Schnellschuss. "
+   ]
+  }, 
+  {
+   "begin": "240.760", 
+   "children": [], 
+   "end": "242.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Ich hatte nicht gedacht, "
+   ]
+  }, 
+  {
+   "begin": "242.000", 
+   "children": [], 
+   "end": "247.320", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass es sich um einen Facebook-Antrag handeln w\u00fcrde."
+   ]
+  }, 
+  {
+   "begin": "247.320", 
+   "children": [], 
+   "end": "248.760", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Ich hatte eigentlich gehofft, "
+   ]
+  }, 
+  {
+   "begin": "248.760", 
+   "children": [], 
+   "end": "257.480", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass wir etwas tiefer und ernsthafter \u00fcber die Problematik der Regulierung im Ausschuss diskutieren k\u00f6nnten. "
+   ]
+  }, 
+  {
+   "begin": "257.480", 
+   "children": [], 
+   "end": "259.720", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden der Vertagung zustimmen."
+   ]
+  }, 
+  {
+   "begin": "259.720", 
+   "children": [], 
+   "end": "261.320", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin im Moment pessimistisch, "
+   ]
+  }, 
+  {
+   "begin": "261.320", 
+   "children": [], 
+   "end": "263.040", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass wir inhaltlich weiterkommen."
+   ]
+  }, 
+  {
+   "begin": "263.040", 
+   "children": [], 
+   "end": "264.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "264.080", 
+   "children": [], 
+   "end": "271.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Die n\u00e4chste Rednerin ist die Kollegin Anke Domscheit-\u00adBerg f\u00fcr die Fraktion Die Linke."
+   ]
+  }
+ ]
+}

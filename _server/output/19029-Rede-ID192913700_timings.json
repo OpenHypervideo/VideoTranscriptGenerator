@@ -1,0 +1,794 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.040", 
+   "children": [], 
+   "end": "7.400", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "7.400", 
+   "children": [], 
+   "end": "10.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.840", 
+   "children": [], 
+   "end": "14.120", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "B\u00fcrokratieabbau ist eine Daueraufgabe. "
+   ]
+  }, 
+  {
+   "begin": "14.120", 
+   "children": [], 
+   "end": "15.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist richtig und wichtig, "
+   ]
+  }, 
+  {
+   "begin": "15.400", 
+   "children": [], 
+   "end": "26.000", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "um Unternehmen und uns alle von unn\u00f6tigen Regeln und Vorgaben zu entlasten und finanzielle und personelle Ressourcen freizusetzen. "
+   ]
+  }, 
+  {
+   "begin": "26.000", 
+   "children": [], 
+   "end": "26.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Das\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "26.360", 
+   "children": [], 
+   "end": "27.720", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "da bin ich mir ganz sicher\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "27.720", 
+   "children": [], 
+   "end": "30.720", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnen wir alle unterschreiben. "
+   ]
+  }, 
+  {
+   "begin": "30.720", 
+   "children": [], 
+   "end": "36.800", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "SPD und CDU/CSU haben sich deshalb im Koalitionsvertrag darauf verst\u00e4ndigt, "
+   ]
+  }, 
+  {
+   "begin": "36.800", 
+   "children": [], 
+   "end": "44.040", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "das B\u00fcrokratiemonster auch in dieser Wahlperiode fest an die Kandare zu nehmen."
+   ]
+  }, 
+  {
+   "begin": "44.040", 
+   "children": [], 
+   "end": "46.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen der FDP, "
+   ]
+  }, 
+  {
+   "begin": "46.680", 
+   "children": [], 
+   "end": "57.240", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Sie waren in den letzten Jahren nicht im Bundestag vertreten und konnten deshalb unser B\u00fcrokratieentlastungsgesetz\u00a0II, "
+   ]
+  }, 
+  {
+   "begin": "57.240", 
+   "children": [], 
+   "end": "63.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "das wir 2016 mit der CDU/CSU auf den Weg gebracht haben, "
+   ]
+  }, 
+  {
+   "begin": "63.360", 
+   "children": [], 
+   "end": "64.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "nicht unterst\u00fctzen."
+   ]
+  }, 
+  {
+   "begin": "64.200", 
+   "children": [], 
+   "end": "66.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Das ist schade f\u00fcr Sie; "
+   ]
+  }, 
+  {
+   "begin": "66.200", 
+   "children": [], 
+   "end": "68.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "denn mit diesem Gesetz haben wir, "
+   ]
+  }, 
+  {
+   "begin": "68.160", 
+   "children": [], 
+   "end": "69.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "auch ohne Ihre Hilfe, "
+   ]
+  }, 
+  {
+   "begin": "69.280", 
+   "children": [], 
+   "end": "72.120", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "deutliche Erleichterungen gerade f\u00fcr kleine\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "72.120", 
+   "children": [], 
+   "end": "75.040", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "oft Handwerksbetriebe\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "75.040", 
+   "children": [], 
+   "end": "77.200", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "und mittlere Betriebe beschlossen. "
+   ]
+  }, 
+  {
+   "begin": "77.200", 
+   "children": [], 
+   "end": "85.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das bringt f\u00fcr die Unternehmen Einsparungen beim Verwaltungsaufwand von bis zu 360\u00a0Millionen Euro im Jahr."
+   ]
+  }, 
+  {
+   "begin": "85.200", 
+   "children": [], 
+   "end": "96.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben den Unternehmen gerade auch bei den Abrechnungen der Sozialversicherungsbeitr\u00e4ge das Leben erleichtert."
+   ]
+  }, 
+  {
+   "begin": "96.880", 
+   "children": [], 
+   "end": "98.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Es ist erfreulich, "
+   ]
+  }, 
+  {
+   "begin": "98.240", 
+   "children": [], 
+   "end": "101.320", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie dies in Ihrem Antrag anerkennen. "
+   ]
+  }, 
+  {
+   "begin": "101.320", 
+   "children": [], 
+   "end": "105.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Sie verweisen auf eine Befragung von 400\u00a0Steuerberatern, "
+   ]
+  }, 
+  {
+   "begin": "105.160", 
+   "children": [], 
+   "end": "107.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Einzugsstellen und Softwareherstellern, "
+   ]
+  }, 
+  {
+   "begin": "107.720", 
+   "children": [], 
+   "end": "116.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "die 2016 im Auftrag des Nationalen Normenkontrollrates durch das Statistische Bundesamt durchgef\u00fchrt wurde. "
+   ]
+  }, 
+  {
+   "begin": "116.560", 
+   "children": [], 
+   "end": "118.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Es kam dabei heraus, "
+   ]
+  }, 
+  {
+   "begin": "118.040", 
+   "children": [], 
+   "end": "127.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass unser Gesetz beim Einzug der Sozialabgaben einen Entlastungseffekt in H\u00f6he von 64\u00a0Millionen Euro zur Folge hat. "
+   ]
+  }, 
+  {
+   "begin": "127.200", 
+   "children": [], 
+   "end": "127.480", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "127.480", 
+   "children": [], 
+   "end": "128.920", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "128.920", 
+   "children": [], 
+   "end": "130.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "ist eine beachtliche Summe, "
+   ]
+  }, 
+  {
+   "begin": "130.760", 
+   "children": [], 
+   "end": "136.240", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "und das ist eine wirkungsvolle Kampfansage an das B\u00fcrokratiemonster."
+   ]
+  }, 
+  {
+   "begin": "136.240", 
+   "children": [], 
+   "end": "146.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "In meinem B\u00fcro jedenfalls sind im letzten Jahr Dankesschreiben aus Personalabteilungen von Unternehmen eingetroffen."
+   ]
+  }, 
+  {
+   "begin": "146.120", 
+   "children": [], 
+   "end": "150.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir sollten das Kind deshalb jetzt nicht mit dem Bade aussch\u00fctten."
+   ]
+  }, 
+  {
+   "begin": "150.600", 
+   "children": [], 
+   "end": "155.280", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das B\u00fcrokratieentlastungsgesetz\u00a0II ist gerade erst, "
+   ]
+  }, 
+  {
+   "begin": "155.280", 
+   "children": [], 
+   "end": "156.960", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "seit 2017, "
+   ]
+  }, 
+  {
+   "begin": "156.960", 
+   "children": [], 
+   "end": "158.080", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "in Kraft, "
+   ]
+  }, 
+  {
+   "begin": "158.080", 
+   "children": [], 
+   "end": "159.080", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "ein Jahr also. "
+   ]
+  }, 
+  {
+   "begin": "159.080", 
+   "children": [], 
+   "end": "164.320", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Viele Unternehmen und Steuerb\u00fcros haben ihre Softwareprogramme entsprechend umgestellt, "
+   ]
+  }, 
+  {
+   "begin": "164.320", 
+   "children": [], 
+   "end": "167.160", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "was nat\u00fcrlich auch mit Kosten verbunden war. "
+   ]
+  }, 
+  {
+   "begin": "167.160", 
+   "children": [], 
+   "end": "168.360", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Leider schreiben Sie, "
+   ]
+  }, 
+  {
+   "begin": "168.360", 
+   "children": [], 
+   "end": "170.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen der FDP, "
+   ]
+  }, 
+  {
+   "begin": "170.920", 
+   "children": [], 
+   "end": "172.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "in Ihrem Antrag nicht, "
+   ]
+  }, 
+  {
+   "begin": "172.560", 
+   "children": [], 
+   "end": "186.000", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "welche weiteren finanziellen Entlastungen \u00fcber die 64\u00a0Millionen Euro hinaus Sie f\u00fcr die 210\u00a0000\u00a0betroffenen Unternehmen durch Ihre Vorschl\u00e4ge erwarten. "
+   ]
+  }, 
+  {
+   "begin": "186.000", 
+   "children": [], 
+   "end": "188.960", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagen auch nichts \u00fcber die Kosten, "
+   ]
+  }, 
+  {
+   "begin": "188.960", 
+   "children": [], 
+   "end": "193.560", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr die Sozialversicherungstr\u00e4ger entstehen k\u00f6nnten."
+   ]
+  }, 
+  {
+   "begin": "193.560", 
+   "children": [], 
+   "end": "195.080", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Ich f\u00fcrchte, "
+   ]
+  }, 
+  {
+   "begin": "195.080", 
+   "children": [], 
+   "end": "198.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass die Sozialversicherungstr\u00e4ger, "
+   ]
+  }, 
+  {
+   "begin": "198.600", 
+   "children": [], 
+   "end": "200.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "allen voran die Rentenversicherung, "
+   ]
+  }, 
+  {
+   "begin": "200.720", 
+   "children": [], 
+   "end": "205.360", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "angesichts Ihrer Anregungen nicht in Jubel ausbrechen werden. "
+   ]
+  }, 
+  {
+   "begin": "205.360", 
+   "children": [], 
+   "end": "210.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Sie schlagen zwar eine Sondervorauszahlung von Sozialbeitr\u00e4gen vor, "
+   ]
+  }, 
+  {
+   "begin": "210.680", 
+   "children": [], 
+   "end": "217.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "damit es bei den Sozialversicherungen durch Ihr Gesetz nicht zu unzumutbaren finanziellen Engp\u00e4ssen kommt. "
+   ]
+  }, 
+  {
+   "begin": "217.440", 
+   "children": [], 
+   "end": "220.480", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Ob diese Sondervorauszahlung jedoch ausreicht, "
+   ]
+  }, 
+  {
+   "begin": "220.480", 
+   "children": [], 
+   "end": "223.960", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "um die Liquidit\u00e4t der Rentenversicherung zu sichern, "
+   ]
+  }, 
+  {
+   "begin": "223.960", 
+   "children": [], 
+   "end": "225.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "ist zweifelhaft. "
+   ]
+  }, 
+  {
+   "begin": "225.320", 
+   "children": [], 
+   "end": "229.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Die Rentenversicherung f\u00fcrchtet jedenfalls starke Einbu\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "229.120", 
+   "children": [], 
+   "end": "232.160", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die zu einer Erh\u00f6hung der Beitr\u00e4ge f\u00fchren k\u00f6nnten. "
+   ]
+  }, 
+  {
+   "begin": "232.160", 
+   "children": [], 
+   "end": "234.080", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das wollen wir nicht; "
+   ]
+  }, 
+  {
+   "begin": "234.080", 
+   "children": [], 
+   "end": "236.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "das wollen wir vermeiden."
+   ]
+  }, 
+  {
+   "begin": "236.240", 
+   "children": [], 
+   "end": "238.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "238.800", 
+   "children": [], 
+   "end": "243.400", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "wir sollten B\u00fcrokratieabbau mit Augenma\u00df betreiben, "
+   ]
+  }, 
+  {
+   "begin": "243.400", 
+   "children": [], 
+   "end": "244.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "damit wir nicht das, "
+   ]
+  }, 
+  {
+   "begin": "244.520", 
+   "children": [], 
+   "end": "247.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "was wir gerade an Erfolgen aufgebaut haben, "
+   ]
+  }, 
+  {
+   "begin": "247.440", 
+   "children": [], 
+   "end": "249.920", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "mit dem Hinterteil wieder einrei\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "249.920", 
+   "children": [], 
+   "end": "250.760", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Und, "
+   ]
+  }, 
+  {
+   "begin": "250.760", 
+   "children": [], 
+   "end": "251.520", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "liebe FDP, "
+   ]
+  }, 
+  {
+   "begin": "251.520", 
+   "children": [], 
+   "end": "252.720", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "keine Sorge: "
+   ]
+  }, 
+  {
+   "begin": "252.720", 
+   "children": [], 
+   "end": "256.480", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Die SPD bleibt an dem Thema dran."
+   ]
+  }, 
+  {
+   "begin": "256.480", 
+   "children": [], 
+   "end": "264.680", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "In den Koalitionsvertrag haben wir auf Seite\u00a063 zahlreiche ganz konkrete Entlastungsvorschl\u00e4ge aufgenommen, "
+   ]
+  }, 
+  {
+   "begin": "264.680", 
+   "children": [], 
+   "end": "267.560", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die wir in dieser Wahlperiode umsetzen werden. "
+   ]
+  }, 
+  {
+   "begin": "267.560", 
+   "children": [], 
+   "end": "271.920", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir schauen dabei nicht nur auf unser B\u00fcrokratiemonster im Bund, "
+   ]
+  }, 
+  {
+   "begin": "271.920", 
+   "children": [], 
+   "end": "275.880", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch auf die vielen Monster in den Bundesl\u00e4ndern."
+   ]
+  }, 
+  {
+   "begin": "275.880", 
+   "children": [], 
+   "end": "279.680", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden daf\u00fcr eine Bund-L\u00e4nder-Arbeitsgruppe einsetzen, "
+   ]
+  }, 
+  {
+   "begin": "279.680", 
+   "children": [], 
+   "end": "284.880", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "um weitere wirksame Entlastungsvorschl\u00e4ge zu erarbeiten, "
+   ]
+  }, 
+  {
+   "begin": "284.880", 
+   "children": [], 
+   "end": "291.280", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "die wir dann auch zur Freude der Wirtschaft und aller Betroffenen kraftvoll umsetzen werden."
+   ]
+  }, 
+  {
+   "begin": "291.280", 
+   "children": [], 
+   "end": "299.600", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Wir machen weiter mit Thomas Lutze, "
+   ]
+  }, 
+  {
+   "begin": "299.600", 
+   "children": [], 
+   "end": "301.000", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke."
+   ]
+  }
+ ]
+}

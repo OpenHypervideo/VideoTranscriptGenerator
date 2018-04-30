@@ -1,0 +1,864 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.360", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.360", 
+   "children": [], 
+   "end": "8.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "children": [], 
+   "end": "12.720", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Mali ist der gef\u00e4hrlichste Einsatz der Bundeswehr. "
+   ]
+  }, 
+  {
+   "begin": "12.720", 
+   "children": [], 
+   "end": "14.280", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Um ihn einzusch\u00e4tzen, "
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "children": [], 
+   "end": "16.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "lohnt sich ein Blick nach Afghanistan, "
+   ]
+  }, 
+  {
+   "begin": "16.960", 
+   "children": [], 
+   "end": "22.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "wo nach 17\u00a0Jahren des Einsatzes die Taliban an den Verhandlungstisch gebeten werden. "
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "children": [], 
+   "end": "26.320", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind so m\u00e4chtig wie seit ihrem Sturz 2001 nicht mehr. "
+   ]
+  }, 
+  {
+   "begin": "26.320", 
+   "children": [], 
+   "end": "27.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Man beginnt, "
+   ]
+  }, 
+  {
+   "begin": "27.000", 
+   "children": [], 
+   "end": "28.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "einzusehen, "
+   ]
+  }, 
+  {
+   "begin": "28.280", 
+   "children": [], 
+   "end": "31.440", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass hier der Krieg verloren ist. "
+   ]
+  }, 
+  {
+   "begin": "31.440", 
+   "children": [], 
+   "end": "34.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "57\u00a0Bundeswehrsoldaten lie\u00dfen ihr Leben. "
+   ]
+  }, 
+  {
+   "begin": "34.880", 
+   "children": [], 
+   "end": "40.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Die Anzahl der PTBS-Betroffenen und geschiedenen Ehen werden wir nie erfahren. "
+   ]
+  }, 
+  {
+   "begin": "40.920", 
+   "children": [], 
+   "end": "49.440", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Dass die Regierung unsere Soldaten vor diesem Hintergrund erneut in einen Einsatz mit diffusen Missionszielen schicken will, "
+   ]
+  }, 
+  {
+   "begin": "49.440", 
+   "children": [], 
+   "end": "51.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "ist verantwortungslos. "
+   ]
+  }, 
+  {
+   "begin": "51.000", 
+   "children": [], 
+   "end": "53.400", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Sie sollten es inzwischen besser wissen."
+   ]
+  }, 
+  {
+   "begin": "53.400", 
+   "children": [], 
+   "end": "61.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Ein Blick in Ihren Antrag zeigt: "
+   ]
+  }, 
+  {
+   "begin": "61.080", 
+   "children": [], 
+   "end": "63.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Sie k\u00f6nnen gar nicht klar erkl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "63.480", 
+   "children": [], 
+   "end": "67.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "wof\u00fcr unsere Soldaten ihr Leben riskieren sollen: "
+   ]
+  }, 
+  {
+   "begin": "67.120", 
+   "children": [], 
+   "end": "69.680", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Schutz von Zivilpersonen, "
+   ]
+  }, 
+  {
+   "begin": "69.680", 
+   "children": [], 
+   "end": "71.440", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Anbieten guter Dienste, "
+   ]
+  }, 
+  {
+   "begin": "71.440", 
+   "children": [], 
+   "end": "75.240", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Erhalt malischen Kulturgutes usw. "
+   ]
+  }, 
+  {
+   "begin": "75.240", 
+   "children": [], 
+   "end": "76.440", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das steht in Ihrem Antrag. "
+   ]
+  }, 
+  {
+   "begin": "76.440", 
+   "children": [], 
+   "end": "77.360", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage mich: "
+   ]
+  }, 
+  {
+   "begin": "77.360", 
+   "children": [], 
+   "end": "81.600", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wann sind denn solche Ziele eigentlich erf\u00fcllt? "
+   ]
+  }, 
+  {
+   "begin": "81.600", 
+   "children": [], 
+   "end": "84.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Eine internationale Milit\u00e4roperation, "
+   ]
+  }, 
+  {
+   "begin": "84.640", 
+   "children": [], 
+   "end": "89.960", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "in deren Rahmen wir mit Widerstand durch gut organisierte irregul\u00e4re Kr\u00e4fte rechnen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "89.960", 
+   "children": [], 
+   "end": "93.240", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "braucht klare Ziele und Meilensteine. "
+   ]
+  }, 
+  {
+   "begin": "93.240", 
+   "children": [], 
+   "end": "98.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung kann von verantwortungsvollen Bundestagsabgeordneten nicht erwarten, "
+   ]
+  }, 
+  {
+   "begin": "98.320", 
+   "children": [], 
+   "end": "101.560", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dass sie unsere Soldaten in eine solche Mission schicken, "
+   ]
+  }, 
+  {
+   "begin": "101.560", 
+   "children": [], 
+   "end": "103.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "um dann abzuwarten, "
+   ]
+  }, 
+  {
+   "begin": "103.840", 
+   "children": [], 
+   "end": "109.600", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "was passiert."
+   ]
+  }, 
+  {
+   "begin": "109.600", 
+   "children": [], 
+   "end": "112.720", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Einsatz bringt alle Voraussetzungen mit sich, "
+   ]
+  }, 
+  {
+   "begin": "112.720", 
+   "children": [], 
+   "end": "116.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "der n\u00e4chste Endloseinsatz der Bundeswehr zu werden."
+   ]
+  }, 
+  {
+   "begin": "116.000", 
+   "children": [], 
+   "end": "116.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "116.680", 
+   "children": [], 
+   "end": "117.560", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "es tut mir leid, "
+   ]
+  }, 
+  {
+   "begin": "117.560", 
+   "children": [], 
+   "end": "118.760", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ihnen das sagen zu m\u00fcssen: "
+   ]
+  }, 
+  {
+   "begin": "118.760", 
+   "children": [], 
+   "end": "121.520", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Aber den Soldaten interessiert in der Hauptsache gar nicht, "
+   ]
+  }, 
+  {
+   "begin": "121.520", 
+   "children": [], 
+   "end": "125.000", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wie ausgiebig er hier von Ihnen immer gelobt wird; "
+   ]
+  }, 
+  {
+   "begin": "125.000", 
+   "children": [], 
+   "end": "126.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "ihn interessiert vielmehr, "
+   ]
+  }, 
+  {
+   "begin": "126.320", 
+   "children": [], 
+   "end": "127.680", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "gesund zu bleiben, "
+   ]
+  }, 
+  {
+   "begin": "127.680", 
+   "children": [], 
+   "end": "133.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber eine gute Ausr\u00fcstung zu verf\u00fcgen und nicht in sinnlose Eins\u00e4tze entsandt zu werden, "
+   ]
+  }, 
+  {
+   "begin": "133.440", 
+   "children": [], 
+   "end": "135.160", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die ihn von seiner Familie wegholen."
+   ]
+  }, 
+  {
+   "begin": "135.160", 
+   "children": [], 
+   "end": "145.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Soldaten haben auch im Vertrauen auf dieses Parlament geschworen, "
+   ]
+  }, 
+  {
+   "begin": "145.800", 
+   "children": [], 
+   "end": "147.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "das eigene Leben einzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "147.960", 
+   "children": [], 
+   "end": "149.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wenn es sein muss. "
+   ]
+  }, 
+  {
+   "begin": "149.840", 
+   "children": [], 
+   "end": "152.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir tragen hier eine hohe Verantwortung."
+   ]
+  }, 
+  {
+   "begin": "152.960", 
+   "children": [], 
+   "end": "153.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ich denke, "
+   ]
+  }, 
+  {
+   "begin": "153.440", 
+   "children": [], 
+   "end": "154.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wir sind uns alle einig, "
+   ]
+  }, 
+  {
+   "begin": "154.920", 
+   "children": [], 
+   "end": "161.480", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "dass unsere Soldaten mehr sind als ein zahlenm\u00e4\u00dfiges au\u00dfenpolitisches Statement. "
+   ]
+  }, 
+  {
+   "begin": "161.480", 
+   "children": [], 
+   "end": "163.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden hier \u00fcber V\u00e4ter, "
+   ]
+  }, 
+  {
+   "begin": "163.400", 
+   "children": [], 
+   "end": "164.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "M\u00fctter, "
+   ]
+  }, 
+  {
+   "begin": "164.080", 
+   "children": [], 
+   "end": "165.520", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "S\u00f6hne und T\u00f6chter. "
+   ]
+  }, 
+  {
+   "begin": "165.520", 
+   "children": [], 
+   "end": "167.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man sie in den Kampf schickt, "
+   ]
+  }, 
+  {
+   "begin": "167.040", 
+   "children": [], 
+   "end": "170.480", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dann erwarte ich ein klares Konzept und ein nationales Interesse, "
+   ]
+  }, 
+  {
+   "begin": "170.480", 
+   "children": [], 
+   "end": "179.240", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "aber keine Phrasen."
+   ]
+  }, 
+  {
+   "begin": "179.240", 
+   "children": [], 
+   "end": "181.280", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Sie schreiben in Ihrem eigenen Antrag, "
+   ]
+  }, 
+  {
+   "begin": "181.280", 
+   "children": [], 
+   "end": "184.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Lage in Mali verschlechtert. "
+   ]
+  }, 
+  {
+   "begin": "184.160", 
+   "children": [], 
+   "end": "191.440", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Radikale Islamisten k\u00f6nnen in mehreren afrikanischen Staaten relativ ungest\u00f6rt agieren. "
+   ]
+  }, 
+  {
+   "begin": "191.440", 
+   "children": [], 
+   "end": "194.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Weder k\u00f6nnen wir sie in ihren R\u00fcckzugsgebieten bek\u00e4mpfen, "
+   ]
+  }, 
+  {
+   "begin": "194.520", 
+   "children": [], 
+   "end": "197.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "noch k\u00f6nnen wir ihre Ideologie besiegen. "
+   ]
+  }, 
+  {
+   "begin": "197.760", 
+   "children": [], 
+   "end": "200.560", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Und selbst wenn es anders w\u00e4re: "
+   ]
+  }, 
+  {
+   "begin": "200.560", 
+   "children": [], 
+   "end": "203.440", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt keinen guten Grund daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "203.440", 
+   "children": [], 
+   "end": "213.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass ein deutsches Kind in Mali seinen Vater verliert."
+   ]
+  }, 
+  {
+   "begin": "213.920", 
+   "children": [], 
+   "end": "219.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Der fundamentalistische Islam wird in Afrika \u00fcbrigens besonders von Saudi-Arabien verbreitet. "
+   ]
+  }, 
+  {
+   "begin": "219.840", 
+   "children": [], 
+   "end": "224.560", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Auf der einen Seite st\u00e4rken Sie diesen Staat mit deutschen R\u00fcstungsg\u00fctern; "
+   ]
+  }, 
+  {
+   "begin": "224.560", 
+   "children": [], 
+   "end": "227.800", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "auf der anderen Seite sollen deutsche Soldaten ihr Leben riskieren, "
+   ]
+  }, 
+  {
+   "begin": "227.800", 
+   "children": [], 
+   "end": "229.560", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "um den Schaden einzud\u00e4mmen, "
+   ]
+  }, 
+  {
+   "begin": "229.560", 
+   "children": [], 
+   "end": "231.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "den sie in Afrika anrichten. "
+   ]
+  }, 
+  {
+   "begin": "231.560", 
+   "children": [], 
+   "end": "233.680", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Das nennt man Doppelmoral."
+   ]
+  }, 
+  {
+   "begin": "233.680", 
+   "children": [], 
+   "end": "241.360", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen weiter in Ihrem Antrag lesen, "
+   ]
+  }, 
+  {
+   "begin": "241.360", 
+   "children": [], 
+   "end": "245.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass alte Konflikte in Mali neu aufflammen. "
+   ]
+  }, 
+  {
+   "begin": "245.360", 
+   "children": [], 
+   "end": "250.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Mali ist ein sehr armes Land mit einem Altersdurchschnitt von 17. "
+   ]
+  }, 
+  {
+   "begin": "250.640", 
+   "children": [], 
+   "end": "254.720", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wo viele junge Menschen ohne Perspektive leben, "
+   ]
+  }, 
+  {
+   "begin": "254.720", 
+   "children": [], 
+   "end": "256.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "da kommt es zu Konflikten; "
+   ]
+  }, 
+  {
+   "begin": "256.680", 
+   "children": [], 
+   "end": "260.320", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "aber daran kann auch die Bundeswehr nichts \u00e4ndern."
+   ]
+  }, 
+  {
+   "begin": "260.320", 
+   "children": [], 
+   "end": "265.040", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Die Lage in Mali h\u00e4ngt nicht an dieser oder jener Terrorgruppe; "
+   ]
+  }, 
+  {
+   "begin": "265.040", 
+   "children": [], 
+   "end": "268.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "die Realit\u00e4t ist weitaus komplexer."
+   ]
+  }, 
+  {
+   "begin": "268.440", 
+   "children": [], 
+   "end": "270.280", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Hier fehlt ein Konzept; "
+   ]
+  }, 
+  {
+   "begin": "270.280", 
+   "children": [], 
+   "end": "272.400", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "hier fehlt das nationale Interesse. "
+   ]
+  }, 
+  {
+   "begin": "272.400", 
+   "children": [], 
+   "end": "274.320", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Wer diesem Einsatz zustimmt, "
+   ]
+  }, 
+  {
+   "begin": "274.320", 
+   "children": [], 
+   "end": "277.400", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "der hat aus Afghanistan nichts gelernt. "
+   ]
+  }, 
+  {
+   "begin": "277.400", 
+   "children": [], 
+   "end": "278.760", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Wir lehnen ihn ab. "
+   ]
+  }, 
+  {
+   "begin": "278.760", 
+   "children": [], 
+   "end": "282.000", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Da wir f\u00fcr eine konsequente R\u00fcckf\u00fchrung von Migranten stehen, "
+   ]
+  }, 
+  {
+   "begin": "282.000", 
+   "children": [], 
+   "end": "288.080", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "lehnen wir den Entschlie\u00dfungsantrag der Linken ebenfalls ab."
+   ]
+  }, 
+  {
+   "begin": "288.080", 
+   "children": [], 
+   "end": "294.640", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "294.640", 
+   "children": [], 
+   "end": "297.720", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist Paul Ziemiak f\u00fcr die CDU/CSU."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.240", 
+   "children": [], 
+   "end": "10.600", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.600", 
+   "children": [], 
+   "end": "11.920", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Herr Seestern-Pauly, "
+   ]
+  }, 
+  {
+   "begin": "11.920", 
+   "children": [], 
+   "end": "13.160", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "verstehe ich Sie da richtig, "
+   ]
+  }, 
+  {
+   "begin": "13.160", 
+   "children": [], 
+   "end": "15.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie eine Kindergrundsicherung fordern?"
+   ]
+  }, 
+  {
+   "begin": "15.880", 
+   "children": [], 
+   "end": "19.400", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00fcrde ich gerne mit Ihnen im Ausschuss diskutieren."
+   ]
+  }, 
+  {
+   "begin": "19.400", 
+   "children": [], 
+   "end": "24.240", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir \u00fcber den Kinderzuschlag sprechen, "
+   ]
+  }, 
+  {
+   "begin": "24.240", 
+   "children": [], 
+   "end": "26.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dann sprechen wir auch \u00fcber Kinderarmut; "
+   ]
+  }, 
+  {
+   "begin": "26.400", 
+   "children": [], 
+   "end": "30.960", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "das haben heute schon mehrere Vorrednerinnen und -redner hier getan. "
+   ]
+  }, 
+  {
+   "begin": "30.960", 
+   "children": [], 
+   "end": "34.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die Kinderarmut betrifft immer mehr Kinder in Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "34.680", 
+   "children": [], 
+   "end": "38.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Jedes f\u00fcnfte Kind ist inzwischen von Armut betroffen; "
+   ]
+  }, 
+  {
+   "begin": "38.600", 
+   "children": [], 
+   "end": "40.600", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die Tendenz ist steigend. "
+   ]
+  }, 
+  {
+   "begin": "40.600", 
+   "children": [], 
+   "end": "44.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Jedes siebente Kind ist auf Hartz\u00a0IV angewiesen. "
+   ]
+  }, 
+  {
+   "begin": "44.120", 
+   "children": [], 
+   "end": "49.280", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "In einem reichen Land wie Deutschland darf es so etwas nicht geben."
+   ]
+  }, 
+  {
+   "begin": "49.280", 
+   "children": [], 
+   "end": "52.520", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Dagegen m\u00fcssen wir alle etwas tun."
+   ]
+  }, 
+  {
+   "begin": "52.520", 
+   "children": [], 
+   "end": "54.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Wir alle wissen, "
+   ]
+  }, 
+  {
+   "begin": "54.600", 
+   "children": [], 
+   "end": "57.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "dass Armut Kinder am h\u00e4rtesten trifft. "
+   ]
+  }, 
+  {
+   "begin": "57.840", 
+   "children": [], 
+   "end": "58.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Kinder, "
+   ]
+  }, 
+  {
+   "begin": "58.240", 
+   "children": [], 
+   "end": "60.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die von Armut betroffen sind, "
+   ]
+  }, 
+  {
+   "begin": "60.000", 
+   "children": [], 
+   "end": "64.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "machen fr\u00fch die Erfahrung von gesellschaftlicher Ausgrenzung; "
+   ]
+  }, 
+  {
+   "begin": "64.280", 
+   "children": [], 
+   "end": "66.160", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "denn wer sich nicht leisten kann, "
+   ]
+  }, 
+  {
+   "begin": "66.160", 
+   "children": [], 
+   "end": "71.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "was f\u00fcr die Teilhabe am gesellschaftlichen Leben n\u00f6tig ist, "
+   ]
+  }, 
+  {
+   "begin": "71.160", 
+   "children": [], 
+   "end": "72.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "geh\u00f6rt nicht dazu. "
+   ]
+  }, 
+  {
+   "begin": "72.760", 
+   "children": [], 
+   "end": "77.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Gerade Kinder leiden darunter sehr. "
+   ]
+  }, 
+  {
+   "begin": "77.040", 
+   "children": [], 
+   "end": "77.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "77.800", 
+   "children": [], 
+   "end": "80.240", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie nicht mitmachen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "80.240", 
+   "children": [], 
+   "end": "82.560", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie nicht mithalten k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "82.560", 
+   "children": [], 
+   "end": "85.000", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "wenn kein Geld f\u00fcr den Urlaub da ist, "
+   ]
+  }, 
+  {
+   "begin": "85.000", 
+   "children": [], 
+   "end": "87.560", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie auf die Kleiderkammer angewiesen sind, "
+   ]
+  }, 
+  {
+   "begin": "87.560", 
+   "children": [], 
+   "end": "89.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "um sich dort Wintersachen zu holen, "
+   ]
+  }, 
+  {
+   "begin": "89.480", 
+   "children": [], 
+   "end": "94.200", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wenn das Jobcenter die Unterst\u00fctzung bei Schulausfl\u00fcgen ablehnt, "
+   ]
+  }, 
+  {
+   "begin": "94.200", 
+   "children": [], 
+   "end": "99.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "wenn sp\u00e4ter kein Geld f\u00fcr Kino oder Theater oder daf\u00fcr da ist, "
+   ]
+  }, 
+  {
+   "begin": "99.240", 
+   "children": [], 
+   "end": "103.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "einfach nur mal mit Freunden wegzugehen, "
+   ]
+  }, 
+  {
+   "begin": "103.000", 
+   "children": [], 
+   "end": "104.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dann ist das gesellschaftliche Ausgrenzung. "
+   ]
+  }, 
+  {
+   "begin": "104.920", 
+   "children": [], 
+   "end": "106.120", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Hier beginnt Armut, "
+   ]
+  }, 
+  {
+   "begin": "106.120", 
+   "children": [], 
+   "end": "107.960", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "und hier m\u00fcssen wir etwas dagegen tun."
+   ]
+  }, 
+  {
+   "begin": "107.960", 
+   "children": [], 
+   "end": "118.360", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden also von einem Mangel an Teilhabe am gesellschaftlichen Wohlstand. "
+   ]
+  }, 
+  {
+   "begin": "118.360", 
+   "children": [], 
+   "end": "123.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das ist f\u00fcr Kinder und Jugendliche oft schlimmer als andere Armutsaspekte. "
+   ]
+  }, 
+  {
+   "begin": "123.760", 
+   "children": [], 
+   "end": "125.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb lassen wir nicht zu, "
+   ]
+  }, 
+  {
+   "begin": "125.960", 
+   "children": [], 
+   "end": "126.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass, "
+   ]
+  }, 
+  {
+   "begin": "126.360", 
+   "children": [], 
+   "end": "128.680", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "wie zum Beispiel bei der Union, "
+   ]
+  }, 
+  {
+   "begin": "128.680", 
+   "children": [], 
+   "end": "132.320", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die Armen in Deutschland gegeneinander ausgespielt werden."
+   ]
+  }, 
+  {
+   "begin": "132.320", 
+   "children": [], 
+   "end": "135.120", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Ich verweise nur auf Herrn Spahn, "
+   ]
+  }, 
+  {
+   "begin": "135.120", 
+   "children": [], 
+   "end": "138.760", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "der Kinderarmut und Altersarmut gegeneinander ausspielt. "
+   ]
+  }, 
+  {
+   "begin": "138.760", 
+   "children": [], 
+   "end": "140.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das darf es nicht geben. "
+   ]
+  }, 
+  {
+   "begin": "140.400", 
+   "children": [], 
+   "end": "145.600", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir Linken werden uns niemals mit der Armut in diesem Land abfinden, "
+   ]
+  }, 
+  {
+   "begin": "145.600", 
+   "children": [], 
+   "end": "149.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "ganz besonders nicht bei Kindern."
+   ]
+  }, 
+  {
+   "begin": "149.040", 
+   "children": [], 
+   "end": "151.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Gegen Armut kann man etwas tun. "
+   ]
+  }, 
+  {
+   "begin": "151.160", 
+   "children": [], 
+   "end": "154.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Aber Sie werden die Armut nie wirksam bek\u00e4mpfen, "
+   ]
+  }, 
+  {
+   "begin": "154.960", 
+   "children": [], 
+   "end": "157.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie nicht den Reichtum antasten. "
+   ]
+  }, 
+  {
+   "begin": "157.360", 
+   "children": [], 
+   "end": "161.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Doch genau das wollen Sie um jeden Preis verhindern; "
+   ]
+  }, 
+  {
+   "begin": "161.000", 
+   "children": [], 
+   "end": "165.040", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "der Koalitionsvertrag macht es auch ganz deutlich. "
+   ]
+  }, 
+  {
+   "begin": "165.040", 
+   "children": [], 
+   "end": "169.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Sie belassen es bei St\u00fcckwerk und bei sch\u00f6nen Sonntagsreden. "
+   ]
+  }, 
+  {
+   "begin": "169.080", 
+   "children": [], 
+   "end": "169.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "169.440", 
+   "children": [], 
+   "end": "170.600", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "170.600", 
+   "children": [], 
+   "end": "173.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "ist weder christlich noch sozial."
+   ]
+  }, 
+  {
+   "begin": "173.000", 
+   "children": [], 
+   "end": "177.600", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Kleine L\u00f6sungen reichen nicht aus\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "177.600", 
+   "children": [], 
+   "end": "180.720", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "das haben wir heute in vielen Reden geh\u00f6rt\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "180.720", 
+   "children": [], 
+   "end": "182.560", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "auch beim Kinderzuschlag nicht. "
+   ]
+  }, 
+  {
+   "begin": "182.560", 
+   "children": [], 
+   "end": "183.520", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Es ist gut, "
+   ]
+  }, 
+  {
+   "begin": "183.520", 
+   "children": [], 
+   "end": "187.240", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass die Gr\u00fcnen diesen Antrag vorgelegt haben. "
+   ]
+  }, 
+  {
+   "begin": "187.240", 
+   "children": [], 
+   "end": "189.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Aber das ist noch nicht genug. "
+   ]
+  }, 
+  {
+   "begin": "189.680", 
+   "children": [], 
+   "end": "191.520", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen mehr tun; "
+   ]
+  }, 
+  {
+   "begin": "191.520", 
+   "children": [], 
+   "end": "197.320", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "denn nur ein Bruchteil der Berechtigten nimmt den Kinderzuschlag in Anspruch. "
+   ]
+  }, 
+  {
+   "begin": "197.320", 
+   "children": [], 
+   "end": "197.880", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "197.880", 
+   "children": [], 
+   "end": "200.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "es ist ein wichtiger Schritt in die richtige Richtung, "
+   ]
+  }, 
+  {
+   "begin": "200.640", 
+   "children": [], 
+   "end": "203.280", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "und deshalb unterst\u00fctzen wir ihn auch."
+   ]
+  }, 
+  {
+   "begin": "203.280", 
+   "children": [], 
+   "end": "209.560", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Die Leistungen f\u00fcr Kinder sind bei uns in Deutschland grundlegend falsch konzipiert. "
+   ]
+  }, 
+  {
+   "begin": "209.560", 
+   "children": [], 
+   "end": "217.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Am einen Ende der Skala steht eine unzureichende und willk\u00fcrlich berechnete Leistung; "
+   ]
+  }, 
+  {
+   "begin": "217.400", 
+   "children": [], 
+   "end": "220.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "das ist der Kinderregelsatz bei Hartz\u00a0IV. "
+   ]
+  }, 
+  {
+   "begin": "220.120", 
+   "children": [], 
+   "end": "223.040", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Etwas bessere Leistungen erhalten Familien, "
+   ]
+  }, 
+  {
+   "begin": "223.040", 
+   "children": [], 
+   "end": "226.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die Anspruch auf Kinderzuschlag und auf Kindergeld haben. "
+   ]
+  }, 
+  {
+   "begin": "226.800", 
+   "children": [], 
+   "end": "232.800", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Am anderen Ende der Skala stehen die Kinder aus wohlhabenden Familien, "
+   ]
+  }, 
+  {
+   "begin": "232.800", 
+   "children": [], 
+   "end": "235.720", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "die vom Kinderfreibetrag profitieren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "235.720", 
+   "children": [], 
+   "end": "239.480", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "und das ganz ohne kompliziertes Antragsverfahren. "
+   ]
+  }, 
+  {
+   "begin": "239.480", 
+   "children": [], 
+   "end": "240.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Dieses System, "
+   ]
+  }, 
+  {
+   "begin": "240.600", 
+   "children": [], 
+   "end": "241.880", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "241.880", 
+   "children": [], 
+   "end": "242.840", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "ist ungerecht, "
+   ]
+  }, 
+  {
+   "begin": "242.840", 
+   "children": [], 
+   "end": "245.200", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "und das muss ver\u00e4ndert werden."
+   ]
+  }, 
+  {
+   "begin": "245.200", 
+   "children": [], 
+   "end": "250.280", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb kann man damit aus unserer Sicht auch keine Armut bek\u00e4mpfen."
+   ]
+  }, 
+  {
+   "begin": "250.280", 
+   "children": [], 
+   "end": "253.960", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wer wirklich etwas gegen Kinderarmut tun will, "
+   ]
+  }, 
+  {
+   "begin": "253.960", 
+   "children": [], 
+   "end": "258.680", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "muss die Leistungen f\u00fcr Kinder von Grund auf reformieren. "
+   ]
+  }, 
+  {
+   "begin": "258.680", 
+   "children": [], 
+   "end": "265.240", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Die zentralen Bed\u00fcrfnisse f\u00fcr gesellschaftliche Teilhabe m\u00fcssen bei jedem Kind gleich gut abgesichert sein, "
+   ]
+  }, 
+  {
+   "begin": "265.240", 
+   "children": [], 
+   "end": "267.320", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "und zwar auf einem Niveau, "
+   ]
+  }, 
+  {
+   "begin": "267.320", 
+   "children": [], 
+   "end": "269.640", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "das vor allen Dingen der Realit\u00e4t entspricht."
+   ]
+  }, 
+  {
+   "begin": "269.640", 
+   "children": [], 
+   "end": "270.360", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "270.360", 
+   "children": [], 
+   "end": "271.800", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "kommen Sie bitte zum Schluss."
+   ]
+  }, 
+  {
+   "begin": "271.800", 
+   "children": [], 
+   "end": "272.520", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme zum Schluss.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "272.520", 
+   "children": [], 
+   "end": "274.520", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wir fordern eine Kindergrundsicherung, "
+   ]
+  }, 
+  {
+   "begin": "274.520", 
+   "children": [], 
+   "end": "277.400", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "weil uns jedes Kind gleich viel wert ist."
+   ]
+  }, 
+  {
+   "begin": "277.400", 
+   "children": [], 
+   "end": "278.120", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin."
+   ]
+  }, 
+  {
+   "begin": "278.120", 
+   "children": [], 
+   "end": "279.440", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "279.440", 
+   "children": [], 
+   "end": "281.400", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "wir stehen vor dem 1.\u00a0Mai, "
+   ]
+  }, 
+  {
+   "begin": "281.400", 
+   "children": [], 
+   "end": "283.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "dem Tag der Arbeit. "
+   ]
+  }, 
+  {
+   "begin": "283.000", 
+   "children": [], 
+   "end": "287.880", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcnsche Ihnen allen einen sch\u00f6nen 1.\u00a0Mai."
+   ]
+  }, 
+  {
+   "begin": "287.880", 
+   "children": [], 
+   "end": "288.920", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "288.920", 
+   "children": [], 
+   "end": "290.400", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr die guten W\u00fcnsche, "
+   ]
+  }, 
+  {
+   "begin": "290.400", 
+   "children": [], 
+   "end": "291.160", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "291.160", 
+   "children": [], 
+   "end": "297.000", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Als letztem Redner des heutigen Tages erteile ich dem Abgeordneten Maik Beermann f\u00fcr die CDU/CSU-Fraktion das Wort."
+   ]
+  }
+ ]
+}

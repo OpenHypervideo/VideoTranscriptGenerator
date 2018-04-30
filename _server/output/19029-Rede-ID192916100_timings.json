@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.520", 
+   "children": [], 
+   "end": "9.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.240", 
+   "children": [], 
+   "end": "11.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "children": [], 
+   "end": "12.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df nicht, "
+   ]
+  }, 
+  {
+   "begin": "12.560", 
+   "children": [], 
+   "end": "14.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "wie es Ihnen ging, "
+   ]
+  }, 
+  {
+   "begin": "14.280", 
+   "children": [], 
+   "end": "26.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "als Herr M\u00fcnzenmaier von der AfD bei unserer letzten Debatte zum Thema Befristungen im Februar hier im Plenarsaal eine ganz gro\u00dfe Reform des Teilzeit- "
+   ]
+  }, 
+  {
+   "begin": "26.800", 
+   "children": [], 
+   "end": "30.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und Befristungsgesetzes angek\u00fcndigt hatte. "
+   ]
+  }, 
+  {
+   "begin": "30.280", 
+   "children": [], 
+   "end": "32.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ich jedenfalls war sehr gespannt, "
+   ]
+  }, 
+  {
+   "begin": "32.560", 
+   "children": [], 
+   "end": "35.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "was die AfD liefern w\u00fcrde. "
+   ]
+  }, 
+  {
+   "begin": "35.120", 
+   "children": [], 
+   "end": "38.560", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt liegt uns der Gesetzentwurf vor. "
+   ]
+  }, 
+  {
+   "begin": "38.560", 
+   "children": [], 
+   "end": "40.280", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Mein Fazit: "
+   ]
+  }, 
+  {
+   "begin": "40.280", 
+   "children": [], 
+   "end": "42.120", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Er bleibt deutlich hinter dem zur\u00fcck, "
+   ]
+  }, 
+  {
+   "begin": "42.120", 
+   "children": [], 
+   "end": "48.600", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "was SPD und CDU/CSU im Koalitionsvertrag bereits vereinbart haben."
+   ]
+  }, 
+  {
+   "begin": "48.600", 
+   "children": [], 
+   "end": "53.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "In unserem Koalitionsvertrag steht auf Seite\u00a012 klipp und klar\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "53.800", 
+   "children": [], 
+   "end": "54.360", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "54.360", 
+   "children": [], 
+   "end": "57.960", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Endlose Kettenbefristungen werden abgeschafft."
+   ]
+  }, 
+  {
+   "begin": "57.960", 
+   "children": [], 
+   "end": "63.160", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Und auf Seite\u00a052 steht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "63.160", 
+   "children": [], 
+   "end": "63.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "63.880", 
+   "children": [], 
+   "end": "68.160", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Eine Befristung eines Arbeitsverh\u00e4ltnisses ist dann nicht zul\u00e4ssig, "
+   ]
+  }, 
+  {
+   "begin": "68.160", 
+   "children": [], 
+   "end": "81.760", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wenn mit demselben Arbeitgeber bereits zuvor ein unbefristetes oder ein oder mehrere befristete Arbeitsverh\u00e4ltnisse mit einer Gesamtdauer von f\u00fcnf oder mehr Jahren bestanden haben."
+   ]
+  }, 
+  {
+   "begin": "81.760", 
+   "children": [], 
+   "end": "86.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Diese Regelung betrifft wohlgemerkt Befristungen mit Sachgrund, "
+   ]
+  }, 
+  {
+   "begin": "86.080", 
+   "children": [], 
+   "end": "88.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "also zum Beispiel Elternzeit- "
+   ]
+  }, 
+  {
+   "begin": "88.760", 
+   "children": [], 
+   "end": "90.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "oder Krankheitsvertretungen. "
+   ]
+  }, 
+  {
+   "begin": "90.960", 
+   "children": [], 
+   "end": "91.440", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Warum, "
+   ]
+  }, 
+  {
+   "begin": "91.440", 
+   "children": [], 
+   "end": "92.320", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "92.320", 
+   "children": [], 
+   "end": "95.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "haben wir uns bei den Befristungen mit Sachgrund\u00a0\u2013\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "95.440", 
+   "children": [], 
+   "end": "97.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Gestatten Sie eine Zwischenfrage, "
+   ]
+  }, 
+  {
+   "begin": "97.800", 
+   "children": [], 
+   "end": "99.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin?"
+   ]
+  }, 
+  {
+   "begin": "99.520", 
+   "children": [], 
+   "end": "100.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "100.280", 
+   "children": [], 
+   "end": "101.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "m\u00f6chte ich nicht."
+   ]
+  }, 
+  {
+   "begin": "101.640", 
+   "children": [], 
+   "end": "110.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Warum haben wir uns bei den Befristungen mit Sachgrund auf die F\u00fcnfjahresfrist verst\u00e4ndigt? "
+   ]
+  }, 
+  {
+   "begin": "110.160", 
+   "children": [], 
+   "end": "110.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "110.360", 
+   "children": [], 
+   "end": "112.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "112.160", 
+   "children": [], 
+   "end": "114.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4ngt mit der neuen Br\u00fcckenteilzeit zusammen, "
+   ]
+  }, 
+  {
+   "begin": "114.840", 
+   "children": [], 
+   "end": "117.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die wir schon sehr bald umsetzen werden. "
+   ]
+  }, 
+  {
+   "begin": "117.160", 
+   "children": [], 
+   "end": "121.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitnehmer und Arbeitnehmerinnen sollen das Recht erhalten, "
+   ]
+  }, 
+  {
+   "begin": "121.360", 
+   "children": [], 
+   "end": "126.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "ihre Arbeitszeit bis zu f\u00fcnf Jahre reduzieren zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "126.720", 
+   "children": [], 
+   "end": "130.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "um dann wieder in die alte Arbeitszeit zur\u00fcckzukehren. "
+   ]
+  }, 
+  {
+   "begin": "130.200", 
+   "children": [], 
+   "end": "135.160", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Mit diesem Schritt helfen wir vor allem vielen Frauen aus der Teilzeitfalle."
+   ]
+  }, 
+  {
+   "begin": "135.160", 
+   "children": [], 
+   "end": "138.760", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Zu den Befristungen ohne Sachgrund: "
+   ]
+  }, 
+  {
+   "begin": "138.760", 
+   "children": [], 
+   "end": "143.400", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Sie sollen k\u00fcnftig nur noch h\u00f6chstens 18\u00a0Monate dauern d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "143.400", 
+   "children": [], 
+   "end": "149.360", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem wird die M\u00f6glichkeit der sachgrundlosen Befristungen in den Betrieben stark eingeschr\u00e4nkt. "
+   ]
+  }, 
+  {
+   "begin": "149.360", 
+   "children": [], 
+   "end": "156.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Damit helfen wir rund 400\u00a0000\u00a0Menschen auf dem Weg zu einem unbefristeten Arbeitsvertrag. "
+   ]
+  }, 
+  {
+   "begin": "156.480", 
+   "children": [], 
+   "end": "161.160", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Das sind die Vorschl\u00e4ge der SPD im Koalitionsvertrag."
+   ]
+  }, 
+  {
+   "begin": "161.160", 
+   "children": [], 
+   "end": "167.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Und nun kommen wir zum Gesetzentwurf der AfD. "
+   ]
+  }, 
+  {
+   "begin": "167.840", 
+   "children": [], 
+   "end": "168.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Hier hei\u00dft es: "
+   ]
+  }, 
+  {
+   "begin": "168.960", 
+   "children": [], 
+   "end": "172.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Kettenbefristungen sollen verhindert werden. "
+   ]
+  }, 
+  {
+   "begin": "172.240", 
+   "children": [], 
+   "end": "179.800", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Unterscheidung zwischen Befristungen mit und ohne Sachgrund soll zugunsten einer generellen Regelung aufgehoben werden. "
+   ]
+  }, 
+  {
+   "begin": "179.800", 
+   "children": [], 
+   "end": "183.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Befristungen sollen grunds\u00e4tzlich zeitlich begrenzt werden.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "183.760", 
+   "children": [], 
+   "end": "186.400", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Das h\u00f6rt sich erst einmal vern\u00fcnftig an. "
+   ]
+  }, 
+  {
+   "begin": "186.400", 
+   "children": [], 
+   "end": "189.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Bei n\u00e4herer Betrachtung wird aber schnell deutlich, "
+   ]
+  }, 
+  {
+   "begin": "189.120", 
+   "children": [], 
+   "end": "194.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass diese Ziele mit dem vorliegenden Gesetzentwurf \u00fcberhaupt nicht erreicht werden; "
+   ]
+  }, 
+  {
+   "begin": "194.320", 
+   "children": [], 
+   "end": "196.120", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "denn schon beim ersten Punkt, "
+   ]
+  }, 
+  {
+   "begin": "196.120", 
+   "children": [], 
+   "end": "197.240", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "den Kettenbefristungen, "
+   ]
+  }, 
+  {
+   "begin": "197.240", 
+   "children": [], 
+   "end": "199.480", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "sollen Ausnahmen zugelassen werden. "
+   ]
+  }, 
+  {
+   "begin": "199.480", 
+   "children": [], 
+   "end": "209.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "So k\u00f6nnen zum Beispiel Betriebe unter zehn Besch\u00e4ftigten weiterhin unbegrenzt befristete Arbeitsverh\u00e4ltnisse mit demselben Besch\u00e4ftigten eingehen."
+   ]
+  }, 
+  {
+   "begin": "209.320", 
+   "children": [], 
+   "end": "215.240", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "In Betrieben dieser Gr\u00f6\u00dfe arbeiten zurzeit etwa 8,4\u00a0Millionen Menschen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "215.240", 
+   "children": [], 
+   "end": "220.600", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "das ist fast jeder f\u00fcnfte Erwerbst\u00e4tige in Deutschland."
+   ]
+  }, 
+  {
+   "begin": "220.600", 
+   "children": [], 
+   "end": "222.640", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Und wie sieht es damit aus, "
+   ]
+  }, 
+  {
+   "begin": "222.640", 
+   "children": [], 
+   "end": "229.120", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass es keine Unterscheidung mehr zwischen Befristungen mit und ohne Sachgrund geben soll? "
+   ]
+  }, 
+  {
+   "begin": "229.120", 
+   "children": [], 
+   "end": "230.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage: "
+   ]
+  }, 
+  {
+   "begin": "230.040", 
+   "children": [], 
+   "end": "232.120", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Vorsicht an der Bahnsteigkante! "
+   ]
+  }, 
+  {
+   "begin": "232.120", 
+   "children": [], 
+   "end": "239.560", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Denn in \u00a7\u00a014 Absatz\u00a02 des AfD-Gesetzentwurfes finden wir zahlreiche Ausnahmef\u00e4lle, "
+   ]
+  }, 
+  {
+   "begin": "239.560", 
+   "children": [], 
+   "end": "246.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "in denen eine l\u00e4ngere Befristung durch einen \u201ebesonderen Grund\u201c dann doch gerechtfertigt sein soll."
+   ]
+  }, 
+  {
+   "begin": "246.520", 
+   "children": [], 
+   "end": "251.000", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Und erstaunlicherweise sind die aufgef\u00fchrten Gr\u00fcnde fast die gleichen, "
+   ]
+  }, 
+  {
+   "begin": "251.000", 
+   "children": [], 
+   "end": "253.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "die wir schon heute im Gesetz haben."
+   ]
+  }, 
+  {
+   "begin": "253.440", 
+   "children": [], 
+   "end": "257.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber einen neuen Grund, "
+   ]
+  }, 
+  {
+   "begin": "257.800", 
+   "children": [], 
+   "end": "259.360", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "den die AfD einf\u00fchren will, "
+   ]
+  }, 
+  {
+   "begin": "259.360", 
+   "children": [], 
+   "end": "261.120", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "bin ich allerdings gestolpert: "
+   ]
+  }, 
+  {
+   "begin": "261.120", 
+   "children": [], 
+   "end": "264.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die AfD ist ein besonderer Befristungsgrund, "
+   ]
+  }, 
+  {
+   "begin": "264.280", 
+   "children": [], 
+   "end": "267.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Befristung vornehmlich der Qualifikation dient. "
+   ]
+  }, 
+  {
+   "begin": "267.840", 
+   "children": [], 
+   "end": "269.600", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "269.600", 
+   "children": [], 
+   "end": "273.880", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "das w\u00e4re ja ein riesengro\u00dfes Einfallstor f\u00fcr Missbrauch. "
+   ]
+  }, 
+  {
+   "begin": "273.880", 
+   "children": [], 
+   "end": "280.800", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Denn wann endet in der heutigen Zeit der Digitalisierung und des ewigen Lernens die Qualifizierung der Besch\u00e4ftigten? "
+   ]
+  }, 
+  {
+   "begin": "280.800", 
+   "children": [], 
+   "end": "284.760", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Dann m\u00fcssten ja alle nur noch befristete Arbeitsvertr\u00e4ge bekommen. "
+   ]
+  }, 
+  {
+   "begin": "284.760", 
+   "children": [], 
+   "end": "286.000", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Dazu sage ich: "
+   ]
+  }, 
+  {
+   "begin": "286.000", 
+   "children": [], 
+   "end": "288.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Nein danke, "
+   ]
+  }, 
+  {
+   "begin": "288.000", 
+   "children": [], 
+   "end": "288.720", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "AfD!"
+   ]
+  }, 
+  {
+   "begin": "288.720", 
+   "children": [], 
+   "end": "290.560", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Nun zum letzten Punkt: "
+   ]
+  }, 
+  {
+   "begin": "290.560", 
+   "children": [], 
+   "end": "293.640", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Liest man den AfD-Gesetzentwurf sorgf\u00e4ltig\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "293.640", 
+   "children": [], 
+   "end": "294.440", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "294.440", 
+   "children": [], 
+   "end": "296.080", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Zeit ist zu Ende."
+   ]
+  }, 
+  {
+   "begin": "296.080", 
+   "children": [], 
+   "end": "297.600", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0ich komme zum Schluss\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "297.600", 
+   "children": [], 
+   "end": "298.840", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "f\u00e4llt auf, "
+   ]
+  }, 
+  {
+   "begin": "298.840", 
+   "children": [], 
+   "end": "305.640", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "dass die besonderen Befristungsgr\u00fcnde der AfD \u00fcberhaupt kein zeitliches Limit haben. "
+   ]
+  }, 
+  {
+   "begin": "305.640", 
+   "children": [], 
+   "end": "308.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Sp\u00e4testens hier endet das M\u00e4rchen der AfD, "
+   ]
+  }, 
+  {
+   "begin": "308.520", 
+   "children": [], 
+   "end": "312.560", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Befristungen grunds\u00e4tzlich auf zwei Jahre begrenzen zu wollen, "
+   ]
+  }, 
+  {
+   "begin": "312.560", 
+   "children": [], 
+   "end": "316.600", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "allerdings ohne Happy End f\u00fcr die Besch\u00e4ftigten."
+   ]
+  }, 
+  {
+   "begin": "316.600", 
+   "children": [], 
+   "end": "322.960", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion Die Linke spricht die Kollegin Susanne Ferschl."
+   ]
+  }
+ ]
+}

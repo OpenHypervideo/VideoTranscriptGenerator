@@ -1,0 +1,834 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.600", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "6.600", 
+   "children": [], 
+   "end": "7.760", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "children": [], 
+   "end": "9.800", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.800", 
+   "children": [], 
+   "end": "12.040", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste auf den Trib\u00fcnen!"
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "children": [], 
+   "end": "15.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Mein Mann ist seit 6\u00a0Tagen in dem gef\u00e4hrlichen Einsatz in Mali, "
+   ]
+  }, 
+  {
+   "begin": "15.480", 
+   "children": [], 
+   "end": "16.880", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "und ich habe das Gef\u00fchl, "
+   ]
+  }, 
+  {
+   "begin": "16.880", 
+   "children": [], 
+   "end": "19.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass es mir den Boden unter den F\u00fc\u00dfen wegrei\u00dft. "
+   ]
+  }, 
+  {
+   "begin": "19.560", 
+   "children": [], 
+   "end": "23.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe 5\u00a0Tage lang durchgeweint und kann einfach nicht zu Hause sein, "
+   ]
+  }, 
+  {
+   "begin": "23.600", 
+   "children": [], 
+   "end": "24.600", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "allein.\u00a0... "
+   ]
+  }, 
+  {
+   "begin": "24.600", 
+   "children": [], 
+   "end": "26.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Wann f\u00e4ngt man sich, "
+   ]
+  }, 
+  {
+   "begin": "26.240", 
+   "children": [], 
+   "end": "27.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wann h\u00f6rt man auf, "
+   ]
+  }, 
+  {
+   "begin": "27.320", 
+   "children": [], 
+   "end": "28.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "so zu trauern\u00a0...?"
+   ]
+  }, 
+  {
+   "begin": "28.920", 
+   "children": [], 
+   "end": "34.560", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "So schreibt die 28-j\u00e4hrige Sarah in einem Forum f\u00fcr Soldatenfrauen, "
+   ]
+  }, 
+  {
+   "begin": "34.560", 
+   "children": [], 
+   "end": "35.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und sie ist nicht die Einzige, "
+   ]
+  }, 
+  {
+   "begin": "35.800", 
+   "children": [], 
+   "end": "36.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "der es so geht; "
+   ]
+  }, 
+  {
+   "begin": "36.440", 
+   "children": [], 
+   "end": "42.400", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "denn in Mali befinden sich derzeit etwa 1\u00a0200\u00a0Soldatinnen und Soldaten der Bundeswehr im Einsatz. "
+   ]
+  }, 
+  {
+   "begin": "42.400", 
+   "children": [], 
+   "end": "44.960", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Sie alle haben Angeh\u00f6rige und Freunde hier, "
+   ]
+  }, 
+  {
+   "begin": "44.960", 
+   "children": [], 
+   "end": "48.520", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die sie vermissen und die sich um sie sorgen. "
+   ]
+  }, 
+  {
+   "begin": "48.520", 
+   "children": [], 
+   "end": "50.960", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Denen m\u00fcssten Frau von der Leyen und Herr Maas, "
+   ]
+  }, 
+  {
+   "begin": "50.960", 
+   "children": [], 
+   "end": "52.320", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die ich hier im \u00dcbrigen vermisse, "
+   ]
+  }, 
+  {
+   "begin": "52.320", 
+   "children": [], 
+   "end": "53.000", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "einmal erkl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "53.000", 
+   "children": [], 
+   "end": "57.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "welchen Sinn ihre Einsamkeit und ihre Angst haben."
+   ]
+  }, 
+  {
+   "begin": "57.960", 
+   "children": [], 
+   "end": "61.000", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir sprechen hier heute \u00fcber den kleineren der beiden Eins\u00e4tze, "
+   ]
+  }, 
+  {
+   "begin": "61.000", 
+   "children": [], 
+   "end": "63.600", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "an denen die Bundeswehr in Mali beteiligt ist, "
+   ]
+  }, 
+  {
+   "begin": "63.600", 
+   "children": [], 
+   "end": "69.480", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die europ\u00e4ische Trainingsmission EUTM Mali zur Ausbildung der malischen Streitkr\u00e4fte. "
+   ]
+  }, 
+  {
+   "begin": "69.480", 
+   "children": [], 
+   "end": "76.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Dabei hat die Bundeswehr in den letzten Jahren bereits 11\u00a0000 sogenannte Sicherheitskr\u00e4fte in Mali ausgebildet, "
+   ]
+  }, 
+  {
+   "begin": "76.400", 
+   "children": [], 
+   "end": "79.040", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "und inzwischen tut sie das auch in Burkina Faso, "
+   ]
+  }, 
+  {
+   "begin": "79.040", 
+   "children": [], 
+   "end": "79.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "in Niger, "
+   ]
+  }, 
+  {
+   "begin": "79.800", 
+   "children": [], 
+   "end": "82.800", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "in Mauretanien und im Tschad."
+   ]
+  }, 
+  {
+   "begin": "82.800", 
+   "children": [], 
+   "end": "86.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Warum sage ich \u201esogenannte Sicherheitskr\u00e4fte\u201c? "
+   ]
+  }, 
+  {
+   "begin": "86.760", 
+   "children": [], 
+   "end": "88.480", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Schauen wir uns doch einmal an, "
+   ]
+  }, 
+  {
+   "begin": "88.480", 
+   "children": [], 
+   "end": "89.280", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "was Armee, "
+   ]
+  }, 
+  {
+   "begin": "89.280", 
+   "children": [], 
+   "end": "92.160", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Polizei und Geheimdienste in diesen L\u00e4ndern tun, "
+   ]
+  }, 
+  {
+   "begin": "92.160", 
+   "children": [], 
+   "end": "94.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "um die Sicherheit der Bev\u00f6lkerung zu verbessern. "
+   ]
+  }, 
+  {
+   "begin": "94.960", 
+   "children": [], 
+   "end": "95.720", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "95.720", 
+   "children": [], 
+   "end": "97.600", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Da m\u00fcssen Sie lange suchen."
+   ]
+  }, 
+  {
+   "begin": "97.600", 
+   "children": [], 
+   "end": "107.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Zum Tschad etwa schreibt die evangelische Entwicklungshilfeorganisation Brot f\u00fcr die Welt Folgendes:"
+   ]
+  }, 
+  {
+   "begin": "107.840", 
+   "children": [], 
+   "end": "114.560", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Im westafrikanischen Tschad veruntreut Pr\u00e4sident Idriss D\u00e9by Itno die Milliarden aus dem \u00d6lgesch\u00e4ft. "
+   ]
+  }, 
+  {
+   "begin": "114.560", 
+   "children": [], 
+   "end": "117.920", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Teile des Geldes investiert er in die Sicherheitskr\u00e4fte, "
+   ]
+  }, 
+  {
+   "begin": "117.920", 
+   "children": [], 
+   "end": "120.760", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "mit denen er die Zivilgesellschaft unterdr\u00fcckt."
+   ]
+  }, 
+  {
+   "begin": "120.760", 
+   "children": [], 
+   "end": "127.160", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Und bei der Ausbildung dieser Unsicherheitskr\u00e4fte helfen ihm jetzt freundlicherweise die EU und leider auch die Bundeswehr. "
+   ]
+  }, 
+  {
+   "begin": "127.160", 
+   "children": [], 
+   "end": "130.080", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Erkl\u00e4ren Sie das mal der jungen Soldatenfrau, "
+   ]
+  }, 
+  {
+   "begin": "130.080", 
+   "children": [], 
+   "end": "132.360", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die deswegen um ihren Liebsten weinen muss."
+   ]
+  }, 
+  {
+   "begin": "132.360", 
+   "children": [], 
+   "end": "134.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Zu Mauretanien. "
+   ]
+  }, 
+  {
+   "begin": "134.120", 
+   "children": [], 
+   "end": "139.200", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Etwa 43\u00a0000\u00a0Menschen in Mauretanien leben in Sklaverei. "
+   ]
+  }, 
+  {
+   "begin": "139.200", 
+   "children": [], 
+   "end": "141.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Im Jahr\u00a02018! "
+   ]
+  }, 
+  {
+   "begin": "141.360", 
+   "children": [], 
+   "end": "145.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Wer diese illegale Ausbeutung kritisiert, "
+   ]
+  }, 
+  {
+   "begin": "145.600", 
+   "children": [], 
+   "end": "150.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "wird von den sogenannten Sicherheitskr\u00e4ften inhaftiert und gefoltert."
+   ]
+  }, 
+  {
+   "begin": "150.880", 
+   "children": [], 
+   "end": "154.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Diese menschenunw\u00fcrdigen Zust\u00e4nde hindern die EU aber nicht daran, "
+   ]
+  }, 
+  {
+   "begin": "154.800", 
+   "children": [], 
+   "end": "157.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Mauretanien im Rahmen dieses Mandats aufzur\u00fcsten, "
+   ]
+  }, 
+  {
+   "begin": "157.480", 
+   "children": [], 
+   "end": "160.360", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "indem sie seine Streitkr\u00e4fte ert\u00fcchtigen, "
+   ]
+  }, 
+  {
+   "begin": "160.360", 
+   "children": [], 
+   "end": "161.600", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wie es so sch\u00f6n hei\u00dft."
+   ]
+  }, 
+  {
+   "begin": "161.600", 
+   "children": [], 
+   "end": "165.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Dabei geht es doch gar nicht um die Menschen vor Ort und um die Schaffung eines Rechtsstaates, "
+   ]
+  }, 
+  {
+   "begin": "165.360", 
+   "children": [], 
+   "end": "167.640", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "sondern einzig und allein darum, "
+   ]
+  }, 
+  {
+   "begin": "167.640", 
+   "children": [], 
+   "end": "173.440", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Fl\u00fcchtlinge aus den L\u00e4ndern s\u00fcdlich der Sahara schon in Mauretanien aufzuhalten. "
+   ]
+  }, 
+  {
+   "begin": "173.440", 
+   "children": [], 
+   "end": "177.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr hat allein Spanien in den letzten Jahren Hunderte von Millionen Euro aufgebracht, "
+   ]
+  }, 
+  {
+   "begin": "177.680", 
+   "children": [], 
+   "end": "181.760", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "und dazu dient leider auch die Ausbildung durch die Bundeswehr."
+   ]
+  }, 
+  {
+   "begin": "181.760", 
+   "children": [], 
+   "end": "183.040", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Schauen wir nach Niger. "
+   ]
+  }, 
+  {
+   "begin": "183.040", 
+   "children": [], 
+   "end": "187.680", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Dort ist die Zahl der Proteste und Demonstrationen in den letzten Jahren stark angestiegen."
+   ]
+  }, 
+  {
+   "begin": "187.680", 
+   "children": [], 
+   "end": "191.200", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Zu Mali komme ich schon noch.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "191.200", 
+   "children": [], 
+   "end": "192.760", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Die \u201eWashington Post\u201c meint dazu, "
+   ]
+  }, 
+  {
+   "begin": "192.760", 
+   "children": [], 
+   "end": "198.360", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "das liege an den privilegierten Positionen des nigrischen Pr\u00e4sidenten Issoufou, "
+   ]
+  }, 
+  {
+   "begin": "198.360", 
+   "children": [], 
+   "end": "200.720", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dem der Westen den R\u00fccken freih\u00e4lt. "
+   ]
+  }, 
+  {
+   "begin": "200.720", 
+   "children": [], 
+   "end": "202.800", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Die Journalisten schreiben dazu: "
+   ]
+  }, 
+  {
+   "begin": "202.800", 
+   "children": [], 
+   "end": "204.000", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Es ist unwahrscheinlich, "
+   ]
+  }, 
+  {
+   "begin": "204.000", 
+   "children": [], 
+   "end": "211.120", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "dass die westlichen Geberl\u00e4nder Issoufous Verwaltung f\u00fcr die Verletzung der Menschenrechte und Rechtsstaatlichkeit verantwortlich machen, "
+   ]
+  }, 
+  {
+   "begin": "211.120", 
+   "children": [], 
+   "end": "216.000", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "solange er eine Operationsbasis f\u00fcr fremdes Milit\u00e4r zur Verf\u00fcgung stellt."
+   ]
+  }, 
+  {
+   "begin": "216.000", 
+   "children": [], 
+   "end": "220.520", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Und auch in Mali selbst w\u00e4chst der Widerstand der Bev\u00f6lkerung gegen die ausl\u00e4ndischen Truppen, "
+   ]
+  }, 
+  {
+   "begin": "220.520", 
+   "children": [], 
+   "end": "223.640", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "und mit ihm wachsen auch die Proteste gegen die eigene Regierung, "
+   ]
+  }, 
+  {
+   "begin": "223.640", 
+   "children": [], 
+   "end": "231.320", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "die die ausl\u00e4ndischen Streitkr\u00e4fte im Land duldet und trotzdem keine Sicherheit f\u00fcr die eigenen Leute garantieren kann."
+   ]
+  }, 
+  {
+   "begin": "231.320", 
+   "children": [], 
+   "end": "233.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung schreibt es doch selbst:"
+   ]
+  }, 
+  {
+   "begin": "233.080", 
+   "children": [], 
+   "end": "236.720", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Tiefgreifende Reformen des Sicherheitssektors sind ausgeblieben."
+   ]
+  }, 
+  {
+   "begin": "236.720", 
+   "children": [], 
+   "end": "239.360", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Die Sicherheitslage habe sich nicht verbessert, "
+   ]
+  }, 
+  {
+   "begin": "239.360", 
+   "children": [], 
+   "end": "240.960", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "insgesamt sogar verschlechtert. "
+   ]
+  }, 
+  {
+   "begin": "240.960", 
+   "children": [], 
+   "end": "244.480", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Die Umsetzung des Friedensabkommens komme nicht voran."
+   ]
+  }, 
+  {
+   "begin": "244.480", 
+   "children": [], 
+   "end": "250.120", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Das Verteidigungsministerium konnte mir im Ausw\u00e4rtigen Ausschuss nicht einmal genau darlegen, "
+   ]
+  }, 
+  {
+   "begin": "250.120", 
+   "children": [], 
+   "end": "252.120", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "wie konkret verhindert werden soll, "
+   ]
+  }, 
+  {
+   "begin": "252.120", 
+   "children": [], 
+   "end": "256.600", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass die ausgebildeten Soldaten zu bewaffneten Milizen wechseln oder selbst welche gr\u00fcnden."
+   ]
+  }, 
+  {
+   "begin": "256.600", 
+   "children": [], 
+   "end": "256.880", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "256.880", 
+   "children": [], 
+   "end": "258.120", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "258.120", 
+   "children": [], 
+   "end": "262.440", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "an der Ausbildung von solchen Unsicherheitskr\u00e4ften sollte sich die Bundeswehr nicht mehr beteiligen, "
+   ]
+  }, 
+  {
+   "begin": "262.440", 
+   "children": [], 
+   "end": "266.720", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "und deshalb sagt die Linke Nein zu diesem Mandat."
+   ]
+  }, 
+  {
+   "begin": "266.720", 
+   "children": [], 
+   "end": "274.000", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen spricht Dr.\u00a0Frithjof Schmidt."
+   ]
+  }
+ ]
+}

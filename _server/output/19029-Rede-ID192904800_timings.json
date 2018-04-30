@@ -1,0 +1,404 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.520", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "3.520", 
+   "children": [], 
+   "end": "6.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie die Kurzintervention zulassen. "
+   ]
+  }, 
+  {
+   "begin": "6.680", 
+   "children": [], 
+   "end": "8.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Ich beziehe mich noch einmal darauf, "
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "children": [], 
+   "end": "12.320", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "was Herr Witt in seiner Rede gesagt hat. "
+   ]
+  }, 
+  {
+   "begin": "12.320", 
+   "children": [], 
+   "end": "13.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt einen Zeitungsartikel, "
+   ]
+  }, 
+  {
+   "begin": "13.760", 
+   "children": [], 
+   "end": "15.240", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "der in der \u201etaz\u201c, "
+   ]
+  }, 
+  {
+   "begin": "15.240", 
+   "children": [], 
+   "end": "17.760", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "bei \u201eZeit online\u201c und in der \u201eFrankfurter Allgemeinen\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "17.760", 
+   "children": [], 
+   "end": "21.160", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "das sind ja nicht unbedingt rechte oder konservative Zeitungen; "
+   ]
+  }, 
+  {
+   "begin": "21.160", 
+   "children": [], 
+   "end": "22.040", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "konservativ schon, "
+   ]
+  }, 
+  {
+   "begin": "22.040", 
+   "children": [], 
+   "end": "23.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht unbedingt rechts\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.120", 
+   "children": [], 
+   "end": "23.920", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "ver\u00f6ffentlicht wurde. "
+   ]
+  }, 
+  {
+   "begin": "23.920", 
+   "children": [], 
+   "end": "25.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "25.000", 
+   "children": [], 
+   "end": "25.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "mit Ihrer Erlaubnis\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "25.840", 
+   "children": [], 
+   "end": "27.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "daraus zitieren. "
+   ]
+  }, 
+  {
+   "begin": "27.000", 
+   "children": [], 
+   "end": "35.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die ehemalige CDU-Bundestagabgeordnete und Gesundheitsexpertin Stefanie Vogelsang wird in diesem Artikel zitiert:"
+   ]
+  }, 
+  {
+   "begin": "35.760", 
+   "children": [], 
+   "end": "38.400", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "\u201eWir m\u00fcssen das Thema Verwandtenehe endlich offen, "
+   ]
+  }, 
+  {
+   "begin": "38.400", 
+   "children": [], 
+   "end": "39.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "aber auch sensibel angehen\u201c, "
+   ]
+  }, 
+  {
+   "begin": "39.720", 
+   "children": [], 
+   "end": "40.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "fordert sie daher: "
+   ]
+  }, 
+  {
+   "begin": "40.880", 
+   "children": [], 
+   "end": "42.600", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "\u201eWenn Cousin und Cousine heiraten, "
+   ]
+  }, 
+  {
+   "begin": "42.600", 
+   "children": [], 
+   "end": "43.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "wissen sie oft nicht, "
+   ]
+  }, 
+  {
+   "begin": "43.280", 
+   "children": [], 
+   "end": "45.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "worauf sie sich einlassen.\u201c Frau Vogelsang"
+   ]
+  }, 
+  {
+   "begin": "45.440", 
+   "children": [], 
+   "end": "46.520", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0so steht es hier\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "46.520", 
+   "children": [], 
+   "end": "51.080", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "pl\u00e4diert daher f\u00fcr mehr Aufkl\u00e4rung \u00fcber Verwandtenehen."
+   ]
+  }, 
+  {
+   "begin": "51.080", 
+   "children": [], 
+   "end": "52.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Und jetzt:"
+   ]
+  }, 
+  {
+   "begin": "52.000", 
+   "children": [], 
+   "end": "52.920", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "W\u00fcssten t\u00fcrkische, "
+   ]
+  }, 
+  {
+   "begin": "52.920", 
+   "children": [], 
+   "end": "58.360", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "aber auch libanesische oder irakische Familien mehr \u00fcber die gesundheitlichen Risiken, "
+   ]
+  }, 
+  {
+   "begin": "58.360", 
+   "children": [], 
+   "end": "60.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "meint die CDU-Politikerin, "
+   ]
+  }, 
+  {
+   "begin": "60.280", 
+   "children": [], 
+   "end": "62.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrden sie vielleicht weniger darauf beharren, "
+   ]
+  }, 
+  {
+   "begin": "62.800", 
+   "children": [], 
+   "end": "66.280", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dass ihre Kinder Verwandte heiraten."
+   ]
+  }, 
+  {
+   "begin": "66.280", 
+   "children": [], 
+   "end": "68.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Ist das jetzt auch rechts? "
+   ]
+  }, 
+  {
+   "begin": "68.320", 
+   "children": [], 
+   "end": "73.360", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ist das auch in der N\u00e4he des Nationalsozialismus zu verorten? "
+   ]
+  }, 
+  {
+   "begin": "73.360", 
+   "children": [], 
+   "end": "76.400", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine Ihrer Abgeordneten, "
+   ]
+  }, 
+  {
+   "begin": "76.400", 
+   "children": [], 
+   "end": "77.560", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die das gesagt hat. "
+   ]
+  }, 
+  {
+   "begin": "77.560", 
+   "children": [], 
+   "end": "79.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Bei unserer Anfrage ging es nur darum, "
+   ]
+  }, 
+  {
+   "begin": "79.920", 
+   "children": [], 
+   "end": "81.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "zu verifizieren, "
+   ]
+  }, 
+  {
+   "begin": "81.160", 
+   "children": [], 
+   "end": "82.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "wie die Faktenlage ist. "
+   ]
+  }, 
+  {
+   "begin": "82.680", 
+   "children": [], 
+   "end": "87.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Ihre Abgeordnete hat genau diese Fragen auch aufgeworfen. "
+   ]
+  }, 
+  {
+   "begin": "87.480", 
+   "children": [], 
+   "end": "90.640", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Steht sie auch in der N\u00e4he des Nationalsozialismus?"
+   ]
+  }, 
+  {
+   "begin": "90.640", 
+   "children": [], 
+   "end": "93.120", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Herr Schummer, "
+   ]
+  }, 
+  {
+   "begin": "93.120", 
+   "children": [], 
+   "end": "97.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben jetzt das Wort zur Antwort."
+   ]
+  }
+ ]
+}
