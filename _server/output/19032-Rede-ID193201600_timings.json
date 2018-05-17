@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.280", 
+   "children": [], 
+   "end": "10.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "10.000", 
+   "children": [], 
+   "end": "16.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Bei beeindruckenden 3\u00a0087\u00a0Seiten kann man im aktuellen Haushaltsentwurf schon einmal etwas \u00fcbersehen. "
+   ]
+  }, 
+  {
+   "begin": "16.480", 
+   "children": [], 
+   "end": "25.240", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wenn aber auch die digitale Suche darin nicht den geringsten Budgetansatz f\u00fcr die k\u00fcrzlich ernannte Staatsministerin Dorothee B\u00e4r erbringt, "
+   ]
+  }, 
+  {
+   "begin": "25.240", 
+   "children": [], 
+   "end": "30.880", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Beauftragte der Bundesregierung f\u00fcr Digitalisierung allem Anschein nach mittellos ist, "
+   ]
+  }, 
+  {
+   "begin": "30.880", 
+   "children": [], 
+   "end": "32.760", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dann wirft das Fragen auf."
+   ]
+  }, 
+  {
+   "begin": "32.760", 
+   "children": [], 
+   "end": "34.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "In keinem Kapitel, "
+   ]
+  }, 
+  {
+   "begin": "34.120", 
+   "children": [], 
+   "end": "39.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "in keinem Einzeltitel gibt es einen Hinweis auf eine finanzielle Ausstattung dieses so wichtigen Amtes. "
+   ]
+  }, 
+  {
+   "begin": "39.600", 
+   "children": [], 
+   "end": "40.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Kein Wunder, "
+   ]
+  }, 
+  {
+   "begin": "40.800", 
+   "children": [], 
+   "end": "46.200", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dass sie heute bei dieser zentralen Debatte auch nicht reden darf oder nicht reden will. "
+   ]
+  }, 
+  {
+   "begin": "46.200", 
+   "children": [], 
+   "end": "47.040", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Frau B\u00e4r, "
+   ]
+  }, 
+  {
+   "begin": "47.040", 
+   "children": [], 
+   "end": "48.920", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "ein altes Sprichwort sagt: "
+   ]
+  }, 
+  {
+   "begin": "48.920", 
+   "children": [], 
+   "end": "49.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Wer Geld hat, "
+   ]
+  }, 
+  {
+   "begin": "49.880", 
+   "children": [], 
+   "end": "51.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "der kann dem Teufel Beine machen. "
+   ]
+  }, 
+  {
+   "begin": "51.800", 
+   "children": [], 
+   "end": "53.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Wer keins hat, "
+   ]
+  }, 
+  {
+   "begin": "53.080", 
+   "children": [], 
+   "end": "54.920", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "bei dem kommt noch nicht einmal der Mann, "
+   ]
+  }, 
+  {
+   "begin": "54.920", 
+   "children": [], 
+   "end": "56.320", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "der nach ihm ruft."
+   ]
+  }, 
+  {
+   "begin": "56.320", 
+   "children": [], 
+   "end": "60.040", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben Ihr Amt in einem Interview als \u201eArbeitsmuskel\u201c bezeichnet, "
+   ]
+  }, 
+  {
+   "begin": "60.040", 
+   "children": [], 
+   "end": "60.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr den Sie\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "60.920", 
+   "children": [], 
+   "end": "61.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "61.800", 
+   "children": [], 
+   "end": "64.320", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "\u201eQuerdenker und Nerds suchen, "
+   ]
+  }, 
+  {
+   "begin": "64.320", 
+   "children": [], 
+   "end": "67.160", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die im positiven Sinne \u201averr\u00fcckt\u2018 sind\u201c. "
+   ]
+  }, 
+  {
+   "begin": "67.160", 
+   "children": [], 
+   "end": "69.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Im positiven Sinne verr\u00fcckt muss man schon sein, "
+   ]
+  }, 
+  {
+   "begin": "69.760", 
+   "children": [], 
+   "end": "72.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "wenn man sich auf derart d\u00fcnnes Eis begibt. "
+   ]
+  }, 
+  {
+   "begin": "72.640", 
+   "children": [], 
+   "end": "74.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Es braucht mehr als einen Arbeitsmuskel, "
+   ]
+  }, 
+  {
+   "begin": "74.680", 
+   "children": [], 
+   "end": "75.680", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "75.680", 
+   "children": [], 
+   "end": "83.320", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "um die str\u00e4flich vernachl\u00e4ssigte Digitalisierung endlich voranzutreiben."
+   ]
+  }, 
+  {
+   "begin": "83.320", 
+   "children": [], 
+   "end": "85.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcrde Ihnen und uns w\u00fcnschen, "
+   ]
+  }, 
+  {
+   "begin": "85.200", 
+   "children": [], 
+   "end": "86.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie in die Lage versetzt werden, "
+   ]
+  }, 
+  {
+   "begin": "86.960", 
+   "children": [], 
+   "end": "89.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "bedeutende Entwicklungen zielgerichtet zu f\u00f6rdern, "
+   ]
+  }, 
+  {
+   "begin": "89.640", 
+   "children": [], 
+   "end": "94.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie Leuchtturmprojekte schaffen k\u00f6nnen und das \u00fcber alle Ressorts hinweg. "
+   ]
+  }, 
+  {
+   "begin": "94.440", 
+   "children": [], 
+   "end": "95.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wie das ohne Geld gehen soll, "
+   ]
+  }, 
+  {
+   "begin": "95.760", 
+   "children": [], 
+   "end": "97.480", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "ist mir allerdings v\u00f6llig schleierhaft."
+   ]
+  }, 
+  {
+   "begin": "97.480", 
+   "children": [], 
+   "end": "102.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "In 14\u00a0Ministerien sind mehr als 70\u00a0Abteilungen mit der Digitalisierung befasst. "
+   ]
+  }, 
+  {
+   "begin": "102.680", 
+   "children": [], 
+   "end": "103.600", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Chance, "
+   ]
+  }, 
+  {
+   "begin": "103.600", 
+   "children": [], 
+   "end": "105.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "all dem eine Sto\u00dfrichtung zu geben, "
+   ]
+  }, 
+  {
+   "begin": "105.920", 
+   "children": [], 
+   "end": "109.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die weitgehend wirkungslosen Digitalinitiativen zu b\u00fcndeln, "
+   ]
+  }, 
+  {
+   "begin": "109.760", 
+   "children": [], 
+   "end": "115.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "hatten wir als Mindestvoraus\u00adsetzung f\u00fcr die Fortschritte in dieser Legislaturperiode angesehen. "
+   ]
+  }, 
+  {
+   "begin": "115.400", 
+   "children": [], 
+   "end": "117.200", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt ist es also ein Arbeitsmuskel. "
+   ]
+  }, 
+  {
+   "begin": "117.200", 
+   "children": [], 
+   "end": "118.120", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Keine Knete, "
+   ]
+  }, 
+  {
+   "begin": "118.120", 
+   "children": [], 
+   "end": "119.120", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "aber Muckis."
+   ]
+  }, 
+  {
+   "begin": "119.120", 
+   "children": [], 
+   "end": "121.040", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf daran erinnern, "
+   ]
+  }, 
+  {
+   "begin": "121.040", 
+   "children": [], 
+   "end": "124.080", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dass die AfD ein Digitalministerium gefordert hat. "
+   ]
+  }, 
+  {
+   "begin": "124.080", 
+   "children": [], 
+   "end": "125.040", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Um in Ihrem Bilde zu bleiben: "
+   ]
+  }, 
+  {
+   "begin": "125.040", 
+   "children": [], 
+   "end": "127.000", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir fordern keinen Muskel, "
+   ]
+  }, 
+  {
+   "begin": "127.000", 
+   "children": [], 
+   "end": "130.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "sondern ein bestens ausgestattetes Fitnessstudio, "
+   ]
+  }, 
+  {
+   "begin": "130.040", 
+   "children": [], 
+   "end": "134.200", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "das dieses Land ganzheitlich auf Zukunftssicherheit trimmt."
+   ]
+  }, 
+  {
+   "begin": "134.200", 
+   "children": [], 
+   "end": "140.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Eine Staatsministerin f\u00fcr Digitales ohne ausreichendes Budget ist eine Luftnummer. "
+   ]
+  }, 
+  {
+   "begin": "140.440", 
+   "children": [], 
+   "end": "142.480", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Was soll denn aus Ihren Ans\u00e4tzen werden, "
+   ]
+  }, 
+  {
+   "begin": "142.480", 
+   "children": [], 
+   "end": "144.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "vom digitalen Schulranzen bis hin zum Lufttaxi, "
+   ]
+  }, 
+  {
+   "begin": "144.800", 
+   "children": [], 
+   "end": "147.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wenn man Ihnen keine m\u00fcde Mark zur Verf\u00fcgung stellt, "
+   ]
+  }, 
+  {
+   "begin": "147.120", 
+   "children": [], 
+   "end": "148.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Frau B\u00e4r?"
+   ]
+  }, 
+  {
+   "begin": "148.720", 
+   "children": [], 
+   "end": "150.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das Fehlen eines Budgetansatzes, "
+   ]
+  }, 
+  {
+   "begin": "150.920", 
+   "children": [], 
+   "end": "154.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "aber auch die durchg\u00e4ngige Nichtnennung Ihrer Position l\u00e4sst mich fragen, "
+   ]
+  }, 
+  {
+   "begin": "154.520", 
+   "children": [], 
+   "end": "156.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "welche denn Ihre Rolle sein soll. "
+   ]
+  }, 
+  {
+   "begin": "156.360", 
+   "children": [], 
+   "end": "161.040", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Zumindest werden Sie sich nach eigenem Bekunden gut mit Frau Christiansen verstehen, "
+   ]
+  }, 
+  {
+   "begin": "161.040", 
+   "children": [], 
+   "end": "166.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Frau Merkels gesch\u00e4tzter Abteilungsleiterin im Kanzleramt f\u00fcr Innovation und Digitalpolitik. "
+   ]
+  }, 
+  {
+   "begin": "166.160", 
+   "children": [], 
+   "end": "168.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wer da K\u00f6chin und wer Kellnerin ist, "
+   ]
+  }, 
+  {
+   "begin": "168.080", 
+   "children": [], 
+   "end": "169.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wird sich zeigen."
+   ]
+  }, 
+  {
+   "begin": "169.360", 
+   "children": [], 
+   "end": "171.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht arbeiten Sie auch gut mit Ihrer Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "171.720", 
+   "children": [], 
+   "end": "172.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "der Kulturbeauftragten, "
+   ]
+  }, 
+  {
+   "begin": "172.920", 
+   "children": [], 
+   "end": "173.920", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "zusammen. "
+   ]
+  }, 
+  {
+   "begin": "173.920", 
+   "children": [], 
+   "end": "178.040", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Diese hat allerdings einige Millionen Euro f\u00fcr die Digitalisierung von Musikklubs, "
+   ]
+  }, 
+  {
+   "begin": "178.040", 
+   "children": [], 
+   "end": "180.360", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Kinos und Museen in der Schatulle. "
+   ]
+  }, 
+  {
+   "begin": "180.360", 
+   "children": [], 
+   "end": "183.680", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Das versteht man wohl unter \u201eVerantwortung in einer Hand\u201c."
+   ]
+  }, 
+  {
+   "begin": "183.680", 
+   "children": [], 
+   "end": "188.640", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt in diesem \u201eGirls\u2019 Camp Digitalisierung\u201c der Kanzlerin sogar noch eine Mitspielerin, "
+   ]
+  }, 
+  {
+   "begin": "188.640", 
+   "children": [], 
+   "end": "189.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "und zwar Gesche Joost, "
+   ]
+  }, 
+  {
+   "begin": "189.920", 
+   "children": [], 
+   "end": "193.520", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "digitale Botschafterin Deutschlands bei der EU-Kommission. "
+   ]
+  }, 
+  {
+   "begin": "193.520", 
+   "children": [], 
+   "end": "198.280", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die Dame kassiert j\u00e4hrlich 100\u00a0000\u00a0Euro und hat sich zur Unabh\u00e4ngigkeit verpflichtet. "
+   ]
+  }, 
+  {
+   "begin": "198.280", 
+   "children": [], 
+   "end": "199.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Das hindert sie aber nicht daran, "
+   ]
+  }, 
+  {
+   "begin": "199.960", 
+   "children": [], 
+   "end": "205.560", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "sich in den Aufsichtsrat von SAP w\u00e4hlen zu lassen und sich mit der Telekom und der ING\u00a0Bank zu verbandeln."
+   ]
+  }, 
+  {
+   "begin": "205.560", 
+   "children": [], 
+   "end": "211.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitale Agenda Deutschlands ist leider mit einer G\u00fcnstlingswirtschaft verbunden, "
+   ]
+  }, 
+  {
+   "begin": "211.640", 
+   "children": [], 
+   "end": "212.440", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "die alles ist, "
+   ]
+  }, 
+  {
+   "begin": "212.440", 
+   "children": [], 
+   "end": "214.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "nur nicht zielf\u00fchrend. "
+   ]
+  }, 
+  {
+   "begin": "214.200", 
+   "children": [], 
+   "end": "215.160", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Frau Merkel, "
+   ]
+  }, 
+  {
+   "begin": "215.160", 
+   "children": [], 
+   "end": "219.800", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "bei der Digitalisierung liegen wir nicht nur im internationalen Vergleich weit zur\u00fcck. "
+   ]
+  }, 
+  {
+   "begin": "219.800", 
+   "children": [], 
+   "end": "221.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Um den Anschluss zu schaffen, "
+   ]
+  }, 
+  {
+   "begin": "221.000", 
+   "children": [], 
+   "end": "223.600", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir schneller rennen als alle anderen. "
+   ]
+  }, 
+  {
+   "begin": "223.600", 
+   "children": [], 
+   "end": "226.640", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Sie aber machen Deutschland zu einem lahmen Gaul, "
+   ]
+  }, 
+  {
+   "begin": "226.640", 
+   "children": [], 
+   "end": "228.000", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "und das hat unser Land nicht verdient."
+   ]
+  }, 
+  {
+   "begin": "228.000", 
+   "children": [], 
+   "end": "228.280", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "228.280", 
+   "children": [], 
+   "end": "238.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Der n\u00e4chste Redner ist der Kollege Martin Rabanus von der SPD-Fraktion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1314 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.640", 
+   "children": [], 
+   "end": "5.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "5.520", 
+   "children": [], 
+   "end": "6.720", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "children": [], 
+   "end": "9.760", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sehr verehrte Damen und Herren auf der Besuchertrib\u00fcne! "
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "children": [], 
+   "end": "10.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Es ist guter Brauch, "
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "children": [], 
+   "end": "14.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass in der Generalaussprache zur Regierungspolitik, "
+   ]
+  }, 
+  {
+   "begin": "14.160", 
+   "children": [], 
+   "end": "18.880", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "zum Einzelplan des Bundeskanzleramtes die Kultur eine Rolle spielt, "
+   ]
+  }, 
+  {
+   "begin": "18.880", 
+   "children": [], 
+   "end": "20.640", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "weil diese dort etatisiert ist, "
+   ]
+  }, 
+  {
+   "begin": "20.640", 
+   "children": [], 
+   "end": "24.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "weil BKM dort beheimatet ist. "
+   ]
+  }, 
+  {
+   "begin": "24.080", 
+   "children": [], 
+   "end": "25.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Es ist auch guter Brauch, "
+   ]
+  }, 
+  {
+   "begin": "25.400", 
+   "children": [], 
+   "end": "30.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass in dieser Generalaussprache nat\u00fcrlich die Regierungsfraktionen bzw. "
+   ]
+  }, 
+  {
+   "begin": "30.480", 
+   "children": [], 
+   "end": "31.960", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Regierungsvertreter darstellen, "
+   ]
+  }, 
+  {
+   "begin": "31.960", 
+   "children": [], 
+   "end": "33.000", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "was alles gut ist, "
+   ]
+  }, 
+  {
+   "begin": "33.000", 
+   "children": [], 
+   "end": "34.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "und die Opposition nat\u00fcrlich darstellt, "
+   ]
+  }, 
+  {
+   "begin": "34.600", 
+   "children": [], 
+   "end": "36.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "was alles schlecht ist."
+   ]
+  }, 
+  {
+   "begin": "36.240", 
+   "children": [], 
+   "end": "37.760", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Einverstanden. "
+   ]
+  }, 
+  {
+   "begin": "37.760", 
+   "children": [], 
+   "end": "38.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Genau, "
+   ]
+  }, 
+  {
+   "begin": "38.520", 
+   "children": [], 
+   "end": "41.240", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "ich bin da ganz der Auffassung meines Kollegen Kahrs. "
+   ]
+  }, 
+  {
+   "begin": "41.240", 
+   "children": [], 
+   "end": "43.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Die Regierungsvertreter, "
+   ]
+  }, 
+  {
+   "begin": "43.000", 
+   "children": [], 
+   "end": "43.840", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "die sagen: "
+   ]
+  }, 
+  {
+   "begin": "43.840", 
+   "children": [], 
+   "end": "45.160", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "\u201eEs ist alles super\u201c, "
+   ]
+  }, 
+  {
+   "begin": "45.160", 
+   "children": [], 
+   "end": "46.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "haben nat\u00fcrlich recht."
+   ]
+  }, 
+  {
+   "begin": "46.480", 
+   "children": [], 
+   "end": "49.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Ich will damit aber jetzt f\u00fcr einen kleinen Moment brechen und will versuchen, "
+   ]
+  }, 
+  {
+   "begin": "49.680", 
+   "children": [], 
+   "end": "54.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "am Beginn meiner Ausf\u00fchrungen auch einmal das Gemeinsame und das Verbindende, "
+   ]
+  }, 
+  {
+   "begin": "54.120", 
+   "children": [], 
+   "end": "56.920", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "jedenfalls f\u00fcr f\u00fcnf Fraktionen dieses Hauses, "
+   ]
+  }, 
+  {
+   "begin": "56.920", 
+   "children": [], 
+   "end": "58.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "deutlich zu machen. "
+   ]
+  }, 
+  {
+   "begin": "58.440", 
+   "children": [], 
+   "end": "61.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen n\u00e4mlich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "61.160", 
+   "children": [], 
+   "end": "64.560", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "so erlebe ich auch unsere Beratungen im Kulturausschuss\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "64.560", 
+   "children": [], 
+   "end": "71.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "gemeinsam um die richtigen Instrumente und die richtige Schwerpunktsetzung ringend, "
+   ]
+  }, 
+  {
+   "begin": "71.720", 
+   "children": [], 
+   "end": "75.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "tats\u00e4chlich die Sicherheit haben, "
+   ]
+  }, 
+  {
+   "begin": "75.480", 
+   "children": [], 
+   "end": "76.760", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "in einem weltoffenen, "
+   ]
+  }, 
+  {
+   "begin": "76.760", 
+   "children": [], 
+   "end": "77.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "freien, "
+   ]
+  }, 
+  {
+   "begin": "77.360", 
+   "children": [], 
+   "end": "78.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "toleranten, "
+   ]
+  }, 
+  {
+   "begin": "78.200", 
+   "children": [], 
+   "end": "80.520", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "demokratischen Land zu leben, "
+   ]
+  }, 
+  {
+   "begin": "80.520", 
+   "children": [], 
+   "end": "82.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und R\u00e4ume er\u00f6ffnen, "
+   ]
+  }, 
+  {
+   "begin": "82.000", 
+   "children": [], 
+   "end": "85.640", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "in denen sich diese Freiheiten entfalten k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "85.640", 
+   "children": [], 
+   "end": "89.320", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Es ist ein Konsens von f\u00fcnf Fraktionen; "
+   ]
+  }, 
+  {
+   "begin": "89.320", 
+   "children": [], 
+   "end": "92.840", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "denn die Beitr\u00e4ge der AfD zeigen doch immer wieder, "
+   ]
+  }, 
+  {
+   "begin": "92.840", 
+   "children": [], 
+   "end": "94.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dass sie genau das anders sieht. "
+   ]
+  }, 
+  {
+   "begin": "94.440", 
+   "children": [], 
+   "end": "94.760", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Alles, "
+   ]
+  }, 
+  {
+   "begin": "94.760", 
+   "children": [], 
+   "end": "96.560", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "was in Ihren Verstand, "
+   ]
+  }, 
+  {
+   "begin": "96.560", 
+   "children": [], 
+   "end": "100.800", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "in Ihre kleinen Vorstellungen nicht hineinpasst oder was Ihnen einfach nicht gef\u00e4llt, "
+   ]
+  }, 
+  {
+   "begin": "100.800", 
+   "children": [], 
+   "end": "107.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "wird schnell in die ideologische Ecke gestellt und bek\u00e4mpft."
+   ]
+  }, 
+  {
+   "begin": "107.440", 
+   "children": [], 
+   "end": "110.240", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein v\u00f6llig anderer Ansatz. "
+   ]
+  }, 
+  {
+   "begin": "110.240", 
+   "children": [], 
+   "end": "111.960", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen R\u00e4ume er\u00f6ffnen, "
+   ]
+  }, 
+  {
+   "begin": "111.960", 
+   "children": [], 
+   "end": "114.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "in denen Kultur und Kunst frei sein k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "114.760", 
+   "children": [], 
+   "end": "115.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen bestimmen, "
+   ]
+  }, 
+  {
+   "begin": "115.600", 
+   "children": [], 
+   "end": "119.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "was Kultur und Kunst inhaltlich bedeuten. "
+   ]
+  }, 
+  {
+   "begin": "119.000", 
+   "children": [], 
+   "end": "121.720", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Das wird mit uns nicht passieren."
+   ]
+  }, 
+  {
+   "begin": "121.720", 
+   "children": [], 
+   "end": "122.880", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Es geht darum, "
+   ]
+  }, 
+  {
+   "begin": "122.880", 
+   "children": [], 
+   "end": "124.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass wir\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "124.160", 
+   "children": [], 
+   "end": "126.240", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "und daf\u00fcr ist BKM, "
+   ]
+  }, 
+  {
+   "begin": "126.240", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die Kulturf\u00f6rderung des Bundes, "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "129.080", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "auch da\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "129.080", 
+   "children": [], 
+   "end": "131.160", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "eben genau diese R\u00e4ume schaffen. "
+   ]
+  }, 
+  {
+   "begin": "131.160", 
+   "children": [], 
+   "end": "134.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben uns als Koalition vorgenommen, "
+   ]
+  }, 
+  {
+   "begin": "134.680", 
+   "children": [], 
+   "end": "136.160", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dies in einem\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "136.160", 
+   "children": [], 
+   "end": "137.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "wie wir es bezeichnet haben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "137.400", 
+   "children": [], 
+   "end": "144.520", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "kooperativen Kulturf\u00f6deralismus gemeinsam mit den L\u00e4ndern voranzubringen."
+   ]
+  }, 
+  {
+   "begin": "144.520", 
+   "children": [], 
+   "end": "147.760", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Ich will dabei zwei Punkte besonders hervorheben, "
+   ]
+  }, 
+  {
+   "begin": "147.760", 
+   "children": [], 
+   "end": "150.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "weil sie uns als Koalition\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "150.160", 
+   "children": [], 
+   "end": "150.800", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "150.800", 
+   "children": [], 
+   "end": "152.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "das kann ich so sagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "152.680", 
+   "children": [], 
+   "end": "154.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "besonders wichtig sind. "
+   ]
+  }, 
+  {
+   "begin": "154.240", 
+   "children": [], 
+   "end": "156.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Neben den Dingen, "
+   ]
+  }, 
+  {
+   "begin": "156.080", 
+   "children": [], 
+   "end": "159.600", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "die die Bundeskulturpolitik hier in der Hauptstadt unterst\u00fctzt, "
+   ]
+  }, 
+  {
+   "begin": "159.600", 
+   "children": [], 
+   "end": "160.160", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "und dem, "
+   ]
+  }, 
+  {
+   "begin": "160.160", 
+   "children": [], 
+   "end": "162.440", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "was im Hauptstadtkulturvertrag, "
+   ]
+  }, 
+  {
+   "begin": "162.440", 
+   "children": [], 
+   "end": "167.280", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "zu dem wir selbstverst\u00e4ndlich stehen und der die entsprechenden Mittelerh\u00f6hungen erf\u00e4hrt, "
+   ]
+  }, 
+  {
+   "begin": "167.280", 
+   "children": [], 
+   "end": "168.040", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "abgebildet ist, "
+   ]
+  }, 
+  {
+   "begin": "168.040", 
+   "children": [], 
+   "end": "173.960", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wollen wir als Bund in den kommenden Jahren vor allen Dingen auch die Kultur in der Fl\u00e4che, "
+   ]
+  }, 
+  {
+   "begin": "173.960", 
+   "children": [], 
+   "end": "176.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "in den l\u00e4ndlichen R\u00e4umen st\u00e4rken."
+   ]
+  }, 
+  {
+   "begin": "176.520", 
+   "children": [], 
+   "end": "185.320", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen mit einer \u201eAgenda f\u00fcr Kultur und Zukunft\u201c Impulse in der Breite der Gesellschaft setzen, "
+   ]
+  }, 
+  {
+   "begin": "185.320", 
+   "children": [], 
+   "end": "190.320", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "wollen ein Programm \u201eKultur in den Regionen\u201c etablieren, "
+   ]
+  }, 
+  {
+   "begin": "190.320", 
+   "children": [], 
+   "end": "194.680", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "mit dem wir tats\u00e4chlich in die F\u00f6rderung der l\u00e4ndlichen R\u00e4ume, "
+   ]
+  }, 
+  {
+   "begin": "194.680", 
+   "children": [], 
+   "end": "197.000", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "sozusagen in die Graswurzelarbeit vor Ort, "
+   ]
+  }, 
+  {
+   "begin": "197.000", 
+   "children": [], 
+   "end": "197.680", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "einsteigen. "
+   ]
+  }, 
+  {
+   "begin": "197.680", 
+   "children": [], 
+   "end": "200.560", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Das ist uns sehr wichtig. "
+   ]
+  }, 
+  {
+   "begin": "200.560", 
+   "children": [], 
+   "end": "206.280", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Die Kultur ist f\u00fcr uns ein wichtiger Bestandteil der St\u00e4rkung der l\u00e4ndlichen R\u00e4ume. "
+   ]
+  }, 
+  {
+   "begin": "206.280", 
+   "children": [], 
+   "end": "209.240", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Es geht eben nicht nur um Landwirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "209.240", 
+   "children": [], 
+   "end": "211.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur um technische Infrastruktur. "
+   ]
+  }, 
+  {
+   "begin": "211.840", 
+   "children": [], 
+   "end": "214.160", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Vielmehr d\u00fcrfen vor allem auch Bibliotheken, "
+   ]
+  }, 
+  {
+   "begin": "214.160", 
+   "children": [], 
+   "end": "216.800", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "kleine Theater und Initiativen, "
+   ]
+  }, 
+  {
+   "begin": "216.800", 
+   "children": [], 
+   "end": "218.200", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "die wir dort haben, "
+   ]
+  }, 
+  {
+   "begin": "218.200", 
+   "children": [], 
+   "end": "219.120", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "nicht vergessen werden, "
+   ]
+  }, 
+  {
+   "begin": "219.120", 
+   "children": [], 
+   "end": "223.040", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir \u00fcber die St\u00e4rkung von l\u00e4ndlichen R\u00e4umen reden."
+   ]
+  }, 
+  {
+   "begin": "223.040", 
+   "children": [], 
+   "end": "226.400", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen selbstverst\u00e4ndlich K\u00fcnstlerinnen und K\u00fcnstler, "
+   ]
+  }, 
+  {
+   "begin": "226.400", 
+   "children": [], 
+   "end": "227.800", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "die Kreativen, "
+   ]
+  }, 
+  {
+   "begin": "227.800", 
+   "children": [], 
+   "end": "236.640", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "im Bereich der Gleichstellungspolitik auf der einen Seite und auf der anderen Seite aber insbesondere im Bereich der sozialen Absicherung f\u00f6rdern. "
+   ]
+  }, 
+  {
+   "begin": "236.640", 
+   "children": [], 
+   "end": "238.960", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Das ist auch zwingend notwendig, "
+   ]
+  }, 
+  {
+   "begin": "238.960", 
+   "children": [], 
+   "end": "244.640", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "um Kultur in der Fl\u00e4che jenseits der gro\u00dfen Kulturinstitutionen, "
+   ]
+  }, 
+  {
+   "begin": "244.640", 
+   "children": [], 
+   "end": "248.040", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "denen ich um Himmels willen die Berechtigung nicht absprechen will, "
+   ]
+  }, 
+  {
+   "begin": "248.040", 
+   "children": [], 
+   "end": "250.440", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "auch erhalten zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "250.440", 
+   "children": [], 
+   "end": "253.120", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen auch eine St\u00e4rkung der Erinnerungskultur, "
+   ]
+  }, 
+  {
+   "begin": "253.120", 
+   "children": [], 
+   "end": "257.360", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "indem wir durch die F\u00f6rderung der Gedenkst\u00e4tten durch den Bund Impulse setzen. "
+   ]
+  }, 
+  {
+   "begin": "257.360", 
+   "children": [], 
+   "end": "259.720", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in der Koalition vereinbart, "
+   ]
+  }, 
+  {
+   "begin": "259.720", 
+   "children": [], 
+   "end": "261.840", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "ein Programm auf den Weg zu bringen, "
+   ]
+  }, 
+  {
+   "begin": "261.840", 
+   "children": [], 
+   "end": "263.360", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "das \u201eJugend erinnert\u201c hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "263.360", 
+   "children": [], 
+   "end": "266.200", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "um nicht zu vergessen; "
+   ]
+  }, 
+  {
+   "begin": "266.200", 
+   "children": [], 
+   "end": "270.040", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "denn unsere Zukunft muss auf unserer Vergangenheit begr\u00fcndet sein\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "270.040", 
+   "children": [], 
+   "end": "274.360", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "ohne irgendwelche Schuldgef\u00fchle oder dergleichen mehr, "
+   ]
+  }, 
+  {
+   "begin": "274.360", 
+   "children": [], 
+   "end": "282.000", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "aber in Verantwortung f\u00fcr die Zukunft auf der Grundlage unserer Vergangenheit."
+   ]
+  }, 
+  {
+   "begin": "282.000", 
+   "children": [], 
+   "end": "284.960", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Ich will einen weiteren Punkt nennen, "
+   ]
+  }, 
+  {
+   "begin": "284.960", 
+   "children": [], 
+   "end": "287.800", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "der uns besonders wichtig ist. "
+   ]
+  }, 
+  {
+   "begin": "287.800", 
+   "children": [], 
+   "end": "288.520", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Das ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "288.520", 
+   "children": [], 
+   "end": "290.720", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "dabei schaue ich den Au\u00dfenminister an\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "290.720", 
+   "children": [], 
+   "end": "293.880", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "die Deutsche Welle, "
+   ]
+  }, 
+  {
+   "begin": "293.880", 
+   "children": [], 
+   "end": "303.000", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "die als die gr\u00f6\u00dfte Einzelinstitution bei BKM etatisiert ist und die f\u00fcr uns eine starke Stimme in dieser Welt ist. "
+   ]
+  }, 
+  {
+   "begin": "303.000", 
+   "children": [], 
+   "end": "312.480", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Sowohl die Kanzlerin als auch der Herr Kollege Kauder und viele andere Redner in dieser Debatte haben auf die aktuelle Weltlage hingewiesen. "
+   ]
+  }, 
+  {
+   "begin": "312.480", 
+   "children": [], 
+   "end": "314.000", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben darauf hingewiesen, "
+   ]
+  }, 
+  {
+   "begin": "314.000", 
+   "children": [], 
+   "end": "319.960", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "dass wir an allen Stellen Fakten und nicht Fake News verbreiten wollen, "
+   ]
+  }, 
+  {
+   "begin": "319.960", 
+   "children": [], 
+   "end": "321.800", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "dass wir daf\u00fcr sorgen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "321.800", 
+   "children": [], 
+   "end": "327.400", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in diesen Konflikten mit einem hochglaubw\u00fcrdigen Instrumentarium, "
+   ]
+  }, 
+  {
+   "begin": "327.400", 
+   "children": [], 
+   "end": "329.160", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "unserem Auslandssender Deutsche Welle, "
+   ]
+  }, 
+  {
+   "begin": "329.160", 
+   "children": [], 
+   "end": "331.480", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "auch die Impulse setzen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "331.480", 
+   "children": [], 
+   "end": "333.920", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "die wir f\u00fcr wichtig und richtig halten. "
+   ]
+  }, 
+  {
+   "begin": "333.920", 
+   "children": [], 
+   "end": "335.720", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr wird es notwendig sein, "
+   ]
+  }, 
+  {
+   "begin": "335.720", 
+   "children": [], 
+   "end": "338.320", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "an der einen oder anderen Stelle im Etat, "
+   ]
+  }, 
+  {
+   "begin": "338.320", 
+   "children": [], 
+   "end": "344.400", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "aber insbesondere auch auf der Strecke bis zum Ende der Legislaturperiode noch ein bisschen nachzuarbeiten, "
+   ]
+  }, 
+  {
+   "begin": "344.400", 
+   "children": [], 
+   "end": "355.080", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "um hier Planungssicherheit zu gew\u00e4hrleisten und um den Sender Deutsche Welle entsprechend in der Perspektive aufstellen zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "355.080", 
+   "children": [], 
+   "end": "356.760", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "In der Summe kann man sagen: "
+   ]
+  }, 
+  {
+   "begin": "356.760", 
+   "children": [], 
+   "end": "357.680", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Ja, "
+   ]
+  }, 
+  {
+   "begin": "357.680", 
+   "children": [], 
+   "end": "359.400", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "der Haushalt ist gut. "
+   ]
+  }, 
+  {
+   "begin": "359.400", 
+   "children": [], 
+   "end": "364.400", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Er bel\u00e4uft sich auf knapp 1,7\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "364.400", 
+   "children": [], 
+   "end": "366.160", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Allzeithoch. "
+   ]
+  }, 
+  {
+   "begin": "366.160", 
+   "children": [], 
+   "end": "367.400", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Auch das ist gut. "
+   ]
+  }, 
+  {
+   "begin": "367.400", 
+   "children": [], 
+   "end": "371.840", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Aber es wird die Aufgabe in den Haushaltsberatungen sein, "
+   ]
+  }, 
+  {
+   "begin": "371.840", 
+   "children": [], 
+   "end": "376.200", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "in den kommenden Wochen und Monaten weiter daran zu arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "376.200", 
+   "children": [], 
+   "end": "382.640", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "um noch weitere Impulse zu setzen."
+   ]
+  }, 
+  {
+   "begin": "382.640", 
+   "children": [], 
+   "end": "383.200", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "383.200", 
+   "children": [], 
+   "end": "387.000", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort f\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen hat der Kollege Erhard Grundl."
+   ]
+  }
+ ]
+}

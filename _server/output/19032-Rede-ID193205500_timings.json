@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "0.200", 
+   "children": [], 
+   "end": "1.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "1.040", 
+   "children": [], 
+   "end": "1.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man drei Rednerinnen und Redner der Opposition geh\u00f6rt hat, "
+   ]
+  }, 
+  {
+   "begin": "1.320", 
+   "children": [], 
+   "end": "2.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dann k\u00f6nnte man zu vielem etwas sagen, "
+   ]
+  }, 
+  {
+   "begin": "2.200", 
+   "children": [], 
+   "end": "2.360", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "viele Argumente widerlegen."
+   ]
+  }, 
+  {
+   "begin": "2.360", 
+   "children": [], 
+   "end": "2.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Herr Neu, "
+   ]
+  }, 
+  {
+   "begin": "2.560", 
+   "children": [], 
+   "end": "3.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "ich will wenigstens zu Ihrem Beitrag sagen, "
+   ]
+  }, 
+  {
+   "begin": "3.160", 
+   "children": [], 
+   "end": "4.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie die Statistik in G\u00e4nze vortragen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "4.400", 
+   "children": [], 
+   "end": "4.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "In dem von Ihnen genannten Zeitraum, "
+   ]
+  }, 
+  {
+   "begin": "4.680", 
+   "children": [], 
+   "end": "6.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "in dem die NATO nach Ihrer Einsch\u00e4tzung Vorteile hat, "
+   ]
+  }, 
+  {
+   "begin": "6.400", 
+   "children": [], 
+   "end": "7.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "hat Russland seinen Verteidigungshaushalt um 108\u00a0Prozent erh\u00f6ht, "
+   ]
+  }, 
+  {
+   "begin": "7.600", 
+   "children": [], 
+   "end": "8.600", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "bei einem Anteil am BIP von 4,1\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "8.600", 
+   "children": [], 
+   "end": "8.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Im gleichen Zeitraum haben die USA ihren Verteidigungshaushalt um lediglich 2\u00a0Prozent erh\u00f6ht. "
+   ]
+  }, 
+  {
+   "begin": "8.720", 
+   "children": [], 
+   "end": "9.520", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland liegt bei 5,8\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "9.520", 
+   "children": [], 
+   "end": "9.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Das ist dann die ganze Wahrheit. "
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "children": [], 
+   "end": "10.360", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Bedrohung, "
+   ]
+  }, 
+  {
+   "begin": "10.360", 
+   "children": [], 
+   "end": "11.640", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "der wir uns letztendlich stellen m\u00fcssen."
+   ]
+  }, 
+  {
+   "begin": "11.640", 
+   "children": [], 
+   "end": "11.641", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "11.641", 
+   "children": [], 
+   "end": "12.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "der Verteidigungshaushalt war in den letzten Wochen h\u00e4ufig Thema in der \u00f6ffentlichen Berichterstattung, "
+   ]
+  }, 
+  {
+   "begin": "12.480", 
+   "children": [], 
+   "end": "12.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und das ist trotz unterschiedlicher Betrachtungsweisen, "
+   ]
+  }, 
+  {
+   "begin": "12.800", 
+   "children": [], 
+   "end": "13.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "wie wir sie eben wahrgenommen haben, "
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "children": [], 
+   "end": "13.800", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "auch gut so. "
+   ]
+  }, 
+  {
+   "begin": "13.800", 
+   "children": [], 
+   "end": "16.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeskanzlerin hat in ihrer heutigen Rede ebenfalls deutliche Aussagen zur notwendigen besseren Ausstattung der Bundeswehr gemacht."
+   ]
+  }, 
+  {
+   "begin": "16.240", 
+   "children": [], 
+   "end": "18.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Meine Fraktion hat \u00f6ffentlich bereits klar den Wunsch nach einem h\u00f6heren Verteidigungsetat ge\u00e4u\u00dfert. "
+   ]
+  }, 
+  {
+   "begin": "18.960", 
+   "children": [], 
+   "end": "20.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Die im Eckwertebeschluss f\u00fcr den 52.\u00a0Finanzplan vorgesehene Steigerung von 2,7\u00a0Milliarden Euro \u00fcber die n\u00e4chsten vier Jahre reicht definitiv nicht aus. "
+   ]
+  }, 
+  {
+   "begin": "20.400", 
+   "children": [], 
+   "end": "20.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Sie reicht nicht aus, "
+   ]
+  }, 
+  {
+   "begin": "20.440", 
+   "children": [], 
+   "end": "20.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "um den notwendigen Mehrbedarf f\u00fcr die Bundeswehr abzudecken. "
+   ]
+  }, 
+  {
+   "begin": "20.480", 
+   "children": [], 
+   "end": "21.000", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Im Schreiben des BMVg vom 2.\u00a0Mai 2018 wurde dies deutlich benannt."
+   ]
+  }, 
+  {
+   "begin": "21.000", 
+   "children": [], 
+   "end": "22.480", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Mit der aktuell vorgeschlagenen Erh\u00f6hung \u00fcber den Finanzplanungszeitraum wird nicht einmal ein Viertel des bestehenden Bedarfs abgedeckt. "
+   ]
+  }, 
+  {
+   "begin": "22.480", 
+   "children": [], 
+   "end": "22.481", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Damit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "22.481", 
+   "children": [], 
+   "end": "22.482", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Frau Dr.\u00a0Strack-Zimmermann, "
+   ]
+  }, 
+  {
+   "begin": "22.482", 
+   "children": [], 
+   "end": "22.483", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben es gesagt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "22.483", 
+   "children": [], 
+   "end": "23.480", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "wird weder die VJTF-Brigade bis 2023 voll auszustatten sein, "
+   ]
+  }, 
+  {
+   "begin": "23.480", 
+   "children": [], 
+   "end": "23.960", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "noch k\u00f6nnen die zahlreichen anderen Projekte angeschoben werden, "
+   ]
+  }, 
+  {
+   "begin": "23.960", 
+   "children": [], 
+   "end": "24.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die dringend notwendig sind. "
+   ]
+  }, 
+  {
+   "begin": "24.080", 
+   "children": [], 
+   "end": "24.360", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ich nenne hier beispielhaft das Mehrzweckkampfschiff\u00a0180, "
+   ]
+  }, 
+  {
+   "begin": "24.360", 
+   "children": [], 
+   "end": "25.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die deutsch-franz\u00f6sische Kooperation mit der geplanten Beschaffung der Hercules C-130J oder die sehr sinnvolle deutsch-norwegische U-Boot-Kooperation. "
+   ]
+  }, 
+  {
+   "begin": "25.480", 
+   "children": [], 
+   "end": "25.640", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Aber, "
+   ]
+  }, 
+  {
+   "begin": "25.640", 
+   "children": [], 
+   "end": "25.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr verehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "25.960", 
+   "children": [], 
+   "end": "26.120", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "auch unsere Leuchtturmprojekte, "
+   ]
+  }, 
+  {
+   "begin": "26.120", 
+   "children": [], 
+   "end": "27.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "das taktische Luftverteidigungssystem und die Entwicklung eines gemeinsamen Kampfpanzers mit Frankreich sowie die Tornado-Nachfolgel\u00f6sung stehen dann auf der Kippe."
+   ]
+  }, 
+  {
+   "begin": "27.920", 
+   "children": [], 
+   "end": "27.921", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Lieber Herr Dr.\u00a0Lindner, "
+   ]
+  }, 
+  {
+   "begin": "27.921", 
+   "children": [], 
+   "end": "28.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "ich erlaube keine Zwischenfrage, "
+   ]
+  }, 
+  {
+   "begin": "28.040", 
+   "children": [], 
+   "end": "30.560", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "weil ich drei Beitr\u00e4ge von Oppositionsrednern geh\u00f6rt habe. "
+   ]
+  }, 
+  {
+   "begin": "30.560", 
+   "children": [], 
+   "end": "31.120", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Nun langt das erst mal."
+   ]
+  }, 
+  {
+   "begin": "31.120", 
+   "children": [], 
+   "end": "32.680", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Gleiches trifft auf die pers\u00f6nliche Grundausstattung der Soldatinnen und Soldaten zu. "
+   ]
+  }, 
+  {
+   "begin": "32.680", 
+   "children": [], 
+   "end": "33.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann daher nur an alle Beteiligten appellieren, "
+   ]
+  }, 
+  {
+   "begin": "33.240", 
+   "children": [], 
+   "end": "33.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "in den folgenden Haushaltsberatungen alle Anstrengungen zu unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "33.880", 
+   "children": [], 
+   "end": "33.960", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "um diese L\u00fccke zwischen den geplanten finanziellen Mitteln und dem tats\u00e4chlichen Mehrbedarf zu schlie\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "33.960", 
+   "children": [], 
+   "end": "34.560", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Selbstkritisch sei angemerkt: "
+   ]
+  }, 
+  {
+   "begin": "34.560", 
+   "children": [], 
+   "end": "34.960", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Zum gro\u00dfen Bedauern der CDU/CSU-Verteidigungspolitiker hat der Verteidigungsetat in den Koalitionsverhandlungen nicht den Stellenwert eingenommen, "
+   ]
+  }, 
+  {
+   "begin": "34.960", 
+   "children": [], 
+   "end": "35.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "den wir uns vonseiten der CDU gew\u00fcnscht h\u00e4tten und der angesichts der sicherheitspolitischen Lage erforderlich ist. "
+   ]
+  }, 
+  {
+   "begin": "35.840", 
+   "children": [], 
+   "end": "36.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ich erinnere an das Versprechen, "
+   ]
+  }, 
+  {
+   "begin": "36.400", 
+   "children": [], 
+   "end": "36.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "das mit der Unterzeichnung des Koalitionsvertrages gegeben wurde, "
+   ]
+  }, 
+  {
+   "begin": "36.720", 
+   "children": [], 
+   "end": "38.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich dass Mehreinnahmen im Bundeshaushalt vorrangig in den Verteidigungshaushalt flie\u00dfen sollen. "
+   ]
+  }, 
+  {
+   "begin": "38.800", 
+   "children": [], 
+   "end": "38.801", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Angesichts der positiven Steuersch\u00e4tzung sollte dies auch m\u00f6glich sein. "
+   ]
+  }, 
+  {
+   "begin": "38.801", 
+   "children": [], 
+   "end": "38.802", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte an dieser Stelle an den Bundesminister der Finanzen, "
+   ]
+  }, 
+  {
+   "begin": "38.802", 
+   "children": [], 
+   "end": "38.803", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "der jetzt durch die Parlamentarische Staatssekret\u00e4rin vertreten wird, "
+   ]
+  }, 
+  {
+   "begin": "38.803", 
+   "children": [], 
+   "end": "38.804", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "appellieren, "
+   ]
+  }, 
+  {
+   "begin": "38.804", 
+   "children": [], 
+   "end": "38.805", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "den berechtigten Mehrbedarf f\u00fcr die Bundeswehr zu ber\u00fccksichtigen."
+   ]
+  }, 
+  {
+   "begin": "38.805", 
+   "children": [], 
+   "end": "38.806", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "38.806", 
+   "children": [], 
+   "end": "38.807", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wer angesichts dieser notwendigen Forderungen und vor dem Hintergrund der aktuellen Ausr\u00fcstungsm\u00e4ngel von Aufr\u00fcstung spricht, "
+   ]
+  }, 
+  {
+   "begin": "38.807", 
+   "children": [], 
+   "end": "38.808", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "so wie es die Linken teilweise tun, "
+   ]
+  }, 
+  {
+   "begin": "38.808", 
+   "children": [], 
+   "end": "38.809", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "verdreht die Tatsachen und hat die Zeichen der Zeit nicht erkannt. "
+   ]
+  }, 
+  {
+   "begin": "38.809", 
+   "children": [], 
+   "end": "38.810", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte auch davor warnen, "
+   ]
+  }, 
+  {
+   "begin": "38.810", 
+   "children": [], 
+   "end": "38.811", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "in der Debatte die Personalverst\u00e4rkungsmittel, "
+   ]
+  }, 
+  {
+   "begin": "38.811", 
+   "children": [], 
+   "end": "38.812", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "die aus dem Einzelplan\u00a060 stammen und den Lohnsteigerungen im \u00f6ffentlichen Dienst Rechnung tragen, "
+   ]
+  }, 
+  {
+   "begin": "38.812", 
+   "children": [], 
+   "end": "38.813", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "mit erh\u00f6hten Verteidigungsausgaben zu vermengen; "
+   ]
+  }, 
+  {
+   "begin": "38.813", 
+   "children": [], 
+   "end": "38.814", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "das ist unsachlich."
+   ]
+  }, 
+  {
+   "begin": "38.814", 
+   "children": [], 
+   "end": "38.815", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Dar\u00fcber hinaus m\u00f6chte ich kurz auf das f\u00e4lschlich genannte Gegenargument der nicht abgesch\u00f6pften Mittel eingehen. "
+   ]
+  }, 
+  {
+   "begin": "38.815", 
+   "children": [], 
+   "end": "38.816", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir den Einzelplan\u00a014 nachhaltig gestalten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "38.816", 
+   "children": [], 
+   "end": "38.817", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dazu geh\u00f6rt eine stetige, "
+   ]
+  }, 
+  {
+   "begin": "38.817", 
+   "children": [], 
+   "end": "38.818", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "weit im Voraus und solide berechnete Finanzierung\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "38.818", 
+   "children": [], 
+   "end": "38.819", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dann gibt es auch kein Ausgabeproblem. "
+   ]
+  }, 
+  {
+   "begin": "38.819", 
+   "children": [], 
+   "end": "38.820", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Problematisch wird es immer nur dann, "
+   ]
+  }, 
+  {
+   "begin": "38.820", 
+   "children": [], 
+   "end": "38.821", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "wenn allj\u00e4hrlich und kurzfristig Mittel bereitgestellt werden, "
+   ]
+  }, 
+  {
+   "begin": "38.821", 
+   "children": [], 
+   "end": "38.822", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "die dann bitte sch\u00f6n rechtzeitig und sinnvoll ausgegeben werden sollen. "
+   ]
+  }, 
+  {
+   "begin": "38.822", 
+   "children": [], 
+   "end": "38.823", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Aktuell haben wir kein Ausgabeproblem; "
+   ]
+  }, 
+  {
+   "begin": "38.823", 
+   "children": [], 
+   "end": "38.824", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die Ministerin ist darauf schon eingegangen. "
+   ]
+  }, 
+  {
+   "begin": "38.824", 
+   "children": [], 
+   "end": "38.960", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Mit der vereinbarten, "
+   ]
+  }, 
+  {
+   "begin": "38.960", 
+   "children": [], 
+   "end": "39.400", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "ich sage mal, "
+   ]
+  }, 
+  {
+   "begin": "39.400", 
+   "children": [], 
+   "end": "41.800", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "budgetierten \u00dcberj\u00e4hrigkeit und einer \u00fcber 100-prozentigen Ausplanung des Einzelplans in allen Investitionsvorhaben wird es das Problem in Zukunft auch nicht mehr geben."
+   ]
+  }, 
+  {
+   "begin": "41.800", 
+   "children": [], 
+   "end": "42.520", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "42.520", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur die Medien, "
+   ]
+  }, 
+  {
+   "begin": "42.760", 
+   "children": [], 
+   "end": "45.160", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch einige Rednerinnen und Redner hier haben ein Zerrbild der Bundeswehr an die Wand geworfen. "
+   ]
+  }, 
+  {
+   "begin": "45.160", 
+   "children": [], 
+   "end": "45.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Das hilft der Truppe in der Aus\u00fcbung ihres Dienstes nicht. "
+   ]
+  }, 
+  {
+   "begin": "45.520", 
+   "children": [], 
+   "end": "45.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben keine Schrottarmee. "
+   ]
+  }, 
+  {
+   "begin": "45.760", 
+   "children": [], 
+   "end": "46.240", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundeswehr ist in vielen Bereichen leistungsf\u00e4hig. "
+   ]
+  }, 
+  {
+   "begin": "46.240", 
+   "children": [], 
+   "end": "47.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben motivierte Soldatinnen und Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "47.000", 
+   "children": [], 
+   "end": "48.000", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "die sich allt\u00e4glich den Herausforderungen sowohl im eigenen Land als auch in den Einsatzgebieten stellen. "
+   ]
+  }, 
+  {
+   "begin": "48.000", 
+   "children": [], 
+   "end": "48.160", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Das sollten wir positiv anerkennen. "
+   ]
+  }, 
+  {
+   "begin": "48.160", 
+   "children": [], 
+   "end": "48.800", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Das ist das R\u00fcckgrat unserer Streitkr\u00e4fte, "
+   ]
+  }, 
+  {
+   "begin": "48.800", 
+   "children": [], 
+   "end": "50.160", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "und daf\u00fcr danken wir den Soldatinnen und Soldaten unserer Bundeswehr."
+   ]
+  }, 
+  {
+   "begin": "50.160", 
+   "children": [], 
+   "end": "50.200", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "50.200", 
+   "children": [], 
+   "end": "51.240", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Normalerweise sind Kurzinterventionen nicht f\u00fcr Kollegen gedacht, "
+   ]
+  }, 
+  {
+   "begin": "51.240", 
+   "children": [], 
+   "end": "51.360", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "die schon geredet haben, "
+   ]
+  }, 
+  {
+   "begin": "51.360", 
+   "children": [], 
+   "end": "51.920", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "aber da wir gut in der Zeit liegen, "
+   ]
+  }, 
+  {
+   "begin": "51.920", 
+   "children": [], 
+   "end": "51.921", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Herr Lindner, "
+   ]
+  }, 
+  {
+   "begin": "51.921", 
+   "children": [], 
+   "end": "53.000", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "sollen Sie die M\u00f6glichkeit haben."
+   ]
+  }
+ ]
+}

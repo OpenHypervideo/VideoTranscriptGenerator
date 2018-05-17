@@ -1,0 +1,994 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.720", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.720", 
+   "children": [], 
+   "end": "10.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Werte Abgeordnete! "
+   ]
+  }, 
+  {
+   "begin": "10.640", 
+   "children": [], 
+   "end": "15.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Der Einzelplan \u201eAusw\u00e4rtiges Amt\u201c ist so aufgestellt, "
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "children": [], 
+   "end": "24.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass von einer echten parlamentarischen Kontrolle f\u00fcr von der Regierung geplante Ausgaben zu einem gro\u00dfen Teil nicht die Rede sein kann. "
+   ]
+  }, 
+  {
+   "begin": "24.200", 
+   "children": [], 
+   "end": "25.600", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Und das geht so: "
+   ]
+  }, 
+  {
+   "begin": "25.600", 
+   "children": [], 
+   "end": "31.440", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Geplante Ausgaben werden unter sogenannten Titeln mit entsprechenden Themen\u00fcberschriften angegeben. "
+   ]
+  }, 
+  {
+   "begin": "31.440", 
+   "children": [], 
+   "end": "33.160", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr einen bestimmten Titel\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "33.160", 
+   "children": [], 
+   "end": "34.640", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "nennen wir ihn \u201eTitel\u00a0A\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "34.640", 
+   "children": [], 
+   "end": "38.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "wird eine bestimmte Summe als geplante Ausgabe festgesetzt, "
+   ]
+  }, 
+  {
+   "begin": "38.120", 
+   "children": [], 
+   "end": "39.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "genauso f\u00fcr Titel\u00a0B, "
+   ]
+  }, 
+  {
+   "begin": "39.480", 
+   "children": [], 
+   "end": "40.880", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "C usw. "
+   ]
+  }, 
+  {
+   "begin": "40.880", 
+   "children": [], 
+   "end": "44.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Die Mitglieder des Haushaltsausschusses diskutieren dann dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "44.760", 
+   "children": [], 
+   "end": "45.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "ob das Geld, "
+   ]
+  }, 
+  {
+   "begin": "45.520", 
+   "children": [], 
+   "end": "47.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "das zum Beispiel f\u00fcr Titel\u00a0A geplant ist, "
+   ]
+  }, 
+  {
+   "begin": "47.720", 
+   "children": [], 
+   "end": "50.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "angemessen und wirtschaftlich sinnvoll ist. "
+   ]
+  }, 
+  {
+   "begin": "50.200", 
+   "children": [], 
+   "end": "53.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Das tun sie auch im Hinblick auf alle weiteren Titel. "
+   ]
+  }, 
+  {
+   "begin": "53.840", 
+   "children": [], 
+   "end": "54.480", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "So weit, "
+   ]
+  }, 
+  {
+   "begin": "54.480", 
+   "children": [], 
+   "end": "55.800", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "so gut."
+   ]
+  }, 
+  {
+   "begin": "55.800", 
+   "children": [], 
+   "end": "60.200", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt aber auch die Einrichtung der sogenannten Deckungsvermerke. "
+   ]
+  }, 
+  {
+   "begin": "60.200", 
+   "children": [], 
+   "end": "66.320", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wenn diese unter einem Titel stehen und entweder einen anderen Titel oder sogar mehrere benennen, "
+   ]
+  }, 
+  {
+   "begin": "66.320", 
+   "children": [], 
+   "end": "72.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "kann das f\u00fcr Titel\u00a0A geplante Geld genauso gut f\u00fcr Titel\u00a0B oder C verwendet werden. "
+   ]
+  }, 
+  {
+   "begin": "72.640", 
+   "children": [], 
+   "end": "74.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Die Entscheidung dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "74.200", 
+   "children": [], 
+   "end": "76.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "ob und in welchem Umfang dies geschieht, "
+   ]
+  }, 
+  {
+   "begin": "76.680", 
+   "children": [], 
+   "end": "78.560", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "obliegt wiederum allein der Regierung. "
+   ]
+  }, 
+  {
+   "begin": "78.560", 
+   "children": [], 
+   "end": "82.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Das Ausw\u00e4rtige Amt hat einen Deckungskreislauf aufgebaut, "
+   ]
+  }, 
+  {
+   "begin": "82.280", 
+   "children": [], 
+   "end": "91.040", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "bei dem insgesamt knapp \u00fcber 2\u00a0Milliarden Euro innerhalb dieses Deckungskreislaufes untereinander nutzbar sind. "
+   ]
+  }, 
+  {
+   "begin": "91.040", 
+   "children": [], 
+   "end": "95.880", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Das entspricht knapp 40\u00a0Prozent seines gesamten Haushalts."
+   ]
+  }, 
+  {
+   "begin": "95.880", 
+   "children": [], 
+   "end": "104.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "In einer weiteren Titelgruppe desselben Kapitels hat es noch einen Deckungskreislauf \u00fcber weitere circa 650\u00a0Millionen Euro eingerichtet, "
+   ]
+  }, 
+  {
+   "begin": "104.440", 
+   "children": [], 
+   "end": "112.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "sodass in einem einzigen Kapitel knapp 2,7\u00a0Milliarden Euro untereinander nutzbar und vermischungsf\u00e4hig sind. "
+   ]
+  }, 
+  {
+   "begin": "112.960", 
+   "children": [], 
+   "end": "114.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das hei\u00dft, "
+   ]
+  }, 
+  {
+   "begin": "114.080", 
+   "children": [], 
+   "end": "126.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "nahezu die H\u00e4lfte des Haushalts des Ausw\u00e4rtigen Amtes von knapp \u00fcber 5,3\u00a0Milliarden Euro ist der konkreten parlamentarischen Kontrolle des Bundestages entzogen."
+   ]
+  }, 
+  {
+   "begin": "126.320", 
+   "children": [], 
+   "end": "129.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die Regierung kann das Geld insoweit hin- "
+   ]
+  }, 
+  {
+   "begin": "129.000", 
+   "children": [], 
+   "end": "130.960", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und herschieben, "
+   ]
+  }, 
+  {
+   "begin": "130.960", 
+   "children": [], 
+   "end": "131.880", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "wie sie will, "
+   ]
+  }, 
+  {
+   "begin": "131.880", 
+   "children": [], 
+   "end": "135.440", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "und das hat sie im letzten Jahr auch getan. "
+   ]
+  }, 
+  {
+   "begin": "135.440", 
+   "children": [], 
+   "end": "147.200", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Denn sie hat im letzten Jahr insgesamt circa 640\u00a0Millionen Euro \u00fcber dem Plansoll des Jahres\u00a02017 bei zwei Titeln des erstgenannten Deckungskreislaufs ausgegeben, "
+   ]
+  }, 
+  {
+   "begin": "147.200", 
+   "children": [], 
+   "end": "150.640", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "und es ist aus dem Einzelplan nicht nachvollziehbar, "
+   ]
+  }, 
+  {
+   "begin": "150.640", 
+   "children": [], 
+   "end": "159.000", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "aus welchen Titeln die Deckung genommen worden ist und ob und in welcher H\u00f6he insoweit \u00fcberplanm\u00e4\u00dfige Ausgaben in Anspruch genommen worden sind."
+   ]
+  }, 
+  {
+   "begin": "159.000", 
+   "children": [], 
+   "end": "167.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Die hiesige Diskussion im Haushaltsausschuss und im Plenum \u00fcber die Haushaltsplanung des Ausw\u00e4rtigen Amtes ist daher\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "167.440", 
+   "children": [], 
+   "end": "170.440", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "jedenfalls zu einem gro\u00dfen Teil\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "170.440", 
+   "children": [], 
+   "end": "172.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "reines Theaterspiel, "
+   ]
+  }, 
+  {
+   "begin": "172.440", 
+   "children": [], 
+   "end": "174.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "sozusagen Schattenboxen."
+   ]
+  }, 
+  {
+   "begin": "174.640", 
+   "children": [], 
+   "end": "182.720", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Eine echte parlamentarische Kontrolle findet bei der Planung dieses Haushalts aufgrund der Deckungskreisl\u00e4ufe nicht statt. "
+   ]
+  }, 
+  {
+   "begin": "182.720", 
+   "children": [], 
+   "end": "189.840", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Die wahren von der Regierung geplanten Zahlungsstr\u00f6me bleiben dem Bundestag daher zum gro\u00dfen Teil verborgen."
+   ]
+  }, 
+  {
+   "begin": "189.840", 
+   "children": [], 
+   "end": "190.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Wir, "
+   ]
+  }, 
+  {
+   "begin": "190.320", 
+   "children": [], 
+   "end": "190.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die AfD, "
+   ]
+  }, 
+  {
+   "begin": "190.960", 
+   "children": [], 
+   "end": "192.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "beantragen daher, "
+   ]
+  }, 
+  {
+   "begin": "192.440", 
+   "children": [], 
+   "end": "195.000", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "alle Deckungsvermerke zu streichen, "
+   ]
+  }, 
+  {
+   "begin": "195.000", 
+   "children": [], 
+   "end": "197.880", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "soweit ein Gesamttitel gebildet werden kann."
+   ]
+  }, 
+  {
+   "begin": "197.880", 
+   "children": [], 
+   "end": "200.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Und man komme uns nicht mit dem Argument, "
+   ]
+  }, 
+  {
+   "begin": "200.480", 
+   "children": [], 
+   "end": "205.320", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "dass ein flexibles Handeln erforderlich und deshalb die Deckungsvermerke notwendig seien; "
+   ]
+  }, 
+  {
+   "begin": "205.320", 
+   "children": [], 
+   "end": "208.160", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "denn genau hierf\u00fcr gibt es die Instrumente der \u00fcber- "
+   ]
+  }, 
+  {
+   "begin": "208.160", 
+   "children": [], 
+   "end": "209.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "bzw. "
+   ]
+  }, 
+  {
+   "begin": "209.040", 
+   "children": [], 
+   "end": "211.280", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "au\u00dferplanm\u00e4\u00dfigen Ausgaben. "
+   ]
+  }, 
+  {
+   "begin": "211.280", 
+   "children": [], 
+   "end": "215.960", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Diese Instrumentarien sind die haushaltsrechtlich vorgesehenen M\u00f6glichkeiten, "
+   ]
+  }, 
+  {
+   "begin": "215.960", 
+   "children": [], 
+   "end": "220.880", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Spielraum f\u00fcr flexibles Handeln in Krisenf\u00e4llen zu schaffen."
+   ]
+  }, 
+  {
+   "begin": "220.880", 
+   "children": [], 
+   "end": "226.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Dann haben auch der gesamte Haushaltsausschuss und der Bundestag die M\u00f6glichkeit, "
+   ]
+  }, 
+  {
+   "begin": "226.120", 
+   "children": [], 
+   "end": "232.200", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "die konkrete Verwendung der von unserer Bev\u00f6lkerung hart erarbeiteten Steuergelder zu pr\u00fcfen."
+   ]
+  }, 
+  {
+   "begin": "232.200", 
+   "children": [], 
+   "end": "234.560", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Alles andere bedeutet, "
+   ]
+  }, 
+  {
+   "begin": "234.560", 
+   "children": [], 
+   "end": "240.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass dem Bundestag die konkrete parlamentarische Kontrolle zu einem gro\u00dfen Teil entzogen wird."
+   ]
+  }, 
+  {
+   "begin": "240.920", 
+   "children": [], 
+   "end": "242.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Wer glaubt, "
+   ]
+  }, 
+  {
+   "begin": "242.120", 
+   "children": [], 
+   "end": "244.360", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass das nicht zu steigern sei: "
+   ]
+  }, 
+  {
+   "begin": "244.360", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "246.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "es geht noch mehr\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "246.240", 
+   "children": [], 
+   "end": "249.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Stichwort \u201eparteinahe Stiftungen\u201c."
+   ]
+  }, 
+  {
+   "begin": "249.360", 
+   "children": [], 
+   "end": "252.960", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Entstanden sind bei diesen inzwischen riesige Apparate. "
+   ]
+  }, 
+  {
+   "begin": "252.960", 
+   "children": [], 
+   "end": "254.200", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Zusammen besch\u00e4ftigen sie\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "254.200", 
+   "children": [], 
+   "end": "257.920", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Zitat aus der \u201eWelt\u201c vom 12.\u00a0Februar 2018\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "257.920", 
+   "children": [], 
+   "end": "260.560", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "\u201emehr als 2\u00a0000\u00a0Angestellte\u201c. "
+   ]
+  }, 
+  {
+   "begin": "260.560", 
+   "children": [], 
+   "end": "262.880", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem Ausland zusammen sind es doppelt so viele, "
+   ]
+  }, 
+  {
+   "begin": "262.880", 
+   "children": [], 
+   "end": "264.640", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "also 4\u00a0000."
+   ]
+  }, 
+  {
+   "begin": "264.640", 
+   "children": [], 
+   "end": "270.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Im Ausland werden insgesamt 300\u00a0Vertretungen und B\u00fcros unterhalten. "
+   ]
+  }, 
+  {
+   "begin": "270.400", 
+   "children": [], 
+   "end": "275.600", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Davon entfallen allein auf die SPD-nahe Friedrich-Ebert-Stiftung 100\u00a0Auslandsb\u00fcros"
+   ]
+  }, 
+  {
+   "begin": "275.600", 
+   "children": [], 
+   "end": "283.440", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "und auf die CDU-nahe Konrad-Adenauer-Stiftung 80\u00a0Auslandsb\u00fcros."
+   ]
+  }, 
+  {
+   "begin": "283.440", 
+   "children": [], 
+   "end": "291.640", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland als Staat hat ein Netz von 153\u00a0Botschaften und damit eines der besten Netze weltweit. "
+   ]
+  }, 
+  {
+   "begin": "291.640", 
+   "children": [], 
+   "end": "293.120", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Unsere parteinahen, "
+   ]
+  }, 
+  {
+   "begin": "293.120", 
+   "children": [], 
+   "end": "298.440", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "nahezu vollst\u00e4ndig aus Steuergeldern finanzierten Stiftungen k\u00f6nnen es aber noch besser:"
+   ]
+  }, 
+  {
+   "begin": "298.440", 
+   "children": [], 
+   "end": "305.840", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "SPD und CDU kommen ohne die CSU allein auf 180 Auslandsvertretungen."
+   ]
+  }, 
+  {
+   "begin": "305.840", 
+   "children": [], 
+   "end": "312.040", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Die parteinahen Stiftungen finanzieren \u00fcber das Ausw\u00e4rtige Amt unter anderem Stipendiaten. "
+   ]
+  }, 
+  {
+   "begin": "312.040", 
+   "children": [], 
+   "end": "320.840", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4hrend der DAAD und die Humboldt-Stiftung \u00fcber das Ausw\u00e4rtige Amt j\u00e4hrlich fast 50\u00a0000\u00a0Studenten und Akademiker aus dem Ausland f\u00f6rdern,"
+   ]
+  }, 
+  {
+   "begin": "320.840", 
+   "children": [], 
+   "end": "327.200", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "geben die parteinahen Stiftungen zur Anzahl der von ihnen gef\u00f6rderten Studenten keine Auskunft. "
+   ]
+  }, 
+  {
+   "begin": "327.200", 
+   "children": [], 
+   "end": "335.040", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Weshalb halten sich die parteinahen Stiftungen hier im Gegensatz zu den politisch neutralen Durchf\u00fchrern so bedeckt?"
+   ]
+  }, 
+  {
+   "begin": "335.040", 
+   "children": [], 
+   "end": "340.720", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Ben\u00f6tigen wir f\u00fcr eine Ausreichung von Stipendien im Ausland \u00fcberhaupt parteinahe Stiftungen? "
+   ]
+  }, 
+  {
+   "begin": "340.720", 
+   "children": [], 
+   "end": "342.280", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4re es nicht besser, "
+   ]
+  }, 
+  {
+   "begin": "342.280", 
+   "children": [], 
+   "end": "346.960", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die Stipendienvergabe auf politisch neutrale Durchf\u00fchrer zu beschr\u00e4nken?"
+   ]
+  }, 
+  {
+   "begin": "346.960", 
+   "children": [], 
+   "end": "354.080", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Auch dadurch k\u00f6nnten Synergien genutzt und in erheblichem Umfang Steuergelder eingespart werden."
+   ]
+  }, 
+  {
+   "begin": "354.080", 
+   "children": [], 
+   "end": "354.640", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir, "
+   ]
+  }, 
+  {
+   "begin": "354.640", 
+   "children": [], 
+   "end": "355.720", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "die AfD, "
+   ]
+  }, 
+  {
+   "begin": "355.720", 
+   "children": [], 
+   "end": "359.640", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "fordern mit dem Bund der Steuerzahler den Bundestag daher auf, "
+   ]
+  }, 
+  {
+   "begin": "359.640", 
+   "children": [], 
+   "end": "377.160", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "ein separates Gesetz f\u00fcr parteinahe Stiftungen zu beschlie\u00dfen und damit die kaum z\u00e4hlbaren Aktivit\u00e4ten mit einem Steuergeldzufluss von zuletzt 581\u00a0Millionen Euro im Jahr\u00a02017 transparent zu machen,"
+   ]
+  }, 
+  {
+   "begin": "377.160", 
+   "children": [], 
+   "end": "381.320", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "zumal die Regierung laut dem Bund der Steuerzahler offen sagt, "
+   ]
+  }, 
+  {
+   "begin": "381.320", 
+   "children": [], 
+   "end": "383.840", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "keinen blassen Schimmer zu haben,"
+   ]
+  }, 
+  {
+   "begin": "383.840", 
+   "children": [], 
+   "end": "390.440", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "welche internen Kontrollmechanismen die Stiftungen bei der Pr\u00fcfung der Mittelverwendung haben."
+   ]
+  }, 
+  {
+   "begin": "390.440", 
+   "children": [], 
+   "end": "390.880", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin, "
+   ]
+  }, 
+  {
+   "begin": "390.880", 
+   "children": [], 
+   "end": "392.200", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "kommen Sie bitte zum Schluss."
+   ]
+  }, 
+  {
+   "begin": "392.200", 
+   "children": [], 
+   "end": "393.960", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Und im Himmel ist Jahrmarkt."
+   ]
+  }, 
+  {
+   "begin": "393.960", 
+   "children": [], 
+   "end": "396.760", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "396.760", 
+   "children": [], 
+   "end": "402.000", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "402.000", 
+   "children": [], 
+   "end": "405.960", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes f\u00fcr die CDU/CSU-Fraktion der Kollege J\u00fcrgen Hardt."
+   ]
+  }
+ ]
+}

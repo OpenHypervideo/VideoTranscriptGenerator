@@ -1,0 +1,834 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.800", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.800", 
+   "children": [], 
+   "end": "4.360", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "4.360", 
+   "children": [], 
+   "end": "10.400", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Eine haushaltspolitische Debatte ist mehr als das einfache Vortragen von Zahlen. "
+   ]
+  }, 
+  {
+   "begin": "10.400", 
+   "children": [], 
+   "end": "16.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Eine haushaltspolitische Debatte ist eine Diskussion \u00fcber die wesentlichen Weichenstellungen der Politik."
+   ]
+  }, 
+  {
+   "begin": "16.560", 
+   "children": [], 
+   "end": "21.120", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wirft man nun einen Blick in den vorliegenden Einzelplan\u00a005, "
+   ]
+  }, 
+  {
+   "begin": "21.120", 
+   "children": [], 
+   "end": "28.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "so ist eine klare und eindeutige Strategie der Bundesregierung nur mit viel Fantasie erkennbar. "
+   ]
+  }, 
+  {
+   "begin": "28.960", 
+   "children": [], 
+   "end": "34.080", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Auf den ersten Blick steuert der Einzelplan\u00a005 zwar auf einen Rekordhaushalt zu, "
+   ]
+  }, 
+  {
+   "begin": "34.080", 
+   "children": [], 
+   "end": "36.520", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "doch sollte man dabei nicht \u00fcbersehen, "
+   ]
+  }, 
+  {
+   "begin": "36.520", 
+   "children": [], 
+   "end": "39.240", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "dass es im Vorjahr \u00fcberplanm\u00e4\u00dfige Mittel gab. "
+   ]
+  }, 
+  {
+   "begin": "39.240", 
+   "children": [], 
+   "end": "43.880", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Es kommt also nicht zu einer realen Steigerung des Haushaltes. "
+   ]
+  }, 
+  {
+   "begin": "43.880", 
+   "children": [], 
+   "end": "47.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Wirft man dar\u00fcber hinaus einen Blick auf die weiteren Zahlen, "
+   ]
+  }, 
+  {
+   "begin": "47.480", 
+   "children": [], 
+   "end": "49.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "so kommt noch hinzu, "
+   ]
+  }, 
+  {
+   "begin": "49.000", 
+   "children": [], 
+   "end": "56.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "dass die UN-Pflichtbeitr\u00e4ge im Jahr\u00a02019 einen massiven Teil des finanziellen Aufwuchses ausmachen. "
+   ]
+  }, 
+  {
+   "begin": "56.320", 
+   "children": [], 
+   "end": "65.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Und auch die EU-Pr\u00e4sidentschaft und der nichtst\u00e4ndige Sitz im Sicherheitsrat der Vereinten Nationen werden hohe Ausgaben erfordern."
+   ]
+  }, 
+  {
+   "begin": "65.360", 
+   "children": [], 
+   "end": "68.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Offen bleibt vor diesem Hintergrund vor allem, "
+   ]
+  }, 
+  {
+   "begin": "68.440", 
+   "children": [], 
+   "end": "72.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wie die aktuelle Personalproblematik im Ausw\u00e4rtigen Amt behoben werden kann, "
+   ]
+  }, 
+  {
+   "begin": "72.680", 
+   "children": [], 
+   "end": "73.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "und das, "
+   ]
+  }, 
+  {
+   "begin": "73.200", 
+   "children": [], 
+   "end": "75.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "obwohl bereits jetzt offensichtlich ist, "
+   ]
+  }, 
+  {
+   "begin": "75.960", 
+   "children": [], 
+   "end": "79.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "dass die Personalausgaben nicht gedeckt sein werden. "
+   ]
+  }, 
+  {
+   "begin": "79.280", 
+   "children": [], 
+   "end": "82.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Die Personalreserve reicht vorne und hinten nicht. "
+   ]
+  }, 
+  {
+   "begin": "82.480", 
+   "children": [], 
+   "end": "85.040", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Das geht an die Substanz des Dienstes."
+   ]
+  }, 
+  {
+   "begin": "85.040", 
+   "children": [], 
+   "end": "87.680", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "An die Substanz des Dienstes geht es auch, "
+   ]
+  }, 
+  {
+   "begin": "87.680", 
+   "children": [], 
+   "end": "91.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "wenn Auslandsvertretungen nicht ausreichend gesichert sind. "
+   ]
+  }, 
+  {
+   "begin": "91.200", 
+   "children": [], 
+   "end": "97.760", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Aus dem Anschlag auf die deutsche Botschaft in Kabul im vergangenen Jahr wurden viele Lehren und Erkenntnisse gezogen. "
+   ]
+  }, 
+  {
+   "begin": "97.760", 
+   "children": [], 
+   "end": "99.440", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Umso unverst\u00e4ndlicher ist es, "
+   ]
+  }, 
+  {
+   "begin": "99.440", 
+   "children": [], 
+   "end": "103.680", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "wenn an sicherheitsrelevanten Posten Einsparungen vorgenommen werden. "
+   ]
+  }, 
+  {
+   "begin": "103.680", 
+   "children": [], 
+   "end": "109.800", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Sicherheit unserer Diplomatinnen und Diplomaten darf zu keinem Zeitpunkt aufs Spiel gesetzt werden."
+   ]
+  }, 
+  {
+   "begin": "109.800", 
+   "children": [], 
+   "end": "114.520", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "114.520", 
+   "children": [], 
+   "end": "117.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "im Koalitionsvertrag wurde geschrieben, "
+   ]
+  }, 
+  {
+   "begin": "117.080", 
+   "children": [], 
+   "end": "119.320", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass die Mittel f\u00fcr Ausw\u00e4rtige Kultur- "
+   ]
+  }, 
+  {
+   "begin": "119.320", 
+   "children": [], 
+   "end": "121.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "und Bildungspolitik erh\u00f6ht werden. "
+   ]
+  }, 
+  {
+   "begin": "121.280", 
+   "children": [], 
+   "end": "122.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Ich stelle heute fest, "
+   ]
+  }, 
+  {
+   "begin": "122.240", 
+   "children": [], 
+   "end": "127.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "dass ausgerechnet dieser Bereich zu den gro\u00dfen Verlierern des aktuellen Haushaltsplans geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "127.720", 
+   "children": [], 
+   "end": "131.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die Streichung von rund 17\u00a0Millionen Euro erscheint widerspr\u00fcchlich. "
+   ]
+  }, 
+  {
+   "begin": "131.280", 
+   "children": [], 
+   "end": "133.040", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Ausw\u00e4rtige Kultur- "
+   ]
+  }, 
+  {
+   "begin": "133.040", 
+   "children": [], 
+   "end": "142.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "und Bildungspolitik ist ein integraler Bestandteil der deutschen Politik und muss es auch bleiben."
+   ]
+  }, 
+  {
+   "begin": "142.040", 
+   "children": [], 
+   "end": "143.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag steht weiterhin:"
+   ]
+  }, 
+  {
+   "begin": "143.840", 
+   "children": [], 
+   "end": "144.640", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind bereit, "
+   ]
+  }, 
+  {
+   "begin": "144.640", 
+   "children": [], 
+   "end": "150.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "unsere freiwilligen VN-Beitr\u00e4ge strategischer auszurichten und zu erh\u00f6hen."
+   ]
+  }, 
+  {
+   "begin": "150.400", 
+   "children": [], 
+   "end": "154.120", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Das ist grunds\u00e4tzlich gut. "
+   ]
+  }, 
+  {
+   "begin": "154.120", 
+   "children": [], 
+   "end": "157.120", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Dann muss man sich bitte auch daf\u00fcr einsetzen, "
+   ]
+  }, 
+  {
+   "begin": "157.120", 
+   "children": [], 
+   "end": "163.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "dass in internationalen Organisationen wie den Vereinten Nationen deutsche Staatsb\u00fcrger F\u00fchrungspositionen einnehmen. "
+   ]
+  }, 
+  {
+   "begin": "163.960", 
+   "children": [], 
+   "end": "171.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "In Relation zu den hohen Finanzbeitr\u00e4gen \u00fcbt Deutschland in diesen Gremien gegenw\u00e4rtig zu wenig Einfluss aus, "
+   ]
+  }, 
+  {
+   "begin": "171.000", 
+   "children": [], 
+   "end": "173.160", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "und das ist definitiv nicht gut."
+   ]
+  }, 
+  {
+   "begin": "173.160", 
+   "children": [], 
+   "end": "174.560", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "174.560", 
+   "children": [], 
+   "end": "177.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "international mehr Verantwortung zu \u00fcbernehmen, "
+   ]
+  }, 
+  {
+   "begin": "177.480", 
+   "children": [], 
+   "end": "178.400", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "hei\u00dft nicht nur, "
+   ]
+  }, 
+  {
+   "begin": "178.400", 
+   "children": [], 
+   "end": "180.320", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "mehr Beitr\u00e4ge zu \u00fcberweisen. "
+   ]
+  }, 
+  {
+   "begin": "180.320", 
+   "children": [], 
+   "end": "180.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Es hei\u00dft auch, "
+   ]
+  }, 
+  {
+   "begin": "180.800", 
+   "children": [], 
+   "end": "182.120", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dass wir gerade in Zeiten, "
+   ]
+  }, 
+  {
+   "begin": "182.120", 
+   "children": [], 
+   "end": "186.280", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "in denen sich die au\u00dfenpolitischen Herausforderungen rapide wandeln, "
+   ]
+  }, 
+  {
+   "begin": "186.280", 
+   "children": [], 
+   "end": "189.040", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "in denen wir einen R\u00fcckzug der Diplomatie erleben, "
+   ]
+  }, 
+  {
+   "begin": "189.040", 
+   "children": [], 
+   "end": "197.640", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Verantwortung \u00fcbernehmen und den Dialog vorantreiben m\u00fcssen;"
+   ]
+  }, 
+  {
+   "begin": "197.640", 
+   "children": [], 
+   "end": "206.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "denn f\u00fcr die globalen Krisenherde werden sich nur gemeinsam und im internationalen Konsens L\u00f6sungen finden lassen. "
+   ]
+  }, 
+  {
+   "begin": "206.440", 
+   "children": [], 
+   "end": "210.040", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das trifft insbesondere auf die Konflikte im Nahen Osten zu, "
+   ]
+  }, 
+  {
+   "begin": "210.040", 
+   "children": [], 
+   "end": "214.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "wo vor allem diplomatisches Geschick entscheidend sein wird."
+   ]
+  }, 
+  {
+   "begin": "214.400", 
+   "children": [], 
+   "end": "224.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Vor dem Hintergrund der schwierigen Beziehungen beispielsweise zum Kreml brauchen wir mehr Mittel f\u00fcr die zivilgesellschaftlichen Beziehungen zu Russland, "
+   ]
+  }, 
+  {
+   "begin": "224.680", 
+   "children": [], 
+   "end": "228.280", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere zur F\u00f6rderung des Deutsch-Russischen Jugendaustausches. "
+   ]
+  }, 
+  {
+   "begin": "228.280", 
+   "children": [], 
+   "end": "233.360", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Das verstehen wir unter nachhaltiger und wertegebundener Au\u00dfenpolitik."
+   ]
+  }, 
+  {
+   "begin": "233.360", 
+   "children": [], 
+   "end": "237.120", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "\u00c4hnliches gilt f\u00fcr unser Engagement im Nahen Osten und in Nordafrika. "
+   ]
+  }, 
+  {
+   "begin": "237.120", 
+   "children": [], 
+   "end": "242.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Obgleich die gegenw\u00e4rtige Situation in der Region gef\u00e4hrlich und instabil ist, "
+   ]
+  }, 
+  {
+   "begin": "242.360", 
+   "children": [], 
+   "end": "243.520", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4re es falsch, "
+   ]
+  }, 
+  {
+   "begin": "243.520", 
+   "children": [], 
+   "end": "246.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "sich politisch aus der Region zur\u00fcckzuziehen. "
+   ]
+  }, 
+  {
+   "begin": "246.600", 
+   "children": [], 
+   "end": "248.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wir fordern daher die Bundesregierung auf, "
+   ]
+  }, 
+  {
+   "begin": "248.480", 
+   "children": [], 
+   "end": "256.360", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "einen besonderen Fokus auf Demokratief\u00f6rderung und den Dialog mit ver\u00e4nderungswilligen Gruppen zu legen."
+   ]
+  }, 
+  {
+   "begin": "256.360", 
+   "children": [], 
+   "end": "268.680", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Im Hinblick auf die vielf\u00e4ltigen Aufgabenfelder des Dienstes m\u00f6chten wir schlie\u00dflich der Bundesregierung eine regelm\u00e4\u00dfige externe Evaluierung der Projekte des Ausw\u00e4rtigen Amtes nahelegen. "
+   ]
+  }, 
+  {
+   "begin": "268.680", 
+   "children": [], 
+   "end": "276.400", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "W\u00fcnschenswert w\u00e4re in diesem Zusammenhang au\u00dferdem eine effiziente Koordinierung mit den Schnittstellen des BMZ."
+   ]
+  }, 
+  {
+   "begin": "276.400", 
+   "children": [], 
+   "end": "277.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "277.840", 
+   "children": [], 
+   "end": "286.240", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "bei der Vorstellung des Entwurfs des Haushalts\u00a02018 durch den Finanzminister sind zwei Minister aufgefallen: "
+   ]
+  }, 
+  {
+   "begin": "286.240", 
+   "children": [], 
+   "end": "291.560", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "die Verteidigungsministerin und der Entwicklungsminister. "
+   ]
+  }, 
+  {
+   "begin": "291.560", 
+   "children": [], 
+   "end": "298.600", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben sich zumindest an der Stelle lautstark und sichtbar f\u00fcr ihre H\u00e4user eingesetzt. "
+   ]
+  }, 
+  {
+   "begin": "298.600", 
+   "children": [], 
+   "end": "301.360", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wo war eigentlich die Stimme des Ausw\u00e4rtigen Amtes? "
+   ]
+  }, 
+  {
+   "begin": "301.360", 
+   "children": [], 
+   "end": "304.960", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wer hat sich f\u00fcr die Interessen des Ausw\u00e4rtigen Amtes starkgemacht?"
+   ]
+  }, 
+  {
+   "begin": "304.960", 
+   "children": [], 
+   "end": "306.480", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Die aktuellen Herausforderungen, "
+   ]
+  }, 
+  {
+   "begin": "306.480", 
+   "children": [], 
+   "end": "309.320", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere die Probleme in der Personalpolitik, "
+   ]
+  }, 
+  {
+   "begin": "309.320", 
+   "children": [], 
+   "end": "312.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4tten mehr Verhandlungseinsatz erfordert. "
+   ]
+  }, 
+  {
+   "begin": "312.600", 
+   "children": [], 
+   "end": "319.840", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Das Ausw\u00e4rtige Amt darf nicht eines Tages durch Fehlplanung in eine strukturelle Krise geraten. "
+   ]
+  }, 
+  {
+   "begin": "319.840", 
+   "children": [], 
+   "end": "324.720", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Die Einsatzf\u00e4higkeit der deutschen Diplomatie ist uns ein Kernanliegen, "
+   ]
+  }, 
+  {
+   "begin": "324.720", 
+   "children": [], 
+   "end": "327.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "und zwar f\u00fcr nachhaltige und wertegeleitete Ziele."
+   ]
+  }, 
+  {
+   "begin": "327.960", 
+   "children": [], 
+   "end": "330.880", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank f\u00fcr Ihre Aufmerksamkeit."
+   ]
+  }, 
+  {
+   "begin": "330.880", 
+   "children": [], 
+   "end": "331.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "331.840", 
+   "children": [], 
+   "end": "333.840", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Djir-Sarai.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "333.840", 
+   "children": [], 
+   "end": "337.960", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster f\u00fcr die Linke der Kollege Stefan Liebich."
+   ]
+  }
+ ]
+}

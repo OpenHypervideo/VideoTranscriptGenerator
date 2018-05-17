@@ -1,0 +1,954 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.040", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.040", 
+   "children": [], 
+   "end": "13.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "children": [], 
+   "end": "23.600", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Im Jahr\u00a02001 habe ich als Bundestagsabgeordneter dem damaligen Verteidigungsminister Scharping einen Vorschlag unterbreitet: "
+   ]
+  }, 
+  {
+   "begin": "23.600", 
+   "children": [], 
+   "end": "25.720", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Deutsche Soldaten im Kampfeinsatz\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "25.720", 
+   "children": [], 
+   "end": "27.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "damals Afghanistan\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "27.640", 
+   "children": [], 
+   "end": "33.640", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "sollten eine Tapferkeitsauszeichnung bekommen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "33.640", 
+   "children": [], 
+   "end": "36.840", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Die Hauptstadtpresse nahm das am\u00fcsiert auf. "
+   ]
+  }, 
+  {
+   "begin": "36.840", 
+   "children": [], 
+   "end": "40.680", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "In Anlehnung an den Orden Pour le M\u00e9rite\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "40.680", 
+   "children": [], 
+   "end": "46.520", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "besonders f\u00fcr die Fliegerasse des Ersten Weltkrieges damals auch \u201eBlauer Max\u201c genannt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "46.520", 
+   "children": [], 
+   "end": "53.360", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "w\u00fcrde der Orden sicher \u201eSchwarzer Martin\u201c hei\u00dfen und so in die Annalen eingehen. "
+   ]
+  }, 
+  {
+   "begin": "53.360", 
+   "children": [], 
+   "end": "53.840", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ehre, "
+   ]
+  }, 
+  {
+   "begin": "53.840", 
+   "children": [], 
+   "end": "55.760", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "wem Ehre geb\u00fchrt; "
+   ]
+  }, 
+  {
+   "begin": "55.760", 
+   "children": [], 
+   "end": "57.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Hauptmotiv meines Vorsto\u00dfes aber war, "
+   ]
+  }, 
+  {
+   "begin": "57.880", 
+   "children": [], 
+   "end": "66.560", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "dass die gesamte rot-gr\u00fcne Regierung sich damals gegen eine Erkenntnis mit aller Kraft gestr\u00e4ubt hat, "
+   ]
+  }, 
+  {
+   "begin": "66.560", 
+   "children": [], 
+   "end": "68.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die Erkenntnis: "
+   ]
+  }, 
+  {
+   "begin": "68.200", 
+   "children": [], 
+   "end": "72.200", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "In Afghanistan herrscht Krieg. "
+   ]
+  }, 
+  {
+   "begin": "72.200", 
+   "children": [], 
+   "end": "74.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Deutsche Soldaten treffen dort auf Feinde, "
+   ]
+  }, 
+  {
+   "begin": "74.680", 
+   "children": [], 
+   "end": "77.080", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "die zu allem entschlossen sind. "
+   ]
+  }, 
+  {
+   "begin": "77.080", 
+   "children": [], 
+   "end": "79.880", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Deutsche Soldaten k\u00f6nnen dort fallen, "
+   ]
+  }, 
+  {
+   "begin": "79.880", 
+   "children": [], 
+   "end": "81.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und sie sind auch gefallen."
+   ]
+  }, 
+  {
+   "begin": "81.600", 
+   "children": [], 
+   "end": "86.880", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Aber die Begriffe \u201eKrieg\u201c und \u201eGefallene\u201c waren damals noch verp\u00f6nt. "
+   ]
+  }, 
+  {
+   "begin": "86.880", 
+   "children": [], 
+   "end": "91.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Diese Begriffe gab es im offiziellen politischen Sprachgebrauch nicht, "
+   ]
+  }, 
+  {
+   "begin": "91.120", 
+   "children": [], 
+   "end": "97.680", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "sonst h\u00e4tte man damals der brutalen Realit\u00e4t ins Auge sehen m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "97.680", 
+   "children": [], 
+   "end": "100.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Das aber fiel der Politik schon damals schwer."
+   ]
+  }, 
+  {
+   "begin": "100.840", 
+   "children": [], 
+   "end": "109.600", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Jede Politik beginnt aber mit einer objektiven Analyse, "
+   ]
+  }, 
+  {
+   "begin": "109.600", 
+   "children": [], 
+   "end": "112.280", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "einer Analyse ohne jede Besch\u00f6nigung. "
+   ]
+  }, 
+  {
+   "begin": "112.280", 
+   "children": [], 
+   "end": "119.080", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Zur Analyse des Status der Bundeswehr von heute reicht ein Wort: "
+   ]
+  }, 
+  {
+   "begin": "119.080", 
+   "children": [], 
+   "end": "121.040", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Katastrophe\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "121.040", 
+   "children": [], 
+   "end": "127.720", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "aber nicht weil die Soldaten nicht motiviert und einsatzbereit w\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "127.720", 
+   "children": [], 
+   "end": "131.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "sondern weil sie daran gehindert werden, "
+   ]
+  }, 
+  {
+   "begin": "131.120", 
+   "children": [], 
+   "end": "132.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "ihren Auftrag zu erf\u00fcllen."
+   ]
+  }, 
+  {
+   "begin": "132.440", 
+   "children": [], 
+   "end": "133.120", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Warum? "
+   ]
+  }, 
+  {
+   "begin": "133.120", 
+   "children": [], 
+   "end": "140.440", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Darauf gibt es seit vielen Jahren die gleiche Antwort. "
+   ]
+  }, 
+  {
+   "begin": "140.440", 
+   "children": [], 
+   "end": "142.080", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Ein unverd\u00e4chtiger Zeuge, "
+   ]
+  }, 
+  {
+   "begin": "142.080", 
+   "children": [], 
+   "end": "144.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "ebenfalls aus dem Jahr\u00a02001, "
+   ]
+  }, 
+  {
+   "begin": "144.160", 
+   "children": [], 
+   "end": "148.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "ist der damalige gr\u00fcne Au\u00dfenminister Fischer. "
+   ]
+  }, 
+  {
+   "begin": "148.400", 
+   "children": [], 
+   "end": "150.760", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Er sagte:"
+   ]
+  }, 
+  {
+   "begin": "150.760", 
+   "children": [], 
+   "end": "153.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir uns etwas vorzuwerfen haben, "
+   ]
+  }, 
+  {
+   "begin": "153.400", 
+   "children": [], 
+   "end": "155.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "dann ist es die Tatsache, "
+   ]
+  }, 
+  {
+   "begin": "155.400", 
+   "children": [], 
+   "end": "158.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass wir im vergangenen Jahrzehnt die Illusion hatten, "
+   ]
+  }, 
+  {
+   "begin": "158.880", 
+   "children": [], 
+   "end": "162.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "eine Friedensdividende einnehmen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "162.280", 
+   "children": [], 
+   "end": "166.720", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "ohne Investitionen in den Frieden vorzunehmen."
+   ]
+  }, 
+  {
+   "begin": "166.720", 
+   "children": [], 
+   "end": "169.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Heute fehlt es noch mehr an Waffen, "
+   ]
+  }, 
+  {
+   "begin": "169.800", 
+   "children": [], 
+   "end": "172.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Ausbildung und Ersatzteilen. "
+   ]
+  }, 
+  {
+   "begin": "172.720", 
+   "children": [], 
+   "end": "175.920", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Die Friedensdividende sollte auch darin bestehen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "175.920", 
+   "children": [], 
+   "end": "184.440", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "so haben sich das die damals politisch Verantwortlichen von Rot-Gr\u00fcn \u00fcber Schwarz-Gelb bis zu Schwarz-Rot so sch\u00f6n ausgerechnet\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "184.440", 
+   "children": [], 
+   "end": "193.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass man bei Beschaffungsauftr\u00e4gen die recht teure Ersatzteillieferung einfach gestrichen hat. "
+   ]
+  }, 
+  {
+   "begin": "193.560", 
+   "children": [], 
+   "end": "195.360", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Jeder Autobesitzer wei\u00df: "
+   ]
+  }, 
+  {
+   "begin": "195.360", 
+   "children": [], 
+   "end": "198.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Ohne Ersatzteile l\u00e4uft das nicht. "
+   ]
+  }, 
+  {
+   "begin": "198.640", 
+   "children": [], 
+   "end": "199.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr Panzer, "
+   ]
+  }, 
+  {
+   "begin": "199.800", 
+   "children": [], 
+   "end": "202.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Flugzeuge und Hubschrauber sollte das\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "202.720", 
+   "children": [], 
+   "end": "204.520", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "so war der politische Wille\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "204.520", 
+   "children": [], 
+   "end": "206.440", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "einfach nicht gelten."
+   ]
+  }, 
+  {
+   "begin": "206.440", 
+   "children": [], 
+   "end": "212.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das Ergebnis erleiden unsere Soldaten heute tagt\u00e4glich. "
+   ]
+  }, 
+  {
+   "begin": "212.800", 
+   "children": [], 
+   "end": "216.480", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Die Zeitschrift \u201eStern\u201c hat es auf den Punkt gebracht: "
+   ]
+  }, 
+  {
+   "begin": "216.480", 
+   "children": [], 
+   "end": "217.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Fliegt nicht, "
+   ]
+  }, 
+  {
+   "begin": "217.240", 
+   "children": [], 
+   "end": "217.920", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "rollt nicht, "
+   ]
+  }, 
+  {
+   "begin": "217.920", 
+   "children": [], 
+   "end": "219.680", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "taucht nicht.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "219.680", 
+   "children": [], 
+   "end": "220.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Ich f\u00fcge hinzu: "
+   ]
+  }, 
+  {
+   "begin": "220.400", 
+   "children": [], 
+   "end": "222.200", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Schie\u00dft nicht."
+   ]
+  }, 
+  {
+   "begin": "222.200", 
+   "children": [], 
+   "end": "223.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Mein Fazit: "
+   ]
+  }, 
+  {
+   "begin": "223.480", 
+   "children": [], 
+   "end": "233.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Die F\u00fchrung der Bundeswehr hat ihren Selbstbehauptungsanspruch aufgegeben."
+   ]
+  }, 
+  {
+   "begin": "233.040", 
+   "children": [], 
+   "end": "233.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Was bleibt, "
+   ]
+  }, 
+  {
+   "begin": "233.920", 
+   "children": [], 
+   "end": "235.840", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "ist das Verwalten des Mangels, "
+   ]
+  }, 
+  {
+   "begin": "235.840", 
+   "children": [], 
+   "end": "237.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "das Sch\u00f6nreden des Mangels."
+   ]
+  }, 
+  {
+   "begin": "237.920", 
+   "children": [], 
+   "end": "239.400", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Der Vorwurf trifft nicht Sie allein, "
+   ]
+  }, 
+  {
+   "begin": "239.400", 
+   "children": [], 
+   "end": "240.960", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin. "
+   ]
+  }, 
+  {
+   "begin": "240.960", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Sie tragen auch die S\u00fcnden Ihrer Vorg\u00e4nger. "
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "248.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Was wir als Opposition Ihnen aber heute vorwerfen: "
+   ]
+  }, 
+  {
+   "begin": "248.480", 
+   "children": [], 
+   "end": "252.320", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sie steuern nicht entschieden genug um. "
+   ]
+  }, 
+  {
+   "begin": "252.320", 
+   "children": [], 
+   "end": "256.800", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Die angek\u00fcndigte Trendwende ist mehr oder weniger Worth\u00fclse. "
+   ]
+  }, 
+  {
+   "begin": "256.800", 
+   "children": [], 
+   "end": "260.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Die Misere setzt sich auch unter Ihnen fort. "
+   ]
+  }, 
+  {
+   "begin": "260.520", 
+   "children": [], 
+   "end": "273.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Trotz hoher Motivation unserer Soldaten wird die deutsche Armee so der L\u00e4cherlichkeit preisgegeben."
+   ]
+  }, 
+  {
+   "begin": "273.280", 
+   "children": [], 
+   "end": "279.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem r\u00e4cht sich die ausgesetzte Wehrpflicht jetzt immer f\u00fchlbarer. "
+   ]
+  }, 
+  {
+   "begin": "279.520", 
+   "children": [], 
+   "end": "282.320", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Es fehlt geeignetes Personal. "
+   ]
+  }, 
+  {
+   "begin": "282.320", 
+   "children": [], 
+   "end": "284.520", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Es fehlt Personal auch deswegen, "
+   ]
+  }, 
+  {
+   "begin": "284.520", 
+   "children": [], 
+   "end": "289.560", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "weil vor Jahrzehnten eine verheerende politische Entscheidung getroffen wurde. "
+   ]
+  }, 
+  {
+   "begin": "289.560", 
+   "children": [], 
+   "end": "295.000", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Ohne dass ich der einzelnen betroffenen Frau einen Vorwurf machen will, "
+   ]
+  }, 
+  {
+   "begin": "295.000", 
+   "children": [], 
+   "end": "296.800", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "gilt doch die Feststellung, "
+   ]
+  }, 
+  {
+   "begin": "296.800", 
+   "children": [], 
+   "end": "304.800", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "dass die Abtreibung als Massenph\u00e4nomen die Zukunft unseres Volkes bedroht."
+   ]
+  }, 
+  {
+   "begin": "304.800", 
+   "children": [], 
+   "end": "308.960", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Wer das Leben zur\u00fcckweist, "
+   ]
+  }, 
+  {
+   "begin": "308.960", 
+   "children": [], 
+   "end": "311.960", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "den verl\u00e4sst das Leben."
+   ]
+  }, 
+  {
+   "begin": "311.960", 
+   "children": [], 
+   "end": "321.600", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Seit rund 40\u00a0Jahren fehlen uns j\u00e4hrlich 100\u00a0000\u00a0junge Menschen. "
+   ]
+  }, 
+  {
+   "begin": "321.600", 
+   "children": [], 
+   "end": "325.440", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Das sind inzwischen 4\u00a0Millionen."
+   ]
+  }, 
+  {
+   "begin": "325.440", 
+   "children": [], 
+   "end": "332.320", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "W\u00fcrden wir gem\u00e4\u00df einer AfD-Forderung die Wehrpflicht wieder einf\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "332.320", 
+   "children": [], 
+   "end": "344.920", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnten wir wenigstens tendenziell eher Nachwuchspersonal gewinnen und die Identifikation unseres Volkes mit unserer Bundeswehr f\u00f6rdern."
+   ]
+  }, 
+  {
+   "begin": "344.920", 
+   "children": [], 
+   "end": "346.640", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Zur\u00fcck zum Anfang. "
+   ]
+  }, 
+  {
+   "begin": "346.640", 
+   "children": [], 
+   "end": "354.600", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich hat Minister Scharping damals meinen Antrag auf eine Tapferkeitsauszeichnung abgelehnt."
+   ]
+  }, 
+  {
+   "begin": "354.600", 
+   "children": [], 
+   "end": "360.040", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Auf diesem Gebiet hat jedoch die Realit\u00e4t gesiegt. "
+   ]
+  }, 
+  {
+   "begin": "360.040", 
+   "children": [], 
+   "end": "372.120", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Inzwischen wurden als h\u00f6chste Stufe das Ehrenkreuz f\u00fcr Tapferkeit und die Einsatzmedaille \u201eGefecht\u201c eingef\u00fchrt."
+   ]
+  }, 
+  {
+   "begin": "372.120", 
+   "children": [], 
+   "end": "377.840", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Wir als AfD kennen die Situation unserer Soldaten, "
+   ]
+  }, 
+  {
+   "begin": "377.840", 
+   "children": [], 
+   "end": "380.080", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "weil viele von uns Soldaten waren, "
+   ]
+  }, 
+  {
+   "begin": "380.080", 
+   "children": [], 
+   "end": "383.680", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "und wir stehen an der Seite unserer Soldaten."
+   ]
+  }, 
+  {
+   "begin": "383.680", 
+   "children": [], 
+   "end": "393.280", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "393.280", 
+   "children": [], 
+   "end": "397.960", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chstes spricht der Kollege Dennis Rohde f\u00fcr die Fraktion der SPD."
+   ]
+  }
+ ]
+}
