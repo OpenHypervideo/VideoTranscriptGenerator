@@ -48,7 +48,7 @@ foreach ($fileArray as $fileName) {
 
 file_put_contents('input/xml/_index.json', json_encode($fileIndex));
 
-//getMediaIDs(dirname(__FILE__).'/input/xml/19024-data.xml');
+//getMediaIDs(dirname(__FILE__).'/input/xml/19032-data.xml');
 
 /**
  * @param $XMLFilePath
@@ -293,7 +293,12 @@ function getMediaIDfromRSS($wahlperiode, $sitzungsnummer, $top, $vorname, $nachn
 	}
 	// Fix Ende
 
-	$searchString = 'TOP: '.getTopShortID($top);
+	$topShortID = getTopShortID($top);
+	if (preg_match("/(Epl)/", $topShortID)) {
+		$searchString = $topShortID;
+	} else {
+		$searchString = 'TOP: '.$topShortID;
+	}
 
 	//echo 'Search for: '.$searchString.'<br>';
 
@@ -417,6 +422,8 @@ function getTopShortID($top) {
 
 	if ($topType == 'Zusatzpunkt') {
 		return 'ZP '.$topID;
+	} else if ($topType == 'Einzelplan') {
+		return 'Epl '.$topID;
 	} else {
 		return ''.$topID;
 	}
