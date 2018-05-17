@@ -1,0 +1,1564 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.600", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.600", 
+   "children": [], 
+   "end": "13.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "13.640", 
+   "children": [], 
+   "end": "16.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "\u201eUns schickt der Himmel\u201c, "
+   ]
+  }, 
+  {
+   "begin": "16.000", 
+   "children": [], 
+   "end": "19.440", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "so lautet das Motto der Katholischen Landjugendbewegung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "19.440", 
+   "children": [], 
+   "end": "20.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "zu Recht; "
+   ]
+  }, 
+  {
+   "begin": "20.960", 
+   "children": [], 
+   "end": "25.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "denn die Jugendlichen bewegen mit ihren Aktionen die D\u00f6rfer, "
+   ]
+  }, 
+  {
+   "begin": "25.160", 
+   "children": [], 
+   "end": "26.920", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und zwar ehrenamtlich. "
+   ]
+  }, 
+  {
+   "begin": "26.920", 
+   "children": [], 
+   "end": "29.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Sie schickt der Himmel. "
+   ]
+  }, 
+  {
+   "begin": "29.320", 
+   "children": [], 
+   "end": "31.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Im Alltag aber verblasst dieser Ruhm. "
+   ]
+  }, 
+  {
+   "begin": "31.680", 
+   "children": [], 
+   "end": "36.920", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber\u00f6rtlich erh\u00e4lt die Landjugend eher das Etikett \u201eprovinziell\u201c. "
+   ]
+  }, 
+  {
+   "begin": "36.920", 
+   "children": [], 
+   "end": "42.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Mit diesem Vorurteil entlarven sich \u00dcberheblichkeit oder Unwissenheit. "
+   ]
+  }, 
+  {
+   "begin": "42.320", 
+   "children": [], 
+   "end": "46.520", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Das Land ist weder Idylle noch Niemandsland."
+   ]
+  }, 
+  {
+   "begin": "46.520", 
+   "children": [], 
+   "end": "48.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Was sind die Fakten? "
+   ]
+  }, 
+  {
+   "begin": "48.160", 
+   "children": [], 
+   "end": "51.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Mehr als die H\u00e4lfte der Deutschen lebt auf dem Land. "
+   ]
+  }, 
+  {
+   "begin": "51.200", 
+   "children": [], 
+   "end": "53.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Es ist die Heimat des Mittelstandes. "
+   ]
+  }, 
+  {
+   "begin": "53.000", 
+   "children": [], 
+   "end": "55.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Familien k\u00f6nnen sich ein Eigenheim leisten. "
+   ]
+  }, 
+  {
+   "begin": "55.600", 
+   "children": [], 
+   "end": "57.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Die Natur ist nah. "
+   ]
+  }, 
+  {
+   "begin": "57.240", 
+   "children": [], 
+   "end": "62.120", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Nirgendwo gibt es mehr Ehrenamt als auf dem Land."
+   ]
+  }, 
+  {
+   "begin": "62.120", 
+   "children": [], 
+   "end": "65.000", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Aber es fehlen auch Hebammen, "
+   ]
+  }, 
+  {
+   "begin": "65.000", 
+   "children": [], 
+   "end": "65.560", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "L\u00e4den, "
+   ]
+  }, 
+  {
+   "begin": "65.560", 
+   "children": [], 
+   "end": "66.920", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Busverbindungen, "
+   ]
+  }, 
+  {
+   "begin": "66.920", 
+   "children": [], 
+   "end": "68.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Handyempfang. "
+   ]
+  }, 
+  {
+   "begin": "68.040", 
+   "children": [], 
+   "end": "69.360", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "H\u00e4user stehen leer, "
+   ]
+  }, 
+  {
+   "begin": "69.360", 
+   "children": [], 
+   "end": "70.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Grundschulen schlie\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "70.640", 
+   "children": [], 
+   "end": "73.280", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Vereine l\u00f6sen sich auf. "
+   ]
+  }, 
+  {
+   "begin": "73.280", 
+   "children": [], 
+   "end": "75.240", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Diese Erkenntnisse sind nicht neu, "
+   ]
+  }, 
+  {
+   "begin": "75.240", 
+   "children": [], 
+   "end": "80.440", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "aber die Aufmerksamkeit der Politik lag bisher mehsr auf den Ballungszentren. "
+   ]
+  }, 
+  {
+   "begin": "80.440", 
+   "children": [], 
+   "end": "84.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die l\u00e4ndlichen Regionen interessierten sich nur wenige Fraktionen, "
+   ]
+  }, 
+  {
+   "begin": "84.960", 
+   "children": [], 
+   "end": "86.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "so wie wir, "
+   ]
+  }, 
+  {
+   "begin": "86.040", 
+   "children": [], 
+   "end": "88.360", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "die CDU/CSU-Bundestagsfraktion."
+   ]
+  }, 
+  {
+   "begin": "88.360", 
+   "children": [], 
+   "end": "92.080", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben uns immer f\u00fcr die Menschen auf dem Land starkgemacht, "
+   ]
+  }, 
+  {
+   "begin": "92.080", 
+   "children": [], 
+   "end": "93.360", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "auch heute."
+   ]
+  }, 
+  {
+   "begin": "93.360", 
+   "children": [], 
+   "end": "95.040", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen: "
+   ]
+  }, 
+  {
+   "begin": "95.040", 
+   "children": [], 
+   "end": "102.040", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Investitionen in die l\u00e4ndlichen R\u00e4ume sind Investitionen in die Zukunft von ganz Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "102.040", 
+   "children": [], 
+   "end": "105.080", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Nur wenn l\u00e4ndliche Regionen attraktiv bleiben, "
+   ]
+  }, 
+  {
+   "begin": "105.080", 
+   "children": [], 
+   "end": "110.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "wird Landflucht gestoppt und damit \u00fcbrigens auch der Zuzug in Gro\u00dfst\u00e4dte. "
+   ]
+  }, 
+  {
+   "begin": "110.920", 
+   "children": [], 
+   "end": "113.720", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Und genau hier setzt dieser Haushalt an. "
+   ]
+  }, 
+  {
+   "begin": "113.720", 
+   "children": [], 
+   "end": "117.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Im Mittelpunkt stehen die Menschen auf dem Land."
+   ]
+  }, 
+  {
+   "begin": "117.200", 
+   "children": [], 
+   "end": "122.040", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr danke ich Frau Ministerin Julia Kl\u00f6ckner, "
+   ]
+  }, 
+  {
+   "begin": "122.040", 
+   "children": [], 
+   "end": "124.880", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "die heute nicht bei uns sein kann."
+   ]
+  }, 
+  {
+   "begin": "124.880", 
+   "children": [], 
+   "end": "129.200", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Mit 6\u00a0Milliarden Euro ist der Etat des Ministeriums so hoch wie noch nie. "
+   ]
+  }, 
+  {
+   "begin": "129.200", 
+   "children": [], 
+   "end": "130.320", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr sagen wir: "
+   ]
+  }, 
+  {
+   "begin": "130.320", 
+   "children": [], 
+   "end": "131.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Respekt!"
+   ]
+  }, 
+  {
+   "begin": "131.920", 
+   "children": [], 
+   "end": "135.200", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber die Gemeinschaftsaufgabe \u201eVerbesserung der Agrarstruktur und des K\u00fcstenschutzes\u201c, "
+   ]
+  }, 
+  {
+   "begin": "135.200", 
+   "children": [], 
+   "end": "144.280", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "das Bundesprogramm \u201eL\u00e4ndliche Entwicklung\u201c und den Sonderrahmenplan k\u00f6nnen wir mit 820\u00a0Millionen Euro Initiativen in den l\u00e4ndlichen Regionen f\u00f6rdern, "
+   ]
+  }, 
+  {
+   "begin": "144.280", 
+   "children": [], 
+   "end": "146.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "und zwar gezielt. "
+   ]
+  }, 
+  {
+   "begin": "146.360", 
+   "children": [], 
+   "end": "147.240", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Das ist wichtig. "
+   ]
+  }, 
+  {
+   "begin": "147.240", 
+   "children": [], 
+   "end": "149.480", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen ma\u00dfgeschneiderte L\u00f6sungen. "
+   ]
+  }, 
+  {
+   "begin": "149.480", 
+   "children": [], 
+   "end": "152.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "L\u00e4ndliche R\u00e4ume sind nicht per se hilfsbed\u00fcrftig, "
+   ]
+  }, 
+  {
+   "begin": "152.640", 
+   "children": [], 
+   "end": "154.880", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "sie sind auch nicht per se stark. "
+   ]
+  }, 
+  {
+   "begin": "154.880", 
+   "children": [], 
+   "end": "157.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "In Franken werden Fachkr\u00e4fte gesucht, "
+   ]
+  }, 
+  {
+   "begin": "157.000", 
+   "children": [], 
+   "end": "159.680", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "aus der Westpfalz wandern diese ab. "
+   ]
+  }, 
+  {
+   "begin": "159.680", 
+   "children": [], 
+   "end": "161.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Bei den einen boomt es, "
+   ]
+  }, 
+  {
+   "begin": "161.680", 
+   "children": [], 
+   "end": "163.440", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "und die anderen f\u00fchlen sich abgeh\u00e4ngt. "
+   ]
+  }, 
+  {
+   "begin": "163.440", 
+   "children": [], 
+   "end": "170.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb fordert \u00fcbrigens auch der Sachverst\u00e4ndigenrat L\u00e4ndliche Entwicklung den Mut zu regionalen L\u00f6sungen. "
+   ]
+  }, 
+  {
+   "begin": "170.840", 
+   "children": [], 
+   "end": "174.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr brauchen wir Experimentierklauseln und Geld."
+   ]
+  }, 
+  {
+   "begin": "174.520", 
+   "children": [], 
+   "end": "182.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "In dieser Wahlperiode soll es 1,5\u00a0Milliarden Euro zus\u00e4tzlich f\u00fcr Landwirtschaft und l\u00e4ndliche R\u00e4ume geben. "
+   ]
+  }, 
+  {
+   "begin": "182.720", 
+   "children": [], 
+   "end": "184.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Wir sagen an dieser Stelle: "
+   ]
+  }, 
+  {
+   "begin": "184.120", 
+   "children": [], 
+   "end": "193.040", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Geld muss sp\u00e4testens ab 2019 zu 100\u00a0Prozent unserem Lebensministerium zur Verf\u00fcgung stehen:"
+   ]
+  }, 
+  {
+   "begin": "193.040", 
+   "children": [], 
+   "end": "201.200", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr den fl\u00e4chendeckenden Ausbau des Glasfasernetzes und die fl\u00e4chendeckende Versorgung mit 5G-Mobilfunktechnik, "
+   ]
+  }, 
+  {
+   "begin": "201.200", 
+   "children": [], 
+   "end": "203.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "die F\u00f6rderung von Existenzgr\u00fcndern, "
+   ]
+  }, 
+  {
+   "begin": "203.160", 
+   "children": [], 
+   "end": "205.160", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "gute Betreuungsangebote, "
+   ]
+  }, 
+  {
+   "begin": "205.160", 
+   "children": [], 
+   "end": "206.680", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "die Sicherung von Fachkr\u00e4ften, "
+   ]
+  }, 
+  {
+   "begin": "206.680", 
+   "children": [], 
+   "end": "207.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Diskobusse, "
+   ]
+  }, 
+  {
+   "begin": "207.480", 
+   "children": [], 
+   "end": "208.920", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Gesundheitszentren, "
+   ]
+  }, 
+  {
+   "begin": "208.920", 
+   "children": [], 
+   "end": "213.120", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Dorfl\u00e4den und f\u00fcr unsere Vereine, "
+   ]
+  }, 
+  {
+   "begin": "213.120", 
+   "children": [], 
+   "end": "216.440", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "600\u00a0000 an der Zahl."
+   ]
+  }, 
+  {
+   "begin": "216.440", 
+   "children": [], 
+   "end": "220.400", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "23\u00a0Millionen Ehrenamtliche packen in Deutschland mit an. "
+   ]
+  }, 
+  {
+   "begin": "220.400", 
+   "children": [], 
+   "end": "222.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr uns sind sie Helden."
+   ]
+  }, 
+  {
+   "begin": "222.400", 
+   "children": [], 
+   "end": "228.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Auf dem Land ist ohne das Ehrenamt kein Staat zu machen. "
+   ]
+  }, 
+  {
+   "begin": "228.440", 
+   "children": [], 
+   "end": "233.280", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Die Engagierten sichern die Daseinsvorsorge und damit das \u00dcberleben so mancher Ortschaft: "
+   ]
+  }, 
+  {
+   "begin": "233.280", 
+   "children": [], 
+   "end": "234.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "in der Feuerwehr, "
+   ]
+  }, 
+  {
+   "begin": "234.440", 
+   "children": [], 
+   "end": "236.320", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "im Sozialverband, "
+   ]
+  }, 
+  {
+   "begin": "236.320", 
+   "children": [], 
+   "end": "238.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "in Ch\u00f6ren oder Sportvereinen. "
+   ]
+  }, 
+  {
+   "begin": "238.640", 
+   "children": [], 
+   "end": "239.960", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Sie erwarten keinen Lohn, "
+   ]
+  }, 
+  {
+   "begin": "239.960", 
+   "children": [], 
+   "end": "243.200", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "aber sie haben Anspruch auf Unterst\u00fctzung."
+   ]
+  }, 
+  {
+   "begin": "243.200", 
+   "children": [], 
+   "end": "248.720", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Mit den BULE-Mitteln k\u00f6nnen Programme f\u00fcr dieses Netzwerk des Guten finanziert werden, "
+   ]
+  }, 
+  {
+   "begin": "248.720", 
+   "children": [], 
+   "end": "251.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "wie zum Beispiel Land.Digital und LandKULTUR. "
+   ]
+  }, 
+  {
+   "begin": "251.440", 
+   "children": [], 
+   "end": "256.680", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Au\u00dferdem brauchen wir ein Programm \u201eHauptamt hilft Ehrenamt\u201c."
+   ]
+  }, 
+  {
+   "begin": "256.680", 
+   "children": [], 
+   "end": "259.480", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "\u201eUns schickt der Himmel\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "259.480", 
+   "children": [], 
+   "end": "264.560", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "was w\u00e4re die Landjugend ohne die Kinder von den H\u00f6fen? "
+   ]
+  }, 
+  {
+   "begin": "264.560", 
+   "children": [], 
+   "end": "265.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Ohne sie l\u00e4uft nichts, "
+   ]
+  }, 
+  {
+   "begin": "265.600", 
+   "children": [], 
+   "end": "271.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "und dennoch f\u00fchlen sie sich ausgegrenzt und sind es manchmal auch. "
+   ]
+  }, 
+  {
+   "begin": "271.360", 
+   "children": [], 
+   "end": "276.720", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Mobbing von Bauernkindern ist heute leider bittere Realit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "276.720", 
+   "children": [], 
+   "end": "281.000", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Ein Grund daf\u00fcr ist die Entfremdung zwischen Verbrauchern und Landwirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "281.000", 
+   "children": [], 
+   "end": "282.000", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Heute wissen viele nicht mehr, "
+   ]
+  }, 
+  {
+   "begin": "282.000", 
+   "children": [], 
+   "end": "284.120", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "wie ein Stall von innen aussieht. "
+   ]
+  }, 
+  {
+   "begin": "284.120", 
+   "children": [], 
+   "end": "287.480", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen f\u00f6rdert das BMEL Hofbesuche, "
+   ]
+  }, 
+  {
+   "begin": "287.480", 
+   "children": [], 
+   "end": "290.080", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "aber auch Organisationen wie die Landfrauen. "
+   ]
+  }, 
+  {
+   "begin": "290.080", 
+   "children": [], 
+   "end": "295.520", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem aid-Ern\u00e4hrungsf\u00fchrerschein bringen sie die Ern\u00e4hrungskompetenz in die Schulen, "
+   ]
+  }, 
+  {
+   "begin": "295.520", 
+   "children": [], 
+   "end": "296.640", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "und das ist gut so, "
+   ]
+  }, 
+  {
+   "begin": "296.640", 
+   "children": [], 
+   "end": "299.280", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin Schulte."
+   ]
+  }, 
+  {
+   "begin": "299.280", 
+   "children": [], 
+   "end": "300.520", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Wir wissen, "
+   ]
+  }, 
+  {
+   "begin": "300.520", 
+   "children": [], 
+   "end": "303.120", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "dass Information bitter nottut, "
+   ]
+  }, 
+  {
+   "begin": "303.120", 
+   "children": [], 
+   "end": "307.200", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcbrigens auch Information durch Bundesbeh\u00f6rden. "
+   ]
+  }, 
+  {
+   "begin": "307.200", 
+   "children": [], 
+   "end": "310.600", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Wir setzen auf Information statt auf Reglementierung. "
+   ]
+  }, 
+  {
+   "begin": "310.600", 
+   "children": [], 
+   "end": "313.120", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Die Alternative w\u00e4re n\u00e4mlich Reglementierung. "
+   ]
+  }, 
+  {
+   "begin": "313.120", 
+   "children": [], 
+   "end": "314.480", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "Das w\u00e4re der AfD, "
+   ]
+  }, 
+  {
+   "begin": "314.480", 
+   "children": [], 
+   "end": "316.720", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "die diese Arbeit kritisiert hat, "
+   ]
+  }, 
+  {
+   "begin": "316.720", 
+   "children": [], 
+   "end": "318.040", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "offenkundig lieber. "
+   ]
+  }, 
+  {
+   "begin": "318.040", 
+   "children": [], 
+   "end": "318.960", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Dazu kann ich nur sagen: "
+   ]
+  }, 
+  {
+   "begin": "318.960", 
+   "children": [], 
+   "end": "320.640", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Armes Deutschland.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "320.640", 
+   "children": [], 
+   "end": "322.960", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Information tut nun einmal not, "
+   ]
+  }, 
+  {
+   "begin": "322.960", 
+   "children": [], 
+   "end": "326.880", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere angesichts verzerrter Bilder in der \u00d6ffentlichkeit. "
+   ]
+  }, 
+  {
+   "begin": "326.880", 
+   "children": [], 
+   "end": "332.440", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "So mancher macht aus der Skandalisierung ein Gesch\u00e4ftsmodell. "
+   ]
+  }, 
+  {
+   "begin": "332.440", 
+   "children": [], 
+   "end": "334.920", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Und dann gibt es noch die Aktivisten. "
+   ]
+  }, 
+  {
+   "begin": "334.920", 
+   "children": [], 
+   "end": "336.920", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Sie dringen in St\u00e4lle ein, "
+   ]
+  }, 
+  {
+   "begin": "336.920", 
+   "children": [], 
+   "end": "338.320", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "versetzen Tiere in Panik, "
+   ]
+  }, 
+  {
+   "begin": "338.320", 
+   "children": [], 
+   "end": "341.360", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "filmen dort heimlich und verbreiten dann Aufnahmen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "341.360", 
+   "children": [], 
+   "end": "343.960", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "oft erst Monate sp\u00e4ter. "
+   ]
+  }, 
+  {
+   "begin": "343.960", 
+   "children": [], 
+   "end": "348.360", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Familien werden an den Pranger gestellt und haben kaum eine Chance, "
+   ]
+  }, 
+  {
+   "begin": "348.360", 
+   "children": [], 
+   "end": "349.040", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "sich zu wehren. "
+   ]
+  }, 
+  {
+   "begin": "349.040", 
+   "children": [], 
+   "end": "350.920", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Das sind klare Straftaten, "
+   ]
+  }, 
+  {
+   "begin": "350.920", 
+   "children": [], 
+   "end": "353.640", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "aber dennoch bleiben die T\u00e4ter straffrei. "
+   ]
+  }, 
+  {
+   "begin": "353.640", 
+   "children": [], 
+   "end": "357.280", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Die Entscheidungen deutscher Gerichte kommentiere ich nicht, "
+   ]
+  }, 
+  {
+   "begin": "357.280", 
+   "children": [], 
+   "end": "358.360", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "sage aber: "
+   ]
+  }, 
+  {
+   "begin": "358.360", 
+   "children": [], 
+   "end": "361.840", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Wer \u00fcber Wochen Filmmaterial sammelt, "
+   ]
+  }, 
+  {
+   "begin": "361.840", 
+   "children": [], 
+   "end": "364.680", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "die zust\u00e4ndigen Beh\u00f6rden nicht umgehend informiert, "
+   ]
+  }, 
+  {
+   "begin": "364.680", 
+   "children": [], 
+   "end": "367.640", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "sondern vorrangig die Medien bedient, "
+   ]
+  }, 
+  {
+   "begin": "367.640", 
+   "children": [], 
+   "end": "371.160", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "dem geht es nicht um das Wohl der Tiere."
+   ]
+  }, 
+  {
+   "begin": "371.160", 
+   "children": [], 
+   "end": "377.440", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "H\u00e4ufig geht es nur um die eigene Spendenkasse. "
+   ]
+  }, 
+  {
+   "begin": "377.440", 
+   "children": [], 
+   "end": "378.720", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage sehr deutlich: "
+   ]
+  }, 
+  {
+   "begin": "378.720", 
+   "children": [], 
+   "end": "382.280", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Hier m\u00fcssen wir die Frage nach der Gemeinn\u00fctzigkeit stellen, "
+   ]
+  }, 
+  {
+   "begin": "382.280", 
+   "children": [], 
+   "end": "384.640", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "auch bei der Deutschen Umwelthilfe."
+   ]
+  }, 
+  {
+   "begin": "384.640", 
+   "children": [], 
+   "end": "390.160", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Abmahnverein hat jetzt Kinder von T\u00fcr zu T\u00fcr geschickt, "
+   ]
+  }, 
+  {
+   "begin": "390.160", 
+   "children": [], 
+   "end": "391.800", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "um Spenden zu sammeln. "
+   ]
+  }, 
+  {
+   "begin": "391.800", 
+   "children": [], 
+   "end": "392.680", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Es ist gut, "
+   ]
+  }, 
+  {
+   "begin": "392.680", 
+   "children": [], 
+   "end": "396.320", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "dass Baden-W\u00fcrttemberg diesem Spuk schnell ein Ende gemacht hat."
+   ]
+  }, 
+  {
+   "begin": "396.320", 
+   "children": [], 
+   "end": "398.800", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Es zeigt sich aber ein grunds\u00e4tzliches Problem. "
+   ]
+  }, 
+  {
+   "begin": "398.800", 
+   "children": [], 
+   "end": "401.040", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Dieses m\u00fcssen wir angehen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "401.040", 
+   "children": [], 
+   "end": "403.000", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr unsere Vereine, "
+   ]
+  }, 
+  {
+   "begin": "403.000", 
+   "children": [], 
+   "end": "404.480", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "die sich an die Regeln halten, "
+   ]
+  }, 
+  {
+   "begin": "404.480", 
+   "children": [], 
+   "end": "407.400", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "und nicht zuletzt f\u00fcr unsere Bauernfamilien. "
+   ]
+  }, 
+  {
+   "begin": "407.400", 
+   "children": [], 
+   "end": "411.480", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind das Herzst\u00fcck und das Gesicht des l\u00e4ndlichen Raums. "
+   ]
+  }, 
+  {
+   "begin": "411.480", 
+   "children": [], 
+   "end": "414.120", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Sie stehen f\u00fcr den wirtschaftlichen Motor, "
+   ]
+  }, 
+  {
+   "begin": "414.120", 
+   "children": [], 
+   "end": "415.800", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "die Land- "
+   ]
+  }, 
+  {
+   "begin": "415.800", 
+   "children": [], 
+   "end": "418.960", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "und Ern\u00e4hrungswirtschaft auf dem Land. "
+   ]
+  }, 
+  {
+   "begin": "418.960", 
+   "children": [], 
+   "end": "421.520", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb st\u00e4rken wir diese Betriebe, "
+   ]
+  }, 
+  {
+   "begin": "421.520", 
+   "children": [], 
+   "end": "427.320", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "zum Beispiel durch eine weitere Beitragsentlastung bei der landwirtschaftlichen Unfallversicherung, "
+   ]
+  }, 
+  {
+   "begin": "427.320", 
+   "children": [], 
+   "end": "431.480", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "immerhin in H\u00f6he von 178\u00a0Millionen Euro. "
+   ]
+  }, 
+  {
+   "begin": "431.480", 
+   "children": [], 
+   "end": "435.040", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Das ist tats\u00e4chlich einen Applaus wert. "
+   ]
+  }, 
+  {
+   "begin": "435.040", 
+   "children": [], 
+   "end": "437.720", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "Denn am Ende sorgt es f\u00fcr die soziale Sicherung, "
+   ]
+  }, 
+  {
+   "begin": "437.720", 
+   "children": [], 
+   "end": "439.920", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "und welchen Gesamtumfang diese einnimmt, "
+   ]
+  }, 
+  {
+   "begin": "439.920", 
+   "children": [], 
+   "end": "445.440", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "hat auch Herr Parlamentarischer Staatssekret\u00e4r Fuchtel eindrucksvoll dargestellt."
+   ]
+  }, 
+  {
+   "begin": "445.440", 
+   "children": [], 
+   "end": "446.240", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "Weil wir wissen, "
+   ]
+  }, 
+  {
+   "begin": "446.240", 
+   "children": [], 
+   "end": "448.720", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "wie wichtig diese H\u00f6fe mit vor- "
+   ]
+  }, 
+  {
+   "begin": "448.720", 
+   "children": [], 
+   "end": "453.240", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "und nachgelagerten Bereichen f\u00fcr unsere l\u00e4ndlichen Regionen sind, "
+   ]
+  }, 
+  {
+   "begin": "453.240", 
+   "children": [], 
+   "end": "459.160", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "halten wir als Union \u00fcbrigens auch an den Direktzahlungen im Rahmen der GAP fest. "
+   ]
+  }, 
+  {
+   "begin": "459.160", 
+   "children": [], 
+   "end": "463.560", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "Sie sind als Basisabsicherung unverzichtbar. "
+   ]
+  }, 
+  {
+   "begin": "463.560", 
+   "children": [], 
+   "end": "471.800", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "Damit sorgen wir gerade in wirtschaftlich schwierigen Zeiten f\u00fcr Verl\u00e4sslichkeit,"
+   ]
+  }, 
+  {
+   "begin": "471.800", 
+   "children": [], 
+   "end": "477.880", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "die \u00fcbrigens die Menschen auf dem Land jeden Tag leben: "
+   ]
+  }, 
+  {
+   "begin": "477.880", 
+   "children": [], 
+   "end": "479.240", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "auf dem Feld, "
+   ]
+  }, 
+  {
+   "begin": "479.240", 
+   "children": [], 
+   "end": "483.680", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "in der Gemeinde oder aber im Ehrenamt. "
+   ]
+  }, 
+  {
+   "begin": "483.680", 
+   "children": [], 
+   "end": "486.440", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "Sie schickt uns der Himmel."
+   ]
+  }, 
+  {
+   "begin": "486.440", 
+   "children": [], 
+   "end": "487.440", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "487.440", 
+   "children": [], 
+   "end": "496.960", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chsten Redner rufe ich Johannes Huber f\u00fcr die AfD auf."
+   ]
+  }
+ ]
+}

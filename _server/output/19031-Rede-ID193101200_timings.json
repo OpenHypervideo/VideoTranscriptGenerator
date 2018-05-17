@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "9.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "9.760", 
+   "children": [], 
+   "end": "11.480", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "11.480", 
+   "children": [], 
+   "end": "12.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Herr Finanzminister, "
+   ]
+  }, 
+  {
+   "begin": "12.960", 
+   "children": [], 
+   "end": "14.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "der Investitionsstau in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "14.680", 
+   "children": [], 
+   "end": "16.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere bei den Kommunen, "
+   ]
+  }, 
+  {
+   "begin": "16.400", 
+   "children": [], 
+   "end": "17.120", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "ist gewaltig. "
+   ]
+  }, 
+  {
+   "begin": "17.120", 
+   "children": [], 
+   "end": "18.520", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland ist bei Schulen, "
+   ]
+  }, 
+  {
+   "begin": "18.520", 
+   "children": [], 
+   "end": "23.760", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Krankenh\u00e4usern oder digitaler Infrastruktur nur 2.\u00a0Liga\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "23.760", 
+   "children": [], 
+   "end": "25.160", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "so wie nun der HSV, "
+   ]
+  }, 
+  {
+   "begin": "25.160", 
+   "children": [], 
+   "end": "29.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "was ich als Hamburger \u00fcbrigens au\u00dferordentlich bedauere."
+   ]
+  }, 
+  {
+   "begin": "29.480", 
+   "children": [], 
+   "end": "31.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Apropos Digitalisierung. "
+   ]
+  }, 
+  {
+   "begin": "31.000", 
+   "children": [], 
+   "end": "37.160", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Am sch\u00f6nsten fand ich ja den Vorschlag von Verkehrsminister Scheuer zur Einf\u00fchrung einer App zur Meldung von Funkl\u00f6chern. "
+   ]
+  }, 
+  {
+   "begin": "37.160", 
+   "children": [], 
+   "end": "37.920", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das Bl\u00f6de ist: "
+   ]
+  }, 
+  {
+   "begin": "37.920", 
+   "children": [], 
+   "end": "39.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Diese Apps funktionieren nie, "
+   ]
+  }, 
+  {
+   "begin": "39.200", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "wenn man in so einem verdammten Funkloch steckt."
+   ]
+  }, 
+  {
+   "begin": "42.760", 
+   "children": [], 
+   "end": "50.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Investitionsl\u00fccke betr\u00e4gt laut Statistischem Bundesamt seit 2003 etwa 83\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "50.240", 
+   "children": [], 
+   "end": "52.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Betrag w\u00e4re erforderlich, "
+   ]
+  }, 
+  {
+   "begin": "52.760", 
+   "children": [], 
+   "end": "56.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "um nur den Verschlei\u00df des \u00f6ffentlichen Verm\u00f6gens zu stoppen. "
+   ]
+  }, 
+  {
+   "begin": "56.000", 
+   "children": [], 
+   "end": "63.240", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Seit der deutschen Einheit ist das Nettoanlageverm\u00f6gen um 30\u00a0Milliarden Euro geschrumpft."
+   ]
+  }, 
+  {
+   "begin": "63.240", 
+   "children": [], 
+   "end": "72.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Laut dem Deutschen Institut f\u00fcr Wirtschaftsforschung verf\u00fcgt das reichste 1\u00a0Prozent der Bev\u00f6lkerung \u00fcber 20\u00a0Prozent des Nettoverm\u00f6gens in H\u00f6he von \u00fcber 9\u00a0Billionen Euro. "
+   ]
+  }, 
+  {
+   "begin": "72.480", 
+   "children": [], 
+   "end": "74.720", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Wer daher keine Verm\u00f6gensteuer will, "
+   ]
+  }, 
+  {
+   "begin": "74.720", 
+   "children": [], 
+   "end": "79.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "vergeht sich an unserer Infrastruktur und der Lebensleistung von Generationen."
+   ]
+  }, 
+  {
+   "begin": "79.760", 
+   "children": [], 
+   "end": "85.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Dann wird \u00fcber \u00f6ffentlich-private Partnerschaften privatisiert, "
+   ]
+  }, 
+  {
+   "begin": "85.400", 
+   "children": [], 
+   "end": "87.200", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "was nicht bei drei auf dem Baum ist, "
+   ]
+  }, 
+  {
+   "begin": "87.200", 
+   "children": [], 
+   "end": "88.520", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "wie bei den Autobahnen. "
+   ]
+  }, 
+  {
+   "begin": "88.520", 
+   "children": [], 
+   "end": "90.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Das ist \u00fcbrigens teurer als \u00f6ffentliche Kredite; "
+   ]
+  }, 
+  {
+   "begin": "90.840", 
+   "children": [], 
+   "end": "96.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "denn diese sind wegen der niedrigen Zinsen aktuell fast umsonst. "
+   ]
+  }, 
+  {
+   "begin": "96.160", 
+   "children": [], 
+   "end": "102.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die Steuerzahler m\u00fcssen bei \u00d6PP eben auch die Renditen von Deutscher Bank und Allianz bezahlen. "
+   ]
+  }, 
+  {
+   "begin": "102.320", 
+   "children": [], 
+   "end": "104.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "So etwas nennt man nicht \u201eschwarze Null\u201c, "
+   ]
+  }, 
+  {
+   "begin": "104.760", 
+   "children": [], 
+   "end": "106.440", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "sondern \u201eschwarzes Loch\u201c. "
+   ]
+  }, 
+  {
+   "begin": "106.440", 
+   "children": [], 
+   "end": "110.400", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Sie verstecken Schulden und verschieben sie in die Zukunft."
+   ]
+  }, 
+  {
+   "begin": "110.400", 
+   "children": [], 
+   "end": "111.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Herr Scholz, "
+   ]
+  }, 
+  {
+   "begin": "111.600", 
+   "children": [], 
+   "end": "112.520", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Sie betonen, "
+   ]
+  }, 
+  {
+   "begin": "112.520", 
+   "children": [], 
+   "end": "114.840", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass die Investitionen nicht sinken. "
+   ]
+  }, 
+  {
+   "begin": "114.840", 
+   "children": [], 
+   "end": "119.160", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Im Haushaltsentwurf seien die Verkehrsinvestitionen nicht eingepreist. "
+   ]
+  }, 
+  {
+   "begin": "119.160", 
+   "children": [], 
+   "end": "122.400", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Diese werden nun \u00fcber Transfers an die L\u00e4nder abgewickelt. "
+   ]
+  }, 
+  {
+   "begin": "122.400", 
+   "children": [], 
+   "end": "125.080", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Nicht eingepreist sei auch die Sanierung von Schulen. "
+   ]
+  }, 
+  {
+   "begin": "125.080", 
+   "children": [], 
+   "end": "125.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das ist wahr, "
+   ]
+  }, 
+  {
+   "begin": "125.760", 
+   "children": [], 
+   "end": "127.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "geht aber am Problem vorbei."
+   ]
+  }, 
+  {
+   "begin": "127.560", 
+   "children": [], 
+   "end": "128.480", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "128.480", 
+   "children": [], 
+   "end": "132.480", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wir schleppen einen riesigen Investitionsstau aus der Vergangenheit mit. "
+   ]
+  }, 
+  {
+   "begin": "132.480", 
+   "children": [], 
+   "end": "133.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Er wird nicht abgebaut."
+   ]
+  }, 
+  {
+   "begin": "133.840", 
+   "children": [], 
+   "end": "134.560", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "134.560", 
+   "children": [], 
+   "end": "136.360", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Wirtschaft bzw. "
+   ]
+  }, 
+  {
+   "begin": "136.360", 
+   "children": [], 
+   "end": "138.080", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "der Kapitalstock w\u00e4chst, "
+   ]
+  }, 
+  {
+   "begin": "138.080", 
+   "children": [], 
+   "end": "140.320", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen auch die Investitionen wachsen, "
+   ]
+  }, 
+  {
+   "begin": "140.320", 
+   "children": [], 
+   "end": "143.040", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "um den Verschlei\u00df auszugleichen."
+   ]
+  }, 
+  {
+   "begin": "143.040", 
+   "children": [], 
+   "end": "149.040", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Stabile Bruttoinvestitionen bedeuten daher sinkende Nettoinvestitionen."
+   ]
+  }, 
+  {
+   "begin": "149.040", 
+   "children": [], 
+   "end": "149.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "149.800", 
+   "children": [], 
+   "end": "153.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Die \u00f6ffentliche Investitionsquote Deutschlands\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "153.200", 
+   "children": [], 
+   "end": "155.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "das haben verschiedene Kolleginnen und Kollegen bereits angesprochen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "155.240", 
+   "children": [], 
+   "end": "158.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "ist im internationalen Vergleich viel zu gering. "
+   ]
+  }, 
+  {
+   "begin": "158.720", 
+   "children": [], 
+   "end": "161.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Die viertgr\u00f6\u00dfte Volkswirtschaft der Erde m\u00fcsste doch den Anspruch haben, "
+   ]
+  }, 
+  {
+   "begin": "161.920", 
+   "children": [], 
+   "end": "167.920", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "bei den Investitionen spitze zu sein und nicht schlechter als der Durchschnitt Europas."
+   ]
+  }, 
+  {
+   "begin": "167.920", 
+   "children": [], 
+   "end": "172.880", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Diese Politik ist ein Sicherheitsrisiko f\u00fcr die Euro-Zone und die Weltwirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "172.880", 
+   "children": [], 
+   "end": "176.000", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wir investieren zu wenig und verkaufen immer mehr ins Ausland, "
+   ]
+  }, 
+  {
+   "begin": "176.000", 
+   "children": [], 
+   "end": "177.720", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "als wir von dort einkaufen. "
+   ]
+  }, 
+  {
+   "begin": "177.720", 
+   "children": [], 
+   "end": "183.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Dies hat \u00fcbrigens auch mit dem mangelnden Respekt der Bundesregierung vor den Besch\u00e4ftigten, "
+   ]
+  }, 
+  {
+   "begin": "183.400", 
+   "children": [], 
+   "end": "184.680", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "vor der Arbeit zu tun; "
+   ]
+  }, 
+  {
+   "begin": "184.680", 
+   "children": [], 
+   "end": "185.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Stichwort: "
+   ]
+  }, 
+  {
+   "begin": "185.360", 
+   "children": [], 
+   "end": "186.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Leiharbeit, "
+   ]
+  }, 
+  {
+   "begin": "186.120", 
+   "children": [], 
+   "end": "186.880", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Befristung, "
+   ]
+  }, 
+  {
+   "begin": "186.880", 
+   "children": [], 
+   "end": "188.800", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Agenda\u00a02010."
+   ]
+  }, 
+  {
+   "begin": "188.800", 
+   "children": [], 
+   "end": "194.240", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wegen unserer chronischen Export\u00fcbersch\u00fcsse drohen uns nun Strafz\u00f6lle und ein Steuerkrieg mit Donald Trump. "
+   ]
+  }, 
+  {
+   "begin": "194.240", 
+   "children": [], 
+   "end": "196.840", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Der US-Botschafter in Deutschland, "
+   ]
+  }, 
+  {
+   "begin": "196.840", 
+   "children": [], 
+   "end": "197.760", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Richard Grenell, "
+   ]
+  }, 
+  {
+   "begin": "197.760", 
+   "children": [], 
+   "end": "199.600", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "droht deutschen Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "199.600", 
+   "children": [], 
+   "end": "202.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die im Iran wirtschaftlich aktiv sind. "
+   ]
+  }, 
+  {
+   "begin": "202.320", 
+   "children": [], 
+   "end": "203.680", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Eine Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "203.680", 
+   "children": [], 
+   "end": "206.640", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "die den Respekt vor dem internationalen Recht verteidigt, "
+   ]
+  }, 
+  {
+   "begin": "206.640", 
+   "children": [], 
+   "end": "209.720", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4tte den Botschafter doch wenigstens einbestellen m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "209.720", 
+   "children": [], 
+   "end": "212.360", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "verehrte Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "212.360", 
+   "children": [], 
+   "end": "214.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Uns droht zudem ein Abschwung. "
+   ]
+  }, 
+  {
+   "begin": "214.400", 
+   "children": [], 
+   "end": "218.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Die Industriebestellungen in Deutschland sinken seit drei Monaten. "
+   ]
+  }, 
+  {
+   "begin": "218.680", 
+   "children": [], 
+   "end": "221.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Der IWF warnt vor einer neuen Finanzkrise. "
+   ]
+  }, 
+  {
+   "begin": "221.360", 
+   "children": [], 
+   "end": "223.600", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Investitionen aber brauchen, "
+   ]
+  }, 
+  {
+   "begin": "223.600", 
+   "children": [], 
+   "end": "224.720", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "um die Wirtschaft zu st\u00fctzen, "
+   ]
+  }, 
+  {
+   "begin": "224.720", 
+   "children": [], 
+   "end": "225.520", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Zeit, "
+   ]
+  }, 
+  {
+   "begin": "225.520", 
+   "children": [], 
+   "end": "226.320", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "bis sie wirken. "
+   ]
+  }, 
+  {
+   "begin": "226.320", 
+   "children": [], 
+   "end": "228.560", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen muss man jetzt damit anfangen, "
+   ]
+  }, 
+  {
+   "begin": "228.560", 
+   "children": [], 
+   "end": "229.360", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "lieber Lothar, "
+   ]
+  }, 
+  {
+   "begin": "229.360", 
+   "children": [], 
+   "end": "230.040", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "nicht erst, "
+   ]
+  }, 
+  {
+   "begin": "230.040", 
+   "children": [], 
+   "end": "232.480", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "wenn man in der Rezession steckt."
+   ]
+  }, 
+  {
+   "begin": "232.480", 
+   "children": [], 
+   "end": "233.560", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Herr Scholz, "
+   ]
+  }, 
+  {
+   "begin": "233.560", 
+   "children": [], 
+   "end": "234.240", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "ein Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "234.240", 
+   "children": [], 
+   "end": "235.520", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "das nicht investiert, "
+   ]
+  }, 
+  {
+   "begin": "235.520", 
+   "children": [], 
+   "end": "236.560", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "verliert. "
+   ]
+  }, 
+  {
+   "begin": "236.560", 
+   "children": [], 
+   "end": "240.360", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Diese Scholzonomics w\u00fcrde f\u00fcr eine Currywurstbude bedeuten, "
+   ]
+  }, 
+  {
+   "begin": "240.360", 
+   "children": [], 
+   "end": "241.920", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "dass man die Stehtische verkauft, "
+   ]
+  }, 
+  {
+   "begin": "241.920", 
+   "children": [], 
+   "end": "244.920", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "an der So\u00dfe spart und sich dann wundert, "
+   ]
+  }, 
+  {
+   "begin": "244.920", 
+   "children": [], 
+   "end": "246.560", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Kunden wegbleiben. "
+   ]
+  }, 
+  {
+   "begin": "246.560", 
+   "children": [], 
+   "end": "247.440", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "247.440", 
+   "children": [], 
+   "end": "252.640", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "dieses Land muss besser und darf nicht schlechter regiert werden als eine Currywurstbude auf der Reeperbahn."
+   ]
+  }, 
+  {
+   "begin": "252.640", 
+   "children": [], 
+   "end": "253.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "253.000", 
+   "children": [], 
+   "end": "260.400", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt erteile ich das Wort der Kollegin Antje Tillmann, "
+   ]
+  }, 
+  {
+   "begin": "260.400", 
+   "children": [], 
+   "end": "262.000", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU."
+   ]
+  }
+ ]
+}

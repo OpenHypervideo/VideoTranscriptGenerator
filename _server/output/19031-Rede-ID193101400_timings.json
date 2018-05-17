@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "3.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "3.000", 
+   "children": [], 
+   "end": "4.080", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "4.080", 
+   "children": [], 
+   "end": "5.880", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "5.880", 
+   "children": [], 
+   "end": "6.320", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Der Haushalt, "
+   ]
+  }, 
+  {
+   "begin": "6.320", 
+   "children": [], 
+   "end": "9.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "den Bundesfinanzminister Olaf Scholz hier dem Bundestag pr\u00e4sentiert, "
+   ]
+  }, 
+  {
+   "begin": "9.280", 
+   "children": [], 
+   "end": "10.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "ist grundsolide. "
+   ]
+  }, 
+  {
+   "begin": "10.560", 
+   "children": [], 
+   "end": "12.640", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Die Welt beneidet uns um solche Zahlen."
+   ]
+  }, 
+  {
+   "begin": "12.640", 
+   "children": [], 
+   "end": "15.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Haushalt ist ein Meilenstein in der Geschichte der Bundesrepublik Deutschland."
+   ]
+  }, 
+  {
+   "begin": "15.400", 
+   "children": [], 
+   "end": "16.280", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Wir verzichten weiter auf neue Schulden; "
+   ]
+  }, 
+  {
+   "begin": "16.280", 
+   "children": [], 
+   "end": "18.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "gleichzeitig werden wir aber deutlich mehr investieren, "
+   ]
+  }, 
+  {
+   "begin": "18.000", 
+   "children": [], 
+   "end": "20.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "als dies in den vergangenen Jahren der Fall war. "
+   ]
+  }, 
+  {
+   "begin": "20.160", 
+   "children": [], 
+   "end": "23.800", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Haushalt erf\u00fcllt somit viele Erwartungen und Hoffnungen der Menschen in unserem Land. "
+   ]
+  }, 
+  {
+   "begin": "23.800", 
+   "children": [], 
+   "end": "27.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Damit wird das Leben von Millionen Menschen in diesem Land besser und gerechter. "
+   ]
+  }, 
+  {
+   "begin": "27.120", 
+   "children": [], 
+   "end": "27.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Mit Themen wie \u201eAbbau Soli\u201c, "
+   ]
+  }, 
+  {
+   "begin": "27.960", 
+   "children": [], 
+   "end": "29.880", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "\u201eParit\u00e4t in der Krankenversicherung\u201c, "
+   ]
+  }, 
+  {
+   "begin": "29.880", 
+   "children": [], 
+   "end": "32.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "\u201eInvestitionen in Bildung\u201c, "
+   ]
+  }, 
+  {
+   "begin": "32.240", 
+   "children": [], 
+   "end": "36.760", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "\u201eVereinbarkeit von Familie und Beruf\u201c wird Zukunft gestaltet. "
+   ]
+  }, 
+  {
+   "begin": "36.760", 
+   "children": [], 
+   "end": "40.200", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Damit kann man als Haush\u00e4lter der die Regierung tragenden Fraktionen au\u00dferordentlich gut leben."
+   ]
+  }, 
+  {
+   "begin": "40.200", 
+   "children": [], 
+   "end": "43.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Die Investitionen steigern wir allein in diesem Jahr um 3\u00a0Milliarden Euro. "
+   ]
+  }, 
+  {
+   "begin": "43.400", 
+   "children": [], 
+   "end": "49.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Im Vergleich zur letzten Wahlperiode werden wir die Investitionen um fast 40\u00a0Milliarden Euro in den n\u00e4chsten vier Jahren hochfahren\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "49.280", 
+   "children": [], 
+   "end": "51.480", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "eine Steigerung um 23\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "51.480", 
+   "children": [], 
+   "end": "53.320", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wer da noch ernsthaft von Sparwahn spricht, "
+   ]
+  }, 
+  {
+   "begin": "53.320", 
+   "children": [], 
+   "end": "54.240", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dem kann nicht mehr geholfen werden. "
+   ]
+  }, 
+  {
+   "begin": "54.240", 
+   "children": [], 
+   "end": "56.000", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Dem hilft dann vielleicht unser Bildungspaket."
+   ]
+  }, 
+  {
+   "begin": "56.000", 
+   "children": [], 
+   "end": "57.720", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich will in Richtung mancher Kritiker, "
+   ]
+  }, 
+  {
+   "begin": "57.720", 
+   "children": [], 
+   "end": "58.000", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die meinen, "
+   ]
+  }, 
+  {
+   "begin": "58.000", 
+   "children": [], 
+   "end": "60.000", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Ratschl\u00e4ge erteilen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "60.000", 
+   "children": [], 
+   "end": "60.320", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "sagen: "
+   ]
+  }, 
+  {
+   "begin": "60.320", 
+   "children": [], 
+   "end": "62.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wer in diesen Zeiten \u00fcber neue Schulden schwadroniert, "
+   ]
+  }, 
+  {
+   "begin": "62.600", 
+   "children": [], 
+   "end": "64.120", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "obwohl wir im Bund so viel investieren, "
+   ]
+  }, 
+  {
+   "begin": "64.120", 
+   "children": [], 
+   "end": "66.040", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "der muss k\u00fcnftigen Generationen ganz genau erkl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "66.040", 
+   "children": [], 
+   "end": "69.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "welche Steuererh\u00f6hungen oder Entbehrungen auf sie zukommen; "
+   ]
+  }, 
+  {
+   "begin": "69.000", 
+   "children": [], 
+   "end": "70.720", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "denn die Schulden von heute sind die Steuern von morgen."
+   ]
+  }, 
+  {
+   "begin": "70.720", 
+   "children": [], 
+   "end": "71.120", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Der Bund\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "71.120", 
+   "children": [], 
+   "end": "73.000", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "jetzt setze ich meine Brille als ehemaliger B\u00fcrgermeister einmal kurz auf\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "73.000", 
+   "children": [], 
+   "end": "76.520", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "hat in der letzten Wahlperiode L\u00e4ndern und Kommunen sehr viele Belastungen abgenommen, "
+   ]
+  }, 
+  {
+   "begin": "76.520", 
+   "children": [], 
+   "end": "78.680", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "damit diese mehr Spielr\u00e4ume f\u00fcr Investitionen haben. "
+   ]
+  }, 
+  {
+   "begin": "78.680", 
+   "children": [], 
+   "end": "80.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Ich komme aus Bamberg; "
+   ]
+  }, 
+  {
+   "begin": "80.240", 
+   "children": [], 
+   "end": "83.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "da werden diese Spielr\u00e4ume von unserem Oberb\u00fcrgermeister Andreas Starke genutzt, "
+   ]
+  }, 
+  {
+   "begin": "83.440", 
+   "children": [], 
+   "end": "84.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und er ist hochzufrieden mit dem, "
+   ]
+  }, 
+  {
+   "begin": "84.600", 
+   "children": [], 
+   "end": "86.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "was hier in Berlin passiert."
+   ]
+  }, 
+  {
+   "begin": "86.440", 
+   "children": [], 
+   "end": "86.960", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Jawohl, "
+   ]
+  }, 
+  {
+   "begin": "86.960", 
+   "children": [], 
+   "end": "88.040", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "bayerische Solidarit\u00e4t."
+   ]
+  }, 
+  {
+   "begin": "88.040", 
+   "children": [], 
+   "end": "90.440", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Haushalt vermeidet aber nicht nur Schulden, "
+   ]
+  }, 
+  {
+   "begin": "90.440", 
+   "children": [], 
+   "end": "92.680", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "sondern er investiert in unseren gesellschaftlichen Zusammenhalt. "
+   ]
+  }, 
+  {
+   "begin": "92.680", 
+   "children": [], 
+   "end": "93.040", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Ob beim Kindergeld, "
+   ]
+  }, 
+  {
+   "begin": "93.040", 
+   "children": [], 
+   "end": "93.600", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "beim BAf\u00f6G, "
+   ]
+  }, 
+  {
+   "begin": "93.600", 
+   "children": [], 
+   "end": "94.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "bei der Bildung oder bei der Rente: "
+   ]
+  }, 
+  {
+   "begin": "94.440", 
+   "children": [], 
+   "end": "96.000", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Haushalt verbindet, "
+   ]
+  }, 
+  {
+   "begin": "96.000", 
+   "children": [], 
+   "end": "98.200", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dieser Haushalt f\u00fchrt zusammen, "
+   ]
+  }, 
+  {
+   "begin": "98.200", 
+   "children": [], 
+   "end": "98.560", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wo andere, "
+   ]
+  }, 
+  {
+   "begin": "98.560", 
+   "children": [], 
+   "end": "100.000", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "auch in diesem Hohen Hause, "
+   ]
+  }, 
+  {
+   "begin": "100.000", 
+   "children": [], 
+   "end": "101.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "leider nur spalten m\u00f6chten. "
+   ]
+  }, 
+  {
+   "begin": "101.200", 
+   "children": [], 
+   "end": "102.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "102.520", 
+   "children": [], 
+   "end": "103.640", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn es wehtut: "
+   ]
+  }, 
+  {
+   "begin": "103.640", 
+   "children": [], 
+   "end": "106.440", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Das ist sozialdemokratische Finanzpolitik im besten Sinne, "
+   ]
+  }, 
+  {
+   "begin": "106.440", 
+   "children": [], 
+   "end": "107.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "was wir hier gerade vorf\u00fchren."
+   ]
+  }, 
+  {
+   "begin": "107.680", 
+   "children": [], 
+   "end": "108.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich, "
+   ]
+  }, 
+  {
+   "begin": "108.840", 
+   "children": [], 
+   "end": "110.280", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "lieber Olaf Scholz, "
+   ]
+  }, 
+  {
+   "begin": "110.280", 
+   "children": [], 
+   "end": "114.200", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns auch beim Thema Zoll einig sind und zu einem echten Paradigmenwechsel kommen. "
+   ]
+  }, 
+  {
+   "begin": "114.200", 
+   "children": [], 
+   "end": "117.160", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "In den letzten vier Jahren hie\u00df es im Bundesfinanzministerium immer: "
+   ]
+  }, 
+  {
+   "begin": "117.160", 
+   "children": [], 
+   "end": "118.440", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Der Bund erfindet neue Aufgaben; "
+   ]
+  }, 
+  {
+   "begin": "118.440", 
+   "children": [], 
+   "end": "119.600", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "erledigen muss sie der Zoll, "
+   ]
+  }, 
+  {
+   "begin": "119.600", 
+   "children": [], 
+   "end": "120.040", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "egal wie. "
+   ]
+  }, 
+  {
+   "begin": "120.040", 
+   "children": [], 
+   "end": "125.160", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Der Zoll ist nicht nur f\u00fcr einen Gro\u00dfteil der Einnahmen dieses Landes verantwortlich, "
+   ]
+  }, 
+  {
+   "begin": "125.160", 
+   "children": [], 
+   "end": "125.440", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "nein, "
+   ]
+  }, 
+  {
+   "begin": "125.440", 
+   "children": [], 
+   "end": "127.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "er bek\u00e4mpft auch Steuerkriminalit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "127.800", 
+   "children": [], 
+   "end": "129.640", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Geldw\u00e4sche und Schwarzarbeit. "
+   ]
+  }, 
+  {
+   "begin": "129.640", 
+   "children": [], 
+   "end": "132.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die Arbeit des Zolls ist somit f\u00fcr Deutschland und f\u00fcr unsere Gesellschaft unverzichtbar. "
+   ]
+  }, 
+  {
+   "begin": "132.760", 
+   "children": [], 
+   "end": "136.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Er sorgt damit auch f\u00fcr Steuergerechtigkeit und f\u00fcr Steuerehrlichkeit. "
+   ]
+  }, 
+  {
+   "begin": "136.280", 
+   "children": [], 
+   "end": "137.600", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb bin ich froh, "
+   ]
+  }, 
+  {
+   "begin": "137.600", 
+   "children": [], 
+   "end": "141.640", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass wir an die vielen flei\u00dfigen Z\u00f6llnerinnen und Z\u00f6llner das klare Signal geben k\u00f6nnen: "
+   ]
+  }, 
+  {
+   "begin": "141.640", 
+   "children": [], 
+   "end": "143.160", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt seid ihr mal dran."
+   ]
+  }, 
+  {
+   "begin": "143.160", 
+   "children": [], 
+   "end": "151.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Der Haushaltsentwurf f\u00fcr den Einzelplan des Bundesfinanzministeriums sieht jetzt \u00fcber 42\u00a0Millionen Euro mehr im Rahmen des Sofortprogramms Personal vor. "
+   ]
+  }, 
+  {
+   "begin": "151.600", 
+   "children": [], 
+   "end": "156.360", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet circa 700 neue Stellen in diesem Jahr beim Zoll und beim Bundeszentralamt f\u00fcr Steuern; "
+   ]
+  }, 
+  {
+   "begin": "156.360", 
+   "children": [], 
+   "end": "157.280", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "ob bei der Finanzkontrolle, "
+   ]
+  }, 
+  {
+   "begin": "157.280", 
+   "children": [], 
+   "end": "160.520", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "bei der Aufdeckung von Schwarzarbeit an den Flug- "
+   ]
+  }, 
+  {
+   "begin": "160.520", 
+   "children": [], 
+   "end": "165.320", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "oder Seeh\u00e4fen oder bei der Geldw\u00e4schebek\u00e4mpfung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "165.320", 
+   "children": [], 
+   "end": "166.480", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "allein bei der FIU, "
+   ]
+  }, 
+  {
+   "begin": "166.480", 
+   "children": [], 
+   "end": "168.600", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "der Spezialeinheit zum Kampf gegen Geldw\u00e4sche, "
+   ]
+  }, 
+  {
+   "begin": "168.600", 
+   "children": [], 
+   "end": "170.600", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "sind es 200\u00a0Stellen mehr. "
+   ]
+  }, 
+  {
+   "begin": "170.600", 
+   "children": [], 
+   "end": "171.960", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein wirklich ordentlicher Anfang. "
+   ]
+  }, 
+  {
+   "begin": "171.960", 
+   "children": [], 
+   "end": "172.400", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Aber, "
+   ]
+  }, 
+  {
+   "begin": "172.400", 
+   "children": [], 
+   "end": "172.840", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Herr Minister, "
+   ]
+  }, 
+  {
+   "begin": "172.840", 
+   "children": [], 
+   "end": "175.040", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "wir stellen uns nat\u00fcrlich in den kommenden drei Jahren noch deutlich mehr vor, "
+   ]
+  }, 
+  {
+   "begin": "175.040", 
+   "children": [], 
+   "end": "176.280", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "auch bei der Zollausbildung."
+   ]
+  }, 
+  {
+   "begin": "176.280", 
+   "children": [], 
+   "end": "179.200", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings w\u00e4re es fatal f\u00fcr einen Bundesfinanzminister, "
+   ]
+  }, 
+  {
+   "begin": "179.200", 
+   "children": [], 
+   "end": "180.480", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "zumal einen Hanseaten, "
+   ]
+  }, 
+  {
+   "begin": "180.480", 
+   "children": [], 
+   "end": "185.760", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "wenn er seinen Haush\u00e4ltern gleich zu Beginn vollumf\u00e4nglich alles erf\u00fcllte und sie vollumf\u00e4nglich zufriedenstellte. "
+   ]
+  }, 
+  {
+   "begin": "185.760", 
+   "children": [], 
+   "end": "187.440", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr gibt es eine Debatte, "
+   ]
+  }, 
+  {
+   "begin": "187.440", 
+   "children": [], 
+   "end": "189.000", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr gibt es Gespr\u00e4che, "
+   ]
+  }, 
+  {
+   "begin": "189.000", 
+   "children": [], 
+   "end": "190.120", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "daf\u00fcr gibt es Verhandlungen, "
+   ]
+  }, 
+  {
+   "begin": "190.120", 
+   "children": [], 
+   "end": "192.360", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "und ich freue mich auf die weiteren Beratungen."
+   ]
+  }, 
+  {
+   "begin": "192.360", 
+   "children": [], 
+   "end": "193.560", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "193.560", 
+   "children": [], 
+   "end": "194.000", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "194.000", 
+   "children": [], 
+   "end": "202.000", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Als n\u00e4chster Redner in der Debatte spricht Alois Rainer f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

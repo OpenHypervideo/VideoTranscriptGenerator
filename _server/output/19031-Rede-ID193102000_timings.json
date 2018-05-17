@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "2.240", 
+   "children": [], 
+   "end": "13.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "13.200", 
+   "children": [], 
+   "end": "19.440", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "19.440", 
+   "children": [], 
+   "end": "24.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Finanzplan ist ein Desaster f\u00fcr den Verkehr und das Digitale. "
+   ]
+  }, 
+  {
+   "begin": "24.840", 
+   "children": [], 
+   "end": "28.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Union und SPD organisieren den Verkehrskollaps. "
+   ]
+  }, 
+  {
+   "begin": "28.760", 
+   "children": [], 
+   "end": "31.080", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sie bekommen den Breitbandausbau nicht geregelt, "
+   ]
+  }, 
+  {
+   "begin": "31.080", 
+   "children": [], 
+   "end": "34.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "und sie gehen schlecht mit \u00f6ffentlichem Eigentum um."
+   ]
+  }, 
+  {
+   "begin": "34.600", 
+   "children": [], 
+   "end": "39.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Bis 2030 sollen 50\u00a0Milliarden Euro in neue Stra\u00dfen und Autobahnen flie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "39.800", 
+   "children": [], 
+   "end": "43.680", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Dazu kommen 66\u00a0Milliarden Euro f\u00fcr die Instandhaltung. "
+   ]
+  }, 
+  {
+   "begin": "43.680", 
+   "children": [], 
+   "end": "45.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Dabei wei\u00df jeder: "
+   ]
+  }, 
+  {
+   "begin": "45.840", 
+   "children": [], 
+   "end": "48.600", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Mehr Stra\u00dfen bedeuten mehr Verkehr, "
+   ]
+  }, 
+  {
+   "begin": "48.600", 
+   "children": [], 
+   "end": "51.480", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "noch mehr Stra\u00dfen noch mehr Instandhaltungskosten. "
+   ]
+  }, 
+  {
+   "begin": "51.480", 
+   "children": [], 
+   "end": "53.840", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Fass ohne Boden."
+   ]
+  }, 
+  {
+   "begin": "53.840", 
+   "children": [], 
+   "end": "61.160", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben jedes Jahr mehr G\u00fcterverkehr auf den Stra\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "61.160", 
+   "children": [], 
+   "end": "63.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Staus nehmen zu. "
+   ]
+  }, 
+  {
+   "begin": "63.040", 
+   "children": [], 
+   "end": "64.960", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Die Innenst\u00e4dte sind verstopft. "
+   ]
+  }, 
+  {
+   "begin": "64.960", 
+   "children": [], 
+   "end": "66.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet Stress, "
+   ]
+  }, 
+  {
+   "begin": "66.400", 
+   "children": [], 
+   "end": "68.480", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "L\u00e4rm und schlechte Luft. "
+   ]
+  }, 
+  {
+   "begin": "68.480", 
+   "children": [], 
+   "end": "69.400", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke sagt: "
+   ]
+  }, 
+  {
+   "begin": "69.400", 
+   "children": [], 
+   "end": "71.680", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen stattdessen eine Verkehrswende, "
+   ]
+  }, 
+  {
+   "begin": "71.680", 
+   "children": [], 
+   "end": "72.960", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "weil es finanziell, "
+   ]
+  }, 
+  {
+   "begin": "72.960", 
+   "children": [], 
+   "end": "75.280", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "\u00f6kologisch und sozial geboten ist."
+   ]
+  }, 
+  {
+   "begin": "75.280", 
+   "children": [], 
+   "end": "80.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Das ist auch die Erwartung der B\u00fcrgerinnen und B\u00fcrger. "
+   ]
+  }, 
+  {
+   "begin": "80.600", 
+   "children": [], 
+   "end": "83.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Das zeigen zum Beispiel Studien des Umweltbundesamtes. "
+   ]
+  }, 
+  {
+   "begin": "83.640", 
+   "children": [], 
+   "end": "88.760", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "80 bis 90\u00a0Prozent m\u00f6chten weniger auf das Auto angewiesen sein. "
+   ]
+  }, 
+  {
+   "begin": "88.760", 
+   "children": [], 
+   "end": "91.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Da k\u00f6nnen sich die B\u00fcrgerinnen und B\u00fcrger auf uns verlassen. "
+   ]
+  }, 
+  {
+   "begin": "91.160", 
+   "children": [], 
+   "end": "94.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke setzt sich ein f\u00fcr mehr und besseren \u00f6ffentlichen Nahverkehr,"
+   ]
+  }, 
+  {
+   "begin": "94.760", 
+   "children": [], 
+   "end": "96.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr gute Fu\u00df- "
+   ]
+  }, 
+  {
+   "begin": "96.440", 
+   "children": [], 
+   "end": "99.120", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und Fahrradwege und f\u00fcr eine Bahn, "
+   ]
+  }, 
+  {
+   "begin": "99.120", 
+   "children": [], 
+   "end": "102.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "die im ganzen Land attraktiv und bezahlbar ist."
+   ]
+  }, 
+  {
+   "begin": "102.600", 
+   "children": [], 
+   "end": "108.960", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Kommen wir zum Breitbandausbau. "
+   ]
+  }, 
+  {
+   "begin": "108.960", 
+   "children": [], 
+   "end": "112.960", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Hier liegt Deutschland im internationalen Vergleich sehr weit hinten. "
+   ]
+  }, 
+  {
+   "begin": "112.960", 
+   "children": [], 
+   "end": "114.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das ist blamabel, "
+   ]
+  }, 
+  {
+   "begin": "114.680", 
+   "children": [], 
+   "end": "116.280", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "aber auch selbst verschuldet. "
+   ]
+  }, 
+  {
+   "begin": "116.280", 
+   "children": [], 
+   "end": "124.280", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Die Regierung hat jahrelang diese Aufgabe dem Markt und damit den Profitinteressen der Anbieter \u00fcberlassen. "
+   ]
+  }, 
+  {
+   "begin": "124.280", 
+   "children": [], 
+   "end": "128.480", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Die Konsequenz ist eine massive Benachteiligung vieler l\u00e4ndlicher R\u00e4ume. "
+   ]
+  }, 
+  {
+   "begin": "128.480", 
+   "children": [], 
+   "end": "131.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Noch immer m\u00fcssen Familien und Unternehmen umziehen, "
+   ]
+  }, 
+  {
+   "begin": "131.480", 
+   "children": [], 
+   "end": "133.200", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "weil sie im Funkloch leben, "
+   ]
+  }, 
+  {
+   "begin": "133.200", 
+   "children": [], 
+   "end": "135.960", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "weil schnelles Internet f\u00fcr sie ein Fremdwort ist. "
+   ]
+  }, 
+  {
+   "begin": "135.960", 
+   "children": [], 
+   "end": "137.560", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Dabei war es doch die Gro\u00dfe Koalition, "
+   ]
+  }, 
+  {
+   "begin": "137.560", 
+   "children": [], 
+   "end": "138.680", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "die versprochen hat, "
+   ]
+  }, 
+  {
+   "begin": "138.680", 
+   "children": [], 
+   "end": "143.560", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "bis 2018 alle Haushalte mit schnellem Internet zu versorgen. "
+   ]
+  }, 
+  {
+   "begin": "143.560", 
+   "children": [], 
+   "end": "146.880", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben das Versprechen gebrochen."
+   ]
+  }, 
+  {
+   "begin": "146.880", 
+   "children": [], 
+   "end": "151.080", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Von den 1,6\u00a0Milliarden Euro, "
+   ]
+  }, 
+  {
+   "begin": "151.080", 
+   "children": [], 
+   "end": "156.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die in den letzten drei Jahren f\u00fcr den Breitbandausbau zur Verf\u00fcgung standen, "
+   ]
+  }, 
+  {
+   "begin": "156.520", 
+   "children": [], 
+   "end": "159.360", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "ist gerade einmal ein F\u00fcnfzigstel abgeflossen. "
+   ]
+  }, 
+  {
+   "begin": "159.360", 
+   "children": [], 
+   "end": "160.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Ein F\u00fcnfzigstel! "
+   ]
+  }, 
+  {
+   "begin": "160.880", 
+   "children": [], 
+   "end": "162.640", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das Programm l\u00e4uft schlecht, "
+   ]
+  }, 
+  {
+   "begin": "162.640", 
+   "children": [], 
+   "end": "163.800", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "ist kompliziert, "
+   ]
+  }, 
+  {
+   "begin": "163.800", 
+   "children": [], 
+   "end": "165.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "und es fehlt an Personal. "
+   ]
+  }, 
+  {
+   "begin": "165.360", 
+   "children": [], 
+   "end": "168.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Nun senken Sie im Haushaltsentwurf die Mittel, "
+   ]
+  }, 
+  {
+   "begin": "168.200", 
+   "children": [], 
+   "end": "171.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "schaffen aber die Position einer Staatsministerin f\u00fcr Digitales. "
+   ]
+  }, 
+  {
+   "begin": "171.120", 
+   "children": [], 
+   "end": "173.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das hilft den Leuten \u00fcberhaupt nicht. "
+   ]
+  }, 
+  {
+   "begin": "173.680", 
+   "children": [], 
+   "end": "175.800", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Jeder f\u00fcnfte Haushalt ist unversorgt. "
+   ]
+  }, 
+  {
+   "begin": "175.800", 
+   "children": [], 
+   "end": "179.160", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das Land ist nicht nur sozial gespalten, "
+   ]
+  }, 
+  {
+   "begin": "179.160", 
+   "children": [], 
+   "end": "186.240", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch digital. "
+   ]
+  }, 
+  {
+   "begin": "186.240", 
+   "children": [], 
+   "end": "186.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Beides ist nicht hinnehmbar."
+   ]
+  }, 
+  {
+   "begin": "186.880", 
+   "children": [], 
+   "end": "188.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Nun zum Investitionsstau. "
+   ]
+  }, 
+  {
+   "begin": "188.120", 
+   "children": [], 
+   "end": "192.280", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Die Koalition geht schlecht mit dem Eigentum der Bev\u00f6lkerung um. "
+   ]
+  }, 
+  {
+   "begin": "192.280", 
+   "children": [], 
+   "end": "196.640", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Die \u00f6ffentliche Infrastruktur wird vielerorts kaputtgespart. "
+   ]
+  }, 
+  {
+   "begin": "196.640", 
+   "children": [], 
+   "end": "200.040", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Das hat der Bundesrechnungshof gerade erst wieder ger\u00fcgt. "
+   ]
+  }, 
+  {
+   "begin": "200.040", 
+   "children": [], 
+   "end": "201.080", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Ich zitiere: "
+   ]
+  }, 
+  {
+   "begin": "201.080", 
+   "children": [], 
+   "end": "205.920", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "\u201eSchadhafte Br\u00fcckenbauten schr\u00e4nken die Nutzbarkeit von Stra\u00dfen, "
+   ]
+  }, 
+  {
+   "begin": "205.920", 
+   "children": [], 
+   "end": "208.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "aber auch von Schienen und Wasserwegen ein. "
+   ]
+  }, 
+  {
+   "begin": "208.960", 
+   "children": [], 
+   "end": "214.760", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Der bauliche Zustand der Br\u00fccken des Bundes hat sich in den letzten Jahren erheblich verschlechtert.\u201c\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "214.760", 
+   "children": [], 
+   "end": "216.520", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Ja wo leben wir denn? "
+   ]
+  }, 
+  {
+   "begin": "216.520", 
+   "children": [], 
+   "end": "224.720", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "So geht man doch nicht mit dem Eigentum der Bev\u00f6lkerung um!"
+   ]
+  }, 
+  {
+   "begin": "224.720", 
+   "children": [], 
+   "end": "227.800", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein desastr\u00f6ses Zeugnis f\u00fcr die Arbeit der Bundesregierung. "
+   ]
+  }, 
+  {
+   "begin": "227.800", 
+   "children": [], 
+   "end": "229.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Aber Sie feiern sich daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "229.760", 
+   "children": [], 
+   "end": "232.520", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie ohne Neuverschuldung auskommen. "
+   ]
+  }, 
+  {
+   "begin": "232.520", 
+   "children": [], 
+   "end": "237.320", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Dabei sind unterlassene Investitionen doch nur eine andere Form von Schulden, "
+   ]
+  }, 
+  {
+   "begin": "237.320", 
+   "children": [], 
+   "end": "240.720", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die Sie an die k\u00fcnftige Generation weiterreichen."
+   ]
+  }, 
+  {
+   "begin": "240.720", 
+   "children": [], 
+   "end": "242.120", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Herr Minister Scheuer, "
+   ]
+  }, 
+  {
+   "begin": "242.120", 
+   "children": [], 
+   "end": "246.000", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Sie verhandeln aktuell \u00fcber die Zukunft der Lkw-Maut. "
+   ]
+  }, 
+  {
+   "begin": "246.000", 
+   "children": [], 
+   "end": "251.720", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Seit Jahren tobt ein milliardenschwerer Streit mit den Toll-Collect-Betreibern. "
+   ]
+  }, 
+  {
+   "begin": "251.720", 
+   "children": [], 
+   "end": "259.000", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Die Steuerzahler mussten bereits unfassbare 250\u00a0Millionen Euro f\u00fcr Anw\u00e4lte hinbl\u00e4ttern. "
+   ]
+  }, 
+  {
+   "begin": "259.000", 
+   "children": [], 
+   "end": "260.480", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke erwartet, "
+   ]
+  }, 
+  {
+   "begin": "260.480", 
+   "children": [], 
+   "end": "263.120", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie sich nicht weiter \u00fcber den Tisch ziehen lassen."
+   ]
+  }, 
+  {
+   "begin": "263.120", 
+   "children": [], 
+   "end": "271.080", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Im Interesse der Steuerzahler muss die Lkw-Maut einzig und allein Sache des Bundes sein. "
+   ]
+  }, 
+  {
+   "begin": "271.080", 
+   "children": [], 
+   "end": "273.920", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Die Gewinne geh\u00f6ren vollst\u00e4ndig in die \u00f6ffentliche Hand. "
+   ]
+  }, 
+  {
+   "begin": "273.920", 
+   "children": [], 
+   "end": "277.720", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Die Privatisierung solcher Aufgaben ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "277.720", 
+   "children": [], 
+   "end": "284.280", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "das hat sich einmal mehr gezeigt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "284.280", 
+   "children": [], 
+   "end": "284.600", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "ein teurer Irrsinn."
+   ]
+  }, 
+  {
+   "begin": "284.600", 
+   "children": [], 
+   "end": "285.120", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Zusammenfassend: "
+   ]
+  }, 
+  {
+   "begin": "285.120", 
+   "children": [], 
+   "end": "289.360", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Die Gro\u00dfe Koalition im Jahr\u00a02018 bedeutet Verkehrskollaps, "
+   ]
+  }, 
+  {
+   "begin": "289.360", 
+   "children": [], 
+   "end": "290.480", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "digitales Scheitern, "
+   ]
+  }, 
+  {
+   "begin": "290.480", 
+   "children": [], 
+   "end": "294.880", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "kaputtgesparte Infrastruktur und eine M\u00e4rchenstunde mit dem Verkehrsminister."
+   ]
+  }, 
+  {
+   "begin": "294.880", 
+   "children": [], 
+   "end": "295.760", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "295.760", 
+   "children": [], 
+   "end": "304.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chster spricht der Kollege Sven-Christian Kindler f\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

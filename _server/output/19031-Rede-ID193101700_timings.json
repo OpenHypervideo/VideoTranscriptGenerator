@@ -1,0 +1,714 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.160", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.160", 
+   "children": [], 
+   "end": "12.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.040", 
+   "children": [], 
+   "end": "17.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste auf der Trib\u00fcne und vor den Bildschirmen! "
+   ]
+  }, 
+  {
+   "begin": "17.360", 
+   "children": [], 
+   "end": "25.080", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Wir beraten heute \u00fcber Verkehr und digitale Infrastruktur und somit \u00fcber ein entscheidendes Zukunftsthema f\u00fcr Deutschland. "
+   ]
+  }, 
+  {
+   "begin": "25.080", 
+   "children": [], 
+   "end": "27.120", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "50\u00a0Megabit pro Sekunde, "
+   ]
+  }, 
+  {
+   "begin": "27.120", 
+   "children": [], 
+   "end": "28.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "100\u00a0Megabit, "
+   ]
+  }, 
+  {
+   "begin": "28.280", 
+   "children": [], 
+   "end": "29.560", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "1\u00a0Gigabit\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "29.560", 
+   "children": [], 
+   "end": "30.720", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Ank\u00fcndigungen, "
+   ]
+  }, 
+  {
+   "begin": "30.720", 
+   "children": [], 
+   "end": "34.240", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Ank\u00fcndigungen und abermals Ank\u00fcndigungen. "
+   ]
+  }, 
+  {
+   "begin": "34.240", 
+   "children": [], 
+   "end": "36.400", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Darin ist die Gro\u00dfe Koalition gut. "
+   ]
+  }, 
+  {
+   "begin": "36.400", 
+   "children": [], 
+   "end": "42.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Gro\u00dfe Koalitionen sind in der Regel allerdings kein Ort wirklicher Innovationen und Erneuerungen."
+   ]
+  }, 
+  {
+   "begin": "42.000", 
+   "children": [], 
+   "end": "44.680", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag 2013 hie\u00df es\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "44.680", 
+   "children": [], 
+   "end": "45.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "ich zitiere\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "45.720", 
+   "children": [], 
+   "end": "54.480", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Bis zum Jahr 2018 soll es in Deutschland eine fl\u00e4chendeckende Grundversorgung mit mindestens 50\u00a0Mbit/s geben."
+   ]
+  }, 
+  {
+   "begin": "54.480", 
+   "children": [], 
+   "end": "55.120", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Nun, "
+   ]
+  }, 
+  {
+   "begin": "55.120", 
+   "children": [], 
+   "end": "55.800", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wie wir wissen, "
+   ]
+  }, 
+  {
+   "begin": "55.800", 
+   "children": [], 
+   "end": "57.920", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "wurde dieses Ziel nicht erreicht, "
+   ]
+  }, 
+  {
+   "begin": "57.920", 
+   "children": [], 
+   "end": "60.560", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "vor allem in den l\u00e4ndlichen R\u00e4umen unseres Landes."
+   ]
+  }, 
+  {
+   "begin": "60.560", 
+   "children": [], 
+   "end": "68.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Die Umsetzungsschwierigkeiten in der letzten Legislaturperiode begannen laut Rechnungshof bereits im Bundesministerium f\u00fcr Verkehr und digitale Infrastruktur, "
+   ]
+  }, 
+  {
+   "begin": "68.920", 
+   "children": [], 
+   "end": "70.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "kurz BMVI, "
+   ]
+  }, 
+  {
+   "begin": "70.160", 
+   "children": [], 
+   "end": "71.280", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "selbst. "
+   ]
+  }, 
+  {
+   "begin": "71.280", 
+   "children": [], 
+   "end": "74.920", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "In seinem Bericht kritisierte der Bundesrechnungshof Anfang des Jahres\u00a02016, "
+   ]
+  }, 
+  {
+   "begin": "74.920", 
+   "children": [], 
+   "end": "80.760", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "dass bei der Veranschlagung der F\u00f6rdermittel nicht vorher der tats\u00e4chliche Mittelbedarf gepr\u00fcft wurde. "
+   ]
+  }, 
+  {
+   "begin": "80.760", 
+   "children": [], 
+   "end": "83.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Auch fehlte laut Rechnungshof \u201eder Nachweis, "
+   ]
+  }, 
+  {
+   "begin": "83.240", 
+   "children": [], 
+   "end": "88.400", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass zus\u00e4tzlich 45\u00a0Planstellen und Stellen notwendig waren\u201c."
+   ]
+  }, 
+  {
+   "begin": "88.400", 
+   "children": [], 
+   "end": "89.560", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "89.560", 
+   "children": [], 
+   "end": "91.880", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "wenn der Start schon derartig holprig ist, "
+   ]
+  }, 
+  {
+   "begin": "91.880", 
+   "children": [], 
+   "end": "94.040", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnen die Ziele nicht erreicht werden. "
+   ]
+  }, 
+  {
+   "begin": "94.040", 
+   "children": [], 
+   "end": "96.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Und weil man das bisherige Ziel verfehlte, "
+   ]
+  }, 
+  {
+   "begin": "96.080", 
+   "children": [], 
+   "end": "98.880", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "hei\u00dft es nun im neuen Koalitionsvertrag\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "98.880", 
+   "children": [], 
+   "end": "99.720", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Zitat\u00a0\u2013:"
+   ]
+  }, 
+  {
+   "begin": "99.720", 
+   "children": [], 
+   "end": "104.080", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Wir gestalten den Weg in die Gigabit-Gesellschaft mit h\u00f6chster Priorit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "104.080", 
+   "children": [], 
+   "end": "111.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb wollen wir den fl\u00e4chendeckenden Ausbau mit Gigabit-Netzen bis 2025 erreichen."
+   ]
+  }, 
+  {
+   "begin": "111.320", 
+   "children": [], 
+   "end": "112.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Herr Minister Scheuer, "
+   ]
+  }, 
+  {
+   "begin": "112.920", 
+   "children": [], 
+   "end": "113.760", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben jetzt die Chance, "
+   ]
+  }, 
+  {
+   "begin": "113.760", 
+   "children": [], 
+   "end": "114.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "zu beweisen, "
+   ]
+  }, 
+  {
+   "begin": "114.920", 
+   "children": [], 
+   "end": "117.560", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass der Breitbandausbau nicht nur angek\u00fcndigt wird, "
+   ]
+  }, 
+  {
+   "begin": "117.560", 
+   "children": [], 
+   "end": "120.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch erfolgreich abgeschlossen wird. "
+   ]
+  }, 
+  {
+   "begin": "120.240", 
+   "children": [], 
+   "end": "122.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Und vielleicht gelingt es in diesem Land auch einmal, "
+   ]
+  }, 
+  {
+   "begin": "122.720", 
+   "children": [], 
+   "end": "126.600", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "ein Ziel vor Ablauf der selbst gesetzten Frist zu erreichen."
+   ]
+  }, 
+  {
+   "begin": "126.600", 
+   "children": [], 
+   "end": "132.000", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Insgesamt werden die Steuerzahler 5,4\u00a0Milliarden Euro f\u00fcr ein schnelles Breitband aufwenden. "
+   ]
+  }, 
+  {
+   "begin": "132.000", 
+   "children": [], 
+   "end": "136.520", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Alle Steuerzahler sollten auch rechtzeitig von ihrer Investition profitieren. "
+   ]
+  }, 
+  {
+   "begin": "136.520", 
+   "children": [], 
+   "end": "137.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Jedoch ist zu bef\u00fcrchten, "
+   ]
+  }, 
+  {
+   "begin": "137.680", 
+   "children": [], 
+   "end": "147.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass zu wenige Kapazit\u00e4ten bei der Planung und der Fachkr\u00e4ftemangel im Baugewerbe den Ausbau des schnellen Internets trotz gen\u00fcgender Bundesmittel weiter verz\u00f6gern werden."
+   ]
+  }, 
+  {
+   "begin": "147.880", 
+   "children": [], 
+   "end": "152.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Eine gut ausgebaute digitale Infrastruktur ist wichtig f\u00fcr unsere Gesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "152.520", 
+   "children": [], 
+   "end": "158.280", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Mit Industrie\u00a04.0 wird die Qualit\u00e4t des Netzes f\u00fcr die Wirtschaft insgesamt zu einem Wachstumsfaktor, "
+   ]
+  }, 
+  {
+   "begin": "158.280", 
+   "children": [], 
+   "end": "162.680", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "bei nicht ausreichend vorhandenen Strukturen gar zu einem \u00dcberlebensfaktor. "
+   ]
+  }, 
+  {
+   "begin": "162.680", 
+   "children": [], 
+   "end": "165.040", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Dies ist gerade f\u00fcr unsere mittelst\u00e4ndische Wirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "165.040", 
+   "children": [], 
+   "end": "167.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "welche \u00fcberwiegend in den l\u00e4ndlichen R\u00e4umen beheimatet ist, "
+   ]
+  }, 
+  {
+   "begin": "167.760", 
+   "children": [], 
+   "end": "170.320", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "ein entscheidender Wettbewerbsfaktor."
+   ]
+  }, 
+  {
+   "begin": "170.320", 
+   "children": [], 
+   "end": "173.720", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Der Ausbau mit Breitband in der Fl\u00e4che muss gelingen. "
+   ]
+  }, 
+  {
+   "begin": "173.720", 
+   "children": [], 
+   "end": "177.440", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Unsere moderne Landwirtschaft ist digital und ben\u00f6tigt Bandbreite. "
+   ]
+  }, 
+  {
+   "begin": "177.440", 
+   "children": [], 
+   "end": "177.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir fordern, "
+   ]
+  }, 
+  {
+   "begin": "177.960", 
+   "children": [], 
+   "end": "185.960", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "dass ausschlie\u00dflich Glasfaseranschl\u00fcsse mit mindestens 1\u00a0Gigabit pro Sekunde als Basisanforderung f\u00f6rderf\u00e4hig sind."
+   ]
+  }, 
+  {
+   "begin": "185.960", 
+   "children": [], 
+   "end": "195.720", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Die auf Kupfer angewiesene Vectoringtechnik darf nicht l\u00e4nger f\u00f6rderf\u00e4hig bleiben."
+   ]
+  }, 
+  {
+   "begin": "195.720", 
+   "children": [], 
+   "end": "199.920", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Funkl\u00f6cher im Mobilfunk sollten zuk\u00fcnftig der Vergangenheit angeh\u00f6ren. "
+   ]
+  }, 
+  {
+   "begin": "199.920", 
+   "children": [], 
+   "end": "201.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Hier sind vor allem Netzbetreiber gefordert, "
+   ]
+  }, 
+  {
+   "begin": "201.680", 
+   "children": [], 
+   "end": "204.840", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "den Ausbau besonders in l\u00e4ndlichen Gegenden voranzutreiben. "
+   ]
+  }, 
+  {
+   "begin": "204.840", 
+   "children": [], 
+   "end": "209.440", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Unser Land besteht aus urbanen Ballungsr\u00e4umen und dem l\u00e4ndlichen Raum."
+   ]
+  }, 
+  {
+   "begin": "209.440", 
+   "children": [], 
+   "end": "209.920", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Abschlie\u00dfend: "
+   ]
+  }, 
+  {
+   "begin": "209.920", 
+   "children": [], 
+   "end": "210.960", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Es ist sehr bedauerlich, "
+   ]
+  }, 
+  {
+   "begin": "210.960", 
+   "children": [], 
+   "end": "217.040", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass das bunte Wirrwarr bei den Zust\u00e4ndigkeiten f\u00fcr Digitalisierung innerhalb dieser Bundesregierung beibehalten wurde. "
+   ]
+  }, 
+  {
+   "begin": "217.040", 
+   "children": [], 
+   "end": "219.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Es fehlte der Koalition auch hier der Mut, "
+   ]
+  }, 
+  {
+   "begin": "219.360", 
+   "children": [], 
+   "end": "224.120", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr das Zukunftsthema Digitalisierung ein eigenes Ministerium zu schaffen."
+   ]
+  }, 
+  {
+   "begin": "224.120", 
+   "children": [], 
+   "end": "226.000", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "In dem Geflecht aus unterschiedlichen Zust\u00e4ndigkeiten ist es nur allzu leicht, "
+   ]
+  }, 
+  {
+   "begin": "226.000", 
+   "children": [], 
+   "end": "238.080", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "das Bild f\u00fcr das Gro\u00dfe und Ganze aus den Augen zu verlieren."
+   ]
+  }, 
+  {
+   "begin": "238.080", 
+   "children": [], 
+   "end": "239.440", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Herr Minister Scheuer, "
+   ]
+  }, 
+  {
+   "begin": "239.440", 
+   "children": [], 
+   "end": "240.120", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "ich w\u00fcnsche Ihnen, "
+   ]
+  }, 
+  {
+   "begin": "240.120", 
+   "children": [], 
+   "end": "244.800", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie Ihre Chance auf diesem wichtigen Gebiet nutzen und sich kein Vorbild an Ihrem Vorg\u00e4nger nehmen."
+   ]
+  }, 
+  {
+   "begin": "244.800", 
+   "children": [], 
+   "end": "245.600", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "245.600", 
+   "children": [], 
+   "end": "255.960", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin f\u00fcr die Fraktion der SPD ist die Abgeordnete Kirsten L\u00fchmann."
+   ]
+  }
+ ]
+}

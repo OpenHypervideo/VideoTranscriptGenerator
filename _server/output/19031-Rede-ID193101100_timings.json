@@ -1,0 +1,1594 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.200", 
+   "children": [], 
+   "end": "11.200", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Verehrte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "11.200", 
+   "children": [], 
+   "end": "12.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Herr Bundesfinanzminister Scholz, "
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "children": [], 
+   "end": "17.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "ich habe mich heute Morgen bei Ihrem rhetorischem Feuerwerk hier gefragt, "
+   ]
+  }, 
+  {
+   "begin": "17.840", 
+   "children": [], 
+   "end": "21.040", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber welchen Bundeshaushalt Sie eigentlich gesprochen haben. "
+   ]
+  }, 
+  {
+   "begin": "21.040", 
+   "children": [], 
+   "end": "22.520", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Brinkhaus, "
+   ]
+  }, 
+  {
+   "begin": "22.520", 
+   "children": [], 
+   "end": "23.920", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "der Schluss Ihrer Rede war ganz gut: "
+   ]
+  }, 
+  {
+   "begin": "23.920", 
+   "children": [], 
+   "end": "24.520", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Wenn es darum geht, "
+   ]
+  }, 
+  {
+   "begin": "24.520", 
+   "children": [], 
+   "end": "25.920", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "bei den Ausgaben aufzupassen, "
+   ]
+  }, 
+  {
+   "begin": "25.920", 
+   "children": [], 
+   "end": "27.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "dann sind wir sehr dabei. "
+   ]
+  }, 
+  {
+   "begin": "27.000", 
+   "children": [], 
+   "end": "27.800", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Das machen wir mit Ihnen gerne gemeinsam; "
+   ]
+  }, 
+  {
+   "begin": "27.800", 
+   "children": [], 
+   "end": "28.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "schlie\u00dflich geht es darum, "
+   ]
+  }, 
+  {
+   "begin": "28.200", 
+   "children": [], 
+   "end": "30.360", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "auch da dem Bundesfinanzminister auf die Finger zu schauen. "
+   ]
+  }, 
+  {
+   "begin": "30.360", 
+   "children": [], 
+   "end": "30.600", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch Sie, "
+   ]
+  }, 
+  {
+   "begin": "30.600", 
+   "children": [], 
+   "end": "31.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Herr Brinkhaus, "
+   ]
+  }, 
+  {
+   "begin": "31.080", 
+   "children": [], 
+   "end": "32.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "haben gesagt: "
+   ]
+  }, 
+  {
+   "begin": "32.080", 
+   "children": [], 
+   "end": "34.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Man muss jetzt vorsichtig sein. "
+   ]
+  }, 
+  {
+   "begin": "34.120", 
+   "children": [], 
+   "end": "35.000", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Die Lage ist gut; "
+   ]
+  }, 
+  {
+   "begin": "35.000", 
+   "children": [], 
+   "end": "37.320", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "aber man darf nicht \u00fcbertreiben."
+   ]
+  }, 
+  {
+   "begin": "37.320", 
+   "children": [], 
+   "end": "40.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Zwei Rahmendaten zum Bundeshaushalt 2018, "
+   ]
+  }, 
+  {
+   "begin": "40.800", 
+   "children": [], 
+   "end": "42.000", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren: "
+   ]
+  }, 
+  {
+   "begin": "42.000", 
+   "children": [], 
+   "end": "43.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Die Steuerquote steigt, "
+   ]
+  }, 
+  {
+   "begin": "43.760", 
+   "children": [], 
+   "end": "45.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und die Investitionsquote sinkt. "
+   ]
+  }, 
+  {
+   "begin": "45.720", 
+   "children": [], 
+   "end": "50.440", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Realit\u00e4t 2018 f\u00fcr den Bundeshaushalt, "
+   ]
+  }, 
+  {
+   "begin": "50.440", 
+   "children": [], 
+   "end": "52.080", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "den Sie vorgelegt haben, "
+   ]
+  }, 
+  {
+   "begin": "52.080", 
+   "children": [], 
+   "end": "53.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Herr Scholz."
+   ]
+  }, 
+  {
+   "begin": "53.160", 
+   "children": [], 
+   "end": "56.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Historisch ist der tats\u00e4chlich. "
+   ]
+  }, 
+  {
+   "begin": "56.160", 
+   "children": [], 
+   "end": "61.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man sich die Finanzplanung Ihres Hauses f\u00fcr diese Legislaturperiode anguckt, "
+   ]
+  }, 
+  {
+   "begin": "61.960", 
+   "children": [], 
+   "end": "62.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "stellt man fest: "
+   ]
+  }, 
+  {
+   "begin": "62.960", 
+   "children": [], 
+   "end": "70.800", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Steuereinnahmen werden dann insgesamt um 300\u00a0Milliarden Euro h\u00f6her ausfallen als zu Beginn der Periode. "
+   ]
+  }, 
+  {
+   "begin": "70.800", 
+   "children": [], 
+   "end": "75.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "300\u00a0Milliarden Euro mehr werden die Menschen w\u00e4hrend der Regierungszeit von CDU, "
+   ]
+  }, 
+  {
+   "begin": "75.800", 
+   "children": [], 
+   "end": "80.240", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "CSU und SPD an den Steuerstaat abgeben. "
+   ]
+  }, 
+  {
+   "begin": "80.240", 
+   "children": [], 
+   "end": "80.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Die Entlastungen, "
+   ]
+  }, 
+  {
+   "begin": "80.920", 
+   "children": [], 
+   "end": "82.360", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "die angek\u00fcndigt sind, "
+   ]
+  }, 
+  {
+   "begin": "82.360", 
+   "children": [], 
+   "end": "86.920", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "betragen gerade mal 9,08\u00a0Milliarden Euro, "
+   ]
+  }, 
+  {
+   "begin": "86.920", 
+   "children": [], 
+   "end": "87.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren. "
+   ]
+  }, 
+  {
+   "begin": "87.920", 
+   "children": [], 
+   "end": "92.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "3\u00a0Prozent der Mehreinnahmen sind Sie bereit zur\u00fcckzugeben. "
+   ]
+  }, 
+  {
+   "begin": "92.120", 
+   "children": [], 
+   "end": "93.520", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Armutszeugnis, "
+   ]
+  }, 
+  {
+   "begin": "93.520", 
+   "children": [], 
+   "end": "95.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere f\u00fcr die Union\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "95.680", 
+   "children": [], 
+   "end": "101.560", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "um das in aller Klarheit zu sagen."
+   ]
+  }, 
+  {
+   "begin": "101.560", 
+   "children": [], 
+   "end": "104.720", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Ich will einfach mal aus dem Wahlprogramm der Union vortragen. "
+   ]
+  }, 
+  {
+   "begin": "104.720", 
+   "children": [], 
+   "end": "110.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Auf Seite\u00a033 des Bundestagswahlprogramms der CDU steht:"
+   ]
+  }, 
+  {
+   "begin": "110.680", 
+   "children": [], 
+   "end": "112.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "112.800", 
+   "children": [], 
+   "end": "116.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "dass auch die Steuerquote nicht steigt."
+   ]
+  }, 
+  {
+   "begin": "116.800", 
+   "children": [], 
+   "end": "118.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "118.040", 
+   "children": [], 
+   "end": "118.640", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "das ist das, "
+   ]
+  }, 
+  {
+   "begin": "118.640", 
+   "children": [], 
+   "end": "120.080", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "was die Union versprochen hat."
+   ]
+  }, 
+  {
+   "begin": "120.080", 
+   "children": [], 
+   "end": "121.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Die Realit\u00e4t ist: "
+   ]
+  }, 
+  {
+   "begin": "121.440", 
+   "children": [], 
+   "end": "130.520", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Nach Ihrer eigenen Steuersch\u00e4tzung von letzter Woche wird die deutsche Steuerquote trotz Rekordbesch\u00e4ftigung, "
+   ]
+  }, 
+  {
+   "begin": "130.520", 
+   "children": [], 
+   "end": "132.440", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "trotz Rekordsteuereinnahmen, "
+   ]
+  }, 
+  {
+   "begin": "132.440", 
+   "children": [], 
+   "end": "136.200", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "trotz minimaler Zinsausgaben weiter steigen, "
+   ]
+  }, 
+  {
+   "begin": "136.200", 
+   "children": [], 
+   "end": "136.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren. "
+   ]
+  }, 
+  {
+   "begin": "136.960", 
+   "children": [], 
+   "end": "137.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet: "
+   ]
+  }, 
+  {
+   "begin": "137.920", 
+   "children": [], 
+   "end": "139.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Die Belastung allein durch Steuern\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "139.360", 
+   "children": [], 
+   "end": "141.160", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "von den Abgaben ganz zu schweigen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "141.160", 
+   "children": [], 
+   "end": "142.440", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "steigt st\u00e4rker, "
+   ]
+  }, 
+  {
+   "begin": "142.440", 
+   "children": [], 
+   "end": "145.840", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "als ohnehin durch die gute wirtschaftliche Entwicklung bedingt ist. "
+   ]
+  }, 
+  {
+   "begin": "145.840", 
+   "children": [], 
+   "end": "152.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Die erste Steuersch\u00e4tzung der Gro\u00dfen Koalition ist gleichzeitig das Brechen des ersten Wahlversprechens der Union\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "152.240", 
+   "children": [], 
+   "end": "154.920", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "um das in aller Deutlichkeit zu sagen."
+   ]
+  }, 
+  {
+   "begin": "154.920", 
+   "children": [], 
+   "end": "159.880", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Herr Brinkhaus, "
+   ]
+  }, 
+  {
+   "begin": "159.880", 
+   "children": [], 
+   "end": "163.600", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "auf diesen Vorwurf gehe ich gern ein. "
+   ]
+  }, 
+  {
+   "begin": "163.600", 
+   "children": [], 
+   "end": "167.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Erinnern wir uns gemeinsam ganz kurz an den November letzten Jahres w\u00e4hrend der Sondierung, "
+   ]
+  }, 
+  {
+   "begin": "167.680", 
+   "children": [], 
+   "end": "169.040", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren!"
+   ]
+  }, 
+  {
+   "begin": "169.040", 
+   "children": [], 
+   "end": "171.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Damals haben Sie gesagt: "
+   ]
+  }, 
+  {
+   "begin": "171.760", 
+   "children": [], 
+   "end": "173.520", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Der Entlastungsspielraum ist nicht da, "
+   ]
+  }, 
+  {
+   "begin": "173.520", 
+   "children": [], 
+   "end": "176.320", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "um den Solidarit\u00e4tszuschlag ganz abzuschaffen."
+   ]
+  }, 
+  {
+   "begin": "176.320", 
+   "children": [], 
+   "end": "177.400", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Das war die Union. "
+   ]
+  }, 
+  {
+   "begin": "177.400", 
+   "children": [], 
+   "end": "180.400", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Es brauchte sogar einen sozialdemokratischen Finanzminister, "
+   ]
+  }, 
+  {
+   "begin": "180.400", 
+   "children": [], 
+   "end": "182.240", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "um mehr Geld im Bundeshaushalt zu finden. "
+   ]
+  }, 
+  {
+   "begin": "182.240", 
+   "children": [], 
+   "end": "183.760", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Sie waren dazu nicht in der Lage. "
+   ]
+  }, 
+  {
+   "begin": "183.760", 
+   "children": [], 
+   "end": "184.720", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Realit\u00e4t, "
+   ]
+  }, 
+  {
+   "begin": "184.720", 
+   "children": [], 
+   "end": "186.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die wir an dieser Stelle sprechen."
+   ]
+  }, 
+  {
+   "begin": "186.160", 
+   "children": [], 
+   "end": "187.440", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Realit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "187.440", 
+   "children": [], 
+   "end": "190.600", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Erinnern wir uns mal gemeinsam daran!"
+   ]
+  }, 
+  {
+   "begin": "190.600", 
+   "children": [], 
+   "end": "191.200", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Die Realit\u00e4t ist, "
+   ]
+  }, 
+  {
+   "begin": "191.200", 
+   "children": [], 
+   "end": "194.040", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "dass das Steuersystem in Deutschland ein St\u00fcck weit aus den Fugen ger\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "194.040", 
+   "children": [], 
+   "end": "195.840", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Auch das zeigt die Steuersch\u00e4tzung. "
+   ]
+  }, 
+  {
+   "begin": "195.840", 
+   "children": [], 
+   "end": "198.640", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Erinnern wir uns an den Spitzensteuersatz im Jahr\u00a01960! "
+   ]
+  }, 
+  {
+   "begin": "198.640", 
+   "children": [], 
+   "end": "203.600", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Man musste 1960 das 20-Fache des Durchschnittseinkommens verdienen, "
+   ]
+  }, 
+  {
+   "begin": "203.600", 
+   "children": [], 
+   "end": "206.240", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "um an den Spitzensteuersatz heranzukommen. "
+   ]
+  }, 
+  {
+   "begin": "206.240", 
+   "children": [], 
+   "end": "208.800", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Heute ist es das 1,4-Fache."
+   ]
+  }, 
+  {
+   "begin": "208.800", 
+   "children": [], 
+   "end": "212.320", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland hat die zweith\u00f6chste Steuer- "
+   ]
+  }, 
+  {
+   "begin": "212.320", 
+   "children": [], 
+   "end": "217.720", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "und Abgabenlast unter den 35\u00a0OECD-L\u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "217.720", 
+   "children": [], 
+   "end": "219.320", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Das Hauptproblem, "
+   ]
+  }, 
+  {
+   "begin": "219.320", 
+   "children": [], 
+   "end": "225.720", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "warum wir in Deutschland eher eine Zuwanderung in die sozialen Sicherungssysteme als in den Arbeitsmarkt haben, "
+   ]
+  }, 
+  {
+   "begin": "225.720", 
+   "children": [], 
+   "end": "225.960", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "ist: "
+   ]
+  }, 
+  {
+   "begin": "225.960", 
+   "children": [], 
+   "end": "229.920", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "weil wir ein sehr attraktives soziales Sicherungssystem haben. "
+   ]
+  }, 
+  {
+   "begin": "229.920", 
+   "children": [], 
+   "end": "232.120", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Aber der Arbeitsmarkt wird immer unattraktiver, "
+   ]
+  }, 
+  {
+   "begin": "232.120", 
+   "children": [], 
+   "end": "234.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "weil diese Bundesregierung nicht in der Lage ist, "
+   ]
+  }, 
+  {
+   "begin": "234.000", 
+   "children": [], 
+   "end": "235.320", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "die Mitte der Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "235.320", 
+   "children": [], 
+   "end": "236.400", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "die hart arbeitenden Menschen, "
+   ]
+  }, 
+  {
+   "begin": "236.400", 
+   "children": [], 
+   "end": "237.080", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "zu entlasten. "
+   ]
+  }, 
+  {
+   "begin": "237.080", 
+   "children": [], 
+   "end": "238.280", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Das ist Ihr Problem."
+   ]
+  }, 
+  {
+   "begin": "238.280", 
+   "children": [], 
+   "end": "238.840", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Ich frage mich, "
+   ]
+  }, 
+  {
+   "begin": "238.840", 
+   "children": [], 
+   "end": "240.560", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "wo die Union an dieser Stelle bleibt, "
+   ]
+  }, 
+  {
+   "begin": "240.560", 
+   "children": [], 
+   "end": "245.960", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "meine sehr verehrten Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "245.960", 
+   "children": [], 
+   "end": "248.120", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Die zweite Ank\u00fcndigung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "248.120", 
+   "children": [], 
+   "end": "252.840", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "zur Steuerquote habe ich aus dem Wahlprogramm der CDU zitiert\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "252.840", 
+   "children": [], 
+   "end": "258.240", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Herr Altmaier hat am 12.\u00a0Februar dieses Jahres, "
+   ]
+  }, 
+  {
+   "begin": "258.240", 
+   "children": [], 
+   "end": "259.760", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "noch als amtierender Bundesfinanzminister, "
+   ]
+  }, 
+  {
+   "begin": "259.760", 
+   "children": [], 
+   "end": "260.240", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "gesagt: "
+   ]
+  }, 
+  {
+   "begin": "260.240", 
+   "children": [], 
+   "end": "266.560", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "Diese Regierung bietet die gr\u00f6\u00dfte Steuerentlastung der B\u00fcrger seit der Wiedervereinigung.\u00a0\u2013"
+   ]
+  }, 
+  {
+   "begin": "266.560", 
+   "children": [], 
+   "end": "268.480", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Ank\u00fcndigung gewesen."
+   ]
+  }, 
+  {
+   "begin": "268.480", 
+   "children": [], 
+   "end": "270.040", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Und was ist jetzt die Realit\u00e4t? "
+   ]
+  }, 
+  {
+   "begin": "270.040", 
+   "children": [], 
+   "end": "271.880", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Die Steuersch\u00e4tzung von letzter Woche: "
+   ]
+  }, 
+  {
+   "begin": "271.880", 
+   "children": [], 
+   "end": "275.520", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber 60\u00a0Milliarden Euro Mehreinnahmen im Vergleich zur letzten Sch\u00e4tzung.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "275.520", 
+   "children": [], 
+   "end": "276.360", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Interessant ist, "
+   ]
+  }, 
+  {
+   "begin": "276.360", 
+   "children": [], 
+   "end": "278.720", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "was in diesen Tagen medial passiert ist. "
+   ]
+  }, 
+  {
+   "begin": "278.720", 
+   "children": [], 
+   "end": "282.800", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "Da geht die CDU-Generalsekret\u00e4rin vorsichtig ins \u201eMorgenmagazin\u201c und sagt: "
+   ]
+  }, 
+  {
+   "begin": "282.800", 
+   "children": [], 
+   "end": "283.080", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Na ja, "
+   ]
+  }, 
+  {
+   "begin": "283.080", 
+   "children": [], 
+   "end": "283.600", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "neben all den Dingen, "
+   ]
+  }, 
+  {
+   "begin": "283.600", 
+   "children": [], 
+   "end": "284.560", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "die wir uns vorgenommen haben, "
+   ]
+  }, 
+  {
+   "begin": "284.560", 
+   "children": [], 
+   "end": "289.040", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "k\u00f6nnte man sich theoretisch auch Steuerentlastung f\u00fcr die Mitte der Gesellschaft vorstellen.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "289.040", 
+   "children": [], 
+   "end": "292.960", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "Am Nachmittag spricht Andrea Nahles ein Machtwort und sagt: "
+   ]
+  }, 
+  {
+   "begin": "292.960", 
+   "children": [], 
+   "end": "294.640", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Weitere Entlastungen sind nicht drin.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "294.640", 
+   "children": [], 
+   "end": "295.000", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Danach: "
+   ]
+  }, 
+  {
+   "begin": "295.000", 
+   "children": [], 
+   "end": "297.000", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "Schweigen der Union. "
+   ]
+  }, 
+  {
+   "begin": "297.000", 
+   "children": [], 
+   "end": "301.560", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Sie lassen sich von den Sozialdemokraten steuerpolitisch unterbuttern."
+   ]
+  }, 
+  {
+   "begin": "301.560", 
+   "children": [], 
+   "end": "308.160", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Das darf doch nicht Ihr Anspruch sein, "
+   ]
+  }, 
+  {
+   "begin": "308.160", 
+   "children": [], 
+   "end": "309.680", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "liebe Kolleginnen und Kollegen."
+   ]
+  }, 
+  {
+   "begin": "309.680", 
+   "children": [], 
+   "end": "310.280", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "Zum Schluss: "
+   ]
+  }, 
+  {
+   "begin": "310.280", 
+   "children": [], 
+   "end": "314.320", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Wir hatten gestern ein Urteil des Bundesfinanzhofs, "
+   ]
+  }, 
+  {
+   "begin": "314.320", 
+   "children": [], 
+   "end": "315.720", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Brinkhaus. "
+   ]
+  }, 
+  {
+   "begin": "315.720", 
+   "children": [], 
+   "end": "319.400", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Da hatte ein Ehepaar geklagt, "
+   ]
+  }, 
+  {
+   "begin": "319.400", 
+   "children": [], 
+   "end": "327.160", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "weil die Zinsen bei Steuernachzahlung vor dem Hintergrund der Niedrigzinsphase, "
+   ]
+  }, 
+  {
+   "begin": "327.160", 
+   "children": [], 
+   "end": "328.160", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "die wir nach wie vor haben, "
+   ]
+  }, 
+  {
+   "begin": "328.160", 
+   "children": [], 
+   "end": "329.560", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "absolut unverh\u00e4ltnism\u00e4\u00dfig sind. "
+   ]
+  }, 
+  {
+   "begin": "329.560", 
+   "children": [], 
+   "end": "330.600", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Es hat recht bekommen. "
+   ]
+  }, 
+  {
+   "begin": "330.600", 
+   "children": [], 
+   "end": "332.160", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Die Bundesregierung hat geantwortet, "
+   ]
+  }, 
+  {
+   "begin": "332.160", 
+   "children": [], 
+   "end": "332.760", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "das sei nicht so; "
+   ]
+  }, 
+  {
+   "begin": "332.760", 
+   "children": [], 
+   "end": "333.880", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "man werde abwarten, "
+   ]
+  }, 
+  {
+   "begin": "333.880", 
+   "children": [], 
+   "end": "335.480", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "was vor dem Bundesverfassungsgericht passiere. "
+   ]
+  }, 
+  {
+   "begin": "335.480", 
+   "children": [], 
+   "end": "336.280", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "Auch dort: "
+   ]
+  }, 
+  {
+   "begin": "336.280", 
+   "children": [], 
+   "end": "337.840", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "Schweigen im Walde."
+   ]
+  }, 
+  {
+   "begin": "337.840", 
+   "children": [], 
+   "end": "345.120", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind mittlerweile vor dem Hintergrund fantastischer Steuereinnahmen und einer gro\u00dfen Leistungsf\u00e4higkeit der Mitte der Gesellschaft, "
+   ]
+  }, 
+  {
+   "begin": "345.120", 
+   "children": [], 
+   "end": "347.080", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "die viel an den Staat abgibt, "
+   ]
+  }, 
+  {
+   "begin": "347.080", 
+   "children": [], 
+   "end": "348.960", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "in der Situation, "
+   ]
+  }, 
+  {
+   "begin": "348.960", 
+   "children": [], 
+   "end": "350.760", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "dass man den Steuerb\u00fcrgern raten muss, "
+   ]
+  }, 
+  {
+   "begin": "350.760", 
+   "children": [], 
+   "end": "352.080", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "eher vor Gericht zu ziehen, "
+   ]
+  }, 
+  {
+   "begin": "352.080", 
+   "children": [], 
+   "end": "355.000", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "als sich an die politischen Vertreter der Bundesregierung zu wenden. "
+   ]
+  }, 
+  {
+   "begin": "355.000", 
+   "children": [], 
+   "end": "355.560", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Auch das, "
+   ]
+  }, 
+  {
+   "begin": "355.560", 
+   "children": [], 
+   "end": "356.480", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "356.480", 
+   "children": [], 
+   "end": "357.440", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "ist ein Armutszeugnis\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "357.440", 
+   "children": [], 
+   "end": "359.200", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "um das in aller Klarheit zu sagen."
+   ]
+  }, 
+  {
+   "begin": "359.200", 
+   "children": [], 
+   "end": "362.720", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident, "
+   ]
+  }, 
+  {
+   "begin": "362.720", 
+   "children": [], 
+   "end": "365.440", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "ich will zum Schluss sagen: "
+   ]
+  }, 
+  {
+   "begin": "365.440", 
+   "children": [], 
+   "end": "366.600", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "Ein Staat\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "366.600", 
+   "children": [], 
+   "end": "367.720", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "Herr Brinkhaus, "
+   ]
+  }, 
+  {
+   "begin": "367.720", 
+   "children": [], 
+   "end": "369.560", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "vielleicht kommen wir da in einen Dialog dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "369.560", 
+   "children": [], 
+   "end": "372.640", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "ob dieser Bundeshaushalt wirklich in der Waage ist\u00a0\u2013,"
+   ]
+  }, 
+  {
+   "begin": "372.640", 
+   "children": [], 
+   "end": "376.400", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "der viermal mehr f\u00fcr die Rente\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "376.400", 
+   "children": [], 
+   "end": "384.080", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "jedem Rentner sei eine ordentliche Rente geg\u00f6nnt; "
+   ]
+  }, 
+  {
+   "begin": "384.080", 
+   "children": [], 
+   "end": "385.200", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "keine Frage\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "385.200", 
+   "children": [], 
+   "end": "387.840", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "als f\u00fcr die Bildung seiner jungen Menschen ausgibt, "
+   ]
+  }, 
+  {
+   "begin": "387.840", 
+   "children": [], 
+   "end": "389.040", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "ist in Schieflage."
+   ]
+  }, 
+  {
+   "begin": "389.040", 
+   "children": [], 
+   "end": "391.520", 
+   "id": "s000156", 
+   "language": "deu", 
+   "lines": [
+    "Auch das muss man im Rahmen des Bundeshaushaltes diskutieren."
+   ]
+  }, 
+  {
+   "begin": "391.520", 
+   "children": [], 
+   "end": "392.480", 
+   "id": "s000157", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "392.480", 
+   "children": [], 
+   "end": "403.680", 
+   "id": "s000158", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Fabio De Masi, "
+   ]
+  }, 
+  {
+   "begin": "403.680", 
+   "children": [], 
+   "end": "405.960", 
+   "id": "s000159", 
+   "language": "deu", 
+   "lines": [
+    "Fraktion Die Linke."
+   ]
+  }
+ ]
+}
