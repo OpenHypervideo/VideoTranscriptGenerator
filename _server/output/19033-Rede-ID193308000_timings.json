@@ -1,0 +1,944 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.080", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "0.080", 
+   "children": [], 
+   "end": "6.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "6.640", 
+   "children": [], 
+   "end": "9.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Frau Ministerin! "
+   ]
+  }, 
+  {
+   "begin": "9.360", 
+   "children": [], 
+   "end": "12.000", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland ist ein digitales Entwicklungsland, "
+   ]
+  }, 
+  {
+   "begin": "12.000", 
+   "children": [], 
+   "end": "15.080", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "und wir sind alle miteinander weit davon entfernt, "
+   ]
+  }, 
+  {
+   "begin": "15.080", 
+   "children": [], 
+   "end": "22.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass Sch\u00fclerinnen und Sch\u00fcler selbstbestimmt und kompetent mit Chancen und Risiken in einer digitalisierten Umgebung umgehen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "22.840", 
+   "children": [], 
+   "end": "24.520", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Ich will drei Punkte nennen, "
+   ]
+  }, 
+  {
+   "begin": "24.520", 
+   "children": [], 
+   "end": "26.000", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr uns wichtig sind."
+   ]
+  }, 
+  {
+   "begin": "26.000", 
+   "children": [], 
+   "end": "27.440", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "27.440", 
+   "children": [], 
+   "end": "28.840", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Es braucht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "28.840", 
+   "children": [], 
+   "end": "30.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "man m\u00f6chte sagen: "
+   ]
+  }, 
+  {
+   "begin": "30.240", 
+   "children": [], 
+   "end": "31.240", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "endlich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "31.240", 
+   "children": [], 
+   "end": "33.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Infrastruktur und Ressourcen. "
+   ]
+  }, 
+  {
+   "begin": "33.720", 
+   "children": [], 
+   "end": "34.360", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Aber, "
+   ]
+  }, 
+  {
+   "begin": "34.360", 
+   "children": [], 
+   "end": "35.720", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "mit Verlaub, "
+   ]
+  }, 
+  {
+   "begin": "35.720", 
+   "children": [], 
+   "end": "39.120", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "3,5\u00a0Milliarden Euro in dieser Legislaturperiode\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "39.120", 
+   "children": [], 
+   "end": "41.080", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "drei Jahre haben wir noch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "41.080", 
+   "children": [], 
+   "end": "43.160", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "ist alles andere als eine Kategorie, "
+   ]
+  }, 
+  {
+   "begin": "43.160", 
+   "children": [], 
+   "end": "45.280", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die einen zum Weltmeister macht."
+   ]
+  }, 
+  {
+   "begin": "45.280", 
+   "children": [], 
+   "end": "52.880", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Die Bertelsmann-Stiftung geht von 2,8\u00a0Milliarden Euro nur f\u00fcr die digitale Ausr\u00fcstung von Schulen aus, "
+   ]
+  }, 
+  {
+   "begin": "52.880", 
+   "children": [], 
+   "end": "54.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "und das pro Jahr."
+   ]
+  }, 
+  {
+   "begin": "54.360", 
+   "children": [], 
+   "end": "55.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Man kann sich zwar feiern, "
+   ]
+  }, 
+  {
+   "begin": "55.960", 
+   "children": [], 
+   "end": "57.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Schulz; "
+   ]
+  }, 
+  {
+   "begin": "57.480", 
+   "children": [], 
+   "end": "59.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "das k\u00f6nnen Sie aber nur, "
+   ]
+  }, 
+  {
+   "begin": "59.040", 
+   "children": [], 
+   "end": "63.320", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "weil in den vergangenen Jahren so gut wie nichts gelaufen ist."
+   ]
+  }, 
+  {
+   "begin": "63.320", 
+   "children": [], 
+   "end": "66.880", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Entscheidender finde ich jedoch: "
+   ]
+  }, 
+  {
+   "begin": "66.880", 
+   "children": [], 
+   "end": "71.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns in Deutschland von einem sehr technikorientierten Tunnelblick verabschieden. "
+   ]
+  }, 
+  {
+   "begin": "71.720", 
+   "children": [], 
+   "end": "73.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Es geht eben nicht nur um Technik, "
+   ]
+  }, 
+  {
+   "begin": "73.920", 
+   "children": [], 
+   "end": "76.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und es geht auch nicht nur um den Arbeitsmarkt. "
+   ]
+  }, 
+  {
+   "begin": "76.760", 
+   "children": [], 
+   "end": "78.920", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um weit mehr als darum, "
+   ]
+  }, 
+  {
+   "begin": "78.920", 
+   "children": [], 
+   "end": "80.800", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "mit Exceltabellen rechnen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "80.800", 
+   "children": [], 
+   "end": "85.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "mit Word zu schreiben und mit PowerPoint vern\u00fcnftige Vortr\u00e4ge zu halten. "
+   ]
+  }, 
+  {
+   "begin": "85.600", 
+   "children": [], 
+   "end": "91.440", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Bildung in einer digitalen Gesellschaft meint m\u00fcndige und kompetente Leute, "
+   ]
+  }, 
+  {
+   "begin": "91.440", 
+   "children": [], 
+   "end": "98.880", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "die hinter die digitalen Kulissen schauen und sie mitgestalten k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "98.880", 
+   "children": [], 
+   "end": "103.040", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "statt von ihnen beherrscht zu werden."
+   ]
+  }, 
+  {
+   "begin": "103.040", 
+   "children": [], 
+   "end": "104.120", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "104.120", 
+   "children": [], 
+   "end": "107.480", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "mit unterschiedlichen Betriebssystemen umgehen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "107.480", 
+   "children": [], 
+   "end": "111.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "selbst programmieren zu k\u00f6nnen und nachvollziehen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "111.400", 
+   "children": [], 
+   "end": "115.400", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "was digitale Prozesse hervorbringen k\u00f6nnen und was eben nicht. "
+   ]
+  }, 
+  {
+   "begin": "115.400", 
+   "children": [], 
+   "end": "119.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Open Educational Resources statt Hard- "
+   ]
+  }, 
+  {
+   "begin": "119.000", 
+   "children": [], 
+   "end": "121.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "und Software von Monopolisten."
+   ]
+  }, 
+  {
+   "begin": "121.520", 
+   "children": [], 
+   "end": "127.440", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr braucht es offene Quellcodes f\u00fcr Sch\u00fclerinnen und Sch\u00fcler, "
+   ]
+  }, 
+  {
+   "begin": "127.440", 
+   "children": [], 
+   "end": "130.560", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "um ebenjene auch weiterentwickeln zu k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "130.560", 
+   "children": [], 
+   "end": "133.920", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen eine Kultur des Tauschens und des Teilens, "
+   ]
+  }, 
+  {
+   "begin": "133.920", 
+   "children": [], 
+   "end": "134.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "134.840", 
+   "children": [], 
+   "end": "137.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "weil Wissen mehr wird, "
+   ]
+  }, 
+  {
+   "begin": "137.480", 
+   "children": [], 
+   "end": "138.960", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "wenn man es teilt."
+   ]
+  }, 
+  {
+   "begin": "138.960", 
+   "children": [], 
+   "end": "144.800", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Kinder und Jugendliche brauchen soziale Kompetenzen, "
+   ]
+  }, 
+  {
+   "begin": "144.800", 
+   "children": [], 
+   "end": "149.040", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "um ein Gef\u00fchl daf\u00fcr zu bekommen und Wissen dar\u00fcber zu haben, "
+   ]
+  }, 
+  {
+   "begin": "149.040", 
+   "children": [], 
+   "end": "154.040", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "was das Aufhalten in digitaler Lernumgebung mit unserem sozialen Miteinander macht. "
+   ]
+  }, 
+  {
+   "begin": "154.040", 
+   "children": [], 
+   "end": "155.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Man braucht Kontraste. "
+   ]
+  }, 
+  {
+   "begin": "155.880", 
+   "children": [], 
+   "end": "159.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Die Arbeit am Rechner braucht die Entwicklung aller Sinne. "
+   ]
+  }, 
+  {
+   "begin": "159.200", 
+   "children": [], 
+   "end": "162.480", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Denkstrukturen eben nicht nur in 0 und 1, "
+   ]
+  }, 
+  {
+   "begin": "162.480", 
+   "children": [], 
+   "end": "166.720", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "sondern vielf\u00e4ltige Arten und Weisen des Denkens. "
+   ]
+  }, 
+  {
+   "begin": "166.720", 
+   "children": [], 
+   "end": "167.320", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Und, "
+   ]
+  }, 
+  {
+   "begin": "167.320", 
+   "children": [], 
+   "end": "167.960", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren: "
+   ]
+  }, 
+  {
+   "begin": "167.960", 
+   "children": [], 
+   "end": "169.480", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Medienkompetenz hei\u00dft auch, "
+   ]
+  }, 
+  {
+   "begin": "169.480", 
+   "children": [], 
+   "end": "170.920", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "ausschalten zu k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "170.920", 
+   "children": [], 
+   "end": "178.120", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Nicht zuletzt brauchen junge Menschen Kenntnis und Achtsamkeit, "
+   ]
+  }, 
+  {
+   "begin": "178.120", 
+   "children": [], 
+   "end": "182.880", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "was mit ihren Daten passiert und wie man sich sch\u00fctzen kann und muss."
+   ]
+  }, 
+  {
+   "begin": "182.880", 
+   "children": [], 
+   "end": "185.360", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Aber das Problem in Deutschland derzeit ist: "
+   ]
+  }, 
+  {
+   "begin": "185.360", 
+   "children": [], 
+   "end": "187.120", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Junge Leute wollen endlich loslegen, "
+   ]
+  }, 
+  {
+   "begin": "187.120", 
+   "children": [], 
+   "end": "189.280", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "sind ausgehungert und nehmen demzufolge, "
+   ]
+  }, 
+  {
+   "begin": "189.280", 
+   "children": [], 
+   "end": "190.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "was sie kriegen k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "190.520", 
+   "children": [], 
+   "end": "195.800", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Also kommen logischerweise Apple und Microsoft und bieten eigene Hard- "
+   ]
+  }, 
+  {
+   "begin": "195.800", 
+   "children": [], 
+   "end": "196.560", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "und Software an, "
+   ]
+  }, 
+  {
+   "begin": "196.560", 
+   "children": [], 
+   "end": "198.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "meistens geschlossene Systeme\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "198.480", 
+   "children": [], 
+   "end": "199.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "und dann erkl\u00e4ren Sie einmal den Leuten, "
+   ]
+  }, 
+  {
+   "begin": "199.840", 
+   "children": [], 
+   "end": "202.600", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "warum das keine so gute Idee ist: "
+   ]
+  }, 
+  {
+   "begin": "202.600", 
+   "children": [], 
+   "end": "209.440", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "weil man auf diese Art und Weise bestenfalls nutzerorientierte Anwenderkompetenzen entwickelt, "
+   ]
+  }, 
+  {
+   "begin": "209.440", 
+   "children": [], 
+   "end": "214.480", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "aber keine selbstbestimmten vielf\u00e4ltigen Medienkompetenzen."
+   ]
+  }, 
+  {
+   "begin": "214.480", 
+   "children": [], 
+   "end": "219.600", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Auch die Gefahren digitaler Spaltung m\u00fcssen wir im Blick haben. "
+   ]
+  }, 
+  {
+   "begin": "219.600", 
+   "children": [], 
+   "end": "224.400", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Das ist nat\u00fcrlich zun\u00e4chst eine Frage der technischen Ausr\u00fcstung: "
+   ]
+  }, 
+  {
+   "begin": "224.400", 
+   "children": [], 
+   "end": "227.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "K\u00f6nnen sich Familien ein leistungsstarkes Ger\u00e4t leisten? "
+   ]
+  }, 
+  {
+   "begin": "227.200", 
+   "children": [], 
+   "end": "231.200", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "K\u00f6nnen sie sich einen guten Internetanschluss leisten? "
+   ]
+  }, 
+  {
+   "begin": "231.200", 
+   "children": [], 
+   "end": "233.720", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Aber gleicherma\u00dfen m\u00fcssen wir im Blick haben, "
+   ]
+  }, 
+  {
+   "begin": "233.720", 
+   "children": [], 
+   "end": "235.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "alle Kinder mitzunehmen, "
+   ]
+  }, 
+  {
+   "begin": "235.080", 
+   "children": [], 
+   "end": "240.040", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "auch die Kinder aus den sogenannten schwer erreichbaren Familien."
+   ]
+  }, 
+  {
+   "begin": "240.040", 
+   "children": [], 
+   "end": "249.720", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Digitale Bildungsangebote sind und bleiben Werkzeuge. "
+   ]
+  }, 
+  {
+   "begin": "249.720", 
+   "children": [], 
+   "end": "251.200", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Die entscheidende Frage ist: "
+   ]
+  }, 
+  {
+   "begin": "251.200", 
+   "children": [], 
+   "end": "254.320", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Was fangen wir mit diesen Werkzeugen an? "
+   ]
+  }, 
+  {
+   "begin": "254.320", 
+   "children": [], 
+   "end": "254.800", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Uns, "
+   ]
+  }, 
+  {
+   "begin": "254.800", 
+   "children": [], 
+   "end": "255.360", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "der Linken, "
+   ]
+  }, 
+  {
+   "begin": "255.360", 
+   "children": [], 
+   "end": "260.480", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "geht es dabei vor allem um den Abbau sozialer Ungerechtigkeit, "
+   ]
+  }, 
+  {
+   "begin": "260.480", 
+   "children": [], 
+   "end": "263.040", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "um mehr demokratische Teilhabe, "
+   ]
+  }, 
+  {
+   "begin": "263.040", 
+   "children": [], 
+   "end": "266.760", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "um mehr Demokratie und um Geschlechtergerechtigkeit. "
+   ]
+  }, 
+  {
+   "begin": "266.760", 
+   "children": [], 
+   "end": "269.760", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland ist ein digitales Entwicklungsland. "
+   ]
+  }, 
+  {
+   "begin": "269.760", 
+   "children": [], 
+   "end": "273.600", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Momentan ist die Bundesregierung noch Ank\u00fcndigungsweltmeisterin. "
+   ]
+  }, 
+  {
+   "begin": "273.600", 
+   "children": [], 
+   "end": "275.360", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Der Bundesbildungshaushalt ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "275.360", 
+   "children": [], 
+   "end": "278.360", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "das haben bereits mehrere vor mir gesagt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "278.360", 
+   "children": [], 
+   "end": "282.480", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "noch weitgehend eine Nullnummer. "
+   ]
+  }, 
+  {
+   "begin": "282.480", 
+   "children": [], 
+   "end": "285.000", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Das darf nicht so bleiben. "
+   ]
+  }, 
+  {
+   "begin": "285.000", 
+   "children": [], 
+   "end": "292.400", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Machen Sie sich endlich auf die Str\u00fcmpfe!"
+   ]
+  }, 
+  {
+   "begin": "292.400", 
+   "children": [], 
+   "end": "297.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen hat das Wort die Kollegin Margit Stumpp."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,934 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "7.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "7.760", 
+   "children": [], 
+   "end": "8.640", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Altmaier! "
+   ]
+  }, 
+  {
+   "begin": "8.640", 
+   "children": [], 
+   "end": "12.160", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.160", 
+   "children": [], 
+   "end": "16.040", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Haushaltspolitik ist immer ein Spiegel von politischen Priorit\u00e4ten. "
+   ]
+  }, 
+  {
+   "begin": "16.040", 
+   "children": [], 
+   "end": "20.280", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Klimaschutz geh\u00f6rt eindeutig nicht zu den Priorit\u00e4ten dieser Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "20.280", 
+   "children": [], 
+   "end": "24.160", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "und er spielt auch in Ihrem Haushaltsentwurf keine nennenswerte Rolle. "
+   ]
+  }, 
+  {
+   "begin": "24.160", 
+   "children": [], 
+   "end": "29.200", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Auch der Energieminister hat in seiner Rede kaum etwas Substanzielles dazu gesagt. "
+   ]
+  }, 
+  {
+   "begin": "29.200", 
+   "children": [], 
+   "end": "35.400", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Die Klimaschutzziele sind nur mit Energiesparen und dem Umstieg auf erneuerbare Energien zu erreichen. "
+   ]
+  }, 
+  {
+   "begin": "35.400", 
+   "children": [], 
+   "end": "37.040", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt auch der W\u00e4rmesektor. "
+   ]
+  }, 
+  {
+   "begin": "37.040", 
+   "children": [], 
+   "end": "40.720", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Das erz\u00e4hlen hier alle an diesem Pult seit Jahren."
+   ]
+  }, 
+  {
+   "begin": "40.720", 
+   "children": [], 
+   "end": "42.400", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Aber ich bin es wirklich leid, "
+   ]
+  }, 
+  {
+   "begin": "42.400", 
+   "children": [], 
+   "end": "45.080", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "diese Schaufensterreden von Ihnen zu h\u00f6ren."
+   ]
+  }, 
+  {
+   "begin": "45.080", 
+   "children": [], 
+   "end": "50.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag haben Sie noch versprochen, "
+   ]
+  }, 
+  {
+   "begin": "50.960", 
+   "children": [], 
+   "end": "56.000", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die energetische Sanierung von Geb\u00e4uden endlich steuerlich zu f\u00f6rdern. "
+   ]
+  }, 
+  {
+   "begin": "56.000", 
+   "children": [], 
+   "end": "59.600", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Nur findet sich daf\u00fcr im Haushaltsentwurf keine Gegenfinanzierung. "
+   ]
+  }, 
+  {
+   "begin": "59.600", 
+   "children": [], 
+   "end": "64.520", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Das Projekt wird von der Regierung also wieder mal auf den Sankt-Nimmerleins-Tag verschoben. "
+   ]
+  }, 
+  {
+   "begin": "64.520", 
+   "children": [], 
+   "end": "68.840", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Ich f\u00fchle mich ein bisschen wie bei \u201eUnd t\u00e4glich gr\u00fc\u00dft das Murmeltier\u201c. "
+   ]
+  }, 
+  {
+   "begin": "68.840", 
+   "children": [], 
+   "end": "71.400", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Seit Jahren h\u00f6ren wir hier von Ihnen die gleichen Reden: "
+   ]
+  }, 
+  {
+   "begin": "71.400", 
+   "children": [], 
+   "end": "75.040", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "\u201eMan m\u00fcsste mal ...\u201c oder \u201eWir wollen mal pr\u00fcfen ...\u201c.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "75.040", 
+   "children": [], 
+   "end": "75.840", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Verdammt noch mal: "
+   ]
+  }, 
+  {
+   "begin": "75.840", 
+   "children": [], 
+   "end": "77.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Handeln Sie doch endlich! "
+   ]
+  }, 
+  {
+   "begin": "77.440", 
+   "children": [], 
+   "end": "82.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Das ist unsere Aufgabe hier als Parlament."
+   ]
+  }, 
+  {
+   "begin": "82.760", 
+   "children": [], 
+   "end": "84.520", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag steht au\u00dferdem, "
+   ]
+  }, 
+  {
+   "begin": "84.520", 
+   "children": [], 
+   "end": "89.640", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Sie n\u00e4hmen die Vorbildfunktion der \u00f6ffentlichen Hand bei den Bundesimmobilien ernst. "
+   ]
+  }, 
+  {
+   "begin": "89.640", 
+   "children": [], 
+   "end": "95.040", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Sie wollen einen Energetischen Sanierungsfahrplan Bundesliegenschaften beschlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "95.040", 
+   "children": [], 
+   "end": "95.680", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Ups, "
+   ]
+  }, 
+  {
+   "begin": "95.680", 
+   "children": [], 
+   "end": "97.280", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "das habe ich doch schon mal geh\u00f6rt. "
+   ]
+  }, 
+  {
+   "begin": "97.280", 
+   "children": [], 
+   "end": "99.480", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Das klingt ziemlich nach Murmeltiertag; "
+   ]
+  }, 
+  {
+   "begin": "99.480", 
+   "children": [], 
+   "end": "105.400", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "denn vor drei Jahren hat die Bundesregierung uns Gr\u00fcnen auf eine Kleine Anfrage geantwortet, "
+   ]
+  }, 
+  {
+   "begin": "105.400", 
+   "children": [], 
+   "end": "109.880", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass sie diesen Energetischen Sanierungsfahrplan Bundesliegenschaften umsetzen will. "
+   ]
+  }, 
+  {
+   "begin": "109.880", 
+   "children": [], 
+   "end": "110.440", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Wie? "
+   ]
+  }, 
+  {
+   "begin": "110.440", 
+   "children": [], 
+   "end": "111.640", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Echt jetzt? "
+   ]
+  }, 
+  {
+   "begin": "111.640", 
+   "children": [], 
+   "end": "112.960", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Wollen reicht aber nicht. "
+   ]
+  }, 
+  {
+   "begin": "112.960", 
+   "children": [], 
+   "end": "114.040", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Tun Sie es endlich!"
+   ]
+  }, 
+  {
+   "begin": "114.040", 
+   "children": [], 
+   "end": "115.400", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ich gebe Ihnen mal einen Tipp, "
+   ]
+  }, 
+  {
+   "begin": "115.400", 
+   "children": [], 
+   "end": "116.840", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Herr Altmaier: "
+   ]
+  }, 
+  {
+   "begin": "116.840", 
+   "children": [], 
+   "end": "120.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen in Ihrem Ministerium nur die Schublade aufmachen, "
+   ]
+  }, 
+  {
+   "begin": "120.920", 
+   "children": [], 
+   "end": "125.360", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "in der dieser Sanierungsfahrplan f\u00fcr die Bundesimmobilien liegt, "
+   ]
+  }, 
+  {
+   "begin": "125.360", 
+   "children": [], 
+   "end": "127.440", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "und dann m\u00fcssen Sie es anpacken. "
+   ]
+  }, 
+  {
+   "begin": "127.440", 
+   "children": [], 
+   "end": "130.040", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Dann m\u00fcssen Sie allerdings auch Geld daf\u00fcr in den Haushalt einstellen; "
+   ]
+  }, 
+  {
+   "begin": "130.040", 
+   "children": [], 
+   "end": "132.360", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "aber davon sehe ich hier nichts. "
+   ]
+  }, 
+  {
+   "begin": "132.360", 
+   "children": [], 
+   "end": "133.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Liebe GroKo, "
+   ]
+  }, 
+  {
+   "begin": "133.640", 
+   "children": [], 
+   "end": "135.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "falls Sie es noch nicht wussten: "
+   ]
+  }, 
+  {
+   "begin": "135.520", 
+   "children": [], 
+   "end": "137.160", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Machen ist wie wollen, "
+   ]
+  }, 
+  {
+   "begin": "137.160", 
+   "children": [], 
+   "end": "139.040", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "nur viel krasser."
+   ]
+  }, 
+  {
+   "begin": "139.040", 
+   "children": [], 
+   "end": "139.400", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcberhaupt, "
+   ]
+  }, 
+  {
+   "begin": "139.400", 
+   "children": [], 
+   "end": "144.560", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Stichwort \u201eKoalitionsvertrag\u201c: "
+   ]
+  }, 
+  {
+   "begin": "144.560", 
+   "children": [], 
+   "end": "147.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Er schien nichts mehr wert zu sein, "
+   ]
+  }, 
+  {
+   "begin": "147.160", 
+   "children": [], 
+   "end": "149.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "als die Tinte darunter noch nicht mal trocken war. "
+   ]
+  }, 
+  {
+   "begin": "149.760", 
+   "children": [], 
+   "end": "154.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Da wollte die Union schon nichts mehr h\u00f6ren vom zus\u00e4tzlichen Ausbau von Wind- "
+   ]
+  }, 
+  {
+   "begin": "154.920", 
+   "children": [], 
+   "end": "156.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "und Sonnenstrom. "
+   ]
+  }, 
+  {
+   "begin": "156.000", 
+   "children": [], 
+   "end": "156.960", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Wie, "
+   ]
+  }, 
+  {
+   "begin": "156.960", 
+   "children": [], 
+   "end": "158.200", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Sonderausschreibung? "
+   ]
+  }, 
+  {
+   "begin": "158.200", 
+   "children": [], 
+   "end": "158.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "N\u00f6, "
+   ]
+  }, 
+  {
+   "begin": "158.760", 
+   "children": [], 
+   "end": "160.240", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "so war das ja nicht gemeint. "
+   ]
+  }, 
+  {
+   "begin": "160.240", 
+   "children": [], 
+   "end": "160.600", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Mann, "
+   ]
+  }, 
+  {
+   "begin": "160.600", 
+   "children": [], 
+   "end": "162.440", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "das finde ich sch\u00e4big und verlogen, "
+   ]
+  }, 
+  {
+   "begin": "162.440", 
+   "children": [], 
+   "end": "163.600", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "was Sie da treiben."
+   ]
+  }, 
+  {
+   "begin": "163.600", 
+   "children": [], 
+   "end": "172.320", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Anstatt CO 2 endlich einen angemessenen Preis zu geben und umweltsch\u00e4dliche Subventionen abzubauen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "172.320", 
+   "children": [], 
+   "end": "174.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "50\u00a0Milliarden Euro sind das insgesamt\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "174.360", 
+   "children": [], 
+   "end": "177.080", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "belohnen Sie klimasch\u00e4dliches Verhalten sogar. "
+   ]
+  }, 
+  {
+   "begin": "177.080", 
+   "children": [], 
+   "end": "180.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Noch immer geben Sie jedes Jahr Millionen Euro daf\u00fcr aus, "
+   ]
+  }, 
+  {
+   "begin": "180.560", 
+   "children": [], 
+   "end": "181.440", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "alte \u00d6l- "
+   ]
+  }, 
+  {
+   "begin": "181.440", 
+   "children": [], 
+   "end": "183.880", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "und Gasheizungen durch neue zu ersetzen. "
+   ]
+  }, 
+  {
+   "begin": "183.880", 
+   "children": [], 
+   "end": "187.640", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Diese neuen Heizungen laufen dann 20 oder 30\u00a0Jahre, "
+   ]
+  }, 
+  {
+   "begin": "187.640", 
+   "children": [], 
+   "end": "189.840", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "bis sie das n\u00e4chste Mal ausgetauscht werden. "
+   ]
+  }, 
+  {
+   "begin": "189.840", 
+   "children": [], 
+   "end": "194.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Damit zementieren Sie eine fossile Dinosauriertechnik f\u00fcr weitere Jahrzehnte. "
+   ]
+  }, 
+  {
+   "begin": "194.480", 
+   "children": [], 
+   "end": "201.400", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Beenden Sie endlich diese Subventionspolitik f\u00fcr Klimakiller!"
+   ]
+  }, 
+  {
+   "begin": "201.400", 
+   "children": [], 
+   "end": "203.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Die Quittung f\u00fcr Ihre verfehlte Haushalts- "
+   ]
+  }, 
+  {
+   "begin": "203.760", 
+   "children": [], 
+   "end": "205.680", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "und Klimapolitik ist fatal. "
+   ]
+  }, 
+  {
+   "begin": "205.680", 
+   "children": [], 
+   "end": "210.240", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Die Treibhausgasemissionen sind auf demselben Niveau wie vor acht Jahren. "
+   ]
+  }, 
+  {
+   "begin": "210.240", 
+   "children": [], 
+   "end": "217.520", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Seit sechs Jahren stagniert der Anteil der Erneuerbaren im W\u00e4rmesektor bei mickrigen 13\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "217.520", 
+   "children": [], 
+   "end": "219.000", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wissen Sie was? "
+   ]
+  }, 
+  {
+   "begin": "219.000", 
+   "children": [], 
+   "end": "225.800", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "In der EU ist Deutschland damit inzwischen auf Platz\u00a022 abgest\u00fcrzt, "
+   ]
+  }, 
+  {
+   "begin": "225.800", 
+   "children": [], 
+   "end": "227.800", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "was den Anteil der erneuerbaren W\u00e4rme angeht. "
+   ]
+  }, 
+  {
+   "begin": "227.800", 
+   "children": [], 
+   "end": "229.520", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein Desaster. "
+   ]
+  }, 
+  {
+   "begin": "229.520", 
+   "children": [], 
+   "end": "231.960", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Sie machen sich nur noch l\u00e4cherlich, "
+   ]
+  }, 
+  {
+   "begin": "231.960", 
+   "children": [], 
+   "end": "236.840", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie international weiter vom Energiewendevorreiter Deutschland schwadronieren. "
+   ]
+  }, 
+  {
+   "begin": "236.840", 
+   "children": [], 
+   "end": "239.320", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Das verstehen die anderen inzwischen sehr gut."
+   ]
+  }, 
+  {
+   "begin": "239.320", 
+   "children": [], 
+   "end": "241.120", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Andere L\u00e4nder machen n\u00e4mlich vor, "
+   ]
+  }, 
+  {
+   "begin": "241.120", 
+   "children": [], 
+   "end": "242.000", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "wie es geht. "
+   ]
+  }, 
+  {
+   "begin": "242.000", 
+   "children": [], 
+   "end": "245.760", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "In D\u00e4nemark d\u00fcrfen l\u00e4ngst keine neuen \u00d6lheizungen mehr eingebaut werden, "
+   ]
+  }, 
+  {
+   "begin": "245.760", 
+   "children": [], 
+   "end": "250.040", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "und die Niederlande wollen beim Neubau noch nicht mal mehr Erdgasheizung zulassen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "250.040", 
+   "children": [], 
+   "end": "253.880", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "und das als das bisher gr\u00f6\u00dfte Gasf\u00f6rderland der EU."
+   ]
+  }, 
+  {
+   "begin": "253.880", 
+   "children": [], 
+   "end": "261.320", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wie wollen Sie eigentlich die verbindlichen EU-Ziele f\u00fcr Treibhausgasminderung und Erneuerbare bis 2020 noch erreichen? "
+   ]
+  }, 
+  {
+   "begin": "261.320", 
+   "children": [], 
+   "end": "266.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Mit diesem Haushalt ohne Zukunft schaffen Sie den Umstieg auf Klimaschutz jedenfalls nicht. "
+   ]
+  }, 
+  {
+   "begin": "266.640", 
+   "children": [], 
+   "end": "268.280", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Schalten Sie endlich um: "
+   ]
+  }, 
+  {
+   "begin": "268.280", 
+   "children": [], 
+   "end": "270.360", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "von Vergangenheit auf Zukunft! "
+   ]
+  }, 
+  {
+   "begin": "270.360", 
+   "children": [], 
+   "end": "273.080", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Ich habe echt keinen Bock mehr auf Murmeltiertag."
+   ]
+  }, 
+  {
+   "begin": "273.080", 
+   "children": [], 
+   "end": "278.160", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "278.160", 
+   "children": [], 
+   "end": "279.640", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Julia Verlinden.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "279.640", 
+   "children": [], 
+   "end": "280.960", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner: "
+   ]
+  }, 
+  {
+   "begin": "280.960", 
+   "children": [], 
+   "end": "286.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Joachim Pfeiffer f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,604 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "6.200", 
+   "children": [], 
+   "end": "7.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "7.680", 
+   "children": [], 
+   "end": "9.320", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste auf der Trib\u00fcne! "
+   ]
+  }, 
+  {
+   "begin": "9.320", 
+   "children": [], 
+   "end": "14.000", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die Schlussrunde der ersten Lesung des Bundeshaushalts ist tats\u00e4chlich ein guter Anlass, "
+   ]
+  }, 
+  {
+   "begin": "14.000", 
+   "children": [], 
+   "end": "15.720", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "ein Zwischenres\u00fcmee zu ziehen, "
+   ]
+  }, 
+  {
+   "begin": "15.720", 
+   "children": [], 
+   "end": "18.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "bevor es in die Beratungen geht. "
+   ]
+  }, 
+  {
+   "begin": "18.040", 
+   "children": [], 
+   "end": "22.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Der Haushalt\u00a02018 kann sich wahrhaftig sehen lassen: "
+   ]
+  }, 
+  {
+   "begin": "22.360", 
+   "children": [], 
+   "end": "28.600", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "341\u00a0Milliarden Euro hat der Bund von den Steuerzahlern erhalten, "
+   ]
+  }, 
+  {
+   "begin": "28.600", 
+   "children": [], 
+   "end": "30.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "um sie gerecht zu verteilen. "
+   ]
+  }, 
+  {
+   "begin": "30.880", 
+   "children": [], 
+   "end": "32.040", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Insgesamt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "32.040", 
+   "children": [], 
+   "end": "33.000", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "also f\u00fcr Bund, "
+   ]
+  }, 
+  {
+   "begin": "33.000", 
+   "children": [], 
+   "end": "34.400", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "L\u00e4nder und Kommunen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "34.400", 
+   "children": [], 
+   "end": "38.880", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "sind es \u00fcber 670\u00a0Milliarden Euro."
+   ]
+  }, 
+  {
+   "begin": "38.880", 
+   "children": [], 
+   "end": "39.320", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "39.320", 
+   "children": [], 
+   "end": "42.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "es ist ein guter Entwurf\u00a02018, "
+   ]
+  }, 
+  {
+   "begin": "42.000", 
+   "children": [], 
+   "end": "43.600", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "und es sind gute Vorhaben, "
+   ]
+  }, 
+  {
+   "begin": "43.600", 
+   "children": [], 
+   "end": "47.200", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die wir in dieser Legislaturperiode umsetzen wollen. "
+   ]
+  }, 
+  {
+   "begin": "47.200", 
+   "children": [], 
+   "end": "50.080", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Was allerdings in dieser Woche genervt hat, "
+   ]
+  }, 
+  {
+   "begin": "50.080", 
+   "children": [], 
+   "end": "60.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "ist das Herunterreden des guten Haushalts\u00a02018 durch die Opposition:"
+   ]
+  }, 
+  {
+   "begin": "60.560", 
+   "children": [], 
+   "end": "61.160", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Gen\u00f6rgel, "
+   ]
+  }, 
+  {
+   "begin": "61.160", 
+   "children": [], 
+   "end": "63.760", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "teilweise kleinliche Rosinenpickerei, "
+   ]
+  }, 
+  {
+   "begin": "63.760", 
+   "children": [], 
+   "end": "70.200", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "vor allem aber billiger Populismus und krude Verschw\u00f6rungstheorien von ganz rechts."
+   ]
+  }, 
+  {
+   "begin": "70.200", 
+   "children": [], 
+   "end": "74.400", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb will ich meine kurze Rede zum Anlass nehmen, "
+   ]
+  }, 
+  {
+   "begin": "74.400", 
+   "children": [], 
+   "end": "75.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "auf die Entlastungen f\u00fcr unsere Familien, "
+   ]
+  }, 
+  {
+   "begin": "75.960", 
+   "children": [], 
+   "end": "78.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "vor allem f\u00fcr Familien mit Kindern, "
+   ]
+  }, 
+  {
+   "begin": "78.200", 
+   "children": [], 
+   "end": "80.520", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "und f\u00fcr Alleinerziehende hinzuweisen, "
+   ]
+  }, 
+  {
+   "begin": "80.520", 
+   "children": [], 
+   "end": "85.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "die in den n\u00e4chsten Jahren auf uns zukommen werden. "
+   ]
+  }, 
+  {
+   "begin": "85.480", 
+   "children": [], 
+   "end": "86.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben vorhin geh\u00f6rt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "86.960", 
+   "children": [], 
+   "end": "90.080", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "ich bin Minister Olaf Scholz sehr dankbar, "
+   ]
+  }, 
+  {
+   "begin": "90.080", 
+   "children": [], 
+   "end": "92.000", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "dass er es erw\u00e4hnt hat\u00a0\u2013: "
+   ]
+  }, 
+  {
+   "begin": "92.000", 
+   "children": [], 
+   "end": "95.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Die beitragsfreie Kita wird daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "95.280", 
+   "children": [], 
+   "end": "101.960", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass Familien mit Kindern zuk\u00fcnftig um bis zu 600\u00a0Euro monatlich entlastet werden."
+   ]
+  }, 
+  {
+   "begin": "101.960", 
+   "children": [], 
+   "end": "104.920", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ein weiteres Beispiel ist das Baukindergeld. "
+   ]
+  }, 
+  {
+   "begin": "104.920", 
+   "children": [], 
+   "end": "105.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcbrigens, "
+   ]
+  }, 
+  {
+   "begin": "105.680", 
+   "children": [], 
+   "end": "106.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Frau Hajduk: "
+   ]
+  }, 
+  {
+   "begin": "106.480", 
+   "children": [], 
+   "end": "113.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Schon ab 1.\u00a0Januar 2018 wollen wir das Baukindergeld einf\u00fchren."
+   ]
+  }, 
+  {
+   "begin": "113.920", 
+   "children": [], 
+   "end": "114.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Es wird daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "114.840", 
+   "children": [], 
+   "end": "120.760", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dass Familien mit zwei Kindern um bis zu 3\u00a0600\u00a0Euro im Jahr entlastet werden. "
+   ]
+  }, 
+  {
+   "begin": "120.760", 
+   "children": [], 
+   "end": "123.200", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Das sind 300\u00a0Euro im Monat."
+   ]
+  }, 
+  {
+   "begin": "123.200", 
+   "children": [], 
+   "end": "125.680", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um die Parit\u00e4t in der Krankenversicherung. "
+   ]
+  }, 
+  {
+   "begin": "125.680", 
+   "children": [], 
+   "end": "130.840", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Wenn wir die Parit\u00e4t in der Krankenversicherung wiederherstellen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "130.840", 
+   "children": [], 
+   "end": "133.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "das wollen wir zum 1.\u00a0Januar 2019 tun\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "133.640", 
+   "children": [], 
+   "end": "142.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "dann bedeutet das eine Entlastung der Arbeitnehmerinnen und Arbeitnehmer zwischen 10 und 30\u00a0Euro monatlich."
+   ]
+  }, 
+  {
+   "begin": "142.440", 
+   "children": [], 
+   "end": "145.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um die Selbstst\u00e4ndigen mit kleinen Einkommen, "
+   ]
+  }, 
+  {
+   "begin": "145.880", 
+   "children": [], 
+   "end": "147.520", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "die wir zuk\u00fcnftig\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "147.520", 
+   "children": [], 
+   "end": "152.280", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "hoffentlich auch dies ab 1.\u00a0Januar 2019\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "152.280", 
+   "children": [], 
+   "end": "156.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "um bis zu 170\u00a0Euro entlasten werden."
+   ]
+  }, 
+  {
+   "begin": "156.720", 
+   "children": [], 
+   "end": "162.440", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um die Steigerung des Kindergeldes um 25\u00a0Euro monatlich, "
+   ]
+  }, 
+  {
+   "begin": "162.440", 
+   "children": [], 
+   "end": "166.600", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "die hoffentlich auch schon 2019 erfolgen wird. "
+   ]
+  }, 
+  {
+   "begin": "166.600", 
+   "children": [], 
+   "end": "168.440", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Und es geht um den Abbau des Soli."
+   ]
+  }, 
+  {
+   "begin": "168.440", 
+   "children": [], 
+   "end": "170.400", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man das alles zusammenrechnet, "
+   ]
+  }, 
+  {
+   "begin": "170.400", 
+   "children": [], 
+   "end": "174.760", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dann kommt man auf mehrere Hundert Euro Entlastung f\u00fcr unsere Familien, "
+   ]
+  }, 
+  {
+   "begin": "174.760", 
+   "children": [], 
+   "end": "178.960", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr unsere Familien mit Kindern und auch f\u00fcr die Alleinerziehenden."
+   ]
+  }, 
+  {
+   "begin": "178.960", 
+   "children": [], 
+   "end": "182.960", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet tats\u00e4chlich viel mehr Geld im Portemonnaie."
+   ]
+  }, 
+  {
+   "begin": "182.960", 
+   "children": [], 
+   "end": "184.480", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Insofern finde ich, "
+   ]
+  }, 
+  {
+   "begin": "184.480", 
+   "children": [], 
+   "end": "186.400", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "wir haben einen ordentlichen Entwurf, "
+   ]
+  }, 
+  {
+   "begin": "186.400", 
+   "children": [], 
+   "end": "189.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "den wir in den n\u00e4chsten Wochen beraten werden. "
+   ]
+  }, 
+  {
+   "begin": "189.520", 
+   "children": [], 
+   "end": "192.080", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich auf die Beratungen und auf die guten Ergebnisse."
+   ]
+  }, 
+  {
+   "begin": "192.080", 
+   "children": [], 
+   "end": "198.640", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "198.640", 
+   "children": [], 
+   "end": "201.720", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Das Wort hat der Kollege Sebastian Brehm f\u00fcr die CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

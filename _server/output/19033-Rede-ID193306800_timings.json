@@ -1,0 +1,1464 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.280", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.280", 
+   "children": [], 
+   "end": "8.840", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Ministerin! "
+   ]
+  }, 
+  {
+   "begin": "8.840", 
+   "children": [], 
+   "end": "12.200", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "12.200", 
+   "children": [], 
+   "end": "14.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "children": [], 
+   "end": "17.040", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man die Debatte heute verfolgt hat, "
+   ]
+  }, 
+  {
+   "begin": "17.040", 
+   "children": [], 
+   "end": "17.560", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "konnte man h\u00f6ren, "
+   ]
+  }, 
+  {
+   "begin": "17.560", 
+   "children": [], 
+   "end": "22.360", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "wie schlecht unsere Familienpolitik sein soll und wie schlecht die Priorit\u00e4ten waren, "
+   ]
+  }, 
+  {
+   "begin": "22.360", 
+   "children": [], 
+   "end": "26.160", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die in den letzten Jahren gesetzt worden sind. "
+   ]
+  }, 
+  {
+   "begin": "26.160", 
+   "children": [], 
+   "end": "30.040", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Angesichts dessen will ich darauf hinweisen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "30.040", 
+   "children": [], 
+   "end": "31.080", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "das ist nicht ganz unwichtig\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "31.080", 
+   "children": [], 
+   "end": "34.960", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "dass in Deutschland wieder mehr Kinder geboren werden. "
+   ]
+  }, 
+  {
+   "begin": "34.960", 
+   "children": [], 
+   "end": "37.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Die Geburtenrate ist gestiegen, "
+   ]
+  }, 
+  {
+   "begin": "37.000", 
+   "children": [], 
+   "end": "38.520", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "und sie steigt weiter. "
+   ]
+  }, 
+  {
+   "begin": "38.520", 
+   "children": [], 
+   "end": "41.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Das klingt heute so selbstverst\u00e4ndlich, "
+   ]
+  }, 
+  {
+   "begin": "41.200", 
+   "children": [], 
+   "end": "42.880", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "ist es aber l\u00e4ngst nicht."
+   ]
+  }, 
+  {
+   "begin": "42.880", 
+   "children": [], 
+   "end": "45.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man einen Blick auf die Zahlen wirft, "
+   ]
+  }, 
+  {
+   "begin": "45.640", 
+   "children": [], 
+   "end": "46.680", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "stellt man fest: "
+   ]
+  }, 
+  {
+   "begin": "46.680", 
+   "children": [], 
+   "end": "52.320", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "So viele Kinder wie heute kamen zuletzt in den 70er-Jahren in Deutschland auf die Welt. "
+   ]
+  }, 
+  {
+   "begin": "52.320", 
+   "children": [], 
+   "end": "54.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eine tolle Entwicklung, "
+   ]
+  }, 
+  {
+   "begin": "54.920", 
+   "children": [], 
+   "end": "55.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und das nicht nur deshalb, "
+   ]
+  }, 
+  {
+   "begin": "55.600", 
+   "children": [], 
+   "end": "64.080", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "weil unsere Sozialsysteme auch zuk\u00fcnftig Beitragszahler brauchen und weil wir in den n\u00e4chsten Jahrzehnten eine Vielzahl an Fachkr\u00e4ften brauchen werden. "
+   ]
+  }, 
+  {
+   "begin": "64.080", 
+   "children": [], 
+   "end": "64.880", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Nein, "
+   ]
+  }, 
+  {
+   "begin": "64.880", 
+   "children": [], 
+   "end": "68.960", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Kinder sind ein Geschenk f\u00fcr jedes Paar und im \u00dcbrigen auch f\u00fcr unsere Gesellschaft. "
+   ]
+  }, 
+  {
+   "begin": "68.960", 
+   "children": [], 
+   "end": "71.520", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wir als Union m\u00f6chten alles daf\u00fcr tun, "
+   ]
+  }, 
+  {
+   "begin": "71.520", 
+   "children": [], 
+   "end": "73.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "dass sich noch mehr Paare entscheiden, "
+   ]
+  }, 
+  {
+   "begin": "73.680", 
+   "children": [], 
+   "end": "75.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Kinder zu bekommen."
+   ]
+  }, 
+  {
+   "begin": "75.160", 
+   "children": [], 
+   "end": "78.960", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Was hei\u00dft das konkret? "
+   ]
+  }, 
+  {
+   "begin": "78.960", 
+   "children": [], 
+   "end": "81.200", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt vor allem, "
+   ]
+  }, 
+  {
+   "begin": "81.200", 
+   "children": [], 
+   "end": "84.000", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "dass wir gemeinsam weiter daran arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "84.000", 
+   "children": [], 
+   "end": "86.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "den Alltag von Familien zu erleichtern. "
+   ]
+  }, 
+  {
+   "begin": "86.760", 
+   "children": [], 
+   "end": "90.280", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Beruf und Familie m\u00fcssen gut miteinander vereinbar sein. "
+   ]
+  }, 
+  {
+   "begin": "90.280", 
+   "children": [], 
+   "end": "94.760", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die finanzielle Belastung f\u00fcr eine Familie darf nicht zu hoch sein, "
+   ]
+  }, 
+  {
+   "begin": "94.760", 
+   "children": [], 
+   "end": "99.680", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "und die Kinder m\u00fcssen gut betreut und ausgebildet werden."
+   ]
+  }, 
+  {
+   "begin": "99.680", 
+   "children": [], 
+   "end": "105.560", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die Ministerin und auch meine Vorredner haben die wichtigsten Ma\u00dfnahmen f\u00fcr diesen Haushalt bereits genannt:"
+   ]
+  }, 
+  {
+   "begin": "105.560", 
+   "children": [], 
+   "end": "109.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Wir stellen 3,5\u00a0Milliarden Euro f\u00fcr eine Qualit\u00e4tsoffensive an den Kitas zur Verf\u00fcgung. "
+   ]
+  }, 
+  {
+   "begin": "109.520", 
+   "children": [], 
+   "end": "110.800", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ich will das noch mal ganz deutlich sagen: "
+   ]
+  }, 
+  {
+   "begin": "110.800", 
+   "children": [], 
+   "end": "112.400", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein gro\u00dfer Schritt, "
+   ]
+  }, 
+  {
+   "begin": "112.400", 
+   "children": [], 
+   "end": "115.040", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "und wir sollten das hier auch nicht kleinreden. "
+   ]
+  }, 
+  {
+   "begin": "115.040", 
+   "children": [], 
+   "end": "120.200", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden das Thema nur gemeinsam mit den L\u00e4ndern und Kommunen angehen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "120.200", 
+   "children": [], 
+   "end": "121.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "und wir glauben, "
+   ]
+  }, 
+  {
+   "begin": "121.280", 
+   "children": [], 
+   "end": "124.440", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "dass das ein gro\u00dfer Schritt in die richtige Richtung ist."
+   ]
+  }, 
+  {
+   "begin": "124.440", 
+   "children": [], 
+   "end": "127.560", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir geben 2\u00a0Milliarden Euro f\u00fcr die Ganztagsschulbetreuung aus. "
+   ]
+  }, 
+  {
+   "begin": "127.560", 
+   "children": [], 
+   "end": "131.800", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Hinzu kommen finanzielle Verbesserungen f\u00fcr jede einzelne Familie, "
+   ]
+  }, 
+  {
+   "begin": "131.800", 
+   "children": [], 
+   "end": "135.000", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "wie zum Beispiel die Erh\u00f6hung des Kindergeldes."
+   ]
+  }, 
+  {
+   "begin": "135.000", 
+   "children": [], 
+   "end": "137.960", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Dabei steht f\u00fcr uns ein Prinzip im Vordergrund, "
+   ]
+  }, 
+  {
+   "begin": "137.960", 
+   "children": [], 
+   "end": "141.080", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "auf das ich heute auch noch einmal eingehen m\u00f6chte, "
+   ]
+  }, 
+  {
+   "begin": "141.080", 
+   "children": [], 
+   "end": "142.760", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich die Wahlfreiheit. "
+   ]
+  }, 
+  {
+   "begin": "142.760", 
+   "children": [], 
+   "end": "146.600", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wahlfreiheit bedeutet in der Familienpolitik f\u00fcr uns: "
+   ]
+  }, 
+  {
+   "begin": "146.600", 
+   "children": [], 
+   "end": "149.760", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Der Staat gibt kein Erziehungsmodell vor, "
+   ]
+  }, 
+  {
+   "begin": "149.760", 
+   "children": [], 
+   "end": "151.600", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "sondern erm\u00f6glicht es den Familien, "
+   ]
+  }, 
+  {
+   "begin": "151.600", 
+   "children": [], 
+   "end": "153.120", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "ihr Leben so zu leben, "
+   ]
+  }, 
+  {
+   "begin": "153.120", 
+   "children": [], 
+   "end": "155.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wie sie es m\u00f6chten."
+   ]
+  }, 
+  {
+   "begin": "155.320", 
+   "children": [], 
+   "end": "161.160", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Ich erlebe folgende Diskussion in dem Zusammenhang immer wieder: "
+   ]
+  }, 
+  {
+   "begin": "161.160", 
+   "children": [], 
+   "end": "162.120", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt die einen, "
+   ]
+  }, 
+  {
+   "begin": "162.120", 
+   "children": [], 
+   "end": "162.680", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die sagen: "
+   ]
+  }, 
+  {
+   "begin": "162.680", 
+   "children": [], 
+   "end": "163.440", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Wie kann es sein, "
+   ]
+  }, 
+  {
+   "begin": "163.440", 
+   "children": [], 
+   "end": "165.480", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "dass die Kita schon um 17\u00a0Uhr zumacht, "
+   ]
+  }, 
+  {
+   "begin": "165.480", 
+   "children": [], 
+   "end": "168.200", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "freitags vielleicht sogar schon deutlich fr\u00fcher? "
+   ]
+  }, 
+  {
+   "begin": "168.200", 
+   "children": [], 
+   "end": "170.880", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssten doch eigentlich bis 20\u00a0Uhr aufhaben, "
+   ]
+  }, 
+  {
+   "begin": "170.880", 
+   "children": [], 
+   "end": "171.680", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "gerade, "
+   ]
+  }, 
+  {
+   "begin": "171.680", 
+   "children": [], 
+   "end": "174.120", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "wenn ich im Schichtdienst arbeite.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "174.120", 
+   "children": [], 
+   "end": "175.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Andere entgegnen dann emp\u00f6rt: "
+   ]
+  }, 
+  {
+   "begin": "175.840", 
+   "children": [], 
+   "end": "177.240", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Was sind das f\u00fcr Rabeneltern? "
+   ]
+  }, 
+  {
+   "begin": "177.240", 
+   "children": [], 
+   "end": "180.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "In den ersten drei Jahren geh\u00f6rt das Kind nach Hause, "
+   ]
+  }, 
+  {
+   "begin": "180.520", 
+   "children": [], 
+   "end": "182.200", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "zu den Eltern."
+   ]
+  }, 
+  {
+   "begin": "182.200", 
+   "children": [], 
+   "end": "182.880", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "182.880", 
+   "children": [], 
+   "end": "187.120", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dass es f\u00fcr Zweij\u00e4hrige ein verdammt langer Tag in der Kita sein kann, "
+   ]
+  }, 
+  {
+   "begin": "187.120", 
+   "children": [], 
+   "end": "190.680", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wenn sie von 7.30\u00a0Uhr bis 16.30\u00a0Uhr dort sind. "
+   ]
+  }, 
+  {
+   "begin": "190.680", 
+   "children": [], 
+   "end": "192.040", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ich wei\u00df aber auch, "
+   ]
+  }, 
+  {
+   "begin": "192.040", 
+   "children": [], 
+   "end": "197.960", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "dass man jedes Kind individuell betrachten sollte und dass Kinder damit ganz unterschiedlich klarkommen. "
+   ]
+  }, 
+  {
+   "begin": "197.960", 
+   "children": [], 
+   "end": "200.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Wir glauben immer noch daran, "
+   ]
+  }, 
+  {
+   "begin": "200.360", 
+   "children": [], 
+   "end": "202.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "dass Eltern in summa am besten wissen, "
+   ]
+  }, 
+  {
+   "begin": "202.400", 
+   "children": [], 
+   "end": "204.320", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "was f\u00fcr ihr Kind gut ist."
+   ]
+  }, 
+  {
+   "begin": "204.320", 
+   "children": [], 
+   "end": "206.640", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Tatsache ist auch, "
+   ]
+  }, 
+  {
+   "begin": "206.640", 
+   "children": [], 
+   "end": "208.120", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass viel mehr Eltern\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "208.120", 
+   "children": [], 
+   "end": "209.960", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "denken Sie nur an die alleinerziehende Mutter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "209.960", 
+   "children": [], 
+   "end": "211.280", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "darauf angewiesen sind, "
+   ]
+  }, 
+  {
+   "begin": "211.280", 
+   "children": [], 
+   "end": "212.920", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "ganztags zu arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "212.920", 
+   "children": [], 
+   "end": "214.600", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "und nicht jeder hat das gro\u00dfe Gl\u00fcck, "
+   ]
+  }, 
+  {
+   "begin": "214.600", 
+   "children": [], 
+   "end": "216.720", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "noch Gro\u00dfeltern um die Ecke zu haben, "
+   ]
+  }, 
+  {
+   "begin": "216.720", 
+   "children": [], 
+   "end": "217.760", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "die unterst\u00fctzen k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "217.760", 
+   "children": [], 
+   "end": "220.120", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Um das noch einmal ganz deutlich zu sagen: "
+   ]
+  }, 
+  {
+   "begin": "220.120", 
+   "children": [], 
+   "end": "221.760", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben nicht die Aufgabe, "
+   ]
+  }, 
+  {
+   "begin": "221.760", 
+   "children": [], 
+   "end": "224.040", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Eltern zu erziehen oder zu belehren. "
+   ]
+  }, 
+  {
+   "begin": "224.040", 
+   "children": [], 
+   "end": "224.880", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Eine Mutter, "
+   ]
+  }, 
+  {
+   "begin": "224.880", 
+   "children": [], 
+   "end": "226.720", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "die in Vollzeit arbeiten will, "
+   ]
+  }, 
+  {
+   "begin": "226.720", 
+   "children": [], 
+   "end": "227.800", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "muss das tun k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "227.800", 
+   "children": [], 
+   "end": "232.840", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Sie muss sich daf\u00fcr ebenso wenig rechtfertigen wie der in Vollzeit erwerbst\u00e4tige Vater. "
+   ]
+  }, 
+  {
+   "begin": "232.840", 
+   "children": [], 
+   "end": "235.360", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Dasselbe gilt f\u00fcr ein Elternteil, "
+   ]
+  }, 
+  {
+   "begin": "235.360", 
+   "children": [], 
+   "end": "240.800", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "das sich aus \u00dcberzeugung eine berufliche Auszeit von drei Jahren nimmt und sich um das Kind k\u00fcmmert. "
+   ]
+  }, 
+  {
+   "begin": "240.800", 
+   "children": [], 
+   "end": "242.320", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Wir geben keinen Weg vor, "
+   ]
+  }, 
+  {
+   "begin": "242.320", 
+   "children": [], 
+   "end": "243.400", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "und wir sollten aufh\u00f6ren, "
+   ]
+  }, 
+  {
+   "begin": "243.400", 
+   "children": [], 
+   "end": "247.320", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "immer mit dem Finger auf das jeweils andere Modell zu zeigen."
+   ]
+  }, 
+  {
+   "begin": "247.320", 
+   "children": [], 
+   "end": "252.440", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "All diese Eltern verdienen Respekt und Wertsch\u00e4tzung, "
+   ]
+  }, 
+  {
+   "begin": "252.440", 
+   "children": [], 
+   "end": "254.560", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "und alle m\u00fcssen sich darauf verlassen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "254.560", 
+   "children": [], 
+   "end": "258.080", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "die notwendigen Bedingungen hierf\u00fcr vorzufinden. "
+   ]
+  }, 
+  {
+   "begin": "258.080", 
+   "children": [], 
+   "end": "261.200", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Das verstehen wir als Union unter Wahlfreiheit, "
+   ]
+  }, 
+  {
+   "begin": "261.200", 
+   "children": [], 
+   "end": "263.120", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "und unsere Politik muss so sein, "
+   ]
+  }, 
+  {
+   "begin": "263.120", 
+   "children": [], 
+   "end": "266.120", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "dass sie die erw\u00e4hnten beiden Wege gleichberechtigt erm\u00f6glicht."
+   ]
+  }, 
+  {
+   "begin": "266.120", 
+   "children": [], 
+   "end": "268.600", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Was sind nun diese Bedingungen? "
+   ]
+  }, 
+  {
+   "begin": "268.600", 
+   "children": [], 
+   "end": "271.160", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "Woran werden wir in dieser Wahlperiode arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "271.160", 
+   "children": [], 
+   "end": "273.480", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "um Wahlfreiheit noch besser zu erm\u00f6glichen? "
+   ]
+  }, 
+  {
+   "begin": "273.480", 
+   "children": [], 
+   "end": "275.920", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Hier in der Debatte ist schon einiges gesagt worden. "
+   ]
+  }, 
+  {
+   "begin": "275.920", 
+   "children": [], 
+   "end": "278.160", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen m\u00f6chte ich mich entsprechend kurzfassen."
+   ]
+  }, 
+  {
+   "begin": "278.160", 
+   "children": [], 
+   "end": "278.880", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "Erstens. "
+   ]
+  }, 
+  {
+   "begin": "278.880", 
+   "children": [], 
+   "end": "282.320", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen uns f\u00fcr bessere Kinderbetreuung einsetzen. "
+   ]
+  }, 
+  {
+   "begin": "282.320", 
+   "children": [], 
+   "end": "283.120", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Noch in diesem Jahr\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "283.120", 
+   "children": [], 
+   "end": "284.960", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "das ist bereits gesagt worden\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "284.960", 
+   "children": [], 
+   "end": "289.960", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "bringen wir das Gute-Kita-Gesetz mit einer bedarfsgerechten F\u00f6rderung f\u00fcr die L\u00e4nder auf den Weg. "
+   ]
+  }, 
+  {
+   "begin": "289.960", 
+   "children": [], 
+   "end": "295.680", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden im \u00dcbrigen auch einen Rechtsanspruch auf Ganztagsbetreuung in den Grundschulen beschlie\u00dfen."
+   ]
+  }, 
+  {
+   "begin": "295.680", 
+   "children": [], 
+   "end": "296.520", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "296.520", 
+   "children": [], 
+   "end": "299.800", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen die sozialen Berufe dringend weiter aufwerten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "299.800", 
+   "children": [], 
+   "end": "300.160", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "auch, "
+   ]
+  }, 
+  {
+   "begin": "300.160", 
+   "children": [], 
+   "end": "302.440", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "um dem Fachkr\u00e4ftemangel zu begegnen."
+   ]
+  }, 
+  {
+   "begin": "302.440", 
+   "children": [], 
+   "end": "304.040", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "Drittens werden wir uns weiter\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "304.040", 
+   "children": [], 
+   "end": "305.400", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "um das ganz kurz zu sagen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "305.400", 
+   "children": [], 
+   "end": "310.000", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Vereinbarkeit von Familie und Beruf starkmachen. "
+   ]
+  }, 
+  {
+   "begin": "310.000", 
+   "children": [], 
+   "end": "313.880", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "Hier ist ein echtes Umdenken in der Arbeitswelt erforderlich. "
+   ]
+  }, 
+  {
+   "begin": "313.880", 
+   "children": [], 
+   "end": "315.640", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Das ist ein echter Kulturwandel, "
+   ]
+  }, 
+  {
+   "begin": "315.640", 
+   "children": [], 
+   "end": "318.040", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "und das bedeutet im \u00dcbrigen auch, "
+   ]
+  }, 
+  {
+   "begin": "318.040", 
+   "children": [], 
+   "end": "321.640", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns f\u00fcr mehr Frauen in F\u00fchrungspositionen starkmachen sollten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "321.640", 
+   "children": [], 
+   "end": "323.960", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "im \u00dcbrigen auch in Teilzeit. "
+   ]
+  }, 
+  {
+   "begin": "323.960", 
+   "children": [], 
+   "end": "328.320", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden uns deshalb f\u00fcr familienfreundliche Strukturen in Unternehmen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "328.320", 
+   "children": [], 
+   "end": "331.080", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "etwa durch mehr betriebliche Kinderbetreuung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "331.080", 
+   "children": [], 
+   "end": "332.000", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "einsetzen."
+   ]
+  }, 
+  {
+   "begin": "332.000", 
+   "children": [], 
+   "end": "332.880", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "Wichtig ist uns auch\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "332.880", 
+   "children": [], 
+   "end": "335.520", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "wir haben an anderer Stelle schon dar\u00fcber gesprochen\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "335.520", 
+   "children": [], 
+   "end": "340.760", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "dass wir uns um neue Arbeitszeitmodelle und die F\u00f6rderung von Homeoffice-L\u00f6sungen k\u00fcmmern. "
+   ]
+  }, 
+  {
+   "begin": "340.760", 
+   "children": [], 
+   "end": "342.120", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Das hilft nicht jedem\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "342.120", 
+   "children": [], 
+   "end": "343.240", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "das wei\u00df ich auch; "
+   ]
+  }, 
+  {
+   "begin": "343.240", 
+   "children": [], 
+   "end": "344.840", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "in der Debatte wird dann immer entgegnet, "
+   ]
+  }, 
+  {
+   "begin": "344.840", 
+   "children": [], 
+   "end": "346.440", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "dass nicht jeder so arbeiten kann\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "346.440", 
+   "children": [], 
+   "end": "347.640", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "aber f\u00fcr diejenigen, "
+   ]
+  }, 
+  {
+   "begin": "347.640", 
+   "children": [], 
+   "end": "348.720", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "die so arbeiten k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "348.720", 
+   "children": [], 
+   "end": "349.800", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "wo das m\u00f6glich ist, "
+   ]
+  }, 
+  {
+   "begin": "349.800", 
+   "children": [], 
+   "end": "354.160", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "sollten wir auch die rechtlichen Voraussetzungen schaffen."
+   ]
+  }, 
+  {
+   "begin": "354.160", 
+   "children": [], 
+   "end": "356.600", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Unser gemeinsames Ziel muss es sein: "
+   ]
+  }, 
+  {
+   "begin": "356.600", 
+   "children": [], 
+   "end": "362.920", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "Die Geburt eines Kindes darf f\u00fcr ein Elternteil nicht gleichbedeutend mit dem Ende der Karriere sein. "
+   ]
+  }, 
+  {
+   "begin": "362.920", 
+   "children": [], 
+   "end": "364.360", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Nur wenn uns das gelingt, "
+   ]
+  }, 
+  {
+   "begin": "364.360", 
+   "children": [], 
+   "end": "366.720", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "werden wir noch mehr Paare dazu ermutigen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "366.720", 
+   "children": [], 
+   "end": "368.000", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "Kinder zu bekommen, "
+   ]
+  }, 
+  {
+   "begin": "368.000", 
+   "children": [], 
+   "end": "370.720", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "und das w\u00e4re wirklich gut f\u00fcr uns alle."
+   ]
+  }, 
+  {
+   "begin": "370.720", 
+   "children": [], 
+   "end": "371.640", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "371.640", 
+   "children": [], 
+   "end": "373.440", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank, "
+   ]
+  }, 
+  {
+   "begin": "373.440", 
+   "children": [], 
+   "end": "374.480", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Kartes.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "374.480", 
+   "children": [], 
+   "end": "381.000", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "Als letztem Redner erteile ich das Wort f\u00fcr die CDU/CSU-Fraktion dem Kollegen Alois Rainer."
+   ]
+  }
+ ]
+}

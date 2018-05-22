@@ -1,0 +1,964 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "1.000", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "1.000", 
+   "children": [], 
+   "end": "8.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "8.440", 
+   "children": [], 
+   "end": "14.760", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Die Gro\u00dfe Koalition hat einen Pakt f\u00fcr den Rechtsstaat vorgestellt. "
+   ]
+  }, 
+  {
+   "begin": "14.760", 
+   "children": [], 
+   "end": "19.880", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Sie versteht darunter fast ausschlie\u00dflich die Schaffung neuer Stellen in der Justiz. "
+   ]
+  }, 
+  {
+   "begin": "19.880", 
+   "children": [], 
+   "end": "20.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich w\u00e4re es gut, "
+   ]
+  }, 
+  {
+   "begin": "20.760", 
+   "children": [], 
+   "end": "23.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "wenn diese Stellen wirklich kommen w\u00fcrden. "
+   ]
+  }, 
+  {
+   "begin": "23.600", 
+   "children": [], 
+   "end": "27.280", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Zuvor wurden durch Union und SPD Richterstellen jahrelang gestrichen. "
+   ]
+  }, 
+  {
+   "begin": "27.280", 
+   "children": [], 
+   "end": "30.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Doch ein Pakt f\u00fcr den Rechtsstaat muss doch mehr sein als Stellen, "
+   ]
+  }, 
+  {
+   "begin": "30.800", 
+   "children": [], 
+   "end": "32.000", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "er muss B\u00fcrgerinnen- "
+   ]
+  }, 
+  {
+   "begin": "32.000", 
+   "children": [], 
+   "end": "33.240", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und B\u00fcrgerrechte sch\u00fctzen."
+   ]
+  }, 
+  {
+   "begin": "33.240", 
+   "children": [], 
+   "end": "36.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ich will Ihnen drei Punkte nennen, "
+   ]
+  }, 
+  {
+   "begin": "36.240", 
+   "children": [], 
+   "end": "40.440", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "die in einen Pakt f\u00fcr den Rechtsstaat geh\u00f6ren."
+   ]
+  }, 
+  {
+   "begin": "40.440", 
+   "children": [], 
+   "end": "41.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Erstens: "
+   ]
+  }, 
+  {
+   "begin": "41.400", 
+   "children": [], 
+   "end": "43.760", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die St\u00e4rkung von B\u00fcrgerbeteiligung. "
+   ]
+  }, 
+  {
+   "begin": "43.760", 
+   "children": [], 
+   "end": "48.440", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Die Forderung nach mehr Demokratie ist f\u00fcr den Rechtsstaat elementar. "
+   ]
+  }, 
+  {
+   "begin": "48.440", 
+   "children": [], 
+   "end": "50.320", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Immer mehr Menschen fragen sich, "
+   ]
+  }, 
+  {
+   "begin": "50.320", 
+   "children": [], 
+   "end": "53.360", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "warum sie blo\u00df alle vier Jahre ein Kreuz machen d\u00fcrfen, "
+   ]
+  }, 
+  {
+   "begin": "53.360", 
+   "children": [], 
+   "end": "55.360", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "aber ansonsten nicht mitentscheiden k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "55.360", 
+   "children": [], 
+   "end": "56.720", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen mehr Demokratie. "
+   ]
+  }, 
+  {
+   "begin": "56.720", 
+   "children": [], 
+   "end": "58.760", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Volksabstimmungen. "
+   ]
+  }, 
+  {
+   "begin": "58.760", 
+   "children": [], 
+   "end": "61.200", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke hat dazu einen Gesetzentwurf vorgelegt. "
+   ]
+  }, 
+  {
+   "begin": "61.200", 
+   "children": [], 
+   "end": "68.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Dieser sch\u00fctzt die Grundrechte und auch die Rechte von Minderheiten durch eine Vorabpr\u00fcfung des Bundesverfassungsgerichts."
+   ]
+  }, 
+  {
+   "begin": "68.760", 
+   "children": [], 
+   "end": "77.200", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Die Gro\u00dfe Koalition aber hat die Frage direkter Demokratie in einer Expertenkommission versenkt. "
+   ]
+  }, 
+  {
+   "begin": "77.200", 
+   "children": [], 
+   "end": "77.680", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "77.680", 
+   "children": [], 
+   "end": "78.320", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "liebe SPD, "
+   ]
+  }, 
+  {
+   "begin": "78.320", 
+   "children": [], 
+   "end": "81.840", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "die Sie im Wahlkampf f\u00fcr mehr Demokratie getrommelt haben, "
+   ]
+  }, 
+  {
+   "begin": "81.840", 
+   "children": [], 
+   "end": "83.760", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "ist leider ein ganz schlechter Deal."
+   ]
+  }, 
+  {
+   "begin": "83.760", 
+   "children": [], 
+   "end": "85.440", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Zweitens. "
+   ]
+  }, 
+  {
+   "begin": "85.440", 
+   "children": [], 
+   "end": "90.600", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "In einen Pakt f\u00fcr den Rechtsstaat geh\u00f6rt das Aus f\u00fcr die Vorratsdatenspeicherung. "
+   ]
+  }, 
+  {
+   "begin": "90.600", 
+   "children": [], 
+   "end": "93.560", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Das Oberverwaltungsgericht NRW sagt mit guten Gr\u00fcnden, "
+   ]
+  }, 
+  {
+   "begin": "93.560", 
+   "children": [], 
+   "end": "95.920", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "dass die Vorratsdatenspeicherung gegen Europarecht verst\u00f6\u00dft. "
+   ]
+  }, 
+  {
+   "begin": "95.920", 
+   "children": [], 
+   "end": "99.920", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Die Vorratsdatenspeicherung stellt Menschen unter Generalverdacht. "
+   ]
+  }, 
+  {
+   "begin": "99.920", 
+   "children": [], 
+   "end": "102.000", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Das ist eines Rechtsstaates unw\u00fcrdig."
+   ]
+  }, 
+  {
+   "begin": "102.000", 
+   "children": [], 
+   "end": "102.680", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Drittens. "
+   ]
+  }, 
+  {
+   "begin": "102.680", 
+   "children": [], 
+   "end": "109.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ein Pakt f\u00fcr den Rechtsstaat muss da f\u00fcr Entkriminalisierung sorgen, "
+   ]
+  }, 
+  {
+   "begin": "109.840", 
+   "children": [], 
+   "end": "111.560", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "wo dies n\u00f6tig ist. "
+   ]
+  }, 
+  {
+   "begin": "111.560", 
+   "children": [], 
+   "end": "114.640", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das Strafrecht soll nur Verhaltensweisen sanktionieren, "
+   ]
+  }, 
+  {
+   "begin": "114.640", 
+   "children": [], 
+   "end": "117.320", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "die besonders verabscheuungsw\u00fcrdig sind. "
+   ]
+  }, 
+  {
+   "begin": "117.320", 
+   "children": [], 
+   "end": "118.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Es hat keine Logik, "
+   ]
+  }, 
+  {
+   "begin": "118.560", 
+   "children": [], 
+   "end": "121.840", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "dass Falschparken nur eine Ordnungswidrigkeit ist, "
+   ]
+  }, 
+  {
+   "begin": "121.840", 
+   "children": [], 
+   "end": "123.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Schwarzfahren aber eine Straftat. "
+   ]
+  }, 
+  {
+   "begin": "123.520", 
+   "children": [], 
+   "end": "126.280", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Beides hat ungef\u00e4hr den gleichen Unrechtsgehalt\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "126.280", 
+   "children": [], 
+   "end": "127.920", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "einen sehr geringen."
+   ]
+  }, 
+  {
+   "begin": "127.920", 
+   "children": [], 
+   "end": "131.440", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Ein anderes Stichwort ist das Containern, "
+   ]
+  }, 
+  {
+   "begin": "131.440", 
+   "children": [], 
+   "end": "135.440", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "wenn also Menschen Lebensmittel aus M\u00fclltonnen von Superm\u00e4rkten nehmen. "
+   ]
+  }, 
+  {
+   "begin": "135.440", 
+   "children": [], 
+   "end": "138.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Das wird absurderweise als Diebstahl behandelt. "
+   ]
+  }, 
+  {
+   "begin": "138.480", 
+   "children": [], 
+   "end": "139.440", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Beide Delikte, "
+   ]
+  }, 
+  {
+   "begin": "139.440", 
+   "children": [], 
+   "end": "141.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Schwarzfahren und Containern, "
+   ]
+  }, 
+  {
+   "begin": "141.160", 
+   "children": [], 
+   "end": "144.440", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "werden meist aus Armut begangen. "
+   ]
+  }, 
+  {
+   "begin": "144.440", 
+   "children": [], 
+   "end": "148.800", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Und Armut darf keine Straftat sein!"
+   ]
+  }, 
+  {
+   "begin": "148.800", 
+   "children": [], 
+   "end": "150.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Genauso absurd ist es, "
+   ]
+  }, 
+  {
+   "begin": "150.080", 
+   "children": [], 
+   "end": "152.560", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wenn Menschen wegen ein paar Gramm Cannabis, "
+   ]
+  }, 
+  {
+   "begin": "152.560", 
+   "children": [], 
+   "end": "153.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die sie mit sich f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "153.400", 
+   "children": [], 
+   "end": "154.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "bestraft werden. "
+   ]
+  }, 
+  {
+   "begin": "154.520", 
+   "children": [], 
+   "end": "157.560", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Cannabis ist nicht gef\u00e4hrlicher als Alkohol, "
+   ]
+  }, 
+  {
+   "begin": "157.560", 
+   "children": [], 
+   "end": "159.760", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "der j\u00e4hrlich 70\u00a0000\u00a0Menschen t\u00f6tet. "
+   ]
+  }, 
+  {
+   "begin": "159.760", 
+   "children": [], 
+   "end": "163.960", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen endlich eine Entkriminalisierung des Besitzes geringer Mengen Cannabis."
+   ]
+  }, 
+  {
+   "begin": "163.960", 
+   "children": [], 
+   "end": "167.920", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "167.920", 
+   "children": [], 
+   "end": "174.720", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "wir diskutieren hier schon eine Weile \u00fcber die Abschaffung des \u00a7\u00a0219a StGB. "
+   ]
+  }, 
+  {
+   "begin": "174.720", 
+   "children": [], 
+   "end": "176.800", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Dieser verbietet, "
+   ]
+  }, 
+  {
+   "begin": "176.800", 
+   "children": [], 
+   "end": "180.920", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass \u00c4rzte \u00fcberhaupt dar\u00fcber informieren d\u00fcrfen, "
+   ]
+  }, 
+  {
+   "begin": "180.920", 
+   "children": [], 
+   "end": "183.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "dass sie Schwangerschaftsabbr\u00fcche anbieten. "
+   ]
+  }, 
+  {
+   "begin": "183.280", 
+   "children": [], 
+   "end": "184.400", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Das erschwert es Frauen, "
+   ]
+  }, 
+  {
+   "begin": "184.400", 
+   "children": [], 
+   "end": "187.520", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "in einer emotional schwierigen Situation Hilfe zu finden, "
+   ]
+  }, 
+  {
+   "begin": "187.520", 
+   "children": [], 
+   "end": "191.080", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "und au\u00dferdem beeintr\u00e4chtigt es die freie Arztwahl. "
+   ]
+  }, 
+  {
+   "begin": "191.080", 
+   "children": [], 
+   "end": "193.560", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Auch Sie von der SPD wollen diese Norm streichen. "
+   ]
+  }, 
+  {
+   "begin": "193.560", 
+   "children": [], 
+   "end": "194.920", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Das h\u00e4tte l\u00e4ngst geschehen k\u00f6nnen; "
+   ]
+  }, 
+  {
+   "begin": "194.920", 
+   "children": [], 
+   "end": "197.200", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "es gibt daf\u00fcr eine Mehrheit in diesem Hause. "
+   ]
+  }, 
+  {
+   "begin": "197.200", 
+   "children": [], 
+   "end": "198.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Geben Sie sich einen Ruck, "
+   ]
+  }, 
+  {
+   "begin": "198.480", 
+   "children": [], 
+   "end": "202.400", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "und lassen Sie sich in dieser Gewissensfrage nicht l\u00e4nger von der Union g\u00e4ngeln!"
+   ]
+  }, 
+  {
+   "begin": "202.400", 
+   "children": [], 
+   "end": "205.520", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Liebe SPD, "
+   ]
+  }, 
+  {
+   "begin": "205.520", 
+   "children": [], 
+   "end": "207.800", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Sie sollten sich schon \u00fcberlegen, "
+   ]
+  }, 
+  {
+   "begin": "207.800", 
+   "children": [], 
+   "end": "213.560", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "wie Sie mit einer faktisch verfassungsfeindlichen Gruppierung in Ihrer gemeinsamen Koalition umgehen wollen, "
+   ]
+  }, 
+  {
+   "begin": "213.560", 
+   "children": [], 
+   "end": "217.800", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "die sich uns\u00e4glicher Begriffe wie dem der \u201eAntiabschiebeindus\u00adtrie\u201c bedient. "
+   ]
+  }, 
+  {
+   "begin": "217.800", 
+   "children": [], 
+   "end": "219.440", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Was da aus der CSU kommt, "
+   ]
+  }, 
+  {
+   "begin": "219.440", 
+   "children": [], 
+   "end": "223.320", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "ist ein ungeheurer Frontalangriff nicht nur auf Gefl\u00fcchtete, "
+   ]
+  }, 
+  {
+   "begin": "223.320", 
+   "children": [], 
+   "end": "224.600", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "die ihre Rechte wahrnehmen, "
+   ]
+  }, 
+  {
+   "begin": "224.600", 
+   "children": [], 
+   "end": "226.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch auf die Anwaltschaft."
+   ]
+  }, 
+  {
+   "begin": "226.200", 
+   "children": [], 
+   "end": "232.120", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Die AnKER-Zentren f\u00fcr Gefl\u00fcchtete, "
+   ]
+  }, 
+  {
+   "begin": "232.120", 
+   "children": [], 
+   "end": "234.040", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "die Innenminister Seehofer plant, "
+   ]
+  }, 
+  {
+   "begin": "234.040", 
+   "children": [], 
+   "end": "235.600", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "stehen in dieser Linie. "
+   ]
+  }, 
+  {
+   "begin": "235.600", 
+   "children": [], 
+   "end": "237.200", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden n\u00e4mlich dazu f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "237.200", 
+   "children": [], 
+   "end": "239.560", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "dass es f\u00fcr Gefl\u00fcchtete deutlich schwerer wird, "
+   ]
+  }, 
+  {
+   "begin": "239.560", 
+   "children": [], 
+   "end": "240.760", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "einen Rechtsanwalt zu finden. "
+   ]
+  }, 
+  {
+   "begin": "240.760", 
+   "children": [], 
+   "end": "242.560", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Schon das ist ein No-Go. "
+   ]
+  }, 
+  {
+   "begin": "242.560", 
+   "children": [], 
+   "end": "244.640", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Aber zudem plant Ihr Innenminister, "
+   ]
+  }, 
+  {
+   "begin": "244.640", 
+   "children": [], 
+   "end": "248.560", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "in diesen Zentren mit den Gefl\u00fcchteten kurzen Prozess zu machen. "
+   ]
+  }, 
+  {
+   "begin": "248.560", 
+   "children": [], 
+   "end": "254.840", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Da soll offenbar die Grenze zwischen der Verwaltung und der zur Kontrolle berufenen Justiz verwischt werden. "
+   ]
+  }, 
+  {
+   "begin": "254.840", 
+   "children": [], 
+   "end": "257.400", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Damit wird die Gewaltenteilung infrage gestellt. "
+   ]
+  }, 
+  {
+   "begin": "257.400", 
+   "children": [], 
+   "end": "264.360", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Die geplanten AnKER-Zentren sind ein Angriff auf den Rechtsstaat."
+   ]
+  }, 
+  {
+   "begin": "264.360", 
+   "children": [], 
+   "end": "264.800", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Da, "
+   ]
+  }, 
+  {
+   "begin": "264.800", 
+   "children": [], 
+   "end": "265.680", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "liebe Frau Barley, "
+   ]
+  }, 
+  {
+   "begin": "265.680", 
+   "children": [], 
+   "end": "268.960", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "sind Sie als Justizministerin gefordert, "
+   ]
+  }, 
+  {
+   "begin": "268.960", 
+   "children": [], 
+   "end": "274.360", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Ihrem Kollegen Seehofer die Obergrenze f\u00fcr rechtsstaatswidriges Verhalten aufzuzeigen."
+   ]
+  }, 
+  {
+   "begin": "274.360", 
+   "children": [], 
+   "end": "279.360", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Danke sch\u00f6n."
+   ]
+  }, 
+  {
+   "begin": "279.360", 
+   "children": [], 
+   "end": "283.000", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen hat das Wort die Kollegin Tabea R\u00f6\u00dfner."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,974 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.480", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "4.480", 
+   "children": [], 
+   "end": "5.440", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "children": [], 
+   "end": "6.560", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "6.560", 
+   "children": [], 
+   "end": "11.800", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die Beratungen zum Bundeshaushalt sind immer auch eine Sternstunde des Parlaments. "
+   ]
+  }, 
+  {
+   "begin": "11.800", 
+   "children": [], 
+   "end": "22.160", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Der am Dienstag vom Bundesfinanzminister Olaf Scholz eingebrachte Haushalt f\u00fcr das laufende Jahr ist ein Beleg guter Wirtschaftspolitik. "
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "children": [], 
+   "end": "26.600", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Er dr\u00fcckt vor allem die enorme Leistungsf\u00e4higkeit der deutschen Wirtschaft aus. "
+   ]
+  }, 
+  {
+   "begin": "26.600", 
+   "children": [], 
+   "end": "32.120", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Das haben zun\u00e4chst einmal motivierte und engagierte Arbeitnehmerinnen und Arbeitnehmer erarbeitet, "
+   ]
+  }, 
+  {
+   "begin": "32.120", 
+   "children": [], 
+   "end": "36.920", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "aber nat\u00fcrlich auch kreative und mutige Unternehmer im Dienstleistungsbereich, "
+   ]
+  }, 
+  {
+   "begin": "36.920", 
+   "children": [], 
+   "end": "38.200", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Handel, "
+   ]
+  }, 
+  {
+   "begin": "38.200", 
+   "children": [], 
+   "end": "39.680", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Mittelstand und Handwerk, "
+   ]
+  }, 
+  {
+   "begin": "39.680", 
+   "children": [], 
+   "end": "43.560", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "aber auch eine wettbewerbsf\u00e4hige Industrie. "
+   ]
+  }, 
+  {
+   "begin": "43.560", 
+   "children": [], 
+   "end": "50.880", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Erst diese Erfolgsbilanz legt die finanzielle Grundlage und erm\u00f6glicht den politischen Gestaltungsspielraum."
+   ]
+  }, 
+  {
+   "begin": "50.880", 
+   "children": [], 
+   "end": "53.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Damit diese erfolgreiche Entwicklung so bleibt, "
+   ]
+  }, 
+  {
+   "begin": "53.720", 
+   "children": [], 
+   "end": "55.440", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "m\u00fcssen wir investieren: "
+   ]
+  }, 
+  {
+   "begin": "55.440", 
+   "children": [], 
+   "end": "59.080", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "37\u00a0Milliarden Euro; "
+   ]
+  }, 
+  {
+   "begin": "59.080", 
+   "children": [], 
+   "end": "61.840", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "das sind 3\u00a0Milliarden Euro mehr als 2017. "
+   ]
+  }, 
+  {
+   "begin": "61.840", 
+   "children": [], 
+   "end": "64.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Das ist die Absicherung f\u00fcr die Zukunft. "
+   ]
+  }, 
+  {
+   "begin": "64.040", 
+   "children": [], 
+   "end": "64.440", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Das geht nicht\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "64.440", 
+   "children": [], 
+   "end": "68.800", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "wie in den letzten Tagen von einigen Rednern behauptet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "68.800", 
+   "children": [], 
+   "end": "71.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "auf Kosten der n\u00e4chsten Generationen. "
+   ]
+  }, 
+  {
+   "begin": "71.960", 
+   "children": [], 
+   "end": "73.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Im Gegenteil: "
+   ]
+  }, 
+  {
+   "begin": "73.440", 
+   "children": [], 
+   "end": "78.400", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wir schaffen mit diesen Investitionen die Basis und st\u00e4rken den Wirtschaftsstandort, "
+   ]
+  }, 
+  {
+   "begin": "78.400", 
+   "children": [], 
+   "end": "79.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "damit Arbeits- "
+   ]
+  }, 
+  {
+   "begin": "79.120", 
+   "children": [], 
+   "end": "83.040", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "und Ausbildungspl\u00e4tze geschaffen werden k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "83.040", 
+   "children": [], 
+   "end": "83.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Innovationen, "
+   ]
+  }, 
+  {
+   "begin": "83.800", 
+   "children": [], 
+   "end": "84.600", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Digitalisierung, "
+   ]
+  }, 
+  {
+   "begin": "84.600", 
+   "children": [], 
+   "end": "85.720", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Energiewende, "
+   ]
+  }, 
+  {
+   "begin": "85.720", 
+   "children": [], 
+   "end": "89.800", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Einhaltung der Klimaziele und Globalisierung sind nur einige Themen, "
+   ]
+  }, 
+  {
+   "begin": "89.800", 
+   "children": [], 
+   "end": "92.560", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die mit kluger Politik gestaltet werden m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "92.560", 
+   "children": [], 
+   "end": "96.640", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Die Menschen erwarten zu Recht Antworten im Hinblick auf zuk\u00fcnftige Ver\u00e4nderungen. "
+   ]
+  }, 
+  {
+   "begin": "96.640", 
+   "children": [], 
+   "end": "99.000", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Der Koalitionsvertrag ist eine gute Grundlage, "
+   ]
+  }, 
+  {
+   "begin": "99.000", 
+   "children": [], 
+   "end": "101.680", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "unser Land erfolgreich zu entwickeln. "
+   ]
+  }, 
+  {
+   "begin": "101.680", 
+   "children": [], 
+   "end": "105.320", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Der vorliegende Bundeshaushalt untermauert den politischen Willen, "
+   ]
+  }, 
+  {
+   "begin": "105.320", 
+   "children": [], 
+   "end": "108.000", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "das Vereinbarte auch umzusetzen. "
+   ]
+  }, 
+  {
+   "begin": "108.000", 
+   "children": [], 
+   "end": "109.920", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Herr Bundesminister Altmaier: "
+   ]
+  }, 
+  {
+   "begin": "109.920", 
+   "children": [], 
+   "end": "112.280", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen gemeinsam darauf achten, "
+   ]
+  }, 
+  {
+   "begin": "112.280", 
+   "children": [], 
+   "end": "114.120", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass wir das auch eins zu eins umsetzen, "
+   ]
+  }, 
+  {
+   "begin": "114.120", 
+   "children": [], 
+   "end": "117.440", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "wie wir es im Koalitionsvertrag aufgeschrieben haben."
+   ]
+  }, 
+  {
+   "begin": "117.440", 
+   "children": [], 
+   "end": "120.120", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Da ist zum Beispiel die Kommission \u201eWachstum, "
+   ]
+  }, 
+  {
+   "begin": "120.120", 
+   "children": [], 
+   "end": "122.280", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Strukturwandel und Besch\u00e4ftigung\u201c. "
+   ]
+  }, 
+  {
+   "begin": "122.280", 
+   "children": [], 
+   "end": "124.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Demn\u00e4chst wird sie ihre Arbeit aufnehmen. "
+   ]
+  }, 
+  {
+   "begin": "124.280", 
+   "children": [], 
+   "end": "131.760", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "In einem breiten Diskurs mit gesellschaftlichen Akteuren wird darin eine wichtige Etappe der Energiewende beraten. "
+   ]
+  }, 
+  {
+   "begin": "131.760", 
+   "children": [], 
+   "end": "139.720", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Es m\u00fcssen Perspektiven f\u00fcr die Menschen und die Regionen f\u00fcr die Zeit nach der Kohlenutzung entwickelt werden. "
+   ]
+  }, 
+  {
+   "begin": "139.720", 
+   "children": [], 
+   "end": "141.880", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen verl\u00e4ssliche L\u00f6sungen schaffen, "
+   ]
+  }, 
+  {
+   "begin": "141.880", 
+   "children": [], 
+   "end": "146.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "um den Betroffen ihre nachvollziehbaren Sorgen und Unsicherheiten zu nehmen. "
+   ]
+  }, 
+  {
+   "begin": "146.600", 
+   "children": [], 
+   "end": "149.000", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Zuversicht f\u00fcr die Reviere. "
+   ]
+  }, 
+  {
+   "begin": "149.000", 
+   "children": [], 
+   "end": "152.160", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Wir lassen die Kumpels und Kumpelinnen nicht allein."
+   ]
+  }, 
+  {
+   "begin": "152.160", 
+   "children": [], 
+   "end": "158.800", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Aber auch Versorgungssicherheit und Bezahlbarkeit von Energie m\u00fcssen auf die Tagesordnung, "
+   ]
+  }, 
+  {
+   "begin": "158.800", 
+   "children": [], 
+   "end": "166.120", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "weil das wichtige Faktoren f\u00fcr wirtschaftliche Prosperit\u00e4t und f\u00fcr Fortschritt sind."
+   ]
+  }, 
+  {
+   "begin": "166.120", 
+   "children": [], 
+   "end": "169.000", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Auch bei neuen Technologien oder Industrie- "
+   ]
+  }, 
+  {
+   "begin": "169.000", 
+   "children": [], 
+   "end": "177.240", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "und Produktionsinnovationen sind die gesellschaftspolitisch relevanten Aspekte der Digitalisierung von Bedeutung. "
+   ]
+  }, 
+  {
+   "begin": "177.240", 
+   "children": [], 
+   "end": "183.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Digitalisierungsprozesse wirken sich gleichzeitig auf mehrere Felder aus. "
+   ]
+  }, 
+  {
+   "begin": "183.120", 
+   "children": [], 
+   "end": "187.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Um das Potenzial des digitalen Wandels nutzen zu k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "187.040", 
+   "children": [], 
+   "end": "190.880", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "muss die Wirtschaftspolitik f\u00fcr inklusives Wachstum sorgen. "
+   ]
+  }, 
+  {
+   "begin": "190.880", 
+   "children": [], 
+   "end": "195.240", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Sie darf sich nicht einseitig auf technologische Entwicklungen fokussieren. "
+   ]
+  }, 
+  {
+   "begin": "195.240", 
+   "children": [], 
+   "end": "203.960", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Nur wenn wir die Auswirkungen der Digitalisierung auf die Arbeitswelt und auf den sozialen Zusammenhalt in der Gesellschaft ber\u00fccksichtigen, "
+   ]
+  }, 
+  {
+   "begin": "203.960", 
+   "children": [], 
+   "end": "207.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "kann sich das Innovationspotenzial entfalten."
+   ]
+  }, 
+  {
+   "begin": "207.120", 
+   "children": [], 
+   "end": "213.240", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Eine nachhaltige Wirtschaftspolitik muss vielmehr auch organisatorische, "
+   ]
+  }, 
+  {
+   "begin": "213.240", 
+   "children": [], 
+   "end": "216.240", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "gesellschaftliche und soziale Innovationen f\u00f6rdern. "
+   ]
+  }, 
+  {
+   "begin": "216.240", 
+   "children": [], 
+   "end": "217.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Nur so stellen wir sicher, "
+   ]
+  }, 
+  {
+   "begin": "217.960", 
+   "children": [], 
+   "end": "222.840", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass alle von der digitalen Rendite profitieren."
+   ]
+  }, 
+  {
+   "begin": "222.840", 
+   "children": [], 
+   "end": "223.840", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr verehrten Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "223.840", 
+   "children": [], 
+   "end": "228.760", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "im Laufe der Debatte dieser Woche ist oft das Thema Europa angesprochen worden. "
+   ]
+  }, 
+  {
+   "begin": "228.760", 
+   "children": [], 
+   "end": "231.560", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Auch ich will das kurz thematisieren, "
+   ]
+  }, 
+  {
+   "begin": "231.560", 
+   "children": [], 
+   "end": "237.040", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "weil f\u00fcr unsere weitere wirtschaftliche Entwicklung ein weltoffenes Europa von gro\u00dfer Bedeutung ist. "
+   ]
+  }, 
+  {
+   "begin": "237.040", 
+   "children": [], 
+   "end": "242.000", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Europa ist ein zentraler Innovationsstandort. "
+   ]
+  }, 
+  {
+   "begin": "242.000", 
+   "children": [], 
+   "end": "252.600", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Mit 28\u00a0Mitgliedstaaten und 500\u00a0Millionen Einwohnerinnen und Einwohnern geh\u00f6rt die EU zum gr\u00f6\u00dften Binnenmarkt weltweit. "
+   ]
+  }, 
+  {
+   "begin": "252.600", 
+   "children": [], 
+   "end": "255.600", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Doch Europa ist mehr als ein gro\u00dfer Wirtschaftsraum. "
+   ]
+  }, 
+  {
+   "begin": "255.600", 
+   "children": [], 
+   "end": "261.880", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Ausgehend von einer Gr\u00fcndungsidee ist die Europ\u00e4ische Union ein Konzept f\u00fcr Frieden und Freiheit, "
+   ]
+  }, 
+  {
+   "begin": "261.880", 
+   "children": [], 
+   "end": "264.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr Teilhabe und Demokratie."
+   ]
+  }, 
+  {
+   "begin": "264.280", 
+   "children": [], 
+   "end": "267.520", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Europa ist der beste Schutz f\u00fcr unsere Werte, "
+   ]
+  }, 
+  {
+   "begin": "267.520", 
+   "children": [], 
+   "end": "269.280", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "aber eben auch f\u00fcr wirtschaftlichen, "
+   ]
+  }, 
+  {
+   "begin": "269.280", 
+   "children": [], 
+   "end": "272.480", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "technischen und sozialen Fortschritt; "
+   ]
+  }, 
+  {
+   "begin": "272.480", 
+   "children": [], 
+   "end": "279.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "denn der \u00f6konomische Erfolg Europas war stets in funktionierende Wohlfahrtssysteme eingebettet, "
+   ]
+  }, 
+  {
+   "begin": "279.520", 
+   "children": [], 
+   "end": "281.560", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "die sowohl gesellschaftliche Teilhabe, "
+   ]
+  }, 
+  {
+   "begin": "281.560", 
+   "children": [], 
+   "end": "291.440", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "soziale Absicherung und Aufstieg durch Bildung als auch die Basis f\u00fcr kreative Entfaltung und wirtschaftliche Freiheit bieten. "
+   ]
+  }, 
+  {
+   "begin": "291.440", 
+   "children": [], 
+   "end": "300.280", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Diese Orientierung muss auch f\u00fcr die zuk\u00fcnftige Gestaltung eines freien und fairen Handels im Mittelpunkt stehen. "
+   ]
+  }, 
+  {
+   "begin": "300.280", 
+   "children": [], 
+   "end": "301.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb bin ich zuversichtlich, "
+   ]
+  }, 
+  {
+   "begin": "301.480", 
+   "children": [], 
+   "end": "311.720", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "dass die EU mit dem in K\u00fcrze zu erteilenden Mandat f\u00fcr die Verhandlungen der Freihandelsabkommen mit Neuseeland und Australien z\u00fcgig vorankommt."
+   ]
+  }, 
+  {
+   "begin": "311.720", 
+   "children": [], 
+   "end": "317.200", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Das ist auch unsere Antwort auf die v\u00f6llig abwegige Politik des amerikanischen Pr\u00e4sidenten. "
+   ]
+  }, 
+  {
+   "begin": "317.200", 
+   "children": [], 
+   "end": "319.120", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Die Strategie der Abschottung, "
+   ]
+  }, 
+  {
+   "begin": "319.120", 
+   "children": [], 
+   "end": "320.600", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "das Erheben von Z\u00f6llen, "
+   ]
+  }, 
+  {
+   "begin": "320.600", 
+   "children": [], 
+   "end": "325.520", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "das K\u00fcndigen von internationalen Abkommen werden den USA massiv schaden. "
+   ]
+  }, 
+  {
+   "begin": "325.520", 
+   "children": [], 
+   "end": "330.840", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Da helfen auch keine Belehrungen durch den neuen amerikanischen Botschafter hier in Berlin."
+   ]
+  }, 
+  {
+   "begin": "330.840", 
+   "children": [], 
+   "end": "332.960", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Denken Sie bitte an Ihre Redezeit?"
+   ]
+  }, 
+  {
+   "begin": "332.960", 
+   "children": [], 
+   "end": "334.320", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Jawohl, "
+   ]
+  }, 
+  {
+   "begin": "334.320", 
+   "children": [], 
+   "end": "335.360", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Frau Pr\u00e4sidentin.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "335.360", 
+   "children": [], 
+   "end": "340.600", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben in Europa eine bessere Antwort auf den globaler werdenden Handel."
+   ]
+  }, 
+  {
+   "begin": "340.600", 
+   "children": [], 
+   "end": "341.920", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Als Fazit: "
+   ]
+  }, 
+  {
+   "begin": "341.920", 
+   "children": [], 
+   "end": "346.800", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Der Haushalt\u00a02018 setzt die richtigen Akzente f\u00fcr Fortschritt und Innovation, "
+   ]
+  }, 
+  {
+   "begin": "346.800", 
+   "children": [], 
+   "end": "350.680", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fcr die Modernisierung des Wirtschaftsstandortes und f\u00fcr Chancengleichheit."
+   ]
+  }, 
+  {
+   "begin": "350.680", 
+   "children": [], 
+   "end": "352.040", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank. "
+   ]
+  }, 
+  {
+   "begin": "352.040", 
+   "children": [], 
+   "end": "353.400", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Gl\u00fcck auf!"
+   ]
+  }, 
+  {
+   "begin": "353.400", 
+   "children": [], 
+   "end": "354.240", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank, "
+   ]
+  }, 
+  {
+   "begin": "354.240", 
+   "children": [], 
+   "end": "356.560", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Herr Kollege Westphal.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "356.560", 
+   "children": [], 
+   "end": "358.680", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner f\u00fcr die FDP-Fraktion: "
+   ]
+  }, 
+  {
+   "begin": "358.680", 
+   "children": [], 
+   "end": "360.000", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Karsten Klein."
+   ]
+  }
+ ]
+}

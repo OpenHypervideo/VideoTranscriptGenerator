@@ -1,0 +1,924 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "10.160", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "10.160", 
+   "children": [], 
+   "end": "12.160", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Ministerin! "
+   ]
+  }, 
+  {
+   "begin": "12.160", 
+   "children": [], 
+   "end": "13.360", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "13.360", 
+   "children": [], 
+   "end": "15.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die Studie der Deutschen Kinderhilfe, "
+   ]
+  }, 
+  {
+   "begin": "15.560", 
+   "children": [], 
+   "end": "19.800", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "die am Montag erschienen und heute schon erw\u00e4hnt worden ist, "
+   ]
+  }, 
+  {
+   "begin": "19.800", 
+   "children": [], 
+   "end": "20.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "sagt: "
+   ]
+  }, 
+  {
+   "begin": "20.800", 
+   "children": [], 
+   "end": "22.680", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Die Jugend\u00e4mter stehen unter Druck, "
+   ]
+  }, 
+  {
+   "begin": "22.680", 
+   "children": [], 
+   "end": "24.240", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "zu wenig Personal, "
+   ]
+  }, 
+  {
+   "begin": "24.240", 
+   "children": [], 
+   "end": "27.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "zu wenig Zeit f\u00fcr Sozialarbeit und zu wenig Geld. "
+   ]
+  }, 
+  {
+   "begin": "27.880", 
+   "children": [], 
+   "end": "30.000", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die Leistungsf\u00e4higkeit leidet. "
+   ]
+  }, 
+  {
+   "begin": "30.000", 
+   "children": [], 
+   "end": "32.160", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Verfahren werden verz\u00f6gert."
+   ]
+  }, 
+  {
+   "begin": "32.160", 
+   "children": [], 
+   "end": "34.080", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Nun sagt Herr Weinberg: "
+   ]
+  }, 
+  {
+   "begin": "34.080", 
+   "children": [], 
+   "end": "37.400", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das ist Aufgabe und Zust\u00e4ndigkeit der Kommunen. "
+   ]
+  }, 
+  {
+   "begin": "37.400", 
+   "children": [], 
+   "end": "38.720", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Aber diese Zust\u00e4nde, "
+   ]
+  }, 
+  {
+   "begin": "38.720", 
+   "children": [], 
+   "end": "39.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "39.840", 
+   "children": [], 
+   "end": "41.880", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "sind ein Alarmsignal daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "41.880", 
+   "children": [], 
+   "end": "44.400", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "was in der Bundespolitik falsch l\u00e4uft. "
+   ]
+  }, 
+  {
+   "begin": "44.400", 
+   "children": [], 
+   "end": "46.840", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Hier muss etwas ver\u00e4ndert werden."
+   ]
+  }, 
+  {
+   "begin": "46.840", 
+   "children": [], 
+   "end": "53.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Die St\u00e4dte und Landkreise mit der gr\u00f6\u00dften Kinderarmut haben die h\u00f6chsten Ausgaben f\u00fcr Kinder- "
+   ]
+  }, 
+  {
+   "begin": "53.480", 
+   "children": [], 
+   "end": "54.720", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "und Jugendhilfe. "
+   ]
+  }, 
+  {
+   "begin": "54.720", 
+   "children": [], 
+   "end": "57.800", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Zugleich haben sie aber die geringsten Einnahmen. "
+   ]
+  }, 
+  {
+   "begin": "57.800", 
+   "children": [], 
+   "end": "59.480", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Wie soll das denn funktionieren, "
+   ]
+  }, 
+  {
+   "begin": "59.480", 
+   "children": [], 
+   "end": "60.800", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren? "
+   ]
+  }, 
+  {
+   "begin": "60.800", 
+   "children": [], 
+   "end": "71.120", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Niedrige L\u00f6hne und hohe Kinderarmut sind das Ergebnis bundespolitischen Versagens in den letzten Jahren."
+   ]
+  }, 
+  {
+   "begin": "71.120", 
+   "children": [], 
+   "end": "72.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ich sage Ihnen: "
+   ]
+  }, 
+  {
+   "begin": "72.200", 
+   "children": [], 
+   "end": "74.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Durchbrechen Sie endlich diesen Teufelskreis! "
+   ]
+  }, 
+  {
+   "begin": "74.760", 
+   "children": [], 
+   "end": "75.960", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke fordert, "
+   ]
+  }, 
+  {
+   "begin": "75.960", 
+   "children": [], 
+   "end": "79.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "dass der Bund sich st\u00e4rker an diesen Ausgaben beteiligen muss."
+   ]
+  }, 
+  {
+   "begin": "79.760", 
+   "children": [], 
+   "end": "85.840", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen das Problem an der Wurzel packen. "
+   ]
+  }, 
+  {
+   "begin": "85.840", 
+   "children": [], 
+   "end": "87.760", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Kinderarmut ist da. "
+   ]
+  }, 
+  {
+   "begin": "87.760", 
+   "children": [], 
+   "end": "90.160", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Fast 3\u00a0Millionen Kinder sind betroffen; "
+   ]
+  }, 
+  {
+   "begin": "90.160", 
+   "children": [], 
+   "end": "93.720", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "das k\u00f6nnen Sie nicht einfach wegdiskutieren."
+   ]
+  }, 
+  {
+   "begin": "93.720", 
+   "children": [], 
+   "end": "95.240", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Es kann nicht sein, "
+   ]
+  }, 
+  {
+   "begin": "95.240", 
+   "children": [], 
+   "end": "103.520", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass Kinder hungrig in die Schule gehen und sich kein Mittagessen leisten k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "103.520", 
+   "children": [], 
+   "end": "104.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Das darf es, "
+   ]
+  }, 
+  {
+   "begin": "104.480", 
+   "children": [], 
+   "end": "108.160", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "denke ich, "
+   ]
+  }, 
+  {
+   "begin": "108.160", 
+   "children": [], 
+   "end": "110.200", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "in einem so reichen Land nicht geben."
+   ]
+  }, 
+  {
+   "begin": "110.200", 
+   "children": [], 
+   "end": "110.880", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Auch Ihr Bildungs- "
+   ]
+  }, 
+  {
+   "begin": "110.880", 
+   "children": [], 
+   "end": "114.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "und Teilhabepaket zeigt kaum Wirkung. "
+   ]
+  }, 
+  {
+   "begin": "114.000", 
+   "children": [], 
+   "end": "120.680", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Es ist neben den Antr\u00e4gen zu Hartz IV das gr\u00f6\u00dfte B\u00fcrokratiemonster und geh\u00f6rt abgeschafft, "
+   ]
+  }, 
+  {
+   "begin": "120.680", 
+   "children": [], 
+   "end": "124.280", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "124.280", 
+   "children": [], 
+   "end": "129.640", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Die Leistungen f\u00fcr Kinder m\u00fcssen aus unserer Sicht deshalb grundlegend neu strukturiert werden. "
+   ]
+  }, 
+  {
+   "begin": "129.640", 
+   "children": [], 
+   "end": "133.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Das ist etwas ganz anderes als die Vorstellungen der Bundesregierung, "
+   ]
+  }, 
+  {
+   "begin": "133.440", 
+   "children": [], 
+   "end": "136.400", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "die in diesem Haushaltsentwurf enthalten sind. "
+   ]
+  }, 
+  {
+   "begin": "136.400", 
+   "children": [], 
+   "end": "138.840", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Die Linke fordert eine Kindergrundsicherung, "
+   ]
+  }, 
+  {
+   "begin": "138.840", 
+   "children": [], 
+   "end": "139.960", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "eine Leistung, "
+   ]
+  }, 
+  {
+   "begin": "139.960", 
+   "children": [], 
+   "end": "144.920", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "die f\u00fcr jedes Kind in Deutschland die Teilhabe an dieser Gesellschaft erm\u00f6glicht. "
+   ]
+  }, 
+  {
+   "begin": "144.920", 
+   "children": [], 
+   "end": "146.680", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Das muss bei diesem Haushalt drin sein, "
+   ]
+  }, 
+  {
+   "begin": "146.680", 
+   "children": [], 
+   "end": "148.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "148.400", 
+   "children": [], 
+   "end": "153.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Zu guter Familienpolitik geh\u00f6rt nat\u00fcrlich mehr. "
+   ]
+  }, 
+  {
+   "begin": "153.480", 
+   "children": [], 
+   "end": "157.520", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Die Arbeit der Jugendverb\u00e4nde zum Beispiel ist unverzichtbar, "
+   ]
+  }, 
+  {
+   "begin": "157.520", 
+   "children": [], 
+   "end": "164.520", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "und ich m\u00f6chte den Jugendverb\u00e4nden an dieser Stelle ausdr\u00fccklich danken f\u00fcr ihre Arbeit, "
+   ]
+  }, 
+  {
+   "begin": "164.520", 
+   "children": [], 
+   "end": "166.360", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die sie vor Ort leisten."
+   ]
+  }, 
+  {
+   "begin": "166.360", 
+   "children": [], 
+   "end": "168.160", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Sie werden aus Mitteln des Kinder- "
+   ]
+  }, 
+  {
+   "begin": "168.160", 
+   "children": [], 
+   "end": "169.360", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "und Jugendplans gef\u00f6rdert; "
+   ]
+  }, 
+  {
+   "begin": "169.360", 
+   "children": [], 
+   "end": "173.520", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "aber bislang orientiert sich die H\u00f6he der Mittel nicht an den tats\u00e4chlichen Kosten, "
+   ]
+  }, 
+  {
+   "begin": "173.520", 
+   "children": [], 
+   "end": "175.520", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "die die Jugendverb\u00e4nde zu tragen haben. "
+   ]
+  }, 
+  {
+   "begin": "175.520", 
+   "children": [], 
+   "end": "178.920", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Um die Kostensteigerungen der letzten Jahre auszugleichen, "
+   ]
+  }, 
+  {
+   "begin": "178.920", 
+   "children": [], 
+   "end": "184.640", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "fordert die Linke eine deutliche Anhebung und k\u00fcnftig eine dynamische F\u00f6rderung."
+   ]
+  }, 
+  {
+   "begin": "184.640", 
+   "children": [], 
+   "end": "190.520", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Familien brauchen auch eine gute Infrastruktur, "
+   ]
+  }, 
+  {
+   "begin": "190.520", 
+   "children": [], 
+   "end": "192.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "insbesondere Kitapl\u00e4tze. "
+   ]
+  }, 
+  {
+   "begin": "192.520", 
+   "children": [], 
+   "end": "197.600", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "300\u00a0000 davon fehlen bundesweit f\u00fcr Kinder unter drei Jahren. "
+   ]
+  }, 
+  {
+   "begin": "197.600", 
+   "children": [], 
+   "end": "201.360", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Viele Eltern ben\u00f6tigen f\u00fcr ihre Kinder auch eine Betreuung in Randzeiten. "
+   ]
+  }, 
+  {
+   "begin": "201.360", 
+   "children": [], 
+   "end": "203.040", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wie stellen Sie es sich denn vor, "
+   ]
+  }, 
+  {
+   "begin": "203.040", 
+   "children": [], 
+   "end": "206.840", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "dass eine alleinerziehende Verk\u00e4uferin ihre Kinder versorgen kann, "
+   ]
+  }, 
+  {
+   "begin": "206.840", 
+   "children": [], 
+   "end": "210.520", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "wenn Laden\u00f6ffnungszeiten immer noch mehr ausgeweitet werden, "
+   ]
+  }, 
+  {
+   "begin": "210.520", 
+   "children": [], 
+   "end": "213.400", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "selbst auf sp\u00e4tabends und auf Sonntage? "
+   ]
+  }, 
+  {
+   "begin": "213.400", 
+   "children": [], 
+   "end": "217.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr braucht es ein sicheres Betreuungsangebot, "
+   ]
+  }, 
+  {
+   "begin": "217.040", 
+   "children": [], 
+   "end": "220.400", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "wenn solche \u00d6ffnungszeiten ver\u00e4ndert werden."
+   ]
+  }, 
+  {
+   "begin": "220.400", 
+   "children": [], 
+   "end": "223.120", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Die Kita ist auch ein Ort der Bildung. "
+   ]
+  }, 
+  {
+   "begin": "223.120", 
+   "children": [], 
+   "end": "226.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Das erfordert gut ausgebildetes Personal, "
+   ]
+  }, 
+  {
+   "begin": "226.360", 
+   "children": [], 
+   "end": "228.760", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "das man auch gut bezahlen muss. "
+   ]
+  }, 
+  {
+   "begin": "228.760", 
+   "children": [], 
+   "end": "235.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr 3,5\u00a0Milliarden Euro ist das alles nicht zu haben. "
+   ]
+  }, 
+  {
+   "begin": "235.200", 
+   "children": [], 
+   "end": "237.280", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Das sagen wir Ihnen ganz deutlich. "
+   ]
+  }, 
+  {
+   "begin": "237.280", 
+   "children": [], 
+   "end": "244.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Dieses Gute-Kita-Gesetz wird ein Tropfen auf den hei\u00dfen Stein bleiben. "
+   ]
+  }, 
+  {
+   "begin": "244.000", 
+   "children": [], 
+   "end": "245.200", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "245.200", 
+   "children": [], 
+   "end": "248.520", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Geld ist genug in diesem Haushalt. "
+   ]
+  }, 
+  {
+   "begin": "248.520", 
+   "children": [], 
+   "end": "252.440", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Investieren Sie es in Kinder statt in Kriegsbereitschaft!"
+   ]
+  }, 
+  {
+   "begin": "252.440", 
+   "children": [], 
+   "end": "254.600", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Ich k\u00f6nnte noch viel mehr aufz\u00e4hlen, "
+   ]
+  }, 
+  {
+   "begin": "254.600", 
+   "children": [], 
+   "end": "257.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "was in Ihrer Familienpolitik falsch l\u00e4uft. "
+   ]
+  }, 
+  {
+   "begin": "257.360", 
+   "children": [], 
+   "end": "261.400", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Frauenh\u00e4user sind chronisch \u00fcberbelastet und unterfinanziert. "
+   ]
+  }, 
+  {
+   "begin": "261.400", 
+   "children": [], 
+   "end": "266.840", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Senioren warten auf verl\u00e4sslich finanzierte Angebote zur Erhaltung ihrer Selbstst\u00e4ndigkeit. "
+   ]
+  }, 
+  {
+   "begin": "266.840", 
+   "children": [], 
+   "end": "271.840", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen Projekte gegen Rechtsextremismus und f\u00fcr die St\u00e4rkung der Demokratie. "
+   ]
+  }, 
+  {
+   "begin": "271.840", 
+   "children": [], 
+   "end": "272.680", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr Die Linke ist klar: "
+   ]
+  }, 
+  {
+   "begin": "272.680", 
+   "children": [], 
+   "end": "273.840", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Wer f\u00fcr Familien, "
+   ]
+  }, 
+  {
+   "begin": "273.840", 
+   "children": [], 
+   "end": "274.400", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Senioren, "
+   ]
+  }, 
+  {
+   "begin": "274.400", 
+   "children": [], 
+   "end": "277.840", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Frauen und Jugend nur sch\u00f6ne Worth\u00fclsen \u00fcbrig hat, "
+   ]
+  }, 
+  {
+   "begin": "277.840", 
+   "children": [], 
+   "end": "279.040", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "statt zu investieren, "
+   ]
+  }, 
+  {
+   "begin": "279.040", 
+   "children": [], 
+   "end": "282.560", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "schreibt einen Gro\u00dfteil der Menschen in diesem Land ab. "
+   ]
+  }, 
+  {
+   "begin": "282.560", 
+   "children": [], 
+   "end": "283.760", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Das lassen wir nicht zu."
+   ]
+  }, 
+  {
+   "begin": "283.760", 
+   "children": [], 
+   "end": "284.600", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "Danke."
+   ]
+  }, 
+  {
+   "begin": "284.600", 
+   "children": [], 
+   "end": "292.960", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Als N\u00e4chste f\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen die Kollegin Ekin Delig\u00f6z."
+   ]
+  }
+ ]
+}

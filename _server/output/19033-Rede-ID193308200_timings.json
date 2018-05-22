@@ -1,0 +1,324 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "2.640", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Guten Tag, "
+   ]
+  }, 
+  {
+   "begin": "2.640", 
+   "children": [], 
+   "end": "4.240", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Frau Stumpp! "
+   ]
+  }, 
+  {
+   "begin": "4.240", 
+   "children": [], 
+   "end": "11.840", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben mich gerade als Negativbeispiel f\u00fcr schlechte Ausbildung genannt usw. "
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "children": [], 
+   "end": "14.520", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "usf. "
+   ]
+  }, 
+  {
+   "begin": "14.520", 
+   "children": [], 
+   "end": "16.760", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Ich m\u00f6chte ganz kurz darauf eingehen. "
+   ]
+  }, 
+  {
+   "begin": "16.760", 
+   "children": [], 
+   "end": "18.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Sie selber sind ja Ingenieurin. "
+   ]
+  }, 
+  {
+   "begin": "18.960", 
+   "children": [], 
+   "end": "21.440", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wir reden ganz kurz \u00fcber die Klimamodellierung, "
+   ]
+  }, 
+  {
+   "begin": "21.440", 
+   "children": [], 
+   "end": "22.160", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die ich eben erw\u00e4hnt habe. "
+   ]
+  }, 
+  {
+   "begin": "22.160", 
+   "children": [], 
+   "end": "24.080", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Man braucht dazu Mathematiker, "
+   ]
+  }, 
+  {
+   "begin": "24.080", 
+   "children": [], 
+   "end": "24.920", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Informatiker."
+   ]
+  }, 
+  {
+   "begin": "24.920", 
+   "children": [], 
+   "end": "25.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ja, "
+   ]
+  }, 
+  {
+   "begin": "25.320", 
+   "children": [], 
+   "end": "26.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "nat\u00fcrlich. "
+   ]
+  }, 
+  {
+   "begin": "26.640", 
+   "children": [], 
+   "end": "29.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Das sind partielle Differenzialgleichungssysteme."
+   ]
+  }, 
+  {
+   "begin": "29.120", 
+   "children": [], 
+   "end": "29.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ja, "
+   ]
+  }, 
+  {
+   "begin": "29.800", 
+   "children": [], 
+   "end": "32.000", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "ein bisschen habe ich damit herumgespielt, "
+   ]
+  }, 
+  {
+   "begin": "32.000", 
+   "children": [], 
+   "end": "32.640", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "nat\u00fcrlich."
+   ]
+  }, 
+  {
+   "begin": "32.640", 
+   "children": [], 
+   "end": "34.800", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt meine Frage, "
+   ]
+  }, 
+  {
+   "begin": "34.800", 
+   "children": [], 
+   "end": "37.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "auch an Herrn R\u00f6spel: "
+   ]
+  }, 
+  {
+   "begin": "37.880", 
+   "children": [], 
+   "end": "40.920", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Ein Differenzialgleichungssystem hat das Problem der Robustheit. "
+   ]
+  }, 
+  {
+   "begin": "40.920", 
+   "children": [], 
+   "end": "41.800", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wissen Sie als Ingenieurin, "
+   ]
+  }, 
+  {
+   "begin": "41.800", 
+   "children": [], 
+   "end": "42.440", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "was das ist, "
+   ]
+  }, 
+  {
+   "begin": "42.440", 
+   "children": [], 
+   "end": "42.760", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und wissen Sie, "
+   ]
+  }, 
+  {
+   "begin": "42.760", 
+   "children": [], 
+   "end": "45.320", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "was f\u00fcr Auswirkungen das auf die Klimamodellierung hat?"
+   ]
+  }, 
+  {
+   "begin": "45.320", 
+   "children": [], 
+   "end": "47.280", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Wir arbeiten hier mit einem Fundament auf Sand. "
+   ]
+  }, 
+  {
+   "begin": "47.280", 
+   "children": [], 
+   "end": "48.800", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Wir geben 50\u00a0Milliarden Euro aus. "
+   ]
+  }, 
+  {
+   "begin": "48.800", 
+   "children": [], 
+   "end": "50.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Wenn die Modelle zur L\u00f6sung dieses Problems nicht taugen, "
+   ]
+  }, 
+  {
+   "begin": "50.480", 
+   "children": [], 
+   "end": "52.400", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "was passiert dann? "
+   ]
+  }, 
+  {
+   "begin": "52.400", 
+   "children": [], 
+   "end": "54.360", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Das ist meine zweite Frage an Sie."
+   ]
+  }, 
+  {
+   "begin": "54.360", 
+   "children": [], 
+   "end": "55.440", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Wollen Sie antworten, "
+   ]
+  }, 
+  {
+   "begin": "55.440", 
+   "children": [], 
+   "end": "56.200", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Frau Kollegin?\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "56.200", 
+   "children": [], 
+   "end": "57.000", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Nein."
+   ]
+  }, 
+  {
+   "begin": "57.000", 
+   "children": [], 
+   "end": "63.960", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Dann erteile ich das Wort dem Kollegen Tankred Schipanski von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

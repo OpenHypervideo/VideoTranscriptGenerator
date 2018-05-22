@@ -1,0 +1,824 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "8.200", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "8.200", 
+   "children": [], 
+   "end": "11.600", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "children": [], 
+   "end": "13.480", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste auf der Trib\u00fcne! "
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "children": [], 
+   "end": "15.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "15.680", 
+   "children": [], 
+   "end": "18.960", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Zu Beginn meiner Rede m\u00f6chte ich festhalten: "
+   ]
+  }, 
+  {
+   "begin": "18.960", 
+   "children": [], 
+   "end": "23.480", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Das Gesundheitssystem in Deutschland ist eines der besten der Welt."
+   ]
+  }, 
+  {
+   "begin": "23.480", 
+   "children": [], 
+   "end": "31.800", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wir haben eine Spitzenversorgung in unserem Land, "
+   ]
+  }, 
+  {
+   "begin": "31.800", 
+   "children": [], 
+   "end": "35.800", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "die Patienten haben immer Anteil am medizinischen Fortschritt, "
+   ]
+  }, 
+  {
+   "begin": "35.800", 
+   "children": [], 
+   "end": "39.800", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "jeder B\u00fcrger in Deutschland hat Anspruch auf eine Krankenversicherung. "
+   ]
+  }, 
+  {
+   "begin": "39.800", 
+   "children": [], 
+   "end": "47.120", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Die \u00fcber 5\u00a0Millionen Mitarbeiterinnen und Mitarbeiter im Gesundheitswesen leisten eine hervorragende Arbeit. "
+   ]
+  }, 
+  {
+   "begin": "47.120", 
+   "children": [], 
+   "end": "50.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Ich darf ihnen allen f\u00fcr diesen Dienst am Menschen danken."
+   ]
+  }, 
+  {
+   "begin": "50.240", 
+   "children": [], 
+   "end": "59.560", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Das alles ist keine Selbstverst\u00e4ndlichkeit. "
+   ]
+  }, 
+  {
+   "begin": "59.560", 
+   "children": [], 
+   "end": "69.720", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Aufgrund der exzellenten Besch\u00e4ftigungssituation und der positiven Gesamtentwicklung stimmen insgesamt gesehen auch die Beitragseinnahmen, "
+   ]
+  }, 
+  {
+   "begin": "69.720", 
+   "children": [], 
+   "end": "71.960", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "die dieses System tragen. "
+   ]
+  }, 
+  {
+   "begin": "71.960", 
+   "children": [], 
+   "end": "77.960", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Der Gesundheitsfonds und die gesetzlichen Krankenkassen sind gut mit Liquidit\u00e4tsreserven ausgestattet. "
+   ]
+  }, 
+  {
+   "begin": "77.960", 
+   "children": [], 
+   "end": "83.160", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "In der Pflege m\u00fcssen wir zu einer soliden Finanzierung beitragen."
+   ]
+  }, 
+  {
+   "begin": "83.160", 
+   "children": [], 
+   "end": "84.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "84.240", 
+   "children": [], 
+   "end": "86.640", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "es wird der Opposition nicht gelingen, "
+   ]
+  }, 
+  {
+   "begin": "86.640", 
+   "children": [], 
+   "end": "89.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "unser Gesundheitssystem krankzubeten. "
+   ]
+  }, 
+  {
+   "begin": "89.480", 
+   "children": [], 
+   "end": "91.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen es auch nicht gesundzubeten, "
+   ]
+  }, 
+  {
+   "begin": "91.960", 
+   "children": [], 
+   "end": "96.120", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "obwohl wir die besseren Beziehungen nach oben daf\u00fcr h\u00e4tten."
+   ]
+  }, 
+  {
+   "begin": "96.120", 
+   "children": [], 
+   "end": "99.840", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Unser Gesundheitssystem steht eben sehr gut da, "
+   ]
+  }, 
+  {
+   "begin": "99.840", 
+   "children": [], 
+   "end": "103.880", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "und daran \u00e4ndert Ihre Kritik, "
+   ]
+  }, 
+  {
+   "begin": "103.880", 
+   "children": [], 
+   "end": "108.600", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "die Sie heute von der Oppositionsbank doch sehr bem\u00fcht vortragen, "
+   ]
+  }, 
+  {
+   "begin": "108.600", 
+   "children": [], 
+   "end": "109.120", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "auch nichts."
+   ]
+  }, 
+  {
+   "begin": "109.120", 
+   "children": [], 
+   "end": "116.480", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Der Haushalt des Bundesgesundheitsministeriums leistet seinen Beitrag zur Stabilit\u00e4t dieses Systems. "
+   ]
+  }, 
+  {
+   "begin": "116.480", 
+   "children": [], 
+   "end": "125.480", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Er steht auf einem guten Fundament und hat die k\u00fcnftigen Entwicklungen im Land und auch international fest im Blick. "
+   ]
+  }, 
+  {
+   "begin": "125.480", 
+   "children": [], 
+   "end": "126.920", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die Sonderausgaben, "
+   ]
+  }, 
+  {
+   "begin": "126.920", 
+   "children": [], 
+   "end": "129.000", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "die das Ministerium bewirtschaftet, "
+   ]
+  }, 
+  {
+   "begin": "129.000", 
+   "children": [], 
+   "end": "132.400", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "sind zwar nicht direkt aus dem Bundeshaushalt zu begleichen, "
+   ]
+  }, 
+  {
+   "begin": "132.400", 
+   "children": [], 
+   "end": "138.320", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "zeigen dennoch die starke Ausrichtung unserer Gesundheitspolitik in die Zukunft."
+   ]
+  }, 
+  {
+   "begin": "138.320", 
+   "children": [], 
+   "end": "140.720", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Kommen wir nun aber zum Einzelplan. "
+   ]
+  }, 
+  {
+   "begin": "140.720", 
+   "children": [], 
+   "end": "149.400", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Auch in diesem Jahr geben wir aus dem Steueraufkommen wieder 14,5\u00a0Milliarden Euro in den Gesundheitsfonds. "
+   ]
+  }, 
+  {
+   "begin": "149.400", 
+   "children": [], 
+   "end": "155.720", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcbrigens ist diese Summe laut Finanzplan bis 2022 festgeschrieben. "
+   ]
+  }, 
+  {
+   "begin": "155.720", 
+   "children": [], 
+   "end": "159.920", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Dieser Beitrag refinanziert die versicherungsfremden Leistungen, "
+   ]
+  }, 
+  {
+   "begin": "159.920", 
+   "children": [], 
+   "end": "163.320", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "wie etwa die beitragsfreie Mitversicherung von Kindern, "
+   ]
+  }, 
+  {
+   "begin": "163.320", 
+   "children": [], 
+   "end": "166.320", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "die durch die Krankenkassen gezahlt werden."
+   ]
+  }, 
+  {
+   "begin": "166.320", 
+   "children": [], 
+   "end": "170.840", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb schaffen wir auch die privaten Krankenkassen nicht ab. "
+   ]
+  }, 
+  {
+   "begin": "170.840", 
+   "children": [], 
+   "end": "180.560", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Sonst w\u00fcrde dieser Beitrag n\u00e4mlich logischerweise steigen."
+   ]
+  }, 
+  {
+   "begin": "180.560", 
+   "children": [], 
+   "end": "189.640", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Schon in der vergangenen Legislaturperiode haben wir uns nach der gro\u00dfen Pflegereform um das Berufsbild in der Pflege gek\u00fcmmert. "
+   ]
+  }, 
+  {
+   "begin": "189.640", 
+   "children": [], 
+   "end": "195.920", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Mit diesem Haushalt werden wir die Pflegekampagne mit 2\u00a0Millionen Euro wiederbeleben. "
+   ]
+  }, 
+  {
+   "begin": "195.920", 
+   "children": [], 
+   "end": "202.400", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen damit f\u00fcr die Pflegeausbildung werben und das Ansehen des Pflegeberufs steigern, "
+   ]
+  }, 
+  {
+   "begin": "202.400", 
+   "children": [], 
+   "end": "205.960", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "was meines Erachtens dringend notwendig ist."
+   ]
+  }, 
+  {
+   "begin": "205.960", 
+   "children": [], 
+   "end": "207.680", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Lassen wir das Schlechtreden. "
+   ]
+  }, 
+  {
+   "begin": "207.680", 
+   "children": [], 
+   "end": "213.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Positiv reden und ordentliche Bezahlung m\u00fcssen k\u00fcnftig Priorit\u00e4t sein."
+   ]
+  }, 
+  {
+   "begin": "213.320", 
+   "children": [], 
+   "end": "221.320", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Auch international m\u00fcssen wir uns mehr engagieren. "
+   ]
+  }, 
+  {
+   "begin": "221.320", 
+   "children": [], 
+   "end": "223.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Die Ebolakrise hat gezeigt, "
+   ]
+  }, 
+  {
+   "begin": "223.720", 
+   "children": [], 
+   "end": "227.880", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dass wir im internationalen Gesundheitsschutz Nachholbedarf haben. "
+   ]
+  }, 
+  {
+   "begin": "227.880", 
+   "children": [], 
+   "end": "232.560", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Aktuell gibt es wieder einen lokal begrenzten Ausbruch. "
+   ]
+  }, 
+  {
+   "begin": "232.560", 
+   "children": [], 
+   "end": "241.840", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Die Erh\u00f6hung der Mittel f\u00fcr die WHO um \u00fcber 22\u00a0Millionen Euro kommt uns in Deutschland und Europa unmittelbar zugute. "
+   ]
+  }, 
+  {
+   "begin": "241.840", 
+   "children": [], 
+   "end": "243.880", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Auch das ist schon gesagt worden: "
+   ]
+  }, 
+  {
+   "begin": "243.880", 
+   "children": [], 
+   "end": "250.720", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Krisen und Krankheitsausbr\u00fcche machen in der globalisierten Welt nicht vor Landesgrenzen halt."
+   ]
+  }, 
+  {
+   "begin": "250.720", 
+   "children": [], 
+   "end": "257.120", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Der Haushalt des Bundesgesundheitsministeriums kommt auch seinen heimatlichen Pflichten nach. "
+   ]
+  }, 
+  {
+   "begin": "257.120", 
+   "children": [], 
+   "end": "258.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ressortforschung, "
+   ]
+  }, 
+  {
+   "begin": "258.360", 
+   "children": [], 
+   "end": "259.920", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "gesundheitliche Aufkl\u00e4rung, "
+   ]
+  }, 
+  {
+   "begin": "259.920", 
+   "children": [], 
+   "end": "265.480", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Arzneimittelzulassung sowie die Institute des Ministeriums wie Robert-Koch- "
+   ]
+  }, 
+  {
+   "begin": "265.480", 
+   "children": [], 
+   "end": "268.360", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "und Paul-Ehrlich-Institut sind solide ausgestattet."
+   ]
+  }, 
+  {
+   "begin": "268.360", 
+   "children": [], 
+   "end": "279.560", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Als Abgeordneter aus dem wirtschaftlich starken und l\u00e4ndlich gepr\u00e4gten Oberschwaben ist es mir wichtig, "
+   ]
+  }, 
+  {
+   "begin": "279.560", 
+   "children": [], 
+   "end": "284.320", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass wir auch in Zukunft mehr f\u00fcr den l\u00e4ndlichen Raum tun. "
+   ]
+  }, 
+  {
+   "begin": "284.320", 
+   "children": [], 
+   "end": "285.360", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin sehr froh, "
+   ]
+  }, 
+  {
+   "begin": "285.360", 
+   "children": [], 
+   "end": "292.480", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "dass Union und SPD sich im Koalitionsvertrag auf die Verbesserung der Landarztversorgung geeinigt haben. "
+   ]
+  }, 
+  {
+   "begin": "292.480", 
+   "children": [], 
+   "end": "293.640", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "293.640", 
+   "children": [], 
+   "end": "300.760", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dass die Patientinnen und Patienten auf dem Land das gleiche Versorgungsniveau vorfinden wie in der Stadt. "
+   ]
+  }, 
+  {
+   "begin": "300.760", 
+   "children": [], 
+   "end": "304.640", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Auch den \u00c4rzten auf dem Land muss es gleich gut gehen wie in Ballungsr\u00e4umen. "
+   ]
+  }, 
+  {
+   "begin": "304.640", 
+   "children": [], 
+   "end": "310.200", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Wichtig ist auch eine gesicherte fl\u00e4chendeckende Versorgung mit Apotheken."
+   ]
+  }, 
+  {
+   "begin": "310.200", 
+   "children": [], 
+   "end": "314.080", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "Die Digitalisierung kann und muss dazu genutzt werden, "
+   ]
+  }, 
+  {
+   "begin": "314.080", 
+   "children": [], 
+   "end": "317.200", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "dieses zentrale Ziel zu erreichen. "
+   ]
+  }, 
+  {
+   "begin": "317.200", 
+   "children": [], 
+   "end": "320.320", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Die Gleichwertigkeit der Lebensverh\u00e4ltnisse herzustellen, "
+   ]
+  }, 
+  {
+   "begin": "320.320", 
+   "children": [], 
+   "end": "321.480", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "ist eine Pflicht. "
+   ]
+  }, 
+  {
+   "begin": "321.480", 
+   "children": [], 
+   "end": "324.560", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin Herrn Minister Spahn sehr dankbar, "
+   ]
+  }, 
+  {
+   "begin": "324.560", 
+   "children": [], 
+   "end": "327.960", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "dass er dieses Thema ganz oben auf seiner Agenda hat."
+   ]
+  }, 
+  {
+   "begin": "327.960", 
+   "children": [], 
+   "end": "335.080", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen verhindern, "
+   ]
+  }, 
+  {
+   "begin": "335.080", 
+   "children": [], 
+   "end": "340.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "dass die n\u00e4chste Generation aus den l\u00e4ndlichen R\u00e4umen in die Ballungsr\u00e4ume zieht."
+   ]
+  }, 
+  {
+   "begin": "340.280", 
+   "children": [], 
+   "end": "341.720", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "341.720", 
+   "children": [], 
+   "end": "344.000", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "insgesamt bleibt festzuhalten: "
+   ]
+  }, 
+  {
+   "begin": "344.000", 
+   "children": [], 
+   "end": "346.360", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Der Haushalt ist solide finanziert. "
+   ]
+  }, 
+  {
+   "begin": "346.360", 
+   "children": [], 
+   "end": "352.080", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Der Finanzplan bis 2022 kommt auch weiter ohne Schulden aus, "
+   ]
+  }, 
+  {
+   "begin": "352.080", 
+   "children": [], 
+   "end": "357.480", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "und die priorit\u00e4ren Ma\u00dfnahmen im Koalitionsvertrag werden ohne Abschl\u00e4ge finanziert."
+   ]
+  }, 
+  {
+   "begin": "357.480", 
+   "children": [], 
+   "end": "363.760", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Die Koalition geht damit mit einem klaren Bekenntnis zu solider Haushaltspolitik in die Zukunft. "
+   ]
+  }, 
+  {
+   "begin": "363.760", 
+   "children": [], 
+   "end": "368.640", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Dies tr\u00e4gt zu einer verbesserten Gesundheit und damit einer h\u00f6heren Lebensqualit\u00e4t von uns allen bei."
+   ]
+  }, 
+  {
+   "begin": "368.640", 
+   "children": [], 
+   "end": "369.240", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "369.240", 
+   "children": [], 
+   "end": "373.760", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Das war die letzte Wortmeldung zum Gesch\u00e4ftsbereich des Gesundheitsministeriums."
+   ]
+  }
+ ]
+}

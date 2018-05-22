@@ -1,0 +1,804 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "6.840", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Frau Pr\u00e4sidentin! "
+   ]
+  }, 
+  {
+   "begin": "6.840", 
+   "children": [], 
+   "end": "8.680", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrte Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "8.680", 
+   "children": [], 
+   "end": "10.680", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Es ist jetzt ungef\u00e4hr zehn Jahre her, "
+   ]
+  }, 
+  {
+   "begin": "10.680", 
+   "children": [], 
+   "end": "14.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "dass die Bundesregierung aus Union und FDP die Energiewende beschloss. "
+   ]
+  }, 
+  {
+   "begin": "14.680", 
+   "children": [], 
+   "end": "19.120", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Dem waren zw\u00f6lf Jahre Liberalisierung des Strommarktes vorangegangen. "
+   ]
+  }, 
+  {
+   "begin": "19.120", 
+   "children": [], 
+   "end": "20.960", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die Ziele waren vielf\u00e4ltig. "
+   ]
+  }, 
+  {
+   "begin": "20.960", 
+   "children": [], 
+   "end": "22.400", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wo stehen wir heute? "
+   ]
+  }, 
+  {
+   "begin": "22.400", 
+   "children": [], 
+   "end": "27.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Deutschland hat nach D\u00e4nemark die h\u00f6chsten Strompreise der EU. "
+   ]
+  }, 
+  {
+   "begin": "27.440", 
+   "children": [], 
+   "end": "28.120", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Der Steueranteil, "
+   ]
+  }, 
+  {
+   "begin": "28.120", 
+   "children": [], 
+   "end": "28.960", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "der Staatsanteil, "
+   ]
+  }, 
+  {
+   "begin": "28.960", 
+   "children": [], 
+   "end": "30.760", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "hat sich seit 1998 mehr als verdoppelt. "
+   ]
+  }, 
+  {
+   "begin": "30.760", 
+   "children": [], 
+   "end": "34.200", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "24\u00a0Prozent entfallen allein auf das EEG. "
+   ]
+  }, 
+  {
+   "begin": "34.200", 
+   "children": [], 
+   "end": "39.960", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Jedes Jahr steigen die Preise um etwa 3\u00a0Prozent und damit um ein Vielfaches st\u00e4rker als im benachbarten Ausland. "
+   ]
+  }, 
+  {
+   "begin": "39.960", 
+   "children": [], 
+   "end": "43.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Erneuerbare Energien garantieren leider noch keine Versorgungssicherheit. "
+   ]
+  }, 
+  {
+   "begin": "43.800", 
+   "children": [], 
+   "end": "48.600", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Bei der Nachhaltigkeit von Windr\u00e4dern und des Energiepflanzenanbaus, "
+   ]
+  }, 
+  {
+   "begin": "48.600", 
+   "children": [], 
+   "end": "51.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "der zu einem Nitratanstieg im Wasser f\u00fchrt, "
+   ]
+  }, 
+  {
+   "begin": "51.080", 
+   "children": [], 
+   "end": "54.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "gibt es jede Menge Fragen und berechtigte Sorgen der B\u00fcrger. "
+   ]
+  }, 
+  {
+   "begin": "54.040", 
+   "children": [], 
+   "end": "55.760", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Offshorewindparks, "
+   ]
+  }, 
+  {
+   "begin": "55.760", 
+   "children": [], 
+   "end": "62.600", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "negative Strompreise und Entsch\u00e4digungen wegen Kapazit\u00e4tsstillst\u00e4nden werden lieber erst gar nicht offen und transparent angesprochen. "
+   ]
+  }, 
+  {
+   "begin": "62.600", 
+   "children": [], 
+   "end": "65.560", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Das k\u00f6nnte n\u00e4mlich das eine oder andere Schloss ins Wanken bringen."
+   ]
+  }, 
+  {
+   "begin": "65.560", 
+   "children": [], 
+   "end": "69.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "4,2\u00a0Milliarden Euro Sonderverm\u00f6gen f\u00fcr den Energie- "
+   ]
+  }, 
+  {
+   "begin": "69.600", 
+   "children": [], 
+   "end": "70.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und Klimafonds, "
+   ]
+  }, 
+  {
+   "begin": "70.960", 
+   "children": [], 
+   "end": "71.920", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "das ist grunds\u00e4tzlich gut. "
+   ]
+  }, 
+  {
+   "begin": "71.920", 
+   "children": [], 
+   "end": "73.240", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Aber die entscheidende Frage lautet: "
+   ]
+  }, 
+  {
+   "begin": "73.240", 
+   "children": [], 
+   "end": "74.200", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Ist alles sinnvoll, "
+   ]
+  }, 
+  {
+   "begin": "74.200", 
+   "children": [], 
+   "end": "75.360", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "was dort gemacht wird? "
+   ]
+  }, 
+  {
+   "begin": "75.360", 
+   "children": [], 
+   "end": "81.160", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "Denn tats\u00e4chlich bezahlen die B\u00fcrger die Energiewende oft mit sehr zweifelhaften Posten und haben kaum eine Chance, "
+   ]
+  }, 
+  {
+   "begin": "81.160", 
+   "children": [], 
+   "end": "81.960", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "zu verstehen, "
+   ]
+  }, 
+  {
+   "begin": "81.960", 
+   "children": [], 
+   "end": "85.040", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "von wie vielen Seiten ihnen in die Tasche gegriffen wird. "
+   ]
+  }, 
+  {
+   "begin": "85.040", 
+   "children": [], 
+   "end": "88.800", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "2\u00a0Milliarden Euro gehen in die oft zweifelhafte D\u00e4mmung von Geb\u00e4uden. "
+   ]
+  }, 
+  {
+   "begin": "88.800", 
+   "children": [], 
+   "end": "92.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "210\u00a0Millionen Euro gibt es f\u00fcr Strompreiskompensationen. "
+   ]
+  }, 
+  {
+   "begin": "92.880", 
+   "children": [], 
+   "end": "98.600", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "150\u00a0Millionen Euro werden f\u00fcr Stromeffizienzwettbewerbe ausgereicht. "
+   ]
+  }, 
+  {
+   "begin": "98.600", 
+   "children": [], 
+   "end": "107.200", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Herr Houben hat bereits erfreulicherweise die 275\u00a0Millionen Euro Subventionen f\u00fcr die E-Antriebe von Fahrzeugen angesprochen. "
+   ]
+  }, 
+  {
+   "begin": "107.200", 
+   "children": [], 
+   "end": "110.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "An anderer Stelle wird die Abschaffung von Dieselsubventionen gefordert, "
+   ]
+  }, 
+  {
+   "begin": "110.640", 
+   "children": [], 
+   "end": "112.200", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die gar keine sind."
+   ]
+  }, 
+  {
+   "begin": "112.200", 
+   "children": [], 
+   "end": "114.920", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Beleuchtet man die Treiber dieser Energiewende-Ideologie, "
+   ]
+  }, 
+  {
+   "begin": "114.920", 
+   "children": [], 
+   "end": "118.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "so st\u00f6\u00dft man auf ein ziemlich interessantes Netzwerk quer durch alle Ministerien, "
+   ]
+  }, 
+  {
+   "begin": "118.920", 
+   "children": [], 
+   "end": "119.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "das Umweltbundesamt, "
+   ]
+  }, 
+  {
+   "begin": "119.600", 
+   "children": [], 
+   "end": "121.000", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Vereine und Stiftungen. "
+   ]
+  }, 
+  {
+   "begin": "121.000", 
+   "children": [], 
+   "end": "123.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Die Krone der Selbstbedienung ist dabei, "
+   ]
+  }, 
+  {
+   "begin": "123.360", 
+   "children": [], 
+   "end": "124.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "wie schon \u00f6fter mal angesprochen, "
+   ]
+  }, 
+  {
+   "begin": "124.760", 
+   "children": [], 
+   "end": "125.840", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "die Deutsche Umwelthilfe, "
+   ]
+  }, 
+  {
+   "begin": "125.840", 
+   "children": [], 
+   "end": "126.440", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "kurz: "
+   ]
+  }, 
+  {
+   "begin": "126.440", 
+   "children": [], 
+   "end": "126.800", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "DUH, "
+   ]
+  }, 
+  {
+   "begin": "126.800", 
+   "children": [], 
+   "end": "129.600", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "mit besten Verbindungen in die entsprechenden Ministerien. "
+   ]
+  }, 
+  {
+   "begin": "129.600", 
+   "children": [], 
+   "end": "131.880", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "Wundert es da eigentlich \u00fcberhaupt noch jemanden, "
+   ]
+  }, 
+  {
+   "begin": "131.880", 
+   "children": [], 
+   "end": "139.720", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "dass ausgerechnet dort das bisher nicht ver\u00f6ffentlichte Wachtmeister-Gutachten im Rahmen der Dieselaff\u00e4re auftauchte?"
+   ]
+  }, 
+  {
+   "begin": "139.720", 
+   "children": [], 
+   "end": "140.600", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man wissen m\u00f6chte, "
+   ]
+  }, 
+  {
+   "begin": "140.600", 
+   "children": [], 
+   "end": "142.560", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "wie Lobbypolitik funktioniert, "
+   ]
+  }, 
+  {
+   "begin": "142.560", 
+   "children": [], 
+   "end": "145.680", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "dann muss man diese Strukturen einfach mal ein bisschen genauer betrachten. "
+   ]
+  }, 
+  {
+   "begin": "145.680", 
+   "children": [], 
+   "end": "150.000", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Da ist sp\u00e4testens seit der \u00c4ra des gr\u00fcnen Umweltministers Trittin auffallend, "
+   ]
+  }, 
+  {
+   "begin": "150.000", 
+   "children": [], 
+   "end": "153.200", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "dass da ziemlich viel Bewegung reingekommen ist. "
+   ]
+  }, 
+  {
+   "begin": "153.200", 
+   "children": [], 
+   "end": "162.680", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Unl\u00e4ngst hat man im BMWi die wohlklingende Initiative \u201eB\u00fcrgerdialog Stromnetz\u201c erfunden und suggeriert dem B\u00fcrger: "
+   ]
+  }, 
+  {
+   "begin": "162.680", 
+   "children": [], 
+   "end": "163.600", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Ihr d\u00fcrft teilhaben. "
+   ]
+  }, 
+  {
+   "begin": "163.600", 
+   "children": [], 
+   "end": "167.880", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wir binden euch ein in den Stromtrassenausbau in der Energiewende. "
+   ]
+  }, 
+  {
+   "begin": "167.880", 
+   "children": [], 
+   "end": "169.680", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Ihr d\u00fcrft mitentscheiden.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "169.680", 
+   "children": [], 
+   "end": "172.120", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Tats\u00e4chlich entsteht der Eindruck, "
+   ]
+  }, 
+  {
+   "begin": "172.120", 
+   "children": [], 
+   "end": "173.760", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "dass man hier nur die Einw\u00e4nde sammelt, "
+   ]
+  }, 
+  {
+   "begin": "173.760", 
+   "children": [], 
+   "end": "184.680", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "um sich professionell mittels Werbeagenturen und Kommunikationsb\u00fcros entsprechend fit machen zu k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "184.680", 
+   "children": [], 
+   "end": "188.840", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "Am Ende hat der B\u00fcrger seine normalen gesetzlichen Rechte. "
+   ]
+  }, 
+  {
+   "begin": "188.840", 
+   "children": [], 
+   "end": "189.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Die kann man ihm erkl\u00e4ren; "
+   ]
+  }, 
+  {
+   "begin": "189.800", 
+   "children": [], 
+   "end": "191.360", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "aber daf\u00fcr braucht man nicht Millionen auszugeben."
+   ]
+  }, 
+  {
+   "begin": "191.360", 
+   "children": [], 
+   "end": "193.400", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Als Parlament ist es unsere Pflicht, "
+   ]
+  }, 
+  {
+   "begin": "193.400", 
+   "children": [], 
+   "end": "197.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "all diese T\u00e4tigkeiten genau auszuleuchten und zu hinterfragen. "
+   ]
+  }, 
+  {
+   "begin": "197.080", 
+   "children": [], 
+   "end": "197.560", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Nach dem, "
+   ]
+  }, 
+  {
+   "begin": "197.560", 
+   "children": [], 
+   "end": "199.920", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "was wir bisher so recherchiert haben, "
+   ]
+  }, 
+  {
+   "begin": "199.920", 
+   "children": [], 
+   "end": "204.800", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "sind die Erkenntnisse rund um die T\u00e4tigkeiten der Deutschen Umwelthilfe mehr als zweifelhaft. "
+   ]
+  }, 
+  {
+   "begin": "204.800", 
+   "children": [], 
+   "end": "206.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Angesichts des Interesses weiterer Fraktionen, "
+   ]
+  }, 
+  {
+   "begin": "206.840", 
+   "children": [], 
+   "end": "208.760", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "die hier ebenfalls Anfragen gestellt haben, "
+   ]
+  }, 
+  {
+   "begin": "208.760", 
+   "children": [], 
+   "end": "211.320", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "fordert Die blaue Partei dazu auf, "
+   ]
+  }, 
+  {
+   "begin": "211.320", 
+   "children": [], 
+   "end": "214.920", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "die staatlichen Zuwendungen an die DUH einzufrieren, "
+   ]
+  }, 
+  {
+   "begin": "214.920", 
+   "children": [], 
+   "end": "222.400", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "einen Parlamentarischen Untersuchungsausschuss zur \u00dcberpr\u00fcfung der Vereinst\u00e4tigkeiten einzusetzen und diesem Verein das Verbandsklagerecht zu entziehen. "
+   ]
+  }, 
+  {
+   "begin": "222.400", 
+   "children": [], 
+   "end": "223.240", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Sie haben angefragt. "
+   ]
+  }, 
+  {
+   "begin": "223.240", 
+   "children": [], 
+   "end": "225.120", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Bitte unterst\u00fctzen Sie uns dabei, "
+   ]
+  }, 
+  {
+   "begin": "225.120", 
+   "children": [], 
+   "end": "227.240", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "damit dieses Treiben aufh\u00f6rt."
+   ]
+  }, 
+  {
+   "begin": "227.240", 
+   "children": [], 
+   "end": "229.400", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "229.400", 
+   "children": [], 
+   "end": "230.000", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "Danke, "
+   ]
+  }, 
+  {
+   "begin": "230.000", 
+   "children": [], 
+   "end": "231.840", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Herr Mieruch.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "231.840", 
+   "children": [], 
+   "end": "232.800", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chste Rednerin: "
+   ]
+  }, 
+  {
+   "begin": "232.800", 
+   "children": [], 
+   "end": "235.960", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "Dr.\u00a0Julia Verlinden f\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen."
+   ]
+  }
+ ]
+}

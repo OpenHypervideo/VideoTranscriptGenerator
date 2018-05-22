@@ -1,0 +1,1004 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "0.920", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "0.920", 
+   "children": [], 
+   "end": "7.000", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "7.000", 
+   "children": [], 
+   "end": "9.640", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Meine sehr geehrten Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "9.640", 
+   "children": [], 
+   "end": "11.840", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Leider ist die Situation in unserem Land so, "
+   ]
+  }, 
+  {
+   "begin": "11.840", 
+   "children": [], 
+   "end": "13.480", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dass wir nicht nur eine Zweiklassen-, "
+   ]
+  }, 
+  {
+   "begin": "13.480", 
+   "children": [], 
+   "end": "16.280", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "sondern sogar eine Dreiklassenmedizin haben. "
+   ]
+  }, 
+  {
+   "begin": "16.280", 
+   "children": [], 
+   "end": "20.440", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Es muss f\u00fcr einen Gesundheitsminister die zentrale Herausforderung sein, "
+   ]
+  }, 
+  {
+   "begin": "20.440", 
+   "children": [], 
+   "end": "25.320", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "mit dieser Situation Schluss zu machen."
+   ]
+  }, 
+  {
+   "begin": "25.320", 
+   "children": [], 
+   "end": "29.200", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber l\u00e4ngere Wartezeiten in den Zimmern, "
+   ]
+  }, 
+  {
+   "begin": "29.200", 
+   "children": [], 
+   "end": "30.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "wo Kassenpatienten sitzen, "
+   ]
+  }, 
+  {
+   "begin": "30.480", 
+   "children": [], 
+   "end": "32.240", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wurde in den Medien schon viel berichtet; "
+   ]
+  }, 
+  {
+   "begin": "32.240", 
+   "children": [], 
+   "end": "34.280", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "getan hat sich wenig. "
+   ]
+  }, 
+  {
+   "begin": "34.280", 
+   "children": [], 
+   "end": "39.760", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Aber noch schwerwiegender ist die Abwanderung von niedergelassenen \u00c4rzten in Regionen, "
+   ]
+  }, 
+  {
+   "begin": "39.760", 
+   "children": [], 
+   "end": "42.400", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "in denen viele Privatpatienten leben. "
+   ]
+  }, 
+  {
+   "begin": "42.400", 
+   "children": [], 
+   "end": "45.040", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Ich kann das am Beispiel meiner Heimatstadt Berlin sehen, "
+   ]
+  }, 
+  {
+   "begin": "45.040", 
+   "children": [], 
+   "end": "47.680", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "wo deutlich mehr Fach\u00e4rzte von Ost- "
+   ]
+  }, 
+  {
+   "begin": "47.680", 
+   "children": [], 
+   "end": "49.240", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "nach Westberlin abwandern. "
+   ]
+  }, 
+  {
+   "begin": "49.240", 
+   "children": [], 
+   "end": "53.600", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "In Zehlendorf gibt es einfach mehr Privatpatienten als in Lichtenberg, "
+   ]
+  }, 
+  {
+   "begin": "53.600", 
+   "children": [], 
+   "end": "56.560", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "und darum entsteht eine ungleiche Verteilung."
+   ]
+  }, 
+  {
+   "begin": "56.560", 
+   "children": [], 
+   "end": "58.080", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Es gibt eine L\u00f6sung daf\u00fcr. "
+   ]
+  }, 
+  {
+   "begin": "58.080", 
+   "children": [], 
+   "end": "61.200", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Die L\u00f6sung hei\u00dft solidarische B\u00fcrgerversicherung,"
+   ]
+  }, 
+  {
+   "begin": "61.200", 
+   "children": [], 
+   "end": "67.120", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "die Schluss macht mit der Aufteilung der Patienten in gesetzlich und privat Versicherte."
+   ]
+  }, 
+  {
+   "begin": "67.120", 
+   "children": [], 
+   "end": "68.280", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Das ist kein Gespenst, "
+   ]
+  }, 
+  {
+   "begin": "68.280", 
+   "children": [], 
+   "end": "70.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "sondern es ist eine sehr vern\u00fcnftige Forderung."
+   ]
+  }, 
+  {
+   "begin": "70.840", 
+   "children": [], 
+   "end": "74.600", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Mit dieser Forderung ist auch die SPD in die Koalitionsverhandlungen gegangen. "
+   ]
+  }, 
+  {
+   "begin": "74.600", 
+   "children": [], 
+   "end": "75.120", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Schade, "
+   ]
+  }, 
+  {
+   "begin": "75.120", 
+   "children": [], 
+   "end": "76.600", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "leider hat sie das nicht durchgesetzt. "
+   ]
+  }, 
+  {
+   "begin": "76.600", 
+   "children": [], 
+   "end": "78.760", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Sie ist nach wenigen Stunden eingeknickt. "
+   ]
+  }, 
+  {
+   "begin": "78.760", 
+   "children": [], 
+   "end": "81.520", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Sie m\u00fcssen diese Forderung wieder aufnehmen und umsetzen. "
+   ]
+  }, 
+  {
+   "begin": "81.520", 
+   "children": [], 
+   "end": "88.080", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Uns haben Sie dabei an Ihrer Seite."
+   ]
+  }, 
+  {
+   "begin": "88.080", 
+   "children": [], 
+   "end": "89.360", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ein gro\u00dfes Thema\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "89.360", 
+   "children": [], 
+   "end": "92.320", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "in dieser Woche gab es hier auch einen Parlamentarischen Abend dazu\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "92.320", 
+   "children": [], 
+   "end": "95.760", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "ist die Situation von schwangeren Frauen und die Frage, "
+   ]
+  }, 
+  {
+   "begin": "95.760", 
+   "children": [], 
+   "end": "98.200", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "wo sie eine Hebamme finden. "
+   ]
+  }, 
+  {
+   "begin": "98.200", 
+   "children": [], 
+   "end": "100.480", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "In meine Sprechstunde kam eine schwangere Frau, "
+   ]
+  }, 
+  {
+   "begin": "100.480", 
+   "children": [], 
+   "end": "106.480", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "die in einem Bezirk mit 300\u00a0000\u00a0Einwohnern keine Hebamme finden konnte. "
+   ]
+  }, 
+  {
+   "begin": "106.480", 
+   "children": [], 
+   "end": "111.320", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Gleichzeitig schlie\u00dfen in jedem Jahr mehr Kliniken ihre Geburtsstation. "
+   ]
+  }, 
+  {
+   "begin": "111.320", 
+   "children": [], 
+   "end": "119.240", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "2016 gab es mit 690\u00a0Entbindungsstationen ein F\u00fcnftel weniger in Deutschland als zehn Jahre zuvor. "
+   ]
+  }, 
+  {
+   "begin": "119.240", 
+   "children": [], 
+   "end": "122.680", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Diese Entwicklung sp\u00fcren Frauen besonders schmerzlich, "
+   ]
+  }, 
+  {
+   "begin": "122.680", 
+   "children": [], 
+   "end": "125.920", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "wenn \u00fcberf\u00fcllte Kliniken sie kurz vor der Geburt abweisen. "
+   ]
+  }, 
+  {
+   "begin": "125.920", 
+   "children": [], 
+   "end": "130.040", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Man kann und will sich solche Situationen eigentlich gar nicht vorstellen."
+   ]
+  }, 
+  {
+   "begin": "130.040", 
+   "children": [], 
+   "end": "145.120", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Laut einer Umfrage der Deutschen Gesellschaft f\u00fcr Gyn\u00e4kologie und Geburtshilfe passierte das im zweiten Halbjahr\u00a02017 in einem Drittel der 200\u00a0befragten Krankenh\u00e4user. "
+   ]
+  }, 
+  {
+   "begin": "145.120", 
+   "children": [], 
+   "end": "147.520", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Als wichtigste Ursachen wurde ein Mangel an Hebammen, "
+   ]
+  }, 
+  {
+   "begin": "147.520", 
+   "children": [], 
+   "end": "150.960", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "an Krei\u00dfs\u00e4len sowie an Betten f\u00fcr Fr\u00fchchen genannt. "
+   ]
+  }, 
+  {
+   "begin": "150.960", 
+   "children": [], 
+   "end": "152.760", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "Das sind doch unhaltbare Zust\u00e4nde, "
+   ]
+  }, 
+  {
+   "begin": "152.760", 
+   "children": [], 
+   "end": "154.480", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "154.480", 
+   "children": [], 
+   "end": "161.360", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "Im Koalitionsvertrag versprechen Sie wohnortnahe Geburtshilfe. "
+   ]
+  }, 
+  {
+   "begin": "161.360", 
+   "children": [], 
+   "end": "164.800", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Wann k\u00f6nnen schwangere Frauen mit der Erf\u00fcllung dieses Versprechens rechnen? "
+   ]
+  }, 
+  {
+   "begin": "164.800", 
+   "children": [], 
+   "end": "166.480", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die M\u00e4nner mal zur Information: "
+   ]
+  }, 
+  {
+   "begin": "166.480", 
+   "children": [], 
+   "end": "168.480", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Eine Schwangerschaft ist irgendwann zu Ende; "
+   ]
+  }, 
+  {
+   "begin": "168.480", 
+   "children": [], 
+   "end": "170.280", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "sie l\u00e4sst sich nicht ewig ausdehnen."
+   ]
+  }, 
+  {
+   "begin": "170.280", 
+   "children": [], 
+   "end": "173.800", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Zur dritten Klasse, "
+   ]
+  }, 
+  {
+   "begin": "173.800", 
+   "children": [], 
+   "end": "176.280", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "auf die ich eingangs hingewiesen habe, "
+   ]
+  }, 
+  {
+   "begin": "176.280", 
+   "children": [], 
+   "end": "177.040", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "geh\u00f6ren Menschen, "
+   ]
+  }, 
+  {
+   "begin": "177.040", 
+   "children": [], 
+   "end": "179.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "die gar keine Krankenversicherung haben. "
+   ]
+  }, 
+  {
+   "begin": "179.280", 
+   "children": [], 
+   "end": "183.120", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "Nach Deutschland kommen im Rahmen der Freiz\u00fcgigkeit Menschen aus der ganzen EU\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "183.120", 
+   "children": [], 
+   "end": "184.800", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "wir alle haben das begr\u00fc\u00dft\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "184.800", 
+   "children": [], 
+   "end": "187.200", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "aber diese Menschen sind h\u00e4ufig nicht krankenversichert. "
+   ]
+  }, 
+  {
+   "begin": "187.200", 
+   "children": [], 
+   "end": "189.400", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "Sie bekommen in Krankenh\u00e4usern eine Notbehandlung, "
+   ]
+  }, 
+  {
+   "begin": "189.400", 
+   "children": [], 
+   "end": "191.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "und das war es dann auch."
+   ]
+  }, 
+  {
+   "begin": "191.400", 
+   "children": [], 
+   "end": "191.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Ich finde, "
+   ]
+  }, 
+  {
+   "begin": "191.800", 
+   "children": [], 
+   "end": "195.160", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "wenn hier \u00fcber Europa gro\u00dfe Worte verloren werden, "
+   ]
+  }, 
+  {
+   "begin": "195.160", 
+   "children": [], 
+   "end": "197.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "dann m\u00fcssen wir uns auch den ganz irdischen Dingen zuwenden. "
+   ]
+  }, 
+  {
+   "begin": "197.880", 
+   "children": [], 
+   "end": "198.480", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Jeder Mensch, "
+   ]
+  }, 
+  {
+   "begin": "198.480", 
+   "children": [], 
+   "end": "200.320", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "der in der Europ\u00e4ischen Union lebt, "
+   ]
+  }, 
+  {
+   "begin": "200.320", 
+   "children": [], 
+   "end": "201.920", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "muss eine \u00e4rztliche Behandlung bekommen, "
+   ]
+  }, 
+  {
+   "begin": "201.920", 
+   "children": [], 
+   "end": "203.040", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "wenn er sie ben\u00f6tigt. "
+   ]
+  }, 
+  {
+   "begin": "203.040", 
+   "children": [], 
+   "end": "206.000", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb brauchen wir innerhalb der EU eine europ\u00e4ische Krankenversicherung, "
+   ]
+  }, 
+  {
+   "begin": "206.000", 
+   "children": [], 
+   "end": "210.120", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren."
+   ]
+  }, 
+  {
+   "begin": "210.120", 
+   "children": [], 
+   "end": "214.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "Die Krankenh\u00e4user in unserem Land haben nicht nur zu wenig Personal; "
+   ]
+  }, 
+  {
+   "begin": "214.280", 
+   "children": [], 
+   "end": "216.760", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "sie haben auch mit einem Investitionsstau zu k\u00e4mpfen. "
+   ]
+  }, 
+  {
+   "begin": "216.760", 
+   "children": [], 
+   "end": "220.080", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Teilweise werden aus Not Personalmittel genutzt, "
+   ]
+  }, 
+  {
+   "begin": "220.080", 
+   "children": [], 
+   "end": "222.280", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "um dringende Reparaturen zu t\u00e4tigen. "
+   ]
+  }, 
+  {
+   "begin": "222.280", 
+   "children": [], 
+   "end": "223.520", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "Nun wissen wir alle, "
+   ]
+  }, 
+  {
+   "begin": "223.520", 
+   "children": [], 
+   "end": "225.840", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "dass f\u00fcr die Investitionen die L\u00e4nder zust\u00e4ndig sind. "
+   ]
+  }, 
+  {
+   "begin": "225.840", 
+   "children": [], 
+   "end": "228.560", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Aber trotzdem sollte der Bund den L\u00e4ndern helfen, "
+   ]
+  }, 
+  {
+   "begin": "228.560", 
+   "children": [], 
+   "end": "232.160", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "den Investitionsstau in den Krankenh\u00e4usern aufzul\u00f6sen. "
+   ]
+  }, 
+  {
+   "begin": "232.160", 
+   "children": [], 
+   "end": "237.280", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Mit einer j\u00e4hrlichen Finanzhilfe von 2,5\u00a0Milliarden Euro aus Bundesmitteln, "
+   ]
+  }, 
+  {
+   "begin": "237.280", 
+   "children": [], 
+   "end": "240.200", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "so wie das Die Linke in den vergangenen Jahren beantragt hat, "
+   ]
+  }, 
+  {
+   "begin": "240.200", 
+   "children": [], 
+   "end": "246.120", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "kann der heute bestehende Investitionsbedarf bei den Krankenh\u00e4usern in den kommenden Jahren abgebaut werden. "
+   ]
+  }, 
+  {
+   "begin": "246.120", 
+   "children": [], 
+   "end": "247.520", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Das ist finanzierbar, "
+   ]
+  }, 
+  {
+   "begin": "247.520", 
+   "children": [], 
+   "end": "252.320", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir nicht an der roten Null festhalten und wenn wir Verm\u00f6gen in unserem Land endlich gerecht besteuern."
+   ]
+  }, 
+  {
+   "begin": "252.320", 
+   "children": [], 
+   "end": "256.240", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "256.240", 
+   "children": [], 
+   "end": "258.040", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "im Gesundheitssystem ist viel Geld: "
+   ]
+  }, 
+  {
+   "begin": "258.040", 
+   "children": [], 
+   "end": "261.120", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "11,3\u00a0Prozent des Bruttoinlandsprodukts. "
+   ]
+  }, 
+  {
+   "begin": "261.120", 
+   "children": [], 
+   "end": "262.800", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Darum m\u00fcssen wir daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "262.800", 
+   "children": [], 
+   "end": "265.120", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "dass dieses Geld auch wirklich bei den Menschen, "
+   ]
+  }, 
+  {
+   "begin": "265.120", 
+   "children": [], 
+   "end": "266.600", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "die im Gesundheitswesen arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "266.600", 
+   "children": [], 
+   "end": "270.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "ankommt und vor allen Dingen bei den Patientinnen und Patienten. "
+   ]
+  }, 
+  {
+   "begin": "270.000", 
+   "children": [], 
+   "end": "271.440", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen nicht l\u00e4nger hinnehmen, "
+   ]
+  }, 
+  {
+   "begin": "271.440", 
+   "children": [], 
+   "end": "276.640", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "dass Gesundheit ein Megagesch\u00e4ft f\u00fcr Pharmaindustrie und Krankenhauskonzerne ist. "
+   ]
+  }, 
+  {
+   "begin": "276.640", 
+   "children": [], 
+   "end": "277.440", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr, "
+   ]
+  }, 
+  {
+   "begin": "277.440", 
+   "children": [], 
+   "end": "278.040", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "denke ich, "
+   ]
+  }, 
+  {
+   "begin": "278.040", 
+   "children": [], 
+   "end": "280.440", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "tr\u00e4gt der Gesundheitsminister Verantwortung. "
+   ]
+  }, 
+  {
+   "begin": "280.440", 
+   "children": [], 
+   "end": "283.360", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Wir werden das im Auge behalten und daf\u00fcr sorgen, "
+   ]
+  }, 
+  {
+   "begin": "283.360", 
+   "children": [], 
+   "end": "286.440", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "dass dieses Geld gerecht verteilt wird und wirklich dort ankommt, "
+   ]
+  }, 
+  {
+   "begin": "286.440", 
+   "children": [], 
+   "end": "287.520", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "wo es gebraucht wird, "
+   ]
+  }, 
+  {
+   "begin": "287.520", 
+   "children": [], 
+   "end": "288.840", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "und nicht auf privaten Konten."
+   ]
+  }, 
+  {
+   "begin": "288.840", 
+   "children": [], 
+   "end": "289.600", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "289.600", 
+   "children": [], 
+   "end": "294.960", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr die Fraktion B\u00fcndnis\u00a090/Die Gr\u00fcnen hat das Wort die Kollegin Maria Klein-Schmeink."
+   ]
+  }
+ ]
+}

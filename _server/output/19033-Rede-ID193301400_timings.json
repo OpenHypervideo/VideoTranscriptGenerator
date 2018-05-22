@@ -1,0 +1,1554 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.760", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.760", 
+   "children": [], 
+   "end": "8.040", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "8.040", 
+   "children": [], 
+   "end": "9.000", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Gestatten Sie mir, "
+   ]
+  }, 
+  {
+   "begin": "9.000", 
+   "children": [], 
+   "end": "12.680", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "auch auf ein paar andere Aspekte als nur auf das Thema innere Sicherheit einzugehen."
+   ]
+  }, 
+  {
+   "begin": "12.680", 
+   "children": [], 
+   "end": "16.640", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "St\u00e4dte sind steingewordene Gesellschaftspolitik. "
+   ]
+  }, 
+  {
+   "begin": "16.640", 
+   "children": [], 
+   "end": "18.400", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Aus ihren Grundrissen, "
+   ]
+  }, 
+  {
+   "begin": "18.400", 
+   "children": [], 
+   "end": "23.040", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "aus ihren Strukturen kann man Wertordnungen ablesen."
+   ]
+  }, 
+  {
+   "begin": "23.040", 
+   "children": [], 
+   "end": "26.560", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "M\u00f6glicherweise kennt der eine oder andere diesen Satz von Hans-Jochen Vogel. "
+   ]
+  }, 
+  {
+   "begin": "26.560", 
+   "children": [], 
+   "end": "29.360", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Er hat dies 1971 gesagt, "
+   ]
+  }, 
+  {
+   "begin": "29.360", 
+   "children": [], 
+   "end": "31.560", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "und es ist heute noch g\u00fcltig."
+   ]
+  }, 
+  {
+   "begin": "31.560", 
+   "children": [], 
+   "end": "36.960", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "Stadtentwicklung und Kommunalpolitik ersch\u00f6pfen sich eben nicht in Kubikmeter umbauten Raums. "
+   ]
+  }, 
+  {
+   "begin": "36.960", 
+   "children": [], 
+   "end": "39.000", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "St\u00e4dte sind der Mikrokosmos, "
+   ]
+  }, 
+  {
+   "begin": "39.000", 
+   "children": [], 
+   "end": "43.280", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "in dem sich wie in einem Brennglas gesellschaftliche Ver\u00e4nderungen zeigen. "
+   ]
+  }, 
+  {
+   "begin": "43.280", 
+   "children": [], 
+   "end": "46.800", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die Kernprobleme von damals sind auch heute noch unsere: "
+   ]
+  }, 
+  {
+   "begin": "46.800", 
+   "children": [], 
+   "end": "47.840", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Verkehrsinfarkt, "
+   ]
+  }, 
+  {
+   "begin": "47.840", 
+   "children": [], 
+   "end": "49.080", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Schw\u00e4che des Nahverkehrs, "
+   ]
+  }, 
+  {
+   "begin": "49.080", 
+   "children": [], 
+   "end": "50.040", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "Wohnungsversorgung, "
+   ]
+  }, 
+  {
+   "begin": "50.040", 
+   "children": [], 
+   "end": "52.880", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "explodierende Mieten und Grundst\u00fccksspekulation."
+   ]
+  }, 
+  {
+   "begin": "52.880", 
+   "children": [], 
+   "end": "54.440", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "Heute kommen neue Aspekte dazu: "
+   ]
+  }, 
+  {
+   "begin": "54.440", 
+   "children": [], 
+   "end": "55.600", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Digitalisierung, "
+   ]
+  }, 
+  {
+   "begin": "55.600", 
+   "children": [], 
+   "end": "60.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "auseinanderfallende Lebensbedingungen zwischen pros\u00adperierenden und altindustriellen Regionen, "
+   ]
+  }, 
+  {
+   "begin": "60.640", 
+   "children": [], 
+   "end": "63.040", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "gegens\u00e4tzliche Milieus in den St\u00e4dten\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "63.040", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "von Hipstern bis vermeintlichen Hinterw\u00e4ldlern\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "67.840", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Bev\u00f6lkerungswachstum in gro\u00dfen St\u00e4dten, "
+   ]
+  }, 
+  {
+   "begin": "67.840", 
+   "children": [], 
+   "end": "73.640", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Leerst\u00e4nde in strukturschwachen R\u00e4umen und nicht zuletzt eine bunte Gesellschaft: "
+   ]
+  }, 
+  {
+   "begin": "73.640", 
+   "children": [], 
+   "end": "74.440", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "sozial, "
+   ]
+  }, 
+  {
+   "begin": "74.440", 
+   "children": [], 
+   "end": "77.120", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "ethnisch und kulturell verschieden."
+   ]
+  }, 
+  {
+   "begin": "77.120", 
+   "children": [], 
+   "end": "80.640", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Der Raumordnungsbericht ist voll mit solchen Beispielen, "
+   ]
+  }, 
+  {
+   "begin": "80.640", 
+   "children": [], 
+   "end": "83.960", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "und zwar ganz frei von Hetze und Hass. "
+   ]
+  }, 
+  {
+   "begin": "83.960", 
+   "children": [], 
+   "end": "86.280", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "Wir m\u00fcssen diesen Sachverhalten Rechnung tragen. "
+   ]
+  }, 
+  {
+   "begin": "86.280", 
+   "children": [], 
+   "end": "87.680", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin sehr froh, "
+   ]
+  }, 
+  {
+   "begin": "87.680", 
+   "children": [], 
+   "end": "95.800", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "dass sich diese Gro\u00dfe Koalition systematisch und mit konkreten Fragestellungen um die Zukunft der Kommunen k\u00fcmmert. "
+   ]
+  }, 
+  {
+   "begin": "95.800", 
+   "children": [], 
+   "end": "96.800", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Ich will damit auch sagen: "
+   ]
+  }, 
+  {
+   "begin": "96.800", 
+   "children": [], 
+   "end": "98.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Wir stehen an der Seite der Kommunen. "
+   ]
+  }, 
+  {
+   "begin": "98.920", 
+   "children": [], 
+   "end": "100.520", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Ich nenne daf\u00fcr ein paar Beispiele:"
+   ]
+  }, 
+  {
+   "begin": "100.520", 
+   "children": [], 
+   "end": "101.880", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin sehr froh, "
+   ]
+  }, 
+  {
+   "begin": "101.880", 
+   "children": [], 
+   "end": "105.920", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "dass wir wieder einen Ausschuss f\u00fcr kommunalpolitische Fragen im Deutschen Bundestag haben, "
+   ]
+  }, 
+  {
+   "begin": "105.920", 
+   "children": [], 
+   "end": "110.400", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "damit wir endlich die Herausforderungen der Kommunen in Zusammenh\u00e4ngen diskutieren k\u00f6nnen. "
+   ]
+  }, 
+  {
+   "begin": "110.400", 
+   "children": [], 
+   "end": "114.480", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Der Programmsatz der Koalitionsvereinbarungen \u201eWer bestellt, "
+   ]
+  }, 
+  {
+   "begin": "114.480", 
+   "children": [], 
+   "end": "116.320", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "bezahlt\u201c ist ein Meilenstein, "
+   ]
+  }, 
+  {
+   "begin": "116.320", 
+   "children": [], 
+   "end": "117.520", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "jedenfalls aus Sicht des Bundes, "
+   ]
+  }, 
+  {
+   "begin": "117.520", 
+   "children": [], 
+   "end": "119.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "gegen\u00fcber den Kommunen. "
+   ]
+  }, 
+  {
+   "begin": "119.480", 
+   "children": [], 
+   "end": "121.680", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Wir stellen uns unserer Verantwortung."
+   ]
+  }, 
+  {
+   "begin": "121.680", 
+   "children": [], 
+   "end": "122.720", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin sehr froh dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "122.720", 
+   "children": [], 
+   "end": "125.200", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "dass wir eine Kommission gebildet haben, "
+   ]
+  }, 
+  {
+   "begin": "125.200", 
+   "children": [], 
+   "end": "128.200", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "die grundlegende Fragen gleichwertiger Lebensverh\u00e4ltnisse thematisiert, "
+   ]
+  }, 
+  {
+   "begin": "128.200", 
+   "children": [], 
+   "end": "131.880", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "unter anderem auch den Abbau der dr\u00fcckenden kommunalen Altschulden. "
+   ]
+  }, 
+  {
+   "begin": "131.880", 
+   "children": [], 
+   "end": "133.920", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Es geht um ganz Handfestes, "
+   ]
+  }, 
+  {
+   "begin": "133.920", 
+   "children": [], 
+   "end": "135.400", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich um die Frage, "
+   ]
+  }, 
+  {
+   "begin": "135.400", 
+   "children": [], 
+   "end": "137.920", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "wie Menschen eine bezahlbare Wohnung finden, "
+   ]
+  }, 
+  {
+   "begin": "137.920", 
+   "children": [], 
+   "end": "140.840", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "wie sie einen guten \u00f6ffentlichen Nahverkehr nutzen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "140.840", 
+   "children": [], 
+   "end": "142.840", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "wie sie gute Schulen und Kitas finden."
+   ]
+  }, 
+  {
+   "begin": "142.840", 
+   "children": [], 
+   "end": "144.400", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "Damit wir zeitnah helfen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "144.400", 
+   "children": [], 
+   "end": "146.360", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "wollen wir das Grundgesetz \u00e4ndern. "
+   ]
+  }, 
+  {
+   "begin": "146.360", 
+   "children": [], 
+   "end": "148.400", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Wir schaffen das Kooperationsverbot ab, "
+   ]
+  }, 
+  {
+   "begin": "148.400", 
+   "children": [], 
+   "end": "152.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "damit der Bund den Kommunen bei der Bildung schnell und zeitnah helfen kann. "
+   ]
+  }, 
+  {
+   "begin": "152.320", 
+   "children": [], 
+   "end": "155.680", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "Wir verdreifachen die Mittel f\u00fcr den Nahverkehr auf 1\u00a0Milliarde Euro j\u00e4hrlich. "
+   ]
+  }, 
+  {
+   "begin": "155.680", 
+   "children": [], 
+   "end": "157.120", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "Und schlie\u00dflich wollen wir, "
+   ]
+  }, 
+  {
+   "begin": "157.120", 
+   "children": [], 
+   "end": "160.960", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "dass das Geld f\u00fcr den sozialen Wohnungsbau auch genau daf\u00fcr eingesetzt wird. "
+   ]
+  }, 
+  {
+   "begin": "160.960", 
+   "children": [], 
+   "end": "162.960", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "2\u00a0Milliarden Euro geben wir obendrauf."
+   ]
+  }, 
+  {
+   "begin": "162.960", 
+   "children": [], 
+   "end": "163.800", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcbrigens, "
+   ]
+  }, 
+  {
+   "begin": "163.800", 
+   "children": [], 
+   "end": "167.280", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "h\u00e4tten die L\u00e4nder in Bezug auf die Entflechtungsmittel immer ihrer Verantwortung entsprochen, "
+   ]
+  }, 
+  {
+   "begin": "167.280", 
+   "children": [], 
+   "end": "172.400", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "g\u00e4be es heute m\u00f6glicherweise 100\u00a0000 bis 200\u00a0000\u00a0Sozialwohnungen mehr."
+   ]
+  }, 
+  {
+   "begin": "172.400", 
+   "children": [], 
+   "end": "174.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "Wer das kritisiert, "
+   ]
+  }, 
+  {
+   "begin": "174.760", 
+   "children": [], 
+   "end": "177.600", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "kann gerne bei den jeweiligen Landesregierungen nachfragen, "
+   ]
+  }, 
+  {
+   "begin": "177.600", 
+   "children": [], 
+   "end": "182.320", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "egal ob es im schwarz-gr\u00fcnen Hessen oder im gr\u00fcn-schwarzen Baden-W\u00fcrttemberg oder sonst wo ist. "
+   ]
+  }, 
+  {
+   "begin": "182.320", 
+   "children": [], 
+   "end": "183.960", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "Es w\u00e4re also gut, "
+   ]
+  }, 
+  {
+   "begin": "183.960", 
+   "children": [], 
+   "end": "185.840", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wenn es uns gel\u00e4nge, "
+   ]
+  }, 
+  {
+   "begin": "185.840", 
+   "children": [], 
+   "end": "188.120", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "gemeinsam das Grundgesetz zu \u00e4ndern, "
+   ]
+  }, 
+  {
+   "begin": "188.120", 
+   "children": [], 
+   "end": "190.280", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "um diesen Fragen Rechnung zu tragen."
+   ]
+  }, 
+  {
+   "begin": "190.280", 
+   "children": [], 
+   "end": "194.360", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Unsere Ma\u00dfnahmen zielen auf die Lebensqualit\u00e4t in den St\u00e4dten und D\u00f6rfern. "
+   ]
+  }, 
+  {
+   "begin": "194.360", 
+   "children": [], 
+   "end": "200.920", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen Ortskerne auch in l\u00e4ndlichen Regionen revitalisieren und auch dort Baul\u00fccken schlie\u00dfen. "
+   ]
+  }, 
+  {
+   "begin": "200.920", 
+   "children": [], 
+   "end": "201.960", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Wie notwendig es ist, "
+   ]
+  }, 
+  {
+   "begin": "201.960", 
+   "children": [], 
+   "end": "203.680", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "sich mit diesen Themen auseinanderzusetzen, "
+   ]
+  }, 
+  {
+   "begin": "203.680", 
+   "children": [], 
+   "end": "205.080", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "hat Herr Lischka gerade eben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "205.080", 
+   "children": [], 
+   "end": "206.200", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "nicht als Opposition, "
+   ]
+  }, 
+  {
+   "begin": "206.200", 
+   "children": [], 
+   "end": "207.240", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "sondern als Anreicherung, "
+   ]
+  }, 
+  {
+   "begin": "207.240", 
+   "children": [], 
+   "end": "208.000", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "glaube ich\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "208.000", 
+   "children": [], 
+   "end": "211.360", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "deutlich zum Ausdruck gebracht."
+   ]
+  }, 
+  {
+   "begin": "211.360", 
+   "children": [], 
+   "end": "217.360", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "\u00dcber viele Jahre war die Sicherung und Schaffung von ausreichendem und bezahlbarem Wohnraum kein Thema. "
+   ]
+  }, 
+  {
+   "begin": "217.360", 
+   "children": [], 
+   "end": "218.960", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Seit einigen Jahren ist es das, "
+   ]
+  }, 
+  {
+   "begin": "218.960", 
+   "children": [], 
+   "end": "221.880", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "und heute ist es die zentrale soziale Frage. "
+   ]
+  }, 
+  {
+   "begin": "221.880", 
+   "children": [], 
+   "end": "224.800", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Wir reagieren darauf mit einer Wohnraum\u00adinitiative: "
+   ]
+  }, 
+  {
+   "begin": "224.800", 
+   "children": [], 
+   "end": "228.920", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Wir schaffen 1,5\u00a0Millionen neue Wohnungen bzw. "
+   ]
+  }, 
+  {
+   "begin": "228.920", 
+   "children": [], 
+   "end": "230.400", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "die Voraussetzungen daf\u00fcr. "
+   ]
+  }, 
+  {
+   "begin": "230.400", 
+   "children": [], 
+   "end": "233.840", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "Wir investieren 2\u00a0Milliarden Euro mehr f\u00fcr den Bau von Sozialwohnungen. "
+   ]
+  }, 
+  {
+   "begin": "233.840", 
+   "children": [], 
+   "end": "239.720", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen die Baulandmobilisierung verbessern und der Bodenspekulation steuerlich entgegenwirken. "
+   ]
+  }, 
+  {
+   "begin": "239.720", 
+   "children": [], 
+   "end": "240.520", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Herr Ruppert, "
+   ]
+  }, 
+  {
+   "begin": "240.520", 
+   "children": [], 
+   "end": "241.160", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "wenn Sie m\u00f6chten, "
+   ]
+  }, 
+  {
+   "begin": "241.160", 
+   "children": [], 
+   "end": "243.440", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "dann k\u00f6nnen Sie die Grunderwerbsteuer in Nordrhein-Westfalen, "
+   ]
+  }, 
+  {
+   "begin": "243.440", 
+   "children": [], 
+   "end": "245.560", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "so wie Sie es versprochen haben, "
+   ]
+  }, 
+  {
+   "begin": "245.560", 
+   "children": [], 
+   "end": "246.360", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "senken. "
+   ]
+  }, 
+  {
+   "begin": "246.360", 
+   "children": [], 
+   "end": "248.200", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "Wir machen es jedenfalls nur dann, "
+   ]
+  }, 
+  {
+   "begin": "248.200", 
+   "children": [], 
+   "end": "255.520", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "wenn sich auch gro\u00dfe Immobilienunternehmen der Grunderwerbsteuer nicht durch Vertragsgestaltungen wie beispielsweise Share Deals entziehen."
+   ]
+  }, 
+  {
+   "begin": "255.520", 
+   "children": [], 
+   "end": "257.520", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "Zur Baulandmobilisierung geh\u00f6rt auch, "
+   ]
+  }, 
+  {
+   "begin": "257.520", 
+   "children": [], 
+   "end": "265.000", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "dass die bundeseigenen Grundst\u00fccke den Kommunen von der Bundesimmobilienanstalt kosteng\u00fcnstig und nicht zu H\u00f6chstpreisen \u00fcberlassen werden."
+   ]
+  }, 
+  {
+   "begin": "265.000", 
+   "children": [], 
+   "end": "266.760", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Dazu geh\u00f6rt auch, "
+   ]
+  }, 
+  {
+   "begin": "266.760", 
+   "children": [], 
+   "end": "267.720", 
+   "id": "s000098", 
+   "language": "deu", 
+   "lines": [
+    "zu kl\u00e4ren, "
+   ]
+  }, 
+  {
+   "begin": "267.720", 
+   "children": [], 
+   "end": "274.440", 
+   "id": "s000099", 
+   "language": "deu", 
+   "lines": [
+    "ob bereits aufgegebene Kasernenstandorte dem Wohnungsmarkt jetzt m\u00f6glicherweise doch nicht zur Verf\u00fcgung gestellt werden sollen. "
+   ]
+  }, 
+  {
+   "begin": "274.440", 
+   "children": [], 
+   "end": "275.120", 
+   "id": "s000100", 
+   "language": "deu", 
+   "lines": [
+    "Herr Minister, "
+   ]
+  }, 
+  {
+   "begin": "275.120", 
+   "children": [], 
+   "end": "275.880", 
+   "id": "s000101", 
+   "language": "deu", 
+   "lines": [
+    "ich habe die Bitte, "
+   ]
+  }, 
+  {
+   "begin": "275.880", 
+   "children": [], 
+   "end": "279.240", 
+   "id": "s000102", 
+   "language": "deu", 
+   "lines": [
+    "dass Sie mit den Kollegen im Kabinett f\u00fcr Klarheit sorgen."
+   ]
+  }, 
+  {
+   "begin": "279.240", 
+   "children": [], 
+   "end": "282.880", 
+   "id": "s000103", 
+   "language": "deu", 
+   "lines": [
+    "Mit dem Baukindergeld unterst\u00fctzen wir junge Familien. "
+   ]
+  }, 
+  {
+   "begin": "282.880", 
+   "children": [], 
+   "end": "283.880", 
+   "id": "s000104", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen f\u00f6rdern, "
+   ]
+  }, 
+  {
+   "begin": "283.880", 
+   "children": [], 
+   "end": "285.800", 
+   "id": "s000105", 
+   "language": "deu", 
+   "lines": [
+    "aber wir wollen keine Fehlanreize geben. "
+   ]
+  }, 
+  {
+   "begin": "285.800", 
+   "children": [], 
+   "end": "288.200", 
+   "id": "s000106", 
+   "language": "deu", 
+   "lines": [
+    "Darauf werden wir sicherlich achten m\u00fcssen. "
+   ]
+  }, 
+  {
+   "begin": "288.200", 
+   "children": [], 
+   "end": "291.240", 
+   "id": "s000107", 
+   "language": "deu", 
+   "lines": [
+    "Wir f\u00f6rdern den privaten Wohnungsbau mit einer steuerlichen F\u00f6rderung; "
+   ]
+  }, 
+  {
+   "begin": "291.240", 
+   "children": [], 
+   "end": "292.120", 
+   "id": "s000108", 
+   "language": "deu", 
+   "lines": [
+    "wohlgemerkt: "
+   ]
+  }, 
+  {
+   "begin": "292.120", 
+   "children": [], 
+   "end": "292.920", 
+   "id": "s000109", 
+   "language": "deu", 
+   "lines": [
+    "nicht irgendwie, "
+   ]
+  }, 
+  {
+   "begin": "292.920", 
+   "children": [], 
+   "end": "296.040", 
+   "id": "s000110", 
+   "language": "deu", 
+   "lines": [
+    "sondern im bezahlbaren Mietpreissegment."
+   ]
+  }, 
+  {
+   "begin": "296.040", 
+   "children": [], 
+   "end": "305.600", 
+   "id": "s000111", 
+   "language": "deu", 
+   "lines": [
+    "In Verbindung mit St\u00e4dtebauf\u00f6rderung und Dorferneuerung wirken die Ma\u00dfnahmen ebenso in l\u00e4ndlichen R\u00e4umen wie auch in Ballungsgebieten. "
+   ]
+  }, 
+  {
+   "begin": "305.600", 
+   "children": [], 
+   "end": "309.400", 
+   "id": "s000112", 
+   "language": "deu", 
+   "lines": [
+    "Sie entlasten damit auch die Wohnungsm\u00e4rkte in st\u00e4dtischen Zentren. "
+   ]
+  }, 
+  {
+   "begin": "309.400", 
+   "children": [], 
+   "end": "309.720", 
+   "id": "s000113", 
+   "language": "deu", 
+   "lines": [
+    "Das ist, "
+   ]
+  }, 
+  {
+   "begin": "309.720", 
+   "children": [], 
+   "end": "310.400", 
+   "id": "s000114", 
+   "language": "deu", 
+   "lines": [
+    "glaube ich, "
+   ]
+  }, 
+  {
+   "begin": "310.400", 
+   "children": [], 
+   "end": "311.200", 
+   "id": "s000115", 
+   "language": "deu", 
+   "lines": [
+    "wichtig. "
+   ]
+  }, 
+  {
+   "begin": "311.200", 
+   "children": [], 
+   "end": "314.280", 
+   "id": "s000116", 
+   "language": "deu", 
+   "lines": [
+    "Um dort die Mietenspiralen zu bremsen, "
+   ]
+  }, 
+  {
+   "begin": "314.280", 
+   "children": [], 
+   "end": "318.280", 
+   "id": "s000117", 
+   "language": "deu", 
+   "lines": [
+    "werden wir die Umlage von Modernisierungskosten begrenzen, "
+   ]
+  }, 
+  {
+   "begin": "318.280", 
+   "children": [], 
+   "end": "322.640", 
+   "id": "s000118", 
+   "language": "deu", 
+   "lines": [
+    "die Mietpreisbremse versch\u00e4rfen und eine Kappungsgrenze nach Modernisierungen einf\u00fchren. "
+   ]
+  }, 
+  {
+   "begin": "322.640", 
+   "children": [], 
+   "end": "327.280", 
+   "id": "s000119", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen Mieter nicht aus ihrem Zuhause herausmodernisieren."
+   ]
+  }, 
+  {
+   "begin": "327.280", 
+   "children": [], 
+   "end": "329.960", 
+   "id": "s000120", 
+   "language": "deu", 
+   "lines": [
+    "Ich bin dem Kollegen Gerster sehr dankbar, "
+   ]
+  }, 
+  {
+   "begin": "329.960", 
+   "children": [], 
+   "end": "334.200", 
+   "id": "s000121", 
+   "language": "deu", 
+   "lines": [
+    "dass er auf die Notwendigkeit der Anpassung des Wohngeldes hingewiesen hat."
+   ]
+  }, 
+  {
+   "begin": "334.200", 
+   "children": [], 
+   "end": "336.840", 
+   "id": "s000122", 
+   "language": "deu", 
+   "lines": [
+    "Um gleichwertige Lebensverh\u00e4ltnisse herzustellen, "
+   ]
+  }, 
+  {
+   "begin": "336.840", 
+   "children": [], 
+   "end": "338.960", 
+   "id": "s000123", 
+   "language": "deu", 
+   "lines": [
+    "ist ein bundesweites Glasfasernetz n\u00f6tig. "
+   ]
+  }, 
+  {
+   "begin": "338.960", 
+   "children": [], 
+   "end": "341.360", 
+   "id": "s000124", 
+   "language": "deu", 
+   "lines": [
+    "Ich freue mich sehr \u00fcber den Beschluss des Kabinetts, "
+   ]
+  }, 
+  {
+   "begin": "341.360", 
+   "children": [], 
+   "end": "348.520", 
+   "id": "s000125", 
+   "language": "deu", 
+   "lines": [
+    "dass der Bund zur F\u00f6rderung des Breitbandausbaus jetzt zus\u00e4tzlich 2,4\u00a0Milliarden Euro zur Verf\u00fcgung stellen wird, "
+   ]
+  }, 
+  {
+   "begin": "348.520", 
+   "children": [], 
+   "end": "353.120", 
+   "id": "s000126", 
+   "language": "deu", 
+   "lines": [
+    "weil die j\u00fcngsten Ergebnisse der Steuersch\u00e4tzung dies erm\u00f6glichen. "
+   ]
+  }, 
+  {
+   "begin": "353.120", 
+   "children": [], 
+   "end": "353.840", 
+   "id": "s000127", 
+   "language": "deu", 
+   "lines": [
+    "Das ist gut so. "
+   ]
+  }, 
+  {
+   "begin": "353.840", 
+   "children": [], 
+   "end": "358.120", 
+   "id": "s000128", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank an den Bundesfinanzminister Olaf Scholz."
+   ]
+  }, 
+  {
+   "begin": "358.120", 
+   "children": [], 
+   "end": "361.160", 
+   "id": "s000129", 
+   "language": "deu", 
+   "lines": [
+    "Wir wollen auch bessere Chancen f\u00fcr strukturschwache Regionen. "
+   ]
+  }, 
+  {
+   "begin": "361.160", 
+   "children": [], 
+   "end": "367.120", 
+   "id": "s000130", 
+   "language": "deu", 
+   "lines": [
+    "Ein gesamtdeutsches F\u00f6rdersystem soll Wachstum und Arbeit nach Bedarf f\u00f6rdern und nicht nach Himmelsrichtungen."
+   ]
+  }, 
+  {
+   "begin": "367.120", 
+   "children": [], 
+   "end": "369.160", 
+   "id": "s000131", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "369.160", 
+   "children": [], 
+   "end": "369.640", 
+   "id": "s000132", 
+   "language": "deu", 
+   "lines": [
+    "ich glaube, "
+   ]
+  }, 
+  {
+   "begin": "369.640", 
+   "children": [], 
+   "end": "373.440", 
+   "id": "s000133", 
+   "language": "deu", 
+   "lines": [
+    "wir machen eine fortschrittliche Politik f\u00fcr bessere Lebensverh\u00e4ltnisse in St\u00e4dten, "
+   ]
+  }, 
+  {
+   "begin": "373.440", 
+   "children": [], 
+   "end": "374.960", 
+   "id": "s000134", 
+   "language": "deu", 
+   "lines": [
+    "D\u00f6rfern und Regionen. "
+   ]
+  }, 
+  {
+   "begin": "374.960", 
+   "children": [], 
+   "end": "378.880", 
+   "id": "s000135", 
+   "language": "deu", 
+   "lines": [
+    "Heimat ist f\u00fcr uns keine r\u00fcckw\u00e4rtsgewandte Heimatt\u00fcmelei. "
+   ]
+  }, 
+  {
+   "begin": "378.880", 
+   "children": [], 
+   "end": "382.920", 
+   "id": "s000136", 
+   "language": "deu", 
+   "lines": [
+    "Es ist auch kein Kampfbegriff gegen Modernisierung und Aufkl\u00e4rung. "
+   ]
+  }, 
+  {
+   "begin": "382.920", 
+   "children": [], 
+   "end": "384.560", 
+   "id": "s000137", 
+   "language": "deu", 
+   "lines": [
+    "Es ist schon gar nicht ein Begriff, "
+   ]
+  }, 
+  {
+   "begin": "384.560", 
+   "children": [], 
+   "end": "389.960", 
+   "id": "s000138", 
+   "language": "deu", 
+   "lines": [
+    "der sozusagen f\u00fcr reaktion\u00e4re Sprachkonditorei in Anspruch genommen werden kann."
+   ]
+  }, 
+  {
+   "begin": "389.960", 
+   "children": [], 
+   "end": "392.520", 
+   "id": "s000139", 
+   "language": "deu", 
+   "lines": [
+    "Wir gestalten Heimat als einen Ort, "
+   ]
+  }, 
+  {
+   "begin": "392.520", 
+   "children": [], 
+   "end": "394.240", 
+   "id": "s000140", 
+   "language": "deu", 
+   "lines": [
+    "an dem Menschen gerne leben, "
+   ]
+  }, 
+  {
+   "begin": "394.240", 
+   "children": [], 
+   "end": "396.640", 
+   "id": "s000141", 
+   "language": "deu", 
+   "lines": [
+    "wo sie sich wohlf\u00fchlen und wo sie zu Hause sind: "
+   ]
+  }, 
+  {
+   "begin": "396.640", 
+   "children": [], 
+   "end": "397.720", 
+   "id": "s000142", 
+   "language": "deu", 
+   "lines": [
+    "auf dem Dorf, "
+   ]
+  }, 
+  {
+   "begin": "397.720", 
+   "children": [], 
+   "end": "398.480", 
+   "id": "s000143", 
+   "language": "deu", 
+   "lines": [
+    "im Quartier, "
+   ]
+  }, 
+  {
+   "begin": "398.480", 
+   "children": [], 
+   "end": "399.600", 
+   "id": "s000144", 
+   "language": "deu", 
+   "lines": [
+    "im Viertel, "
+   ]
+  }, 
+  {
+   "begin": "399.600", 
+   "children": [], 
+   "end": "401.320", 
+   "id": "s000145", 
+   "language": "deu", 
+   "lines": [
+    "im Kiez oder auf dem Kiez, "
+   ]
+  }, 
+  {
+   "begin": "401.320", 
+   "children": [], 
+   "end": "402.720", 
+   "id": "s000146", 
+   "language": "deu", 
+   "lines": [
+    "wie die Hamburger sagen. "
+   ]
+  }, 
+  {
+   "begin": "402.720", 
+   "children": [], 
+   "end": "404.200", 
+   "id": "s000147", 
+   "language": "deu", 
+   "lines": [
+    "Mir gef\u00e4llt es jedenfalls, "
+   ]
+  }, 
+  {
+   "begin": "404.200", 
+   "children": [], 
+   "end": "405.960", 
+   "id": "s000148", 
+   "language": "deu", 
+   "lines": [
+    "wenn unser Bundespr\u00e4sident sagt:"
+   ]
+  }, 
+  {
+   "begin": "405.960", 
+   "children": [], 
+   "end": "408.040", 
+   "id": "s000149", 
+   "language": "deu", 
+   "lines": [
+    "...\u00a0Heimat weist in die Zukunft\u00a0... "
+   ]
+  }, 
+  {
+   "begin": "408.040", 
+   "children": [], 
+   "end": "409.240", 
+   "id": "s000150", 
+   "language": "deu", 
+   "lines": [
+    "Heimat ist der Ort, "
+   ]
+  }, 
+  {
+   "begin": "409.240", 
+   "children": [], 
+   "end": "411.480", 
+   "id": "s000151", 
+   "language": "deu", 
+   "lines": [
+    "den wir als Gesellschaft erst schaffen."
+   ]
+  }, 
+  {
+   "begin": "411.480", 
+   "children": [], 
+   "end": "413.920", 
+   "id": "s000152", 
+   "language": "deu", 
+   "lines": [
+    "Daran arbeiten wir."
+   ]
+  }, 
+  {
+   "begin": "413.920", 
+   "children": [], 
+   "end": "419.160", 
+   "id": "s000153", 
+   "language": "deu", 
+   "lines": [
+    "Herzlichen Dank."
+   ]
+  }, 
+  {
+   "begin": "419.160", 
+   "children": [], 
+   "end": "420.880", 
+   "id": "s000154", 
+   "language": "deu", 
+   "lines": [
+    "N\u00e4chster Redner ist der Kollege Ulrich Lange, "
+   ]
+  }, 
+  {
+   "begin": "420.880", 
+   "children": [], 
+   "end": "421.000", 
+   "id": "s000155", 
+   "language": "deu", 
+   "lines": [
+    "CDU/CSU."
+   ]
+  }
+ ]
+}
