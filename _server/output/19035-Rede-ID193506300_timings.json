@@ -1,0 +1,974 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "5.440", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "5.440", 
+   "children": [], 
+   "end": "6.280", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "6.280", 
+   "children": [], 
+   "end": "8.120", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Liebe G\u00e4ste des Hauses! "
+   ]
+  }, 
+  {
+   "begin": "8.120", 
+   "children": [], 
+   "end": "15.200", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "\u201eSoziale Gerechtigkeit\u201c war das Motto des Bundestagswahlkampfes der SPD. "
+   ]
+  }, 
+  {
+   "begin": "15.200", 
+   "children": [], 
+   "end": "16.920", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Das hat nicht geklappt. "
+   ]
+  }, 
+  {
+   "begin": "16.920", 
+   "children": [], 
+   "end": "19.800", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "Die W\u00e4hler haben der SPD offenbar nicht abgenommen, "
+   ]
+  }, 
+  {
+   "begin": "19.800", 
+   "children": [], 
+   "end": "22.720", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "dass sie die erforderliche Kompetenz hat. "
+   ]
+  }, 
+  {
+   "begin": "22.720", 
+   "children": [], 
+   "end": "25.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Jetzt haben Sie einen Gang h\u00f6hergeschaltet: "
+   ]
+  }, 
+  {
+   "begin": "25.480", 
+   "children": [], 
+   "end": "30.880", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Sie sitzen nach einigen Irrungen und Wirrungen wieder am Hebel der Macht und versuchen nun, "
+   ]
+  }, 
+  {
+   "begin": "30.880", 
+   "children": [], 
+   "end": "36.720", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "zulasten der Steuerzahler Ihr angekratztes Image wieder aufzum\u00f6beln, "
+   ]
+  }, 
+  {
+   "begin": "36.720", 
+   "children": [], 
+   "end": "40.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "sozusagen \u201eSoziale Gerechtigkeit reloaded\u201c. "
+   ]
+  }, 
+  {
+   "begin": "42.840", 
+   "children": [], 
+   "end": "44.600", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "Nat\u00fcrlich ist Ihr alter Weggef\u00e4hrte, "
+   ]
+  }, 
+  {
+   "begin": "44.600", 
+   "children": [], 
+   "end": "45.320", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "die CDU, "
+   ]
+  }, 
+  {
+   "begin": "45.320", 
+   "children": [], 
+   "end": "46.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "hocherfreut, "
+   ]
+  }, 
+  {
+   "begin": "46.680", 
+   "children": [], 
+   "end": "48.240", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "weiterregieren zu d\u00fcrfen. "
+   ]
+  }, 
+  {
+   "begin": "48.240", 
+   "children": [], 
+   "end": "53.240", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Ob der W\u00e4hler von dieser f\u00fcr unser Land unseligen Allianz das auch ist, "
+   ]
+  }, 
+  {
+   "begin": "53.240", 
+   "children": [], 
+   "end": "55.120", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "lassen wir einmal offen."
+   ]
+  }, 
+  {
+   "begin": "55.120", 
+   "children": [], 
+   "end": "58.080", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Der Titel dieser Aktuellen Stunde lautet: "
+   ]
+  }, 
+  {
+   "begin": "58.080", 
+   "children": [], 
+   "end": "61.080", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "\u201eAuf dem Weg zur Vollbesch\u00e4ftigung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "61.080", 
+   "children": [], 
+   "end": "65.280", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Beste Arbeitsmarktlage seit der Wiedervereinigung\u00a0...\u201c. "
+   ]
+  }, 
+  {
+   "begin": "65.280", 
+   "children": [], 
+   "end": "69.640", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "Von den \u201eHerausforderungen f\u00fcr die Zukunft\u201c will ich hier gar nicht reden. "
+   ]
+  }, 
+  {
+   "begin": "69.640", 
+   "children": [], 
+   "end": "74.520", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Denn wie will sich jemand zielf\u00fchrend mit den Herausforderungen der Zukunft befassen, "
+   ]
+  }, 
+  {
+   "begin": "74.520", 
+   "children": [], 
+   "end": "80.600", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "der nicht einmal zu einer realistischen Einsch\u00e4tzung des Status quo in der Lage ist?"
+   ]
+  }, 
+  {
+   "begin": "80.600", 
+   "children": [], 
+   "end": "85.960", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Arbeitnehmern geht es heute nicht mehr so gut wie vor 20\u00a0Jahren. "
+   ]
+  }, 
+  {
+   "begin": "85.960", 
+   "children": [], 
+   "end": "88.520", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Unz\u00e4hlige Familien sind heute darauf angewiesen, "
+   ]
+  }, 
+  {
+   "begin": "88.520", 
+   "children": [], 
+   "end": "90.400", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "zwei Einkommen verdienen zu m\u00fcssen, "
+   ]
+  }, 
+  {
+   "begin": "90.400", 
+   "children": [], 
+   "end": "92.960", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "um \u00fcberhaupt noch \u00fcber die Runden zu kommen. "
+   ]
+  }, 
+  {
+   "begin": "92.960", 
+   "children": [], 
+   "end": "101.680", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Die Zahl der Teilzeitbesch\u00e4ftigten ist von 2003 bis heute von 4\u00a0Millionen auf fantastische 17\u00a0Millionen angestiegen, "
+   ]
+  }, 
+  {
+   "begin": "101.680", 
+   "children": [], 
+   "end": "103.760", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wobei nur 20\u00a0Prozent der M\u00e4nner, "
+   ]
+  }, 
+  {
+   "begin": "103.760", 
+   "children": [], 
+   "end": "107.480", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "aber 60\u00a0Prozent der Frauen in Teilzeit arbeiten."
+   ]
+  }, 
+  {
+   "begin": "107.480", 
+   "children": [], 
+   "end": "116.200", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "21,5\u00a0Prozent aller sozialversicherungspflichtig Besch\u00e4ftigten in Deutschland arbeiten heute im Niedriglohnsektor. "
+   ]
+  }, 
+  {
+   "begin": "116.200", 
+   "children": [], 
+   "end": "125.440", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "Der Anstieg des Niedriglohnsektors in Deutschland ist vor dem Hintergrund Ihrer massiven Reformen zur Flexibilisierung und Deregulierung des Arbeitsmarktes zu sehen, "
+   ]
+  }, 
+  {
+   "begin": "125.440", 
+   "children": [], 
+   "end": "130.880", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "die im Vergleich mit anderen europ\u00e4ischen L\u00e4ndern beispiellos negativ sind."
+   ]
+  }, 
+  {
+   "begin": "130.880", 
+   "children": [], 
+   "end": "136.640", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "Die Zahl der Arbeitslosen ist nach wie vor viel zu hoch. "
+   ]
+  }, 
+  {
+   "begin": "136.640", 
+   "children": [], 
+   "end": "139.680", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "Daran \u00e4ndern auch die gesch\u00f6nten Arbeitslosenquoten nichts. "
+   ]
+  }, 
+  {
+   "begin": "139.680", 
+   "children": [], 
+   "end": "143.040", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wenn aktuell von 2,3\u00a0Millionen Arbeitslosen die Rede ist\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "143.040", 
+   "children": [], 
+   "end": "145.440", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "was auch noch saisonbedingt wenig ist\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "145.440", 
+   "children": [], 
+   "end": "147.600", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "dann ist das vielleicht w\u00e4hlerfreundlich, "
+   ]
+  }, 
+  {
+   "begin": "147.600", 
+   "children": [], 
+   "end": "149.320", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "hat aber nichts damit zu tun, "
+   ]
+  }, 
+  {
+   "begin": "149.320", 
+   "children": [], 
+   "end": "153.720", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "wie viele Menschen im erwerbsf\u00e4higen Alter in Deutschland arbeitsuchend sind. "
+   ]
+  }, 
+  {
+   "begin": "153.720", 
+   "children": [], 
+   "end": "156.480", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Da k\u00f6nnen Sie diese Zahl n\u00e4mlich verdoppeln; "
+   ]
+  }, 
+  {
+   "begin": "156.480", 
+   "children": [], 
+   "end": "158.800", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "das k\u00f6nnen Sie in Ihren eigenen Statistiken nachlesen. "
+   ]
+  }, 
+  {
+   "begin": "158.800", 
+   "children": [], 
+   "end": "161.000", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Da reden wir n\u00e4mlich von 4,6\u00a0Millionen. "
+   ]
+  }, 
+  {
+   "begin": "161.000", 
+   "children": [], 
+   "end": "167.320", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Wenn man sich dann noch die Zahl der erwerbsf\u00e4higen Leistungsberechtigten in der Grundsicherung f\u00fcr Arbeitsuchende\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "167.320", 
+   "children": [], 
+   "end": "167.800", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "SGB\u00a0II\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "167.800", 
+   "children": [], 
+   "end": "168.120", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "ansieht, "
+   ]
+  }, 
+  {
+   "begin": "168.120", 
+   "children": [], 
+   "end": "170.120", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "n\u00e4mlich 4,2\u00a0Millionen, "
+   ]
+  }, 
+  {
+   "begin": "170.120", 
+   "children": [], 
+   "end": "172.840", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "dann kommen einem die Tr\u00e4nen."
+   ]
+  }, 
+  {
+   "begin": "172.840", 
+   "children": [], 
+   "end": "174.160", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "In dieser Situation, "
+   ]
+  }, 
+  {
+   "begin": "174.160", 
+   "children": [], 
+   "end": "178.880", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "aufbauend auf einer um 50\u00a0Prozent gesch\u00f6nten Anzahl von Arbeitsuchenden, "
+   ]
+  }, 
+  {
+   "begin": "178.880", 
+   "children": [], 
+   "end": "182.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "reden Sie tats\u00e4chlich von Vollbesch\u00e4ftigung. "
+   ]
+  }, 
+  {
+   "begin": "182.160", 
+   "children": [], 
+   "end": "184.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitsminister Hubertus Heil plant, "
+   ]
+  }, 
+  {
+   "begin": "184.320", 
+   "children": [], 
+   "end": "187.840", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "mit einem angeblich ganzheitlichen Ansatz die Qualifizierung, "
+   ]
+  }, 
+  {
+   "begin": "187.840", 
+   "children": [], 
+   "end": "194.960", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Vermittlung und Reintegration von Langzeitarbeitslosen in den Arbeitsmarkt voranzutreiben. "
+   ]
+  }, 
+  {
+   "begin": "194.960", 
+   "children": [], 
+   "end": "204.800", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Das Hauptinstrument seines Konzeptes soll ein langfristiger Lohnkostenzuschuss f\u00fcr Arbeitgeber \u00fcber einen Zeitraum von f\u00fcnf Jahren sein, "
+   ]
+  }, 
+  {
+   "begin": "204.800", 
+   "children": [], 
+   "end": "209.480", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "der in den ersten beiden Jahren 100\u00a0Prozent des vereinbarten Lohnes betragen soll, "
+   ]
+  }, 
+  {
+   "begin": "209.480", 
+   "children": [], 
+   "end": "214.000", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "wenn die Langzeitarbeitslosen mindestens sechs Jahre ohne Besch\u00e4ftigung waren. "
+   ]
+  }, 
+  {
+   "begin": "214.000", 
+   "children": [], 
+   "end": "215.400", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr Arbeitslose, "
+   ]
+  }, 
+  {
+   "begin": "215.400", 
+   "children": [], 
+   "end": "217.920", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die mindestens zwei Jahre ohne Arbeit waren, "
+   ]
+  }, 
+  {
+   "begin": "217.920", 
+   "children": [], 
+   "end": "221.400", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "soll der Lohnkostenzuschuss zwei Jahre gezahlt werden, "
+   ]
+  }, 
+  {
+   "begin": "221.400", 
+   "children": [], 
+   "end": "225.400", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "und zwar zu 75 und 50\u00a0Prozent. "
+   ]
+  }, 
+  {
+   "begin": "225.400", 
+   "children": [], 
+   "end": "231.720", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Da scheint sich Herr Heil auf Kosten des Steuerzahlers ein Denkmal setzen zu wollen."
+   ]
+  }, 
+  {
+   "begin": "231.720", 
+   "children": [], 
+   "end": "233.800", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Allerdings ist bereits jetzt absehbar, "
+   ]
+  }, 
+  {
+   "begin": "233.800", 
+   "children": [], 
+   "end": "235.760", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "dass der Schuss nach hinten losgeht."
+   ]
+  }, 
+  {
+   "begin": "235.760", 
+   "children": [], 
+   "end": "238.440", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Die f\u00fcnfj\u00e4hrige F\u00f6rderung von Arbeitspl\u00e4tzen, "
+   ]
+  }, 
+  {
+   "begin": "238.440", 
+   "children": [], 
+   "end": "241.880", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "die in direkter Konkurrenz zum freien Arbeitsmarkt stehen, "
+   ]
+  }, 
+  {
+   "begin": "241.880", 
+   "children": [], 
+   "end": "243.480", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "wird dazu f\u00fchren, "
+   ]
+  }, 
+  {
+   "begin": "243.480", 
+   "children": [], 
+   "end": "247.160", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "dass sich die Anzahl der Arbeitslosen nicht ver\u00e4ndert. "
+   ]
+  }, 
+  {
+   "begin": "247.160", 
+   "children": [], 
+   "end": "251.120", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Hier werden zulasten des Steuerzahlers Wettbewerbsverzerrungen vorgenommen, "
+   ]
+  }, 
+  {
+   "begin": "251.120", 
+   "children": [], 
+   "end": "256.200", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "die den kleinen und mittelst\u00e4ndischen Unternehmen massiven Schaden zuf\u00fcgen. "
+   ]
+  }, 
+  {
+   "begin": "256.200", 
+   "children": [], 
+   "end": "259.080", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "Offensichtlich scheint das Ziel der SPD zu sein, "
+   ]
+  }, 
+  {
+   "begin": "259.080", 
+   "children": [], 
+   "end": "262.160", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "die soziale Marktwirtschaft weiter auszuhebeln."
+   ]
+  }, 
+  {
+   "begin": "262.160", 
+   "children": [], 
+   "end": "270.200", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Langzeitarbeitslose werden zu Versuchskaninchen eines geltungsbed\u00fcrftigen Arbeitsministers gemacht, "
+   ]
+  }, 
+  {
+   "begin": "270.200", 
+   "children": [], 
+   "end": "271.280", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "der versucht, "
+   ]
+  }, 
+  {
+   "begin": "271.280", 
+   "children": [], 
+   "end": "275.680", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "mit wirtschaftssch\u00e4digenden Ma\u00dfnahmen seine eigene Reputation aufzupolieren."
+   ]
+  }, 
+  {
+   "begin": "275.680", 
+   "children": [], 
+   "end": "278.360", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Die Kr\u00f6nung des Ganzen ist, "
+   ]
+  }, 
+  {
+   "begin": "278.360", 
+   "children": [], 
+   "end": "283.880", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "dass es eine Nachbesch\u00e4ftigungspflicht von nur sechs Monaten geben soll. "
+   ]
+  }, 
+  {
+   "begin": "283.880", 
+   "children": [], 
+   "end": "284.120", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Das, "
+   ]
+  }, 
+  {
+   "begin": "284.120", 
+   "children": [], 
+   "end": "285.360", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Herr Arbeitsminister\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "285.360", 
+   "children": [], 
+   "end": "286.680", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "auch wenn er nicht zugegen ist\u00a0\u2013, "
+   ]
+  }, 
+  {
+   "begin": "286.680", 
+   "children": [], 
+   "end": "289.600", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fchrt zu bef\u00f6rderten Rotationsarbeitspl\u00e4tzen."
+   ]
+  }, 
+  {
+   "begin": "289.600", 
+   "children": [], 
+   "end": "290.000", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "\u2013\u00a0Ach, "
+   ]
+  }, 
+  {
+   "begin": "290.000", 
+   "children": [], 
+   "end": "291.760", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "er ist noch da. "
+   ]
+  }, 
+  {
+   "begin": "291.760", 
+   "children": [], 
+   "end": "292.200", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Entschuldigung.\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "292.200", 
+   "children": [], 
+   "end": "293.080", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Dies alles geschieht nur, "
+   ]
+  }, 
+  {
+   "begin": "293.080", 
+   "children": [], 
+   "end": "300.240", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "um den Merkel\u2019schen Versprechen von Vollbesch\u00e4ftigung durch Augenwischerei Rechnung zu tragen. "
+   ]
+  }, 
+  {
+   "begin": "300.240", 
+   "children": [], 
+   "end": "303.720", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Hier soll der W\u00e4hler mit einem Potemkinschen Dorf geblendet werden, "
+   ]
+  }, 
+  {
+   "begin": "303.720", 
+   "children": [], 
+   "end": "309.520", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "damit sp\u00e4ter die n\u00e4chsten Landtagswahlergebnisse f\u00fcr die CDU und die SPD besser werden."
+   ]
+  }, 
+  {
+   "begin": "309.520", 
+   "children": [], 
+   "end": "312.080", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Werte Mitglieder der Regierung, "
+   ]
+  }, 
+  {
+   "begin": "312.080", 
+   "children": [], 
+   "end": "313.280", 
+   "id": "s000090", 
+   "language": "deu", 
+   "lines": [
+    "tun Sie endlich das, "
+   ]
+  }, 
+  {
+   "begin": "313.280", 
+   "children": [], 
+   "end": "314.720", 
+   "id": "s000091", 
+   "language": "deu", 
+   "lines": [
+    "wof\u00fcr man Sie gew\u00e4hlt hat. "
+   ]
+  }, 
+  {
+   "begin": "314.720", 
+   "children": [], 
+   "end": "319.080", 
+   "id": "s000092", 
+   "language": "deu", 
+   "lines": [
+    "Schaffen Sie einen tragf\u00e4higen Rahmen f\u00fcr kleine und mittelst\u00e4ndische Unternehmen, "
+   ]
+  }, 
+  {
+   "begin": "319.080", 
+   "children": [], 
+   "end": "320.840", 
+   "id": "s000093", 
+   "language": "deu", 
+   "lines": [
+    "damit diese wieder in der Lage sind, "
+   ]
+  }, 
+  {
+   "begin": "320.840", 
+   "children": [], 
+   "end": "324.000", 
+   "id": "s000094", 
+   "language": "deu", 
+   "lines": [
+    "Mitarbeiter einzustellen und diese so zu bezahlen, "
+   ]
+  }, 
+  {
+   "begin": "324.000", 
+   "children": [], 
+   "end": "328.040", 
+   "id": "s000095", 
+   "language": "deu", 
+   "lines": [
+    "dass sie ohne Not und Nebenbesch\u00e4ftigung in unserem Deutschland leben k\u00f6nnen."
+   ]
+  }, 
+  {
+   "begin": "328.040", 
+   "children": [], 
+   "end": "332.160", 
+   "id": "s000096", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "332.160", 
+   "children": [], 
+   "end": "340.000", 
+   "id": "s000097", 
+   "language": "deu", 
+   "lines": [
+    "Ich erteile das Wort dem Kollegen Peter Wei\u00df von der CDU/CSU-Fraktion."
+   ]
+  }
+ ]
+}

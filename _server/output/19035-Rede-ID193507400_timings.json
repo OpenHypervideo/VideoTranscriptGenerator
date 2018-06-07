@@ -1,0 +1,894 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "4.120", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "4.120", 
+   "children": [], 
+   "end": "8.360", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren! "
+   ]
+  }, 
+  {
+   "begin": "8.360", 
+   "children": [], 
+   "end": "11.600", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Lassen Sie mich zu der Debatte drei Anmerkungen machen:"
+   ]
+  }, 
+  {
+   "begin": "11.600", 
+   "children": [], 
+   "end": "13.600", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "Die erste Anmerkung. "
+   ]
+  }, 
+  {
+   "begin": "13.600", 
+   "children": [], 
+   "end": "16.320", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "Das deutsche Besch\u00e4ftigungswunder hat auch damit zu tun, "
+   ]
+  }, 
+  {
+   "begin": "16.320", 
+   "children": [], 
+   "end": "19.840", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass wir in der globalisierten Welt gut aufgestellt sind. "
+   ]
+  }, 
+  {
+   "begin": "19.840", 
+   "children": [], 
+   "end": "21.840", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "Wir sind gut im Export, "
+   ]
+  }, 
+  {
+   "begin": "21.840", 
+   "children": [], 
+   "end": "22.480", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "nicht nur, "
+   ]
+  }, 
+  {
+   "begin": "22.480", 
+   "children": [], 
+   "end": "25.560", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "weil in Deutschland gute Produkte hergestellt werden, "
+   ]
+  }, 
+  {
+   "begin": "25.560", 
+   "children": [], 
+   "end": "26.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch, "
+   ]
+  }, 
+  {
+   "begin": "26.480", 
+   "children": [], 
+   "end": "30.320", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "weil wir von einem freien und fairen Handel profitieren, "
+   ]
+  }, 
+  {
+   "begin": "30.320", 
+   "children": [], 
+   "end": "33.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "weil wir die Internationalit\u00e4t leben. "
+   ]
+  }, 
+  {
+   "begin": "33.640", 
+   "children": [], 
+   "end": "39.120", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Daraus folgt f\u00fcr mich zuv\u00f6rderst das Bekenntnis zu einem freien und fairen Handel. "
+   ]
+  }, 
+  {
+   "begin": "39.120", 
+   "children": [], 
+   "end": "42.680", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Protektionismus vertr\u00e4gt sich nicht mit Vollbesch\u00e4ftigung."
+   ]
+  }, 
+  {
+   "begin": "42.680", 
+   "children": [], 
+   "end": "46.520", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "46.520", 
+   "children": [], 
+   "end": "51.280", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "am Freihandel kann man sicherlich das eine oder andere kritisieren oder verbessern, "
+   ]
+  }, 
+  {
+   "begin": "51.280", 
+   "children": [], 
+   "end": "58.720", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "aber er ist allemal und grunds\u00e4tzlich besser als eine Welt des Protektionismus und der Handelskriege."
+   ]
+  }, 
+  {
+   "begin": "58.720", 
+   "children": [], 
+   "end": "62.960", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen wollen wir weiter eine faire und gerechte Freihandelswelt, "
+   ]
+  }, 
+  {
+   "begin": "62.960", 
+   "children": [], 
+   "end": "65.480", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "sie ist in unserem ureigenen Interesse."
+   ]
+  }, 
+  {
+   "begin": "65.480", 
+   "children": [], 
+   "end": "69.960", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "Wir k\u00f6nnen die Globalisierung, "
+   ]
+  }, 
+  {
+   "begin": "69.960", 
+   "children": [], 
+   "end": "72.360", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "ja wir m\u00fcssen die Globalisierung mitgestalten, "
+   ]
+  }, 
+  {
+   "begin": "72.360", 
+   "children": [], 
+   "end": "75.960", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "und diese Mitgestaltung ist notwendiger denn je. "
+   ]
+  }, 
+  {
+   "begin": "75.960", 
+   "children": [], 
+   "end": "79.720", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "Wir brauchen robuste internationale Regeln, "
+   ]
+  }, 
+  {
+   "begin": "79.720", 
+   "children": [], 
+   "end": "82.320", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "einen Ordnungsrahmen der globalisierten Wirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "82.320", 
+   "children": [], 
+   "end": "86.680", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "am liebsten in der Form einer internationalen sozialen Marktwirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "86.680", 
+   "children": [], 
+   "end": "88.160", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "Nur so k\u00f6nnen wir sicherstellen, "
+   ]
+  }, 
+  {
+   "begin": "88.160", 
+   "children": [], 
+   "end": "93.840", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass es unter fairen Arbeitsbedingungen gerecht zugeht in der Globalisierung. "
+   ]
+  }, 
+  {
+   "begin": "93.840", 
+   "children": [], 
+   "end": "96.600", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen lassen Sie uns dar\u00fcber reden, "
+   ]
+  }, 
+  {
+   "begin": "96.600", 
+   "children": [], 
+   "end": "97.920", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "wie wir dies erreichen k\u00f6nnen, "
+   ]
+  }, 
+  {
+   "begin": "97.920", 
+   "children": [], 
+   "end": "106.600", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "etwa durch eine St\u00e4rkung der internationalen Organisationen wie der ILO oder durch eine Sensibilisierung der Wirtschaft f\u00fcr Menschenrechte, "
+   ]
+  }, 
+  {
+   "begin": "106.600", 
+   "children": [], 
+   "end": "113.880", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "wie sie in den Leitprinzipien der Vereinten Nationen vorgeschlagen worden ist und im Nationalen Aktionsplan auch umgesetzt wird."
+   ]
+  }, 
+  {
+   "begin": "113.880", 
+   "children": [], 
+   "end": "115.640", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "All das, "
+   ]
+  }, 
+  {
+   "begin": "115.640", 
+   "children": [], 
+   "end": "116.600", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "116.600", 
+   "children": [], 
+   "end": "118.800", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "n\u00fctzt aber nichts, "
+   ]
+  }, 
+  {
+   "begin": "118.800", 
+   "children": [], 
+   "end": "121.840", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "wenn wir uns geistig abschotten. "
+   ]
+  }, 
+  {
+   "begin": "121.840", 
+   "children": [], 
+   "end": "122.680", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "Wer glaubt, "
+   ]
+  }, 
+  {
+   "begin": "122.680", 
+   "children": [], 
+   "end": "125.840", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "politischer Nationalismus vertrage sich mit Freihandel, "
+   ]
+  }, 
+  {
+   "begin": "125.840", 
+   "children": [], 
+   "end": "128.080", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "der irrt. "
+   ]
+  }, 
+  {
+   "begin": "128.080", 
+   "children": [], 
+   "end": "128.600", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "Wer glaubt, "
+   ]
+  }, 
+  {
+   "begin": "128.600", 
+   "children": [], 
+   "end": "130.000", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Ausgrenzung, "
+   ]
+  }, 
+  {
+   "begin": "130.000", 
+   "children": [], 
+   "end": "141.760", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "Hass auf Minderheiten und Intoleranz vertr\u00fcgen sich mit Vollbesch\u00e4ftigung in einer globalisierten Wirtschaft, "
+   ]
+  }, 
+  {
+   "begin": "141.760", 
+   "children": [], 
+   "end": "142.480", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "der irrt."
+   ]
+  }, 
+  {
+   "begin": "142.480", 
+   "children": [], 
+   "end": "145.320", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "Zweite Anmerkung. "
+   ]
+  }, 
+  {
+   "begin": "145.320", 
+   "children": [], 
+   "end": "147.120", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "Vielleicht ist es ja gerade dies, "
+   ]
+  }, 
+  {
+   "begin": "147.120", 
+   "children": [], 
+   "end": "149.320", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "was einige wollen: "
+   ]
+  }, 
+  {
+   "begin": "149.320", 
+   "children": [], 
+   "end": "151.080", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "den Menschen die Hoffnung nehmen, "
+   ]
+  }, 
+  {
+   "begin": "151.080", 
+   "children": [], 
+   "end": "155.320", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "um das Gesch\u00e4ft des Populismus zu bef\u00f6rdern. "
+   ]
+  }, 
+  {
+   "begin": "155.320", 
+   "children": [], 
+   "end": "157.280", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "Ich glaube schon: "
+   ]
+  }, 
+  {
+   "begin": "157.280", 
+   "children": [], 
+   "end": "162.240", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "Extremismus gedeiht auf dem N\u00e4hrboden der Zukunftsangst. "
+   ]
+  }, 
+  {
+   "begin": "162.240", 
+   "children": [], 
+   "end": "164.640", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "Aber Zukunftsangst hat derjenige nicht, "
+   ]
+  }, 
+  {
+   "begin": "164.640", 
+   "children": [], 
+   "end": "168.080", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "der einen sicheren Arbeitsplatz und berechenbare Perspektiven hat."
+   ]
+  }, 
+  {
+   "begin": "168.080", 
+   "children": [], 
+   "end": "171.320", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "Der gr\u00fcndet auch eine Familie, "
+   ]
+  }, 
+  {
+   "begin": "171.320", 
+   "children": [], 
+   "end": "174.920", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "der beheimatet sich. "
+   ]
+  }, 
+  {
+   "begin": "174.920", 
+   "children": [], 
+   "end": "181.520", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Deswegen ist unsere Wirtschaftspolitik auch eine Politik gegen jegliche Form des Extremismus."
+   ]
+  }, 
+  {
+   "begin": "181.520", 
+   "children": [], 
+   "end": "183.840", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Es ist im \u00dcbrigen kein Zufall, "
+   ]
+  }, 
+  {
+   "begin": "183.840", 
+   "children": [], 
+   "end": "187.320", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "was die Konrad-\u00adAdenauer-Stiftung k\u00fcrzlich herausgefunden hat: "
+   ]
+  }, 
+  {
+   "begin": "187.320", 
+   "children": [], 
+   "end": "190.880", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4hler der Union schauen der Zukunft positiv entgegen, "
+   ]
+  }, 
+  {
+   "begin": "190.880", 
+   "children": [], 
+   "end": "195.520", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "W\u00e4hler der AfD sind von Zukunftsangst getrieben\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "195.520", 
+   "children": [], 
+   "end": "197.320", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "und wenn ich mir diese Truppe anschaue, "
+   ]
+  }, 
+  {
+   "begin": "197.320", 
+   "children": [], 
+   "end": "199.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "v\u00f6llig zu Recht."
+   ]
+  }, 
+  {
+   "begin": "199.000", 
+   "children": [], 
+   "end": "204.520", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Dritte Anmerkung. "
+   ]
+  }, 
+  {
+   "begin": "204.520", 
+   "children": [], 
+   "end": "212.560", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Schon in den 50er-Jahren sprach Alfred M\u00fcller-Armack von einer zweiten Phase der sozialen Marktwirtschaft. "
+   ]
+  }, 
+  {
+   "begin": "212.560", 
+   "children": [], 
+   "end": "215.440", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "Er sprach unter anderem von der Notwendigkeit, "
+   ]
+  }, 
+  {
+   "begin": "215.440", 
+   "children": [], 
+   "end": "221.080", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "die Expansion harmonisch erg\u00e4nzender Umweltformen zu betreiben. "
+   ]
+  }, 
+  {
+   "begin": "221.080", 
+   "children": [], 
+   "end": "223.160", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "Gerade in der Vollbesch\u00e4ftigung\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "223.160", 
+   "children": [], 
+   "end": "224.760", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "oder auf dem Weg dorthin\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "224.760", 
+   "children": [], 
+   "end": "227.200", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "d\u00fcrfen wir nicht den Blick darauf verlieren, "
+   ]
+  }, 
+  {
+   "begin": "227.200", 
+   "children": [], 
+   "end": "232.040", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "wie sehr wir auf die Erde als Wirtschaftsgrundlage angewiesen sind."
+   ]
+  }, 
+  {
+   "begin": "232.040", 
+   "children": [], 
+   "end": "236.240", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "Meine Damen und Herren, "
+   ]
+  }, 
+  {
+   "begin": "236.240", 
+   "children": [], 
+   "end": "240.080", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "es gibt keine Vollbesch\u00e4ftigung in der \u00f6kologischen Katastrophe, "
+   ]
+  }, 
+  {
+   "begin": "240.080", 
+   "children": [], 
+   "end": "241.840", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "jedenfalls keine sinnvolle. "
+   ]
+  }, 
+  {
+   "begin": "241.840", 
+   "children": [], 
+   "end": "249.840", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "Und Ludwig Erhard hat hinsichtlich der zweiten Phase der sozialen Marktwirtschaft sekundiert: "
+   ]
+  }, 
+  {
+   "begin": "249.840", 
+   "children": [], 
+   "end": "253.520", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "Es bed\u00fcrfe einer Korrektur der Wirtschaftspolitik dahin gehend, "
+   ]
+  }, 
+  {
+   "begin": "253.520", 
+   "children": [], 
+   "end": "259.560", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "dass man nicht in der fortdauernden Expansion des Materiellen l\u00e4nger das Heil erblicken solle. "
+   ]
+  }, 
+  {
+   "begin": "259.560", 
+   "children": [], 
+   "end": "265.200", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "Auch ein solcher Gedanke hat an Aktualit\u00e4t nichts verloren. "
+   ]
+  }, 
+  {
+   "begin": "265.200", 
+   "children": [], 
+   "end": "268.280", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Vollbesch\u00e4ftigung ist vielleicht eine notwendige, "
+   ]
+  }, 
+  {
+   "begin": "268.280", 
+   "children": [], 
+   "end": "272.360", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "aber keine hinreichende Bedingung f\u00fcr Wohlstand und Lebensqualit\u00e4t. "
+   ]
+  }, 
+  {
+   "begin": "272.360", 
+   "children": [], 
+   "end": "274.200", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Aber sie l\u00e4sst uns die Fragen in den Blick nehmen, "
+   ]
+  }, 
+  {
+   "begin": "274.200", 
+   "children": [], 
+   "end": "274.960", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "die das Leben lebenswert machen, "
+   ]
+  }, 
+  {
+   "begin": "274.960", 
+   "children": [], 
+   "end": "276.560", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "und diese Chance sollten wir auf dem Weg in die Vollbesch\u00e4ftigung nutzen."
+   ]
+  }, 
+  {
+   "begin": "276.560", 
+   "children": [], 
+   "end": "278.080", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Liebe Kolleginnen und Kollegen, "
+   ]
+  }, 
+  {
+   "begin": "278.080", 
+   "children": [], 
+   "end": "279.840", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "wir sind damit am Schluss unserer heutigen Tagesordnung."
+   ]
+  }, 
+  {
+   "begin": "279.840", 
+   "children": [], 
+   "end": "281.440", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "Ich berufe die n\u00e4chste Sitzung des Deutschen Bundestages auf morgen, "
+   ]
+  }, 
+  {
+   "begin": "281.440", 
+   "children": [], 
+   "end": "282.000", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "Donnerstag, "
+   ]
+  }, 
+  {
+   "begin": "282.000", 
+   "children": [], 
+   "end": "285.800", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "den 7.\u00a0Juni 2018, "
+   ]
+  }, 
+  {
+   "begin": "285.800", 
+   "children": [], 
+   "end": "286.280", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "9\u00a0Uhr, "
+   ]
+  }, 
+  {
+   "begin": "286.280", 
+   "children": [], 
+   "end": "286.480", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "ein."
+   ]
+  }, 
+  {
+   "begin": "286.480", 
+   "children": [], 
+   "end": "286.680", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "Die Sitzung ist geschlossen. "
+   ]
+  }, 
+  {
+   "begin": "286.680", 
+   "children": [], 
+   "end": "287.000", 
+   "id": "s000089", 
+   "language": "deu", 
+   "lines": [
+    "Ich w\u00fcnsche einen sch\u00f6nen Abend."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,884 @@
+{
+ "fragments": [
+  {
+   "begin": "0.000", 
+   "children": [], 
+   "end": "12.240", 
+   "id": "s000001", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Pr\u00e4sident! "
+   ]
+  }, 
+  {
+   "begin": "12.240", 
+   "children": [], 
+   "end": "15.520", 
+   "id": "s000002", 
+   "language": "deu", 
+   "lines": [
+    "Werte Kolleginnen und Kollegen! "
+   ]
+  }, 
+  {
+   "begin": "15.520", 
+   "children": [], 
+   "end": "17.960", 
+   "id": "s000003", 
+   "language": "deu", 
+   "lines": [
+    "Sehr geehrter Herr Bundesminister Heil, "
+   ]
+  }, 
+  {
+   "begin": "17.960", 
+   "children": [], 
+   "end": "19.560", 
+   "id": "s000004", 
+   "language": "deu", 
+   "lines": [
+    "wenn man Ihnen zuh\u00f6rt, "
+   ]
+  }, 
+  {
+   "begin": "19.560", 
+   "children": [], 
+   "end": "21.400", 
+   "id": "s000005", 
+   "language": "deu", 
+   "lines": [
+    "dann k\u00f6nnte man fast meinen, "
+   ]
+  }, 
+  {
+   "begin": "21.400", 
+   "children": [], 
+   "end": "25.040", 
+   "id": "s000006", 
+   "language": "deu", 
+   "lines": [
+    "dass die Aktuelle Stunde von der Koalition nur aufgesetzt wurde, "
+   ]
+  }, 
+  {
+   "begin": "25.040", 
+   "children": [], 
+   "end": "28.600", 
+   "id": "s000007", 
+   "language": "deu", 
+   "lines": [
+    "um sich gegenseitig kr\u00e4ftig auf die Schultern zu klopfen."
+   ]
+  }, 
+  {
+   "begin": "28.600", 
+   "children": [], 
+   "end": "30.440", 
+   "id": "s000008", 
+   "language": "deu", 
+   "lines": [
+    "Meine Fraktion und ich finden: "
+   ]
+  }, 
+  {
+   "begin": "30.440", 
+   "children": [], 
+   "end": "31.640", 
+   "id": "s000009", 
+   "language": "deu", 
+   "lines": [
+    "Daf\u00fcr gibt es keinen Anlass."
+   ]
+  }, 
+  {
+   "begin": "31.640", 
+   "children": [], 
+   "end": "32.480", 
+   "id": "s000010", 
+   "language": "deu", 
+   "lines": [
+    "Sie sagen, "
+   ]
+  }, 
+  {
+   "begin": "32.480", 
+   "children": [], 
+   "end": "39.480", 
+   "id": "s000011", 
+   "language": "deu", 
+   "lines": [
+    "wir h\u00e4tten die beste Arbeitsmarktlage seit der Wiedervereinigung. "
+   ]
+  }, 
+  {
+   "begin": "39.480", 
+   "children": [], 
+   "end": "49.640", 
+   "id": "s000012", 
+   "language": "deu", 
+   "lines": [
+    "In der Tat haben wir offiziell den niedrigsten Stand der Arbeitslosigkeit seit 1991 und den h\u00f6chsten Stand der sozialversicherungspflichtigen Besch\u00e4ftigung zu verzeichnen. "
+   ]
+  }, 
+  {
+   "begin": "49.640", 
+   "children": [], 
+   "end": "51.160", 
+   "id": "s000013", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist: "
+   ]
+  }, 
+  {
+   "begin": "51.160", 
+   "children": [], 
+   "end": "54.200", 
+   "id": "s000014", 
+   "language": "deu", 
+   "lines": [
+    "Die Arbeitslosenzahlen werden sch\u00f6ngerechnet."
+   ]
+  }, 
+  {
+   "begin": "54.200", 
+   "children": [], 
+   "end": "59.200", 
+   "id": "s000015", 
+   "language": "deu", 
+   "lines": [
+    "Viele werden in der Arbeitslosenstatistik \u00fcberhaupt nicht erfasst: "
+   ]
+  }, 
+  {
+   "begin": "59.200", 
+   "children": [], 
+   "end": "59.960", 
+   "id": "s000016", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitslose, "
+   ]
+  }, 
+  {
+   "begin": "59.960", 
+   "children": [], 
+   "end": "61.520", 
+   "id": "s000017", 
+   "language": "deu", 
+   "lines": [
+    "die krank gemeldet sind, "
+   ]
+  }, 
+  {
+   "begin": "61.520", 
+   "children": [], 
+   "end": "62.280", 
+   "id": "s000018", 
+   "language": "deu", 
+   "lines": [
+    "Arbeitslose, "
+   ]
+  }, 
+  {
+   "begin": "62.280", 
+   "children": [], 
+   "end": "66.320", 
+   "id": "s000019", 
+   "language": "deu", 
+   "lines": [
+    "die einen 1-Euro-Job machen oder an Weiterbildungen teilnehmen, "
+   ]
+  }, 
+  {
+   "begin": "66.320", 
+   "children": [], 
+   "end": "67.480", 
+   "id": "s000020", 
+   "language": "deu", 
+   "lines": [
+    "viele der Arbeitslosen, "
+   ]
+  }, 
+  {
+   "begin": "67.480", 
+   "children": [], 
+   "end": "69.600", 
+   "id": "s000021", 
+   "language": "deu", 
+   "lines": [
+    "die \u00e4lter sind als 58\u00a0Jahre. "
+   ]
+  }, 
+  {
+   "begin": "69.600", 
+   "children": [], 
+   "end": "73.000", 
+   "id": "s000022", 
+   "language": "deu", 
+   "lines": [
+    "Sobald private Arbeitsvermittler t\u00e4tig werden, "
+   ]
+  }, 
+  {
+   "begin": "73.000", 
+   "children": [], 
+   "end": "76.120", 
+   "id": "s000023", 
+   "language": "deu", 
+   "lines": [
+    "tauchen die Arbeitslosen nicht mehr in der Statistik auf, "
+   ]
+  }, 
+  {
+   "begin": "76.120", 
+   "children": [], 
+   "end": "79.200", 
+   "id": "s000024", 
+   "language": "deu", 
+   "lines": [
+    "obwohl sie alle noch immer arbeitslos sind. "
+   ]
+  }, 
+  {
+   "begin": "79.200", 
+   "children": [], 
+   "end": "81.360", 
+   "id": "s000025", 
+   "language": "deu", 
+   "lines": [
+    "Rechnet man diese Menschen wieder dazu, "
+   ]
+  }, 
+  {
+   "begin": "81.360", 
+   "children": [], 
+   "end": "81.760", 
+   "id": "s000026", 
+   "language": "deu", 
+   "lines": [
+    "dann stellt man fest, "
+   ]
+  }, 
+  {
+   "begin": "81.760", 
+   "children": [], 
+   "end": "90.840", 
+   "id": "s000027", 
+   "language": "deu", 
+   "lines": [
+    "dass wir im Mai\u00a02018 statt bei offiziell 2,3\u00a0Millionen bei einer tats\u00e4chlichen Arbeitslosigkeit von fast 3,3\u00a0Millionen Menschen liegen, "
+   ]
+  }, 
+  {
+   "begin": "90.840", 
+   "children": [], 
+   "end": "93.160", 
+   "id": "s000028", 
+   "language": "deu", 
+   "lines": [
+    "also fast 50\u00a0Prozent mehr."
+   ]
+  }, 
+  {
+   "begin": "93.160", 
+   "children": [], 
+   "end": "95.000", 
+   "id": "s000029", 
+   "language": "deu", 
+   "lines": [
+    "Herr Heil, "
+   ]
+  }, 
+  {
+   "begin": "95.000", 
+   "children": [], 
+   "end": "97.840", 
+   "id": "s000030", 
+   "language": "deu", 
+   "lines": [
+    "f\u00fchren Sie endlich eine ehrliche Statistik ein!"
+   ]
+  }, 
+  {
+   "begin": "97.840", 
+   "children": [], 
+   "end": "98.560", 
+   "id": "s000031", 
+   "language": "deu", 
+   "lines": [
+    "H\u00f6ren Sie auf, "
+   ]
+  }, 
+  {
+   "begin": "98.560", 
+   "children": [], 
+   "end": "104.000", 
+   "id": "s000032", 
+   "language": "deu", 
+   "lines": [
+    "die Probleme vieler Menschen auf dem Arbeitsmarkt mit einer h\u00fcbschen Statistik unter den Teppich zu kehren."
+   ]
+  }, 
+  {
+   "begin": "104.000", 
+   "children": [], 
+   "end": "104.880", 
+   "id": "s000033", 
+   "language": "deu", 
+   "lines": [
+    "Fakt ist, "
+   ]
+  }, 
+  {
+   "begin": "104.880", 
+   "children": [], 
+   "end": "106.920", 
+   "id": "s000034", 
+   "language": "deu", 
+   "lines": [
+    "dass die Zunahme der abh\u00e4ngigen Besch\u00e4ftigung, "
+   ]
+  }, 
+  {
+   "begin": "106.920", 
+   "children": [], 
+   "end": "108.240", 
+   "id": "s000035", 
+   "language": "deu", 
+   "lines": [
+    "die Sie hier bejubeln, "
+   ]
+  }, 
+  {
+   "begin": "108.240", 
+   "children": [], 
+   "end": "113.280", 
+   "id": "s000036", 
+   "language": "deu", 
+   "lines": [
+    "zu einem satten Teil auf einer ungerechten Verteilung von Arbeit beruht. "
+   ]
+  }, 
+  {
+   "begin": "113.280", 
+   "children": [], 
+   "end": "115.880", 
+   "id": "s000037", 
+   "language": "deu", 
+   "lines": [
+    "Das Arbeitsvolumen ist seit der Wiedervereinigung, "
+   ]
+  }, 
+  {
+   "begin": "115.880", 
+   "children": [], 
+   "end": "118.280", 
+   "id": "s000038", 
+   "language": "deu", 
+   "lines": [
+    "also im Vergleich zu 1991, "
+   ]
+  }, 
+  {
+   "begin": "118.280", 
+   "children": [], 
+   "end": "119.720", 
+   "id": "s000039", 
+   "language": "deu", 
+   "lines": [
+    "sogar geschrumpft. "
+   ]
+  }, 
+  {
+   "begin": "119.720", 
+   "children": [], 
+   "end": "124.360", 
+   "id": "s000040", 
+   "language": "deu", 
+   "lines": [
+    "Seit 2000 hat die Besch\u00e4ftigung in Vollzeit um 3\u00a0Prozent abgenommen, "
+   ]
+  }, 
+  {
+   "begin": "124.360", 
+   "children": [], 
+   "end": "128.240", 
+   "id": "s000041", 
+   "language": "deu", 
+   "lines": [
+    "w\u00e4hrend sich die Teilzeitbesch\u00e4ftigung mehr als verdoppelt hat. "
+   ]
+  }, 
+  {
+   "begin": "128.240", 
+   "children": [], 
+   "end": "135.680", 
+   "id": "s000042", 
+   "language": "deu", 
+   "lines": [
+    "Das h\u00e4ngt ma\u00dfgeblich mit den tiefen Einschnitten der Agenda\u00a02010 und ihrem Kernelement Hartz IV zusammen, "
+   ]
+  }, 
+  {
+   "begin": "135.680", 
+   "children": [], 
+   "end": "139.480", 
+   "id": "s000043", 
+   "language": "deu", 
+   "lines": [
+    "die Menschen unter Androhung von Sanktionen in miese Jobs zwingen, "
+   ]
+  }, 
+  {
+   "begin": "139.480", 
+   "children": [], 
+   "end": "141.600", 
+   "id": "s000044", 
+   "language": "deu", 
+   "lines": [
+    "in unfreiwillige Teilzeit, "
+   ]
+  }, 
+  {
+   "begin": "141.600", 
+   "children": [], 
+   "end": "143.400", 
+   "id": "s000045", 
+   "language": "deu", 
+   "lines": [
+    "in den riesigen Niedriglohnsektor, "
+   ]
+  }, 
+  {
+   "begin": "143.400", 
+   "children": [], 
+   "end": "146.760", 
+   "id": "s000046", 
+   "language": "deu", 
+   "lines": [
+    "in dem heute \u00fcber 20\u00a0Prozent der Besch\u00e4ftigten arbeiten, "
+   ]
+  }, 
+  {
+   "begin": "146.760", 
+   "children": [], 
+   "end": "148.800", 
+   "id": "s000047", 
+   "language": "deu", 
+   "lines": [
+    "in sachgrundlose Befristungen\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "148.800", 
+   "children": [], 
+   "end": "153.160", 
+   "id": "s000048", 
+   "language": "deu", 
+   "lines": [
+    "fast jede zweite Neueinstellung wird heute befristet\u00a0\u2013 "
+   ]
+  }, 
+  {
+   "begin": "153.160", 
+   "children": [], 
+   "end": "154.640", 
+   "id": "s000049", 
+   "language": "deu", 
+   "lines": [
+    "und in die Leiharbeit, "
+   ]
+  }, 
+  {
+   "begin": "154.640", 
+   "children": [], 
+   "end": "157.360", 
+   "id": "s000050", 
+   "language": "deu", 
+   "lines": [
+    "die ihren historischen H\u00f6chststand erreicht hat. "
+   ]
+  }, 
+  {
+   "begin": "157.360", 
+   "children": [], 
+   "end": "162.160", 
+   "id": "s000051", 
+   "language": "deu", 
+   "lines": [
+    "Dass Sie vor diesem Hintergrund von der besten Arbeitsmarktlage reden, "
+   ]
+  }, 
+  {
+   "begin": "162.160", 
+   "children": [], 
+   "end": "165.120", 
+   "id": "s000052", 
+   "language": "deu", 
+   "lines": [
+    "das ist der blanke Hohn und Spott f\u00fcr viele,"
+   ]
+  }, 
+  {
+   "begin": "165.120", 
+   "children": [], 
+   "end": "172.040", 
+   "id": "s000053", 
+   "language": "deu", 
+   "lines": [
+    "die unter schlechten Arbeitsbedingungen und L\u00f6hnen leiden und genauso unter der schlechten Perspektive f\u00fcr ihre Renten."
+   ]
+  }, 
+  {
+   "begin": "172.040", 
+   "children": [], 
+   "end": "176.760", 
+   "id": "s000054", 
+   "language": "deu", 
+   "lines": [
+    "Das Ziel der Vollzeitbesch\u00e4ftigung ist richtig. "
+   ]
+  }, 
+  {
+   "begin": "176.760", 
+   "children": [], 
+   "end": "180.280", 
+   "id": "s000055", 
+   "language": "deu", 
+   "lines": [
+    "Aber Vollzeitbesch\u00e4ftigung alleine reicht nicht aus; "
+   ]
+  }, 
+  {
+   "begin": "180.280", 
+   "children": [], 
+   "end": "184.560", 
+   "id": "s000056", 
+   "language": "deu", 
+   "lines": [
+    "denn Vollzeitbesch\u00e4ftigung sagt noch nichts \u00fcber die Qualit\u00e4t von Arbeit aus und dar\u00fcber, "
+   ]
+  }, 
+  {
+   "begin": "184.560", 
+   "children": [], 
+   "end": "186.320", 
+   "id": "s000057", 
+   "language": "deu", 
+   "lines": [
+    "ob man davon leben kann. "
+   ]
+  }, 
+  {
+   "begin": "186.320", 
+   "children": [], 
+   "end": "189.040", 
+   "id": "s000058", 
+   "language": "deu", 
+   "lines": [
+    "In den letzten zehn Jahren hat sich die Anzahl der Menschen, "
+   ]
+  }, 
+  {
+   "begin": "189.040", 
+   "children": [], 
+   "end": "190.800", 
+   "id": "s000059", 
+   "language": "deu", 
+   "lines": [
+    "die trotz Arbeit arm sind, "
+   ]
+  }, 
+  {
+   "begin": "190.800", 
+   "children": [], 
+   "end": "192.000", 
+   "id": "s000060", 
+   "language": "deu", 
+   "lines": [
+    "verdoppelt. "
+   ]
+  }, 
+  {
+   "begin": "192.000", 
+   "children": [], 
+   "end": "194.000", 
+   "id": "s000061", 
+   "language": "deu", 
+   "lines": [
+    "Die Ungleichheit der Einkommen w\u00e4chst. "
+   ]
+  }, 
+  {
+   "begin": "194.000", 
+   "children": [], 
+   "end": "196.680", 
+   "id": "s000062", 
+   "language": "deu", 
+   "lines": [
+    "Wor\u00fcber wir hier doch endlich reden m\u00fcssten, "
+   ]
+  }, 
+  {
+   "begin": "196.680", 
+   "children": [], 
+   "end": "197.880", 
+   "id": "s000063", 
+   "language": "deu", 
+   "lines": [
+    "das sind die Bedingungen, "
+   ]
+  }, 
+  {
+   "begin": "197.880", 
+   "children": [], 
+   "end": "199.960", 
+   "id": "s000064", 
+   "language": "deu", 
+   "lines": [
+    "unter denen die Menschen in diesem Land arbeiten,"
+   ]
+  }, 
+  {
+   "begin": "199.960", 
+   "children": [], 
+   "end": "205.120", 
+   "id": "s000065", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die Paketzustellerin, "
+   ]
+  }, 
+  {
+   "begin": "205.120", 
+   "children": [], 
+   "end": "206.880", 
+   "id": "s000066", 
+   "language": "deu", 
+   "lines": [
+    "deren Arbeitstag kein Ende findet, "
+   ]
+  }, 
+  {
+   "begin": "206.880", 
+   "children": [], 
+   "end": "208.160", 
+   "id": "s000067", 
+   "language": "deu", 
+   "lines": [
+    "mit einer Arbeitsbelastung, "
+   ]
+  }, 
+  {
+   "begin": "208.160", 
+   "children": [], 
+   "end": "209.640", 
+   "id": "s000068", 
+   "language": "deu", 
+   "lines": [
+    "die auf Dauer krankmacht, "
+   ]
+  }, 
+  {
+   "begin": "209.640", 
+   "children": [], 
+   "end": "211.680", 
+   "id": "s000069", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber die Verk\u00e4uferin in Teilzeit, "
+   ]
+  }, 
+  {
+   "begin": "211.680", 
+   "children": [], 
+   "end": "212.320", 
+   "id": "s000070", 
+   "language": "deu", 
+   "lines": [
+    "die nicht wei\u00df, "
+   ]
+  }, 
+  {
+   "begin": "212.320", 
+   "children": [], 
+   "end": "215.320", 
+   "id": "s000071", 
+   "language": "deu", 
+   "lines": [
+    "wie lange sie sich ihre Wohnung noch leisten kann, "
+   ]
+  }, 
+  {
+   "begin": "215.320", 
+   "children": [], 
+   "end": "216.440", 
+   "id": "s000072", 
+   "language": "deu", 
+   "lines": [
+    "\u00fcber den Lehrer, "
+   ]
+  }, 
+  {
+   "begin": "216.440", 
+   "children": [], 
+   "end": "224.040", 
+   "id": "s000073", 
+   "language": "deu", 
+   "lines": [
+    "der sich von Befristung zu Befristung hangelt und oftmals nur mit Hartz\u00a0IV \u00fcber den Sommer kommt."
+   ]
+  }, 
+  {
+   "begin": "224.040", 
+   "children": [], 
+   "end": "229.200", 
+   "id": "s000074", 
+   "language": "deu", 
+   "lines": [
+    "J\u00e4hrlich leisten Besch\u00e4ftigte in Deutschland \u00fcber 1,7\u00a0Milliarden \u00dcberstunden, "
+   ]
+  }, 
+  {
+   "begin": "229.200", 
+   "children": [], 
+   "end": "232.800", 
+   "id": "s000075", 
+   "language": "deu", 
+   "lines": [
+    "fast 1\u00a0Milliarde davon unbezahlt. "
+   ]
+  }, 
+  {
+   "begin": "232.800", 
+   "children": [], 
+   "end": "238.720", 
+   "id": "s000076", 
+   "language": "deu", 
+   "lines": [
+    "Das bedeutet eine ungeheuerliche Entwertung von geleisteter Arbeit und eine Enteignung der Besch\u00e4ftigten, "
+   ]
+  }, 
+  {
+   "begin": "238.720", 
+   "children": [], 
+   "end": "240.560", 
+   "id": "s000077", 
+   "language": "deu", 
+   "lines": [
+    "mit der endlich Schluss sein muss."
+   ]
+  }, 
+  {
+   "begin": "240.560", 
+   "children": [], 
+   "end": "246.120", 
+   "id": "s000078", 
+   "language": "deu", 
+   "lines": [
+    "Deshalb: "
+   ]
+  }, 
+  {
+   "begin": "246.120", 
+   "children": [], 
+   "end": "249.240", 
+   "id": "s000079", 
+   "language": "deu", 
+   "lines": [
+    "Erh\u00f6hen Sie endlich den Mindestlohn auf 12\u00a0Euro, "
+   ]
+  }, 
+  {
+   "begin": "249.240", 
+   "children": [], 
+   "end": "251.200", 
+   "id": "s000080", 
+   "language": "deu", 
+   "lines": [
+    "und schaffen Sie die Ausnahmen ab."
+   ]
+  }, 
+  {
+   "begin": "251.200", 
+   "children": [], 
+   "end": "253.840", 
+   "id": "s000081", 
+   "language": "deu", 
+   "lines": [
+    "Stoppen Sie den Missbrauch bei der Leiharbeit. "
+   ]
+  }, 
+  {
+   "begin": "253.840", 
+   "children": [], 
+   "end": "255.960", 
+   "id": "s000082", 
+   "language": "deu", 
+   "lines": [
+    "Beenden Sie den Befristungswahn, "
+   ]
+  }, 
+  {
+   "begin": "255.960", 
+   "children": [], 
+   "end": "260.320", 
+   "id": "s000083", 
+   "language": "deu", 
+   "lines": [
+    "und lassen Sie uns endlich \u00fcber Konzepte zur gerechteren Verteilung von Arbeit sprechen, "
+   ]
+  }, 
+  {
+   "begin": "260.320", 
+   "children": [], 
+   "end": "262.840", 
+   "id": "s000084", 
+   "language": "deu", 
+   "lines": [
+    "gerade vor dem Hintergrund der Digitalisierung."
+   ]
+  }, 
+  {
+   "begin": "262.840", 
+   "children": [], 
+   "end": "269.560", 
+   "id": "s000085", 
+   "language": "deu", 
+   "lines": [
+    "Dann k\u00f6nnen Sie n\u00e4mlich nicht nur sch\u00f6ne Zahlen pr\u00e4sentieren, "
+   ]
+  }, 
+  {
+   "begin": "269.560", 
+   "children": [], 
+   "end": "275.760", 
+   "id": "s000086", 
+   "language": "deu", 
+   "lines": [
+    "sondern auch die reale Situation der Menschen tats\u00e4chlich und sp\u00fcrbar verbessern."
+   ]
+  }, 
+  {
+   "begin": "275.760", 
+   "children": [], 
+   "end": "276.560", 
+   "id": "s000087", 
+   "language": "deu", 
+   "lines": [
+    "Vielen Dank."
+   ]
+  }, 
+  {
+   "begin": "276.560", 
+   "children": [], 
+   "end": "286.960", 
+   "id": "s000088", 
+   "language": "deu", 
+   "lines": [
+    "F\u00fcr B\u00fcndnis\u00a090/Die Gr\u00fcnen hat das Wort der Kollege Dr.\u00a0Wolfgang Strengmann-Kuhn."
+   ]
+  }
+ ]
+}
